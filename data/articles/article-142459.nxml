@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-142459" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Polymerase Chain Reaction (PCR)</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Khehra</surname>
+            <given-names>Nimrat</given-names>
+          </name>
+          <aff>Saint James School of Medicine</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Padda</surname>
+            <given-names>Inderbir S.</given-names>
+          </name>
+          <aff>Richmond University Medical Center/Mount Sinai</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Swift</surname>
+            <given-names>Cathi J.</given-names>
+          </name>
+          <aff>Hastings College/North Colorado Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Nimrat Khehra declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Inderbir Padda declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Cathi Swift declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>6</day>
+          <month>3</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-142459.s1" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>The polymerase chain reaction (PCR) is a laboratory nucleic acid amplification technique used to denature and renature short segments of DNA using DNA polymerase I enzyme, an isolate from Thermus aquaticus, known as Taq polymerase.<xref ref-type="bibr" rid="article-142459.r1">[1]</xref><xref ref-type="bibr" rid="article-142459.r2">[2]</xref>&#x000a0;In 1985, PCR was introduced by Mullis et al, who were later awarded the Nobel Prize for their work.<xref ref-type="bibr" rid="article-142459.r3">[3]</xref> PCR&#x000a0;is a monumental tool used in biomolecular sciences for its profound ability to examine and detect amplified components of DNA.<xref ref-type="bibr" rid="article-142459.r2">[2]</xref></p>
+        <p>PCR is a procedure that selectively focuses on a minuscule segment of DNA in a test tube.<xref ref-type="bibr" rid="article-142459.r1">[1]</xref><xref ref-type="bibr" rid="article-142459.r4">[4]</xref>&#x000a0;Thermostability can resist irreversible alterations in chemical and physical properties in extreme temperatures.<xref ref-type="bibr" rid="article-142459.r1">[1]</xref> After several cycles of denaturation and renaturation in PCR procedures, Taq polymerase is preferred because of its heat-stable properties, enabling continued DNA synthesis even with the exposure of primers.<xref ref-type="bibr" rid="article-142459.r1">[1]</xref><xref ref-type="bibr" rid="article-142459.r2">[2]</xref>&#x000a0;PCR is widely used in diagnosing bacterial and viral infections and in screening for genetic disorders due to its high sensitivity, making it the gold standard testing procedure for numerous samples.<xref ref-type="bibr" rid="article-142459.r3">[3]</xref></p>
+      </sec>
+      <sec id="article-142459.s2" sec-type="Testing Procedures">
+        <title>Testing Procedures</title>
+        <p>PCR&#x000a0;procedures begin by collecting a small DNA sample in a test tube.<xref ref-type="bibr" rid="article-142459.r4">[4]</xref>&#x000a0;The PCR consists of&#x000a0;3 major phases&#x02014;denaturation, hybridization&#x000a0;or annealing, and elongation&#x000a0;or amplification.<xref ref-type="bibr" rid="article-142459.r1">[1]</xref>&#x000a0;During the denaturation phase, DNA is heated to 95 &#x000b0;C to dissociate the hydrogen bonds between complementary base pairs of the double-stranded DNA.<xref ref-type="bibr" rid="article-142459.r1">[1]</xref>&#x000a0;Immediately after denaturation, the annealing process occurs; annealing involves cooling the denatured DNA at a temperature ranging from 37 to 72 &#x000b0;C, allowing the hydrogen bonds to reform.<xref ref-type="bibr" rid="article-142459.r4">[4]</xref>&#x000a0;Annealing best occurs at temperatures between 55 and 72 &#x000b0;C.<xref ref-type="bibr" rid="article-142459.r1">[1]</xref></p>
+        <p>The specific temperature is determined based on the physical and chemical properties of the specific primers used in the solution.<xref ref-type="bibr" rid="article-142459.r3">[3]</xref>&#x000a0;Primers are 20&#x000a0;to 25 nucleotides in length.<xref ref-type="bibr" rid="article-142459.r5">[5]</xref>&#x000a0;Annealing allows the primers to bind to the single-stranded DNA at their respective complementary sites beginning at the 3&#x02019; end of the DNA template.<xref ref-type="bibr" rid="article-142459.r1">[1]</xref><xref ref-type="bibr" rid="article-142459.r3">[3]</xref>&#x000a0;Subsequently, the binding of the primers to their complementary sites on single-stranded DNA generates 2 double-stranded molecules. Finally, an optimal reaction temperature, 75&#x000a0;to 80 &#x000b0;C, best suitable for enzyme-induced DNA replication, is selected to ensure DNA polymerase activity.<xref ref-type="bibr" rid="article-142459.r3">[3]</xref></p>
+        <p>For DNA polymerase to function, double-stranded DNA is essential to initiate replication.<xref ref-type="bibr" rid="article-142459.r3">[3]</xref> The enzyme then synthesizes new DNA strands in a 5&#x02032; to 3&#x02032; direction, producing strands identical to the template strands.<xref ref-type="bibr" rid="article-142459.r3">[3]</xref>&#x000a0;This process&#x000a0;is repeated several times using a thermal cycler.<xref ref-type="bibr" rid="article-142459.r5">[5]</xref>&#x000a0;A thermal cycler is a device that controls the time and temperature of each cycle and its respective steps.<xref ref-type="bibr" rid="article-142459.r5">[5]</xref>&#x000a0;This process results in the amplification of multiple copies of the target DNA within the tube.<xref ref-type="bibr" rid="article-142459.r1">[1]</xref></p>
+        <p>After 30&#x000a0;to 40 cycles, repetitive cycles eventually taper off due to the limited capability of the reagent&#x000a0;and other contributing factors such as accumulation of pyrophosphate molecules, excessive self-annealing, and the presence of PCR inhibitors in the sample.<xref ref-type="bibr" rid="article-142459.r3">[3]</xref>&#x000a0;Several inhibitors can affect the proper functioning of PCR. The most common PCR inhibitors are proteinase K, phenol, and EDTA.<xref ref-type="bibr" rid="article-142459.r5">[5]</xref></p>
+        <p>Proteinase K has the propensity to degrade Taq polymerase.<xref ref-type="bibr" rid="article-142459.r5">[5]</xref>&#x000a0;Other substances negatively impacting PCR tests are ionic detergents, heparin, spermidine, and hemoglobin.<xref ref-type="bibr" rid="article-142459.r5">[5]</xref>&#x000a0;In addition, bromophenol dyes and xylene cyanol can constitute complications in PCR testing.<xref ref-type="bibr" rid="article-142459.r5">[5]</xref>&#x000a0;To overcome these issues, DNA templates can be cleansed by dialysis and precipitation by ethanol. Several other strategies to clean the DNA template include using chloroform for extraction purposes and chromatography.<xref ref-type="bibr" rid="article-142459.r5">[5]</xref></p>
+        <p>After PCR amplification, agarose gel electrophoresis with ethidium bromide staining is typically performed to visualize the DNA.<xref ref-type="bibr" rid="article-142459.r1">[1]</xref>&#x000a0;The gel is then assessed in ultraviolet light.<xref ref-type="bibr" rid="article-142459.r1">[1]</xref> An essential step in this procedure involves verifying the specificity of the results by transferring the DNA to a filter and using a probe, such as in Southern blot hybridization.<xref ref-type="bibr" rid="article-142459.r1">[1]</xref> This step also helps eliminate nonspecific amplification, such as primer dimers.<xref ref-type="bibr" rid="article-142459.r1">[1]</xref></p>
+        <p>Using PCR in basic and biomedical sciences offers several advantages. Over the years, it has acquired a renowned reputation, making it the gold standard procedure for various applications.<xref ref-type="bibr" rid="article-142459.r1">[1]</xref> PCR is known for its ability to produce rapid results in a time-efficient manner; the PCR procedure typically requires a few hours to 3 days to generate results.<xref ref-type="bibr" rid="article-142459.r1">[1]</xref>&#x000a0;A small sample of DNA or RNA (0.1-5 mcg) is required to undergo this reaction.<xref ref-type="bibr" rid="article-142459.r1">[1]</xref>&#x000a0;PCR also has the susceptibility to amplify 106 to 109 copies of DNA in a short period.<xref ref-type="bibr" rid="article-142459.r1">[1]</xref>&#x000a0;PCR can generate efficient amplification products following cloning and expression due to the presence of restriction sites at terminal ends.<xref ref-type="bibr" rid="article-142459.r1">[1]</xref>&#x000a0;</p>
+        <p>
+<bold>Real-time PCR</bold>
+</p>
+        <p>Real-time PCR is an alternative method for analyzing small DNA segments through the shortened duration of the cycles, elimination of post-PCR procedural handling steps, implementation of fluorogenic labels, and efficient detection of emissions.<xref ref-type="bibr" rid="article-142459.r6">[6]</xref>&#x000a0;The discrete difference between real-time PCR and conventional PCR is the ability of real-time PCR to detect amplicons rapidly.<xref ref-type="bibr" rid="article-142459.r6">[6]</xref>&#x000a0;The rapid detection of amplicons in real-time PCR is accomplished&#x000a0;through surveillance by labeling primers and fluorogenic molecules consisting of probes or amplicons.<xref ref-type="bibr" rid="article-142459.r6">[6]</xref></p>
+        <p>The disadvantage of real-time PCR compared to conventional PCR is that it requires opening the system to track the progression of amplicons.<xref ref-type="bibr" rid="article-142459.r6">[6]</xref>&#x000a0;In addition, a few fluorogenic chemicals are incompatible with the real-time PCR platforms.<xref ref-type="bibr" rid="article-142459.r6">[6]</xref>&#x000a0;Lastly, it is more expensive compared to conventional PCR. The aforementioned disadvantage of real-time PCR is predominantly due to the hardware incompatibilities and the accessibility of fluorogenic dyes.<xref ref-type="bibr" rid="article-142459.r6">[6]</xref></p>
+        <p>
+<bold>Reverse Transcriptase PCR&#x000a0;</bold>
+</p>
+        <p>Reverse transcription&#x000a0;PCR (RT-PCR) is a procedure that uses messenger RNA for DNA amplification&#x000a0;using DNA polymerase.<xref ref-type="bibr" rid="article-142459.r3">[3]</xref>&#x000a0;The DNA polymerase in RT-PCR is derived from retroviruses that contain RNA,&#x000a0;generating&#x000a0;complementary DNA. RT-PCR can be used in conjunction with conventional PCR to analyze specific gene expressions qualitatively.<xref ref-type="bibr" rid="article-142459.r3">[3]</xref></p>
+        <p>Real-time PCR and RT-PCR are employed simultaneously to assess the quantitative difference in gene expression among various samples.<xref ref-type="bibr" rid="article-142459.r3">[3]</xref> During the COVID-19 pandemic, RT-PCR has been the primary diagnostic tool due to its high sensitivity, specificity, and rapidity.<xref ref-type="bibr" rid="article-142459.r7">[7]</xref>&#x000a0;SARS-CoV-2 samples are generally acquired from various sites in the upper respiratory tract.<xref ref-type="bibr" rid="article-142459.r7">[7]</xref></p>
+        <p>Samples for PCR testing may be acquired from the nasopharynx, oropharynx, nostril, and oral cavity.<xref ref-type="bibr" rid="article-142459.r7">[7]</xref>&#x000a0;The samples are collected through swabs, washes, and bronchoalveolar lavage.<xref ref-type="bibr" rid="article-142459.r7">[7]</xref></p>
+      </sec>
+      <sec id="article-142459.s3" sec-type="Interfering Factors">
+        <title>Interfering Factors</title>
+        <p>PCR&#x000a0;has a few notable drawbacks. This test is susceptible and can detect even minor contamination in DNA or RNA, potentially leading to inaccurate results.<xref ref-type="bibr" rid="article-142459.r3">[3]</xref>&#x000a0;The primers designed for PCR require sequences to detect specific pathogens and genes.<xref ref-type="bibr" rid="article-142459.r3">[3]</xref>&#x000a0;The occasional nonspecific annealing of primers to similar, but not exact, target genes is another interfering factor.<xref ref-type="bibr" rid="article-142459.r3">[3]</xref>&#x000a0;The potential development of primer-dimers amplified by DNA polymerase can result in competition with PCR reagents.<xref ref-type="bibr" rid="article-142459.r3">[3]</xref></p>
+      </sec>
+      <sec id="article-142459.s4" sec-type="Results, Reporting, and Critical Findings&#x0000d;&#x0000a;">
+        <title>Results, Reporting, and Critical Findings
+</title>
+        <p>In PCR, amplification of DNA can be observed using fluorescent dyes that bind to double-stranded DNA or sequence-specific probes.&#x000a0;The amplification reaction consists of a quantification cycle, Cq.&#x000a0;Cq is the number of fractional cycles required for fluorescence to reach a threshold level for quantification.<xref ref-type="bibr" rid="article-142459.r8">[8]</xref></p>
+        <p>After determining Cq, a qualitative conclusion can be deduced, or a quantitative analysis may be further conducted.&#x000a0;Cq depends on PCR efficiency; PCR efficiency involves assessing the amplification efficiency, which is explained as a fold increase&#x000a0;per cycle with a fold value ranging from 1 to 2, with a fold value of 2 indicating 100% PCR efficiency. PCR efficiency is derived from standard and amplification curves.<xref ref-type="bibr" rid="article-142459.r8">[8]</xref></p>
+        <p>Standard curve PCR efficiency increases the likelihood of dilution errors, ultimately affecting the accurate quantification of several clinical and biological samples.&#x000a0;However, individual amplification curves do not include confounding variables for the analysis of PCR efficiency, resulting in varying results compared to standard curves for the same assay.&#x000a0;Accurate computation of the target quantity is essential for appropriate amplification efficiency, which&#x000a0;is reflected in the analysis.<xref ref-type="bibr" rid="article-142459.r8">[8]</xref></p>
+        <p>A low PCR efficiency requires additional cycles to reach an appropriate quantification threshold, resulting in a higher Cq. After using a valid probe-based assay, the presence of amplification indicates that the sample contains the particular target, leading to a positive diagnosis.&#x000a0;Due to the Poisson variation, the lack of amplification is not a valid criterion for classifying a reaction as negative.<xref ref-type="bibr" rid="article-142459.r8">[8]</xref></p>
+        <p>As mentioned earlier, qPCR measures DNA or RNA in various diagnostic and biological samples through the Cq. qPCR is often computed assuming all assays are 100% efficient. In addition, reporting of qPCR involves Cq, delta-Cq, or delta-delta-Cq. Efficiency correction should be used in qPCR testing to significantly and purposefully interpret biological, clinical, and diagnostic samples.&#x000a0;Thus, it is essential to consider these factors when analyzing and reporting PCR efficiency to yield adequate results.<xref ref-type="bibr" rid="article-142459.r8">[8]</xref></p>
+        <p>The stage and degree of a patient's ailment can be reckoned&#x000a0;using&#x000a0;cycle threshold (Ct) values concurrently with clinical manifestations and disease history. Moreover, healthcare professionals can further monitor the progression of diseases and foreshadow steps to recover and resolve ailment by repeating the PCR test and generating serial Ct values. Ct values can also aid contact tracers in focusing on patients with a more elevated viral genomic load, signifying a higher risk for disease transmission.<xref ref-type="bibr" rid="article-142459.r9">[9]</xref></p>
+      </sec>
+      <sec id="article-142459.s5" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>PCR is widely used in basic and biomedical sciences due to its high sensitivity, specificity, and rapid processing time, making it valuable in both laboratory and clinical settings.<xref ref-type="bibr" rid="article-142459.r1">[1]</xref><xref ref-type="bibr" rid="article-142459.r4">[4]</xref><xref ref-type="bibr" rid="article-142459.r10">[10]</xref>&#x000a0;This technique<bold>&#x000a0;</bold>has been frequently used to recognize various viral infectious disease microorganisms. Some of the viral pathogens detected via PCR include human papillomavirus, HIV, herpes simplex virus, SARS-CoV-2, varicella-zoster virus, enterovirus, cytomegalovirus, and hepatitis B, hepatitis&#x000a0;C, hepatitis&#x000a0;D, and hepatitis&#x000a0;E.<xref ref-type="bibr" rid="article-142459.r1">[1]</xref><xref ref-type="bibr" rid="article-142459.r3">[3]</xref><xref ref-type="bibr" rid="article-142459.r11">[11]</xref><xref ref-type="bibr" rid="article-142459.r7">[7]</xref>&#x000a0;The presence of bacterial, fungal, and parasitic organisms and various immunodeficiencies can be detected through PCR, making it an instrumental tool in clinical diagnoses and practice.<xref ref-type="bibr" rid="article-142459.r1">[1]</xref></p>
+        <p>The rapid identification of microbial pathogens through rapid real-time PCR allows clinicians to promptly provide tailored treatment, thus reducing hospitalizations and preventing inappropriate administration of antibiotics and, in turn, antibiotic resistance.<xref ref-type="bibr" rid="article-142459.r6">[6]</xref>&#x000a0;Real-time PCR has the propensity to detect specific bacterial species, such as <italic toggle="yes">Mycobacterium</italic> species,&#x000a0;<italic toggle="yes">Leptospira</italic> genospecies, chlamydia species, <italic toggle="yes">Legionella pneumophila</italic>, <italic toggle="yes">Listeria monocytogenes</italic>, and <italic toggle="yes">Neisseria meningitidis</italic>.<xref ref-type="bibr" rid="article-142459.r6">[6]</xref>&#x000a0;Real-time PCR has also proven to effectively detect and examine antibiotic-resistant strains, such as <italic toggle="yes">Staphylococcus aureus</italic>, <italic toggle="yes">Staphylococcus epidermidis</italic>, <italic toggle="yes">Helicobacter pylori</italic>, and <italic toggle="yes">Enterococcus</italic>.<xref ref-type="bibr" rid="article-142459.r6">[6]</xref>&#x000a0;Furthermore, fulminant diseases are also detected and examined early due to the high sensitivity, specificity, and rapidity of the real-time PCR test, making it the ideal procedure for medical conditions such as meningitis, sepsis, and inflammatory bowel diseases.<xref ref-type="bibr" rid="article-142459.r6">[6]</xref></p>
+        <p>Additional microbial pathogens infamous for causing foodborne-related illnesses, such as group B <italic toggle="yes">Streptococci</italic>,&#x000a0;<italic toggle="yes">Mycobacterium</italic> species, <italic toggle="yes">Bacteroides vulgatus</italic>, and <italic toggle="yes">Escherichia coli</italic>, can also be identified through real-time PCR testing.<xref ref-type="bibr" rid="article-142459.r6">[6]</xref> The rapid nature of real-time PCR allows for early detection, aiding in source tracing and helping to control current and potential outbreaks.<xref ref-type="bibr" rid="article-142459.r6">[6]</xref>&#x000a0;Fungal, parasitic, and protozoan pathogens, such as&#x000a0;<italic toggle="yes">Aspergillus fumigatus</italic>,&#x000a0;<italic toggle="yes">Aspergillus flavus</italic>,&#x000a0;<italic toggle="yes">Cryptosporidium parvum</italic>, and&#x000a0;<italic toggle="yes">Toxoplasma gondii, </italic>have also been identified on real-time PCR testing.<xref ref-type="bibr" rid="article-142459.r6">[6]</xref></p>
+        <p>PCR is also used to study the histopathology of various viral and cellular genes to comprehend and diagnose malignant human diseases.<xref ref-type="bibr" rid="article-142459.r1">[1]</xref>&#x000a0;In addition, PCR has been used to analyze forensic samples, point mutations, DNA sequencing, and in vitro mutagenesis.<xref ref-type="bibr" rid="article-142459.r1">[1]</xref><xref ref-type="bibr" rid="article-142459.r5">[5]</xref>&#x000a0;This technique has a rapid propensity to screen and detect specific alleles, which is ideal for prenatal genetic testing for carrier status.<xref ref-type="bibr" rid="article-142459.r3">[3]</xref>&#x000a0;PCR also can detect the presence of disease and mutations in utero and adults.<xref ref-type="bibr" rid="article-142459.r12">[12]</xref></p>
+      </sec>
+      <sec id="article-142459.s6" sec-type="Quality Control and Lab Safety&#x0000d;&#x0000a;">
+        <title>Quality Control and Lab Safety
+</title>
+        <p>
+<bold>Contamination of PCR</bold>
+</p>
+        <p>Due to its promising results, conventional PCR is the gold standard for screening and detecting a wide scope of scientific areas of interest. Adequate handling following PCR procedure is imperative for proper assessment of amplicon.<xref ref-type="bibr" rid="article-142459.r6">[6]</xref>&#x000a0;However, in conventional PCR, post-procedural improper handling can lead to the proliferation of amplicons within the laboratories.<xref ref-type="bibr" rid="article-142459.r6">[6]</xref></p>
+        <p>To prevent contamination of PCR, it is crucial to have a designated area of the laboratory exclusive for PCR testing to limit unnecessary turbulence within the area.<xref ref-type="bibr" rid="article-142459.r5">[5]</xref>&#x000a0;Face masks, gloves, and hair caps should always be worn in the laboratory to prevent contamination.<xref ref-type="bibr" rid="article-142459.r5">[5]</xref>&#x000a0;Preparation and storage of solutions in equipment such as pipettes, glassware, and plasticware should not be contaminated or exposed to DNA.<xref ref-type="bibr" rid="article-142459.r5">[5]</xref></p>
+        <p>A specific section in a freezer closest to the laminar flow hood should contain enzymes and buffers.<xref ref-type="bibr" rid="article-142459.r5">[5]</xref>&#x000a0;Use of any reagents should be discarded immediately.<xref ref-type="bibr" rid="article-142459.r5">[5]</xref>&#x000a0;A laminar flow hood with ultraviolet lights is the ideal location in a laboratory to perform PCR.<xref ref-type="bibr" rid="article-142459.r10">[10]</xref> Equipment such as pipettes, sterile gloves, and microcentrifuge should be in the laminar flow hood.<xref ref-type="bibr" rid="article-142459.r5">[5]</xref></p>
+        <p>Automatic pipettes are known to cause contamination. Thus, positive displacement pipettes should be used for the proper handling of the reagents.<xref ref-type="bibr" rid="article-142459.r5">[5]</xref>&#x000a0;Any disposable laboratory equipment, such as pipette tips and tubes, should not be autoclaved before use.<xref ref-type="bibr" rid="article-142459.r5">[5]</xref>&#x000a0;In addition, disposable equipment should be used directly from its respective packaging.<xref ref-type="bibr" rid="article-142459.r5">[5]</xref></p>
+        <p>Before&#x000a0;using microcentrifuge tubes consisting of reagents exclusively for PCR, centrifugation is required for approximately 10 seconds to allow the fluid to settle at the bottom of the tube, preventing contamination.<xref ref-type="bibr" rid="article-142459.r5">[5]</xref>&#x000a0;Post-amplification techniques should be completed at a laboratory bench instead of the designated area for PCR testing.<xref ref-type="bibr" rid="article-142459.r5">[5]</xref></p>
+      </sec>
+      <sec id="article-142459.s7" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Efficient use of PCR by the interprofessional healthcare team can lead to early detection of bacterial and viral pathogens, prompting earlier treatments. This approach can also further aid in preventing antibiotic resistance and viral outbreaks, respectively. The interprofessional healthcare team comprises a primary care clinician, pathologist, infectious disease specialist, lab technician, and nurses.</p>
+        <p>The&#x000a0;PCR is a nucleic acid amplification technique that involves denaturing, renaturing, elongating, and amplifying a short segment of DNA or RNA. This process utilizes DNA polymerase derived from <italic toggle="yes">Thermus aquaticus</italic>, commonly known as Taq polymerase. Taq polymerase&#x000a0;has thermostable properties that prevent the irreversible alteration of the DNA or RNA's physical and chemical properties, making it ideal for the susceptible&#x000a0;PCR&#x000a0;method for diagnosing a wide range of bacterial and viral infections and screening genetic diseases.</p>
+        <p>Laboratory technicians should be fully trained in safely handling and using samples to ensure quality and prevent contamination. Face masks, gloves, and hair caps should always be worn in the laboratory. Storage of solutions in their respective equipment, such as pipettes, glassware, and plasticware, should be performed with caution to prevent DNA from being exposed and contaminated. The interprofessional team should be up to date with the latest guidelines and management strategies for patients with confirmed communicable diseases.</p>
+        <p>This integrated team-based approach provides care coordination from all interprofessional team members to further advance the health of patients suffering from infectious diseases. Patients should also be thoroughly informed on laboratory findings and counseled on preventative measures and the importance of medication compliance. Patients should also be educated on disease transmission and preventive measures they can incorporate to ensure public health and safety. Continuous communication between the healthcare team and their patients can help form a therapeutic alliance to prevent complications and spread of infectious disease, ensure patient and public safety, and preserve the quality of life.</p>
+      </sec>
+      <sec id="article-142459.s8">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=142459&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=142459">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/142459/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=142459">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-142459.s9">
+        <title>References</title>
+        <ref id="article-142459.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ramesh</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Munshi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Panda</surname>
+                <given-names>SK</given-names>
+              </name>
+            </person-group>
+            <article-title>Polymerase chain reaction.</article-title>
+            <source>Natl Med J India</source>
+            <year>1992</year>
+            <season>May-Jun</season>
+            <volume>5</volume>
+            <issue>3</issue>
+            <fpage>115</fpage>
+            <page-range>115-9</page-range>
+            <pub-id pub-id-type="pmid">1304285</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-142459.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lorenz</surname>
+                <given-names>TC</given-names>
+              </name>
+            </person-group>
+            <article-title>Polymerase chain reaction: basic protocol plus troubleshooting and optimization strategies.</article-title>
+            <source>J Vis Exp</source>
+            <year>2012</year>
+            <month>May</month>
+            <day>22</day>
+            <issue>63</issue>
+            <fpage>e3998</fpage>
+            <pub-id pub-id-type="pmid">22664923</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-142459.r3">
+          <label>3</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Ghannam</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Varacallo</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Biochemistry, Polymerase Chain Reaction</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>7</month>
+            <day>30</day>
+            <pub-id pub-id-type="pmid">30571074</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-142459.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Markham</surname>
+                <given-names>AF</given-names>
+              </name>
+            </person-group>
+            <article-title>The polymerase chain reaction: a tool for molecular medicine.</article-title>
+            <source>BMJ</source>
+            <year>1993</year>
+            <month>Feb</month>
+            <day>13</day>
+            <volume>306</volume>
+            <issue>6875</issue>
+            <fpage>441</fpage>
+            <page-range>441-6</page-range>
+            <pub-id pub-id-type="pmid">8096415</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-142459.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Green</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Sambrook</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Polymerase Chain Reaction.</article-title>
+            <source>Cold Spring Harb Protoc</source>
+            <year>2019</year>
+            <month>Jun</month>
+            <day>03</day>
+            <volume>2019</volume>
+            <issue>6</issue>
+            <pub-id pub-id-type="pmid">31160389</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-142459.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mackay</surname>
+                <given-names>IM</given-names>
+              </name>
+              <name>
+                <surname>Arden</surname>
+                <given-names>KE</given-names>
+              </name>
+              <name>
+                <surname>Nitsche</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Real-time PCR in virology.</article-title>
+            <source>Nucleic Acids Res</source>
+            <year>2002</year>
+            <month>Mar</month>
+            <day>15</day>
+            <volume>30</volume>
+            <issue>6</issue>
+            <fpage>1292</fpage>
+            <page-range>1292-305</page-range>
+            <pub-id pub-id-type="pmid">11884626</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-142459.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Islam</surname>
+                <given-names>KU</given-names>
+              </name>
+              <name>
+                <surname>Iqbal</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>An Update on Molecular Diagnostics for COVID-19.</article-title>
+            <source>Front Cell Infect Microbiol</source>
+            <year>2020</year>
+            <volume>10</volume>
+            <fpage>560616</fpage>
+            <pub-id pub-id-type="pmid">33244462</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-142459.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ruijter</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Barnewall</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Marsh</surname>
+                <given-names>IB</given-names>
+              </name>
+              <name>
+                <surname>Szentirmay</surname>
+                <given-names>AN</given-names>
+              </name>
+              <name>
+                <surname>Quinn</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>van Houdt</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Gunst</surname>
+                <given-names>QD</given-names>
+              </name>
+              <name>
+                <surname>van den Hoff</surname>
+                <given-names>MJB</given-names>
+              </name>
+            </person-group>
+            <article-title>Efficiency Correction Is Required for Accurate Quantitative PCR Analysis and Reporting.</article-title>
+            <source>Clin Chem</source>
+            <year>2021</year>
+            <month>Jun</month>
+            <day>01</day>
+            <volume>67</volume>
+            <issue>6</issue>
+            <fpage>829</fpage>
+            <page-range>829-842</page-range>
+            <pub-id pub-id-type="pmid">33890632</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-142459.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Rabaan</surname>
+                <given-names>AA</given-names>
+              </name>
+              <name>
+                <surname>Tirupathi</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Sule</surname>
+                <given-names>AA</given-names>
+              </name>
+              <name>
+                <surname>Aldali</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Mutair</surname>
+                <given-names>AA</given-names>
+              </name>
+              <name>
+                <surname>Alhumaid</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Muzaheed</surname>
+              </name>
+              <name>
+                <surname>Gupta</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Koritala</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Adhikari</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Bilal</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Dhawan</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Tiwari</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Mitra</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Emran</surname>
+                <given-names>TB</given-names>
+              </name>
+              <name>
+                <surname>Dhama</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Viral Dynamics and Real-Time RT-PCR Ct Values Correlation with Disease Severity in COVID-19.</article-title>
+            <source>Diagnostics (Basel)</source>
+            <year>2021</year>
+            <month>Jun</month>
+            <day>15</day>
+            <volume>11</volume>
+            <issue>6</issue>
+            <pub-id pub-id-type="pmid">34203738</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-142459.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Garc&#x000ed;a-de-Lomas</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Navarro</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>New directions in diagnostics.</article-title>
+            <source>Pediatr Infect Dis J</source>
+            <year>1997</year>
+            <month>Mar</month>
+            <volume>16</volume>
+            <issue>3 Suppl</issue>
+            <fpage>S43</fpage>
+            <page-range>S43-8</page-range>
+            <pub-id pub-id-type="pmid">9076835</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-142459.r11">
+          <label>11</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Ayoade</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Kumar</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Varicella-Zoster Virus (Chickenpox)</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2022</year>
+            <month>10</month>
+            <day>15</day>
+            <pub-id pub-id-type="pmid">28846365</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-142459.r12">
+          <label>12</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Durland</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ahmadian-Moghadam</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Genetics, Mutagenesis</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2022</year>
+            <month>9</month>
+            <day>19</day>
+            <pub-id pub-id-type="pmid">32809354</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

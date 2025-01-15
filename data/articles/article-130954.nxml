@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-130954" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Extracorporeal Membrane Oxygenation Anticoagulation</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Szymanski</surname>
+            <given-names>Michael W.</given-names>
+          </name>
+          <aff>Stony Brook University-Southampton Hospital</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Hafzalah</surname>
+            <given-names>Mina</given-names>
+          </name>
+          <aff>Children&#x02019;s Hospital of Michigan</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Michael Szymanski declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Mina Hafzalah declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>27</day>
+          <month>3</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-130954.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Thromboembolism formation during extracorporeal membrane oxygenation is a common complication experienced for patients requiring prolonged respiratory or cardiorespiratory life support. This activity will explore the various anticoagulation methods used for the patient on ECMO and highlight the role of the interprofessional team in successful ECMO utilization.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Review the different types of ECMO configurations and the indications for each setup.</p></list-item><list-item><p>Describe the pathophysiology of thromboembolism formation in ECMO patients.</p></list-item><list-item><p>Outline the various methods for monitoring the effects of anticoagulation.</p></list-item><list-item><p>Summarize the pathophysiology of heparin-induced thrombocytopenia and the constellation of the lab and physical exam findings you would expect in a patient with suspected HIT.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=130954&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=130954">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-130954.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Extracorporeal membrane oxygenation (ECMO) is becoming a more widely available form of prolonged cardiopulmonary support worldwide. The main objective of utilizing ECMO is to provide systemic perfusion and gas exchange while allowing recovery of the heart and lungs or to act as a bridge to a more definitive therapy such as transplantation. The two types of ECMO, veno-arterial and veno-venous, both provide pulmonary support. However, veno-arterial ECMO also provides hemodynamic support. Of the numerous complications that can occur during ECMO, thromboembolism remains the second major reported complication, surpassed only by bleeding.<xref ref-type="bibr" rid="article-130954.r1">[1]</xref><xref ref-type="bibr" rid="article-130954.r2">[2]</xref></p>
+      </sec>
+      <sec id="article-130954.s3" sec-type="Anatomy and Physiology">
+        <title>Anatomy and Physiology</title>
+        <p>The ECMO circuit can be applied in two configurations which are chosen based on clinical indication.&#x000a0;</p>
+        <p>Veno-venous (VV) ECMO is usually initiated by cannulating the femoral vein with a large-bore cannula. The size will vary depending on the age and size of the patient. A venous return cannula is then placed in the internal jugular vein and should seat at the atrial-caval junction. The use of bedside ultrasonography facilitates placement. Another method for initiating VV-ECMO involves the use of a double-lumen cannula. The double lumen cannula contains 3 ports and is designed to drain deoxygenated blood from the SVC and IVC and return it to the right atrium with the port facing the tricuspid valve. The major advantage of using this cannulation technique is a lower rate of bleeding due to the need for single vessel cannulation. It also facilitates relative ease of ambulation and patient movement due to the single cannulation site. Due to the ability to ambulate, patients with VV ECMO can be potentially extubated and can participate in physical therapy to prevent ICU-acquired weakness.&#x000a0;</p>
+        <p>Veno-arterial ECMO utilizes the femoral, axillary, or carotid artery to return oxygenated blood and provide circulatory support. Placing a patient on veno-arterial ECMO, the heart and lungs are bypassed, and the ECMO device provides complete cardiorespiratory support.<xref ref-type="bibr" rid="article-130954.r3">[3]</xref>&#x000a0;Venous drainage is accomplished via a cannula placed in either the internal jugular or femoral vein. The arterial return catheter is a cannula placed in the femoral, axillary, or internal carotid arteries. Although the femoral artery is the most commonly used cannulation site for arterial return, axillary artery cannulation provides antegrade flow, which is more physiologically favorable and hastens the probability of limb ischemia. It also provides for easier means of ambulation and a higher cerebral oxygen concentration. The main disadvantage to using the axillary artery is that it requires a surgical cutdown approach to establish access. The common carotid artery is used in children less than 15kg.<xref ref-type="bibr" rid="article-130954.r1">[1]</xref></p>
+        <p>Central ECMO cannulation is infrequently used due to its invasive nature and inherent risks of bleeding and infection. Initiation of central ECMO cannulation requires a sternotomy. In this configuration, the right atrium and aorta are cannulated directly. The resulting cannulas are securely fixated to the patient to prevent the risk of inadvertent decannulation. Advantages of central ECMO cannulation include improved venous drainage and antegrade arterial flow, thus fully decompressing the left ventricle.&#x000a0;</p>
+        <p>The ECMO circuit consists of an oxygenator, heat exchanger, pump, and various cannulas/tubing. The oxygenator tends to be more prone to thrombosis and must be checked frequently by the perfusionist. Extensive clot burden is usually alleviated only by switching the entire circuit. Thromboembolism formation is the product of blood exposure to the non-endothelial surfaces of the circuit and oxygenator. The degree of coagulation is due to several factors, including patient characteristics, type of material used in the circuit, type of anticoagulation, and therapy duration. Contact of blood with the ECMO circuit's artificial surfaces causes a release of pro-inflammatory cytokines, which induces a prothrombotic state. Roller pumps also induce shear stress on RBCs resulting in hemolysis. However, these pumps have largely been replaced by centrifugal pumps.<xref ref-type="bibr" rid="article-130954.r4">[4]</xref></p>
+      </sec>
+      <sec id="article-130954.s4" sec-type="Indications">
+        <title>Indications</title>
+        <p>
+<bold>Veno-venous (VV) ECMO</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Isolated lung failure unresponsive to ventilatory support</p>
+          </list-item>
+          <list-item>
+            <p>Hypoxic respiratory failure: PaO2/FiO2 &#x0003c;100mmHg and/or Murray score 3-4. In the pediatric population, the consensus is to use the oxygenation index (OI) instead of the PaO2/FiO2 ratio. However, the PALICC guidelines from 2017 do not specify an actual cut-off for ECMO initiation. The overall agreement was to monitor for worsening trends towards severe PARDS ( OI of &#x0003e;16).&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>CO2 retention despite mechanical ventilatory support</p>
+          </list-item>
+          <list-item>
+            <p>Immediate respiratory collapse due to asphyxia, or status asthmaticus.</p>
+          </list-item>
+          <list-item>
+            <p>Deteriorating patient on the lung transplant list.<xref ref-type="bibr" rid="article-130954.r5">[5]</xref></p>
+          </list-item>
+        </list>
+        <p>
+<bold>Veno-arterial ECMO (VA) ECMO</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Cardiogenic shock secondary to myocardial infarction, decompensated heart failure, cardiomyopathy, failure to wean from bypass following cardiac surgery</p>
+          </list-item>
+          <list-item>
+            <p>Bridge to a ventricular assist device or transplantation<xref ref-type="bibr" rid="article-130954.r6">[6]</xref></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-130954.s5" sec-type="Contraindications">
+        <title>Contraindications</title>
+        <p>There are no absolute contraindications to ECMO, and each patient is evaluated on a case-by-case basis. Immunosuppression, irrecoverable neurological injury, terminal malignancy, and advanced age are some of the factors taken into consideration when evaluating a patient for ECMO initiation.<xref ref-type="bibr" rid="article-130954.r6">[6]</xref></p>
+      </sec>
+      <sec id="article-130954.s6" sec-type="Technique or Treatment">
+        <title>Technique or Treatment</title>
+        <p>Cannulation for peripheral ECMO can be accomplished via Seldinger&#x02019;s technique, open cut-down Seldinger, or open cut-down with end to side anastomosis of a graft. Central ECMO cannulation is achieved by surgical cannulation of the right atrium and aorta after sternotomy.</p>
+        <p>When blood is exposed to ECMO surfaces, including the oxygenator, an inflammatory response is unleashed, activating platelets, neutrophils, fibrinolytic, complement, intrinsic, and extrinsic coagulation pathways.&#x000a0;</p>
+        <p>Neutrophils produce cytokines as part of the inflammatory response.&#x000a0;</p>
+        <p>
+<bold>Unfractionated Heparin</bold>
+</p>
+        <p>One of the most widely used anticoagulants is unfractionated heparin (UFH). UFH exerts its effects by binding to antithrombin. Once UFH binds antithrombin, it impairs thrombin by 1000 to 2000 fold, thus preventing thromboembolism formation.<xref ref-type="bibr" rid="article-130954.r7">[7]</xref></p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Unfractionated Heparin (UFH): 50&#x000a0;to 100 units/kg bolus then 20&#x000a0;to 50 units/kg/hr titrated to an ACT of 180-220.<xref ref-type="bibr" rid="article-130954.r2">[2]</xref>&#x000a0;Of note is that the test used to titrate UFH is very institution-based. Some institutions rely on PTT, but others rely on trending ACT, PTT as well as TEGs. The typical starting dose of heparin is 10-20 U /kg, and then this is titrated based on anticoagulation testing and presence or absence of formed clots, and presence or absence of bleeding.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>It is also important to monitor antithrombin levels. Neonates typically have lower levels of antithrombin III and require ATIII supplementation due to heparin resistance. Also, patients with high losses of AT3, such as in nephrotic syndrome, large ongoing pleural drainage such as chylothorax, may develop heparin resistance due to ATIII deficiency and require ATIII replacement. Replacement can be done with FFP or with ATIII concentrate. Typically the ATIII deficiency is suspected if heparin gtt is needing frequent escalation. Thus, an ATIII level is checked. If the level is &#x0003c;50-60% of normal activity, then ATIII is replaced. This is typically done with a reduction of heparin gtt at the same time to prevent supratherapeutic heparin response and bleeding complications.&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Direct thrombin inhibitors (DTIs)</bold>
+</p>
+        <p>The direct thrombin inhibitors bind directly to thrombin, and their effects are thus independent of antithrombin levels resulting in a more predictable response. One of the disadvantages of using DTIs is the lack of a reversal agent should life-threatening bleeding occur.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Bivalirudin: Initial bolus of 0.5 mg/kg then a continuous infusion of 0.5&#x000a0;to 2.5 mcg/kg/min, monitor via aPPT 2 hours after initiation and then every 4 hours after that. Titrate to a goal aPPT 1.5&#x000a0;to 2&#x000a0;times normal.<xref ref-type="bibr" rid="article-130954.r8">[8]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Argatroban: Initial 25 mcg/kg/min and a bolus of 350 mcg/kg over 3&#x000a0;to 5 minutes. Check an aPPT 2 hours after initiation, then every 4 hours after. May increase infusion rate 0.05 mcg/kg/min to titrate to an aPPT 1.5&#x000a0;to 3&#x000a0;times baseline.<xref ref-type="bibr" rid="article-130954.r9">[9]</xref><xref ref-type="bibr" rid="article-130954.r10">[10]</xref></p>
+          </list-item>
+        </list>
+        <p>
+<bold>Methods for Monitoring</bold>
+</p>
+        <list list-type="order">
+          <list-item>
+            <p>Activated clotting time (ACT): The most predominant method for monitoring heparin's anticoagulant effect is the activated clotting time (ACT). The ACT uses whole blood to measure the time for initial fibrin formation. Several factors may affect the ACT, including hemodilution, coagulation factor deficiencies, hypothermia, and platelet function. ACT has been shown to correlate poorly to the gold standard, which is the anti-factor Xa level. ACT is more likely to overestimate the heparin effect in the pediatric population, leading to inadequate anticoagulation.&#x000a0;&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Activated partial thromboplastin time (aPPT): This test utilizes plasma or whole blood to measure fibrin formation. The target aPPT time is 60-90 seconds for patients on ECMO.</p>
+          </list-item>
+          <list-item>
+            <p>Anti-factor Xa: Monitoring of anti-factor Xa is a direct measurement of heparin inhibition. Target ranges between 0.25-0.7IU/mL are recommended while on ECMO.<xref ref-type="bibr" rid="article-130954.r11">[11]</xref>&#x000a0;This is the gold standard of heparin anticoagulation testing.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Thromboelastography (TEG) and rotational thromboelastography (ROTEM): A TEG or ROTEM can inform practitioners of time to initial fibrin formation, clot strength, speed of fibrin crosslinking, and the onset of fibrinolysis. During the administration of UFH, the TEG allows for interpretation of UFH efficacy by measuring the difference in clotting time. This test can be beneficial if concerned about heparin resistance.<xref ref-type="bibr" rid="article-130954.r12">[12]</xref></p>
+          </list-item>
+        </list>
+        <p>
+<bold>Daily Parameters</bold>
+</p>
+        <list list-type="order">
+          <list-item>
+            <p>Unfractionated heparin level. Goal 0.25&#x000a0;to 0.5 mainly but frequently up to 0.7</p>
+          </list-item>
+          <list-item>
+            <p>ATIII levels with goal activity &#x0003e; 50%&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Hematocrit level &#x0003e;35% goal</p>
+          </list-item>
+          <list-item>
+            <p>Platelet count goal &#x0003e; 100,000. The threshold would be lowered in the presence of ongoing bleeding or recent intracranial hemorrhage.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>PT INR. If &#x0003e;2, then FFP is given.</p>
+          </list-item>
+          <list-item>
+            <p>Fibrinogen level. Goal &#x0003e; 100. If less, then cryoprecipitate is given.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-130954.s7" sec-type="Complications">
+        <title>Complications</title>
+        <p>Several major complications can occur when a patient is on ECMO. For patients on venovenous ECMO, inadequate flow is a major complication. Since most of these patients present with septicemia, it is not uncommon to encounter a patient with high cardiac output due to the profound drop in systemic vascular resistance from the vasodilatory effects of inflammatory mediators. When cardiac output exceeds the ECMO pump's flow rate, the ECMO circuit cannot sufficiently oxygenate the circulating blood volume.</p>
+        <p>Veno-arterial (VA) ECMO can cause similar complications, but several major differences exist. The most common artery cannulated in VA-ECMO is the femoral artery. Once the femoral artery is cannulated, retrograde flow occurs in the systemic circulation. In the ipsilateral lower extremity, the femoral artery becomes partially occluded by the cannula, and retrograde flow prevents adequate perfusion distally. Several methods have been developed to overcome this complication and include various selective reperfusion circuits to the affected lower extremity.<xref ref-type="bibr" rid="article-130954.r13">[13]</xref></p>
+        <p>In VA-ECMO, retrograde flow occurs, which can have dire cardiac consequences, including left ventricular (LV) distension and watershed phenomena. The left ventricular distention caused by increased afterload will produce increased wall tension and reduced coronary artery flow, increasing cardiac injury's propensity. In patients whose LV function is severely decreased, a thrombus can form in the LV. This issue can be mitigated by observing pulsatile flow on arterial line monitoring.<xref ref-type="bibr" rid="article-130954.r1">[1]</xref>&#x000a0;If pulsatility is lost or there are ECHO findings of a dilated LV and or LA, or there has been an increase in the incidence of ventricular arrhythmias or evidence of coronary perfusion abnormalities due to the rise of LVEDP due to LV distension, then an Impella or LV vent is placed. Another strategy for LA hypertension is a balloon atrial septostomy in the cath lab.</p>
+        <p>A complication implicated in both VV and VA-ECMO is thrombosis. Thrombosis occurs due to exposure to ECMO circuit components as well as shear stress induced by the pump. Also, several other patient-dependent factors such as liver failure, sepsis, or other causes of coagulopathy associated with a critical illness have profound effects on thrombus formation. The predominant anticoagulant used to prevent thrombosis is unfractionated heparin (UFH). UFH binds to antithrombin, which increases its ability to inhibit thrombin.</p>
+        <p>Heparin-induced thrombocytopenia (HIT) is a potentially devastating consequence of heparin usage. During HIT, antibodies are formed to platelet factor 4 complexed with heparin. The result is a massive increase in clot formation and life and limb-threatening thrombosis. A decrease in platelet level of approximately 50% from baseline should alert the physician to HIT, and heparin should be discontinued immediately. The patient should be started on a direct thrombin inhibitor immediately.<xref ref-type="bibr" rid="article-130954.r14">[14]</xref></p>
+      </sec>
+      <sec id="article-130954.s8" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>The use of extracorporeal membrane oxygenation as a form of prolonged respiratory and cardiorespiratory life support has increased worldwide. Common challenges regarding complications from prolonged ECMO use include bleeding and thrombosis. Thrombosis occurs due to the interaction between components of the ECMO system and blood. To circumvent thrombosis formation, strict adherence to anticoagulation&#x000a0;monitoring is vital. Understanding the pathophysiology of thrombosis formation, the mechanism of action of common anticoagulants, and the monitoring of anticoagulation parameters will decrease thrombosis formation incidence.</p>
+      </sec>
+      <sec id="article-130954.s9" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Extracorporeal membrane oxygenation is becoming increasingly used worldwide in critically ill patients. Pulmonary or cardiopulmonary support may be provided dependent on the patient&#x02019;s needs. ECMO configurations may also be interchanged dependent on patient needs. The initiation of ECMO-dependent life support requires the cooperation of several different clinical providers. A cardiothoracic surgeon is commonly involved in the initiation of ECMO and the placement of cannulas. Following the start of ECMO, a perfusionist must be available bedside around the clock to monitor for acute changes in the functioning of the circuit. Besides, the effect of heparin must be monitored hourly and adjusted as needed. Hourly arterial blood gas measurements are recorded as well. Intensive care practitioners such as physicians, physician assistants, and nurse practitioners provide oversight of the patient's clinical course and alert the cardiothoracic surgeon to any issues that may arise.</p>
+      </sec>
+      <sec id="article-130954.s10" sec-type="Nursing, Allied Health, and Interprofessional Team Interventions">
+        <title>Nursing, Allied Health, and Interprofessional Team Interventions</title>
+        <p>
+<bold>Responsibilities of the Bedside Staff to the Patient</bold>
+</p>
+        <p>When a patient is on ECMO, the typical case scenario would be akin to having 1:1 nursing care for the patient and 1:1 care of the circuit. In other words, the ECMO circuit is viewed as a "patient" that requires hourly monitoring and intervention.&#x000a0;</p>
+        <p>
+<bold>Patient Monitoring and Intervention</bold>
+</p>
+        <p>1. Moving the patient is a dangerous procedure and requires multiple "hands on deck" to achieve the needed movement for the needed procedure, such as daily Xrays to assess lung fields, ECMO cannula positions to ensure that they are unchanged as well as ET tube position as well as the position of other "plastics"- e.g., chest tubes and central venous catheters.&#x000a0;</p>
+        <p>2. It is important to assess the ECMO cannulation sites for bleeding, infection, or kinking.&#x000a0;</p>
+        <p>3. Neurologic assessment every 1-2 hours is imperative as patients are at high risk of intracranial hemorrhage, thrombosis, and stroke, as well as clinical and subclinical seizures. Neurologic assessment includes pupillary reflexes, spontaneous breathing, awareness, withdrawal to painful stimuli, fontanelle size in pediatrics, abnormal movements or unexplained episodic tachycardia, and hypertension autonomic signs of subclinical seizures or a sign of large intracranial hemorrhage, especially in the neonatal and pediatric population.&#x000a0;</p>
+        <p>4. Typically, the ventilator would be able to be weaned drastically while on ECMO given that the oxygenator is excellent at gas exchange unless it is "aging and starting to fail"&#x000a0;due to clot formation. Daily chest x-ray is needed. Blood gas frequency is initially every 30-6- minutes, then can be reduced to q2h -q4hourly if the patient has been on "stable ECMO and vent settings." Suctioning while on ECMO can be done as needed. If bright red blood is noted in the ET tube, then increasing the PEEP would help control the bleeding.&#x000a0;</p>
+        <p>5. Monitor urine output as well as urine color. Gross hematuria may be&#x000a0;secondary to anticoagulation. Microscopic hematuria and plasma-free Hb are assessed daily. These findings, especially if plasma-free Hb is &#x0003e;500 with an associated drop in platelet level, are concerning for pump head thrombosis and the need for pump exchange.<xref ref-type="bibr" rid="article-130954.r15">[15]</xref></p>
+        <p>&#x000a0;Also, plasma-free Hb &#x0003e; 53 is associated with the prolonged need for renal replacement therapy and increased mortality.<xref ref-type="bibr" rid="article-130954.r16">[16]</xref></p>
+        <p>
+<bold>Responsibilities of the Bedside Staff to the ECMO Circuit</bold>
+</p>
+        <p>1. Conduct a full check of the circuit to look for clots.&#x000a0;</p>
+        <p>2. Conduct a full assessment of the health of the circuit. In other words, take note of the transmembrane pressures, bladder pressures, amount of FIO2, and sweep needs and trends. The circuit's chatter is a sign that the patient and circuit may potentially be intravascularly depleted and monitor the venous return monitor. Other issues that can cause venous return difficulties include all the causes of reduced preload in the patient himself. E.g., tension pneumothorax, tension pericardial effusion.&#x000a0;</p>
+        <p>3. Other reasons for VRM alarms include patient agitation and kinking of the cannula, especially if cannulation was peripheral and not central.</p>
+      </sec>
+      <sec id="article-130954.s11">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=130954&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=130954">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/130954/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=130954">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-130954.s12">
+        <title>References</title>
+        <ref id="article-130954.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pavlushkov</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Berman</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Valchanov</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Cannulation techniques for extracorporeal life support.</article-title>
+            <source>Ann Transl Med</source>
+            <year>2017</year>
+            <month>Feb</month>
+            <volume>5</volume>
+            <issue>4</issue>
+            <fpage>70</fpage>
+            <pub-id pub-id-type="pmid">28275615</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-130954.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cho</surname>
+                <given-names>HJ</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>DW</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>GS</given-names>
+              </name>
+              <name>
+                <surname>Jeong</surname>
+                <given-names>IS</given-names>
+              </name>
+            </person-group>
+            <article-title>Anticoagulation Therapy during Extracorporeal Membrane Oxygenator Support in Pediatric Patients.</article-title>
+            <source>Chonnam Med J</source>
+            <year>2017</year>
+            <month>May</month>
+            <volume>53</volume>
+            <issue>2</issue>
+            <fpage>110</fpage>
+            <page-range>110-117</page-range>
+            <pub-id pub-id-type="pmid">28584789</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-130954.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Biscotti</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Bacchetta</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>The "sport model": extracorporeal membrane oxygenation using the subclavian artery.</article-title>
+            <source>Ann Thorac Surg</source>
+            <year>2014</year>
+            <month>Oct</month>
+            <volume>98</volume>
+            <issue>4</issue>
+            <fpage>1487</fpage>
+            <page-range>1487-9</page-range>
+            <pub-id pub-id-type="pmid">25282228</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-130954.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chenoweth</surname>
+                <given-names>DE</given-names>
+              </name>
+              <name>
+                <surname>Cooper</surname>
+                <given-names>SW</given-names>
+              </name>
+              <name>
+                <surname>Hugli</surname>
+                <given-names>TE</given-names>
+              </name>
+              <name>
+                <surname>Stewart</surname>
+                <given-names>RW</given-names>
+              </name>
+              <name>
+                <surname>Blackstone</surname>
+                <given-names>EH</given-names>
+              </name>
+              <name>
+                <surname>Kirklin</surname>
+                <given-names>JW</given-names>
+              </name>
+            </person-group>
+            <article-title>Complement activation during cardiopulmonary bypass: evidence for generation of C3a and C5a anaphylatoxins.</article-title>
+            <source>N Engl J Med</source>
+            <year>1981</year>
+            <month>Feb</month>
+            <day>26</day>
+            <volume>304</volume>
+            <issue>9</issue>
+            <fpage>497</fpage>
+            <page-range>497-503</page-range>
+            <pub-id pub-id-type="pmid">7453783</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-130954.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tudorache</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Sommer</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>K&#x000fc;hn</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Wiesner</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Hadem</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>F&#x000fc;hner</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Ius</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Avsar</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Schwerk</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>B&#x000f6;thig</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Gottlieb</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Welte</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Bara</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Haverich</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Hoeper</surname>
+                <given-names>MM</given-names>
+              </name>
+              <name>
+                <surname>Warnecke</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Lung transplantation for severe pulmonary hypertension--awake extracorporeal membrane oxygenation for postoperative left ventricular remodelling.</article-title>
+            <source>Transplantation</source>
+            <year>2015</year>
+            <month>Feb</month>
+            <volume>99</volume>
+            <issue>2</issue>
+            <fpage>451</fpage>
+            <page-range>451-8</page-range>
+            <pub-id pub-id-type="pmid">25119128</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-130954.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Badulak</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Antonini</surname>
+                <given-names>MV</given-names>
+              </name>
+              <name>
+                <surname>Stead</surname>
+                <given-names>CM</given-names>
+              </name>
+              <name>
+                <surname>Shekerdemian</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Raman</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Paden</surname>
+                <given-names>ML</given-names>
+              </name>
+              <name>
+                <surname>Agerstrand</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Bartlett</surname>
+                <given-names>RH</given-names>
+              </name>
+              <name>
+                <surname>Barrett</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Combes</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Lorusso</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Mueller</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Ogino</surname>
+                <given-names>MT</given-names>
+              </name>
+              <name>
+                <surname>Peek</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Pellegrino</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Rabie</surname>
+                <given-names>AA</given-names>
+              </name>
+              <name>
+                <surname>Salazar</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Schmidt</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Shekar</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>MacLaren</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Brodie</surname>
+                <given-names>D</given-names>
+              </name>
+              <collab>ELSO COVID-19 Working Group Members</collab>
+            </person-group>
+            <article-title>Extracorporeal Membrane Oxygenation for COVID-19: Updated 2021 Guidelines from the Extracorporeal Life Support Organization.</article-title>
+            <source>ASAIO J</source>
+            <year>2021</year>
+            <month>May</month>
+            <day>01</day>
+            <volume>67</volume>
+            <issue>5</issue>
+            <fpage>485</fpage>
+            <page-range>485-495</page-range>
+            <pub-id pub-id-type="pmid">33657573</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-130954.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dalton</surname>
+                <given-names>HJ</given-names>
+              </name>
+              <name>
+                <surname>Garcia-Filion</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Holubkov</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Moler</surname>
+                <given-names>FW</given-names>
+              </name>
+              <name>
+                <surname>Shanley</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Heidemann</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Meert</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Berg</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Berger</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Carcillo</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Newth</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Harrison</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Doctor</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Rycus</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Dean</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Jenkins</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Nicholson</surname>
+                <given-names>C</given-names>
+              </name>
+              <collab>Eunice Kennedy Shriver National Institute of Child Health and Human Development Collaborative Pediatric Critical Care Research Network</collab>
+            </person-group>
+            <article-title>Association of bleeding and thrombosis with outcome in extracorporeal life support.</article-title>
+            <source>Pediatr Crit Care Med</source>
+            <year>2015</year>
+            <month>Feb</month>
+            <volume>16</volume>
+            <issue>2</issue>
+            <fpage>167</fpage>
+            <page-range>167-74</page-range>
+            <pub-id pub-id-type="pmid">25647124</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-130954.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Netley</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Roy</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Greenlee</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Hart</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Todt</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Statz</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Bivalirudin Anticoagulation Dosing Protocol for Extracorporeal Membrane Oxygenation: A Retrospective Review.</article-title>
+            <source>J Extra Corpor Technol</source>
+            <year>2018</year>
+            <month>Sep</month>
+            <volume>50</volume>
+            <issue>3</issue>
+            <fpage>161</fpage>
+            <page-range>161-166</page-range>
+            <pub-id pub-id-type="pmid">30250342</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-130954.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Stulak</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Dearani</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Burkhart</surname>
+                <given-names>HM</given-names>
+              </name>
+              <name>
+                <surname>Barnes</surname>
+                <given-names>RD</given-names>
+              </name>
+              <name>
+                <surname>Scott</surname>
+                <given-names>PD</given-names>
+              </name>
+              <name>
+                <surname>Schears</surname>
+                <given-names>GJ</given-names>
+              </name>
+            </person-group>
+            <article-title>ECMO cannulation controversies and complications.</article-title>
+            <source>Semin Cardiothorac Vasc Anesth</source>
+            <year>2009</year>
+            <month>Sep</month>
+            <volume>13</volume>
+            <issue>3</issue>
+            <fpage>176</fpage>
+            <page-range>176-82</page-range>
+            <pub-id pub-id-type="pmid">19736214</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-130954.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Roug&#x000e9;</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Pelen</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Durand</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Schwebel</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Argatroban for an alternative anticoagulant in HIT during ECMO.</article-title>
+            <source>J Intensive Care</source>
+            <year>2017</year>
+            <volume>5</volume>
+            <fpage>39</fpage>
+            <pub-id pub-id-type="pmid">28680640</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-130954.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Irby</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Swearingen</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Byrnes</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Bryant</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Prodhan</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Fiser</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Unfractionated heparin activity measured by anti-factor Xa levels is associated with the need for extracorporeal membrane oxygenation circuit/membrane oxygenator change: a retrospective pediatric study.</article-title>
+            <source>Pediatr Crit Care Med</source>
+            <year>2014</year>
+            <month>May</month>
+            <volume>15</volume>
+            <issue>4</issue>
+            <fpage>e175</fpage>
+            <page-range>e175-82</page-range>
+            <pub-id pub-id-type="pmid">24622165</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-130954.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Emani</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Emani</surname>
+                <given-names>VS</given-names>
+              </name>
+              <name>
+                <surname>Diallo</surname>
+                <given-names>FB</given-names>
+              </name>
+              <name>
+                <surname>Diallo</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Torres</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Nathan</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Ibla</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Emani</surname>
+                <given-names>SM</given-names>
+              </name>
+            </person-group>
+            <article-title>Thromboelastography During Rewarming for Management of Pediatric Cardiac Surgery Patients.</article-title>
+            <source>Ann Thorac Surg</source>
+            <year>2022</year>
+            <month>Apr</month>
+            <volume>113</volume>
+            <issue>4</issue>
+            <fpage>1248</fpage>
+            <page-range>1248-1255</page-range>
+            <pub-id pub-id-type="pmid">33667464</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-130954.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Greason</surname>
+                <given-names>KL</given-names>
+              </name>
+              <name>
+                <surname>Hemp</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Maxwell</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Fetter</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Moreno-Cabral</surname>
+                <given-names>RJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Prevention of distal limb ischemia during cardiopulmonary support via femoral cannulation.</article-title>
+            <source>Ann Thorac Surg</source>
+            <year>1995</year>
+            <month>Jul</month>
+            <volume>60</volume>
+            <issue>1</issue>
+            <fpage>209</fpage>
+            <page-range>209-10</page-range>
+            <pub-id pub-id-type="pmid">7598601</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-130954.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shantsila</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Lip</surname>
+                <given-names>GYH</given-names>
+              </name>
+              <name>
+                <surname>Chong</surname>
+                <given-names>BH</given-names>
+              </name>
+            </person-group>
+            <article-title>Heparin-induced thrombocytopenia. A contemporary clinical approach to diagnosis and management.</article-title>
+            <source>Chest</source>
+            <year>2009</year>
+            <month>Jun</month>
+            <volume>135</volume>
+            <issue>6</issue>
+            <fpage>1651</fpage>
+            <page-range>1651-1664</page-range>
+            <pub-id pub-id-type="pmid">19497901</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-130954.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Appelt</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Philipp</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Mueller</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Foltan</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Lubnow</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Lunz</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Zeman</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Lehle</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Factors associated with hemolysis during extracorporeal membrane oxygenation (ECMO)-Comparison of VA- versus VV ECMO.</article-title>
+            <source>PLoS One</source>
+            <year>2020</year>
+            <volume>15</volume>
+            <issue>1</issue>
+            <fpage>e0227793</fpage>
+            <pub-id pub-id-type="pmid">31986168</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-130954.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Borasino</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kalra</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Elam</surname>
+                <given-names>AR</given-names>
+              </name>
+              <name>
+                <surname>Carlisle O'Meara</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Timpa</surname>
+                <given-names>JG</given-names>
+              </name>
+              <name>
+                <surname>Goldberg</surname>
+                <given-names>KG</given-names>
+              </name>
+              <name>
+                <surname>Collins Gaddis</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Alten</surname>
+                <given-names>JA</given-names>
+              </name>
+            </person-group>
+            <article-title>Impact of Hemolysis on Acute Kidney Injury and Mortality in Children Supported with Cardiac Extracorporeal Membrane Oxygenation.</article-title>
+            <source>J Extra Corpor Technol</source>
+            <year>2018</year>
+            <month>Dec</month>
+            <volume>50</volume>
+            <issue>4</issue>
+            <fpage>217</fpage>
+            <page-range>217-224</page-range>
+            <pub-id pub-id-type="pmid">30581228</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

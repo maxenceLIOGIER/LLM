@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-22072" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Physiology, Gastric Inhibitory Peptide</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Gupta</surname>
+            <given-names>Kashvi</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Raja</surname>
+            <given-names>Avais</given-names>
+          </name>
+          <aff>University of Western States, Portland, Oregon</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Kashvi Gupta declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Avais Raja declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>26</day>
+          <month>9</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-22072.s1" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>The glucose-dependent insulinotropic polypeptide, formerly known as gastric inhibitory peptide (GIP), was first isolated in 1973 from porcine small intestine based on its ability to inhibit gastric hydrochloric acid secretion. Soon after, in 1980, GIP was found to be a weak inhibitor of acid secretion and a potent stimulator of insulin post meals.<xref ref-type="bibr" rid="article-22072.r1">[1]</xref>&#x000a0;This phenomenon of higher insulin secretion in response to oral glucose compared to intravenous glucose at the same plasma glucose level is called the incretin effect.<xref ref-type="bibr" rid="article-22072.r2">[2]</xref>&#x000a0;GIP is considered the most potent incretin hormone, and along with glucagon-like peptide-1 (GLP-1), it contributes to 25% to 70% of the postprandial insulin response.<xref ref-type="bibr" rid="article-22072.r3">[3]</xref>&#x000a0;</p>
+      </sec>
+      <sec id="article-22072.s2" sec-type="Issues of Concern">
+        <title>Issues of Concern</title>
+        <p>Patients with type 2 diabetes mellitus have a high burden of renal failure and cardiovascular diseases. They often require a personalized approach based on their genetic predisposition and&#x000a0;clinical presentation for glucose control. Further, patients are becoming increasingly resistant to monotherapy with metformin and sulfonylureas.&#x000a0;Incretin-based therapy can be administered as an alternative or combination therapy to standard guidelines.<xref ref-type="bibr" rid="article-22072.r4">[4]</xref>&#x000a0;Studies have demonstrated lower all-cause mortality and reduced cardiovascular events in patients treated with combination therapy of metformin and dipeptidyl peptidase-4 (DPP-4) inhibitors.<xref ref-type="bibr" rid="article-22072.r5">[5]</xref>&#x000a0;Thus, understanding GIP and DPP-4 inhibition is imperative for optimal management of complex patients with type 2 diabetes mellitus.</p>
+      </sec>
+      <sec id="article-22072.s3" sec-type="Cellular Level&#x0000d;&#x0000a;">
+        <title>Cellular Level
+</title>
+        <p>GIP is secreted by enteroendocrine K-cells, which are present in high density in the duodenum and upper jejunum but throughout the small intestine.<xref ref-type="bibr" rid="article-22072.r6">[6]</xref><xref ref-type="bibr" rid="article-22072.r7">[7]</xref> Oral ingestion and subsequent absorption of nutrients such as glucose, high amounts of amino acids, and long-chain fatty acids trigger the secretion of GIP.<xref ref-type="bibr" rid="article-22072.r6">[6]</xref>&#x000a0;K-cells sense the presence of glucose using a sodium-coupled glucose transporter-1 (SGLT-1) variant that evokes the GIP secretion.</p>
+      </sec>
+      <sec id="article-22072.s4" sec-type="Development">
+        <title>Development</title>
+        <p>The gene sequence of GIP is well conserved across species.<xref ref-type="bibr" rid="article-22072.r3">[3]</xref>&#x000a0;GIP is a peptide hormone consisting of 42 amino acids and derives from the posttranslational processing of pre-pro-GIP, a protein consisting of 153 amino acids. It is structurally similar to members of the secretin/glucagon family, which includes secretin, glucagon, vasoactive intestinal peptide, and growth hormone-releasing factors.<xref ref-type="bibr" rid="article-22072.r8">[8]</xref></p>
+      </sec>
+      <sec id="article-22072.s5" sec-type="Organ Systems Involved">
+        <title>Organ Systems Involved</title>
+        <p>The action of GIP is primarily on the endocrine pancreas to potentiate glucose-dependent insulin secretion. Secondly, GIP decreases gastrin and gastrin-dependent acid secretion from the stomach's parietal cells.<xref ref-type="bibr" rid="article-22072.r9">[9]</xref>&#x000a0;GIP receptors are widely distributed and occur in the adipose tissue, bone, adrenal cortex, heart, pituitary, and brain regions such as the cerebral cortex, hippocampus, and olfactory bulb.<xref ref-type="bibr" rid="article-22072.r10">[10]</xref>&#x000a0;Finally, the kidneys are involved in the clearance of GIP.<xref ref-type="bibr" rid="article-22072.r11">[11]</xref><xref ref-type="bibr" rid="article-22072.r12">[12]</xref></p>
+      </sec>
+      <sec id="article-22072.s6" sec-type="Function">
+        <title>Function</title>
+        <p>The name given to the augmentation of insulin secretion by the action of gastrointestinal hormones is the entero-insular axis.<xref ref-type="bibr" rid="article-22072.r13">[13]</xref>&#x000a0;Therefore, GIP acts in the entero-insular axis as an anabolic hormone that increases insulin levels, glycogen, and fatty acid synthesis and inhibits fat breakdown. GIP also has extrapancreatic functions. In the stomach, GIP reduces acid secretion by the parietal cells. GIP has a dual effect on the bone as it causes the proliferation of osteoblasts and inhibits osteoclastic bone resorption. The widespread expression of GIP-R in the brain suggests that GIP might play an essential function in neurosignaling mechanisms.<xref ref-type="bibr" rid="article-22072.r14">[14]</xref></p>
+      </sec>
+      <sec id="article-22072.s7" sec-type="Mechanism">
+        <title>Mechanism</title>
+        <p>GIP acts on class-II G-protein coupled receptors.<xref ref-type="bibr" rid="article-22072.r15">[15]</xref>&#x000a0;The signaling mechanism for these receptors primarily involves the activation of adenylate cyclase/protein kinase A and phospholipase C/protein C cascades. High levels of GIP receptors are expressed in the beta cells of the pancreatic islets. The binding of GIP to its receptor increases the intracellular cAMP levels with a downstream increase in calcium ion concentration and exocytosis of insulin.<xref ref-type="bibr" rid="article-22072.r16">[16]</xref>&#x000a0;GIP is rapidly inactivated by the ubiquitous enzyme dipeptidyl peptidase 4 (DPP-4), which is the same enzyme that cleaves GLP-1.<xref ref-type="bibr" rid="article-22072.r16">[16]</xref>&#x000a0;However, the inactivation of GIP occurs at a slower rate than GLP-1, giving GIP a half-life of 5 to 7 minutes.<xref ref-type="bibr" rid="article-22072.r3">[3]</xref>&#x000a0;DPP-4 cleaves alanine and proline residues in position 2 of the N-terminus in peptide chains.<xref ref-type="bibr" rid="article-22072.r17">[17]</xref>&#x000a0;Thus, substituting L-alanine for D-alanine residue at position 2 of GIP makes it resistant to the action of DPP-4 and enhances its incretin effect.<xref ref-type="bibr" rid="article-22072.r18">[18]</xref>&#x000a0;</p>
+      </sec>
+      <sec id="article-22072.s8" sec-type="Related Testing">
+        <title>Related Testing</title>
+        <p>GIP is measured in the plasma using commercially available sandwich&#x000a0;enzyme-linked immunoassay (ELISA) kits. The ELISA test is specific for GIP and does not cross-react with GLP-1 and GLP-2. GIP-(1-42), the biologically active form of GIP, is metabolized&#x000a0;by DPP-4 to form GIP-(3-42). GIP-(3-42) is biologically inactive and is found to have a weak antagonizing effect on GIP receptors in rat models.<xref ref-type="bibr" rid="article-22072.r19">[19]</xref> Specific assays for the N-terminus of GIP-(1-42) are used to quantify the levels of biologically active GIP in plasma.<xref ref-type="bibr" rid="article-22072.r11">[11]</xref>&#x000a0;However, an antibody directed against the C-terminal of the GIP peptide can be used to determine the total GIP secretion.<xref ref-type="bibr" rid="article-22072.r12">[12]</xref></p>
+      </sec>
+      <sec id="article-22072.s9" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>Although hyper- or hyposecretion of GIP is not causally related to the pathogenesis of diseases, the secretion of GIP is altered in the following disease states:</p>
+        <p>
+<bold>Type 2 Diabetes Mellites</bold>
+</p>
+        <p>An abnormal incretin effect occurs in pathological glucose intolerance.<xref ref-type="bibr" rid="article-22072.r20">[20]</xref>&#x000a0;Patients with type 2 diabetes mellitus either have lower levels of GIP or beta-cell resistance to GIP as compared to healthy individuals who demonstrate a dose-dependent incretin response to oral glucose. Since incretins contribute to approximately 70% of the insulin response post meals, reduced incretin effect is responsible for the glucose intolerance seen in diabetics.<xref ref-type="bibr" rid="article-22072.r21">[21]</xref></p>
+        <p>
+<bold>Obesity</bold>
+</p>
+        <p>GIP plays a vital role in lipid metabolism and the development of obesity. Hyperplasia of K-cells and increased GIP levels are observed in obesity, as fat is a potent stimulus of GIP secretion. As mentioned above, GIP is an anabolic hormone that inhibits lipolysis and stimulates lipogenesis.</p>
+        <p>
+<bold>Food-Induced Cushing Syndrome</bold>
+</p>
+        <p>GIP, like ACTH, can cause hypersecretion of cortisol after mixed meals, leading to food-induced Cushing syndrome or ACTH-independent macronodular adrenal hyperplasia (AIMAH).<xref ref-type="bibr" rid="article-22072.r22">[22]</xref>&#x000a0;GIP-R are present in the zona fasciculate of the adrenal cortex. Following a meal, GIP concentration increases in the blood, causing an increase in cortisol even in the presence of low ACTH. Treatment of AIMAH involves the use of somatostatin analogs such as octreotide.<xref ref-type="bibr" rid="article-22072.r23">[23]</xref></p>
+      </sec>
+      <sec id="article-22072.s10" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>DPP-4 inhibitors (linagliptin, saxagliptin, and sitagliptin) are oral hypoglycemic agents. Inhibition of DPP-4 results in increased plasma concentration of incretins and glucose-dependent insulin release. Therefore, they are beneficial in the treatment of diabetes. Studies have shown that DPP-4 inhibitors are well tolerated, weight neutral, and do not cause hypoglycemia due to their glucose-dependent action.<xref ref-type="bibr" rid="article-22072.r17">[17]</xref>&#x000a0;Also, gliptins are cardioprotective as they decrease systolic blood pressure and endothelial inflammation.<xref ref-type="bibr" rid="article-22072.r24">[24]</xref>&#x000a0;Although recent studies have shown gliptins to increase the risk of hospitalization with heart failure in patients with type 2 diabetes mellitus, this area requires more research.<xref ref-type="bibr" rid="article-22072.r25">[25]</xref> Patients with type 2 diabetes mellitus are increasingly receiving treatment with modified Roux-en-Y gastric bypass surgery (RYGB). Several studies have demonstrated enhanced GLP-1 response and reduced GIP secretion following RYGB, which contributes to&#x000a0;improved glucose&#x000a0;tolerance following the surgery in patients with diabetes.<xref ref-type="bibr" rid="article-22072.r26">[26]</xref></p>
+      </sec>
+      <sec id="article-22072.s11">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=22072&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=22072">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/22072/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=22072">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-22072.s12">
+        <title>References</title>
+        <ref id="article-22072.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Maxwell</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Shulkes</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Brown</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Solomon</surname>
+                <given-names>TE</given-names>
+              </name>
+              <name>
+                <surname>Walsh</surname>
+                <given-names>JH</given-names>
+              </name>
+              <name>
+                <surname>Grossman</surname>
+                <given-names>MI</given-names>
+              </name>
+            </person-group>
+            <article-title>Effect of gastric inhibitory polypeptide on pentagastrin-stimulated acid secretion in man.</article-title>
+            <source>Dig Dis Sci</source>
+            <year>1980</year>
+            <month>Feb</month>
+            <volume>25</volume>
+            <issue>2</issue>
+            <fpage>113</fpage>
+            <page-range>113-6</page-range>
+            <pub-id pub-id-type="pmid">7353457</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22072.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dupre</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ross</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>Watson</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Brown</surname>
+                <given-names>JC</given-names>
+              </name>
+            </person-group>
+            <article-title>Stimulation of insulin secretion by gastric inhibitory polypeptide in man.</article-title>
+            <source>J Clin Endocrinol Metab</source>
+            <year>1973</year>
+            <month>Nov</month>
+            <volume>37</volume>
+            <issue>5</issue>
+            <fpage>826</fpage>
+            <page-range>826-8</page-range>
+            <pub-id pub-id-type="pmid">4749457</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22072.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kuhre</surname>
+                <given-names>RE</given-names>
+              </name>
+              <name>
+                <surname>Wewer Albrechtsen</surname>
+                <given-names>NJ</given-names>
+              </name>
+              <name>
+                <surname>Hartmann</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Deacon</surname>
+                <given-names>CF</given-names>
+              </name>
+              <name>
+                <surname>Holst</surname>
+                <given-names>JJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Measurement of the incretin hormones: glucagon-like peptide-1 and glucose-dependent insulinotropic peptide.</article-title>
+            <source>J Diabetes Complications</source>
+            <year>2015</year>
+            <month>Apr</month>
+            <volume>29</volume>
+            <issue>3</issue>
+            <fpage>445</fpage>
+            <page-range>445-50</page-range>
+            <pub-id pub-id-type="pmid">25623632</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22072.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Scheen</surname>
+                <given-names>AJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Pharmacological management of type 2 diabetes: what's new in 2017?</article-title>
+            <source>Expert Rev Clin Pharmacol</source>
+            <year>2017</year>
+            <month>Dec</month>
+            <volume>10</volume>
+            <issue>12</issue>
+            <fpage>1383</fpage>
+            <page-range>1383-1394</page-range>
+            <pub-id pub-id-type="pmid">28879786</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22072.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wyncott</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Lyon</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Mounsey</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>PURLs: Need an add-on to metformin? Consider this.</article-title>
+            <source>J Fam Pract</source>
+            <year>2017</year>
+            <month>Jan</month>
+            <volume>66</volume>
+            <issue>1</issue>
+            <fpage>42</fpage>
+            <page-range>42-44</page-range>
+            <pub-id pub-id-type="pmid">28188318</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22072.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Fehmann</surname>
+                <given-names>HC</given-names>
+              </name>
+              <name>
+                <surname>G&#x000f6;ke</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>G&#x000f6;ke</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Cell and molecular biology of the incretin hormones glucagon-like peptide-I and glucose-dependent insulin releasing polypeptide.</article-title>
+            <source>Endocr Rev</source>
+            <year>1995</year>
+            <month>Jun</month>
+            <volume>16</volume>
+            <issue>3</issue>
+            <fpage>390</fpage>
+            <page-range>390-410</page-range>
+            <pub-id pub-id-type="pmid">7671853</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22072.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Holst</surname>
+                <given-names>JJ</given-names>
+              </name>
+            </person-group>
+            <article-title>On the physiology of GIP and GLP-1.</article-title>
+            <source>Horm Metab Res</source>
+            <year>2004</year>
+            <season>Nov-Dec</season>
+            <volume>36</volume>
+            <issue>11-12</issue>
+            <fpage>747</fpage>
+            <page-range>747-54</page-range>
+            <pub-id pub-id-type="pmid">15655703</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22072.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Takeda</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Seino</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Tanaka</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Fukumoto</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Kayano</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Takahashi</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Mitani</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Kurono</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Suzuki</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Tobe</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Sequence of an intestinal cDNA encoding human gastric inhibitory polypeptide precursor.</article-title>
+            <source>Proc Natl Acad Sci U S A</source>
+            <year>1987</year>
+            <month>Oct</month>
+            <volume>84</volume>
+            <issue>20</issue>
+            <fpage>7005</fpage>
+            <page-range>7005-8</page-range>
+            <pub-id pub-id-type="pmid">2890159</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22072.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Villar</surname>
+                <given-names>HV</given-names>
+              </name>
+              <name>
+                <surname>Fender</surname>
+                <given-names>HR</given-names>
+              </name>
+              <name>
+                <surname>Rayford</surname>
+                <given-names>PL</given-names>
+              </name>
+              <name>
+                <surname>Bloom</surname>
+                <given-names>SR</given-names>
+              </name>
+              <name>
+                <surname>Ramus</surname>
+                <given-names>NI</given-names>
+              </name>
+              <name>
+                <surname>Thompson</surname>
+                <given-names>JC</given-names>
+              </name>
+            </person-group>
+            <article-title>Suppression of gastrin release and gastric secretion by gastric inhibitory polypeptide (GIP) and vasoactive intestinal polypeptide (VIP).</article-title>
+            <source>Ann Surg</source>
+            <year>1976</year>
+            <month>Jul</month>
+            <volume>184</volume>
+            <issue>1</issue>
+            <fpage>97</fpage>
+            <page-range>97-102</page-range>
+            <pub-id pub-id-type="pmid">938120</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22072.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Usdin</surname>
+                <given-names>TB</given-names>
+              </name>
+              <name>
+                <surname>Mezey</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Button</surname>
+                <given-names>DC</given-names>
+              </name>
+              <name>
+                <surname>Brownstein</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Bonner</surname>
+                <given-names>TI</given-names>
+              </name>
+            </person-group>
+            <article-title>Gastric inhibitory polypeptide receptor, a member of the secretin-vasoactive intestinal peptide receptor family, is widely distributed in peripheral organs and the brain.</article-title>
+            <source>Endocrinology</source>
+            <year>1993</year>
+            <month>Dec</month>
+            <volume>133</volume>
+            <issue>6</issue>
+            <fpage>2861</fpage>
+            <page-range>2861-70</page-range>
+            <pub-id pub-id-type="pmid">8243312</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22072.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Deacon</surname>
+                <given-names>CF</given-names>
+              </name>
+              <name>
+                <surname>Nauck</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Meier</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>H&#x000fc;cking</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Holst</surname>
+                <given-names>JJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Degradation of endogenous and exogenous gastric inhibitory polypeptide in healthy and in type 2 diabetic subjects as revealed using a new assay for the intact peptide.</article-title>
+            <source>J Clin Endocrinol Metab</source>
+            <year>2000</year>
+            <month>Oct</month>
+            <volume>85</volume>
+            <issue>10</issue>
+            <fpage>3575</fpage>
+            <page-range>3575-81</page-range>
+            <pub-id pub-id-type="pmid">11061504</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22072.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>O'Dorisio</surname>
+                <given-names>TM</given-names>
+              </name>
+              <name>
+                <surname>Sirinek</surname>
+                <given-names>KR</given-names>
+              </name>
+              <name>
+                <surname>Mazzaferri</surname>
+                <given-names>EL</given-names>
+              </name>
+              <name>
+                <surname>Cataland</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Renal effects on serum gastric inhibitory polypeptide (GIP).</article-title>
+            <source>Metabolism</source>
+            <year>1977</year>
+            <month>Jun</month>
+            <volume>26</volume>
+            <issue>6</issue>
+            <fpage>651</fpage>
+            <page-range>651-6</page-range>
+            <pub-id pub-id-type="pmid">870794</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22072.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Unger</surname>
+                <given-names>RH</given-names>
+              </name>
+              <name>
+                <surname>Eisentraut</surname>
+                <given-names>AM</given-names>
+              </name>
+            </person-group>
+            <article-title>Entero-insular axis.</article-title>
+            <source>Arch Intern Med</source>
+            <year>1969</year>
+            <month>Mar</month>
+            <volume>123</volume>
+            <issue>3</issue>
+            <fpage>261</fpage>
+            <page-range>261-6</page-range>
+            <pub-id pub-id-type="pmid">4885674</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22072.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Irwin</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Gault</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Flatt</surname>
+                <given-names>PR</given-names>
+              </name>
+            </person-group>
+            <article-title>Therapeutic potential of the original incretin hormone glucose-dependent insulinotropic polypeptide: diabetes, obesity, osteoporosis and Alzheimer's disease?</article-title>
+            <source>Expert Opin Investig Drugs</source>
+            <year>2010</year>
+            <month>Sep</month>
+            <volume>19</volume>
+            <issue>9</issue>
+            <fpage>1039</fpage>
+            <page-range>1039-48</page-range>
+            <pub-id pub-id-type="pmid">20698813</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22072.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Martin</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Lopez de Maturana</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Brenneman</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Walent</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Mattson</surname>
+                <given-names>MP</given-names>
+              </name>
+              <name>
+                <surname>Maudsley</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Class II G protein-coupled receptors and their ligands in neuronal function and protection.</article-title>
+            <source>Neuromolecular Med</source>
+            <year>2005</year>
+            <volume>7</volume>
+            <issue>1-2</issue>
+            <fpage>3</fpage>
+            <page-range>3-36</page-range>
+            <pub-id pub-id-type="pmid">16052036</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22072.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mayo</surname>
+                <given-names>KE</given-names>
+              </name>
+              <name>
+                <surname>Miller</surname>
+                <given-names>LJ</given-names>
+              </name>
+              <name>
+                <surname>Bataille</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Dalle</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>G&#x000f6;ke</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Thorens</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Drucker</surname>
+                <given-names>DJ</given-names>
+              </name>
+            </person-group>
+            <article-title>International Union of Pharmacology. XXXV. The glucagon receptor family.</article-title>
+            <source>Pharmacol Rev</source>
+            <year>2003</year>
+            <month>Mar</month>
+            <volume>55</volume>
+            <issue>1</issue>
+            <fpage>167</fpage>
+            <page-range>167-94</page-range>
+            <pub-id pub-id-type="pmid">12615957</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22072.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Thornberry</surname>
+                <given-names>NA</given-names>
+              </name>
+              <name>
+                <surname>Gallwitz</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Mechanism of action of inhibitors of dipeptidyl-peptidase-4 (DPP-4).</article-title>
+            <source>Best Pract Res Clin Endocrinol Metab</source>
+            <year>2009</year>
+            <month>Aug</month>
+            <volume>23</volume>
+            <issue>4</issue>
+            <fpage>479</fpage>
+            <page-range>479-86</page-range>
+            <pub-id pub-id-type="pmid">19748065</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22072.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hinke</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>Gelling</surname>
+                <given-names>RW</given-names>
+              </name>
+              <name>
+                <surname>Pederson</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Manhart</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Nian</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Demuth</surname>
+                <given-names>HU</given-names>
+              </name>
+              <name>
+                <surname>McIntosh</surname>
+                <given-names>CH</given-names>
+              </name>
+            </person-group>
+            <article-title>Dipeptidyl peptidase IV-resistant [D-Ala(2)]glucose-dependent insulinotropic polypeptide (GIP) improves glucose tolerance in normal and obese diabetic rats.</article-title>
+            <source>Diabetes</source>
+            <year>2002</year>
+            <month>Mar</month>
+            <volume>51</volume>
+            <issue>3</issue>
+            <fpage>652</fpage>
+            <page-range>652-61</page-range>
+            <pub-id pub-id-type="pmid">11872663</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22072.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Deacon</surname>
+                <given-names>CF</given-names>
+              </name>
+              <name>
+                <surname>Plamboeck</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Rosenkilde</surname>
+                <given-names>MM</given-names>
+              </name>
+              <name>
+                <surname>de Heer</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Holst</surname>
+                <given-names>JJ</given-names>
+              </name>
+            </person-group>
+            <article-title>GIP-(3-42) does not antagonize insulinotropic effects of GIP at physiological concentrations.</article-title>
+            <source>Am J Physiol Endocrinol Metab</source>
+            <year>2006</year>
+            <month>Sep</month>
+            <volume>291</volume>
+            <issue>3</issue>
+            <fpage>E468</fpage>
+            <page-range>E468-75</page-range>
+            <pub-id pub-id-type="pmid">16608883</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22072.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Creutzfeldt</surname>
+                <given-names>W</given-names>
+              </name>
+            </person-group>
+            <article-title>The incretin concept today.</article-title>
+            <source>Diabetologia</source>
+            <year>1979</year>
+            <month>Feb</month>
+            <volume>16</volume>
+            <issue>2</issue>
+            <fpage>75</fpage>
+            <page-range>75-85</page-range>
+            <pub-id pub-id-type="pmid">32119</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22072.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Nauck</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>St&#x000f6;ckmann</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Ebert</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Creutzfeldt</surname>
+                <given-names>W</given-names>
+              </name>
+            </person-group>
+            <article-title>Reduced incretin effect in type 2 (non-insulin-dependent) diabetes.</article-title>
+            <source>Diabetologia</source>
+            <year>1986</year>
+            <month>Jan</month>
+            <volume>29</volume>
+            <issue>1</issue>
+            <fpage>46</fpage>
+            <page-range>46-52</page-range>
+            <pub-id pub-id-type="pmid">3514343</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22072.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Reznik</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Allali-Zerah</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Chayvialle</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Leroyer</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Leymarie</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Travert</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Lebrethon</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Budi</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Balliere</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Mahoudeau</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Food-dependent Cushing's syndrome mediated by aberrant adrenal sensitivity to gastric inhibitory polypeptide.</article-title>
+            <source>N Engl J Med</source>
+            <year>1992</year>
+            <month>Oct</month>
+            <day>01</day>
+            <volume>327</volume>
+            <issue>14</issue>
+            <fpage>981</fpage>
+            <page-range>981-6</page-range>
+            <pub-id pub-id-type="pmid">1325609</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22072.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lacroix</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>ACTH-independent macronodular adrenal hyperplasia.</article-title>
+            <source>Best Pract Res Clin Endocrinol Metab</source>
+            <year>2009</year>
+            <month>Apr</month>
+            <volume>23</volume>
+            <issue>2</issue>
+            <fpage>245</fpage>
+            <page-range>245-59</page-range>
+            <pub-id pub-id-type="pmid">19500767</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22072.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Scheen</surname>
+                <given-names>AJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Cardiovascular effects of gliptins.</article-title>
+            <source>Nat Rev Cardiol</source>
+            <year>2013</year>
+            <month>Feb</month>
+            <volume>10</volume>
+            <issue>2</issue>
+            <fpage>73</fpage>
+            <page-range>73-84</page-range>
+            <pub-id pub-id-type="pmid">23296071</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22072.r25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Scirica</surname>
+                <given-names>BM</given-names>
+              </name>
+              <name>
+                <surname>Bhatt</surname>
+                <given-names>DL</given-names>
+              </name>
+              <name>
+                <surname>Braunwald</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Steg</surname>
+                <given-names>PG</given-names>
+              </name>
+              <name>
+                <surname>Davidson</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Hirshberg</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Ohman</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Frederich</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Wiviott</surname>
+                <given-names>SD</given-names>
+              </name>
+              <name>
+                <surname>Hoffman</surname>
+                <given-names>EB</given-names>
+              </name>
+              <name>
+                <surname>Cavender</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Udell</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Desai</surname>
+                <given-names>NR</given-names>
+              </name>
+              <name>
+                <surname>Mosenzon</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>McGuire</surname>
+                <given-names>DK</given-names>
+              </name>
+              <name>
+                <surname>Ray</surname>
+                <given-names>KK</given-names>
+              </name>
+              <name>
+                <surname>Leiter</surname>
+                <given-names>LA</given-names>
+              </name>
+              <name>
+                <surname>Raz</surname>
+                <given-names>I</given-names>
+              </name>
+              <collab>SAVOR-TIMI 53 Steering Committee and Investigators</collab>
+            </person-group>
+            <article-title>Saxagliptin and cardiovascular outcomes in patients with type 2 diabetes mellitus.</article-title>
+            <source>N Engl J Med</source>
+            <year>2013</year>
+            <month>Oct</month>
+            <day>03</day>
+            <volume>369</volume>
+            <issue>14</issue>
+            <fpage>1317</fpage>
+            <page-range>1317-26</page-range>
+            <pub-id pub-id-type="pmid">23992601</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22072.r26">
+          <label>26</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Xiong</surname>
+                <given-names>SW</given-names>
+              </name>
+              <name>
+                <surname>Cao</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>XM</given-names>
+              </name>
+              <name>
+                <surname>Deng</surname>
+                <given-names>XM</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>FT</given-names>
+              </name>
+            </person-group>
+            <article-title>Effect of Modified Roux-en-Y Gastric Bypass Surgery on GLP-1, GIP in Patients with Type 2 Diabetes Mellitus.</article-title>
+            <source>Gastroenterol Res Pract</source>
+            <year>2015</year>
+            <volume>2015</volume>
+            <fpage>625196</fpage>
+            <pub-id pub-id-type="pmid">26167177</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

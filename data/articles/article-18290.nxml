@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-18290" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Biofeedback</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Malik</surname>
+            <given-names>Kashif</given-names>
+          </name>
+          <aff>Medical College of Georgia</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Dua</surname>
+            <given-names>Anterpreet</given-names>
+          </name>
+          <aff>Augusta University</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Kashif Malik declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Anterpreet Dua declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>2</day>
+          <month>3</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-18290.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Biofeedback is a technique to augment the normal sensory feedback and allow better control of body functions that are usually considered involuntary. The general mechanism starts by measuring a body parameter, either physiologic or biomechanical, which then gets transformed into a visual, auditory, or haptic signal. The individual learns to change the signal by controlling the body parameter. Positive feedback changes embed the actions into memory, allowing for an increased degree of control over a previously involuntary function. This activity outlines the method behind biofeedback techniques and reviews the role of the interprofessional team in improving care for patients who undergo biofeedback training.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Outline the basic components of the biofeedback system and give useful examples for each component.</p></list-item><list-item><p>Describe conditions where biofeedback may be a beneficial addition to treatment.</p></list-item><list-item><p>Review the limitations of current evidence about biofeedback.</p></list-item><list-item><p>Summarize the importance of collaboration and communication amongst the interprofessional team members to improve outcomes for patients receiving biofeedback.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=18290&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=18290">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-18290.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Biofeedback is a technique used to improve the ability to modify involuntary processes consciously.&#x000a0;It is frequently used for symptom management in chronic illness and as part of physical therapy for patients with motor dysfunction. The general strategy to biofeedback starts with utilizing non-invasive equipment to take measurements of a chosen physical parameter. The measured parameter is then either displayed directly or transformed into a visual, auditory, or tactile feedback signal. The patient will then practice controlling the feedback signal by consciously adjusting the physical parameter. Because the technique provides another form of feedback in addition to the body&#x02019;s intrinsic sensory nervous system, it is sometimes called augmented feedback or extrinsic feedback.</p>
+        <p>Biofeedback divides into two major groups, biomechanical and physiologic, based on the parameter of interest. Biomechanical techniques measure body activity and movement using simple inertial sensors or more complex video motion sensors<xref ref-type="bibr" rid="article-18290.r1">[1]</xref>.&#x000a0;Several different modalities serve to measure physiologic activity. Muscle activity measured by electromyography is one of the most common, but other options are cardiac activity measured by heart rate and heart rate variability, breathing activity measured by respiratory rate and depth, and electrodermal activity measured by skin conductance<xref ref-type="bibr" rid="article-18290.r2">[2]</xref>. Forms of biofeedback have been in use in physical therapy for more than 50 years, where it is beneficial in the management of neuromuscular disorders. Biofeedback techniques have shown benefit when used as part of a physical therapy program for people with motor weakness or dysfunction after stroke, after orthopedic surgery, or due to other neuromuscular diseases. These methods are getting better at training for complex task-oriented activities like walking and grasping objects as technology continues to advance.<xref ref-type="bibr" rid="article-18290.r3">[3]</xref></p>
+        <p>Aside from neuromuscular retraining, the most common use for biofeedback is to help with chronic symptom management due to anxiety, pain, and urinary and fecal incontinence. These techniques focus on managing the overactive sympathetic response and coordinating muscle activity in gastrointestinal and genitourinary tracts.<xref ref-type="bibr" rid="article-18290.r4">[4]</xref><xref ref-type="bibr" rid="article-18290.r5">[5]</xref></p>
+        <p>Biofeedback techniques are generally regarded as safe and free of side effects. For this reason, they are incorporated into treatment plans despite lacking strong evidence to support their benefits.<xref ref-type="bibr" rid="article-18290.r2">[2]</xref></p>
+      </sec>
+      <sec id="article-18290.s3" sec-type="Anatomy and Physiology">
+        <title>Anatomy and Physiology</title>
+        <p>Clinicians may use biofeedback to control global physiologic reactions or specific muscle actions. Frequently targeted muscle groups are in the upper and lower limbs and the muscles used in gait. Muscles controlled by the autonomic nervous system, such as digestion, defecation, and urination, are also commonly selected&#x000a0;<xref ref-type="bibr" rid="article-18290.r6">[6]</xref>. For urinary incontinence, pelvic floor muscles are the target, while in fecal incontinence the focus is on the external anal sphincter. Biofeedback also has non-musculoskeletal&#x000a0;targets such as anxiety and stress reduction. Biofeedback has also seen use in controlling&#x000a0;the vasculature to reduce vasoconstriction, as well.</p>
+      </sec>
+      <sec id="article-18290.s4" sec-type="Indications">
+        <title>Indications</title>
+        <p>CLinicians can incorporate biofeedback techniques into the overall treatment plan for a wide variety of conditions. It is frequently used to manage stress and anxiety, either if they are the primary illness or due to another cause. There is specific evidence that exists to support the use of biofeedback for specific&#x000a0;ailments, including the following<xref ref-type="bibr" rid="article-18290.r7">[7]</xref>:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Constipation</p>
+          </list-item>
+          <list-item>
+            <p>Fecal&#x000a0;incontinence</p>
+          </list-item>
+          <list-item>
+            <p>Urinary incontinence</p>
+          </list-item>
+          <list-item>
+            <p>Chronic pain - includes chronic low back pain, chronic pelvic pain, and other pain syndromes</p>
+          </list-item>
+          <list-item>
+            <p>Chronic insomnia</p>
+          </list-item>
+          <list-item>
+            <p>Migraine headaches</p>
+          </list-item>
+          <list-item>
+            <p>Chronic fatigue</p>
+          </list-item>
+          <list-item>
+            <p>Fibromyalgia</p>
+          </list-item>
+          <list-item>
+            <p>Epilepsy</p>
+          </list-item>
+          <list-item>
+            <p>Motion sickness</p>
+          </list-item>
+          <list-item>
+            <p>Depression</p>
+          </list-item>
+          <list-item>
+            <p>Anxiety</p>
+          </list-item>
+          <list-item>
+            <p>Raynaud phenomenon</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-18290.s5" sec-type="Contraindications">
+        <title>Contraindications</title>
+        <p>Biofeedback does not have any absolute contraindications. It may be used for any age population and has general acceptance as a safe procedure.<xref ref-type="bibr" rid="article-18290.r8">[8]</xref></p>
+        <p>The patient must be able to play an active participatory role, so it may not be an apt procedure if the patient cannot comprehend and follow commands. It is also not suitable in cases of complete paralysis. Biofeedback may not be used as the sole treatment for&#x000a0;severe hypertension and should be used with caution in acute psychiatric patients <xref ref-type="bibr" rid="article-18290.r9">[9]</xref>.&#x000a0;</p>
+      </sec>
+      <sec id="article-18290.s6" sec-type="Equipment">
+        <title>Equipment</title>
+        <p>Biofeedback techniques can divide into two main groups based on the type of action they aim to control &#x02013; physiologic or biomechanical. Each type requires specific equipment to measure the sensory parameter, transform it to feedback, and display the results.</p>
+        <p>Physiologic biofeedback uses electromyography to measure muscle activity. The autonomic activity can be monitored through measurements of heart rate, respiratory rate and depth, and electrodermal activity. Electroencephalography is possible but less frequently used.<xref ref-type="bibr" rid="article-18290.r10">[10]</xref></p>
+        <p>Biomechanical feedback parameters describe movement and spatial orientation. They are measured with inertial motion detectors (e.g., accelerometer or gyroscope), force plate sensors, and real-time ultrasound. Endoscopy has been used successfully used but is not a common strategy.<xref ref-type="bibr" rid="article-18290.r11">[11]</xref></p>
+        <p>The information from the sensors is processed and transformed into the returned feedback, which may be visual (changing graphics display or pattern), auditory (varying tone or music volume), or haptic (vibrating wearable device).</p>
+        <p>Virtual reality uses wearable motion detector sensors and more extensive processing and display equipment. Virtual reality can help create interactive games that incorporate rehabilitation mechanics, which is especially beneficial for pediatric patients.<xref ref-type="bibr" rid="article-18290.r12">[12]</xref>&#x000a0;This technology can be used to increase patient engagement (especially in the pediatric population), motivation, and improve overall outcomes.</p>
+      </sec>
+      <sec id="article-18290.s7" sec-type="Personnel">
+        <title>Personnel</title>
+        <p>Skilled physical therapists are vital to the proper use of biofeedback therapies.<xref ref-type="bibr" rid="article-18290.r13">[13]</xref>&#x000a0;Experienced technicians are also necessary for several other modalities, including EEG, skin conductance, and ultrasound. Biofeedback technicians and clinical certificants are providers that have been certified by the&#x000a0;Association for Applied Psychophysiology and Biofeedback (AAPB) to use biofeedback therapy. Finally, the patient's supervising physician is instrumental in determining the overall progress of the patient and coordinating the other therapies that the patient is receiving to maximize their progress.</p>
+      </sec>
+      <sec id="article-18290.s8" sec-type="Preparation">
+        <title>Preparation</title>
+        <p>Successful biofeedback training requires a great deal of motivation and participation. The individual must be able to communicate and comprehend and follow through with instructions. The proper modality must be chosen for the correct indication. For example, electromyography biofeedback is more commonly used for musculoskeletal conditions, while real-time ultrasound biofeedback can be used for pelvic floor dysfunction.<xref ref-type="bibr" rid="article-18290.r6">[6]</xref>&#x000a0;For headaches, blood volume pulse feedback has been shown to have the most evidence for reducing headache severity and frequency.<xref ref-type="bibr" rid="article-18290.r14">[14]</xref>&#x000a0;For each modality, sensors will be attached to the patient in different areas depending on the indication.&#x000a0;</p>
+      </sec>
+      <sec id="article-18290.s9" sec-type="Technique or Treatment">
+        <title>Technique or Treatment</title>
+        <p>This process is essentially a form of operant conditioning with positive feedback for performing the desired action or behavior and negative feedback for not doing so. The first step is to choose the best modality and establish the baseline parameter. The next step is to learn to control the parameter and to practice until the action has become embedded into memory. An example of this is the use of biofeedback for hypertension. In thermal biofeedback, a temperature probe is attached to a patient's finger or toe and is instructed to increase or decrease the temperature in response to the feedback. Warming a digit involves decreasing sympathetic vasoconstrictive tone to that digit and thus increasing blood flow.<xref ref-type="bibr" rid="article-18290.r15">[15]</xref>&#x000a0;The overall goal is that this training can help systemically to decrease neural-mediated vasoconstriction and thus decrease the total peripheral resistance leading to a decrease in blood pressure.<xref ref-type="bibr" rid="article-18290.r15">[15]</xref>&#x000a0;Another common use of biofeedback is for urinary incontinence and enuresis in children. Electrodes get placed near the anus and on the leg, and a urotherapist teaches the child pelvic floor exercises.<xref ref-type="bibr" rid="article-18290.r16">[16]</xref>&#x000a0;A video game incorporates these exercises where the child plays as a caterpillar and is instructed to contract their pelvic floor muscles to avoid obstacles. The child is also then taught to continue these exercises at home, with the hope of improving pelvic floor strength and decreasing urinary incontinence.<xref ref-type="bibr" rid="article-18290.r16">[16]</xref></p>
+      </sec>
+      <sec id="article-18290.s10" sec-type="Complications">
+        <title>Complications</title>
+        <p>Biofeedback is a very safe and well-tolerated procedure that has minimal complications. If biofeedback is used at all times during therapy, there may be a drop in the performance following its discontinuation. It is, therefore, beneficial to practice the same techniques without the biofeedback equipment as part of the overall treatment for sustained improvement.<xref ref-type="bibr" rid="article-18290.r17">[17]</xref>&#x000a0;If the patient does not practice the techniques often, then the treatment can have less than intended results over time and may require retraining.&#x000a0;</p>
+      </sec>
+      <sec id="article-18290.s11" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>Biofeedback techniques can potentially provide symptom relief and improve quality of life while also being safe and free of significant side effects. The methods allow patients to have some control over their disease, which is valuable in maintaining patient self-efficacy and overall well-being.<xref ref-type="bibr" rid="article-18290.r18">[18]</xref>&#x000a0;With enough training sessions, patients can make changes that will last without the use of these instruments. Biofeedback&#x000a0;can potentially also reduce the amount of medication a patient is taking, which can help patients avoid the problem of polypharmacy and limit side effects from other drugs.&#x000a0;</p>
+      </sec>
+      <sec id="article-18290.s12" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Biofeedback techniques are suggested for symptom management for chronic pain, fatigue, and insomnia, but they are best as one part of a more extensive rehabilitation plan. Benefits vary between individuals, and results occur more often seen if used with some combination of cognitive-behavioral therapy, physical therapy, and other relaxation techniques.<xref ref-type="bibr" rid="article-18290.r19">[19]</xref><xref ref-type="bibr" rid="article-18290.r20">[20]</xref>&#x000a0; There have been several smaller studies and systemic reviews on biofeedback measures, but results are conflicting and likely subject to publication bias. Some of the studies had poor randomization or were compared to a control of no treatment rather than standard physical therapy.<xref ref-type="bibr" rid="article-18290.r6">[6]</xref><xref ref-type="bibr" rid="article-18290.r21">[21]</xref>&#x000a0;More long-term studies are necessary to see if the positive outcomes are maintainable over time.&#x000a0;An interprofessional team, including primary care providers, pain specialists, neurologists, physical therapists, and specialty-trained psychiatric health nurses who can assist the clinician and track results, can maximize the benefits of these procedures. Nurses and therapists educate patients, monitor response to biofeedback, and inform the team about patient progress. There must also be open avenues of communication between the multiple potential clinicians on a case. A functioning interprofessional team will lead to better outcomes with biofeedback. [Level 5]</p>
+      </sec>
+      <sec id="article-18290.s13" sec-type="Nursing, Allied Health, and Interprofessional Team Interventions">
+        <title>Nursing, Allied Health, and Interprofessional Team Interventions</title>
+        <p>Symptoms of anxiety or abnormalities in gait are often first notified by nurses. It can be very beneficial for them to know when biofeedback is beneficial and when it may be offered as a supplemental treatment. There are many indications where biofeedback can help in the care of a patient, so nurses should be aware of presenting symptoms and consider its use. In some states, certain providers such as psychologists may not be able to physically touch their patients to apply sensors and may require a health care provider such as a nurse to act as a chaperone or apply the sensors. Nurses can also provide education to patients about their current medical condition. For instance, a patient with urinary incontinence may receive information from nurses about reducing accidents by having scheduled voiding times.&#x000a0;</p>
+      </sec>
+      <sec id="article-18290.s14" sec-type="Nursing, Allied Health, and Interprofessional Team Monitoring">
+        <title>Nursing, Allied Health, and Interprofessional Team Monitoring</title>
+        <p>During ongoing biofeedback therapy, primary monitoring is for fatigue, which can be exacerbated by ongoing treatment. Depending on the modality, nurses&#x000a0;check for discomfort that some patients may experience, such as in some forms of fecal incontinence where probes and balloons are inserted into the rectum to stimulate defecation. Nurses also&#x000a0;observe for complications such as reactions to sensor tape.<xref ref-type="bibr" rid="article-18290.r22">[22]</xref></p>
+      </sec>
+      <sec id="article-18290.s15">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=18290&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=18290">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/18290/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=18290">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-18290.s16">
+        <title>References</title>
+        <ref id="article-18290.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kos</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Toma&#x0017e;i&#x0010d;</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Umek</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Suitability of Smartphone Inertial Sensors for Real-Time Biofeedback Applications.</article-title>
+            <source>Sensors (Basel)</source>
+            <year>2016</year>
+            <month>Feb</month>
+            <day>27</day>
+            <volume>16</volume>
+            <issue>3</issue>
+            <fpage>301</fpage>
+            <pub-id pub-id-type="pmid">26927125</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18290.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Windthorst</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Veit</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Enck</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Smolka</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Zipfel</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Teufel</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>[Biofeedback and neurofeedback: applications in psychosomatic medicine and psychotherapy].</article-title>
+            <source>Psychother Psychosom Med Psychol</source>
+            <year>2015</year>
+            <month>Mar</month>
+            <volume>65</volume>
+            <issue>3-4</issue>
+            <fpage>146</fpage>
+            <page-range>146-58</page-range>
+            <pub-id pub-id-type="pmid">25798668</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18290.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cheung</surname>
+                <given-names>EYY</given-names>
+              </name>
+              <name>
+                <surname>Yu</surname>
+                <given-names>KKK</given-names>
+              </name>
+              <name>
+                <surname>Kwan</surname>
+                <given-names>RLC</given-names>
+              </name>
+              <name>
+                <surname>Ng</surname>
+                <given-names>CKM</given-names>
+              </name>
+              <name>
+                <surname>Chau</surname>
+                <given-names>RMW</given-names>
+              </name>
+              <name>
+                <surname>Cheing</surname>
+                <given-names>GLY</given-names>
+              </name>
+            </person-group>
+            <article-title>Effect of EMG-biofeedback robotic-assisted body weight supported treadmill training on walking ability and cardiopulmonary function on people with subacute spinal cord injuries - a randomized controlled trial.</article-title>
+            <source>BMC Neurol</source>
+            <year>2019</year>
+            <month>Jun</month>
+            <day>24</day>
+            <volume>19</volume>
+            <issue>1</issue>
+            <fpage>140</fpage>
+            <pub-id pub-id-type="pmid">31234791</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18290.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <collab>American Gastroenterological Association</collab>
+              <name>
+                <surname>Bharucha</surname>
+                <given-names>AE</given-names>
+              </name>
+              <name>
+                <surname>Dorn</surname>
+                <given-names>SD</given-names>
+              </name>
+              <name>
+                <surname>Lembo</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Pressman</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>American Gastroenterological Association medical position statement on constipation.</article-title>
+            <source>Gastroenterology</source>
+            <year>2013</year>
+            <month>Jan</month>
+            <volume>144</volume>
+            <issue>1</issue>
+            <fpage>211</fpage>
+            <page-range>211-7</page-range>
+            <pub-id pub-id-type="pmid">23261064</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18290.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Costilla</surname>
+                <given-names>VC</given-names>
+              </name>
+              <name>
+                <surname>Foxx-Orenstein</surname>
+                <given-names>AE</given-names>
+              </name>
+              <name>
+                <surname>Mayer</surname>
+                <given-names>AP</given-names>
+              </name>
+              <name>
+                <surname>Crowell</surname>
+                <given-names>MD</given-names>
+              </name>
+            </person-group>
+            <article-title>Office-based management of fecal incontinence.</article-title>
+            <source>Gastroenterol Hepatol (N Y)</source>
+            <year>2013</year>
+            <month>Jul</month>
+            <volume>9</volume>
+            <issue>7</issue>
+            <fpage>423</fpage>
+            <page-range>423-33</page-range>
+            <pub-id pub-id-type="pmid">23935551</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18290.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Giggins</surname>
+                <given-names>OM</given-names>
+              </name>
+              <name>
+                <surname>Persson</surname>
+                <given-names>UM</given-names>
+              </name>
+              <name>
+                <surname>Caulfield</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Biofeedback in rehabilitation.</article-title>
+            <source>J Neuroeng Rehabil</source>
+            <year>2013</year>
+            <month>Jun</month>
+            <day>18</day>
+            <volume>10</volume>
+            <fpage>60</fpage>
+            <pub-id pub-id-type="pmid">23777436</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18290.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Frank</surname>
+                <given-names>DL</given-names>
+              </name>
+              <name>
+                <surname>Khorshid</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Kiffer</surname>
+                <given-names>JF</given-names>
+              </name>
+              <name>
+                <surname>Moravec</surname>
+                <given-names>CS</given-names>
+              </name>
+              <name>
+                <surname>McKee</surname>
+                <given-names>MG</given-names>
+              </name>
+            </person-group>
+            <article-title>Biofeedback in medicine: who, when, why and how?</article-title>
+            <source>Ment Health Fam Med</source>
+            <year>2010</year>
+            <month>Jun</month>
+            <volume>7</volume>
+            <issue>2</issue>
+            <fpage>85</fpage>
+            <page-range>85-91</page-range>
+            <pub-id pub-id-type="pmid">22477926</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18290.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Venkatesan</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Levinthal</surname>
+                <given-names>DJ</given-names>
+              </name>
+              <name>
+                <surname>Tarbell</surname>
+                <given-names>SE</given-names>
+              </name>
+              <name>
+                <surname>Jaradeh</surname>
+                <given-names>SS</given-names>
+              </name>
+              <name>
+                <surname>Hasler</surname>
+                <given-names>WL</given-names>
+              </name>
+              <name>
+                <surname>Issenman</surname>
+                <given-names>RM</given-names>
+              </name>
+              <name>
+                <surname>Adams</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Sarosiek</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Stave</surname>
+                <given-names>CD</given-names>
+              </name>
+              <name>
+                <surname>Sharaf</surname>
+                <given-names>RN</given-names>
+              </name>
+              <name>
+                <surname>Sultan</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>BUK</given-names>
+              </name>
+            </person-group>
+            <article-title>Guidelines on management of cyclic vomiting syndrome in adults by the American Neurogastroenterology and Motility Society and the Cyclic Vomiting Syndrome Association.</article-title>
+            <source>Neurogastroenterol Motil</source>
+            <year>2019</year>
+            <month>Jun</month>
+            <volume>31 Suppl 2</volume>
+            <issue>Suppl 2</issue>
+            <fpage>e13604</fpage>
+            <pub-id pub-id-type="pmid">31241819</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18290.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Greenhalgh</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Dickson</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Dundar</surname>
+                <given-names>Y</given-names>
+              </name>
+            </person-group>
+            <article-title>Biofeedback for hypertension: a systematic review.</article-title>
+            <source>J Hypertens</source>
+            <year>2010</year>
+            <month>Apr</month>
+            <volume>28</volume>
+            <issue>4</issue>
+            <fpage>644</fpage>
+            <page-range>644-52</page-range>
+            <pub-id pub-id-type="pmid">20090553</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18290.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Nagai</surname>
+                <given-names>Y</given-names>
+              </name>
+            </person-group>
+            <article-title>[Biofeedback treatment for epilepsy].</article-title>
+            <source>Nihon Rinsho</source>
+            <year>2014</year>
+            <month>May</month>
+            <volume>72</volume>
+            <issue>5</issue>
+            <fpage>887</fpage>
+            <page-range>887-93</page-range>
+            <pub-id pub-id-type="pmid">24912291</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18290.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Imada</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Kagaya</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Ishiguro</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Kato</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Inamoto</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Tanaka</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Shibata</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Saitoh</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Effect of visual biofeedback to acquire supraglottic swallow in healthy individuals: a randomized-controlled trial.</article-title>
+            <source>Int J Rehabil Res</source>
+            <year>2016</year>
+            <month>Jun</month>
+            <volume>39</volume>
+            <issue>2</issue>
+            <fpage>181</fpage>
+            <page-range>181-4</page-range>
+            <pub-id pub-id-type="pmid">26795716</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18290.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yoo</surname>
+                <given-names>JW</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>DR</given-names>
+              </name>
+              <name>
+                <surname>Cha</surname>
+                <given-names>YJ</given-names>
+              </name>
+              <name>
+                <surname>You</surname>
+                <given-names>SH</given-names>
+              </name>
+            </person-group>
+            <article-title>Augmented effects of EMG biofeedback interfaced with virtual reality on neuromuscular control and movement coordination during reaching in children with cerebral palsy.</article-title>
+            <source>NeuroRehabilitation</source>
+            <year>2017</year>
+            <volume>40</volume>
+            <issue>2</issue>
+            <fpage>175</fpage>
+            <page-range>175-185</page-range>
+            <pub-id pub-id-type="pmid">28222541</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18290.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Afzal</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Eizad</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>CH</given-names>
+              </name>
+              <name>
+                <surname>Oh</surname>
+                <given-names>MK</given-names>
+              </name>
+              <name>
+                <surname>Yoon</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Effects of Vibrotactile Biofeedback Coding Schemes on Gait Symmetry Training of Individuals With Stroke.</article-title>
+            <source>IEEE Trans Neural Syst Rehabil Eng</source>
+            <year>2019</year>
+            <month>Aug</month>
+            <volume>27</volume>
+            <issue>8</issue>
+            <fpage>1617</fpage>
+            <page-range>1617-1625</page-range>
+            <pub-id pub-id-type="pmid">31247557</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18290.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Andrasik</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>Biofeedback in headache: an overview of approaches and evidence.</article-title>
+            <source>Cleve Clin J Med</source>
+            <year>2010</year>
+            <month>Jul</month>
+            <volume>77 Suppl 3</volume>
+            <fpage>S72</fpage>
+            <page-range>S72-6</page-range>
+            <pub-id pub-id-type="pmid">20622082</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18290.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Greenhalgh</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Dickson</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Dundar</surname>
+                <given-names>Y</given-names>
+              </name>
+            </person-group>
+            <article-title>The effects of biofeedback for the treatment of essential hypertension: a systematic review.</article-title>
+            <source>Health Technol Assess</source>
+            <year>2009</year>
+            <month>Oct</month>
+            <volume>13</volume>
+            <issue>46</issue>
+            <fpage>1</fpage>
+            <page-range>1-104</page-range>
+            <pub-id pub-id-type="pmid">19822104</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18290.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sancak</surname>
+                <given-names>EB</given-names>
+              </name>
+              <name>
+                <surname>Akba&#x0015f;</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Kurt</surname>
+                <given-names>&#x000d6;</given-names>
+              </name>
+              <name>
+                <surname>Alan</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Ersay</surname>
+                <given-names>AR</given-names>
+              </name>
+            </person-group>
+            <article-title>The effectiveness of biofeedback therapy in children with monosymptomatic enuresis resistant to desmopressin treatment.</article-title>
+            <source>Turk J Urol</source>
+            <year>2016</year>
+            <month>Dec</month>
+            <volume>42</volume>
+            <issue>4</issue>
+            <fpage>278</fpage>
+            <page-range>278-284</page-range>
+            <pub-id pub-id-type="pmid">27909622</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18290.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tate</surname>
+                <given-names>JJ</given-names>
+              </name>
+              <name>
+                <surname>Milner</surname>
+                <given-names>CE</given-names>
+              </name>
+            </person-group>
+            <article-title>Real-time kinematic, temporospatial, and kinetic biofeedback during gait retraining in patients: a systematic review.</article-title>
+            <source>Phys Ther</source>
+            <year>2010</year>
+            <month>Aug</month>
+            <volume>90</volume>
+            <issue>8</issue>
+            <fpage>1123</fpage>
+            <page-range>1123-34</page-range>
+            <pub-id pub-id-type="pmid">20558567</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18290.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Martic-Biocina</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Zivoder</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Kozina</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Biofeedback and neurofeedback application in the treatment of migraine.</article-title>
+            <source>Psychiatr Danub</source>
+            <year>2017</year>
+            <month>Sep</month>
+            <volume>29</volume>
+            <issue>Suppl 3</issue>
+            <fpage>575</fpage>
+            <page-range>575-577</page-range>
+            <pub-id pub-id-type="pmid">28953832</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18290.r19">
+          <label>19</label>
+          <element-citation publication-type="book">
+            <collab>John M. Eisenberg Center for Clinical Decisions and Communications Science</collab>
+            <chapter-title>Effectiveness of Treatments for Noncyclic Chronic Pelvic Pain in Adult Women</chapter-title>
+            <source>Comparative Effectiveness Review Summary Guides for Clinicians [Internet]</source>
+            <publisher-name>Agency for Healthcare Research and Quality (US)</publisher-name>
+            <publisher-loc>Rockville (MD)</publisher-loc>
+            <year>2012</year>
+            <month>4</month>
+            <day>16</day>
+            <pub-id pub-id-type="pmid">22624166</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18290.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Qaseem</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Wilt</surname>
+                <given-names>TJ</given-names>
+              </name>
+              <name>
+                <surname>McLean</surname>
+                <given-names>RM</given-names>
+              </name>
+              <name>
+                <surname>Forciea</surname>
+                <given-names>MA</given-names>
+              </name>
+              <collab>Clinical Guidelines Committee of the American College of Physicians</collab>
+              <name>
+                <surname>Denberg</surname>
+                <given-names>TD</given-names>
+              </name>
+              <name>
+                <surname>Barry</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Boyd</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Chow</surname>
+                <given-names>RD</given-names>
+              </name>
+              <name>
+                <surname>Fitterman</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Harris</surname>
+                <given-names>RP</given-names>
+              </name>
+              <name>
+                <surname>Humphrey</surname>
+                <given-names>LL</given-names>
+              </name>
+              <name>
+                <surname>Vijan</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Noninvasive Treatments for Acute, Subacute, and Chronic Low Back Pain: A Clinical Practice Guideline From the American College of Physicians.</article-title>
+            <source>Ann Intern Med</source>
+            <year>2017</year>
+            <month>Apr</month>
+            <day>04</day>
+            <volume>166</volume>
+            <issue>7</issue>
+            <fpage>514</fpage>
+            <page-range>514-530</page-range>
+            <pub-id pub-id-type="pmid">28192789</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18290.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Huang</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Wolf</surname>
+                <given-names>SL</given-names>
+              </name>
+              <name>
+                <surname>He</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Recent developments in biofeedback for neuromotor rehabilitation.</article-title>
+            <source>J Neuroeng Rehabil</source>
+            <year>2006</year>
+            <month>Jun</month>
+            <day>21</day>
+            <volume>3</volume>
+            <fpage>11</fpage>
+            <pub-id pub-id-type="pmid">16790060</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18290.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chiarioni</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Ferri</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Morelli</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Iantorno</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Bassotti</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Bio-feedback treatment of fecal incontinence: where are we, and where are we going?</article-title>
+            <source>World J Gastroenterol</source>
+            <year>2005</year>
+            <month>Aug</month>
+            <day>21</day>
+            <volume>11</volume>
+            <issue>31</issue>
+            <fpage>4771</fpage>
+            <page-range>4771-5</page-range>
+            <pub-id pub-id-type="pmid">16097042</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

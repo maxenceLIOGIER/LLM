@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-24648" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Appropriate Magnetic Resonance Imaging Ordering</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Ashby</surname>
+            <given-names>Kristen</given-names>
+          </name>
+          <aff>Virginia Commonwealth University School of Medicine, Medical College of Virginia</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Adams</surname>
+            <given-names>Brooke N.</given-names>
+          </name>
+          <aff>Kansas City University</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Shetty</surname>
+            <given-names>Mrin</given-names>
+          </name>
+          <aff>University of Chicago (NorthShore)</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Kristen Ashby declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Brooke Adams declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Mrin Shetty declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>14</day>
+          <month>11</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-24648.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Magnetic resonance imaging (MRI) is a diagnostic imaging technique useful for the detailed characterization of soft tissues without ionizing radiation. When used correctly, MRI imaging is noninvasive and, in some cases, eliminates the need for surgical intervention or invasive procedures. This activity outlines the appropriate clinical use of MRI to evaluate for common clinical questions (and is not all-encompassing). It reviews contraindications that are important considerations for the interprofessional team contemplating this imaging modality.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Assess&#x000a0;the appropriate use of MRI imaging broadly organized by anatomy.</p></list-item><list-item><p>Evaluate the appropriate use of gadolinium-based contrast and risk factors for developing nephrogenic systemic fibrosis.</p></list-item><list-item><p>Identify contraindications to MRI, specifically related to implanted hardware.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=24648&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=24648">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-24648.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Magnetic resonance imaging (MRI) is a diagnostic technique useful for noninvasive visualization of organs and soft tissue structures.<xref ref-type="bibr" rid="article-24648.r1">[1]</xref>&#x000a0;The ability to evaluate for structural integrity lends MRI to imaging the neural axis and large joints of the musculoskeletal system, where it was used most heavily during its infancy. Since then, MR's scope and application have broadened significantly and now encompasses abdominopelvic and cardiac imaging. Clinicians frequently order MRIs to characterize soft tissue and&#x000a0;osseous&#x000a0;lesions or&#x000a0;masses. In some cases, the varying MRI sequences can determine the composition of these abnormalities. For example, MRI elastography can diagnose and surveil&#x000a0;hepatic fibrosis, sparing the patient&#x000a0;from an invasive&#x000a0;and repetitive biopsy. MR angiography, using both contrast-enhanced and non-contrast techniques, can diagnose vascular occlusive disease and stenosis.&#x000a0;Faster scan times and gating techniques minimizing&#x000a0;cardiac and respiratory motion&#x000a0;make MRI a useful non-invasive tool&#x000a0;for&#x000a0;cardiac evaluations of structure, function, and myocardial perfusion.<xref ref-type="bibr" rid="article-24648.r2">[2]</xref><xref ref-type="bibr" rid="article-24648.r3">[3]</xref>&#x000a0;A major advantage of MRI is the ability to produce high-quality images with superior soft-tissue contrast without ionizing radiation. The magnet generates images based on the tissues' specific and unique magnetic properties driven by the spin properties of hydrogen molecules.<xref ref-type="bibr" rid="article-24648.r4">[4]</xref>&#x000a0;This makes MRI especially useful to evaluate "high radiation&#x000a0;risk" patients like pregnant women and children. MRI is also valuable for patients with chronic conditions requiring routine imaging surveillance, such as multiple sclerosis and&#x000a0;inflammatory&#x000a0;bowel diseases.<xref ref-type="bibr" rid="article-24648.r5">[5]</xref></p>
+        <p>MRI does not exist without hazard &#x02013; the magnetic field can be dangerous, and strict parameters are in place to ensure patient safety.&#x000a0;Pre-imaging screening protocols are in place to assess the patient&#x02019;s risk factors ranging from occupational exposures to surgically implanted devices determined to be incompatible with the magnetic field. Though many of the newer generation&#x000a0;implanted devices are MR compatible,&#x000a0;it is&#x000a0;crucial&#x000a0;to consult&#x000a0;with both the radiologist and MR technologists. The magnetic field can alter implanted devices and result in loss of function, positioning, and temperature changes. Additionally, while some prosthetic devices- like heart valves, stents, and artificial joints- are MR-safe, they may cause signal artifacts that limit the diagnostic quality of the exam.<xref ref-type="bibr" rid="article-24648.r6">[6]</xref>&#x000a0;While not all-inclusive, this&#x000a0;topic provides information for clinicians to consider when ordering MR imaging.</p>
+      </sec>
+      <sec id="article-24648.s3" sec-type="Function">
+        <title>Function</title>
+        <p>Traditionally, MRI is an adjunct or complementary imaging exam following initial evaluation with more accessible and cost-effective modalities, like radiographs, ultrasound, or computed tomography (CT). The goal is to characterize a finding using the specific magnetic properties of the tissues&#x000a0;and, less commonly, to guide biopsy.</p>
+        <p><bold>Neurological</bold>: MRI is broadly useful for imaging the central nervous system. It is a beautiful addition to non-contrast CT to evaluate for acute and subacute infarcts, headaches, seizure evaluation, and following a neoplastic process. Considering the time-sensitive nature of stroke evaluation, a non-contrast-enhanced MRI of the brain is indicated for patients following a non-contrast CT of the head/brain to evaluate for ischemic stroke. Image sequences based on the diffusion coefficient of water&#x000a0;in the brain parenchyma can demonstrate areas of hyperacute ischemia.<xref ref-type="bibr" rid="article-24648.r7">[7]</xref> A small study of 120 patients demonstrated DWI (diffusion-weighted imaging) detection of infarcts within&#x000a0;3 hours of onset, preceding abnormal signal findings on fluid attenuating inversion images, which may not present for 3&#x000a0;TO 6 hours.<xref ref-type="bibr" rid="article-24648.r8">[8]</xref>&#x000a0;There is variable clinical use and availability of perfusion imaging to estimate the extent of infarct and compromised parenchyma, which is beyond this&#x000a0;topic's scope. CT angiography is the gold standard of craniocervical vascular imaging to rule out obstruction, high-grade stenosis, or dissection. MR angiography could be considered in patients with diminished renal function. Time-of-flight MR angiography is a multidimensional (2-D or 3-D) technique that maps&#x000a0;the imaged vessels while subtracting the bony structures and brain parenchyma.&#x000a0;Time-of-flight&#x000a0;does not require contrast but uses flow-related enhancement properties during image acquisition.<xref ref-type="bibr" rid="article-24648.r9">[9]</xref>&#x000a0;Similarly, the dural venous sinuses can be evaluated with MR venography. When considering MRI to evaluate patients for headaches, seizures, demyelinating disease, and suspected mass, it is generally acceptable to request the use of an intravenous contrast agent. For example, post-contrast-enhancing lesions indicate active disease in a patient undergoing imaging evaluation for multiple sclerosis.<xref ref-type="bibr" rid="article-24648.r10">[10]</xref></p>
+        <p><bold>Breast</bold>: Breast MR is indicated in very select scenarios due to using a specialized breast coil, a large field of view, and standardized sequences. It is important to inform the patient that the exam is performed in the prone position with the arms extended overhead. Dynamic contrast-enhanced breast MRI is an important tool to evaluate the extent of breast disease, therapy response, and surveillance of residual or recurrent disease.<xref ref-type="bibr" rid="article-24648.r11">[11]</xref>&#x000a0;Under the care and direction of a breast imager, some patients undergo MR-guided biopsy of mammographic or sonographic occult masses. Breast cancer screening with MRI is indicated in patients with a high risk of breast cancers, defined as BRCA gene carriers, patients with first-degree relatives with breast cancers, and those with &#x0003e;20% lifetime risk of breast cancer, in addition to those with a history of radiation to the chest.<xref ref-type="bibr" rid="article-24648.r11">[11]</xref>&#x000a0;Dynamic contrast-enhanced breast MRI is used in conjunction with screening mammography. To assess silicone breast implant integrity and localization of free silicone, a non-contrast MRI of the breasts is performed.&#x000a0;Breast imaging departments usually have standard protocols to obtain limited imaging sequences.</p>
+        <p><bold>Chest/Cardiac</bold>: MRI with IV contrast agents and customized fields of view are appropriate to evaluate chest wall abnormalities that are not definitively diagnosable with other modalities. MRI technologists are educated to mark the area of concern with an MRI visible Vitamin E capsule. While contrast-enhanced MR can define the extent of mediastinal soft tissue involvement, a literature review shows that the more costly MR was only superior to CT for preoperative planning of posterior mediastinal masses.<xref ref-type="bibr" rid="article-24648.r12">[12]</xref>&#x000a0;Cardiac MRI provides both structural and functional information. It requires the patient to tolerate upwards of 45 minutes of imaging and comply with breath-holding instructions. Non-contrast techniques are emerging, but current cardiac MR protocols typically include intravenous contrast agents; patterns of late gadolinium enhancement are critical to identifying scarred tissue.<xref ref-type="bibr" rid="article-24648.r13">[13]</xref>&#x000a0;Tissue characterization using extra-cellular volume fraction and T1 mapping has made cardiac MRIs invaluable in the diagnostic workup of infiltrative cardiomyopathies, oftentimes negating the need for invasive endomyocardial biopsies. Stress cardiac MRIs may also be performed, which provide structural information and serve as an ischemic evaluation and myocardial viability study.&#x000a0;</p>
+        <p><bold>Abdomen/Pelvis</bold>: Multiphase, post-contrast sequences are helpful to characterize abdominopelvic lesions and masses and follow responses to therapy. MR usually follows the more cost-effective and widely available initial imaging like ultrasound or CT, for example:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Radiologists can confidently characterize a benign versus malignant liver lesion by MR enhancement patterns with liver and biliary-specific contrast agents. Studies show that MRI with contrast is superior to ultrasound in diagnosing hepatocellular carcinoma in high-risk populations, defined as higher detection rates and decreased false positives.<xref ref-type="bibr" rid="article-24648.r14">[14]</xref></p>
+          </list-item>
+          <list-item>
+            <p>A small study of 81 female patients with sonographically indeterminate pelvic masses showed that even limited sequence MR could define uterine vs. extra-uterine origins of a mass, determining and guiding clinical management.<xref ref-type="bibr" rid="article-24648.r15">[15]</xref></p>
+          </list-item>
+          <list-item>
+            <p>MRI plays a critical role in diagnosing, staging, treatment, surgical planning, and surveillance of rectal cancer.</p>
+          </list-item>
+          <list-item>
+            <p>The radiologist may recommend a follow-up MRI in the appropriate clinical settings. A detailed history is critical when ordering these exams to ensure the acquisition of appropriate sequences. Of note, some institutions have established abdominal MR protocols to evaluate the appendix in pregnant women and small children if ultrasound is not diagnostic.</p>
+          </list-item>
+        </list>
+        <p><bold>Musculoskeletal</bold>: Magnetic resonance imaging is useful to diagnose internal derangements of the support structures of the joints, occult fractures, bone marrow edema, infiltrative processes of the marrow space, and soft-tissue masses. Radiographs are first-line imaging of the musculoskeletal structures and are an important contribution to MRI interpretation. To highlight this point, consider that independent of radiographic findings, an MRI of the hip changed clinical management in as little as 7% of patients&#x000a0;in a retrospective study performed at a single institution.<xref ref-type="bibr" rid="article-24648.r16">[16]</xref> Many published studies agree that MRI is the most useful and affects patient management when ordered by an experienced physician or orthopedic specialist.<xref ref-type="bibr" rid="article-24648.r16">[16]</xref><xref ref-type="bibr" rid="article-24648.r17">[17]</xref>&#x000a0;The aging population of the United States correlates with the increasing popularity and frequency of joint arthroplasties. The 2017 American Joint Replacement Registry reported more than 1 million total joint replacements annually, and that number is predicted to quadruple by 2030.<xref ref-type="bibr" rid="article-24648.r18">[18]</xref>&#x000a0;Radiographs are vital in the assessment of the hardware and joint structures. The development of paramagnetic arthroplasty materials, like titanium, makes it possible to adequately assess the postoperative patient and minimize metallic susceptibility artifacts by modifying magnet field strength (1.5T being superior to 3T), increasing bandwidth, decreasing slice selection size, increasing matrix size, and use of long echo train lengths with spin-echo sequences.<xref ref-type="bibr" rid="article-24648.r19">[19]</xref>&#x000a0;Traditionally, gadolinium-based contrast is administered when evaluating for masses or bone lesions. The clinical benefits of MRI outweigh the cost when characterizing bone lesions or masses,&#x000a0;supporting the role imaging plays in diagnosing neoplasms.<xref ref-type="bibr" rid="article-24648.r16">[16]</xref> Imaging evaluation of the musculoskeletal system is not limited to plain radiographs and MRIs. It is important to remember that nuclear medicine bone scans, positron emission tomography, ultrasound, and computed tomography all contribute to achieving an accurate diagnosis.</p>
+      </sec>
+      <sec id="article-24648.s4" sec-type="Issues of Concern">
+        <title>Issues of Concern</title>
+        <p>Issues of concern regarding MRI revolve around nonionizing radiation when imaging vulnerable patient populations, the use of contrast agents, and logistical concerns for the patients, some of which are addressed earlier in this topic. When ordering an MRI, it is important to scrutinize the clinical question, the patient&#x02019;s clinical status, psychological factors, and the length of time required for the exam and weigh the risks and benefits.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>There is abundant information published about gadolinium and paramagnetic contrast agents. A glomerular filtration rate of less than 30 is a contraindication to receiving gadolinium contrast. Due to impaired contrast clearance, these patients are at increased risk of developing a systemic phenomenon called nephrogenic systemic fibrosis.</p>
+          </list-item>
+          <list-item>
+            <p>The effect of MRI contrast on pregnancy is largely unknown and, therefore, avoided. Since gadolinium contrast is excreted quickly, nursing mothers can resume breastfeeding 36 to 48 hours after having an MRI. No deleterious effects have been documented from MRI during pregnancy, and for this reason, a medically indicated MRI can be performed in any trimester. The risk of harming the pregnancy versus the benefit of the scan should be considered, and the MRI should wait until after pregnancy when appropriate.<xref ref-type="bibr" rid="article-24648.r20">[20]</xref></p>
+          </list-item>
+          <list-item>
+            <p>A common patient concern regarding the utilization of MRI imaging is claustrophobia and anxiety during the MRI exam. Anxiety attacks have been found to occur in as many as 2% of MRIs, with as many as 1% resulting in premature cessation of the study.<xref ref-type="bibr" rid="article-24648.r4">[4]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Proximity to the magnetic field is a source of risk for the patient, and stepwise measures are in place to ensure that ferromagnetic materials do not breach specific zones surrounding the magnet. All patients are screened before MR imaging is approved, but special attention should be paid to those with known exposure to shrapnel, bullets, or other metal fragments. Implanted medical devices are susceptible to the magnetic field with the potential for altered function, hardware positioning, and possible temperature changes. Many implanted devices, such as prosthetic heart valves, stents, and artificial joints, are safe for MRI but cause imaging artifacts.<xref ref-type="bibr" rid="article-24648.r6">[6]</xref>&#x000a0;Therefore, it is important to communicate and consult with the radiologist and MR technologist, who can confirm or deny device compatibility with MRI.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-24648.s5" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>MRI in the clinical setting has improved patient care by offering an alternative imaging method for non-ionizing radiation.&#x000a0;The value of not relying solely on standard X-ray-based imaging techniques is best illustrated in cases requiring regular monitoring of disease progression, most notably multiple sclerosis and inflammatory bowel disease. MRI also offers a lower-risk diagnostic evaluation for those who are at a high risk of long-term radiation-related complications, such as children and pregnant women.</p>
+        <p>The alternative non-contrast techniques used in MRI are important for time-sensitive neurological imaging; for example, MR arteriography assists in assessing the craniocervical vasculature in suspected stroke patients with poor renal function or severe iodinated contrast allergies. In summary, the judicious use of MRI by ordering clinicians is critical for positive patient outcomes, timely diagnosis, and healthcare costs.</p>
+      </sec>
+      <sec id="article-24648.s6" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>As healthcare costs continue to soar, it is the responsibility of healthcare providers to order advanced imaging judiciously. Not all facilities have access to MRI, and, as mentioned, there are strong preliminary imaging modalities widely available that can guide care and treatment. The clinician can inquire if the clinical question was addressed on recent existing imaging. Conversation with your radiology colleagues can also answer if the exam being ordered is appropriate.</p>
+        <p>While MRI is our most technologically advanced modality, it is not appropriate in all situations. Medicare spends $10 billion annually on imaging, a good portion of which is repeat or unnecessary.<xref ref-type="bibr" rid="article-24648.r21">[21]</xref>&#x000a0;Fragmented health information exchange between healthcare systems contributes to repeat imaging because of the lack of access to prior exams. A study of 196,314 patients showed that 7.7% of imaging was repeated within 90 days when prior imaging was inaccessible.<xref ref-type="bibr" rid="article-24648.r22">[22]</xref>&#x000a0;Thus, all interprofessional team members can contribute to improved allocation of resources by integrating the radiology department into the multidisciplinary care team.</p>
+      </sec>
+      <sec id="article-24648.s7">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=24648&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=24648">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/24648/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=24648">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-24648.s8">
+        <title>References</title>
+        <ref id="article-24648.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Carr</surname>
+                <given-names>MW</given-names>
+              </name>
+              <name>
+                <surname>Grey</surname>
+                <given-names>ML</given-names>
+              </name>
+            </person-group>
+            <article-title>Magnetic resonance imaging.</article-title>
+            <source>Am J Nurs</source>
+            <year>2002</year>
+            <month>Dec</month>
+            <volume>102</volume>
+            <issue>12</issue>
+            <fpage>26</fpage>
+            <page-range>26-33</page-range>
+            <pub-id pub-id-type="pmid">12473927</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24648.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gore</surname>
+                <given-names>TB</given-names>
+              </name>
+              <name>
+                <surname>Rollings</surname>
+                <given-names>RC</given-names>
+              </name>
+              <name>
+                <surname>Gore</surname>
+                <given-names>AW</given-names>
+              </name>
+            </person-group>
+            <article-title>The many facets of cardiovascular magnetic resonance imaging: review of background, clinical utility, and increasing use in the community hospital.</article-title>
+            <source>South Med J</source>
+            <year>2009</year>
+            <month>Jul</month>
+            <volume>102</volume>
+            <issue>7</issue>
+            <fpage>719</fpage>
+            <page-range>719-24</page-range>
+            <pub-id pub-id-type="pmid">19488003</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24648.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Roth</surname>
+                <given-names>CG</given-names>
+              </name>
+              <name>
+                <surname>Marzio</surname>
+                <given-names>DH</given-names>
+              </name>
+              <name>
+                <surname>Guglielmo</surname>
+                <given-names>FF</given-names>
+              </name>
+            </person-group>
+            <article-title>Contributions of Magnetic Resonance Imaging to Gastroenterological Practice: MRIs for GIs.</article-title>
+            <source>Dig Dis Sci</source>
+            <year>2018</year>
+            <month>May</month>
+            <volume>63</volume>
+            <issue>5</issue>
+            <fpage>1102</fpage>
+            <page-range>1102-1122</page-range>
+            <pub-id pub-id-type="pmid">29549474</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24648.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>de Figueiredo</surname>
+                <given-names>EH</given-names>
+              </name>
+              <name>
+                <surname>Borgonovi</surname>
+                <given-names>AF</given-names>
+              </name>
+              <name>
+                <surname>Doring</surname>
+                <given-names>TM</given-names>
+              </name>
+            </person-group>
+            <article-title>Basic concepts of MR imaging, diffusion MR imaging, and diffusion tensor imaging.</article-title>
+            <source>Magn Reson Imaging Clin N Am</source>
+            <year>2011</year>
+            <month>Feb</month>
+            <volume>19</volume>
+            <issue>1</issue>
+            <fpage>1</fpage>
+            <page-range>1-22</page-range>
+            <pub-id pub-id-type="pmid">21129633</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24648.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Filippi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Preziosa</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Rocca</surname>
+                <given-names>MA</given-names>
+              </name>
+            </person-group>
+            <article-title>MRI in multiple sclerosis: what is changing?</article-title>
+            <source>Curr Opin Neurol</source>
+            <year>2018</year>
+            <month>Aug</month>
+            <volume>31</volume>
+            <issue>4</issue>
+            <fpage>386</fpage>
+            <page-range>386-395</page-range>
+            <pub-id pub-id-type="pmid">29952834</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24648.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jungmann</surname>
+                <given-names>PM</given-names>
+              </name>
+              <name>
+                <surname>Agten</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>Pfirrmann</surname>
+                <given-names>CW</given-names>
+              </name>
+              <name>
+                <surname>Sutter</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Advances in MRI around metal.</article-title>
+            <source>J Magn Reson Imaging</source>
+            <year>2017</year>
+            <month>Oct</month>
+            <volume>46</volume>
+            <issue>4</issue>
+            <fpage>972</fpage>
+            <page-range>972-991</page-range>
+            <pub-id pub-id-type="pmid">28342291</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24648.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gonz&#x000e1;lez</surname>
+                <given-names>RG</given-names>
+              </name>
+            </person-group>
+            <article-title>Clinical MRI of acute ischemic stroke.</article-title>
+            <source>J Magn Reson Imaging</source>
+            <year>2012</year>
+            <month>Aug</month>
+            <volume>36</volume>
+            <issue>2</issue>
+            <fpage>259</fpage>
+            <page-range>259-71</page-range>
+            <pub-id pub-id-type="pmid">22807220</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24648.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Thomalla</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Rossbach</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Rosenkranz</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Siemonsen</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kr&#x000fc;tzelmann</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Fiehler</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Gerloff</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Negative fluid-attenuated inversion recovery imaging identifies acute ischemic stroke at 3 hours or less.</article-title>
+            <source>Ann Neurol</source>
+            <year>2009</year>
+            <month>Jun</month>
+            <volume>65</volume>
+            <issue>6</issue>
+            <fpage>724</fpage>
+            <page-range>724-32</page-range>
+            <pub-id pub-id-type="pmid">19557859</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24648.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Miyazaki</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Akahane</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Non-contrast enhanced MR angiography: established techniques.</article-title>
+            <source>J Magn Reson Imaging</source>
+            <year>2012</year>
+            <month>Jan</month>
+            <volume>35</volume>
+            <issue>1</issue>
+            <fpage>1</fpage>
+            <page-range>1-19</page-range>
+            <pub-id pub-id-type="pmid">22173999</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24648.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Filippi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Rocca</surname>
+                <given-names>MA</given-names>
+              </name>
+            </person-group>
+            <article-title>MR imaging of multiple sclerosis.</article-title>
+            <source>Radiology</source>
+            <year>2011</year>
+            <month>Jun</month>
+            <volume>259</volume>
+            <issue>3</issue>
+            <fpage>659</fpage>
+            <page-range>659-81</page-range>
+            <pub-id pub-id-type="pmid">21602503</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24648.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lalonde</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>David</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Trop</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <article-title>Magnetic resonance imaging of the breast: current indications.</article-title>
+            <source>Can Assoc Radiol J</source>
+            <year>2005</year>
+            <month>Dec</month>
+            <volume>56</volume>
+            <issue>5</issue>
+            <fpage>301</fpage>
+            <page-range>301-8</page-range>
+            <pub-id pub-id-type="pmid">16579024</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24648.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gaubert</surname>
+                <given-names>JY</given-names>
+              </name>
+              <name>
+                <surname>Cohen</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Vidal</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Louis</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Moulin</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Bartoli</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Jacquier</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>[Imaging of mediastinal tumors].</article-title>
+            <source>Rev Pneumol Clin</source>
+            <year>2010</year>
+            <month>Feb</month>
+            <volume>66</volume>
+            <issue>1</issue>
+            <fpage>17</fpage>
+            <page-range>17-27</page-range>
+            <pub-id pub-id-type="pmid">20207292</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24648.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Paiman</surname>
+                <given-names>EHM</given-names>
+              </name>
+              <name>
+                <surname>Lamb</surname>
+                <given-names>HJ</given-names>
+              </name>
+            </person-group>
+            <article-title>When should we use contrast material in cardiac MRI?</article-title>
+            <source>J Magn Reson Imaging</source>
+            <year>2017</year>
+            <month>Dec</month>
+            <volume>46</volume>
+            <issue>6</issue>
+            <fpage>1551</fpage>
+            <page-range>1551-1572</page-range>
+            <pub-id pub-id-type="pmid">28480596</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24648.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kim</surname>
+                <given-names>SY</given-names>
+              </name>
+              <name>
+                <surname>An</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Lim</surname>
+                <given-names>YS</given-names>
+              </name>
+              <name>
+                <surname>Han</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>JY</given-names>
+              </name>
+              <name>
+                <surname>Byun</surname>
+                <given-names>JH</given-names>
+              </name>
+              <name>
+                <surname>Won</surname>
+                <given-names>HJ</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>HC</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>YS</given-names>
+              </name>
+            </person-group>
+            <article-title>MRI With Liver-Specific Contrast for Surveillance of Patients With Cirrhosis at High Risk of Hepatocellular Carcinoma.</article-title>
+            <source>JAMA Oncol</source>
+            <year>2017</year>
+            <month>Apr</month>
+            <day>01</day>
+            <volume>3</volume>
+            <issue>4</issue>
+            <fpage>456</fpage>
+            <page-range>456-463</page-range>
+            <pub-id pub-id-type="pmid">27657493</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24648.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chang</surname>
+                <given-names>SD</given-names>
+              </name>
+              <name>
+                <surname>Cooperberg</surname>
+                <given-names>PL</given-names>
+              </name>
+              <name>
+                <surname>Wong</surname>
+                <given-names>AD</given-names>
+              </name>
+              <name>
+                <surname>Llewellyn</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Bilbey</surname>
+                <given-names>JH</given-names>
+              </name>
+            </person-group>
+            <article-title>Limited-sequence magnetic resonance imaging in the evaluation of the ultrasonographically indeterminate pelvic mass.</article-title>
+            <source>Can Assoc Radiol J</source>
+            <year>2004</year>
+            <month>Apr</month>
+            <volume>55</volume>
+            <issue>2</issue>
+            <fpage>87</fpage>
+            <page-range>87-95</page-range>
+            <pub-id pub-id-type="pmid">15131929</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24648.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Keeney</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Nunley</surname>
+                <given-names>RM</given-names>
+              </name>
+              <name>
+                <surname>Adelani</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Mall</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Magnetic resonance imaging of the hip: poor cost utility for treatment of adult patients with hip pain.</article-title>
+            <source>Clin Orthop Relat Res</source>
+            <year>2014</year>
+            <month>Mar</month>
+            <volume>472</volume>
+            <issue>3</issue>
+            <fpage>787</fpage>
+            <page-range>787-92</page-range>
+            <pub-id pub-id-type="pmid">24363186</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24648.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sherman</surname>
+                <given-names>SL</given-names>
+              </name>
+              <name>
+                <surname>Gulbrandsen</surname>
+                <given-names>TR</given-names>
+              </name>
+              <name>
+                <surname>Lewis</surname>
+                <given-names>HA</given-names>
+              </name>
+              <name>
+                <surname>Gregory</surname>
+                <given-names>MH</given-names>
+              </name>
+              <name>
+                <surname>Capito</surname>
+                <given-names>NM</given-names>
+              </name>
+              <name>
+                <surname>Gray</surname>
+                <given-names>AD</given-names>
+              </name>
+              <name>
+                <surname>Bal</surname>
+                <given-names>BS</given-names>
+              </name>
+            </person-group>
+            <article-title>Overuse of Magnetic Resonance Imaging in the Diagnosis and Treatment of Moderate to Severe Osteoarthritis.</article-title>
+            <source>Iowa Orthop J</source>
+            <year>2018</year>
+            <volume>38</volume>
+            <fpage>33</fpage>
+            <page-range>33-37</page-range>
+            <pub-id pub-id-type="pmid">30104922</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24648.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Etkin</surname>
+                <given-names>CD</given-names>
+              </name>
+              <name>
+                <surname>Springer</surname>
+                <given-names>BD</given-names>
+              </name>
+            </person-group>
+            <article-title>The American Joint Replacement Registry-the first 5 years.</article-title>
+            <source>Arthroplast Today</source>
+            <year>2017</year>
+            <month>Jun</month>
+            <volume>3</volume>
+            <issue>2</issue>
+            <fpage>67</fpage>
+            <page-range>67-69</page-range>
+            <pub-id pub-id-type="pmid">28695176</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24648.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Talbot</surname>
+                <given-names>BS</given-names>
+              </name>
+              <name>
+                <surname>Weinberg</surname>
+                <given-names>EP</given-names>
+              </name>
+            </person-group>
+            <article-title>MR Imaging with Metal-suppression Sequences for Evaluation of Total Joint Arthroplasty.</article-title>
+            <source>Radiographics</source>
+            <year>2016</year>
+            <season>Jan-Feb</season>
+            <volume>36</volume>
+            <issue>1</issue>
+            <fpage>209</fpage>
+            <page-range>209-25</page-range>
+            <pub-id pub-id-type="pmid">26587889</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24648.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <collab>Expert Panel on MR Safety</collab>
+              <name>
+                <surname>Kanal</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Barkovich</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Bell</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Borgstede</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Bradley</surname>
+                <given-names>WG</given-names>
+              </name>
+              <name>
+                <surname>Froelich</surname>
+                <given-names>JW</given-names>
+              </name>
+              <name>
+                <surname>Gimbel</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Gosbee</surname>
+                <given-names>JW</given-names>
+              </name>
+              <name>
+                <surname>Kuhni-Kaminski</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Larson</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Lester</surname>
+                <given-names>JW</given-names>
+              </name>
+              <name>
+                <surname>Nyenhuis</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Schaefer</surname>
+                <given-names>DJ</given-names>
+              </name>
+              <name>
+                <surname>Sebek</surname>
+                <given-names>EA</given-names>
+              </name>
+              <name>
+                <surname>Weinreb</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Wilkoff</surname>
+                <given-names>BL</given-names>
+              </name>
+              <name>
+                <surname>Woods</surname>
+                <given-names>TO</given-names>
+              </name>
+              <name>
+                <surname>Lucey</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Hernandez</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>ACR guidance document on MR safe practices: 2013.</article-title>
+            <source>J Magn Reson Imaging</source>
+            <year>2013</year>
+            <month>Mar</month>
+            <volume>37</volume>
+            <issue>3</issue>
+            <fpage>501</fpage>
+            <page-range>501-30</page-range>
+            <pub-id pub-id-type="pmid">23345200</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24648.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jung</surname>
+                <given-names>HY</given-names>
+              </name>
+              <name>
+                <surname>Vest</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Unruh</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Kern</surname>
+                <given-names>LM</given-names>
+              </name>
+              <name>
+                <surname>Kaushal</surname>
+                <given-names>R</given-names>
+              </name>
+              <collab>HITEC Investigators</collab>
+            </person-group>
+            <article-title>Use of Health Information Exchange and Repeat Imaging Costs.</article-title>
+            <source>J Am Coll Radiol</source>
+            <year>2015</year>
+            <month>Dec</month>
+            <volume>12</volume>
+            <issue>12 Pt B</issue>
+            <fpage>1364</fpage>
+            <page-range>1364-70</page-range>
+            <pub-id pub-id-type="pmid">26614881</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24648.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Vest</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Kaushal</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Silver</surname>
+                <given-names>MD</given-names>
+              </name>
+              <name>
+                <surname>Hentel</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Kern</surname>
+                <given-names>LM</given-names>
+              </name>
+            </person-group>
+            <article-title>Health information exchange and the frequency of repeat medical imaging.</article-title>
+            <source>Am J Manag Care</source>
+            <year>2014</year>
+            <month>Nov</month>
+            <volume>20</volume>
+            <issue>11 Spec No. 17</issue>
+            <fpage>eSP16</fpage>
+            <page-range>eSP16-24</page-range>
+            <pub-id pub-id-type="pmid">25811815</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

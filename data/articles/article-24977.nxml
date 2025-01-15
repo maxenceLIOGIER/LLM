@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-24977" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Meningococcemia</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Siddiqui</surname>
+            <given-names>Juwairriyyah A.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Ameer</surname>
+            <given-names>Muhammad Atif</given-names>
+          </name>
+          <aff>Suburban Community Hospital</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Gulick</surname>
+            <given-names>Peter G.</given-names>
+          </name>
+          <aff>Michigan State University</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Juwairriyyah Siddiqui declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Muhammad Atif Ameer declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Peter Gulick declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>28</day>
+          <month>8</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-24977.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Neisseria meningitidis (meningococcus) is an important bacterial infection manifesting as meningitis or septicemia, or more often a combination of both. Asymptomatic pharyngeal colonization is the initial step of infection with humans being the natural reservoirs. From the nasopharynx, the coccus reaches the meninges translocating across the nasopharyngeal mucosa and along the perineural sheath of the olfactory nerve, through the cribriform plate of the ethmoid. Bloodstream spread to the meninges will cause meningitis. In some children, the predominant feature is cardiovascular collapse leading to septic shock. This activity reviews the presentation, evaluation, and management of meningococcemia and highlights the role of the interprofessional team in the management of patients with this infection.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Identify the etiology of meningococcemia.</p></list-item><list-item><p>Describe the presentation of a patient with meningococcemia.</p></list-item><list-item><p>Summarize the treatment and management options available for meningococcemia.</p></list-item><list-item><p>Outline some interprofessional team strategies for improving care coordination and communication to advance the treatment of meningococcemia and improve patient outcomes.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=24977&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=24977">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-24977.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>One of the most serious and life-threatening infectious diseases during childhood is bacteremia, a consequence&#x000a0;of which is septic shock, where inadequate perfusion&#x000a0;of tissues occurs due to endotoxemia. <italic toggle="yes">Neisseria meningitidis</italic> (<italic toggle="yes">Meningococcus</italic>) is an important bacterial infection manifesting as meningitis or septicemia, or more often a combination of both. Asymptomatic pharyngeal colonization is the initial step of infection, with humans being the natural reservoirs. From the nasopharynx, the coccus reaches the meninges translocating across the nasopharyngeal mucosa and along the perineural sheath of the olfactory nerve, through the cribriform plate of the ethmoid. Bloodstream&#x000a0;spread to the meninges will cause meningitis. In some children, the predominant feature is cardiovascular collapse leading to septic shock.</p>
+        <p>Transmission occurs by respiratory droplets and requires close direct contact. Children younger than&#x000a0;5 years do not have adequate immunity against the polysaccharide antigens of <italic toggle="yes">N. meningitidis</italic>. The risk factors for infectious disease in child care facilities include immunologic susceptibility, lack of awareness, and practice of good hygiene, a natural tendency to intimacy, frequent oral contact with objects in the environment.</p>
+        <p>The invasive&#x000a0;meningococcal disease is seen in 2 age groups: infants who are vulnerable due to disappearance in the early life of the maternal antibodies and adolescents with a high rate of colonization of the nasopharynx.<xref ref-type="bibr" rid="article-24977.r1">[1]</xref><xref ref-type="bibr" rid="article-24977.r2">[2]</xref></p>
+      </sec>
+      <sec id="article-24977.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p><italic toggle="yes">N. meningitidis</italic> is a gram-negative coccus in pairs with adjacent sides flattened. It is non-motile, aerobic, and facultatively anaerobic. It produces catalase and is oxidase positive. It produces acid from glucose and maltose. Fresh isolates require enriched media like blood or chocolate agar. Incubation in a humidified 10% carbon dioxide (CO2) environment enhances growth.</p>
+        <p>Virulence factors include the polysaccharide capsule, which enhances invasiveness by inhibiting phagocytosis and enhancing organism survival during the bloodstream&#x000a0;and central nervous system (CNS) invasion. Pili mediate attachment, colonization, and invasion of the organisms to the mucosal cells of the nasopharynx. The antigenic variation of pili by a cassette mechanism allows the bacterium to escape the host's immune system.</p>
+        <p>
+<bold>Outer Membrane Proteins</bold>
+</p>
+        <p>Porin proteins can insert themselves into membranes of target cells, and phagolysosomes&#x000a0;can induce apoptosis. OPC protein functions in mucosal adherence and invasion of endothelial cells. IgA1 protease hydrolyzes IgA1 molecules in the hinge regions. The enzyme inactivates IgA1 at mucosal surfaces, enabling initial attachment and subsequent invasion. Pathogenic Neisseria survives and multiplies by their ability to extract iron from high-affinity iron-binding proteins. <italic toggle="yes">N. meningitidis </italic>can acquire penicillin resistance from commensal <italic toggle="yes">Neisseria</italic> species in the nasopharynx through DNA fragments by the transformation. <italic toggle="yes">Meningococcus</italic> also exhibits&#x000a0;a phase variation of surface antigens, thus evading the host immune response.&#x000a0;</p>
+        <p>The capsular polysaccharides are antigenic and form the basis of serogroups. Twelve serogroups&#x000a0;are A, B, C, H,&#x000a0;I, K, L, X, Y, Z, W-135, and 29F. Serogroups A, B, C, W-135, X, and Y are the most common causes of invasive disease worldwide.</p>
+      </sec>
+      <sec id="article-24977.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p>
+<bold>United States</bold>
+</p>
+        <p>Invasive infections caused by <italic toggle="yes">N. meningitidis</italic>&#x000a0;are reported through the National Notifiable&#x000a0;surveillance system in the United States. The number&#x000a0;of cases reported to the Centers&#x000a0;for Disease Control and Prevention (CDC) in 2013 and 2014 was 556 and 564, respectively. These are the lowest numbers reported in the United States.</p>
+        <p>In 2014,&#x000a0;the overall incidence of invasive meningococcal disease for the United States was 0.14/100,000 population. Of the cases reported,&#x000a0;25% of cases were bacteremia with a fatality of 20%. The serogroup distribution was 26% serogroup B, 36% serogroup C, 9% serogroup Y, and 28% other serogroups. In the United States, serogroup&#x000a0;B is responsible for 65% of infant disease, and serogroups C and Y are responsible for the adolescent disease. Among the unvaccinated, outbreaks are due to serogroup C.</p>
+        <p>Meningococcal disease in the United States peaks during the months of November through March. A progressive increase in the protective antibodies against meningococci is seen between 2 and 12 years. Passive in&#x000a0;utero&#x000a0;IgG antibodies transfer occurs in neonates if the mother has the anti-meningococcal antibody.</p>
+        <p>
+<bold>International</bold>
+</p>
+        <p>In developing countries, the incidence rate of invasive meningococcal disease is 10 to 25 per 100,000 inhabitants per year. The highest&#x000a0;rate of&#x000a0;10 to 1000 per 100,000 per year&#x000a0;is seen in a belt across&#x000a0;sub-Saharan&#x000a0;Africa, termed the meningitis belt, with recurrent epidemics of group&#x000a0;A. Death occurs in 6% to 10% of cases and&#x000a0;complications in 4.3 to 11.2% of cases.<xref ref-type="bibr" rid="article-24977.r3">[3]</xref> Group A was predominant from 2007 through 2009, while serogroup&#x000a0;W135 predominated in 2010 through 2011.<xref ref-type="bibr" rid="article-24977.r4">[4]</xref>&#x000a0;In 2013 and 2014, 2 outbreaks&#x000a0;of meningococcal serogroup C, a strain relatively rare in Africa,&#x000a0;occurred in Nigeria and Kebbi.<xref ref-type="bibr" rid="article-24977.r5">[5]</xref></p>
+        <p>International&#x000a0;outbreaks of <italic toggle="yes">N. meningitidis</italic> infections occurred&#x000a0;in 1987 and 2000 associated with the Hajj pilgrimage to Mecca. 1987 outbreak was due to serogroup A and the 2000 outbreak due to serogroup W-135. Serogroup W has emerged in other regions, including&#x000a0;South America and England. In European countries, invasive serogroup C disease has declined, and serogroup B is causing 60% to 72% of cases of invasive disease.&#x000a0;In Asia, large epidemics caused by serogroup A occurred historically in China, India, Nepal, and Russia. More recently, serogroup B and C&#x000a0;emerged as the cause in this area.<xref ref-type="bibr" rid="article-24977.r6">[6]</xref></p>
+        <p>An increase in the serogroup Y has been reported in the Nordic European&#x000a0;countries.<xref ref-type="bibr" rid="article-24977.r7">[7]</xref></p>
+      </sec>
+      <sec id="article-24977.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>The primary cause of cardiovascular collapse from sepsis is a peripheral circulatory failure. Cardiac dysfunction due to myocardial failure plays a prominent role in meningococcal disease. Higher endotoxin (LOS) concentrations were associated with shock, renal failure, and respiratory distress. High concentrations of IL-6 and IL-8 are seen in those with meningococcal shock.</p>
+        <p>TNF and IL-1 activate endothelial cells by increasing their permeability and adhesiveness for white cells. Overproduction of nitric oxide lowers arterial pressure due to vasodilation. It also impairs cardiac contractility.</p>
+        <p>Endothelial cell retraction on interaction with bacterial endothelial cells leads to a loss of integrity, causing capillary hemorrhages and the formation of thrombi in purpuric lesions. When a large number of bacteria colonize the blood vessels and leads to the corresponding signaling, this is responsible for the extensive purpuric lesions and severity of shock in&#x000a0;<italic toggle="yes">Purpura&#x000a0;fulminans</italic>.<xref ref-type="bibr" rid="article-24977.r8">[8]</xref></p>
+      </sec>
+      <sec id="article-24977.s6" sec-type="Histopathology">
+        <title>Histopathology</title>
+        <p>Histology of skin lesions shows endothelial necrosis of capillaries and small veins in the dermis and subcutaneous tissue. Neutrophil infiltration and occlusion of vessels with WBCs, platelets, fibrin&#x000a0;thrombi,&#x000a0;and&#x000a0;hemorrhage are seen.&#x000a0;Meningococci&#x000a0;are seen within the endothelium and thrombi.</p>
+      </sec>
+      <sec id="article-24977.s7" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>The disease spectrum caused by <italic toggle="yes">N. meningitidis</italic> ranges from asymptomatic carriage to death due to fulminant meningococcemia. Meningococcal meningitis and septicemia are the common syndromes reported, although both clinical pictures present in some cases.<xref ref-type="bibr" rid="article-24977.r9">[9]</xref><xref ref-type="bibr" rid="article-24977.r10">[10]</xref><xref ref-type="bibr" rid="article-24977.r11">[11]</xref></p>
+        <p>The signs and symptoms of meningococcemia include an early upper respiratory tract infection with coryza, pharyngitis, tonsillitis, and laryngitis. Patients are febrile with a headache, vomiting, and lethargy. Typically, patients with meningococcemia have a&#x000a0;fever and hemorrhagic rash, followed by signs of severe circulatory collapse. Purpura and shock often develop within hours. Diffuse mottling to extensive purpuric lesions are the skin manifestations. Petechiae or purpura are seen in 50% to 60% of patients. Twenty percent to 30% of children may not have a rash on presentation.</p>
+        <p>Chronic meningococcemia is defined as meningococcal septicemia with fever for at least&#x000a0;a week before antibiotic therapy and with no meningeal symptoms. In chronic meningococcemia, bacteria are never found by biopsy or culture of skin lesions. Researchers postulate that the skin changes and arthritis may result from antigen-antibody complexes. The diagnosis is established by identifying the organism in blood cultures. Recovery is prompt following antibiotic therapy.</p>
+        <p>A number of investigators have stressed myocardial manifestations associated with meningococcal meningitis, including heart failure with pulmonary edema and high central venous pressures accompanying signs of poor peripheral perfusion.&#x000a0;Treatment of myocardial failure can ameliorate the situation. Increased levels of interleukin 6 may be a mediator of myocardial depression in septic shock due to meningococcal infection.<xref ref-type="bibr" rid="article-24977.r12">[12]</xref></p>
+      </sec>
+      <sec id="article-24977.s8" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>Diagnosis should be clinically made, and broad-spectrum antibiotic therapy started with&#x000a0;pending organism identification.</p>
+        <p>
+<bold>Microbiological Diagnosis</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Public health control</p>
+          </list-item>
+          <list-item>
+            <p>Antibiotic sensitivity</p>
+          </list-item>
+          <list-item>
+            <p>To exclude other organisms</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Gram Stain</bold>
+</p>
+        <p>Cerebrospinal fluid (CSF) in meningitis shows gram-negative intracellular and extracellular&#x000a0;diplococci.&#x000a0;</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Skin lesions&#x000a0;in meningococcemia: Needle aspiration and scrapings are Gram-stained</p>
+          </list-item>
+          <list-item>
+            <p>Buffy coat of blood Gram stain</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Culture</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>CSF is inoculated&#x000a0;onto chocolate agar and incubated in 3% to 5% CO2</p>
+          </list-item>
+          <list-item>
+            <p>Specimens from mucosa&#x000a0;are inoculated&#x000a0;into selective medium- Thayer-Martin chocolate agar to which vancomycin, colistin,&#x000a0;and&#x000a0;nystatin are added to inhibit commensals.</p>
+          </list-item>
+          <list-item>
+            <p>Blood culture: 40% to 75% positive before starting treatment. CSF cultures are positive in 90% of untreated patients with meningitis</p>
+          </list-item>
+          <list-item>
+            <p>Combining the results of blood and CSF cultures with CSF Gram stain identifies 94% of meningitis antigen.</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Antigen Detection</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>The meningococcal antigen in CSF&#x000a0;(serum and urine have cross-reactions): Latex agglutination; Poor sensitivity and specificity for capsular B type</p>
+          </list-item>
+          <list-item>
+            <p>PCR assays can detect meningococcal DNA in CSF, plasma, and serum. Sensitivity and specificity are above 90%. It is more sensitive than blood culture.&#x000a0;Diagnosis can be made in 4 to 8 hours. PCR assays are less affected by previous antibiotic therapy.</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Imaging</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>If the patient is in a coma, computed tomography (CT) brain imaging is helpful to exclude intracranial hemorrhage.</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Hematologic and Metabolic&#x000a0;Abnormalities</bold>
+</p>
+        <p>In meningococcal meningitis, CSF, WBC count, peripheral blood leukocyte count and C-reactive protein, procalcitonin, and ESR are elevated. CSF has raised protein, low glucose, and gram-negative <italic toggle="yes">Diplococcus</italic>.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>In meningococcal septicemia, metabolic derangements like hypoglycemia, hypokalemia, hypocalcemia, hypomagnesemia, hypophosphatemia, and metabolic acidosis are seen in severe cases. Anemia, coagulopathy, decreased protein C, fibrinogen, prothrombin, and&#x000a0;coagulation factors&#x000a0;(V,&#x000a0;VII, and X) are also seen.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-24977.s9" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>
+<bold>Antimicrobial Agents</bold>
+</p>
+        <p>Third-generation cephalosporin-ceftriaxone or cefotaxime are&#x000a0;used for initial&#x000a0;therapy.</p>
+        <p>
+<italic toggle="yes">Continued disease:</italic>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Ceftriaxone&#x000a0;(80 mg/kg per day in 1 to 2 divided doses intravenously [IV])</p>
+          </list-item>
+          <list-item>
+            <p>Cefotaxime (200 mg/kg per day in 3 to4 divided doses IV)</p>
+          </list-item>
+          <list-item>
+            <p>Penicillin G (50 mg/kg every 4 to 6 hours IV)</p>
+          </list-item>
+          <list-item>
+            <p>Chloramphenicol (100 mg/kg/day in 4 divided&#x000a0;doses, orally or IV)</p>
+          </list-item>
+          <list-item>
+            <p>Meropenem for those with severe allergies</p>
+          </list-item>
+        </list>
+        <p>The recommended duration of therapy is 7 days for both meningitis and meningococcemia.</p>
+        <p>
+<bold>Adjunctive and Experimental Therapies</bold>
+</p>
+        <p>Corticosteroid therapy: Replacement doses (25 mg/m3 hydrocortisone 4 times) daily is useful in children with refractory shock associated with impaired adrenal gland response.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Recombinant bactericidal permeability-increasing protein (rBPI) binds to endotoxin and blocks the inflammatory cascade. Children receiving rBPI had fewer amputation and blood product transfusions and improved functional outcomes.</p>
+          </list-item>
+          <list-item>
+            <p>Other adjunctive therapies in the management of septicemia are plasmapheresis, extracorporeal membrane oxygenation (ECMO), fibrinolysis, and anti-mediator therapy.</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Emergency Management</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>After securing the airway, priorities in children with meningococcal disease are:
+<list list-type="bullet"><list-item><p>Correction of cardiovascular shock and&#x000a0;</p></list-item><list-item><p>Control of raised intracranial pressure</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Aggressive fluid resuscitation with 0.9% NaCl solution in a volume of 20 ml/kg over 5 to 10 minutes is of importance and repeated until shock improves. Inotropic support is needed to maintain tissue perfusion.</p>
+          </list-item>
+          <list-item>
+            <p>Human albumin solution can be used as an alternative.</p>
+          </list-item>
+          <list-item>
+            <p>Anemia, coagulopathy is&#x000a0;monitored and corrected.</p>
+          </list-item>
+          <list-item>
+            <p>In cases of raised intracranial pressure, adequate cerebral perfusion should be ensured by correcting shock and providing neurointensive care.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-24977.s10" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <p>
+<bold>Infectious</bold>
+</p>
+        <list list-type="order">
+          <list-item>
+            <p>Rocky Mountain spotted fever</p>
+          </list-item>
+          <list-item>
+            <p>Ehrlichiosis</p>
+          </list-item>
+          <list-item>
+            <p>
+<italic toggle="yes">Streptococcal pneumoniae</italic>
+</p>
+          </list-item>
+          <list-item>
+            <p>Hemophilus influenza type B</p>
+          </list-item>
+          <list-item>
+            <p>Group A streptococcus</p>
+          </list-item>
+          <list-item>
+            <p>
+<italic toggle="yes">Staphylococcus aureus</italic>
+</p>
+          </list-item>
+          <list-item>
+            <p>Gram-negative bacterial sepsis with DIC</p>
+          </list-item>
+          <list-item>
+            <p>Infective endocarditis</p>
+          </list-item>
+          <list-item>
+            <p>Gonococcemia</p>
+          </list-item>
+          <list-item>
+            <p>Rat-bite&#x000a0;fever</p>
+          </list-item>
+          <list-item>
+            <p>Typhus</p>
+          </list-item>
+          <list-item>
+            <p>Secondary syphilis&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Non-<bold>Infectious</bold></bold>
+</p>
+        <list list-type="order">
+          <list-item>
+            <p>Henoch-Schonlein&#x000a0;purpura</p>
+          </list-item>
+          <list-item>
+            <p>Acute hemorrhagic edema of infancy</p>
+          </list-item>
+          <list-item>
+            <p>Platelet disorders (Idiopathic thrombocytopenic purpura)</p>
+          </list-item>
+          <list-item>
+            <p>Collagen vascular disease</p>
+          </list-item>
+          <list-item>
+            <p>Neoplastic&#x000a0;processes</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-24977.s11" sec-type="Prognosis">
+        <title>Prognosis</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>Scoring systems are devised to predict prognosis with meningococcal disease. Most prognostic scoring systems agree that purpura fulminans and shock are poor prognostic signs.</p>
+          </list-item>
+          <list-item>
+            <p>The Glasgow meningococcal septicemia prognostic score (GMSPS) evaluates 7 key items: hypotension, the difference in skin-core temperature, coma, acute deterioration, the absence of meningismus, progressive purpura, and base deficit.</p>
+          </list-item>
+          <list-item>
+            <p>At Los Angeles Children's Hospital,&#x000a0;5 features were correlated with a poor prognosis: Shock or seizures, hypothermia, total WBC count less than 5000/mm, platelet count less than 100,000/mm, and development of <italic toggle="yes">Purpura fulminans</italic>.</p>
+          </list-item>
+          <list-item>
+            <p>The overall mortality of invasive meningococcal disease in the United States is 7% to 19%.</p>
+          </list-item>
+          <list-item>
+            <p>A retrospective population-based analysis of meningococcal disease mortality in the United States from 1990 to 2002 identified 3335 meningococcal deaths.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-24977.s12" sec-type="Complications">
+        <title>Complications</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>Sequelae of meningococcemia are skin necrosis (ischaemic infarction of skin and soft tissues), hearing loss, deafness, seizure, amputation, and skin scarring. Impaired organ perfusion due to hypovolemia,&#x000a0;vasoconstriction, and&#x000a0;myocardial failure result in prerenal failure&#x000a0;manifesting as oliguria or anuria or acute tubular necrosis.</p>
+          </list-item>
+          <list-item>
+            <p>Immunologic or reactive complications like arthritis, cutaneous vasculitis, iritis, and pericarditis are due to the deposition of immune complexes with polysaccharide antigen, IgG, and C3 resulting in acute inflammation.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-24977.s13" sec-type="Pearls and Other Issues">
+        <title>Pearls and Other Issues</title>
+        <p>
+<bold>Prophylaxis/Prevention</bold>
+</p>
+        <p>
+<italic toggle="yes">
+<bold>Vaccine Prevention</bold>
+</italic>
+</p>
+        <p>Monovalent capsular group C meningococcal conjugate vaccines (MenC) are used in Europe, Australia, and Canada for routine immunization of infants and toddlers. They are highly effective, although a booster at adolescence is&#x000a0;advocated.</p>
+        <p>Quadrivalent meningococcal A, C,&#x000a0;Y,&#x000a0;W conjugate vaccines&#x000a0;(Men ACYW) are used&#x000a0;for adolescent immunization in North America. It is being used as&#x000a0;a vaccine for high-risk groups and travelers in many countries. It is also replacing Men C as an adolescent booster outside the United States.</p>
+        <p>Booster&#x000a0;doses of Men ACYW&#x000a0;are&#x000a0;advocated in the&#x000a0;United States&#x000a0;for high-risk children and persons immunized at younger than 15 years of age. Capsular group B outer membrane vesicle (OMV) vaccines are used for outbreaks involving single clones.</p>
+        <p>Two capsular group B vaccines (Men B-4C, 2 doses, and Men B-FHbp, 3 doses) are licensed for people older than 10 years of age. In the&#x000a0;United States, it is recommended for at-risk patients and outbreaks and can be given at 16 to 23 years of age at clinical discretion.</p>
+        <p>
+<italic toggle="yes">
+<bold>Chemoprophylaxis for Contacts of Patients of Meningococcal&#x000a0;Disease</bold>
+</italic>
+</p>
+        <p>
+<bold>Antibiotic Dose&#x000a0;</bold>
+</p>
+        <p>Rifampin: 10 mg/kg per dose; Orally every 12 hours for 4 doses (for infants younger than&#x000a0;1 month of age, 5 mg/kg per dose)</p>
+        <p>Ceftriaxone: Single injection of 125 mg for less than 15 years and 250 mg for older than 15 years*</p>
+        <p>Ciprofloxacin: 20 mg/kg&#x000a0;(max 500 mg) older than 1 month of age*</p>
+        <p>* From American Academy of Pediatrics Committee on Infectious Diseases. Red book 2015 Report of the Committee on Infectious Diseases, 30th edition. Elk Grove, IL, American Academy of Pediatrics 2015.</p>
+      </sec>
+      <sec id="article-24977.s14" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Meningococcemia is a serious life-threatening infection that is best managed by a multidisciplinary team that includes ICU nurses. The treatment should be started even if there is low suspicion of the infection; even a delay of a few hours can prove to be fatal. The pharmacist should educate patients on the benefit of the meningococcal vaccine, especially in the elderly- as it can be life-saving.</p>
+        <p>The outlook for patients with meningococcemia is guarded; most patients, unfortunately, die despite adequate treatment.</p>
+      </sec>
+      <sec id="article-24977.s15">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=24977&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=24977">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/infectious-disease/meningococcemia/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=24977">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/24977/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=24977">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-24977.s16">
+        <title>References</title>
+        <ref id="article-24977.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Harrison</surname>
+                <given-names>LH</given-names>
+              </name>
+            </person-group>
+            <article-title>Epidemiological profile of meningococcal disease in the United States.</article-title>
+            <source>Clin Infect Dis</source>
+            <year>2010</year>
+            <month>Mar</month>
+            <day>01</day>
+            <volume>50 Suppl 2</volume>
+            <issue>S2</issue>
+            <fpage>S37</fpage>
+            <page-range>S37-44</page-range>
+            <pub-id pub-id-type="pmid">20144015</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24977.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dwilow</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Fanella</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Invasive meningococcal disease in the 21st century&#x02014;an update for the clinician.</article-title>
+            <source>Curr Neurol Neurosci Rep</source>
+            <year>2015</year>
+            <month>Mar</month>
+            <volume>15</volume>
+            <issue>3</issue>
+            <fpage>2</fpage>
+            <pub-id pub-id-type="pmid">25637287</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24977.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bosis</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Mayer</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Esposito</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Meningococcal disease in childhood: epidemiology, clinical features and prevention.</article-title>
+            <source>J Prev Med Hyg</source>
+            <year>2015</year>
+            <month>Aug</month>
+            <day>31</day>
+            <volume>56</volume>
+            <issue>3</issue>
+            <fpage>E121</fpage>
+            <page-range>E121-4</page-range>
+            <pub-id pub-id-type="pmid">26788732</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24977.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Halperin</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>Bettinger</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Greenwood</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Harrison</surname>
+                <given-names>LH</given-names>
+              </name>
+              <name>
+                <surname>Jelfs</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ladhani</surname>
+                <given-names>SN</given-names>
+              </name>
+              <name>
+                <surname>McIntyre</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Ramsay</surname>
+                <given-names>ME</given-names>
+              </name>
+              <name>
+                <surname>S&#x000e1;fadi</surname>
+                <given-names>MA</given-names>
+              </name>
+            </person-group>
+            <article-title>The changing and dynamic epidemiology of meningococcal disease.</article-title>
+            <source>Vaccine</source>
+            <year>2012</year>
+            <month>May</month>
+            <day>30</day>
+            <volume>30 Suppl 2</volume>
+            <fpage>B26</fpage>
+            <page-range>B26-36</page-range>
+            <pub-id pub-id-type="pmid">22178525</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24977.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Funk</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Uadiale</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Kamau</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Caugant</surname>
+                <given-names>DA</given-names>
+              </name>
+              <name>
+                <surname>Ango</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>Greig</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Sequential outbreaks due to a new strain of Neisseria meningitidis serogroup C in northern Nigeria, 2013-14.</article-title>
+            <source>PLoS Curr</source>
+            <year>2014</year>
+            <month>Dec</month>
+            <day>29</day>
+            <volume>6</volume>
+            <pub-id pub-id-type="pmid">25685621</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24977.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Batista</surname>
+                <given-names>RS</given-names>
+              </name>
+              <name>
+                <surname>Gomes</surname>
+                <given-names>AP</given-names>
+              </name>
+              <name>
+                <surname>Dutra Gazineo</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Balbino Miguel</surname>
+                <given-names>PS</given-names>
+              </name>
+              <name>
+                <surname>Santana</surname>
+                <given-names>LA</given-names>
+              </name>
+              <name>
+                <surname>Oliveira</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Geller</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Meningococcal disease, a clinical and epidemiological review.</article-title>
+            <source>Asian Pac J Trop Med</source>
+            <year>2017</year>
+            <month>Nov</month>
+            <volume>10</volume>
+            <issue>11</issue>
+            <fpage>1019</fpage>
+            <page-range>1019-1029</page-range>
+            <pub-id pub-id-type="pmid">29203096</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24977.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>T&#x000f6;r&#x000f6;s</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Thulin Hedberg</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Jacobsson</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Fredlund</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Olc&#x000e9;n</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>M&#x000f6;lling</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Surveillance of invasive Neisseria meningitidis with a serogroup Y update, Sweden 2010 to 2012.</article-title>
+            <source>Euro Surveill</source>
+            <year>2014</year>
+            <month>Oct</month>
+            <day>23</day>
+            <volume>19</volume>
+            <issue>42</issue>
+            <pub-id pub-id-type="pmid">25358044</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24977.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Coureuil</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Join-Lambert</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>L&#x000e9;cuyer</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Bourdoulous</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Marullo</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Nassif</surname>
+                <given-names>X</given-names>
+              </name>
+            </person-group>
+            <article-title>Pathogenesis of meningococcemia.</article-title>
+            <source>Cold Spring Harb Perspect Med</source>
+            <year>2013</year>
+            <month>Jun</month>
+            <day>01</day>
+            <volume>3</volume>
+            <issue>6</issue>
+            <pub-id pub-id-type="pmid">23732856</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24977.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Branco</surname>
+                <given-names>RG</given-names>
+              </name>
+              <name>
+                <surname>Tasker</surname>
+                <given-names>RC</given-names>
+              </name>
+            </person-group>
+            <article-title>Meningococcal meningitis.</article-title>
+            <source>Curr Treat Options Neurol</source>
+            <year>2010</year>
+            <month>Sep</month>
+            <volume>12</volume>
+            <issue>5</issue>
+            <fpage>464</fpage>
+            <page-range>464-74</page-range>
+            <pub-id pub-id-type="pmid">20842601</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24977.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sabatini</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Bosis</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Semino</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Senatore</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Principi</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Esposito</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Clinical presentation of meningococcal disease in childhood.</article-title>
+            <source>J Prev Med Hyg</source>
+            <year>2012</year>
+            <month>Jun</month>
+            <volume>53</volume>
+            <issue>2</issue>
+            <fpage>116</fpage>
+            <page-range>116-9</page-range>
+            <pub-id pub-id-type="pmid">23240173</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24977.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dass Hazarika</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Deka</surname>
+                <given-names>NM</given-names>
+              </name>
+              <name>
+                <surname>Khyriem</surname>
+                <given-names>AB</given-names>
+              </name>
+              <name>
+                <surname>Lyngdoh</surname>
+                <given-names>WV</given-names>
+              </name>
+              <name>
+                <surname>Barman</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Duwarah</surname>
+                <given-names>SG</given-names>
+              </name>
+              <name>
+                <surname>Jain</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Borthakur</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Invasive meningococcal infection: analysis of 110 cases from a tertiary care centre in North East India.</article-title>
+            <source>Indian J Pediatr</source>
+            <year>2013</year>
+            <month>May</month>
+            <volume>80</volume>
+            <issue>5</issue>
+            <fpage>359</fpage>
+            <page-range>359-64</page-range>
+            <pub-id pub-id-type="pmid">22821284</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24977.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lachant</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Trawick</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Meningococcemia Presenting as a Myocardial Infarction.</article-title>
+            <source>Case Rep Crit Care</source>
+            <year>2015</year>
+            <volume>2015</volume>
+            <fpage>953826</fpage>
+            <pub-id pub-id-type="pmid">26640720</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

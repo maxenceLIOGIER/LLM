@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-28424" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Respiratory Syncytial Virus Infection in Children</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Jain</surname>
+            <given-names>Hanish</given-names>
+          </name>
+          <aff>Un. of Syracuse</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Schweitzer</surname>
+            <given-names>John W.</given-names>
+          </name>
+          <aff>East Tennessee State University</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Justice</surname>
+            <given-names>Nathaniel A.</given-names>
+          </name>
+          <aff>East Tennessee State University</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Hanish Jain declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>John Schweitzer declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Nathaniel Justice declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>6</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-28424.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>The human respiratory syncytial virus (RSV) is one of the most common viruses to infect children worldwide and increasingly is recognized as an important pathogen in adults, especially the elderly. The most common clinical scenario encountered in RSV infection is an upper respiratory infection, but RSV commonly presents in young children as bronchiolitis, a lower respiratory tract illness with small airway obstruction, and can rarely progress to pneumonia, respiratory failure, apnea, and death. This activity reviews the pathophysiology of respiratory syncytial virus infection and highlights the role of the interprofessional team in its management.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Describe the pathophysiology of respiratory syncytial virus infection.</p></list-item><list-item><p>Review the presentation of respiratory syncytial virus infection.</p></list-item><list-item><p>Outline the treatment and management options available for the respiratory syncytial virus.</p></list-item><list-item><p>Describe interprofessional team strategies for improving care coordination and communication to advance the treatment of respiratory syncytial virus and improve outcomes.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=28424&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=28424">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-28424.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>The human respiratory syncytial virus (RSV) is one of the most common viruses to infect children worldwide and&#x000a0;increasingly&#x000a0;is recognized as an important pathogen in adults, especially the elderly. The most common clinical scenario encountered in RSV infection is an upper respiratory infection, but RSV commonly presents in young children as bronchiolitis, a lower respiratory tract illness with small airway obstruction, and can rarely progress to pneumonia, respiratory failure, apnea, and death. The mainstay of treatment for the vast majority of RSV infections is supportive, but passive preventive immunization is available for at-risk children, including premature infants and infants with a history of cardiac, pulmonary, or neuromuscular diseases. There is a single antiviral treatment for RSV currently&#x000a0;approved, but its use is limited by questionable efficacy, side effects, and cost, and it is recommended that it be used only for patients at risk for severe disease, on a case-by-case basis.<xref ref-type="bibr" rid="article-28424.r1">[1]</xref><xref ref-type="bibr" rid="article-28424.r2">[2]</xref><xref ref-type="bibr" rid="article-28424.r3">[3]</xref></p>
+      </sec>
+      <sec id="article-28424.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p>RSV is a single-stranded, negative-strand, RNA virus belonging to the <italic toggle="yes">Paramyxoviridae</italic> family, and is in the genus <italic toggle="yes">Pneumovirus</italic>. RSV was discovered in chimpanzees in 1955 and subsequently confirmed to be a human pathogen shortly after that. There are several animal respiratory syncytial viruses in the same genus as human RSV, which do not infect humans, and which will not be further referenced in this article. The structure of RSV is that of a bilipid-layer-envelope surrounding a ribonucleoprotein core, with several membrane proteins, one of which functions in attachment to host cells, and one of which functions in fusion to host cells. There is only one serotype of RSV, but it is classified into two strains, "A" and "B," with differences consisting of variation in the structure of several structural membrane proteins, most especially the attachment protein.<xref ref-type="bibr" rid="article-28424.r4">[4]</xref><xref ref-type="bibr" rid="article-28424.r5">[5]</xref></p>
+      </sec>
+      <sec id="article-28424.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p>RSV is a widespread pathogen of humans, due in part to the lack of long-term immunity after infection, making reinfection frequent. It infects 90% of children within the first 2 years of life and frequently reinfects older children and adults. The majority of patients with RSV will have an upper respiratory illness, but a significant minority will develop lower respiratory tract illness, predominantly in the form of bronchiolitis. Children under the age of one year are especially likely to develop lower respiratory involvement, with up to 40% of primary infections resulting in bronchiolitis. Worldwide, it is estimated that RSV is responsible for approximately 33 million lower respiratory tract illnesses, three million hospitalizations, and up to 199,000 childhood deaths; the majority of deaths are in resource-limited countries. There is seasonal variation in RSV incidence, but seasonal effects vary with worldwide geography; temperate climates have a marked winter-spring predominance, and tropical and equatorial climates may have less pronounced spikes with the more interseasonal disease. Morbidity and mortality are significantly higher in a subset of patients, including premature infants, patients with preexisting cardiac, pulmonary, neurologic, and immunosuppressive disorders, and the elderly.<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="30152912">[6]</ext-link><xref ref-type="bibr" rid="article-28424.r6">[7]</xref></p>
+      </sec>
+      <sec id="article-28424.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>RSV is spread from person to person via respiratory droplet, and the incubation period after inoculation with RSV ranges from 2 to 8 days, with a&#x000a0;mean&#x000a0;incubation of 4 to 6 days, depending on host factors such as the age of the&#x000a0;patient and whether it is the patient's primary infection with RSV. After inoculation into the nasopharyngeal or conjunctival mucosa, the virus rapidly spreads into the respiratory tract, where it targets its preferred growth medium: apical ciliated epithelial cells. There it binds to cellular receptors using the RSV-G glycoprotein, then uses the RSV-F fusion glycoprotein to fuse with host cell membranes and insert its nucleocapsid into the host cell to begin its intracellular replication. Host inflammatory immune response is triggered, including both humoral and cytotoxic T-cell activation, and a combination of viral cytotoxicity and the&#x000a0;host's cytotoxic response cause necrosis of respiratory epithelial cells, leading to downstream consequences of small airway obstruction and plugging by mucus, cellular debris, and DNA. More severe cases may also include alveolar obstruction. Other downstream effects include ciliary dysfunction with impaired mucus clearance, airway edema, and decreased lung compliance.<xref ref-type="bibr" rid="article-28424.r7">[8]</xref></p>
+      </sec>
+      <sec id="article-28424.s6" sec-type="Histopathology">
+        <title>Histopathology</title>
+        <p>Histopathology does not play a significant role in the diagnosis of RSV and the findings in mild disease are not known, but histopathologic findings of severe disease include abundant respiratory epithelial cell death, airway edema, and immune cell infiltration, initially polymorphonuclear early in the illness, and later in the illness, lymphomononuclear.</p>
+      </sec>
+      <sec id="article-28424.s7" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>RSV typically manifests as an upper respiratory illness, with the possibility of lower respiratory tract involvement, and historical and examination findings differ based on the location and severity of the disease. If limited to the upper respiratory tract, RSV presents with rhinorrhea, nasal congestion, cough, sneezing, and sometimes fever and myalgia. In some patients, especially those with risk factors for severe disease who&#x000a0;are under the age of 2 years, RSV will progress to lower respiratory tract involvement with various permutations of the classic findings of bronchiolitis: rhonchorous breath sounds, tachypnea, accessory muscle use, wheezes, and prolonged expiration. In severe cases, it may also present with findings of viral pneumonia, hypoxia, lethargy, apnea, and acute respiratory failure.</p>
+      </sec>
+      <sec id="article-28424.s8" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>The diagnosis of RSV and subsequent bronchiolitis is clinical and does not require confirmatory testing or imaging. Testing for RSV is discouraged unless the fact of its presence would alter medical decision-making. Specific testing for RSV may be useful to differentiate from other disorders and is available in two commonly used forms: rapid antigen testing and polymerase-chain-reaction-based (PCR) testing. Antigen testing is quick, inexpensive, specific, and is easily performed on nasal secretions. Nonetheless,&#x000a0;sensitivity is only about 80% during RSV outbreaks. PCR testing is increasingly more common due to the proliferation of the technology, rapid results, ease of testing, a higher sensitivity rate than antigen testing, and the ability to detect numerous other organisms when performed as part of a PCR panel. The disadvantages of PCR testing include the cost of the test and the need for specialized equipment to process the test. Radiographic findings in RSV are identical to bronchiolitis in general and are non-specific, and require interpretation in the context of the patient's illness. Chest x-ray findings of RSV bronchiolitis may include hyperinflation, patchy atelectasis, and peribronchial thickening; however, these may be difficult to distinguish from bacterial pneumonia.<xref ref-type="bibr" rid="article-28424.r8">[9]</xref><xref ref-type="bibr" rid="article-28424.r9">[10]</xref></p>
+      </sec>
+      <sec id="article-28424.s9" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>Treatment for RSV falls into three categories: supportive care, immune prophylaxis, and antiviral medication. The majority of RSV and bronchiolitis cases require no specific medical intervention, and many attempted treatments throughout history are ineffective. Vaccines for RSV and therapeutic interventions for RSV remain a target of intense scientific interest.</p>
+        <p>The mainstay of treatment for patients with RSV is supportive care. The spectrum of supportive care includes nasal suction and lubrication to provide relief from nasal congestion, antipyretics for fever, assisted hydration in the event of dehydration (assistance may be by mouth, by nasogastric tube, or intravenously), and oxygen for patients experiencing hypoxia. Patients with severe presentation and respiratory compromise/failure may require ventilatory support in the form of a high-flow nasal cannula, CPAP, intubation, and mechanical ventilation. Hospitalization is recommended for patients who are experiencing or are at risk for moderate to severe disease, patients requiring supplemental fluids, and patients requiring respiratory support.</p>
+        <p>Effective passive immune prophylaxis for RSV exists in the form of palivizumab, a humanized murine monoclonal antibody with activity against the RSV membrane fusion protein required for fusion with host cell membranes. Palivizumab must be administered monthly for the duration of the RSV season. Palivizumab is relatively expensive and is the subject of some debate regarding cost-effectiveness. The American Academy of Pediatrics publishes guidelines regarding which patients are candidates for palivizumab and its discontinuation in breakthrough infection, and we refer readers to those guidelines for specific recommendations regarding palivizumab eligibility. Broadly, these recommendations include prophylaxis for children in the first year of life with prematurity less than or equal to 29 weeks gestational age, chronic lung disease of prematurity, congenital heart disease, or neuromuscular disorders.</p>
+        <p>There is a single antiviral medication approved for use against RSV in the United States, ribavirin. It is a nucleoside analog with application in several RNA viruses, and it shows in vitro activity against RSV and may be administered in aerosolized form. However, its use in RSV remains controversial due to expense, questions of danger to exposed healthcare providers, and questions of efficacy, specifically regarding mortality, length of mechanical ventilation, and length of hospital stay. Ribavirin's routine use is discouraged, but it may be considered on a case-by-case basis.</p>
+        <p>Two monoclonal antibodies are available to prevent RSV: palivizumab and nirsevimab. They are both monoclonal antibodies. Palivizumab is dosed monthly throughout the RSV season, while nirsevimab is given as a single dose. Nirsevimab is less expensive and may be more effective.</p>
+        <p>Many other treatment modalities for bronchiolitis have been tried in the past, and all others have failed to show broad, reproducible efficacy on clinically significant outcomes in RSV and bronchiolitis. These include albuterol, racemic epinephrine, steroids, hypertonic saline, antibiotics, and chest physical therapy. Routine use of these interventions is not recommended.<xref ref-type="bibr" rid="article-28424.r10">[11]</xref><xref ref-type="bibr" rid="article-28424.r11">[12]</xref></p>
+      </sec>
+      <sec id="article-28424.s10" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>Asthma</p>
+          </list-item>
+          <list-item>
+            <p>Bronchiolitis</p>
+          </list-item>
+          <list-item>
+            <p>Influenza</p>
+          </list-item>
+          <list-item>
+            <p>Croup</p>
+          </list-item>
+          <list-item>
+            <p>Bronchitis</p>
+          </list-item>
+          <list-item>
+            <p>Pneumonia</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-28424.s11" sec-type="Prognosis">
+        <title>Prognosis</title>
+        <p>Children hospitalized secondary to RSV infection usually recover without sequelae. They are discharged in 3 to 4 days. High-risk infants have longer hospitalizations and have higher rates of mechanical ventilation and admission to the intensive care unit.</p>
+        <p>People infected with RSV are contagious for 3 to 8 days. However, some infants, and people with weakened immune systems, can continue to spread the virus even after they stop showing symptoms for as long as 4 weeks.</p>
+      </sec>
+      <sec id="article-28424.s12" sec-type="Deterrence and Patient Education">
+        <title>Deterrence and Patient Education</title>
+        <p>Hand washing&#x000a0;</p>
+      </sec>
+      <sec id="article-28424.s13" sec-type="Pearls and Other Issues">
+        <title>Pearls and Other Issues</title>
+        <p>There is evidence that severe RSV infection and hospitalization for RSV early in life raise the risk for the development of recurrent wheezing, childhood asthma, and allergic sensitization. Moreover, there is some&#x000a0;evidence that palivizumab prophylaxis may decrease the incidence of later recurrent wheezing in treated subjects. However, the extent, duration, and mechanism of a link between RSV and asthma has not been fully elucidated and remains a subject of vigorous research.</p>
+      </sec>
+      <sec id="article-28424.s14" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>RSV is a very&#x000a0;common childhood infection and often leads to many visits to the emergency room, which in the end&#x000a0;also increase the cost of healthcare. Like all infections, RSV is best managed by an interprofessional team that focusses on prevention. At the time of discharge, the nurse is in a prime position to educate the family on hand washing. Since the infection is spread via aerosolized particles, cleaning of environmental surfaces is also of importance. In the hospital, the nurse should ensure that the infected child is isolated&#x000a0;and that the parents wear a gown and a mask during close contact. Further, the pharmacist should educate the family that there are no pharmacological treatments for RSV and supportive care and hydration are necessary.<xref ref-type="bibr" rid="article-28424.r1">[1]</xref><xref ref-type="bibr" rid="article-28424.r12">[13]</xref><xref ref-type="bibr" rid="article-28424.r13">[14]</xref>&#x000a0;[Level 5]</p>
+        <p>
+<bold>Outcomes</bold>
+</p>
+        <p>The majority of children with RSV have an excellent outcome. Even those who need admission are usually discharged in several days. However, high-risk infants with other co-morbidities may require longer admission and some may even require mechanical ventilation. The overall&#x000a0;mortality for RSV is less than 1%, and in the United&#x000a0;States, there are less than 400 deaths attributed to RSV each year. Infants with congenital heart disease, prematurity or chronic lung&#x000a0;disease&#x000a0;tend to&#x000a0;have the highest mortality. Further infants who are immunocompromised also tend to&#x000a0;have longer admissions compared to normal infants. In the long run, some infants with RSV may develop wheezing, but this is debatable. Recent studies do not show an increased risk of asthma.<xref ref-type="bibr" rid="article-28424.r14">[15]</xref><xref ref-type="bibr" rid="article-28424.r15">[16]</xref>&#x000a0;[Level 5]</p>
+      </sec>
+      <sec id="article-28424.s15">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=28424&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=28424">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/infectious-disease/respiratory-syncytial-virus-infection-in-children/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=28424">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/28424/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=28424">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-28424.s16">
+        <title>References</title>
+        <ref id="article-28424.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Domachowske</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Halczyn</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Bonville</surname>
+                <given-names>CA</given-names>
+              </name>
+            </person-group>
+            <article-title>Preventing Pediatric Respiratory Syncytial Virus Infection.</article-title>
+            <source>Pediatr Ann</source>
+            <year>2018</year>
+            <month>Sep</month>
+            <day>01</day>
+            <volume>47</volume>
+            <issue>9</issue>
+            <fpage>e371</fpage>
+            <page-range>e371-e376</page-range>
+            <pub-id pub-id-type="pmid">30208197</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28424.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sun</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Sun</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ji</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Hao</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Yan</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>Y</given-names>
+              </name>
+            </person-group>
+            <article-title>Impact of RSV Coinfection on Human Bocavirus in Children with Acute Respiratory Infections.</article-title>
+            <source>J Trop Pediatr</source>
+            <year>2019</year>
+            <month>Aug</month>
+            <day>01</day>
+            <volume>65</volume>
+            <issue>4</issue>
+            <fpage>342</fpage>
+            <page-range>342-351</page-range>
+            <pub-id pub-id-type="pmid">30202992</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28424.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Di Giallonardo</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Kok</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Fernandez</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Carter</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Geoghegan</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Dwyer</surname>
+                <given-names>DE</given-names>
+              </name>
+              <name>
+                <surname>Holmes</surname>
+                <given-names>EC</given-names>
+              </name>
+              <name>
+                <surname>Eden</surname>
+                <given-names>JS</given-names>
+              </name>
+            </person-group>
+            <article-title>Evolution of Human Respiratory Syncytial Virus (RSV) over Multiple Seasons in New South Wales, Australia.</article-title>
+            <source>Viruses</source>
+            <year>2018</year>
+            <month>Sep</month>
+            <day>06</day>
+            <volume>10</volume>
+            <issue>9</issue>
+            <pub-id pub-id-type="pmid">30200580</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28424.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Nyiro</surname>
+                <given-names>JU</given-names>
+              </name>
+              <name>
+                <surname>Munywoki</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Kamau</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Agoti</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Gichuki</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Etyang</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Otieno</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Nokes</surname>
+                <given-names>DJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Surveillance of respiratory viruses in the outpatient setting in rural coastal Kenya: baseline epidemiological observations.</article-title>
+            <source>Wellcome Open Res</source>
+            <year>2018</year>
+            <volume>3</volume>
+            <fpage>89</fpage>
+            <pub-id pub-id-type="pmid">30175247</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28424.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Krause</surname>
+                <given-names>CI</given-names>
+              </name>
+            </person-group>
+            <article-title>The ABCs of RSV.</article-title>
+            <source>Nurse Pract</source>
+            <year>2018</year>
+            <month>Sep</month>
+            <volume>43</volume>
+            <issue>9</issue>
+            <fpage>20</fpage>
+            <page-range>20-26</page-range>
+            <pub-id pub-id-type="pmid">30134433</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28424.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Omer</surname>
+                <given-names>SB</given-names>
+              </name>
+              <name>
+                <surname>Bednarczyk</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Kazi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Guterman</surname>
+                <given-names>LB</given-names>
+              </name>
+              <name>
+                <surname>Aziz</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Allen</surname>
+                <given-names>KE</given-names>
+              </name>
+              <name>
+                <surname>Yildirim</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Ali</surname>
+                <given-names>SA</given-names>
+              </name>
+            </person-group>
+            <article-title>Assessment and Validation of Syndromic Case Definitions for Respiratory Syncytial Virus Testing in a Low Resource Population.</article-title>
+            <source>Pediatr Infect Dis J</source>
+            <year>2019</year>
+            <month>Mar</month>
+            <volume>38</volume>
+            <issue>3</issue>
+            <fpage>e57</fpage>
+            <page-range>e57-e59</page-range>
+            <pub-id pub-id-type="pmid">30074977</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28424.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Schmidt</surname>
+                <given-names>ME</given-names>
+              </name>
+              <name>
+                <surname>Varga</surname>
+                <given-names>SM</given-names>
+              </name>
+            </person-group>
+            <article-title>Cytokines and CD8 T cell immunity during respiratory syncytial virus infection.</article-title>
+            <source>Cytokine</source>
+            <year>2020</year>
+            <month>Sep</month>
+            <volume>133</volume>
+            <fpage>154481</fpage>
+            <pub-id pub-id-type="pmid">30031680</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28424.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ye</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Laboratory epidemiology of respiratory viruses in a large children's hospital: A STROBE-compliant article.</article-title>
+            <source>Medicine (Baltimore)</source>
+            <year>2018</year>
+            <month>Jul</month>
+            <volume>97</volume>
+            <issue>30</issue>
+            <fpage>e11385</fpage>
+            <pub-id pub-id-type="pmid">30045260</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28424.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Coughtrie</surname>
+                <given-names>AL</given-names>
+              </name>
+              <name>
+                <surname>Morris</surname>
+                <given-names>DE</given-names>
+              </name>
+              <name>
+                <surname>Anderson</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Begum</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Cleary</surname>
+                <given-names>DW</given-names>
+              </name>
+              <name>
+                <surname>Faust</surname>
+                <given-names>SN</given-names>
+              </name>
+              <name>
+                <surname>Jefferies</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Kraaijeveld</surname>
+                <given-names>AR</given-names>
+              </name>
+              <name>
+                <surname>Moore</surname>
+                <given-names>MV</given-names>
+              </name>
+              <name>
+                <surname>Mullee</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Roderick</surname>
+                <given-names>PJ</given-names>
+              </name>
+              <name>
+                <surname>Tuck</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Whittaker</surname>
+                <given-names>RN</given-names>
+              </name>
+              <name>
+                <surname>Yuen</surname>
+                <given-names>HM</given-names>
+              </name>
+              <name>
+                <surname>Doncaster</surname>
+                <given-names>CP</given-names>
+              </name>
+              <name>
+                <surname>Clarke</surname>
+                <given-names>SC</given-names>
+              </name>
+            </person-group>
+            <article-title>Ecology and diversity in upper respiratory tract microbial population structures from a cross-sectional community swabbing study.</article-title>
+            <source>J Med Microbiol</source>
+            <year>2018</year>
+            <month>Aug</month>
+            <volume>67</volume>
+            <issue>8</issue>
+            <fpage>1096</fpage>
+            <page-range>1096-1108</page-range>
+            <pub-id pub-id-type="pmid">29927372</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28424.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Foolad</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Aitken</surname>
+                <given-names>SL</given-names>
+              </name>
+              <name>
+                <surname>Shigle</surname>
+                <given-names>TL</given-names>
+              </name>
+              <name>
+                <surname>Prayag</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Ghantoji</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Ariza-Heredia</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Chemaly</surname>
+                <given-names>RF</given-names>
+              </name>
+            </person-group>
+            <article-title>Oral Versus Aerosolized Ribavirin for the Treatment of Respiratory Syncytial Virus Infections in Hematopoietic Cell Transplant Recipients.</article-title>
+            <source>Clin Infect Dis</source>
+            <year>2019</year>
+            <month>May</month>
+            <day>02</day>
+            <volume>68</volume>
+            <issue>10</issue>
+            <fpage>1641</fpage>
+            <page-range>1641-1649</page-range>
+            <pub-id pub-id-type="pmid">30202920</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28424.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Perk</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>&#x000d6;zdil</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Respiratory syncytial vir&#x000fc;s infections in neonates and infants.</article-title>
+            <source>Turk Pediatri Ars</source>
+            <year>2018</year>
+            <month>Jun</month>
+            <volume>53</volume>
+            <issue>2</issue>
+            <fpage>63</fpage>
+            <page-range>63-70</page-range>
+            <pub-id pub-id-type="pmid">30116126</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28424.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tam</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Papenburg</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Fanella</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Asner</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Barton</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Bergeron</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Desai</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hui</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Foo</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Langley</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Leifso</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Ma</surname>
+                <given-names>ML</given-names>
+              </name>
+              <name>
+                <surname>Pernica</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Robinson</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Singh</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Tapiero</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Allen</surname>
+                <given-names>U</given-names>
+              </name>
+            </person-group>
+            <article-title>Pediatric Investigators Collaborative Network on Infections in Canada Study of Respiratory Syncytial Virus-associated Deaths in Pediatric Patients in Canada, 2003-2013.</article-title>
+            <source>Clin Infect Dis</source>
+            <year>2019</year>
+            <month>Jan</month>
+            <day>01</day>
+            <volume>68</volume>
+            <issue>1</issue>
+            <fpage>113</fpage>
+            <page-range>113-119</page-range>
+            <pub-id pub-id-type="pmid">29788036</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28424.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Rostas</surname>
+                <given-names>SE</given-names>
+              </name>
+              <name>
+                <surname>McPherson</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Pharmacist-driven respiratory syncytial virus prophylaxis stewardship service in a neonatal intensive care unit.</article-title>
+            <source>Am J Health Syst Pharm</source>
+            <year>2016</year>
+            <month>Dec</month>
+            <day>15</day>
+            <volume>73</volume>
+            <issue>24</issue>
+            <fpage>2089</fpage>
+            <page-range>2089-2094</page-range>
+            <pub-id pub-id-type="pmid">27919877</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28424.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sruamsiri</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Kubo</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Mahlich</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Hospitalization costs and length of stay of Japanese children with respiratory syncytial virus: A structural equation modeling approach.</article-title>
+            <source>Medicine (Baltimore)</source>
+            <year>2018</year>
+            <month>Jul</month>
+            <volume>97</volume>
+            <issue>29</issue>
+            <fpage>e11491</fpage>
+            <pub-id pub-id-type="pmid">30024527</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28424.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Khuri-Bulos</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Lawrence</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Piya</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Fonnesbeck</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Faouri</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Shehabi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Vermund</surname>
+                <given-names>SH</given-names>
+              </name>
+              <name>
+                <surname>Williams</surname>
+                <given-names>JV</given-names>
+              </name>
+              <name>
+                <surname>Halasa</surname>
+                <given-names>NB</given-names>
+              </name>
+            </person-group>
+            <article-title>Severe outcomes associated with respiratory viruses in newborns and infants: a prospective viral surveillance study in Jordan.</article-title>
+            <source>BMJ Open</source>
+            <year>2018</year>
+            <month>May</month>
+            <day>20</day>
+            <volume>8</volume>
+            <issue>5</issue>
+            <fpage>e021898</fpage>
+            <pub-id pub-id-type="pmid">29780032</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-135620" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Noninfectious Complications of Blood Transfusion</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Khan</surname>
+            <given-names>Atif I.</given-names>
+          </name>
+          <aff>AIIMS New Delhi</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Gupta</surname>
+            <given-names>Gaurav</given-names>
+          </name>
+          <aff>Memorial Sloan Kettering Cancer Center</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Atif Khan declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Gaurav Gupta declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>8</day>
+          <month>8</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-135620.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Complications associated with blood transfusion are not uncommon. Non-infectious complications are a group of adverse events associated with blood transfusions, some of which could be life-threatening. Therefore, knowledge of these complications is essential for an interprofessional team. This activity describes various non-infectious blood transfusion complications, symptoms, and potential mitigation strategies, including component modifications.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Describe the epidemiology of non-infectious complications of transfusion.</p></list-item><list-item><p>Explain the pathophysiology of non-infectious complications of transfusion.</p></list-item><list-item><p>Review the symptoms and differentiating features of different transfusion reactions.</p></list-item><list-item><p>Summarize the mitigation strategies for non-infectious complications of transfusion.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=135620&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=135620">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-135620.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Blood transfusion practice has come a long way over the centuries, with many advancements made to its safety. The transfused blood component can be a cellular component such as red blood cells (RBC), platelets, white blood cells (WBC), or it can also be non-cellular components like plasma or plasma-derived products. There is no suitable substitute available for these components making their use inevitable in the patients who need these products. When transfused, these components are foreign materials that impose a risk of a reaction.<xref ref-type="bibr" rid="article-135620.r1">[1]</xref></p>
+        <p>Blood transfusion has never been safer than it is today, but still not completely free of adverse events. Advancements in technology for blood testing over the years and much emphasis on donor screening have reduced transfusion-related adverse events, especially the transmission of infectious agents; however, non-infectious complications continue to be a serious risk.<xref ref-type="bibr" rid="article-135620.r2">[2]</xref>&#x000a0;The&#x000a0;surveillance conducted by the Serious Hazards of Transfusion (SHOT) haemovigilance scheme in the UK gave a comprehensive overview of the incidence of various transfusion-related adverse events.<xref ref-type="bibr" rid="article-135620.r3">[3]</xref>&#x000a0;In the US, the&#x000a0;risk of adverse reactions due to blood transfusion is reported to be 0.2%, of which more than 80% are either allergic reactions or febrile nonhemolytic reactions.<xref ref-type="bibr" rid="article-135620.r4">[4]</xref>&#x000a0;This shows the burden of non-infectious complications of transfusion.</p>
+        <p>Non-infectious transfusion-related adverse events could happen due to a wide variety of reasons specific to a blood component, amount of transfusion, and human error. Therefore, understanding the etiology and pathophysiology of these reactions is crucial for medical professionals involved with blood transfusions. In addition, modifications to clinical and laboratory practices can mitigate the incidence and impact of these adverse events.</p>
+      </sec>
+      <sec id="article-135620.s3" sec-type="Issues of Concern">
+        <title>Issues of Concern</title>
+        <p>
+<bold>Classification of Non-infectious Complications of Blood Transfusion</bold>
+</p>
+        <p>These are broadly&#x000a0;classified as acute and delayed reactions based on time of occurrence. These categories are further subclassified based on the etiology, whether it is immune or non-immune related.&#x000a0;</p>
+        <p>
+<bold>Acute Reaction (&#x0003c;24 hours)</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>&#x000a0;Immune-mediated reactions include
+<list list-type="bullet"><list-item><p>Acute hemolytic transfusion reaction(AHTR)&#x000a0;</p></list-item><list-item><p>Febrile nonhemolytic transfusion reaction (FNHTR)</p></list-item><list-item><p>Allergic reactions&#x000a0;</p></list-item><list-item><p>Anaphylactic reactions&#x000a0;</p></list-item><list-item><p>Transfusion-related acute lung injury (TRALI)&#x000a0;</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Non-immune mediated reactions include
+<list list-type="bullet"><list-item><p>Air embolism</p></list-item><list-item><p>Transfusion-associated circulatory overload (TACO)&#x000a0;</p></list-item><list-item><p>Non-immune hemolysis</p></list-item></list>
+</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Delayed Reaction (&#x0003e;24 hours)</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Immune-mediated reactions include
+<list list-type="bullet"><list-item><p>Delayed hemolytic transfusion reaction(DHTR)&#x000a0;</p></list-item><list-item><p>Alloimmunization
+<list list-type="bullet"><list-item><p>To HLA antigens</p></list-item><list-item><p>To platelet antigens&#x000a0;</p></list-item><list-item><p>To red cell antigens</p></list-item></list>
+</p></list-item><list-item><p>Transfusion-related immunomodulation (TRIM)</p></list-item><list-item><p>Transfusion-associated graft versus host disease (TA-GVHD)</p></list-item><list-item><p>Post-transfusion purpura (PTP)</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Non-immune reaction includes
+<list list-type="bullet"><list-item><p>Iron overload<xref ref-type="bibr" rid="article-135620.r5">[5]</xref></p></list-item></list>
+</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-135620.s4" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>
+<bold>Hemolytic Transfusion Reaction (HTR)</bold>
+</p>
+        <p>This reaction occurs due to immune or non-immune-related RBC hemolysis. Incidence of HTR is 2.0 per 100,000 RBC transfusions. Our focus here is immune-mediated HTR, which is more clinically significant ann encountered more frequently than non-immune-related RBC hemolysis. HTR occurs due to immunologic incompatibility between the donor RBC and the recipient, i.e., the recipient has preformed antibodies against the antigen(s) on donor RBC. Immune-mediated-hemolysis can be due to ABO or non-ABO antibodies. These antibodies can be IgM (activate complement causing intravascular hemolysis), IgG (mainly causing extravascular hemolysis), or both. In most cases, ABO hemolysis is caused by the clerical error from the laboratory or the clinical service performing the transfusion; however, non-ABO hemolysis is multi-factorial. HTR are divided into Acute hemolytic transfusion reaction (AHTR) (&#x0003c;24hrs) or delayed hemolytic transfusion reaction(DHTR)(&#x0003e;24hrs). Most HTRs are due to RBC transfusion; however, less commonly, transfusion of plasma and platelets products containing high titers of isoagglutinin can also cause hemolysis of recipient RBCs.<xref ref-type="bibr" rid="article-135620.r6">[6]</xref>&#x000a0;</p>
+        <p>Another important and avoidable cause of AHTR is clerical errors either at the transfusionist's end or the laboratory.&#x000a0;ABO-incompatible transfusions are estimated to occur in 1 in 14,000 to 1 in 38,000 RBC transfusions.<xref ref-type="bibr" rid="article-135620.r2">[2]</xref>&#x000a0;As per data reported by SHOT, a clerical error was&#x000a0;the most common cause of transfusion-related adverse events when defining clerical error as&#x000a0;transfusion with a blood product that did not meet the appropriate requirements or that was intended for another patient.<xref ref-type="bibr" rid="article-135620.r6">[6]</xref>. Delayed hemolytic transfusion reaction (DHTR) occurs due to the evanescence property of certain antibodies. It occurs in&#x000a0;7.3 per 100,000 RBC transfusions. The titer of these antibodies falls below the limit of detection. After the re-exposure, the transfusion antibody titer can quickly increase over a few days to up to 4 weeks (usually 3&#x000a0;to 14 days) and cause immune-mediated hemolysis.<xref ref-type="bibr" rid="article-135620.r7">[7]</xref>&#x000a0;The presentation can be an unexplained decrease in hemoglobin, low-grade fever, increased bilirubin to the full range of symptoms seen in AHTR, although rare.&#x000a0;</p>
+        <p>HTR can have a wide spectrum of symptoms, including fever, chills, rigors, chest/back/abdominal pain, infusion site pain,&#x000a0;nausea/vomiting,&#x000a0;shock, dyspnea, hemoglobinuria, oliguria/anuria, and diffuse bleeding. The severity of the reaction varies and can depend on the amount and how rapidly the incompatible blood is transfused. In severe cases, it can lead to acute kidney failure, shock, DIC, or death. Some of these symptoms are difficult to assess in certain populations, such as pediatric and unconscious patients.<xref ref-type="bibr" rid="article-135620.r2">[2]</xref></p>
+        <p>Laboratory findings of hemolysis are present, including decreased or absent haptoglobin, elevated bilirubin, elevated LDH, hemoglobinemia, or hemoglobinuria. In addition, the peripheral smear shows acanthocytes (intravascular hemolysis) and spherocytes (extravascular hemolysis).&#x000a0;</p>
+        <p>Immune-mediated HTR can be confirmed by positive direct antiglobulin test (DAT) in most cases which identifies IgG antibody or complement coating the RBC. The alloantibody, if present, can be&#x000a0;confirmed in the plasma by indirect antiglobulin test(IAT). Rarely DAT can be negative if antibody-coated RBCs have already been cleared before the sample draw.&#x000a0;</p>
+        <p>Non-immune&#x000a0;causes of HTR include improper storage of RBC or poor techniques of thawing leading to lysis, mechanical problems like small needle or malfunctioning pumps, properties of the RBC like donors having&#x000a0;hemoglobinopathies.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Management:&#x000a0;</bold>Transfusion should be stopped immediately if AHTR is suspected. IV infusion with the goal to maintain urine output 70 -100ml/hr and monitor renal function. Supportive measures such as supplemental oxygen may be necessary. Monitor coagulation profile for DIC and send transfusion reaction work-up to the lab.&#x000a0;&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p><bold>Prevention:&#x000a0;</bold>Most common cause of AHTR is a clerical error. Practicing safe transfusion practices, including a robust patient identification process, can mitigate the incidence of these reactions. In addition, extended phenotype matched RBC transfusion can reduce the incidence of RBC alloimmunization and potential DHTR in patients who require chronic transfusion.&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Febrile Nonhemolytic Transfusion Reaction&#x000a0;</bold>
+<bold>(FNHTR)</bold>
+</p>
+        <p>FNHTR is one of the most commonly encountered transfusion reactions occurring at a rate of 86.4 per 100,000 all components transfused.<xref ref-type="bibr" rid="article-135620.r4">[4]</xref>&#x000a0;It is generally mild and self-limiting; however, its symptoms overlap with other serious adverse events associated with transfusion. Therefore, FNHTR is a diagnosis of exclusion. It is defined as a fever greater than 100.4&#x000b0;F (38&#x000b0;C) and a change of at least 1.8&#x000b0;F (1.0&#x000b0;C) from the pretransfusion level during or within 4 hours of transfusion. Occasionally fever may be absent with the presence of chills and rigor only.<xref ref-type="bibr" rid="article-135620.r2">[2]</xref>&#x000a0;Diagnosis of FNHTR requires excluding&#x000a0;both transfusion and non-transfusion-related possible causes of fever. It is generally associated with red blood cells and platelets transfusions but is uncommon with plasma products.&#x000a0;</p>
+        <p>The underlying pathophysiology is believed to be cytokines released by white blood cells in the stored&#x000a0;blood products.<xref ref-type="bibr" rid="article-135620.r8">[8]</xref>&#x000a0;Implicated cytokines include interleukin (IL)-1, IL-6, IL-8, and tumor necrosis factor-alpha (TNF&#x003b1;). Alternate pathophysiology for FNHTR has been activating granulocytes by anti-neutrophil antibodies, suggesting it could be a mild form of transfusion-related acute lung injury (TRALI).&#x000a0;</p>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Management:&#x000a0;</bold>Stop transfusion immediately. Send the transfusion reaction work-up to the laboratory. Acetaminophen to reduce fever. Exclude all other causes of fever. Demerol can be considered for severe rigors. As symptoms commonly overlap with other severe adverse events ruling out AHTR becomes critical.</p>
+          </list-item>
+          <list-item>
+            <p><bold>Prevention:&#x000a0;</bold>leukoreduction is a key blood product modification that decreases FNHTR. Premedication with acetaminophen may be helpful in the event of repeated FNHTR.&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Allergic Transfusion Reactions (ATRs)</bold>
+</p>
+        <p>These are another group of common adverse events mainly caused by the transfusion of plasma and platelets.&#x000a0;These reactions are estimated to occur in 1-3% of transfusions.<xref ref-type="bibr" rid="article-135620.r9">[9]</xref>&#x000a0;An allergic reaction can vary from mild skin manifestations such as hives, edema, pruritis, angioedema to serious life-threatening reactions like anaphylaxis presenting with hypotension and bronchospasm. Anaphylaxis&#x000a0;has an incidence of 1 in 20,000 to 50,000 transfusions.<xref ref-type="bibr" rid="article-135620.r10">[10]</xref></p>
+        <p>Pathophysiology of these reactions is believed to be soluble antigens in the donor unit to which the recipient has been previously sensitized. Leukoreduction does not prevent this. Anaphylaxis has been reported in IgA deficient individuals with anti-IgA antibodies receiving blood products&#x000a0;containing IgA, although other proteins can be responsible.<xref ref-type="bibr" rid="article-135620.r11">[11]</xref></p>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Management: </bold>Stop transfusion immediately<bold>.&#x000a0;</bold>Mild allergic reaction presenting with hives and urticaria can be managed by the administration of&#x000a0;diphenhydramine. Severe anaphylactic reactions may require administration of epinephrine, oxygen supplementation, and IV fluids.</p>
+          </list-item>
+          <list-item>
+            <p><bold>Prevention:&#x000a0;</bold>&#x000a0;Premedication with diphenhydramine can be helpful in cases of recurrent allergic reactions. Cases with severe allergic reactions may require the washing of cellular products. In addition, products from IgA deficient donors can help to prevent anaphylaxis in recipients with IgA antibodies.&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Transfusion-related Acute Lung Injury (TRALI)</bold>
+</p>
+        <p>This is a life-threatening complication characterized by acute lung injury within 6 hours of transfusion and one of the leading causes of mortality associated with blood transfusion. It occurs in 1.2 per 100,000 components transfusions. The diagnosis requires ruling out all other possible causes of pulmonary findings.<xref ref-type="bibr" rid="article-135620.r12">[12]</xref>&#x000a0;Pathophysiology is the transfusion of plasma with&#x000a0;anti-HLA (1&#x00026;2) or anti-HNA antibodies.<xref ref-type="bibr" rid="article-135620.r13">[13]</xref>&#x000a0;</p>
+        <p>Incidence&#x000a0;correlates with high plasma volume transfusion and is 50&#x000a0;to 100 times more common in critically ill and surgical&#x000a0;patients than in the general hospital population.<xref ref-type="bibr" rid="article-135620.r2">[2]</xref>&#x000a0;Other possible causes are antibodies in the patient reacting with transfused leukocytes (known as reverse TRALI) and&#x000a0;pro-inflammatory (also known as non-immune TRALI) mediators that accumulate in the blood product released by RBCs and platelets during storage (soluble Lipids and CD40).<xref ref-type="bibr" rid="article-135620.r12">[12]</xref>&#x000a0;Clinically it presents with dyspnea, hypoxemia (O2 saturation &#x0003c;90% on room air), tachypnea, low-grade fever, rigors, tachycardia, hypothermia, and hypotension. New-onset bilateral pulmonary infiltrates on imaging in the absence of any other cause of acute lung injury.&#x000a0;</p>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Management:&#x000a0;</bold>Stop transfusion immediately and notify blood bank/transfusion services. Perform chest imaging. Aggressive respiratory support with supplemental oxygen and/or positive airway ventilation, as needed. Steroids are not helpful. Diuretics are also not helpful since the underlying mechanism is not volume overload.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p><bold>Prevention:&#x000a0;</bold>Exclusion of plasma donation from high-risk donors such as multiparous women or screening and deferral of donors with HLA antibodies.&#x000a0; Leukoreduction may help prevent reverse TRALI.&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Transfusion-associated Circulatory Overload (TACO)</bold>
+</p>
+        <p>This s another leading cause of mortality associated with transfusion.&#x000a0;It occurs in 9.1 per 100,000&#x000a0;component transfusion. TACO is related to underlying medical conditions such as heart failure and is more common in critically ill patients.&#x000a0;Multiple blood products and the rate of transfusion is also a risk factor. Clinical presentation includes dyspnea, hypoxemia, tachycardia, hypertension. Imaging shows pulmonary edema and pleural effusion. Laboratory findings show elevation of the beta-natriuretic peptide (BNP). Symptoms and clinical presentation overlap with TRALI. However, the absence of fever, elevated BNP, hypertension (TRALI usually presents with hypotension), and symptomatic relief with diuretics favor TACO over TRALI.<xref ref-type="bibr" rid="article-135620.r14">[14]</xref><xref ref-type="bibr" rid="article-135620.r15">[15]</xref></p>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Management:&#x000a0;</bold>Stop transfusion immediately and&#x000a0;notify the blood bank/transfusion services. Chest imaging and BNP. Diuretics fr symptomatic relief.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p><bold>Prevention:&#x000a0;</bold>Avoid unnecessary transfusion is the best measure. Transfuse blood products at a slow rate (up to 4 hours). Other options include splitting the blood products and volume depletion.&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Transfusion-associated graft versus Host Disease (TAGvHD)</bold>
+</p>
+        <p>This is a rare complication with very high mortality and has an incidence of 0.01 per 100,000 transfusions. The underlying mechanism is the transfusion of viable donor T lymphocytes that are present in blood products. T-lymphocytes engraft and proliferate in the host and induce an immune response characterized by fever, rash, liver dysfunction, pancytopenia, and gastrointestinal symptoms that develop over 1 to 6 wks after a transfusion. Pancytopenia due to bone marrow aplasia is usually the cause of fatality. Patients at the highest risk of this complication are the immunocompromised, such as very young patients, those receiving chemotherapy. Additionally, the patients receiving blood products from close first-degree relatives are susceptible to develop TA-GVHD due to a partial HLA match between the donor and the recipient. T-lymphocytes from donors are not recognized as foreign by the recipient immune system because of a heterozygous HLA haplotype for which the donor is homozygous. T-lymphocyte are present in cellular products, including RBC, platelets, and granulocytes but not plasma products.<xref ref-type="bibr" rid="article-135620.r16">[16]</xref><xref ref-type="bibr" rid="article-135620.r2">[2]</xref></p>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Management:</bold>&#x000a0;No definitive treatment. Immunosuppression with corticosteroids and cytotoxic agents can help up to some extent. A bone marrow transplant can be potentially curable; however, generally not an option due to the acute course of progression.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p><bold>Prevention:&#x000a0;</bold>Irradiation of blood products such as RBC, Platelets, and granulocytes. Avoiding haploidentical transfusions such as from close relatives.</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Alloimmunization</bold>
+</p>
+        <p>Alloimmunization occurs due to the sensitization of the immune system to a particular antigen that is lacking in the host. Alloimmunization could be against RBC antigens, HLA antigens (present on WBC and Platelets), and (HPA) Human platelet antigen. There are over 30 different blood group systems based on RBC antigens, and their expression varies amongst individuals; hence there is a potential of developing antibodies on transfusion. The incidence of alloimmunization is 2 to 8% in chronic RBC transfusion recipients.<xref ref-type="bibr" rid="article-135620.r17">[17]</xref>&#x000a0; Immunogenicity of the RBC antigen determines its ability to induce antibody formation, and the Rh "D" blood group is the most significant of these groups.&#x000a0;Other important blood groups causing alloimmunization are Kell, Kidd, Duffy, and Rh groups (E &#x0003e; C &#x0003e; c). Alloimmunization leads to the risk of HTRs.&#x000a0;</p>
+        <p>HLA alloimmunization can occur by platelet or white blood cells exposure but not RBCs due to lack of HLA antigens on RBC. Studies have reported HLA alloimmunization rate of approximately 64% with non-leukoreduced product transfusion.<xref ref-type="bibr" rid="article-135620.r18">[18]</xref>&#x000a0;HLA I alloimmunization can cause platelet refractoriness. HLA alloimmunization can cause complications leading to graft rejection.<xref ref-type="bibr" rid="article-135620.r19">[19]</xref></p>
+        <p>HPA alloimmunization can also cause platelet refractoriness but is relatively uncommon compared to HLA alloimmunization. Its incidence is reported to be&#x000a0;2 to 10% in multiply transfused patients. It primarily occurs to HPA-1b and HPA-5b antigens. Patients with Bernard-Soulier syndrome and Glanzmann thrombasthenia&#x000a0;are at risk of developing antibodies to&#x000a0; GPIb/IX/V and GPIIb/IIIa platelet antigens.<xref ref-type="bibr" rid="article-135620.r20">[20]</xref></p>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Management:&#x000a0;&#x000a0;</bold>Platelets: HLA or HPA matched platelet products are considered in individuals with platelet refractoriness after ruling out other etiologies of refractoriness. Crossmatched products can also be considered.
+<list list-type="bullet"><list-item><p>RBC: Antigen negative units in an individual known to have alloantibody should be matched in pretransfusion testing.</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p><bold>Prevention:</bold>&#x000a0;&#x000a0;Leukoreduction can prevent HLA alloimmunization. Extended phenotype matching of RBC can be helpful in chronically transfused patients; however, it is difficult to implement. Platelet ABO matching and leukoreduction have been shown to reduce the requirement of HLA-matched platelet transfusions.<xref ref-type="bibr" rid="article-135620.r21">[21]</xref></p>
+          </list-item>
+        </list>
+        <p>
+<bold>Other Non-infectious Complications</bold>
+</p>
+        <p><bold>Complications Due to Massive Transfusion:</bold>&#x000a0;Massive transfusion is when 10 or more RBC units are transfused within 24 hours.<xref ref-type="bibr" rid="article-135620.r22">[22]</xref>&#x000a0;Complications can arise related to&#x000a0;metabolic and hemostatic issues, immune hemolysis, and air embolism. Metabolic complication as acidosis and hyperkalemia can occur immediately. Following transfusion, citrate toxicity can also occur, which causes alkalosis, hypocalcemia and can lead to hypokalemia. This is more likely to occur in patients that have gone into shock or have liver impairment. These complications may not warrant a treatment unless severe and causing symptoms. Massive transfusion can also cause hypothermia. Hemostatic issues include thrombocytopenia, platelet dysfunction, elevated prothrombin time (PT), and partial thromboplastin time (PTT). The reason behind these findings is believed to be consumptive coagulopathy&#x000a0;in addition to dilution factors.<xref ref-type="bibr" rid="article-135620.r23">[23]</xref></p>
+        <p>Complications related to the storage and processing of blood components&#x000a0;are usually benign. Citrate anticoagulant in the blood products chelates calcium and can cause symptoms related to hypocalcemia. Other complications could be related to the accumulation of storage lesion-related molecules, e.g., cytokines, potassium, or depletion of important nutrients over a period of storage such as 2,3 DPG required to maintain RBC membrane integrity. Older platelets tend to lose their quality and may be less functional in-vivo.</p>
+        <p>Fresh blood products may be needed in specific patient populations. For instance, fresh RBC for newborns as their body has not yet developed to replenish depleted&#x000a0;2,3DPG, unlike adults.</p>
+        <p><bold>Postransfusion Purpura (PTP):</bold>&#x000a0;This is a rare complication to platelet transfusion with an incidence of&#x000a0;1 in 25,000 transfused units. It occurs due to antibodies against platelet-specific antigens, mainly HPA-1 or HPA-3a, leading to thrombocytopenia and wet purpura, usually 5-10 days from transfusion. Management includes the use of&#x000a0;intravenous immunoglobulin (IVIG) and use of antigen-negative platelets.&#x000a0;</p>
+        <p><bold>Transfusion-related immunomodulation (TRIM):</bold>&#x000a0;This is an area still debated. Its a complication leading to immune system dysregulation, which causes increased morbidity and mortality. It is a host T-cell mediated response due to the transfusion of blood products containing leukocytes. Leukocytes in transfused products are believed to cause inhibition of cellular Th1 response while increasing cellular Th2 response, which leads to decreased immunity with increased susceptibility to infections and increased hospital stay, especially in a certain group of patients like cardiac surgery.<xref ref-type="bibr" rid="article-135620.r24">[24]</xref></p>
+        <p><bold>Hypotensive&#x000a0;Reaction:</bold>&#x000a0;This reaction can occur as an underlying part of a transfusion reaction or patient's condition; Standalone hypotensive reaction is considered when a drop in the systolic BP of &#x02265;30 mmHg and systolic BP &#x02264;80 mmHg&#x000a0;or&#x000a0; 25% drop in the baseline systolic BP of children. Bedside leukoreduction filters and/or angiotensin-converting enzyme (ACE) inhibitors are implicated in acute hypotensive reactions.<xref ref-type="bibr" rid="article-135620.r25">[25]</xref></p>
+      </sec>
+      <sec id="article-135620.s5" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Blood products should be transfused based on guidelines, and clinical assessment and unnecessary transfusions should be avoided. Transfusions have become a lot safer over few decades with the advancement of component preparation practices. For example, Leukoreduction of RBC or platelets significantly reduces complications of FNHTR and HLA alloimmunization. These product modifications are implemented predominantly in developed nations but still universally lacking in the developing world. Irradiation, washed RBC/platelets and plasma depletion of platelets are the specific modification that should be put in place for patients with special blood product need.&#x000a0;</p>
+        <p>A thorough discussion about such procedures between the physician and blood&#x000a0;transfusion specialist always helps benefit the patient. Close communication between blood banks and clinical services is crucial to establish safe transfusion practices. Hemovigilance keeps track of adverse events and helps develop better policies to reduce the chance of any transfusion-related complication.</p>
+        <p>With ever-changing medicine, we are bound to keep ourselves updated with the latest guidelines in transfusion. Participation in CMEs, conferences, and symposium help transfer techniques and the latest technology to improve patient care. Regular academic interaction between physicians in the blood bank and at the patient end is crucial and technical and nursing staff. Every physician undergoing residency should have a mandatory rotation in transfusion medicine to implement better transfusion practice overall.</p>
+      </sec>
+      <sec id="article-135620.s6" sec-type="Nursing, Allied Health, and Interprofessional Team Interventions">
+        <title>Nursing, Allied Health, and Interprofessional Team Interventions</title>
+        <p>All team members involved in the transfusion chain play an integral role in preventing errors or early identification of transfusion complications. Therefore, proper training and regular education of interdisciplinary teams consisting of laboratories, physicians, nurses, and phlebotomists involved in the transfusion process is paramount to achieve safe transfusion.</p>
+      </sec>
+      <sec id="article-135620.s7">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=135620&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=135620">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/135620/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=135620">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-135620.s8">
+        <title>References</title>
+        <ref id="article-135620.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Freedman</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Transfusion--whence and why.</article-title>
+            <source>Transfus Apher Sci</source>
+            <year>2014</year>
+            <month>Feb</month>
+            <volume>50</volume>
+            <issue>1</issue>
+            <fpage>5</fpage>
+            <page-range>5-9</page-range>
+            <pub-id pub-id-type="pmid">24393629</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-135620.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hendrickson</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Hillyer</surname>
+                <given-names>CD</given-names>
+              </name>
+            </person-group>
+            <article-title>Noninfectious serious hazards of transfusion.</article-title>
+            <source>Anesth Analg</source>
+            <year>2009</year>
+            <month>Mar</month>
+            <volume>108</volume>
+            <issue>3</issue>
+            <fpage>759</fpage>
+            <page-range>759-69</page-range>
+            <pub-id pub-id-type="pmid">19224780</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-135620.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cohen</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Bolton-Maggs</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Breaking records in blood transfusion safety.</article-title>
+            <source>Transfus Med</source>
+            <year>2012</year>
+            <month>Aug</month>
+            <volume>22</volume>
+            <issue>4</issue>
+            <fpage>241</fpage>
+            <page-range>241-3</page-range>
+            <pub-id pub-id-type="pmid">22809429</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-135620.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Harvey</surname>
+                <given-names>AR</given-names>
+              </name>
+              <name>
+                <surname>Basavaraju</surname>
+                <given-names>SV</given-names>
+              </name>
+              <name>
+                <surname>Chung</surname>
+                <given-names>KW</given-names>
+              </name>
+              <name>
+                <surname>Kuehnert</surname>
+                <given-names>MJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Transfusion-related adverse reactions reported to the National Healthcare Safety Network Hemovigilance Module, United States, 2010 to 2012.</article-title>
+            <source>Transfusion</source>
+            <year>2015</year>
+            <month>Apr</month>
+            <volume>55</volume>
+            <issue>4</issue>
+            <fpage>709</fpage>
+            <page-range>709-18</page-range>
+            <pub-id pub-id-type="pmid">25371300</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-135620.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sahu</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hemlata</surname>
+              </name>
+              <name>
+                <surname>Verma</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Adverse events related to blood transfusion.</article-title>
+            <source>Indian J Anaesth</source>
+            <year>2014</year>
+            <month>Sep</month>
+            <volume>58</volume>
+            <issue>5</issue>
+            <fpage>543</fpage>
+            <page-range>543-51</page-range>
+            <pub-id pub-id-type="pmid">25535415</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-135620.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Goel</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Tobian</surname>
+                <given-names>AAR</given-names>
+              </name>
+              <name>
+                <surname>Shaz</surname>
+                <given-names>BH</given-names>
+              </name>
+            </person-group>
+            <article-title>Noninfectious transfusion-associated adverse events and their mitigation strategies.</article-title>
+            <source>Blood</source>
+            <year>2019</year>
+            <month>Apr</month>
+            <day>25</day>
+            <volume>133</volume>
+            <issue>17</issue>
+            <fpage>1831</fpage>
+            <page-range>1831-1839</page-range>
+            <pub-id pub-id-type="pmid">30808635</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-135620.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tormey</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>Hendrickson</surname>
+                <given-names>JE</given-names>
+              </name>
+            </person-group>
+            <article-title>Transfusion-related red blood cell alloantibodies: induction and consequences.</article-title>
+            <source>Blood</source>
+            <year>2019</year>
+            <month>Apr</month>
+            <day>25</day>
+            <volume>133</volume>
+            <issue>17</issue>
+            <fpage>1821</fpage>
+            <page-range>1821-1830</page-range>
+            <pub-id pub-id-type="pmid">30808636</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-135620.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Garraud</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Tariket</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Sut</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Haddad</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Aloui</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Chakroun</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Laradi</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Cognasse</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>Transfusion as an Inflammation Hit: Knowns and Unknowns.</article-title>
+            <source>Front Immunol</source>
+            <year>2016</year>
+            <volume>7</volume>
+            <fpage>534</fpage>
+            <pub-id pub-id-type="pmid">27965664</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-135620.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Uhlmann</surname>
+                <given-names>EJ</given-names>
+              </name>
+              <name>
+                <surname>Isgriggs</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Wallhermfechtel</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Goodnough</surname>
+                <given-names>LT</given-names>
+              </name>
+            </person-group>
+            <article-title>Prestorage universal WBC reduction of RBC units does not affect the incidence of transfusion reactions.</article-title>
+            <source>Transfusion</source>
+            <year>2001</year>
+            <month>Aug</month>
+            <volume>41</volume>
+            <issue>8</issue>
+            <fpage>997</fpage>
+            <page-range>997-1000</page-range>
+            <pub-id pub-id-type="pmid">11493730</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-135620.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pineda</surname>
+                <given-names>AA</given-names>
+              </name>
+              <name>
+                <surname>Taswell</surname>
+                <given-names>HF</given-names>
+              </name>
+            </person-group>
+            <article-title>Transfusion reactions associated with anti-IgA antibodies: report of four cases and review of the literature.</article-title>
+            <source>Transfusion</source>
+            <year>1975</year>
+            <season>Jan-Feb</season>
+            <volume>15</volume>
+            <issue>1</issue>
+            <fpage>10</fpage>
+            <page-range>10-5</page-range>
+            <pub-id pub-id-type="pmid">1114508</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-135620.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sandler</surname>
+                <given-names>SG</given-names>
+              </name>
+              <name>
+                <surname>Mallory</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Malamut</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Eckrich</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>IgA anaphylactic transfusion reactions.</article-title>
+            <source>Transfus Med Rev</source>
+            <year>1995</year>
+            <month>Jan</month>
+            <volume>9</volume>
+            <issue>1</issue>
+            <fpage>1</fpage>
+            <page-range>1-8</page-range>
+            <pub-id pub-id-type="pmid">7719037</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-135620.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Toy</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Popovsky</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Abraham</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Ambruso</surname>
+                <given-names>DR</given-names>
+              </name>
+              <name>
+                <surname>Holness</surname>
+                <given-names>LG</given-names>
+              </name>
+              <name>
+                <surname>Kopko</surname>
+                <given-names>PM</given-names>
+              </name>
+              <name>
+                <surname>McFarland</surname>
+                <given-names>JG</given-names>
+              </name>
+              <name>
+                <surname>Nathens</surname>
+                <given-names>AB</given-names>
+              </name>
+              <name>
+                <surname>Silliman</surname>
+                <given-names>CC</given-names>
+              </name>
+              <name>
+                <surname>Stroncek</surname>
+                <given-names>D</given-names>
+              </name>
+              <collab>National Heart, Lung and Blood Institute Working Group on TRALI</collab>
+            </person-group>
+            <article-title>Transfusion-related acute lung injury: definition and review.</article-title>
+            <source>Crit Care Med</source>
+            <year>2005</year>
+            <month>Apr</month>
+            <volume>33</volume>
+            <issue>4</issue>
+            <fpage>721</fpage>
+            <page-range>721-6</page-range>
+            <pub-id pub-id-type="pmid">15818095</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-135620.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kopko</surname>
+                <given-names>PM</given-names>
+              </name>
+              <name>
+                <surname>Popovsky</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>MacKenzie</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Paglieroni</surname>
+                <given-names>TG</given-names>
+              </name>
+              <name>
+                <surname>Muto</surname>
+                <given-names>KN</given-names>
+              </name>
+              <name>
+                <surname>Holland</surname>
+                <given-names>PV</given-names>
+              </name>
+            </person-group>
+            <article-title>HLA class II antibodies in transfusion-related acute lung injury.</article-title>
+            <source>Transfusion</source>
+            <year>2001</year>
+            <month>Oct</month>
+            <volume>41</volume>
+            <issue>10</issue>
+            <fpage>1244</fpage>
+            <page-range>1244-8</page-range>
+            <pub-id pub-id-type="pmid">11606823</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-135620.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zhou</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Giacherio</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Cooling</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Davenport</surname>
+                <given-names>RD</given-names>
+              </name>
+            </person-group>
+            <article-title>Use of B-natriuretic peptide as a diagnostic marker in the differential diagnosis of transfusion-associated circulatory overload.</article-title>
+            <source>Transfusion</source>
+            <year>2005</year>
+            <month>Jul</month>
+            <volume>45</volume>
+            <issue>7</issue>
+            <fpage>1056</fpage>
+            <page-range>1056-63</page-range>
+            <pub-id pub-id-type="pmid">15987348</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-135620.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Popovsky</surname>
+                <given-names>MA</given-names>
+              </name>
+            </person-group>
+            <article-title>Transfusion and the lung: circulatory overload and acute lung injury.</article-title>
+            <source>Vox Sang</source>
+            <year>2004</year>
+            <month>Jul</month>
+            <volume>87 Suppl 2</volume>
+            <fpage>62</fpage>
+            <page-range>62-5</page-range>
+            <pub-id pub-id-type="pmid">15209881</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-135620.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Thaler</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Shamiss</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Orgad</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Huszar</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Nussinovitch</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Meisel</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Gazit</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Lavee</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Smolinsky</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>The role of blood from HLA-homozygous donors in fatal transfusion-associated graft-versus-host disease after open-heart surgery.</article-title>
+            <source>N Engl J Med</source>
+            <year>1989</year>
+            <month>Jul</month>
+            <day>06</day>
+            <volume>321</volume>
+            <issue>1</issue>
+            <fpage>25</fpage>
+            <page-range>25-8</page-range>
+            <pub-id pub-id-type="pmid">2786605</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-135620.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cook</surname>
+                <given-names>IA</given-names>
+              </name>
+            </person-group>
+            <article-title>Primary rhesus immunization of male volunteers.</article-title>
+            <source>Br J Haematol</source>
+            <year>1971</year>
+            <month>Apr</month>
+            <volume>20</volume>
+            <issue>4</issue>
+            <fpage>369</fpage>
+            <page-range>369-75</page-range>
+            <pub-id pub-id-type="pmid">4994553</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-135620.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chuansumrit</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Nathalang</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Wangruansathit</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hathirat</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Chiewsilp</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Isarangkura</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>HLA alloimmunization in patients receiving multitransfusions of red blood cells.</article-title>
+            <source>Southeast Asian J Trop Med Public Health</source>
+            <year>2001</year>
+            <month>Jun</month>
+            <volume>32</volume>
+            <issue>2</issue>
+            <fpage>419</fpage>
+            <page-range>419-24</page-range>
+            <pub-id pub-id-type="pmid">11556599</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-135620.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Saris</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Pavenski</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Human Leukocyte Antigen Alloimmunization and Alloimmune Platelet Refractoriness.</article-title>
+            <source>Transfus Med Rev</source>
+            <year>2020</year>
+            <month>Oct</month>
+            <volume>34</volume>
+            <issue>4</issue>
+            <fpage>250</fpage>
+            <page-range>250-257</page-range>
+            <pub-id pub-id-type="pmid">33127210</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-135620.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <collab>Trial to Reduce Alloimmunization to Platelets Study Group</collab>
+            <article-title>Leukocyte reduction and ultraviolet B irradiation of platelets to prevent alloimmunization and refractoriness to platelet transfusions.</article-title>
+            <source>N Engl J Med</source>
+            <year>1997</year>
+            <month>Dec</month>
+            <day>25</day>
+            <volume>337</volume>
+            <issue>26</issue>
+            <fpage>1861</fpage>
+            <page-range>1861-9</page-range>
+            <pub-id pub-id-type="pmid">9417523</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-135620.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cardillo</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Heal</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Henrichs</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Masel</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Fountaine</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Liesveld</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Noronha</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Cahill</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Ngo</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Gupta</surname>
+                <given-names>GK</given-names>
+              </name>
+              <name>
+                <surname>Refaai</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Blumberg</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Reducing the Need for HLA-Matched Platelet Transfusion.</article-title>
+            <source>N Engl J Med</source>
+            <year>2021</year>
+            <month>Jun</month>
+            <day>24</day>
+            <volume>384</volume>
+            <issue>25</issue>
+            <fpage>2451</fpage>
+            <page-range>2451-2452</page-range>
+            <pub-id pub-id-type="pmid">34161713</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-135620.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Savage</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>Sumislawski</surname>
+                <given-names>JJ</given-names>
+              </name>
+              <name>
+                <surname>Zarzaur</surname>
+                <given-names>BL</given-names>
+              </name>
+              <name>
+                <surname>Dutton</surname>
+                <given-names>WP</given-names>
+              </name>
+              <name>
+                <surname>Croce</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Fabian</surname>
+                <given-names>TC</given-names>
+              </name>
+            </person-group>
+            <article-title>The new metric to define large-volume hemorrhage: results of a prospective study of the critical administration threshold.</article-title>
+            <source>J Trauma Acute Care Surg</source>
+            <year>2015</year>
+            <month>Feb</month>
+            <volume>78</volume>
+            <issue>2</issue>
+            <fpage>224</fpage>
+            <page-range>224-9; discussion 229-30</page-range>
+            <pub-id pub-id-type="pmid">25757105</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-135620.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Counts</surname>
+                <given-names>RB</given-names>
+              </name>
+              <name>
+                <surname>Haisch</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Simon</surname>
+                <given-names>TL</given-names>
+              </name>
+              <name>
+                <surname>Maxwell</surname>
+                <given-names>NG</given-names>
+              </name>
+              <name>
+                <surname>Heimbach</surname>
+                <given-names>DM</given-names>
+              </name>
+              <name>
+                <surname>Carrico</surname>
+                <given-names>CJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Hemostasis in massively transfused trauma patients.</article-title>
+            <source>Ann Surg</source>
+            <year>1979</year>
+            <month>Jul</month>
+            <volume>190</volume>
+            <issue>1</issue>
+            <fpage>91</fpage>
+            <page-range>91-9</page-range>
+            <pub-id pub-id-type="pmid">464685</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-135620.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Khan</surname>
+                <given-names>AI</given-names>
+              </name>
+              <name>
+                <surname>Patidar</surname>
+                <given-names>GK</given-names>
+              </name>
+              <name>
+                <surname>Lakshmy</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Makhija</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Talwar</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hazarika</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Effect of leukoreduction on transfusion-related immunomodulation in patients undergoing cardiac surgery.</article-title>
+            <source>Transfus Med</source>
+            <year>2020</year>
+            <month>Dec</month>
+            <volume>30</volume>
+            <issue>6</issue>
+            <fpage>497</fpage>
+            <page-range>497-504</page-range>
+            <pub-id pub-id-type="pmid">32935394</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-135620.r25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kalra</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Palaniswamy</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Patel</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Kalra</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Selvaraj</surname>
+                <given-names>DR</given-names>
+              </name>
+            </person-group>
+            <article-title>Acute hypotensive transfusion reaction with concomitant use of angiotensin-converting enzyme inhibitors: a case report and review of the literature.</article-title>
+            <source>Am J Ther</source>
+            <year>2012</year>
+            <month>Mar</month>
+            <volume>19</volume>
+            <issue>2</issue>
+            <fpage>e90</fpage>
+            <page-range>e90-4</page-range>
+            <pub-id pub-id-type="pmid">20634679</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

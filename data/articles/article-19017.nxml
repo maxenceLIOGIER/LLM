@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-19017" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Physiology, Catecholamines</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Paravati</surname>
+            <given-names>Stephen</given-names>
+          </name>
+          <aff>St. George's University</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Rosani</surname>
+            <given-names>Alan</given-names>
+          </name>
+          <aff>TTUHSC at the Permian Basin</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Warrington</surname>
+            <given-names>Steven J.</given-names>
+          </name>
+          <aff>Kaweah Delta Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Stephen Paravati declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Alan Rosani declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Steven Warrington declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>24</day>
+          <month>10</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-19017.s1" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Dopamine, norepinephrine, and epinephrine are physiologically active molecules known as catecholamines. Catecholamines act both as neurotransmitters and hormones vital to the maintenance of homeostasis through the autonomic nervous system. Physiologic principles of catecholamines have numerous applications within pharmacology. Pheochromocytoma is a catecholamine-producing neoplasm relevant to clinical medicine.<xref ref-type="bibr" rid="article-19017.r1">[1]</xref><xref ref-type="bibr" rid="article-19017.r2">[2]</xref><xref ref-type="bibr" rid="article-19017.r3">[3]</xref></p>
+      </sec>
+      <sec id="article-19017.s2" sec-type="Issues of Concern">
+        <title>Issues of Concern</title>
+        <p>The majority of dopamine production occurs in the brain, and the dopaminergic pathways it follows have vast implications on cortical neurophysiology. Dopamine is chemically classified as a catecholamine, undergoes some synthesis in the adrenal medulla, and has an affinity for adrenergic receptors. However, it is not typically considered in the context of clinical adrenal physiology to the same level of depth as norepinephrine and epinephrine. Clinically, dopamine has applications for treating hypotension in patients with shock. It has a particular affinity for receptors located in the renal arteries that, when activated, relax and dilate the renal vasculature.<xref ref-type="bibr" rid="article-19017.r4">[4]</xref><xref ref-type="bibr" rid="article-19017.r5">[5]</xref><xref ref-type="bibr" rid="article-19017.r6">[6]</xref></p>
+      </sec>
+      <sec id="article-19017.s3" sec-type="Cellular Level&#x0000d;&#x0000a;">
+        <title>Cellular Level
+</title>
+        <p>Catecholamine synthesis within the adrenal medulla is controlled by the serum concentration of the amino acid tyrosine. Tyrosine undergoes hydroxylation via tyrosine hydroxylase to form DOPA, which then undergoes decarboxylation to dopamine. Dopamine may be secreted into the bloodstream or undergo further hydroxylation to norepinephrine (noradrenaline). Norepinephrine can be secreted into the bloodstream&#x000a0;or further modified by a methyltransferase to epinephrine (adrenaline) and then secreted. Glucocorticoids notably upregulate methyltransferase activity to increase epinephrine production. Degradation of catecholamines to their metabolites occurs either by monoamine oxidase (MAO) located in the outer mitochondrial membrane of the cell and/or by catechol-o-methyltransferase (COMT) found within the cytosol of the cell. MAO and COMT catabolize norepinephrine and epinephrine to vanillylmandelic acid (VMA), and dopamine to homovanillic acid (HVA). VMA and HVA are excreted in urine.<xref ref-type="bibr" rid="article-19017.r7">[7]</xref><xref ref-type="bibr" rid="article-19017.r8">[8]</xref><xref ref-type="bibr" rid="article-19017.r9">[9]</xref></p>
+      </sec>
+      <sec id="article-19017.s4" sec-type="Development">
+        <title>Development</title>
+        <p>In early fetal development, ventral migration of neural crest cells from the neuroectoderm coalesce to form a sympathetic ganglion. Some of these neural crest cells migrate further from the sympathetic ganglion and are subsequently enveloped by mesenchymal cells of the developing fetal adrenal cortex. The surrounded neural crest cells become the adrenal medulla. These cells develop into chromaffin cells capable of synthesizing catecholamines.</p>
+      </sec>
+      <sec id="article-19017.s5" sec-type="Organ Systems Involved">
+        <title>Organ Systems Involved</title>
+        <p>Neuroendocrine chromaffin cells, responsible for the biosynthesis of catecholamines, are located throughout the brain and in the adrenal glands. The highest density of chromaffin cells is located within the adrenal medulla, the most functionally significant area of catecholamine production. The kidneys are responsible for excreting the byproducts of catecholamine degradation. Adrenergic receptors activated by catecholamines are located in multisystem smooth muscle and adipose tissue.</p>
+      </sec>
+      <sec id="article-19017.s6" sec-type="Function">
+        <title>Function</title>
+        <p>The &#x0201c;fight or flight&#x0201d; response of the sympathetic nervous system is a direct result of the multisystem action of catecholamines. Secretion from the adrenal medulla preceding the activation of the sympathetic nervous system functions to regulate blood pressure by contracting the smooth muscle in the vasculature (via alpha-1 receptors). The adrenergic receptors linked to blood vessels have an especially high affinity for norepinephrine relative to the other amines. Further musculoskeletal actions of catecholamines include enhanced contractility of cardiac muscle (via beta-1 receptors), contraction of the pupillary dilator (via alpha-1 receptors), piloerection (via alpha-1 receptors), and relaxation of smooth muscle in the gastrointestinal tract, urinary tract, and bronchioles (via beta-2 receptors). Both epinephrine and norepinephrine modulate metabolism to increase blood glucose levels by stimulating glycogenolysis in the liver (via beta-2 receptors), increased glucagon secretion (via beta-2 receptors), and decreased insulin secretion (via alpha-2 receptors) from the pancreas, and lipolysis in adipose tissue (via beta-3 receptors). Epinephrine also inhibits the release of mediators from mast cells and basophils in type I hypersensitivity reactions.</p>
+      </sec>
+      <sec id="article-19017.s7" sec-type="Mechanism">
+        <title>Mechanism</title>
+        <p>After an external stimulus triggers the body&#x02019;s stress response, the pituitary-adrenal axis and sympathetic division of the autonomic nervous system are activated. Glucocorticoids production increases in the adrenal cortex, and acetylcholine (Ach) is released from sympathetic splanchnic nerves. Ach binds to nicotinic receptors located on the membrane of chromaffin cells in the adrenal medulla. These receptors promote exocytosis of catecholamine-filled vesicles for transport in the bloodstream. In the blood, catecholamines target alpha and beta-adrenergic receptors, a family of g protein-coupled receptors (GPCRs). These alpha and beta receptors can be further subdivided and subtyped with alphanumeric designation based on their cellular localization. The adrenergic receptors utilize either cyclic adenosine monophosphate (cAMP) or phosphoinositol second messenger systems to activate ion channels that ultimately mediate the body&#x02019;s sympathetic response.</p>
+      </sec>
+      <sec id="article-19017.s8" sec-type="Related Testing">
+        <title>Related Testing</title>
+        <p>Laboratory studies to detect a pathological increase in circulating catecholamines due to adrenal neoplasm, pheochromocytoma utilizes the normal excretion of metanephrines through the renal system. Increased levels of urinary or plasma metanephrines, the normal breakdown product of catecholamines, are a highly sensitive screening test for pheochromocytoma. Measuring VMA levels in a 24-hour urine collection is a highly specific test in the diagnosis of pheochromocytoma. Computed tomography (CT), magnetic resonance imaging (MRI), or positron emission tomography (PET) imaging commonly follow a biochemical diagnosis of pheochromocytoma via urine studies to visualize the extent of the neoplastic process. Additional serum, imaging,&#x000a0;and genetic investigations may be indicated preceding the diagnosis of a pheochromocytoma due to its association with familial multiple endocrine neoplasia syndromes.</p>
+      </sec>
+      <sec id="article-19017.s9" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>Impaired neurotransmission or excess circulating levels of catecholamines lead to pathophysiologic effects. Congenital catecholamine deficiency may occur as an exceedingly rare inborn error of adrenal medullary development. Functional deficiency due to impaired mechanisms of catecholamine release, reuptake, or receptor sensitivity has neurophysiologic effects involving dysregulation of mood and attention. Excess catecholamines and their pathophysiologic equivalents may arise from several etiologies, including exogenous administration of frank catecholamines, derivative adrenergic agonists (eg, isoproterenol, phenylephrine), or reuptake inhibitors (eg, amphetamines, cocaine). Excess levels&#x000a0;also&#x000a0;may occur from endogenous catecholamine overproduction from a pheochromocytoma. The pathophysiologic response is increased in an exaggerated sympathetic response due to the overactivation of adrenergic receptors.<xref ref-type="bibr" rid="article-19017.r10">[10]</xref><xref ref-type="bibr" rid="article-19017.r11">[11]</xref><xref ref-type="bibr" rid="article-19017.r12">[12]</xref></p>
+      </sec>
+      <sec id="article-19017.s10" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>Catecholamines are implicated in the pharmacologic treatment of a multitude of diseases and disease processes. Epinephrine and norepinephrine are frequently used as&#x000a0;vasopressor agents to treat acute hypotensive states, as well as in treatment algorithms for cardiac arrest. Their affinity to the alpha-1 receptor is also&#x000a0;used to induce localized vasoconstriction to reduce bleeding during procedures such as wound closure. By the same mechanism, catecholamine-releasing agents in the form of sprays or ointments are used as nasal decongestants. The pharmacodynamic inhibition of catecholamine reuptake is commonly used in the psychiatric treatment of some depressive disorders, post-traumatic stress disorder, anxiety disorders, attention deficit disorder, and panic disorders. Catecholamine reuptake inhibitors&#x000a0;also&#x000a0;may be used to treat neuropathic and chronic musculoskeletal pain. Epinephrine is the universal treatment for anaphylaxis and is also used to treat other causes of laryngeal edema (e.g., croup) or bronchospasm. The blockage of adrenergic receptors&#x000a0;otherwise activated by catecholamines is an integral part of the treatment of hypertension, congestive heart failure, and other cardiovascular diseases.</p>
+        <p>Of the several types of neoplasms arising from the adrenal gland, pheochromocytomas are tumors of the adrenal medulla responsible for the unregulated secretion of catecholamines. Pheochromocytomas are particularly dangerous due to the overactivation of adrenergic receptors, which cause episodes of hypertensive urgency. Patients with pheochromocytomas&#x000a0;also&#x000a0;may experience episodes of other uncomfortable sympathomimetic symptoms, including palpitations, sweating, headaches, or anxiety. Pheochromocytomas are often amenable to surgery with or without pharmacotherapy targeting adrenergic blockade.</p>
+      </sec>
+      <sec id="article-19017.s11">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=19017&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=19017">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/19017/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=19017">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-19017.s12">
+        <title>References</title>
+        <ref id="article-19017.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ferreira</surname>
+                <given-names>AG</given-names>
+              </name>
+              <name>
+                <surname>Nunes da Silva</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Alegria</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Cordeiro</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Portugal</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Paraganglioma presenting as stress cardiomyopathy: case report and literature review.</article-title>
+            <source>Endocrinol Diabetes Metab Case Rep</source>
+            <year>2019</year>
+            <month>Apr</month>
+            <day>16</day>
+            <volume>2019</volume>
+            <pub-id pub-id-type="pmid">30991354</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19017.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sarkodie</surname>
+                <given-names>EK</given-names>
+              </name>
+              <name>
+                <surname>Zhou</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Baidoo</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>Chu</surname>
+                <given-names>W</given-names>
+              </name>
+            </person-group>
+            <article-title>Influences of stress hormones on microbial infections.</article-title>
+            <source>Microb Pathog</source>
+            <year>2019</year>
+            <month>Jun</month>
+            <volume>131</volume>
+            <fpage>270</fpage>
+            <page-range>270-276</page-range>
+            <pub-id pub-id-type="pmid">30981718</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19017.r3">
+          <label>3</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Taylor</surname>
+                <given-names>BN</given-names>
+              </name>
+              <name>
+                <surname>Cassagnol</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Alpha-Adrenergic Receptors</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>7</month>
+            <day>10</day>
+            <pub-id pub-id-type="pmid">30969652</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19017.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dhalla</surname>
+                <given-names>NS</given-names>
+              </name>
+              <name>
+                <surname>Ganguly</surname>
+                <given-names>PK</given-names>
+              </name>
+              <name>
+                <surname>Bhullar</surname>
+                <given-names>SK</given-names>
+              </name>
+              <name>
+                <surname>Tappia</surname>
+                <given-names>PS</given-names>
+              </name>
+            </person-group>
+            <article-title>Role of catecholamines in the pathogenesis of diabetic cardiomyopathy <sup>1</sup>.</article-title>
+            <source>Can J Physiol Pharmacol</source>
+            <year>2019</year>
+            <month>Sep</month>
+            <volume>97</volume>
+            <issue>9</issue>
+            <fpage>815</fpage>
+            <page-range>815-819</page-range>
+            <pub-id pub-id-type="pmid">30913398</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19017.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wade</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>Goodwin</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Preston</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Kyprianou</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Impact of &#x003b1;-adrenoceptor antagonists on prostate cancer development, progression and prevention.</article-title>
+            <source>Am J Clin Exp Urol</source>
+            <year>2019</year>
+            <volume>7</volume>
+            <issue>1</issue>
+            <fpage>46</fpage>
+            <page-range>46-60</page-range>
+            <pub-id pub-id-type="pmid">30906804</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19017.r6">
+          <label>6</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Reyes</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Ashraf</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Brown</surname>
+                <given-names>KN</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Physiology, Cellular Messengers</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>4</month>
+            <day>24</day>
+            <pub-id pub-id-type="pmid">30844181</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19017.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Maestroni</surname>
+                <given-names>GJM</given-names>
+              </name>
+            </person-group>
+            <article-title>Adrenergic Modulation of Hematopoiesis.</article-title>
+            <source>J Neuroimmune Pharmacol</source>
+            <year>2020</year>
+            <month>Mar</month>
+            <volume>15</volume>
+            <issue>1</issue>
+            <fpage>82</fpage>
+            <page-range>82-92</page-range>
+            <pub-id pub-id-type="pmid">30762159</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19017.r8">
+          <label>8</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Dutt</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Wehrle</surname>
+                <given-names>CJ</given-names>
+              </name>
+              <name>
+                <surname>Jialal</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Physiology, Adrenal Gland</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>5</month>
+            <day>1</day>
+            <pub-id pub-id-type="pmid">30725945</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19017.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Akinaga</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Garc&#x000ed;a-S&#x000e1;inz</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>S Pupo</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Updates in the function and regulation of &#x003b1;<sub>1</sub> -adrenoceptors.</article-title>
+            <source>Br J Pharmacol</source>
+            <year>2019</year>
+            <month>Jul</month>
+            <volume>176</volume>
+            <issue>14</issue>
+            <fpage>2343</fpage>
+            <page-range>2343-2357</page-range>
+            <pub-id pub-id-type="pmid">30740663</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19017.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Reich</surname>
+                <given-names>SG</given-names>
+              </name>
+              <name>
+                <surname>Savitt</surname>
+                <given-names>JM</given-names>
+              </name>
+            </person-group>
+            <article-title>Parkinson's Disease.</article-title>
+            <source>Med Clin North Am</source>
+            <year>2019</year>
+            <month>Mar</month>
+            <volume>103</volume>
+            <issue>2</issue>
+            <fpage>337</fpage>
+            <page-range>337-350</page-range>
+            <pub-id pub-id-type="pmid">30704685</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19017.r11">
+          <label>11</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Khalid</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Ahmad</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>Shlofmitz</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Chhabra</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Pathophysiology of Takotsubo Syndrome</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>3</month>
+            <day>6</day>
+            <pub-id pub-id-type="pmid">30844187</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19017.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Song</surname>
+                <given-names>TT</given-names>
+              </name>
+              <name>
+                <surname>Lieberman</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Who needs to carry an epinephrine autoinjector?</article-title>
+            <source>Cleve Clin J Med</source>
+            <year>2019</year>
+            <month>Jan</month>
+            <volume>86</volume>
+            <issue>1</issue>
+            <fpage>66</fpage>
+            <page-range>66-72</page-range>
+            <pub-id pub-id-type="pmid">30624186</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

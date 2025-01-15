@@ -1,0 +1,1984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-81676" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Photorefractive Keratectomy</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Somani</surname>
+            <given-names>Shaan N.</given-names>
+          </name>
+          <aff>Northwestern University Feinberg School of Medicine</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Moshirfar</surname>
+            <given-names>Majid</given-names>
+          </name>
+          <aff>University of Utah/John Moran Eye Center; Hoopes Vision/HDR Research Center; Utah Lions Eye Bank</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Patel</surname>
+            <given-names>Bhupendra C.</given-names>
+          </name>
+          <aff>University of Utah</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Shaan Somani declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Majid Moshirfar declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Bhupendra Patel declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>18</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-81676.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Photorefractive keratectomy (PRK) is a laser refractive procedure used to ablate the corneal stroma to correct refractive errors. Though not performed as often as laser in situ keratomileusis (LASIK), there are select situations in which PRK may be the preferred option. This article reviews the surgical technique, complications, and visual outcomes associated with PRK, and highlights the role of the healthcare team in evaluating and treating patients who undergo PRK.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Summarize the indications and contraindications for photorefractive keratectomy (PRK) and when PRK may be preferred over laser in situ keratomileusis (LASIK).</p></list-item><list-item><p>Describe intraoperative techniques during photorefractive keratectomy (PRK) that may reduce the likelihood of postoperative complications.</p></list-item><list-item><p>Explain the standard regimen to manage postoperative pain following photorefractive keratectomy (PRK).</p></list-item><list-item><p>Identify the importance of improving care coordination amongst the interprofessional team to maximize visual outcomes and satisfaction of patients undergoing photorefractive keratectomy (PRK).</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=81676&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=81676">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-81676.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Photorefractive keratectomy (PRK) is a laser eye surgery for the correction of visual refractive errors such as myopia, hyperopia, and astigmatism. PRK was developed in 1983 by Dr. Steven Trokel and colleagues and first performed in 1987 by Dr. Theo Seiler in Berlin.<xref ref-type="bibr" rid="article-81676.r1">[1]</xref> After receiving approval by the US Food and Drug Administration (FDA) in 1996, PRK was briefly the preferred surgical treatment of ametropia as it provided more predictable and stable results than incisional keratotomy. However, the number of PRK procedures fell in the late 1990s with the growing popularity of laser in situ keratomileusis (LASIK). Today, LASIK remains the most commonly performed visual refractive surgery; nonetheless, there remain select situations in which PRK may be preferable.<xref ref-type="bibr" rid="article-81676.r2">[2]</xref></p>
+      </sec>
+      <sec id="article-81676.s3" sec-type="Anatomy and Physiology">
+        <title>Anatomy and Physiology</title>
+        <p>Laser refractive surgeries act upon the surface of the cornea, the transparent, dome-shaped, outermost layer that covers the front of the eye. The first step of PRK requires complete removal of the superficial corneal epithelium down to Bowman&#x02019;s layer. The excimer laser then ablates the stroma, thereby remodeling the corneal surface. Further information regarding the excimer laser follows below. Following the procedure, re-epithelialization occurs via the migration of fibroblasts and collagen synthesis.<xref ref-type="bibr" rid="article-81676.r2">[2]</xref></p>
+      </sec>
+      <sec id="article-81676.s4" sec-type="Indications">
+        <title>Indications</title>
+        <p>PRK is an option in patients with myopia up to -12 diopter (D), astigmatism up to 6 D, and hyperopia up to 5 D.<xref ref-type="bibr" rid="article-81676.r3">[3]</xref> Results are better and more predictable in low ranges of each; high refractive error correlates with a higher likelihood of regression and corneal haze.<xref ref-type="bibr" rid="article-81676.r2">[2]</xref></p>
+        <p>Several reasons exist why PRK may be desirable over other surgical options for the correction of visual refractive errors:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>First, patients may be reluctant to undergo procedures that require flap formation due to fear of related complications such as incomplete flap, free flap, buttonhole, flap dislocation, epithelial ingrowth, folds, and wrinkles.</p>
+          </list-item>
+          <list-item>
+            <p>PRK may also be preferable in pilots, professional athletes, or other individuals in whom there is a higher risk of flap dislocation.<xref ref-type="bibr" rid="article-81676.r2">[2]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Some ophthalmologists who rarely perform refractive surgery may elect to perform PRK over LASIK, which is generally considered a more complex procedure.</p>
+          </list-item>
+          <list-item>
+            <p>PRK may be an option in select patients in whom LASIK is contraindicated, such as those with thin corneas, epithelial anterior basement membrane dystrophy (due to risk of epithelial ingrowth), history of recurrent erosions, anteriorly placed scleral buckles, or very flat or very steep corneas.</p>
+          </list-item>
+          <list-item>
+            <p>PRK may be performed as an enhancement procedure to correct residual refractive errors following corneal transplantation, penetrating keratoplasty, LASIK, cataract surgery, or other surgeries of the eye. Studies on the use of PRK as an enhancement procedure have demonstrated excellent safety and efficacy.<xref ref-type="bibr" rid="article-81676.r4">[4]</xref><xref ref-type="bibr" rid="article-81676.r5">[5]</xref></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-81676.s5" sec-type="Contraindications">
+        <title>Contraindications</title>
+        <p>There are many absolute and relative contraindications for laser refractive surgery, as proposed by the FDA and the American Academy of Ophthalmology (AAO). Patients should have stable refraction between +/- 0.5 D for at least one year before PRK.</p>
+        <p>
+<bold>Absolute Contraindications:</bold>
+</p>
+        <p>PRK is not a desirable therapy in patients with significant cataract, unstable glaucoma, and/or uncontrolled external disease such as blepharitis, dry eye syndrome, and atopy/allergy. Keratoconus and other abnormalities of the cornea such as corneal ectasias, thinning, edema, interstitial or neurotrophic keratitis, and extensive vascularization are considered absolute contraindications. However, one study found that PRK in patients with keratoconus who had predicted central corneal thickness over 450 micrometers resulted in improvement in visual outcomes and did not lead to keratoconus progression.<xref ref-type="bibr" rid="article-81676.r6">[6]</xref> Patients with active systemic connective tissue diseases such as systemic lupus erythematosus (SLE) and rheumatoid arthritis (RA) are considered poor candidates due to the increased risk of corneal hazing and corneal melt.<xref ref-type="bibr" rid="article-81676.r7">[7]</xref></p>
+        <p>
+<bold>Relative Contraindications:</bold>
+</p>
+        <p>PRK is relatively contraindicated in pregnant women or nursing mothers as hormonal influences may result in changes in refractive error; furthermore, medications received postoperatively may be transmitted indirectly to the fetus or nursing infant. Caution is also necessary for patients with functional monocularity, ocular conditions that limit visual function, excessively steep or flat corneas, abnormal corneal topography, significant irregular astigmatism, inadequately controlled dry eye, uveitis, and glaucoma. History of herpes simplex keratitis (HSK) may be considered a relative contraindication, though preoperative treatment with systemic antivirals for several months postoperatively will minimize the risk of HSK reactivation. Patients with uncontrolled diabetes are at higher risk of refractive instability or poor wound healing. Patients taking medications with a high risk of ocular side effects (amiodarone, isotretinoin, sumatriptan, etc.) are generally advised to avoid refractive surgeries.<xref ref-type="bibr" rid="article-81676.r7">[7]</xref></p>
+      </sec>
+      <sec id="article-81676.s6" sec-type="Equipment">
+        <title>Equipment</title>
+        <p>PRK employs a 193 nm argon fluoride excimer laser to ablate the anterior corneal stroma. At 193 nm, a single photon can break the carbon-carbon and carbon-nitrogen bonds that form the peptide backbone of the corneal collagen molecules. With each pulse, the collagen polymer is broken into smaller fragments, and a discrete amount of corneal tissue is expelled from the surface.<xref ref-type="bibr" rid="article-81676.r8">[8]</xref> The epithelial debridement may be performed through mechanical removal with a spatula, transepithelial removal with the femtosecond laser, application of a diluted alcohol solution, or use of a rotary brush.<xref ref-type="bibr" rid="article-81676.r9">[9]</xref> Further details on the advantages and disadvantages associated with each technique are discussed below.</p>
+      </sec>
+      <sec id="article-81676.s7" sec-type="Preparation">
+        <title>Preparation</title>
+        <p>Careful patient selection and a thorough review of risks and benefits with patients are essential to maximizing good visual outcomes and patient satisfaction. Patients should receive information about the excimer laser and postoperative evaluation requirements through information sheets, patient counselors, and/or the ophthalmic surgeon. Patients should also understand the sequence of events during surgery and what they might expect to feel, see, smell, or hear; this will serve to reduce patients&#x02019; anxiety. Patients&#x02019; medical history and medication list should be screened for any contraindications, as listed above. Most importantly, patients should only be selected if they have realistic expectations of visual outcomes. Patients should be made aware that the goal of refractive surgery is to allow for less of a reliance on glasses and contact lenses rather than achieve the complete absence of refractive error.</p>
+        <p>As part of the preoperative evaluation, the clinician must obtain the patient&#x02019;s refraction. Also, the patient&#x02019;s refractive stability, degree of refractive error, and astigmatism require documentation. Both manifest and cycloplegic refraction should take place. Any disparity between these two values greater than 1 D of sphere warrants reevaluation. Discrepancies may occur due to accommodative spasm, which is relatively common in middle-aged patients. Patients with a high degree of refractive error should know that outcomes are less predictable and that there remains an increased risk of scar formation and degradation of the optical performance.<xref ref-type="bibr" rid="article-81676.r3">[3]</xref></p>
+        <p>There remain several other components of the preoperative evaluation that are necessary to ensure appropriate patient selection. The cornea must undergo evaluation for scars, vessels, or previous inflammation. Pupil size should be measured with the commercial pupillometer as large pupils may contribute to glare and haloes postoperatively. Slit-lamp examination is necessary to rule out significant corneal abnormalities such as neovascularization, keratoconus, scarring, or the presence of a cataract. Corneal pachymetry allows for the determination of corneal thickness and will detect keratoconus or other types of corneal ectasia. Eyelids and tear film require an examination for signs of blepharitis or dry eyes. Computed corneal topography allows for the detection of irregular astigmatism and keratoconus. Notably, soft contact lenses should not be worn for three days and hard contact lenses for two weeks before preoperative evaluation as they cause corneal warpage, which subsequently interferes with the accuracy of preoperative refractive measurements. Intraocular pressure should be measured to identify glaucoma. Fundoscopy is performed to rule out a retinal hole, degenerative retina, and other types of macular disease. Lastly, computed videokeratography may be conducted to rule out early keratoconus, corneal warpage, and asymmetrical or irregular astigmatism.<xref ref-type="bibr" rid="article-81676.r3">[3]</xref></p>
+        <p>Preoperative medications are generally given in the 20 minutes immediately before refractive surgery. To reduce post-operative pain, instill non-steroidal anti-inflammatory drops such as ketorolac tromethamine 0.5% or diclofenac 0.1%, one drop given three times every ten minutes. Topical anesthetic drops such as proparacaine hydrochloride 0.5% are also placed onto the eye immediately before surgery. Topical fluoroquinolones such as moxifloxacin 0.5% and gatifloxacin 0.3% are given to reduce the chance of infection. Sedation may be a consideration if the surgeon plans on holding the eye during ablation but is generally not recommended if the patient maintains self-fixation.<xref ref-type="bibr" rid="article-81676.r3">[3]</xref></p>
+      </sec>
+      <sec id="article-81676.s8" sec-type="Technique or Treatment">
+        <title>Technique or Treatment</title>
+        <p>
+<bold>Patient Positioning:</bold>
+</p>
+        <p>Patient positioning should be for comfort. To allow for minimal head or body movements, legs should remain uncrossed, the neck not twisted, and patients should receive instruction to take shallow breaths. The head should be aligned such that when inserting the wire speculum, an equal amount of sclera is visible on the superior and inferior aspect of the globe. In unilateral surgeries, the nonoperative eye should be covered or taped closed while the operative eye gets identified with an adhesive label or temporary mark on the forehead. Patient skin prep is usually with alcohol wipes or povidone-iodine. A gauze pad may be placed between the operative eye and ear to absorb any fluid run-off.</p>
+        <p>
+<bold>Excimer Laser:</bold>
+</p>
+        <p>The excimer laser should be calibrated on the day of surgery and checked for an adequate homogenous beam profile, alignment, and power output. Relevant data input includes the patient&#x02019;s name, refraction, intended correction, epithelial removal technique, keratometry values, optical zone, and transition zone.</p>
+        <p>
+<bold>Pupil fixation:</bold>
+</p>
+        <p>Various techniques exist to ensure proper fixation of the pupil, which is essential to avoid complications such as decentration. Self-fixation, in which patients focus on a target light, is the most popular method as it produces more accurate centration than globe immobilization by the ophthalmic surgeon.<xref ref-type="bibr" rid="article-81676.r3">[3]</xref> Small microsaccades are not expected to affect visual outcomes adversely. Notably, this method is more difficult with higher corrections as the corneal surface may dry during the procedure. Many newer excimer lasers have built-in tracking systems that stop firing if there is significant eye deviation.<xref ref-type="bibr" rid="article-81676.r3">[3]</xref> Regardless, the surgeon should continue to monitor the patient&#x02019;s globe and immediately stop treatment if fixation is lost. Other methods that are less commonly used to ensure pupil fixation include fixation ring with or without suction and forceps.</p>
+        <p>Communication to the patient is essential as they are expected to maintain fixation and remain motionless throughout the procedure. Surgeons should regularly encourage the patient to relax and inform the patient when their vision will blur. Other distractions should be minimal, as both the patient and surgeon may become distracted by any level of background conversation.</p>
+        <p>
+<bold>PRK technique</bold>
+</p>
+        <p>
+<bold>Removal of superficial epithelial cells:</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>The first step of PRK is the removal of the superficial epithelial cells, which may be through a variety of methods. Each of these techniques should be performed quickly to avoid desiccation and skillfully to avoid nicking Bowman&#x02019;s layer.</p>
+          </list-item>
+          <list-item>
+            <p>The first technique, mechanical debridement, involves using a blunt spatula to scrape off epithelium from the periphery toward the center. The next step is wiping a sponge hydrated with balanced salt solution (BSS) or carboxymethylcellulose 0.5% across the cornea. This technique benefits from not depending on laser optics; however, mechanical debridement tends to be a lengthy process in inexperienced surgeons, which subsequently increases patient anxiety and reduces stromal hydration.<xref ref-type="bibr" rid="article-81676.r10">[10]</xref></p>
+          </list-item>
+          <list-item>
+            <p>The &#x0201c;laser-scrape&#x0201d; technique removes 38 to 45 um of epithelial cells, and then residual debris is mechanically removed with a spatula.<xref ref-type="bibr" rid="article-81676.r10">[10]</xref> The tear film requires irrigation with BSS before ablation to create a homogenous and smooth surface. One approach by which the surgeon may measure the depth to which epithelium may be removed is the use of blue fluorescence that appears as the epithelium is ablated; the disappearance of blue fluorescence indicates that the laser has reached the stroma and that the surgeon may begin to scrape away the debris. This technique tends to be easier for inexperienced ophthalmic surgeons; there is no reported difference in corneal wound healing response between the mechanical epithelial debridement and the laser-scrape technique.<xref ref-type="bibr" rid="article-81676.r11">[11]</xref></p>
+          </list-item>
+          <list-item>
+            <p>The transepithelial technique similarly uses a blue fluorescent light to demonstrate when ablation is complete but does not require manual scraping with a spatula to remove cellular debris. <xref ref-type="bibr" rid="article-81676.r11">[11]</xref>This technique is popular among patients but requires a longer time for mastery. Transepithelial debridement furthermore maintains a uniformly moist cornea and reduced incidence of haze. Studies comparing mechanical and transepithelial debridement have demonstrated no significant differences in postoperative visual outcomes or incidence of higher-order aberrations.<xref ref-type="bibr" rid="article-81676.r12">[12]</xref><xref ref-type="bibr" rid="article-81676.r13">[13]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Epithelial cells may alternatively be removed with a dilute solution of 20% alcohol. The alcohol solution is dropped onto a 6 or 7 mm optical marker placed on the cornea. <xref ref-type="bibr" rid="article-81676.r12">[12]</xref>After 20 to 30 seconds, the optical marker removed, and the ocular surface gets irrigated with BSS to minimize toxicity to the limbal germinal epithelium. The epithelium is then easily removed and generally heals within two to three days. This technique appears to result in the best long-term visual outcomes and a faster mean epithelial healing time.<xref ref-type="bibr" rid="article-81676.r9">[9]</xref><xref ref-type="bibr" rid="article-81676.r14">[14]</xref> Notably, this technique may be associated with more postoperative dry eye symptoms.<xref ref-type="bibr" rid="article-81676.r15">[15]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Lastly, the surgeon may opt to use a rotary brush that contains fine hairs that remove the epithelium without injuring the underlying Bowman&#x02019;s layer. This technique allows for the epithelium to be easily removed and provides a smooth corneal surface. However, patients may lose fixation when the pupil becomes occluded with the brush, with an increased risk of the surgeon removing too much epithelium.<xref ref-type="bibr" rid="article-81676.r3">[3]</xref><xref ref-type="bibr" rid="article-81676.r15">[15]</xref></p>
+          </list-item>
+        </list>
+        <p>
+<bold>Laser</bold>
+</p>
+        <p>After exposing the stroma, the laser is centered and focused according to the manufacturer&#x02019;s recommendations. Correction of myopia involves placing a large number of laser pulses centrally and fewer pulses in the periphery of the optical zone, thereby flattening the natural arc of the cornea. In contrast, the correction of hyperopia involves delivering the largest number of laser pulses in the periphery to steepen the corneal arc.</p>
+        <p>
+<bold>Use of collagen cross-linking:</bold>
+</p>
+        <p>There has been a trend to combine photorefractive keratectomy with collagen cross-linking (CXL) in patients with keratoconus and post-LASIK ectasia.<xref ref-type="bibr" rid="article-81676.r16">[16]</xref><xref ref-type="bibr" rid="article-81676.r17">[17]</xref> Collagen cross-linking is believed to have a therapeutic effect, which enhances corneal strength. One prospective study found that PRK-CXL in patients with central corneal thickness (CCT) between 450 to 474 um or borderline suspicious tomography not amounting to forme fruste keratoconus (early stage) resulted in a comparable level of safety, efficacy, and stability outcomes compared to PRK in eyes with normal CCT.<xref ref-type="bibr" rid="article-81676.r18">[18]</xref> However, there is some concern that collagen cross-linking poses an increased risk of riboflavin or UV irradiation toxicity to the cornea.<xref ref-type="bibr" rid="article-81676.r19">[19]</xref></p>
+        <p>
+<bold>Application of topical mitomycin-C:</bold>
+</p>
+        <p>Topical mitomycin-C (MMC) is often applied as a soaked pledget on the ablated surface to 1 minute or less immediately after laser ablation to reduce the incidence of primary or recurrent haze.<xref ref-type="bibr" rid="article-81676.r20">[20]</xref> Some clinicians may elect to apply MMC for proportionally to the degree of preoperative refractive error. MMC prevents cell proliferation by cross-linking DNA and inhibiting DNA synthesis. Notably, complications such as glaucoma and corneal perforation have rarely had correlations with MMC use, and refractive outcomes tend to be more variable when using MMC.<xref ref-type="bibr" rid="article-81676.r21">[21]</xref> Most clinicians use 0.02% MMC; however, to avoid potential toxicity, some authors have proposed that high dose MMC (0.02%) is only used for high myopia corrections, whereas low dose MMC (0.002%) is the choice for correction of low to moderate myopia.<xref ref-type="bibr" rid="article-81676.r22">[22]</xref></p>
+        <p>
+<bold>Post-treatment management:</bold>
+</p>
+        <p>After laser ablation is complete, topical nonsteroidal anti-inflammatory drops, antibiotic drops, and steroid drops get instilled. The ocular surface gets irrigated with chilled BSS, which is believed to reduce postoperative haze formation<xref ref-type="bibr" rid="article-81676.r23">[23]</xref>; it has also been postulated to minimize inflammation leading to postoperative pain, though this has not undergone validation.<xref ref-type="bibr" rid="article-81676.r24">[24]</xref> A soft bandage contact lens (SCBL) is placed on the corneal surface, and the wire speculum removed.</p>
+        <p>Patients should be advised that their vision will likely remain blurry while re-epithelialization of the corneal surface occurs. This change in vision may hinder their ability to participate in work, hobbies, or travel; patients should allow for the healing process to complete before resuming activities that require critical vision. Ghosting, glare, and shadows in the vision are common, transient occurrences in the immediate postoperative period; these phenomena tend to be worse at night and more prevalent in young patients with myopia and large pupillary diameters. Patients should also be instructed to maintain good ocular hygiene due to the increased risk of infection while the epithelium is regenerating.<xref ref-type="bibr" rid="article-81676.r3">[3]</xref></p>
+        <p>
+<bold>Post-treatment discomfort:</bold>
+</p>
+        <p>90% of patients experience no postoperative pain; the other 10% typically only experience mild to moderate pain or discomfort in the 24 to 36 hours following the procedures.<xref ref-type="bibr" rid="article-81676.r3">[3]</xref> Postoperative pain is not correlated with gender, preoperative anxiety, or knowledge of the procedure.<xref ref-type="bibr" rid="article-81676.r25">[25]</xref> Pain is most often managed with non-steroidal anti-inflammatory drops (NSAID) such as ketorolac tromethamine 0.5% or diclofenac 0.1% several times a day for 24 to 48 hours. NSAIDs inhibit prostaglandin synthesis to promote an analgesic effect; however, NSAID drops may slow the rate of epithelial regeneration and promote the formation of sterile infiltrates.<xref ref-type="bibr" rid="article-81676.r3">[3]</xref> For this reason, NSAIDs should be used sparingly beyond 72 hours postoperatively. Breakthrough pain may be managed with oxycodone/acetaminophen 5/325 mg taken every 4 to 6 hours. Gabapentin and cold compresses have also shown clinical utility.<xref ref-type="bibr" rid="article-81676.r26">[26]</xref></p>
+        <p>
+<bold>Post-treatment medications:</bold>
+</p>
+        <p>Other medications included in the postoperative management include topical fluoroquinolones used four to five times daily for five to seven days or until re-epithelialization is complete.<xref ref-type="bibr" rid="article-81676.r3">[3]</xref> Topical anesthetics such as tetracaine 0.5 to 1% have been demonstrated to reduce pain scores without adverse effects of re-epithelialization or visual outcomes when administered every 30 minutes for the first 24 hours<xref ref-type="bibr" rid="article-81676.r27">[27]</xref>; however, these topical anesthetics agents should be used sparingly and judiciously due to their risk of abuse and subsequent corneal perforation/melt.<xref ref-type="bibr" rid="article-81676.r28">[28]</xref> Frequent use of non-preserved, chilled, artificial tears is also recommended to prevent irritation or discomfort associated with the use of a bandage soft contact lens (BSCL).<xref ref-type="bibr" rid="article-81676.r29">[29]</xref></p>
+        <p>Topical corticosteroids are often used in order to avoid significant regression and postoperative haze. However, no consensus remains on the most appropriate duration of treatment. Among all topical steroids, prednisolone acetate, loteprednol, and fluorometholone are the most commonly used following PRK. Steroids may be administered four times daily for a week and tapered off over the following three weeks or five times daily for a month and tapered off over four months; the latter regimen is typically only administered in patients with high levels of myopia.<xref ref-type="bibr" rid="article-81676.r3">[3]</xref> When combined with NSAID drops, the incidence of sterile infiltrates in the postoperative period dramatically decreases. However, steroids carry an increased risk of ocular hypertension, ptosis, posterior subcapsular cataracts, and reactivation of herpes simplex keratitis. Risk factors for steroid-induced ocular hypertension include male sex, high central corneal thickness, lower mean keratometry power, high myopia, and corneal haze.<xref ref-type="bibr" rid="article-81676.r30">[30]</xref> The risk of ocular hypertension is reducible by using lower penetrating steroids such as fluorometholone or rimexolone rather than prednisolone acetate or dexamethasone.<xref ref-type="bibr" rid="article-81676.r3">[3]</xref> Ocular hypertension should be treated by reducing or discontinuing the dose of topical steroids and administering a topical beta-blocker.</p>
+        <p>
+<bold>Post-treatment course:</bold>
+</p>
+        <p>Re-epithelialization is complete in most patients by postoperative day 3; BSCL, antibiotic drops, and NSAID drops may be discontinued at this time. Corneal videokeratoscopy should take place at one month following refractive surgery to demonstrated when the ablation was centered correctly.</p>
+      </sec>
+      <sec id="article-81676.s9" sec-type="Complications">
+        <title>Complications</title>
+        <p>
+<bold>Pain:</bold>
+</p>
+        <p>The most common complications following refractive surgery are mild pain or discomfort and keratoconjunctivitis sicca, or &#x0201c;dry eye.&#x0201d; Discomfort and pain may be described as the sensation of having &#x0201c;sand in my eye&#x0201d; and should be managed with medications as listed above. Dry eye is one of the most common complications in patients receiving refractive surgery and a major cause of patient dissatisfaction. Risk factors for dry eye development after refractive surgery include older age and female gender.<xref ref-type="bibr" rid="article-81676.r31">[31]</xref> Notably, dry eye symptoms tend to occur less often in PRK than LASIK.<xref ref-type="bibr" rid="article-81676.r31">[31]</xref> The alcohol-based technique for epithelial removal and the topical use of MMC have correlations with worse dry eye symptoms.<xref ref-type="bibr" rid="article-81676.r15">[15]</xref><xref ref-type="bibr" rid="article-81676.r32">[32]</xref> Treatment choices for dry eye include artificial tears, punctal occlusion, omega-3-fatty acids, topical anti-inflammatories, and topical cyclosporine with doses from 0.05% to 2%.<xref ref-type="bibr" rid="article-81676.r2">[2]</xref><xref ref-type="bibr" rid="article-81676.r33">[33]</xref></p>
+        <p>
+<bold>Infection:</bold>
+</p>
+        <p>Corneal infection and sterile infiltrates are rare early complications of laser refractive surgery. A 2017 study found that approximately 0.0013% of cases resulted in definite or probable microbial keratitis.<xref ref-type="bibr" rid="article-81676.r34">[34]</xref> These conditions are usually apparent on postoperative days 2 to 4. Suspicion for ocular infection warrants a bacterial culture of BSCL and corneal scraping. Corneal infection should have treatment with topical fluoroquinolone eye drops every hour during the daytime, tapered with clinical improvement; more severe infections may necessitate treatment with topical tobramycin 1.5% or cefazolin 5% every 30 minutes to one hour. Sterile infiltrates should be treated with prednisolone acetate eye drops.<xref ref-type="bibr" rid="article-81676.r3">[3]</xref></p>
+        <p>Re-epithelialization is typically complete by postoperative day 3; delayed epithelial healing will present as persistent blurred vision symptomatically and epithelial defects with well-defined borders on slit-lamp examination. If the surface remains not intact by postoperative day 4, discontinue all medications except for the topical antibiotic, and replace the BSCL. Topical steroids may restart once epithelialization is complete.<xref ref-type="bibr" rid="article-81676.r3">[3]</xref> Intraoperative MMC has correlated with delayed epithelial healing.<xref ref-type="bibr" rid="article-81676.r35">[35]</xref></p>
+        <p>Pseudodendrites are considered a normal part of the healing response and should not be confused with dendrites seen in herpes simplex keratitis (HSK). Pseudodendrites typically appear on postoperative day 3 or 4 and may cause blurring of vision if present in the visual axis. As they are part of the normal healing pattern and generally self-resolve within a matter of days, no changes in treatment are warranted.<xref ref-type="bibr" rid="article-81676.r3">[3]</xref></p>
+        <p>
+<bold>"Halo effect":</bold>
+</p>
+        <p>Patients may experience a &#x0201c;halo effect&#x0201d; during the first 4 to 6 weeks following PRK as the epithelium continues to heal. This phenomenon is more likely to occur at night when pupillary dilation allows for the transmission of light at the edge of the ablation zone. This symptom tends to diminish with time and generally does not warrant a change in treatment. Pilocarpine drops may be administered to promote pupillary constriction, but many patients do not tolerate these drops well.<xref ref-type="bibr" rid="article-81676.r36">[36]</xref></p>
+        <p>
+<bold>Central corneal islands:</bold>
+</p>
+        <p>The formation of central islands along the cornea is an incompletely understood and likely multifactorial complication that may result in blurred vision. Central islands may be visible as small central shadows on retinoscopy, and the diagnostic confirmation is by computed videokeratography showing elevations within the central or pericentral zone. Theorized causes of central island formation include emission of debris during laser ablation that interferes with laser pulses, uneven intraoperative corneal surface hydration that reduces central corneal ablation rate, and a higher degree of postoperative epithelial hyperplasia in the central cornea. Notably, the incidence of central islands following PRK has significantly decreased with the advent of new technology specifically designed to prevent their formation.<xref ref-type="bibr" rid="article-81676.r37">[37]</xref> Central island formation is preventable by producing additional pulses to the central 2.5-mm area. Central islands tend to disappear within months but may be removed by the excimer laser if persistent after 6 to 12 months.<xref ref-type="bibr" rid="article-81676.r38">[38]</xref></p>
+        <p>
+<bold>Ectasia:</bold>
+</p>
+        <p>Ectasia is a very rare complication in the modern era due to strict adherence to the inclusion criteria, technical improvements in the excimer laser, and increased ability to interpret and assess preoperative surface data.<xref ref-type="bibr" rid="article-81676.r39">[39]</xref> One retrospective study found the incidence of post-PRK ectasia to be 0.03%, and all noted cases occurred in individuals with underlying keratoconus.<xref ref-type="bibr" rid="article-81676.r40">[40]</xref> The use of collagen cross-linking may prevent corneal ectasia in patients with keratoconus undergoing refractive surgery.<xref ref-type="bibr" rid="article-81676.r41">[41]</xref></p>
+        <p>
+<bold>Decentration:</bold>
+</p>
+        <p>Decentration may occur due to poor pupil fixation and significant eye movements. Decentration may result in increased astigmatism, glare, haloes, and worse visual outcomes. Decentration tends to occur more often in eyes with higher attempted corrections due to the longer period required for fixation.<xref ref-type="bibr" rid="article-81676.r3">[3]</xref> Rates of decentration have decreased as a result of pupil tracking technology. Prevention of decentration involves proper stabilization of the patient&#x02019;s head and stopping the procedure if the patient begins to lose fixation. If symptomatic, decentration treatment is possible with wave-guided enhancements.<xref ref-type="bibr" rid="article-81676.r42">[42]</xref></p>
+        <p>
+<bold>Corneal erosion:</bold>
+</p>
+        <p>Persistent corneal erosion is an early complication that presents as pain, tearing, and photophobia upon awakening. Corneal erosion tends to occur outside the area of ablation. Symptoms are manageable with hypertonic drops and ointment. If these do not succeed in reducing symptoms, placement of a BSCL or phototherapeutic keratectomy (PTK) is another option.<xref ref-type="bibr" rid="article-81676.r43">[43]</xref></p>
+        <p>
+<bold>Corneal haze:</bold>
+</p>
+        <p>Corneal haze is a late complication that typically peaks in intensity at 1 to 2 months following laser refractive surgery and disappears within 6 to 12 months. Histological studies from animals and humans have demonstrated that haze is likely due to migration of keratocytes and deposition of abnormal glycosaminoglycans and nonlamellar collagen in the anterior stroma during the wound healing response.<xref ref-type="bibr" rid="article-81676.r44">[44]</xref> Increased haze is related to the depth of laser ablation, epithelial removal technique, intraoperative corneal dryness, and homogeneity of the laser beam.<xref ref-type="bibr" rid="article-81676.r3">[3]</xref> The risk of haze development is significantly higher in patients with hyperopia or high myopia.<xref ref-type="bibr" rid="article-81676.r45">[45]</xref> The likelihood of haze development may be reduced with MMC 0.02% intraoperatively for 2 minutes or two to four times daily in the postoperative period for 1 to 4 weeks.<xref ref-type="bibr" rid="article-81676.r46">[46]</xref> Moderate to severe haze that interferes with vision may be treated with topical steroid drops five times daily that get tapered over 2 or 3 months with signs of clinical improvement.<xref ref-type="bibr" rid="article-81676.r3">[3]</xref> Steroid drops decrease DNA synthesis and lens-specific antianabolic activity, thereby inhibiting keratocyte activity and collagen synthesis. Persistent haze beyond 6 to 12 months may have treatment with topical MMC alone, superficial keratectomy, or PTK with or without MMC.<xref ref-type="bibr" rid="article-81676.r47">[47]</xref> We additionally recommend the application of a BSCL, which should remain on the cornea until the resolution of the underlying epithelial defect is complete.</p>
+        <p>
+<bold>Persistent refractive errors:</bold>
+</p>
+        <p>Persistent refractive errors may occur following laser refractive surgery due to under-correction, overcorrection, or regression. Refractive errors are more likely to occur at higher corrections. Undercorrection may arise from insufficient initial treatment, significant myopic regression, or an excessively moist cornea during refractive surgery. Factors that promote regression include preoperative flat keratometry, small optical zones, steep wound edge, and secondary UV exposure.<xref ref-type="bibr" rid="article-81676.r3">[3]</xref> Undesirable regression may be combated with aggressive use of topical steroids and wearing UV-protective sunglasses when exposed to sunlight at high altitudes for six months following laser refractive surgery. Conversely, overcorrection occurs due to an excessively dry cornea or preoperative assessment that fails to account for accommodation. A small amount of initial overcorrection is often considered acceptable as regression will take place with time. Regression can be promoted by prolonged wear of a BSCL or topical NSAID drops four times daily for 1 to 2 months.</p>
+        <p>Options for treatment of persistent refractive errors include further surface ablation, LASIK, and PTK depending on the amount of desired correction, corneal thickness, and the amount of corneal haze. These enhancement procedures generally get delayed until achieving stable refraction for at least 3 to 6 months.<xref ref-type="bibr" rid="article-81676.r3">[3]</xref> Patients with corneal haze should wait at least 6 to 12 months for symptoms to improve before enhancement surgery. Some authors have suggested the idea of using collagen cross-linking alone for the treatment of small amounts of residual refractive error, though this has not yet had research as an option.<xref ref-type="bibr" rid="article-81676.r48">[48]</xref></p>
+      </sec>
+      <sec id="article-81676.s10" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>Long-term visual outcomes for patients who undergo PRK are generally very good. One study of patients with a 15-year follow-up found 55% of eyes to be within +/- 1 D and 85% within +/- 2 D.<xref ref-type="bibr" rid="article-81676.r1">[1]</xref> Technical improvements in the excimer laser and the adoption of a peripheral transition zone have allowed for more predictable outcomes.</p>
+        <p>In comparing LASIK and PRK, systematic reviews have demonstrated no differences in long-term efficacy, accuracy, or adverse outcomes in patients with low to moderate myopia<xref ref-type="bibr" rid="article-81676.r49">[49]</xref><xref ref-type="bibr" rid="article-81676.r50">[50]</xref>; however, LASIK tends to result in shorter recovery time and less postoperative pain.<xref ref-type="bibr" rid="article-81676.r51">[51]</xref> There is a higher incidence of haze in PRK than LASIK, likely due to the destruction of the basement membrane.<xref ref-type="bibr" rid="article-81676.r2">[2]</xref> There is little evidence to suggest whether LASIK or PRK is better for patients with hyperopia.</p>
+      </sec>
+      <sec id="article-81676.s11" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>an interprofessional team of ophthalmic surgeons, nurses, optometrists, and technicians may be involved in the preoperative evaluation, surgery, and postoperative management of patients who undergo PRK. Ensuring appropriate patient selection per FDA and AAO guidelines and maintaining adequate follow-up is essential for maximizing long-term visual outcomes and patient satisfaction. Nurses have to make sure that patient consent is signed. If surgery is being done on one eye, the eye should be marked by the nurse prior to surgery. The nurse will also assist during the procedure and provide post-operative care, reporting all status changes to the surgeon. Before any anesthesia, a timeout should be called to verify the patient ID, name, and location of the surgery. All members of the team should be aware of clinical signs and symptoms suggestive of major postoperative complications, and prompt referral to a cornea specialist is warranted should any of these complications arise. Close communication between members of the interprofessional team is vital if one wants to improve outcomes.[Level 5]</p>
+      </sec>
+      <sec id="article-81676.s12" sec-type="Nursing, Allied Health, and Interprofessional Team Interventions">
+        <title>Nursing, Allied Health, and Interprofessional Team Interventions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>Set up the instrument tray</p>
+          </list-item>
+          <list-item>
+            <p>Ensure the patient has provided consent</p>
+          </list-item>
+          <list-item>
+            <p>Mar the eye on which surgery will</p>
+          </list-item>
+          <list-item>
+            <p>occurEducate the patient on postoperative course</p>
+          </list-item>
+          <list-item>
+            <p>Develop a relationship with the patient to ease anxiety</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-81676.s13" sec-type="Nursing, Allied Health, and Interprofessional Team Monitoring">
+        <title>Nursing, Allied Health, and Interprofessional Team Monitoring</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>Teach patient about eye protection after surgery</p>
+          </list-item>
+          <list-item>
+            <p>Educate patient on how to apply eyedrops</p>
+          </list-item>
+          <list-item>
+            <p>Follow the patient in outpatient clinic and assess visual acuity</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-81676.s14">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=81676&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=81676">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/81676/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=81676">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-81676.s15">
+        <title>References</title>
+        <ref id="article-81676.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Alio</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Soria</surname>
+                <given-names>FA</given-names>
+              </name>
+              <name>
+                <surname>Abbouda</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Pe&#x000f1;a-Garc&#x000ed;a</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Fifteen years follow-up of photorefractive keratectomy up to 10 D of myopia: outcomes and analysis of the refractive regression.</article-title>
+            <source>Br J Ophthalmol</source>
+            <year>2016</year>
+            <month>May</month>
+            <volume>100</volume>
+            <issue>5</issue>
+            <fpage>626</fpage>
+            <page-range>626-32</page-range>
+            <pub-id pub-id-type="pmid">26359339</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tom&#x000e1;s-Juan</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Murueta-Goyena Larra&#x000f1;aga</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Hanneken</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>Corneal Regeneration After Photorefractive Keratectomy: A Review.</article-title>
+            <source>J Optom</source>
+            <year>2015</year>
+            <season>Jul-Sep</season>
+            <volume>8</volume>
+            <issue>3</issue>
+            <fpage>149</fpage>
+            <page-range>149-69</page-range>
+            <pub-id pub-id-type="pmid">25444646</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Stein</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Photorefractive keratectomy.</article-title>
+            <source>Int Ophthalmol Clin</source>
+            <year>2000</year>
+            <season>Summer</season>
+            <volume>40</volume>
+            <issue>3</issue>
+            <fpage>35</fpage>
+            <page-range>35-56</page-range>
+            <pub-id pub-id-type="pmid">10941645</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lee</surname>
+                <given-names>BS</given-names>
+              </name>
+              <name>
+                <surname>Gupta</surname>
+                <given-names>PK</given-names>
+              </name>
+              <name>
+                <surname>Davis</surname>
+                <given-names>EA</given-names>
+              </name>
+              <name>
+                <surname>Hardten</surname>
+                <given-names>DR</given-names>
+              </name>
+            </person-group>
+            <article-title>Outcomes of photorefractive keratectomy enhancement after LASIK.</article-title>
+            <source>J Refract Surg</source>
+            <year>2014</year>
+            <month>Aug</month>
+            <volume>30</volume>
+            <issue>8</issue>
+            <fpage>549</fpage>
+            <page-range>549-56</page-range>
+            <pub-id pub-id-type="pmid">25325896</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Roszkowska</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Urso</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Signorino</surname>
+                <given-names>GA</given-names>
+              </name>
+              <name>
+                <surname>Spadea</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Aragona</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Photorefractive keratectomy after cataract surgery in uncommon cases: long-term results.</article-title>
+            <source>Int J Ophthalmol</source>
+            <year>2018</year>
+            <volume>11</volume>
+            <issue>4</issue>
+            <fpage>612</fpage>
+            <page-range>612-615</page-range>
+            <pub-id pub-id-type="pmid">29675379</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Khakshoor</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Razavi</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Eslampour</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Omdtabrizi</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Photorefractive keratectomy in mild to moderate keratoconus: outcomes in over 40-year-old patients.</article-title>
+            <source>Indian J Ophthalmol</source>
+            <year>2015</year>
+            <month>Feb</month>
+            <volume>63</volume>
+            <issue>2</issue>
+            <fpage>157</fpage>
+            <page-range>157-61</page-range>
+            <pub-id pub-id-type="pmid">25827548</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bower</surname>
+                <given-names>KS</given-names>
+              </name>
+              <name>
+                <surname>Woreta</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>Update on contraindications for laser-assisted in situ keratomileusis and photorefractive keratectomy.</article-title>
+            <source>Curr Opin Ophthalmol</source>
+            <year>2014</year>
+            <month>Jul</month>
+            <volume>25</volume>
+            <issue>4</issue>
+            <fpage>251</fpage>
+            <page-range>251-7</page-range>
+            <pub-id pub-id-type="pmid">24837576</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Trokel</surname>
+                <given-names>SL</given-names>
+              </name>
+              <name>
+                <surname>Srinivasan</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Braren</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Excimer laser surgery of the cornea.</article-title>
+            <source>Am J Ophthalmol</source>
+            <year>1983</year>
+            <month>Dec</month>
+            <volume>96</volume>
+            <issue>6</issue>
+            <fpage>710</fpage>
+            <page-range>710-5</page-range>
+            <pub-id pub-id-type="pmid">6660257</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shapira</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Mimouni</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Levartovsky</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Varssano</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Sela</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Munzer</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Kaiserman</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <article-title>Comparison of Three Epithelial Removal Techniques in PRK: Mechanical, Alcohol-assisted, and Transepithelial Laser.</article-title>
+            <source>J Refract Surg</source>
+            <year>2015</year>
+            <month>Nov</month>
+            <volume>31</volume>
+            <issue>11</issue>
+            <fpage>760</fpage>
+            <page-range>760-6</page-range>
+            <pub-id pub-id-type="pmid">26544564</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lee</surname>
+                <given-names>HK</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>KS</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>JK</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>HC</given-names>
+              </name>
+              <name>
+                <surname>Seo</surname>
+                <given-names>KR</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>EK</given-names>
+              </name>
+            </person-group>
+            <article-title>Epithelial healing and clinical outcomes in excimer laser photorefractive surgery following three epithelial removal techniques: mechanical, alcohol, and excimer laser.</article-title>
+            <source>Am J Ophthalmol</source>
+            <year>2005</year>
+            <month>Jan</month>
+            <volume>139</volume>
+            <issue>1</issue>
+            <fpage>56</fpage>
+            <page-range>56-63</page-range>
+            <pub-id pub-id-type="pmid">15652828</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lee</surname>
+                <given-names>YG</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>WY</given-names>
+              </name>
+              <name>
+                <surname>Petroll</surname>
+                <given-names>WM</given-names>
+              </name>
+              <name>
+                <surname>Cavanagh</surname>
+                <given-names>HD</given-names>
+              </name>
+              <name>
+                <surname>Jester</surname>
+                <given-names>JV</given-names>
+              </name>
+            </person-group>
+            <article-title>Corneal haze after photorefractive keratectomy using different epithelial removal techniques: mechanical debridement versus laser scrape.</article-title>
+            <source>Ophthalmology</source>
+            <year>2001</year>
+            <month>Jan</month>
+            <volume>108</volume>
+            <issue>1</issue>
+            <fpage>112</fpage>
+            <page-range>112-20</page-range>
+            <pub-id pub-id-type="pmid">11150274</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yildirim</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Olcucu</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Alagoz</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Agca</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Karakucuk</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Demirok</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Comparison of visual and refractive results after transepithelial and mechanical photorefractive keratectomy in myopia.</article-title>
+            <source>Int Ophthalmol</source>
+            <year>2018</year>
+            <month>Apr</month>
+            <volume>38</volume>
+            <issue>2</issue>
+            <fpage>627</fpage>
+            <page-range>627-633</page-range>
+            <pub-id pub-id-type="pmid">28349503</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Clinch</surname>
+                <given-names>TE</given-names>
+              </name>
+              <name>
+                <surname>Moshirfar</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Weis</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Ahn</surname>
+                <given-names>CS</given-names>
+              </name>
+              <name>
+                <surname>Hutchinson</surname>
+                <given-names>CB</given-names>
+              </name>
+              <name>
+                <surname>Jeffrey</surname>
+                <given-names>JH</given-names>
+              </name>
+            </person-group>
+            <article-title>Comparison of mechanical and transepithelial debridement during photorefractive keratectomy.</article-title>
+            <source>Ophthalmology</source>
+            <year>1999</year>
+            <month>Mar</month>
+            <volume>106</volume>
+            <issue>3</issue>
+            <fpage>483</fpage>
+            <page-range>483-9</page-range>
+            <pub-id pub-id-type="pmid">10080203</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Einollahi</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Baradaran-Rafii</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Rezaei-Kanavi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Eslani</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Parchegani</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Zare</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Feizi</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Karimian</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>Mechanical versus alcohol-assisted epithelial debridement during photorefractive keratectomy: a confocal microscopic clinical trial.</article-title>
+            <source>J Refract Surg</source>
+            <year>2011</year>
+            <month>Dec</month>
+            <volume>27</volume>
+            <issue>12</issue>
+            <fpage>887</fpage>
+            <page-range>887-93</page-range>
+            <pub-id pub-id-type="pmid">21877678</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sia</surname>
+                <given-names>RK</given-names>
+              </name>
+              <name>
+                <surname>Ryan</surname>
+                <given-names>DS</given-names>
+              </name>
+              <name>
+                <surname>Stutzman</surname>
+                <given-names>RD</given-names>
+              </name>
+              <name>
+                <surname>Psolka</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Mines</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Wagner</surname>
+                <given-names>ME</given-names>
+              </name>
+              <name>
+                <surname>Weber</surname>
+                <given-names>ED</given-names>
+              </name>
+              <name>
+                <surname>Wroblewski</surname>
+                <given-names>KJ</given-names>
+              </name>
+              <name>
+                <surname>Bower</surname>
+                <given-names>KS</given-names>
+              </name>
+            </person-group>
+            <article-title>Alcohol versus brush PRK: visual outcomes and adverse effects.</article-title>
+            <source>Lasers Surg Med</source>
+            <year>2012</year>
+            <month>Aug</month>
+            <volume>44</volume>
+            <issue>6</issue>
+            <fpage>475</fpage>
+            <page-range>475-81</page-range>
+            <pub-id pub-id-type="pmid">22674627</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kanellopoulos</surname>
+                <given-names>AJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Comparison of sequential vs same-day simultaneous collagen cross-linking and topography-guided PRK for treatment of keratoconus.</article-title>
+            <source>J Refract Surg</source>
+            <year>2009</year>
+            <month>Sep</month>
+            <volume>25</volume>
+            <issue>9</issue>
+            <fpage>S812</fpage>
+            <page-range>S812-8</page-range>
+            <pub-id pub-id-type="pmid">19772257</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kanellopoulos</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Binder</surname>
+                <given-names>PS</given-names>
+              </name>
+            </person-group>
+            <article-title>Management of corneal ectasia after LASIK with combined, same-day, topography-guided partial transepithelial PRK and collagen cross-linking: the athens protocol.</article-title>
+            <source>J Refract Surg</source>
+            <year>2011</year>
+            <month>May</month>
+            <volume>27</volume>
+            <issue>5</issue>
+            <fpage>323</fpage>
+            <page-range>323-31</page-range>
+            <pub-id pub-id-type="pmid">21117539</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sachdev</surname>
+                <given-names>GS</given-names>
+              </name>
+              <name>
+                <surname>Ramamurthy</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Dandapani</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Comparative analysis of safety and efficacy of photorefractive keratectomy versus photorefractive keratectomy combined with crosslinking.</article-title>
+            <source>Clin Ophthalmol</source>
+            <year>2018</year>
+            <volume>12</volume>
+            <fpage>783</fpage>
+            <page-range>783-790</page-range>
+            <pub-id pub-id-type="pmid">29750010</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ohana</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Kaiserman</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Domniz</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Cohen</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Franco</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Sela</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Munzer</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Varssano</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Outcomes of simultaneous photorefractive keratectomy and collagen crosslinking.</article-title>
+            <source>Can J Ophthalmol</source>
+            <year>2018</year>
+            <month>Oct</month>
+            <volume>53</volume>
+            <issue>5</issue>
+            <fpage>523</fpage>
+            <page-range>523-528</page-range>
+            <pub-id pub-id-type="pmid">30340722</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shah</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Wilson</surname>
+                <given-names>SE</given-names>
+              </name>
+            </person-group>
+            <article-title>Use of mitomycin-C for phototherapeutic keratectomy and photorefractive keratectomy surgery.</article-title>
+            <source>Curr Opin Ophthalmol</source>
+            <year>2010</year>
+            <month>Jul</month>
+            <volume>21</volume>
+            <issue>4</issue>
+            <fpage>269</fpage>
+            <page-range>269-73</page-range>
+            <pub-id pub-id-type="pmid">20489622</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sy</surname>
+                <given-names>ME</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Yeroushalmi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Huang</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Hamilton</surname>
+                <given-names>DR</given-names>
+              </name>
+            </person-group>
+            <article-title>Effect of mitomycin-C on the variance in refractive outcomes after photorefractive keratectomy.</article-title>
+            <source>J Cataract Refract Surg</source>
+            <year>2014</year>
+            <month>Dec</month>
+            <volume>40</volume>
+            <issue>12</issue>
+            <fpage>1980</fpage>
+            <page-range>1980-4</page-range>
+            <pub-id pub-id-type="pmid">25305150</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Thornton</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Xu</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Krueger</surname>
+                <given-names>RR</given-names>
+              </name>
+            </person-group>
+            <article-title>Comparison of standard (0.02%) and low dose (0.002%) mitomycin C in the prevention of corneal haze following surface ablation for myopia.</article-title>
+            <source>J Refract Surg</source>
+            <year>2008</year>
+            <month>Jan</month>
+            <volume>24</volume>
+            <issue>1</issue>
+            <fpage>S68</fpage>
+            <page-range>S68-76</page-range>
+            <pub-id pub-id-type="pmid">18269154</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Stein</surname>
+                <given-names>HA</given-names>
+              </name>
+              <name>
+                <surname>Salim</surname>
+                <given-names>AG</given-names>
+              </name>
+              <name>
+                <surname>Stein</surname>
+                <given-names>RM</given-names>
+              </name>
+              <name>
+                <surname>Cheskes</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Corneal cooling and rehydration during photorefractive keratectomy to reduce postoperative corneal haze.</article-title>
+            <source>J Refract Surg</source>
+            <year>1999</year>
+            <season>Mar-Apr</season>
+            <volume>15</volume>
+            <issue>2 Suppl</issue>
+            <fpage>S232</fpage>
+            <page-range>S232-3</page-range>
+            <pub-id pub-id-type="pmid">10202729</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zarei-Ghanavati</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Nosrat</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Morovatdar</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Abrishami</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Eghbali</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Efficacy of corneal cooling on postoperative pain management after photorefractive keratectomy: A contralateral eye randomized clinical trial.</article-title>
+            <source>J Curr Ophthalmol</source>
+            <year>2017</year>
+            <month>Dec</month>
+            <volume>29</volume>
+            <issue>4</issue>
+            <fpage>264</fpage>
+            <page-range>264-269</page-range>
+            <pub-id pub-id-type="pmid">29270472</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Garcia</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Torricelli</surname>
+                <given-names>AA</given-names>
+              </name>
+              <name>
+                <surname>Mukai</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Pereira</surname>
+                <given-names>VB</given-names>
+              </name>
+              <name>
+                <surname>Bechara</surname>
+                <given-names>SJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Predictors of Early Postoperative Pain After Photorefractive Keratectomy.</article-title>
+            <source>Cornea</source>
+            <year>2016</year>
+            <month>Aug</month>
+            <volume>35</volume>
+            <issue>8</issue>
+            <fpage>1062</fpage>
+            <page-range>1062-8</page-range>
+            <pub-id pub-id-type="pmid">27124781</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r26">
+          <label>26</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lichtinger</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Purcell</surname>
+                <given-names>TL</given-names>
+              </name>
+              <name>
+                <surname>Schanzlin</surname>
+                <given-names>DJ</given-names>
+              </name>
+              <name>
+                <surname>Chayet</surname>
+                <given-names>AS</given-names>
+              </name>
+            </person-group>
+            <article-title>Gabapentin for postoperative pain after photorefractive keratectomy: a prospective, randomized, double-blind, placebo-controlled trial.</article-title>
+            <source>J Refract Surg</source>
+            <year>2011</year>
+            <month>Aug</month>
+            <volume>27</volume>
+            <issue>8</issue>
+            <fpage>613</fpage>
+            <page-range>613-7</page-range>
+            <pub-id pub-id-type="pmid">21366172</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r27">
+          <label>27</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Verma</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Corbett</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Marshall</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>A prospective, randomized, double-masked trial to evaluate the role of topical anesthetics in controlling pain after photorefractive keratectomy.</article-title>
+            <source>Ophthalmology</source>
+            <year>1995</year>
+            <month>Dec</month>
+            <volume>102</volume>
+            <issue>12</issue>
+            <fpage>1918</fpage>
+            <page-range>1918-24</page-range>
+            <pub-id pub-id-type="pmid">9098296</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r28">
+          <label>28</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wu</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Hu</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Shi</surname>
+                <given-names>XR</given-names>
+              </name>
+              <name>
+                <surname>Xu</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Jiang</surname>
+                <given-names>CY</given-names>
+              </name>
+              <name>
+                <surname>Huang</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Jia</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Keratopathy due to ophthalmic drug abuse with corneal melting and perforation presenting as Mooren-like ulcer: A case report.</article-title>
+            <source>Exp Ther Med</source>
+            <year>2016</year>
+            <month>Jul</month>
+            <volume>12</volume>
+            <issue>1</issue>
+            <fpage>343</fpage>
+            <page-range>343-346</page-range>
+            <pub-id pub-id-type="pmid">27347060</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r29">
+          <label>29</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Golan</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Randleman</surname>
+                <given-names>JB</given-names>
+              </name>
+            </person-group>
+            <article-title>Pain management after photorefractive keratectomy.</article-title>
+            <source>Curr Opin Ophthalmol</source>
+            <year>2018</year>
+            <month>Jul</month>
+            <volume>29</volume>
+            <issue>4</issue>
+            <fpage>306</fpage>
+            <page-range>306-312</page-range>
+            <pub-id pub-id-type="pmid">29708926</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r30">
+          <label>30</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Busool</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Mimouni</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Vainer</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Levartovsky</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Sela</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Munzer</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Kaiserman</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <article-title>Risk factors predicting steroid-induced ocular hypertension after photorefractive keratectomy.</article-title>
+            <source>J Cataract Refract Surg</source>
+            <year>2017</year>
+            <month>Mar</month>
+            <volume>43</volume>
+            <issue>3</issue>
+            <fpage>389</fpage>
+            <page-range>389-393</page-range>
+            <pub-id pub-id-type="pmid">28410723</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r31">
+          <label>31</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shehadeh-Mashor</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Mimouni</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Shapira</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Sela</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Munzer</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Kaiserman</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <article-title>Risk Factors for Dry Eye After Refractive Surgery.</article-title>
+            <source>Cornea</source>
+            <year>2019</year>
+            <month>Dec</month>
+            <volume>38</volume>
+            <issue>12</issue>
+            <fpage>1495</fpage>
+            <page-range>1495-1499</page-range>
+            <pub-id pub-id-type="pmid">31567630</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r32">
+          <label>32</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kymionis</surname>
+                <given-names>GD</given-names>
+              </name>
+              <name>
+                <surname>Tsiklis</surname>
+                <given-names>NS</given-names>
+              </name>
+              <name>
+                <surname>Ginis</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Diakonis</surname>
+                <given-names>VF</given-names>
+              </name>
+              <name>
+                <surname>Pallikaris</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <article-title>Dry eye after photorefractive keratectomy with adjuvant mitomycin C.</article-title>
+            <source>J Refract Surg</source>
+            <year>2006</year>
+            <month>May</month>
+            <volume>22</volume>
+            <issue>5</issue>
+            <fpage>511</fpage>
+            <page-range>511-3</page-range>
+            <pub-id pub-id-type="pmid">16722493</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r33">
+          <label>33</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Fay</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Juthani</surname>
+                <given-names>V</given-names>
+              </name>
+            </person-group>
+            <article-title>Current trends in pain management after photorefractive and phototherapeutic keratectomy.</article-title>
+            <source>Curr Opin Ophthalmol</source>
+            <year>2015</year>
+            <month>Jul</month>
+            <volume>26</volume>
+            <issue>4</issue>
+            <fpage>255</fpage>
+            <page-range>255-9</page-range>
+            <pub-id pub-id-type="pmid">26058021</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r34">
+          <label>34</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Schallhorn</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Schallhorn</surname>
+                <given-names>SC</given-names>
+              </name>
+              <name>
+                <surname>Hettinger</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Hannan</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Infectious keratitis after laser vision correction: Incidence and risk factors.</article-title>
+            <source>J Cataract Refract Surg</source>
+            <year>2017</year>
+            <month>Apr</month>
+            <volume>43</volume>
+            <issue>4</issue>
+            <fpage>473</fpage>
+            <page-range>473-479</page-range>
+            <pub-id pub-id-type="pmid">28532931</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r35">
+          <label>35</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kremer</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Ehrenberg</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Levinger</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Delayed epithelial healing following photorefractive keratectomy with mitomycin C treatment.</article-title>
+            <source>Acta Ophthalmol</source>
+            <year>2012</year>
+            <month>May</month>
+            <volume>90</volume>
+            <issue>3</issue>
+            <fpage>271</fpage>
+            <page-range>271-6</page-range>
+            <pub-id pub-id-type="pmid">20456254</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r36">
+          <label>36</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>O'Brart</surname>
+                <given-names>DP</given-names>
+              </name>
+              <name>
+                <surname>Lohmann</surname>
+                <given-names>CP</given-names>
+              </name>
+              <name>
+                <surname>Fitzke</surname>
+                <given-names>FW</given-names>
+              </name>
+              <name>
+                <surname>Smith</surname>
+                <given-names>SE</given-names>
+              </name>
+              <name>
+                <surname>Kerr-Muir</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Marshall</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Night vision after excimer laser photorefractive keratectomy: haze and halos.</article-title>
+            <source>Eur J Ophthalmol</source>
+            <year>1994</year>
+            <season>Jan-Mar</season>
+            <volume>4</volume>
+            <issue>1</issue>
+            <fpage>43</fpage>
+            <page-range>43-51</page-range>
+            <pub-id pub-id-type="pmid">8019121</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r37">
+          <label>37</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kamiya</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Takahashi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Igarashi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Shoji</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Central Islands and Visual Outcomes of Phototherapeutic Keratectomy Using the Photorefractive Keratectomy Mode.</article-title>
+            <source>Cornea</source>
+            <year>2019</year>
+            <month>Jan</month>
+            <volume>38</volume>
+            <issue>1</issue>
+            <fpage>89</fpage>
+            <page-range>89-92</page-range>
+            <pub-id pub-id-type="pmid">30222716</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r38">
+          <label>38</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lafond</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Solomon</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>Retreatment of central islands after photorefractive keratectomy.</article-title>
+            <source>J Cataract Refract Surg</source>
+            <year>1999</year>
+            <month>Feb</month>
+            <volume>25</volume>
+            <issue>2</issue>
+            <fpage>188</fpage>
+            <page-range>188-96</page-range>
+            <pub-id pub-id-type="pmid">9951663</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r39">
+          <label>39</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kohnen</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Strenger</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Klaproth</surname>
+                <given-names>OK</given-names>
+              </name>
+            </person-group>
+            <article-title>Basic knowledge of refractive surgery: correction of refractive errors using modern surgical procedures.</article-title>
+            <source>Dtsch Arztebl Int</source>
+            <year>2008</year>
+            <month>Feb</month>
+            <volume>105</volume>
+            <issue>9</issue>
+            <fpage>163</fpage>
+            <page-range>163-70; quiz 170-2</page-range>
+            <pub-id pub-id-type="pmid">19633786</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r40">
+          <label>40</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Leccisotti</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Corneal ectasia after photorefractive keratectomy.</article-title>
+            <source>Graefes Arch Clin Exp Ophthalmol</source>
+            <year>2007</year>
+            <month>Jun</month>
+            <volume>245</volume>
+            <issue>6</issue>
+            <fpage>869</fpage>
+            <page-range>869-75</page-range>
+            <pub-id pub-id-type="pmid">17177035</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r41">
+          <label>41</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sakla</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Altroudi</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Munoz</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Sakla</surname>
+                <given-names>Y</given-names>
+              </name>
+            </person-group>
+            <article-title>Simultaneous Topography-Guided Photorefractive Keratectomy and Accelerated Corneal Collagen Cross-Linking for Keratoconus.</article-title>
+            <source>Cornea</source>
+            <year>2016</year>
+            <month>Jul</month>
+            <volume>35</volume>
+            <issue>7</issue>
+            <fpage>941</fpage>
+            <page-range>941-5</page-range>
+            <pub-id pub-id-type="pmid">27124776</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r42">
+          <label>42</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Motwani</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>A protocol for topographic-guided corneal repair utilizing the US Food and Drug Administration-approved Wavelight Contoura.</article-title>
+            <source>Clin Ophthalmol</source>
+            <year>2017</year>
+            <volume>11</volume>
+            <fpage>573</fpage>
+            <page-range>573-581</page-range>
+            <pub-id pub-id-type="pmid">28356712</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r43">
+          <label>43</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Miller</surname>
+                <given-names>DD</given-names>
+              </name>
+              <name>
+                <surname>Hasan</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>Simmons</surname>
+                <given-names>NL</given-names>
+              </name>
+              <name>
+                <surname>Stewart</surname>
+                <given-names>MW</given-names>
+              </name>
+            </person-group>
+            <article-title>Recurrent corneal erosion: a comprehensive review.</article-title>
+            <source>Clin Ophthalmol</source>
+            <year>2019</year>
+            <volume>13</volume>
+            <fpage>325</fpage>
+            <page-range>325-335</page-range>
+            <pub-id pub-id-type="pmid">30809089</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r44">
+          <label>44</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kivanany</surname>
+                <given-names>PB</given-names>
+              </name>
+              <name>
+                <surname>Grose</surname>
+                <given-names>KC</given-names>
+              </name>
+              <name>
+                <surname>Tippani</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Su</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Petroll</surname>
+                <given-names>WM</given-names>
+              </name>
+            </person-group>
+            <article-title>Assessment of Corneal Stromal Remodeling and Regeneration after Photorefractive Keratectomy.</article-title>
+            <source>Sci Rep</source>
+            <year>2018</year>
+            <month>Aug</month>
+            <day>22</day>
+            <volume>8</volume>
+            <issue>1</issue>
+            <fpage>12580</fpage>
+            <pub-id pub-id-type="pmid">30135552</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r45">
+          <label>45</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kaiserman</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Sadi</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Mimouni</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Sela</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Munzer</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Levartovsky</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Corneal Breakthrough Haze After Photorefractive Keratectomy With Mitomycin C: Incidence and Risk Factors.</article-title>
+            <source>Cornea</source>
+            <year>2017</year>
+            <month>Aug</month>
+            <volume>36</volume>
+            <issue>8</issue>
+            <fpage>961</fpage>
+            <page-range>961-966</page-range>
+            <pub-id pub-id-type="pmid">28542088</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r46">
+          <label>46</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shalaby</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Kaye</surname>
+                <given-names>GB</given-names>
+              </name>
+              <name>
+                <surname>Gimbel</surname>
+                <given-names>HV</given-names>
+              </name>
+            </person-group>
+            <article-title>Mitomycin C in photorefractive keratectomy.</article-title>
+            <source>J Refract Surg</source>
+            <year>2009</year>
+            <month>Jan</month>
+            <volume>25</volume>
+            <issue>1 Suppl</issue>
+            <fpage>S93</fpage>
+            <page-range>S93-7</page-range>
+            <pub-id pub-id-type="pmid">19248535</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r47">
+          <label>47</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Spadea</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Bianco</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Balestrazzi</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Four techniques for retreatment after excimer laser photorefractive keratectomy.</article-title>
+            <source>J Refract Surg</source>
+            <year>1996</year>
+            <season>Sep-Oct</season>
+            <volume>12</volume>
+            <issue>6</issue>
+            <fpage>693</fpage>
+            <page-range>693-6</page-range>
+            <pub-id pub-id-type="pmid">8895123</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r48">
+          <label>48</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Park</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Chuck</surname>
+                <given-names>RS</given-names>
+              </name>
+            </person-group>
+            <article-title>Corneal collagen cross-linking for correction of low myopia?</article-title>
+            <source>Curr Opin Ophthalmol</source>
+            <year>2013</year>
+            <month>Jul</month>
+            <volume>24</volume>
+            <issue>4</issue>
+            <fpage>273</fpage>
+            <page-range>273-4</page-range>
+            <pub-id pub-id-type="pmid">23673430</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r49">
+          <label>49</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Li</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Zhan</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>SY</given-names>
+              </name>
+              <name>
+                <surname>Peng</surname>
+                <given-names>XX</given-names>
+              </name>
+              <name>
+                <surname>Hu</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Law</surname>
+                <given-names>HA</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>NL</given-names>
+              </name>
+            </person-group>
+            <article-title>Laser-assisted subepithelial keratectomy (LASEK) versus photorefractive keratectomy (PRK) for correction of myopia.</article-title>
+            <source>Cochrane Database Syst Rev</source>
+            <year>2016</year>
+            <month>Feb</month>
+            <day>22</day>
+            <volume>2</volume>
+            <issue>2</issue>
+            <fpage>CD009799</fpage>
+            <pub-id pub-id-type="pmid">26899152</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r50">
+          <label>50</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kuryan</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Cheema</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Chuck</surname>
+                <given-names>RS</given-names>
+              </name>
+            </person-group>
+            <article-title>Laser-assisted subepithelial keratectomy (LASEK) versus laser-assisted in-situ keratomileusis (LASIK) for correcting myopia.</article-title>
+            <source>Cochrane Database Syst Rev</source>
+            <year>2017</year>
+            <month>Feb</month>
+            <day>15</day>
+            <volume>2</volume>
+            <issue>2</issue>
+            <fpage>CD011080</fpage>
+            <pub-id pub-id-type="pmid">28197998</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-81676.r51">
+          <label>51</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shortt</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Allan</surname>
+                <given-names>BD</given-names>
+              </name>
+              <name>
+                <surname>Evans</surname>
+                <given-names>JR</given-names>
+              </name>
+            </person-group>
+            <article-title>Laser-assisted in-situ keratomileusis (LASIK) versus photorefractive keratectomy (PRK) for myopia.</article-title>
+            <source>Cochrane Database Syst Rev</source>
+            <year>2013</year>
+            <month>Jan</month>
+            <day>31</day>
+            <issue>1</issue>
+            <fpage>CD005135</fpage>
+            <pub-id pub-id-type="pmid">23440799</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

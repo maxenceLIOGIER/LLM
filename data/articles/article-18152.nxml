@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-18152" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Bartter Syndrome</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Bokhari</surname>
+            <given-names>Syed Rizwan A.</given-names>
+          </name>
+          <aff>Tulane Un, Un Med Center New Orleans</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Zulfiqar</surname>
+            <given-names>Hassam</given-names>
+          </name>
+          <aff>Hamad Medical Corporation, Doha, Qatar</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Mansur</surname>
+            <given-names>Abeera</given-names>
+          </name>
+          <aff>Kearney Regional Medical Center, Kearney, Nebraska</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Syed Rizwan Bokhari declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Hassam Zulfiqar declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Abeera Mansur declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>4</day>
+          <month>9</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-18152.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Bartter syndrome is an autosomal recessive disorder of salt reabsorption resulting in extracellular fluid volume depletion with low/normal blood pressure. This activity describes the evaluation and management of Bartter syndrome and reviews the role of the interprofessional team in improving care for patients with this condition.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Summarize the five types of Bartter syndrome along with the gene mutations in each.</p></list-item><list-item><p>Review the electrolyte and acid-base abnormalities in the work-up of patients with Bartter syndrome.</p></list-item><list-item><p>Identify the role of kidney transplantation in completely resolving the tubular abnormalities in patients with Bartter syndrome.</p></list-item><list-item><p>Outline the importance of collaboration and communication among the interprofessional team members to enhance the delivery of care in patients affected by Bartter syndrome.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=18152&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=18152">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-18152.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Bartter syndrome is an autosomal recessive disorder of salt reabsorption resulting in extracellular fluid volume depletion with low/normal blood pressure.<xref ref-type="bibr" rid="article-18152.r1">[1]</xref> It is characterized by several electrolyte abnormalities including low potassium and chloride and,&#x000a0;in few cases,&#x000a0;hypomagnesemia. Other abnormalities include high renin, secondary hyperaldosteronism, and elevated levels of prostaglandin E2. Acid-base manifestation is typically metabolic alkalosis.</p>
+        <p>Patients often present in infancy with failure to thrive. Various phenotypes are classified according to the site of impaired salt transport.</p>
+        <p>Important clinical variants are neonatal (antenatal) Bartter syndrome, classical Bartter syndrome, and Gitelman syndrome.</p>
+      </sec>
+      <sec id="article-18152.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p>Impairment in the sodium-potassium-chloride cotransporter (NKCC2) or the potassium channel (ROMK) affect the transport of sodium, potassium, and chloride in the thick ascending limb of the loop of Henle (TALH). This results in increased distal delivery of these ions, where only some sodium is reabsorbed, and potassium is secreted.</p>
+        <p>Types of Bartter syndrome:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Type I results from mutations in the sodium chloride/potassium chloride cotransporter gene (NKCC2)</p>
+          </list-item>
+          <list-item>
+            <p>Type II results from mutations in the ROMK gene&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Type III results from mutations in the chloride channel gene (CLC-Kb)</p>
+          </list-item>
+          <list-item>
+            <p>Type IV results from the loss-of-function mutations in gene encoding barttin&#x000a0;<xref ref-type="bibr" rid="article-18152.r2">[2]</xref><xref ref-type="bibr" rid="article-18152.r3">[3]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Type V results from mutations in extracellular calcium ion-sensing receptor and in the genes that encode the chloride channel subunits, ClC-Ka and ClC-Kb<xref ref-type="bibr" rid="article-18152.r4">[4]</xref></p>
+          </list-item>
+        </list>
+        <p>Bartter syndrome can be secondary to aminoglycoside use. Hypokalemic metabolic alkalosis, hypomagnesemia, and hypocalcemia commonly are seen with an aminoglycoside-induced Bartter-like syndrome.<xref ref-type="bibr" rid="article-18152.r5">[5]</xref></p>
+        <p>An antenatal variant of Bartter syndrome presents with severe hypokalemia, metabolic alkalosis, and profound systemic manifestations. Bartter syndrome III and V usually present later in life and have mild symptoms.</p>
+      </sec>
+      <sec id="article-18152.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p>Bartter&#x000a0;syndrome is seen in 1 in 1,000,000 individuals and is much less common than Gitelman syndrome.</p>
+      </sec>
+      <sec id="article-18152.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>Bartter syndrome is a renal tubular salt-wasting disorder in which the kidneys cannot reabsorb sodium and chloride in the thick ascending limb of the loop of Henle. This leads to increased distal delivery of salt and excessive salt and water loss from the body. The resultant volume depletion causes activation of the renin-angiotensin-aldosterone system (RAAS) and subsequent secondary hyperaldosteronism. Long-term stimulation causes hyperplasia of the juxtaglomerular apparatus and hence increased renin levels.<xref ref-type="bibr" rid="article-18152.r6">[6]</xref></p>
+        <p>Excessive distal delivery of sodium results in enhanced distal convoluted tubule sodium reabsorption and exchange with the positively charged potassium or hydrogen ion and leads to increased loss of potassium in urine and increased hydrogen H secretion.&#x000a0;There is increased bicarbonate secondary to decreased hydrogen ion secretion due to hyperaldosteronism.&#x000a0;</p>
+        <p>Urinary concentrating and diluting abilities are compromised in Bartter syndrome. Impaired urinary concentrating ability is secondary to defective sodium absorption in the loop of Henle.<xref ref-type="bibr" rid="article-18152.r7">[7]</xref> Under normal circumstances, salt absorption in the loop of Henle in the presence of normal ADH is the main driving force for maintaining the concentration gradient in the medulla needed for concentrated urine formation. Other implicated factors include polyuria, hypokalemia, and elevated prostaglandin E2 levels. The defective sodium chloride transport in the loop of Henle associated with Bartter syndrome leads to the impaired electrochemical gradient, which is necessary for calcium and magnesium reabsorption, leading to increased urinary loss of calcium and magnesium.</p>
+        <p>Nephrocalcinosis commonly is seen in patients with Bartter syndrome. The likely explanation is secondary to excess calcium wasting in urine. Chloride transporters malfunction in the thick ascending limb of the loop of Henle (TAL), resulting in malabsorption of calcium in TAL. Under normal conditions, calcium and magnesium are absorbed paracellularly under the influence of positive charge in lumen due to reabsorption of negatively charged chloride ions.</p>
+      </sec>
+      <sec id="article-18152.s6" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>A thorough history, including family history and detailed physical examination, is helpful. Bartter syndrome&#x000a0;usually&#x000a0;is seen in children and adolescents who also have stunted growth and complaints of polyuria, polydipsia, cramps, vomiting, dehydration, constipation, growth delays, and failure to thrive. A family history of nephrocalcinosis and detailed personal history ruling out the possibility of surreptitious vomiting and diuretic abuse should be practiced before making the diagnosis. Patients&#x000a0;usually&#x000a0;are emaciated with prominent forehead, large eyes, strabismus, protruding ears, sensorineural deafness, and drooping mouth. Normal or low blood pressures&#x000a0;usually&#x000a0;are recorded. Long-standing cases may present with elevated blood pressures.</p>
+        <p>Offspring with antenatal Bartter syndrome present with polyhydramnios secondary to intrauterine polyuria and&#x000a0;usually&#x000a0;are delivered prematurely. <xref ref-type="bibr" rid="article-18152.r8">[8]</xref>&#x000a0;Fever, sensorineural deafness, profound polyuria, vomiting, and diarrhea leading to dehydration&#x000a0;are common observations after birth.</p>
+      </sec>
+      <sec id="article-18152.s7" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>Diagnosis is made by pertinent findings in the history and physical exam, potentiated with specific laboratory abnormalities. Bartter syndrome is associated with electrolyte and acid-base abnormalities, including hypokalemia and metabolic alkalosis in almost all cases. Other abnormalities include increased serum renin and aldosterone levels with decreased magnesium and phosphate levels in few patients. Urine electrolytes show elevated sodium, potassium, and PGE2 excretion. Elevated 24-hour urine calcium excretion helps exclude Gitelman syndrome, which is associated with low calcium excretion. Spot urine chloride concentration helps differentiate from surreptitious vomiting, where it is less than 25 meq/L. Usually, urine chloride is elevated&#x000a0;(greater than 35 meq/L) in Bartter syndrome.</p>
+        <p>Polyhydramnios and intrauterine growth retardation are seen on ultrasound with neonatal Barrter syndrome. Amniotic fluid chloride levels may be elevated.</p>
+        <p>Abdominal radiographs, intravenous pyelograms (IVPs), renal ultrasonograms, or spiral CT scans can be done to document nephrocalcinosis. Genetic testing can be considered to rule out specific mutations.</p>
+      </sec>
+      <sec id="article-18152.s8" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>A saline infusion may be needed in the neonatal period. The target is to normalize potassium levels in serum which can be achieved with oral potassium supplementation such as KCL 25 to 100 mmol/day. ACE inhibitors and angiotensin receptor blockers (ARB) help decrease elevated angiotensin II and aldosterone levels,&#x000a0;limit proteinuria, and&#x000a0;increase serum potassium in some cases. Other options include amiloride 5 to 40 mg/day, spironolactone, NSAID (indomethacin 1-3 mg/kg/24 hours) to antagonize increased urine PGE2 levels. Magnesium supplementation should be considered, as hypomagnesemia may aggravate potassium wasting.</p>
+        <p>Tubular abnormalities usually are resolved after kidney transplantation with no recurrence.</p>
+      </sec>
+      <sec id="article-18152.s9" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>Diuretic abuse</p>
+          </list-item>
+          <list-item>
+            <p>Cyclical vomiting</p>
+          </list-item>
+          <list-item>
+            <p>Hyperprostaglandin E syndrome</p>
+          </list-item>
+          <list-item>
+            <p>Familial hypomagnesemia with hypercalciuria/nephrocalcinosis</p>
+          </list-item>
+          <list-item>
+            <p>Pyloric stenosis</p>
+          </list-item>
+          <list-item>
+            <p>Gitelman syndrome</p>
+          </list-item>
+          <list-item>
+            <p>Cystic fibrosis</p>
+          </list-item>
+          <list-item>
+            <p>Gullner syndrome - Familial hypokalemic alkalosis with proximal tubulopathy</p>
+          </list-item>
+          <list-item>
+            <p>Mineralocorticoid excess</p>
+          </list-item>
+          <list-item>
+            <p>Activating mutations of the CaSR calcium-sensing receptor</p>
+          </list-item>
+          <list-item>
+            <p>Hypomagnesemia</p>
+          </list-item>
+          <list-item>
+            <p>Congenital chloride diarrhea</p>
+          </list-item>
+          <list-item>
+            <p>Hypochloremic alkalosis</p>
+          </list-item>
+          <list-item>
+            <p>Hypokalemia</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-18152.s10" sec-type="Pearls and Other Issues">
+        <title>Pearls and Other Issues</title>
+        <p>Bartter syndrome is difficult to treat and has no complete cure available to date. Untreated cases are associated with significant morbidity and mortality with a major contribution from chronic kidney disease. Overall prognosis depends on the extent of receptor malfunction, and despite these facts, most patients can lead normal lives with strict compliance with their treatment plan. Early recognition and treatment in childhood can prevent growth retardation.</p>
+        <p>The Bartter-like syndrome associated with aminoglycosides can be seen for 2 to 6 weeks after termination of antibiotics. Close monitoring and prompt replacement of potassium, calcium, and magnesium are recommended.<xref ref-type="bibr" rid="article-18152.r9">[9]</xref></p>
+        <p>Fortunately, there is no reported recurrence post-renal transplantation.</p>
+      </sec>
+      <sec id="article-18152.s11" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Bartter syndrome is difficult to recognize. Untreated cases are associated with significant morbidity and mortality, as such the healthcare team including nurses, nephrology nurses, nurse practitioners, physician assistants, and physicians must work together to identify and manage the treatment.&#x000a0;The pharmacist should evaluate medication choice, &#x000a0;drug-drug interactions, and compliance. The nurse should assist with the coordination of care in the interprofessional team and patient education.</p>
+        <p>The team should be aware Bartter-like syndrome is associated with aminoglycoside and can be seen for 2 to 6 weeks after termination of antibiotics. This requires the team to monitor&#x000a0;the patient closing and provide prompt replacement of potassium, calcium, and magnesium as needed.</p>
+      </sec>
+      <sec id="article-18152.s12">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=18152&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=18152">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/genetic-disorders/bartter-syndrome/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=18152">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/18152/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=18152">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-18152.s13">
+        <title>References</title>
+        <ref id="article-18152.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Heilberg</surname>
+                <given-names>IP</given-names>
+              </name>
+              <name>
+                <surname>T&#x000f3;toli</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Calado</surname>
+                <given-names>JT</given-names>
+              </name>
+            </person-group>
+            <article-title>Adult presentation of Bartter syndrome type IV with erythrocytosis.</article-title>
+            <source>Einstein (Sao Paulo)</source>
+            <year>2015</year>
+            <season>Oct-Dec</season>
+            <volume>13</volume>
+            <issue>4</issue>
+            <fpage>604</fpage>
+            <page-range>604-6</page-range>
+            <pub-id pub-id-type="pmid">26537508</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18152.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Janssen</surname>
+                <given-names>AG</given-names>
+              </name>
+              <name>
+                <surname>Scholl</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>Domeyer</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Nothmann</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Leinenweber</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Fahlke</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Disease-causing dysfunctions of barttin in Bartter syndrome type IV.</article-title>
+            <source>J Am Soc Nephrol</source>
+            <year>2009</year>
+            <month>Jan</month>
+            <volume>20</volume>
+            <issue>1</issue>
+            <fpage>145</fpage>
+            <page-range>145-53</page-range>
+            <pub-id pub-id-type="pmid">18776122</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18152.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kitanaka</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Sato</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>Maruyama</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Igarashi</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>A compound heterozygous mutation in the BSND gene detected in Bartter syndrome type IV.</article-title>
+            <source>Pediatr Nephrol</source>
+            <year>2006</year>
+            <month>Feb</month>
+            <volume>21</volume>
+            <issue>2</issue>
+            <fpage>190</fpage>
+            <page-range>190-3</page-range>
+            <pub-id pub-id-type="pmid">16328537</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18152.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kr&#x000e4;mer</surname>
+                <given-names>BK</given-names>
+              </name>
+              <name>
+                <surname>Bergler</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Stoelcker</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Waldegger</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Mechanisms of Disease: the kidney-specific chloride channels ClCKA and ClCKB, the Barttin subunit, and their clinical relevance.</article-title>
+            <source>Nat Clin Pract Nephrol</source>
+            <year>2008</year>
+            <month>Jan</month>
+            <volume>4</volume>
+            <issue>1</issue>
+            <fpage>38</fpage>
+            <page-range>38-46</page-range>
+            <pub-id pub-id-type="pmid">18094726</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18152.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>McLarnon</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Holden</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Ward</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Jones</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Elliott</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Riccardi</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Aminoglycoside antibiotics induce pH-sensitive activation of the calcium-sensing receptor.</article-title>
+            <source>Biochem Biophys Res Commun</source>
+            <year>2002</year>
+            <month>Sep</month>
+            <day>13</day>
+            <volume>297</volume>
+            <issue>1</issue>
+            <fpage>71</fpage>
+            <page-range>71-7</page-range>
+            <pub-id pub-id-type="pmid">12220510</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18152.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Desch&#x000ea;nes</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Fila</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Primary molecular disorders and secondary biological adaptations in bartter syndrome.</article-title>
+            <source>Int J Nephrol</source>
+            <year>2011</year>
+            <volume>2011</volume>
+            <fpage>396209</fpage>
+            <pub-id pub-id-type="pmid">21941653</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18152.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Al Shibli</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Narchi</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Bartter and Gitelman syndromes: Spectrum of clinical manifestations caused by different mutations.</article-title>
+            <source>World J Methodol</source>
+            <year>2015</year>
+            <month>Jun</month>
+            <day>26</day>
+            <volume>5</volume>
+            <issue>2</issue>
+            <fpage>55</fpage>
+            <page-range>55-61</page-range>
+            <pub-id pub-id-type="pmid">26140272</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18152.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dane</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Yayla</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Dane</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Cetin</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Prenatal diagnosis of Bartter syndrome with biochemical examination of amniotic fluid: case report.</article-title>
+            <source>Fetal Diagn Ther</source>
+            <year>2007</year>
+            <volume>22</volume>
+            <issue>3</issue>
+            <fpage>206</fpage>
+            <page-range>206-8</page-range>
+            <pub-id pub-id-type="pmid">17228161</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18152.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chou</surname>
+                <given-names>CL</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>YH</given-names>
+              </name>
+              <name>
+                <surname>Chau</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Lin</surname>
+                <given-names>SH</given-names>
+              </name>
+            </person-group>
+            <article-title>Acquired bartter-like syndrome associated with gentamicin administration.</article-title>
+            <source>Am J Med Sci</source>
+            <year>2005</year>
+            <month>Mar</month>
+            <volume>329</volume>
+            <issue>3</issue>
+            <fpage>144</fpage>
+            <page-range>144-9</page-range>
+            <pub-id pub-id-type="pmid">15767821</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

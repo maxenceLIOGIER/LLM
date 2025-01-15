@@ -1,0 +1,1474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-128653" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Sonography Vascular and Lymphatic Assessment, Protocols, and Interpretation</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Covello</surname>
+            <given-names>Brian</given-names>
+          </name>
+          <aff>Aventura Hospital &#x00026; Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Mukhdomi</surname>
+            <given-names>Junaid</given-names>
+          </name>
+          <aff>Cleveland Clinic Foundation</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Brian Covello declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Junaid Mukhdomi declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>16</day>
+          <month>1</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-128653.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Vascular sonography is a generalized term defined by the assessment of the venous and arterial system by using sound waves. Some of the more commonly encountered pathologies include arterial stenosis and venous thrombosis; however, a wide variety of vascular abnormalities may be identified. Ultrasound also provides an excellent assessment of lymph node morphology and may help characterize malignancy and metastatic disease. This activity reviews the assessment, protocols, and interpretation of commonly encountered vascular and lymph node pathologies while reviewing common sonographic artifacts.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Identify common ultrasound characteristics for arterial stenosis.</p></list-item><list-item><p>Explain the physiological mechanisms of augmentation, phasicity, and pulsatility.</p></list-item><list-item><p>Summarize the ultrasound characteristics for benign and malignant lymph nodes.</p></list-item><list-item><p>Review some interprofessional strategies that can advance the utilization of sonography for vascular and lymphatic assessment to improve patient outcomes.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=128653&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=128653">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-128653.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Ultrasonography is the use of sound waves to generate medical diagnostic images. The portability, cost-effectiveness, and non-invasive nature of ultrasound have contributed to its widespread use over recent decades.<xref ref-type="bibr" rid="article-128653.r1">[1]</xref>&#x000a0;Vascular ultrasound is a generalized term that includes venous duplex and Doppler sonographic assessment of myriad arterial and venous pathology, most commonly including peripheral arterial disease, arterial aneurysms, vascular malformations, venous thrombosis, and venous insufficiency. Sonography can also provide information about the lymphatic system via the depiction of lymph node size and morphology.<xref ref-type="bibr" rid="article-128653.r2">[2]</xref>&#x000a0;Herein, the broad general principles of arterial, venous, and lymph node sonography are discussed, with application to some of the more commonly encountered pathologies.</p>
+      </sec>
+      <sec id="article-128653.s3" sec-type="Anatomy and Physiology">
+        <title>Anatomy and Physiology</title>
+        <p>
+<bold>Arterial Sonography</bold>
+</p>
+        <p>Doppler ultrasonography utilizes Doppler shift to determine the rate at which red blood cells are moving through the vasculature system. A positive Doppler shift indicates that blood is moving toward the transducer, while a negative Doppler shift indicates movement away from the transducer. The angle at which a Doppler beam intercepts moving blood flow is termed the Doppler angle.</p>
+        <p>Vascular sonographers should always scan at a Doppler angle of less than 60 degrees. The reasoning for this is described according to the equations below, where Fd is the frequency of the echo shifted secondary to the Doppler effect and Ft is the frequency of the initial Doppler beam prior to the Doppler shift:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Doppler frequency shift = (2 * [Fd] * [velocity of blood] * cosine[Doppler angle]) /( velocity of sound in tissue)</p>
+          </list-item>
+        </list>
+        <p>Rearranging this equation gives:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Velocity of blood = ([Doppler Frequency shift] * [velocity of sound in tissue]) / (2* [Ft] * cosine[Doppler angle])<xref ref-type="bibr" rid="article-128653.r3">[3]</xref></p>
+          </list-item>
+        </list>
+        <p>Note that in the equation for blood velocity, cosine(Doppler angle) appears within the denominator. Since cosine(0)=1 and cosine(90)=0, a Doppler angle closest to zero imparts the maximum calculation of blood flow velocity. Likewise, as the Doppler angle increases above 60 degrees and approaches 90 degrees, the calculated blood flow velocity will become falsely low as it ultimately approaches zero. The Doppler angle is estimated by the vascular sonographer and is highly operator-dependent.&#x000a0;</p>
+        <p>Arteries may be classified as high resistance or low resistance. High resistance vessels classically form a triphasic waveform on Doppler (see <bold>Image.&#x000a0;</bold>Typical&#x000a0;Triphasic&#x000a0;Waveform). These waveforms are found in arteries situated within skeletal muscles and include arteries such as the external iliac, femoral, radial, and the corresponding downstream arteries. When the flow is less laminar and more turbulent, spectral broadening can occur.<xref ref-type="bibr" rid="article-128653.r4">[4]</xref>&#x000a0;The black area between the spectral baseline and the spectral line is termed the spectral window. Spectral broadening is the filling in of the spectral window that occurs when a multitude of velocities are recorded.<xref ref-type="bibr" rid="article-128653.r5">[5]</xref>&#x000a0;Red blood cells travel at the same speed in high-resistance vessels unless there is tortuosity, branching, or disease; therefore, these vessels normally demonstrate little spectral broadening.</p>
+        <p>There are three classic components to a triphasic waveform. These include the following:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>An initial sharp rise in velocity during systole, with a rapid fall during ventricular contraction.</p>
+          </list-item>
+          <list-item>
+            <p>A short-timed reversal of flow follows this during diastole.</p>
+          </list-item>
+          <list-item>
+            <p>Finally, there is a remaining small amount of forward-direction flow in the last portion of diastole<xref ref-type="bibr" rid="article-128653.r4">[4]</xref></p>
+          </list-item>
+        </list>
+        <p>Low resistance vessels classically show a monophasic waveform (see <bold>Image.</bold> Monophasic Waveform).<xref ref-type="bibr" rid="article-128653.r4">[4]</xref>&#x000a0;These waveforms are found in arteries supplying organs with high oxygen demand, such as the internal carotid, renal, umbilical, and arteries supplying the gut after a meal. In contradistinction to high resistance vessels, these vessels and their corresponding downstream vessels are continually dilated to allow for increased oxygenation. The gut requires increased blood flow during digestion and less blood flow during&#x000a0;times of fasting. Vessels such as the superior mesenteric artery and the inferior mesenteric artery show low-resistance waveforms during digestion and high-resistance waveforms during fasting.<xref ref-type="bibr" rid="article-128653.r6">[6]</xref></p>
+        <p>In a low-resistance waveform, there are typically two physiologic portions that may be visualized:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>A slow initial rise in velocity during systole</p>
+          </list-item>
+          <list-item>
+            <p>A gradual decrease in velocity during systole in diastole. In comparison to high-resistance waveforms, there is no reversal of flow in either systole or diastole. This allows for increased tissue oxygenation</p>
+          </list-item>
+        </list>
+        <p>There has been some confusion in the literature and amongst clinicians regarding the biphasic waveform and its meaning. A recent consensus statement by the Societies for Vascular Ultrasound and Vascular Medicine recommends describing the classic biphasic waveform under the umbrella term &#x0201c;multiphasic,&#x0201d; which includes both triphasic and biphasic waveforms. Multiphasic waveforms cross the baseline. The historical biphasic waveform had both high-resistance and low-resistance characteristics, with a sharp upstroke, and a brisk downstroke, but continued forward flow during diastole. Now, the term biphasic has been replaced with the description of an intermediate-resistance multiphasic waveform.<xref ref-type="bibr" rid="article-128653.r7">[7]</xref>&#x000a0;Thus, descriptors such as high, intermediate, or low resistance have been deemed more relevant than subtle classification differences of phasicity. &#x000a0;</p>
+        <p>Resistive index (RI), also termed Pourcelot index, is defined by the following equation, where peak systolic velocity = PSV and end-diastolic velocity = EDV:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>RI = (PSV-EDV) / PSV</p>
+          </list-item>
+        </list>
+        <p>A high RI&#x000a0;is found within the vasculature, which is either constricted or limited in distensibility. This may be produced by&#x000a0;downstream stenosis or congestion within an organ such as the kidney.&#x000a0;<xref ref-type="bibr" rid="article-128653.r8">[8]</xref> &#x000a0;An increased intrarenal arterial RI&#x000a0;is seen in chronic renal failure (&#x0003e;0.7) due to decreased tissue compliance.&#x000a0; In contrast, renal artery stenosis would show low RI&#x000a0;(&#x0003c;0.5) due to dampened systolic peaks and normal diastolic flow. Renal vein thrombosis would show an elevated RI due to reversal of diastolic arterial flow, although a normal arterial evaluation does not necessarily exclude renal vein thrombosis.&#x000a0;<xref ref-type="bibr" rid="article-128653.r9">[9]</xref>&#x000a0;</p>
+        <p>Lower extremity arterial stenosis causes characteristic changes to the waveform pattern. While the gray-scale US is useful in detecting plaques and vessel narrowing, the Doppler US helps categorize the degree of stenosis.&#x000a0;<xref ref-type="bibr" rid="article-128653.r4">[4]</xref> Within the area of vasculature stenosis, flow velocity increases. PSV best correlates with stenosis severity. In the vessel downstream from the stenotic portion, spectral broadening occurs secondary to flow turbulence. High-resistance waveforms may change from typical high-resistance triphasic to low-resistance monophasic waveforms,&#x000a0;with tardus et parvus changes. Tardus (the Latin word for slow) and Parvus (the Latin word for weak) define a late and weakened peak systolic velocity secondary to downstream effects from more proximal stenosis. A ratio of the peak systolic velocity&#x000a0;within and proximal to the stenosis called the PSV ratio, may help determine the degree of stenosis. A PSV ratio less than 2 correlates to greater than&#x000a0;50% stenosis of the lower extremity artery.<xref ref-type="bibr" rid="article-128653.r10">[10]</xref>&#x000a0;Some use a PSV ratio greater than 3 to indicate stenosis greater than 70%, although this varies amongst clinicians.</p>
+        <p>
+<bold>Venous Sonography</bold>
+</p>
+        <p>In comparison to arterial Doppler, venous flow is typically low velocity. Venous flow may have phasicity secondary to respiration or mild pulsatility secondary to right heart motion. The portal vein is typically low velocity, contains phasicity due to heart motion and respiration, and normally has a forward flow into the liver termed hepatopedal flow. Blood flow reversal within the portal veins, termed hepatofugal, is abnormal and indicates portal hypertension. Portal hypertension most commonly occurs due to liver cirrhosis. The most common cause of cirrhosis in the United States is alcohol abuse.<xref ref-type="bibr" rid="article-128653.r11">[11]</xref> Portal venous diameter greater than 15 mm also suggests portal hypertension (see <bold>Image.</bold>&#x000a0;Portal Hypertension).</p>
+        <p>Hepatic veins converge upon the inferior vena cava just inferior to the right atrium. Doppler waveforms of hepatic&#x000a0;veins are directly related to cardiac motion and function. Pathology such as tricuspid regurgitation and heart failure can be directly correlated to changes within hepatic venous waveforms. In hepatic venous waveforms, reverse or retrograde flow occurs towards the transducer and appears above the baseline. Antegrade flow into the heart is away from the transducer and appears below the baseline.<xref ref-type="bibr" rid="article-128653.r12">[12]</xref></p>
+        <p>Hepatic veins normally contain 5 waveform components:</p>
+        <list list-type="order">
+          <list-item>
+            <p>A-wave, defined by the reversal of flow of blood in atrial systole. The A-wave may be accentuated in both tricuspid regurgitation or right-sided heart failure.</p>
+          </list-item>
+          <list-item>
+            <p>C-wave, a small peak of reverse flow after the A-wave, correlates to the bulging of the tricuspid valve during the beginning of ventricular contraction. This wave may or may not be present and is considered a normal variant.</p>
+          </list-item>
+          <list-item>
+            <p>S-wave represents the dominant forward flow of atrial filling occurring during ventricular systole. In tricuspid regurgitation, the S-wave is characteristically shortened. This is due to less atrial filling from the hepatic veins secondary to atrial filling from regurgitation of flow from the right ventricle. The S-wave is preserved in right heart failure.</p>
+          </list-item>
+          <list-item>
+            <p>V-wave, defined by the end of atrial filling.</p>
+          </list-item>
+          <list-item>
+            <p>D-wave, defined by the tricuspid valve opening with a subsequent filling of both the right atrium and right ventricle in atrial diastole.<xref ref-type="bibr" rid="article-128653.r12">[12]</xref>&#x000a0;<xref ref-type="bibr" rid="article-128653.r13">[13]</xref></p>
+          </list-item>
+        </list>
+        <p>Peripheral veins are normally low velocity and phasic due to respiratory variation.<xref ref-type="bibr" rid="article-128653.r14">[14]</xref>&#x000a0;Valsalva maneuver will cause a reversal of flow within the lower extremity veins. Calculation of the time of flow reversal in venous vessels helps determine venous insufficiency. &#x000a0;For instance, venous reflux lasting more than 1 sec in the deep veins, or 0.5 sec at any other level, is clinically significant for venous insufficiency (varicose veins). Squeezing the patient&#x02019;s calf or having them contract their surrounding lower extremity muscles causes a phenomenon known as augmentation of flow. Lack of augmentation indicates stenosis, usually due to venous thrombosis. Loss of respiratory phasicity indicates proximal stenosis.&#x000a0;The deep venous system includes the common femoral, femoral vein, popliteal veins, and its tributaries. The superficial venous system includes the great and small saphenous veins and the medial marginal vein.</p>
+        <p>
+<bold>Lymphatic Sonography</bold>
+</p>
+        <p>While some studies have investigated the role of sonographic assessment of lymphatic vessels, the small size of these vessels limits the role of ultrasound in the evaluation of lymph nodes.&#x000a0;<xref ref-type="bibr" rid="article-128653.r15">[15]</xref>&#x000a0;Ultrasound evaluation of lymph nodes offers a noninvasive evaluation of lymph node size and morphology. The normal echogenicity of lymph nodes includes isoechogenicity to slight hypoechogenicity to surrounding soft tissues.&#x000a0;<xref ref-type="bibr" rid="article-128653.r16">[16]</xref> Anechogenicity and marked hypoechogenicity can provide clues to pathologies such as infection and metastasis. With regards to shape, lymph nodes should be reniform and oval in shape with a length longer than thickness.&#x000a0;<xref ref-type="bibr" rid="article-128653.r17">[17]</xref> &#x000a0;Abnormally shaped lymph nodes are often rounded and spherical in appearance.&#x000a0;<xref ref-type="bibr" rid="article-128653.r18">[18]</xref> Loss of smooth margins of lymph nodes also suggests pathology. Fluid-filled lymph nodes can result in increased transmission and acoustic enhancement, indicating an abnormality such as necrosis.&#x000a0;<xref ref-type="bibr" rid="article-128653.r19">[19]</xref> Vascularity is often assessed with Doppler sonography with the three general patterns of vascularity in lymph nodes characterized as hilar, peripheral, or a mixed pattern.&#x000a0;<xref ref-type="bibr" rid="article-128653.r20">[20]</xref> Reactive lymph nodes can have prominent hilar vascularity, while metastatic lymph nodes have a prominent peripheral perfusion pattern secondary to marginal tumor cell deposition. Peripheral vessels in short segments or branching patterns, as well as vessels anywhere in the lymph node demonstrating irregular branches, have been shown to be associated with malignancy.&#x000a0;<xref ref-type="bibr" rid="article-128653.r20">[20]</xref></p>
+      </sec>
+      <sec id="article-128653.s4" sec-type="Indications">
+        <title>Indications</title>
+        <p>Indications for vascular ultrasound are numerous.<xref ref-type="bibr" rid="article-128653.r21">[21]</xref>&#x000a0;Arterial ultrasound may be useful in peripheral arterial disease, arteriovenous malformations, pseudoaneurysms, aneurysms, stenoses, transplant analysis, and emboli. Renal arteries, intracranial arteries, carotid arteries, umbilical arteries, and arteries supplying the gut may be evaluated.&#x000a0;Venous ultrasound can help evaluate venous thrombosis, hemodialysis graft patency, venous malformations, and chronic venous disease.<xref ref-type="bibr" rid="article-128653.r14">[14]</xref>&#x000a0;The portal vein, splenic vein, and hepatic veins may also be evaluated. Vascular ultrasound may help evaluate a patient before and after interventional procedures. Some commonly evaluated procedures include transjugular intrahepatic portosystemic shunt (TIPS), angioplasty, venoplasty, and stent placement. The evaluation of the lymph nodes can be performed for various indications, including&#x000a0;palpable lymphadenopathy, concern for metastatic disease (such as in the setting of breast cancer), evaluation of infection (such as in the setting of tuberculosis), as well as in the setting of biopsy planning in patients with known systemic disease.&#x000a0;<xref ref-type="bibr" rid="article-128653.r22">[22]</xref></p>
+      </sec>
+      <sec id="article-128653.s5" sec-type="Contraindications">
+        <title>Contraindications</title>
+        <p>Specific contraindications depend upon the exam being performed. In general, an enlarged patient body habitus will decrease sonographic evaluation accuracy due to increased impedance of the sonographic wave.&#x000a0;<xref ref-type="bibr" rid="article-128653.r23">[23]</xref> Patient casts, dressings, or overlying surgical material may also limit evaluation. Extremity musculature tremors and movement restrict accurate doppler assessment of venous and arterial structures.</p>
+      </sec>
+      <sec id="article-128653.s6" sec-type="Equipment">
+        <title>Equipment</title>
+        <p>As sound waves increase in frequency and decrease in wavelength, spatial resolution increases, and the ultrasound beam is more easily attenuated. Therefore, lower frequency transducers (2.5&#x000a0;to 3.5 Mhz) with less attenuation should be used for deeper structures, such as renal or iliac arteries.&#x000a0;<xref ref-type="bibr" rid="article-128653.r10">[10]</xref> The tradeoff, however, is the lower spatial resolution with the use of lower frequency transducers. A higher frequency transducer (7&#x000a0;to 10 Mhz) cannot penetrate tissues as deeply but provides superior spatial resolution.<xref ref-type="bibr" rid="article-128653.r10">[10]</xref>&#x000a0;These transducers should be used for superficial vasculature or other superficial soft tissue structures such as finger tendons. Transducer choice for lymph nodes will depend upon their anatomic location.&#x000a0;An ultrasound machine capable of both B-Mode (&#x02018;B&#x02019; standing for 'Brightness') and Doppler should be used to quantify stenosis. The B-Mode US helps in the evaluation of anatomy, including vessel caliber&#x000a0;and morphology.&#x000a0;<xref ref-type="bibr" rid="article-128653.r10">[10]</xref> Doppler US helps measure blood flow velocity, as described above.</p>
+      </sec>
+      <sec id="article-128653.s7" sec-type="Preparation">
+        <title>Preparation</title>
+        <p>Preparation depends upon the examination being performed. Regardless of the exam, it is imperative for both the clinician and technologist to always view prior imaging. In general, any casts, dressings, or overlying material that could potentially interfere with the exam should be removed if possible.&#x000a0;<xref ref-type="bibr" rid="article-128653.r24">[24]</xref> If these items cannot be removed, the technologist should relay this information to the interpreting clinician. It is important for the technologist to introduce himself or herself to the patient. Verification of patient name, date of birth, and institution specific medical identifiers is required. The technologist should refer specific questions about diagnosis, treatment, and prognosis to the patient&#x02019;s physician.</p>
+      </sec>
+      <sec id="article-128653.s8" sec-type="Technique or Treatment">
+        <title>Technique or Treatment</title>
+        <p>Ultrasound protocols and technique depends upon the examination. For extremity arterial studies, one should perform an anatomical assessment from proximal to distal. Both longitudinal and transverse images in B-mode and doppler mode should be obtained. Waveform characteristics such as triphasic, biphasic, monophasic should be noted, along with the corresponding velocities. If an area of stenosis is identified, three sets of velocities should be obtained immediately before, within, and distal to the stenosis.</p>
+        <p>For extremity venous studies, one should also follow an anatomical assessment of the veins from proximal to distal. Calf veins need not be evaluated for deep venous thrombosis, according to the American College of Radiology, as these vessels have less of a propensity to cause clinically significant thrombosis.<xref ref-type="bibr" rid="article-128653.r25">[25]</xref>&#x000a0;In contradistinction to arterial studies, veins should be interrogated with interval compression upon the vein using the transducer to evaluate for thrombosis.<xref ref-type="bibr" rid="article-128653.r14">[14]</xref>&#x000a0;Incompressibility should be noted by the technologist (see <bold>Image</bold>. B-Mode Doppler Showing the Left Popliteal Vein Under Compression). Augmentation of each vein interrogated should also be performed. Phasicity or lack thereof should also be noted.</p>
+      </sec>
+      <sec id="article-128653.s9" sec-type="Complications">
+        <title>Complications</title>
+        <p>In particular, vascular ultrasound may lead to several artifacts that complicate the evaluation of pathology. Artifacts are secondary to both limitations of instrumentations and incorrect instrument settings. Recognition of artifacts helps prevent misdiagnosis. Aliasing causes a wrap-around defect on the Doppler US display.&#x000a0;When the blood flow velocity is too high for the selected velocity range, the peak velocity will be cut off and displayed on the opposite edge of the spectrum. On color Doppler, aliasing causes a change from one color to the opposite color, such as blue to red, with no corresponding black stripe to indicate a reversal of flow. Aliasing or &#x0201d;wrap-around&#x0201d; artifacts may be eliminated by increasing the velocity scale.<xref ref-type="bibr" rid="article-128653.r3">[3]</xref>&#x000a0;Because stenosis causes increased peak systolic velocities, aliasing may occur in these areas. See <bold>Image.</bold> Aliasing Artifact. If the velocity scale is set too high relative to the speed of blood, areas of low-velocity flow may not be detected. It is important for the technologist always to check the velocity setting, as slow flow areas can be easily misdiagnosed as thrombosis.</p>
+        <p>Increasing gain on the ultrasound machine makes structures appear more echogenic on grayscale imaging. A high gain may cause a &#x02018;blooming&#x02019; phenomenon; this occurs when the color doppler is turned on.<xref ref-type="bibr" rid="article-128653.r26">[26]</xref> The color extends beyond the interrogated anatomy, thereby masking or obscuring the juxtaposed structures. This artifact may obscure partial thrombi and can be eliminated by decreasing color gain.<xref ref-type="bibr" rid="article-128653.r3">[3]</xref>&#x000a0;Gain set too low will fail to show a spectral display or color image. The technologist may achieve the correct gain settings by increasing the gain until the noise is seen and then slowly reducing the gain until there is a reduction of noise.</p>
+        <p>Although spectral broadening is normal during turbulent flow and at branching points, its appearance may be secondary to many artifacts. Too large of a Doppler sample volume compared to vessel size may cause spectral broadening, as the inclusion of slow velocity near the vessel wall and faster velocity in the middle of the vessel is recorded.&#x000a0;Smaller vessels are more prone to this artifact, given the limit of the smallest Doppler sample volume that can be set. Placing the Doppler sample near the edge of the vessel wall will also cause spectral broadening due to the inclusion of slower blood flow velocity near the wall.<xref ref-type="bibr" rid="article-128653.r3">[3]</xref>&#x000a0;Increased gain settings described above may also cause spectral broadening. Elimination of spectral broadening can be obtained by having the correct gain settings, the correct Doppler sample size volume, and the correct placement of the Doppler sample volume in the middle of the vessel.</p>
+      </sec>
+      <sec id="article-128653.s10" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>Extremity arterial stenosis is a commonly encountered pathology in arterial sonography. Ultrasound characteristics include the following:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Increased PSV</p>
+          </list-item>
+          <list-item>
+            <p>PSV Ratio &#x0003e; 2 indicates more than 50% stenosis</p>
+          </list-item>
+          <list-item>
+            <p>PSV Ratio &#x0003e; 3 indicates more than 70% stenosis</p>
+          </list-item>
+          <list-item>
+            <p>Triphasic to monophasic waveform change from proximal to distal</p>
+          </list-item>
+          <list-item>
+            <p>Spectral broadening distal to stenosis</p>
+          </list-item>
+          <list-item>
+            <p>Parvus Tardus waveform distal to stenosis&#x000a0;<xref ref-type="bibr" rid="article-128653.r10">[10]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Complete lack of flow indicates 100% total occlusion</p>
+          </list-item>
+        </list>
+        <p>Deep venous thrombosis is one of the most commonly encountered pathologies in venous duplex imaging. Commonly encountered ultrasound characteristics include the following:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Incompressibility of the thrombosed venous segment&#x000a0;<xref ref-type="bibr" rid="article-128653.r27">[27]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Loss of phasicity from respiration distal to thrombosis, even with Valsalva</p>
+          </list-item>
+          <list-item>
+            <p>Lack of color Doppler flow</p>
+          </list-item>
+          <list-item>
+            <p>Loss of augmentation</p>
+          </list-item>
+        </list>
+        <p>Lymphadenopathy is commonly encountered and may be due to either malignant or reactive processes. Several ultrasound factors may favor a malignant lymph node. This most commonly includes the following:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Lack of fatty hilum</p>
+          </list-item>
+          <list-item>
+            <p>Cystic necrosis within the lymph node</p>
+          </list-item>
+          <list-item>
+            <p>Long axis to short axis ratio &#x0003c;2, which correlates to a rounder lymph node&#x000a0;<xref ref-type="bibr" rid="article-128653.r28">[28]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Large lymph node size, with size criteria varying upon anatomical location</p>
+          </list-item>
+          <list-item>
+            <p>A resistive index &#x0003e;0.8</p>
+          </list-item>
+          <list-item>
+            <p>High resistance waveform within a lymph node&#x000a0;<xref ref-type="bibr" rid="article-128653.r2">[2]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Calcifications&#x000a0;<xref ref-type="bibr" rid="article-128653.r29">[29]</xref>&#x000a0;<xref ref-type="bibr" rid="article-128653.r30">[30]</xref></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-128653.s11" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>The use of point-of-care ultrasonography has increased in recent years. Studies have shown that a systematic team approach with early ultrasound scanning helps with a timely and accurate patient diagnosis.<xref ref-type="bibr" rid="article-128653.r31">[31]</xref>&#x000a0;Because ultrasound is highly operator-dependent, appropriate technical training is imperative. A team-based approach must be taken at all times and communication between the technologist and clinician is critical for an accurate diagnosis.</p>
+      </sec>
+      <sec id="article-128653.s12">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=128653&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=128653">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/128653/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=128653">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <floats-group id="article-128653.s13">
+        <fig id="article-128653.image.f1" position="float" orientation="portrait">
+          <caption>
+            <p>Typical Triphasic Waveform. Doppler ultrasound showing typical triphasic waveform. The yellow arrow points to the Doppler sample volume. The red arrow points to the spectral window. Contributed by B Covello, MD</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="triphasic" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <floats-group id="article-128653.s14">
+        <fig id="article-128653.image.f2" position="float" orientation="portrait">
+          <caption>
+            <p>Monophasic Waveform. Doppler ultrasound of the right posterior tibial artery showing classic monophasic waveform. Peripheral arteries should never have monophasic waveforms. Note the red arrow pointing to spectral broadening. Contributed by B Covello, MD</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="monophasic" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <floats-group id="article-128653.s15">
+        <fig id="article-128653.image.f3" position="float" orientation="portrait">
+          <caption>
+            <p>B-Mode Doppler Showing the Left Popliteal Vein Under Compression. This compressibility is a normal finding. Contributed by B Covello, MD</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="normal__compression" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <floats-group id="article-128653.s16">
+        <fig id="article-128653.image.f4" position="float" orientation="portrait">
+          <caption>
+            <p>Portal Hypertension. B-Mode ultrasound showing main portal vein diameter of 15.1 millimeters. This is an indirect finding of portal hypertension. Contributed by B Covello, MD</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="pv" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <floats-group id="article-128653.s17">
+        <fig id="article-128653.image.f5" position="float" orientation="portrait">
+          <caption>
+            <p>Aliasing Artifact. Doppler ultrasound of the right brachial vein that shows aliasing artifact. Note the peak systolic velocity wraps around and is displayed on the opposite edge of the spectrum. Contributed by B Covello, MD</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="aliasing1" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <ref-list id="article-128653.s18">
+        <title>References</title>
+        <ref id="article-128653.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gupta</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Lyons</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hedgire</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Ultrasound imaging of the arterial system.</article-title>
+            <source>Cardiovasc Diagn Ther</source>
+            <year>2019</year>
+            <month>Aug</month>
+            <volume>9</volume>
+            <issue>Suppl 1</issue>
+            <fpage>S2</fpage>
+            <page-range>S2-S13</page-range>
+            <pub-id pub-id-type="pmid">31559150</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ahuja</surname>
+                <given-names>AT</given-names>
+              </name>
+              <name>
+                <surname>Ying</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Ho</surname>
+                <given-names>SY</given-names>
+              </name>
+              <name>
+                <surname>Antonio</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>YP</given-names>
+              </name>
+              <name>
+                <surname>King</surname>
+                <given-names>AD</given-names>
+              </name>
+              <name>
+                <surname>Wong</surname>
+                <given-names>KT</given-names>
+              </name>
+            </person-group>
+            <article-title>Ultrasound of malignant cervical lymph nodes.</article-title>
+            <source>Cancer Imaging</source>
+            <year>2008</year>
+            <month>Mar</month>
+            <day>25</day>
+            <volume>8</volume>
+            <issue>1</issue>
+            <fpage>48</fpage>
+            <page-range>48-56</page-range>
+            <pub-id pub-id-type="pmid">18390388</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Revzin</surname>
+                <given-names>MV</given-names>
+              </name>
+              <name>
+                <surname>Imanzadeh</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Menias</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Pourjabbar</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Mustafa</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Nezami</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Spektor</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Pellerito</surname>
+                <given-names>JS</given-names>
+              </name>
+            </person-group>
+            <article-title>Optimizing Image Quality When Evaluating Blood Flow at Doppler US: A Tutorial.</article-title>
+            <source>Radiographics</source>
+            <year>2019</year>
+            <season>Sep-Oct</season>
+            <volume>39</volume>
+            <issue>5</issue>
+            <fpage>1501</fpage>
+            <page-range>1501-1523</page-range>
+            <pub-id pub-id-type="pmid">31398088</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sibley</surname>
+                <given-names>RC</given-names>
+              </name>
+              <name>
+                <surname>Reis</surname>
+                <given-names>SP</given-names>
+              </name>
+              <name>
+                <surname>MacFarlane</surname>
+                <given-names>JJ</given-names>
+              </name>
+              <name>
+                <surname>Reddick</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Kalva</surname>
+                <given-names>SP</given-names>
+              </name>
+              <name>
+                <surname>Sutphin</surname>
+                <given-names>PD</given-names>
+              </name>
+            </person-group>
+            <article-title>Noninvasive Physiologic Vascular Studies: A Guide to Diagnosing Peripheral Arterial Disease.</article-title>
+            <source>Radiographics</source>
+            <year>2017</year>
+            <season>Jan-Feb</season>
+            <volume>37</volume>
+            <issue>1</issue>
+            <fpage>346</fpage>
+            <page-range>346-357</page-range>
+            <pub-id pub-id-type="pmid">27689831</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chavhan</surname>
+                <given-names>GB</given-names>
+              </name>
+              <name>
+                <surname>Parra</surname>
+                <given-names>DA</given-names>
+              </name>
+              <name>
+                <surname>Mann</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Navarro</surname>
+                <given-names>OM</given-names>
+              </name>
+            </person-group>
+            <article-title>Normal Doppler spectral waveforms of major pediatric vessels: specific patterns.</article-title>
+            <source>Radiographics</source>
+            <year>2008</year>
+            <season>May-Jun</season>
+            <volume>28</volume>
+            <issue>3</issue>
+            <fpage>691</fpage>
+            <page-range>691-706</page-range>
+            <pub-id pub-id-type="pmid">18480479</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Perko</surname>
+                <given-names>MJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Duplex ultrasound for assessment of superior mesenteric artery blood flow.</article-title>
+            <source>Eur J Vasc Endovasc Surg</source>
+            <year>2001</year>
+            <month>Feb</month>
+            <volume>21</volume>
+            <issue>2</issue>
+            <fpage>106</fpage>
+            <page-range>106-17</page-range>
+            <pub-id pub-id-type="pmid">11237782</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kim</surname>
+                <given-names>ES</given-names>
+              </name>
+              <name>
+                <surname>Sharma</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Scissons</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Dawson</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Eberhardt</surname>
+                <given-names>RT</given-names>
+              </name>
+              <name>
+                <surname>Gerhard-Herman</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Hughes</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Knight</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Marie Kupinski</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Mahe</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Neumyer</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Poe</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Shugart</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Wennberg</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Williams</surname>
+                <given-names>DM</given-names>
+              </name>
+              <name>
+                <surname>Zierler</surname>
+                <given-names>RE</given-names>
+              </name>
+            </person-group>
+            <article-title>Interpretation of peripheral arterial and venous Doppler waveforms: A consensus statement from the Society for Vascular Medicine and Society for Vascular Ultrasound.</article-title>
+            <source>Vasc Med</source>
+            <year>2020</year>
+            <month>Oct</month>
+            <volume>25</volume>
+            <issue>5</issue>
+            <fpage>484</fpage>
+            <page-range>484-506</page-range>
+            <pub-id pub-id-type="pmid">32667274</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>HL</given-names>
+              </name>
+              <name>
+                <surname>Sos</surname>
+                <given-names>TA</given-names>
+              </name>
+              <name>
+                <surname>Winchester</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Gao</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Prince</surname>
+                <given-names>MR</given-names>
+              </name>
+            </person-group>
+            <article-title>Renal artery stenosis: imaging options, pitfalls, and concerns.</article-title>
+            <source>Prog Cardiovasc Dis</source>
+            <year>2009</year>
+            <season>Nov-Dec</season>
+            <volume>52</volume>
+            <issue>3</issue>
+            <fpage>209</fpage>
+            <page-range>209-19</page-range>
+            <pub-id pub-id-type="pmid">19917332</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Platt</surname>
+                <given-names>JF</given-names>
+              </name>
+              <name>
+                <surname>Ellis</surname>
+                <given-names>JH</given-names>
+              </name>
+              <name>
+                <surname>Rubin</surname>
+                <given-names>JM</given-names>
+              </name>
+            </person-group>
+            <article-title>Intrarenal arterial Doppler sonography in the detection of renal vein thrombosis of the native kidney.</article-title>
+            <source>AJR Am J Roentgenol</source>
+            <year>1994</year>
+            <month>Jun</month>
+            <volume>162</volume>
+            <issue>6</issue>
+            <fpage>1367</fpage>
+            <page-range>1367-70</page-range>
+            <pub-id pub-id-type="pmid">8192001</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ota</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Takase</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Rikimaru</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Tsuboi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Yamada</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Sato</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Higano</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Ishibashi</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Takahashi</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Quantitative vascular measurements in arterial occlusive disease.</article-title>
+            <source>Radiographics</source>
+            <year>2005</year>
+            <season>Sep-Oct</season>
+            <volume>25</volume>
+            <issue>5</issue>
+            <fpage>1141</fpage>
+            <page-range>1141-58</page-range>
+            <pub-id pub-id-type="pmid">16160101</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Julien</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ayer</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Bethea</surname>
+                <given-names>ED</given-names>
+              </name>
+              <name>
+                <surname>Tapper</surname>
+                <given-names>EB</given-names>
+              </name>
+              <name>
+                <surname>Chhatwal</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Projected prevalence and mortality associated with alcohol-related liver disease in the USA, 2019-40: a modelling study.</article-title>
+            <source>Lancet Public Health</source>
+            <year>2020</year>
+            <month>Jun</month>
+            <volume>5</volume>
+            <issue>6</issue>
+            <fpage>e316</fpage>
+            <page-range>e316-e323</page-range>
+            <pub-id pub-id-type="pmid">32504584</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Scheinfeld</surname>
+                <given-names>MH</given-names>
+              </name>
+              <name>
+                <surname>Bilali</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Koenigsberg</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Understanding the spectral Doppler waveform of the hepatic veins in health and disease.</article-title>
+            <source>Radiographics</source>
+            <year>2009</year>
+            <month>Nov</month>
+            <volume>29</volume>
+            <issue>7</issue>
+            <fpage>2081</fpage>
+            <page-range>2081-98</page-range>
+            <pub-id pub-id-type="pmid">19926763</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zhang-An</surname>
+              </name>
+              <name>
+                <surname>Himura</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Kumada</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Hayashida</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Ishikawa</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Noda</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Kohno</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Kambayashi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Kawai</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>The characteristics of hepatic venous flow velocity pattern in patients with pulmonary hypertension by pulsed Doppler echocardiography.</article-title>
+            <source>Jpn Circ J</source>
+            <year>1992</year>
+            <month>Apr</month>
+            <volume>56</volume>
+            <issue>4</issue>
+            <fpage>317</fpage>
+            <page-range>317-24</page-range>
+            <pub-id pub-id-type="pmid">1578603</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Khilnani</surname>
+                <given-names>NM</given-names>
+              </name>
+            </person-group>
+            <article-title>Duplex ultrasound evaluation of patients with chronic venous disease of the lower extremities.</article-title>
+            <source>AJR Am J Roentgenol</source>
+            <year>2014</year>
+            <month>Mar</month>
+            <volume>202</volume>
+            <issue>3</issue>
+            <fpage>633</fpage>
+            <page-range>633-42</page-range>
+            <pub-id pub-id-type="pmid">24555602</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hayashi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Yamamoto</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Yoshimatsu</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Hayashi</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Furuya</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Harima</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Narushima</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Koshima</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <article-title>Ultrasound visualization of the lymphatic vessels in the lower leg.</article-title>
+            <source>Microsurgery</source>
+            <year>2016</year>
+            <month>Jul</month>
+            <volume>36</volume>
+            <issue>5</issue>
+            <fpage>397</fpage>
+            <page-range>397-401</page-range>
+            <pub-id pub-id-type="pmid">25854520</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Toriyabe</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Nishimura</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Kita</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Saito</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Miyokawa</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Differentiation between benign and metastatic cervical lymph nodes with ultrasound.</article-title>
+            <source>Clin Radiol</source>
+            <year>1997</year>
+            <month>Dec</month>
+            <volume>52</volume>
+            <issue>12</issue>
+            <fpage>927</fpage>
+            <page-range>927-32</page-range>
+            <pub-id pub-id-type="pmid">9413967</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ganeshalingam</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Koh</surname>
+                <given-names>DM</given-names>
+              </name>
+            </person-group>
+            <article-title>Nodal staging.</article-title>
+            <source>Cancer Imaging</source>
+            <year>2009</year>
+            <month>Dec</month>
+            <day>24</day>
+            <volume>9</volume>
+            <issue>1</issue>
+            <fpage>104</fpage>
+            <page-range>104-11</page-range>
+            <pub-id pub-id-type="pmid">20080453</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mack</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Rieger</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Baghi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Bisdas</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Vogl</surname>
+                <given-names>TJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Cervical lymph nodes.</article-title>
+            <source>Eur J Radiol</source>
+            <year>2008</year>
+            <month>Jun</month>
+            <volume>66</volume>
+            <issue>3</issue>
+            <fpage>493</fpage>
+            <page-range>493-500</page-range>
+            <pub-id pub-id-type="pmid">18337039</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ghazinoor</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Desser</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Jeffrey</surname>
+                <given-names>RB</given-names>
+              </name>
+            </person-group>
+            <article-title>Increased through-transmission in abdominal tuberculous lymphadenitis.</article-title>
+            <source>J Ultrasound Med</source>
+            <year>2004</year>
+            <month>Jun</month>
+            <volume>23</volume>
+            <issue>6</issue>
+            <fpage>837</fpage>
+            <page-range>837-41</page-range>
+            <pub-id pub-id-type="pmid">15244308</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bialek</surname>
+                <given-names>EJ</given-names>
+              </name>
+              <name>
+                <surname>Jakubowski</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Szczepanik</surname>
+                <given-names>AB</given-names>
+              </name>
+              <name>
+                <surname>Maryniak</surname>
+                <given-names>RK</given-names>
+              </name>
+              <name>
+                <surname>Prochorec-Sobieszek</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Bilski</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Szopinski</surname>
+                <given-names>KT</given-names>
+              </name>
+            </person-group>
+            <article-title>Vascular patterns in superficial lymphomatous lymph nodes: A detailed sonographic analysis().</article-title>
+            <source>J Ultrasound</source>
+            <year>2007</year>
+            <month>Sep</month>
+            <volume>10</volume>
+            <issue>3</issue>
+            <fpage>128</fpage>
+            <page-range>128-34</page-range>
+            <pub-id pub-id-type="pmid">23396624</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wells</surname>
+                <given-names>PN</given-names>
+              </name>
+            </person-group>
+            <article-title>Ultrasound in vascular pathologies.</article-title>
+            <source>Eur Radiol</source>
+            <year>1998</year>
+            <volume>8</volume>
+            <issue>6</issue>
+            <fpage>849</fpage>
+            <page-range>849-57</page-range>
+            <pub-id pub-id-type="pmid">9683687</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mohseni</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Shojaiefard</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Khorgami</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Alinejad</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Ghorbani</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Ghafouri</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Peripheral lymphadenopathy: approach and diagnostic tools.</article-title>
+            <source>Iran J Med Sci</source>
+            <year>2014</year>
+            <month>Mar</month>
+            <volume>39</volume>
+            <issue>2 Suppl</issue>
+            <fpage>158</fpage>
+            <page-range>158-70</page-range>
+            <pub-id pub-id-type="pmid">24753638</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dashe</surname>
+                <given-names>JS</given-names>
+              </name>
+              <name>
+                <surname>McIntire</surname>
+                <given-names>DD</given-names>
+              </name>
+              <name>
+                <surname>Twickler</surname>
+                <given-names>DM</given-names>
+              </name>
+            </person-group>
+            <article-title>Effect of maternal obesity on the ultrasound detection of anomalous fetuses.</article-title>
+            <source>Obstet Gynecol</source>
+            <year>2009</year>
+            <month>May</month>
+            <volume>113</volume>
+            <issue>5</issue>
+            <fpage>1001</fpage>
+            <page-range>1001-1007</page-range>
+            <pub-id pub-id-type="pmid">19384114</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kenney</surname>
+                <given-names>IJ</given-names>
+              </name>
+              <name>
+                <surname>Delves</surname>
+                <given-names>NJ</given-names>
+              </name>
+            </person-group>
+            <article-title>The effect of wound dressings on diagnostic ultrasound imaging.</article-title>
+            <source>J Wound Care</source>
+            <year>1997</year>
+            <month>Mar</month>
+            <volume>6</volume>
+            <issue>3</issue>
+            <fpage>117</fpage>
+            <page-range>117-20</page-range>
+            <pub-id pub-id-type="pmid">9256707</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Divittorio</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Bluth</surname>
+                <given-names>EI</given-names>
+              </name>
+              <name>
+                <surname>Sullivan</surname>
+                <given-names>MA</given-names>
+              </name>
+            </person-group>
+            <article-title>Deep vein thrombosis: diagnosis of a comon clinical problem.</article-title>
+            <source>Ochsner J</source>
+            <year>2002</year>
+            <season>Winter</season>
+            <volume>4</volume>
+            <issue>1</issue>
+            <fpage>14</fpage>
+            <page-range>14-7</page-range>
+            <pub-id pub-id-type="pmid">22822309</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r26">
+          <label>26</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Terslev</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Diamantopoulos</surname>
+                <given-names>AP</given-names>
+              </name>
+              <name>
+                <surname>D&#x000f8;hn</surname>
+                <given-names>UM</given-names>
+              </name>
+              <name>
+                <surname>Schmidt</surname>
+                <given-names>WA</given-names>
+              </name>
+              <name>
+                <surname>Torp-Pedersen</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Settings and artefacts relevant for Doppler ultrasound in large vessel vasculitis.</article-title>
+            <source>Arthritis Res Ther</source>
+            <year>2017</year>
+            <month>Jul</month>
+            <day>20</day>
+            <volume>19</volume>
+            <issue>1</issue>
+            <fpage>167</fpage>
+            <pub-id pub-id-type="pmid">28728567</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r27">
+          <label>27</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Scarvelis</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Wells</surname>
+                <given-names>PS</given-names>
+              </name>
+            </person-group>
+            <article-title>Diagnosis and treatment of deep-vein thrombosis.</article-title>
+            <source>CMAJ</source>
+            <year>2006</year>
+            <month>Oct</month>
+            <day>24</day>
+            <volume>175</volume>
+            <issue>9</issue>
+            <fpage>1087</fpage>
+            <page-range>1087-92</page-range>
+            <pub-id pub-id-type="pmid">17060659</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r28">
+          <label>28</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Okumu&#x0015f;</surname>
+                <given-names>&#x000d6;</given-names>
+              </name>
+              <name>
+                <surname>D&#x000f6;nmez</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Pekiner</surname>
+                <given-names>FN</given-names>
+              </name>
+            </person-group>
+            <article-title>Ultrasonographic Appearances of Cervical Lymph Nodes in Healthy Turkish Adults Subpopulation: Preliminary Study.</article-title>
+            <source>Open Dent J</source>
+            <year>2017</year>
+            <volume>11</volume>
+            <fpage>404</fpage>
+            <page-range>404-412</page-range>
+            <pub-id pub-id-type="pmid">28839488</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r29">
+          <label>29</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ling</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>ZB</given-names>
+              </name>
+              <name>
+                <surname>Xu</surname>
+                <given-names>LH</given-names>
+              </name>
+              <name>
+                <surname>Xu</surname>
+                <given-names>XL</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>GY</given-names>
+              </name>
+              <name>
+                <surname>Shao</surname>
+                <given-names>ZM</given-names>
+              </name>
+            </person-group>
+            <article-title>Malignant calcification is an important unfavorable prognostic factor in primary invasive breast cancer.</article-title>
+            <source>Asia Pac J Clin Oncol</source>
+            <year>2013</year>
+            <month>Jun</month>
+            <volume>9</volume>
+            <issue>2</issue>
+            <fpage>139</fpage>
+            <page-range>139-45</page-range>
+            <pub-id pub-id-type="pmid">22897789</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r30">
+          <label>30</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shi</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Shi</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Ding</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Qin</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Correlation between thyroid nodule calcification morphology on ultrasound and thyroid carcinoma.</article-title>
+            <source>J Int Med Res</source>
+            <year>2012</year>
+            <volume>40</volume>
+            <issue>1</issue>
+            <fpage>350</fpage>
+            <page-range>350-7</page-range>
+            <pub-id pub-id-type="pmid">22429375</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128653.r31">
+          <label>31</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Stanley</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Wajanga</surname>
+                <given-names>BM</given-names>
+              </name>
+              <name>
+                <surname>Jaka</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Purcell</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Byrne</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Williams</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Rypien</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Sharpe</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Laws</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Faustine</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Leeme</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Mwabutwa</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Peck</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Stephens</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Kaminstein</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>The Impact of Systematic Point-of-Care Ultrasound on Management of Patients in a Resource-Limited Setting.</article-title>
+            <source>Am J Trop Med Hyg</source>
+            <year>2017</year>
+            <month>Feb</month>
+            <day>08</day>
+            <volume>96</volume>
+            <issue>2</issue>
+            <fpage>488</fpage>
+            <page-range>488-492</page-range>
+            <pub-id pub-id-type="pmid">27994100</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

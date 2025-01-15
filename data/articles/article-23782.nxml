@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-23782" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Isoflurane</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Hawkley</surname>
+            <given-names>Tyson F.</given-names>
+          </name>
+          <aff>Brooke Army Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Preston</surname>
+            <given-names>Matthew</given-names>
+          </name>
+          <aff>University Hospital of the West Indies</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Maani</surname>
+            <given-names>Christopher V.</given-names>
+          </name>
+          <aff>US Army; USUHS; BAMC; UTHSCSA; UIW</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Tyson Hawkley declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Matthew Preston declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Christopher Maani declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>8</day>
+          <month>8</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-23782.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p content-type="pubmed-excerpt">Isoflurane is a volatile anesthetic approved by the Federal Drug Administration (FDA) for the induction and maintenance of general anesthesia. Like most volatile anesthetics, isoflurane is a halogenated ether compound that is a structural isomer to its predecessor, enflurane and has been approved for use in the United States since 1979. Unlike enflurane, isoflurane is a non-flammable volatile anesthetic but carries a strong, pungent odor that makes it difficult to use for inhalational induction of general anesthesia. This activity covers isoflurane, including mechanism of action, pharmacology, adverse event profiles, eligible patient populations, monitoring, and highlights the role of the interprofessional team in the management of anesthesia with isoflurane.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Identify the mechanism of action of isoflurane.</p></list-item><list-item><p>Review the importance of minimum alveolar concentration when using isoflurane for anesthesia.</p></list-item><list-item><p>Explain the contraindication to isoflurane use in anesthesia.</p></list-item><list-item><p>Outline the importance of collaboration and communication among interprofessional team members to improve outcomes and efficacy for patients receiving anesthesia with isoflurane.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=23782&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=23782">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-23782.s2" sec-type="Indications">
+        <title>Indications</title>
+        <p>Isoflurane is a volatile anesthetic approved by the Federal Drug Administration (FDA) for the induction and maintenance of general anesthesia.&#x000a0;Like most volatile anesthetics, isoflurane is a halogenated ether compound that is a structural isomer to its predecessor,&#x000a0;enflurane and has been approved for use in&#x000a0;the United States since 1979. Unlike enflurane, isoflurane is a non-flammable volatile anesthetic but carries a strong, pungent odor that makes it difficult to use for inhalational induction of general anesthesia.</p>
+      </sec>
+      <sec id="article-23782.s3" sec-type="Mechanism of Action">
+        <title>Mechanism of Action</title>
+        <p>Induction and maintenance of general anesthesia&#x000a0;are&#x000a0;achieved through various sites of action. The most likely of these sites include inhibition of neurotransmitter-gated ion channels such as GABA, glycine, and N-methyl-d-aspartate (NMDA) receptors in the central nervous system (CNS).<xref ref-type="bibr" rid="article-23782.r1">[1]</xref>&#x000a0;Inhibition of these receptors helps to produce the amnesia and sedation needed for adequate surgical conditions. Volatile anesthetics in general&#x000a0;also have sites of action within the spinal cord that contribute to skeletal muscle relaxation through inhibition of NMDA-type glutamate and glycine receptors.</p>
+        <p>Other sites of action have organ system-specific effects. With regards to cardiac function, isoflurane has minimal impact on left ventricular function but does cause a dose-dependent decrease in systemic vascular resistance due to mild beta-adrenergic stimulation. This would lead to decreased cardiac preload and, in turn, decreased cardiac output, but a rise in heart rate mitigates the decrease in cardiac output. In addition to decreasing systemic vascular resistance, it also causes coronary dilation. This could theoretically lead to a coronary steal phenomenon leading to diversion of blood away from a fixed stenotic lesion. This has largely&#x000a0;been overshadowed by isoflurane's cardioprotective effect, which occurs through ischemic preconditioning.<xref ref-type="bibr" rid="article-23782.r2">[2]</xref>&#x000a0;This helps in reducing the degree of&#x000a0;ischemia and reperfusion injury to the heart.</p>
+        <p>Isoflurane also affects the respiratory system by causing a large decrease in tidal volumes with a minimal increase in respiratory rate leading to an overall decrease in minute ventilation. The decrease in minute ventilation causes an increased PaCO2.</p>
+        <p>At concentrations greater than 1 MAC, isoflurane causes an increase in cerebral blood flow and intracranial pressure. Although blood flow is increased, the cerebral metabolic rate is decreased, and concentrations of 2 MAC can produce an electrically silent electroencephalogram.</p>
+        <p>Isoflurane also produces a dose-dependent decrease in renal and hepatic blood flow with no clinical effect on renal or hepatic function.<xref ref-type="bibr" rid="article-23782.r3">[3]</xref></p>
+      </sec>
+      <sec id="article-23782.s4" sec-type="Administration">
+        <title>Administration</title>
+        <p>Administration of volatile anesthetics, including isoflurane, is based on each agent&#x02019;s individual minimum alveolar concentration (MAC), which is used as a surrogate for the partial pressure of each agent in the brain. MAC is then defined as the alveolar concentration needed to prevent movement in 50% of patients in response to surgical incision. MAC is based on the agent&#x02019;s partial pressure relative to the atmospheric pressure. At sea level, the MAC of isoflurane is 1.2%, which can otherwise be stated as 1 MAC of isoflurane.</p>
+        <p>MAC is affected by several factors. Factors that increase MAC include young age, chronic alcohol abuse, and hypernatremia. Factors that decrease MAC include old age, hypothermia and hyperthermia, acute intoxication, and most intravenous anesthetics, including opioids, benzodiazepines, dexmedetomidine, and ketamine. The most impressive of all these factors is the effect of age, which causes a 6% decrease in MAC per decade of age above the age of 40.<xref ref-type="bibr" rid="article-23782.r4">[4]</xref></p>
+        <p>Isoflurane is administered via a specifically designed variable bypass vaporizer. This vaporizer has been calibrated to deliver a set percentage of gas based on the individual volatile&#x02019;s vapor pressure over a broad range of flow rates and temperatures. Vapor pressure is defined as the pressure exerted by a vapor that&#x000a0;is in thermodynamic equilibrium with its condensed phase, in the case of volatile anesthetics, the liquid phase, at a given&#x000a0;temperature in a closed system. It can also be thought of the pressure at which a liquid will boil. In the case of isoflurane, which has a vapor pressure of 240 mm Hg, at a normal atmospheric pressure of 760 mm Hg, the resting state is in its liquid form.&#x000a0;If the atmospheric pressure were decreased to 240 mm Hg, the resting state of isoflurane would be as a gas. This is important to recognize because each vaporizer is calibrated to a specific volatile anesthetic, and filling a vaporizer with a different volatile anesthetic will result in inappropriate delivery of the volatile anesthetic. It is worthy to note that isoflurane has a similar vapor pressure to halothane (243 mm Hg). This means that if halothane were placed in the isoflurane vaporizer or vice versa, the difference in the amount delivered would be minimal.<xref ref-type="bibr" rid="article-23782.r5">[5]</xref></p>
+      </sec>
+      <sec id="article-23782.s5" sec-type="Adverse Effects">
+        <title>Adverse Effects</title>
+        <p>Isoflurane should be carefully titrated to the patient&#x02019;s hemodynamics as it can cause precipitous drops in blood pressure due to dose-dependent peripheral vasodilation. Hypovolemic patients may be especially sensitive to these effects. Otherwise, there are no specific adverse effects of isoflurane.</p>
+      </sec>
+      <sec id="article-23782.s6" sec-type="Contraindications">
+        <title>Contraindications</title>
+        <p>All halogenated volatile anesthetics, including isoflurane, are known triggers of malignant hyperthermia in susceptible patients. Any patient with a known or suspected personal or family history of malignant hyperthermia should be considered to be at increased risk of developing malignant hyperthermia.<xref ref-type="bibr" rid="article-23782.r6">[6]</xref> Appropriate precautions should include flushing out the anesthesia machine per manufacturer recommendations and using a total intravenous anesthetic to induce and maintain general anesthesia.</p>
+      </sec>
+      <sec id="article-23782.s7" sec-type="Monitoring">
+        <title>Monitoring</title>
+        <p>There are no specific monitoring parameters for those undergoing general anesthesia with isoflurane compared to other volatile anesthetics.&#x000a0;All patients undergoing general anesthesia should have all basic monitoring devices placed before induction of general anesthesia to include:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Continuous pulse oximetry</p>
+          </list-item>
+          <list-item>
+            <p>Non-invasive blood pressure monitoring</p>
+          </list-item>
+          <list-item>
+            <p>Continuous electrocardiography</p>
+          </list-item>
+          <list-item>
+            <p>Inspired and expired oxygen, carbon dioxide, and volatile anesthetic monitoring</p>
+          </list-item>
+          <list-item>
+            <p>Airway pressure</p>
+          </list-item>
+          <list-item>
+            <p>Peripheral nerve stimulation (if neuromuscular blocking drugs are used)</p>
+          </list-item>
+          <list-item>
+            <p>Body temperature</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-23782.s8" sec-type="Toxicity">
+        <title>Toxicity</title>
+        <p>Isoflurane is metabolized to trifluoroacetic acid, which increases concern for renal impairment.<xref ref-type="bibr" rid="article-23782.r7">[7]</xref> Although, it has been shown that fluoride fluid levels may rise as much as 50 micromol/L without evidence of postoperative renal dysfunction.</p>
+        <p>There has also been increased concern for neurotoxicity, especially in the developing brain. These effects have been seen in animal models, where it has been demonstrated that both intravenous and inhalational anesthesia promote neuronal apoptosis.<xref ref-type="bibr" rid="article-23782.r8">[8]</xref>&#x000a0;Animal studies have also found some&#x000a0;evidence of learning deficiencies and behavioral changes after undergoing anesthesia with intravenous or inhalational agents. It is hard to translate these effects from animals to humans due to different biological systems and the higher doses needed by animal species to produce the same anesthetic effect in human subjects. This has led to further investigations into the known neuroprotective and neurotoxic effects of volatile anesthetics.<xref ref-type="bibr" rid="article-23782.r9">[9]</xref></p>
+      </sec>
+      <sec id="article-23782.s9" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Isoflurane should only&#x000a0;be administered&#x000a0;by qualified health professionals&#x000a0;who have been trained in managing a patient under general anesthesia. Communication between the surgeon and the anesthesia provider is essential to time the emergence of the patient from general anesthesia&#x000a0;appropriately. This is due to isoflurane's increased blood solubility coefficient leading to increased times for both induction of and emergence from general anesthesia. Interprofessional teamwork is a large part of patient safety in the operating room, and good communication will improve operating room efficiency and help increase patient safety.<xref ref-type="bibr" rid="article-23782.r10">[10]</xref>&#x000a0;[Level&#x000a0;5]</p>
+      </sec>
+      <sec id="article-23782.s10">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=23782&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=23782">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/23782/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=23782">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-23782.s11">
+        <title>References</title>
+        <ref id="article-23782.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jones</surname>
+                <given-names>MV</given-names>
+              </name>
+              <name>
+                <surname>Brooks</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Harrison</surname>
+                <given-names>NL</given-names>
+              </name>
+            </person-group>
+            <article-title>Enhancement of gamma-aminobutyric acid-activated Cl- currents in cultured rat hippocampal neurones by three volatile anaesthetics.</article-title>
+            <source>J Physiol</source>
+            <year>1992</year>
+            <month>Apr</month>
+            <volume>449</volume>
+            <fpage>279</fpage>
+            <page-range>279-93</page-range>
+            <pub-id pub-id-type="pmid">1326046</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23782.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Van Allen</surname>
+                <given-names>NR</given-names>
+              </name>
+              <name>
+                <surname>Krafft</surname>
+                <given-names>PR</given-names>
+              </name>
+              <name>
+                <surname>Leitzke</surname>
+                <given-names>AS</given-names>
+              </name>
+              <name>
+                <surname>Applegate</surname>
+                <given-names>RL</given-names>
+              </name>
+              <name>
+                <surname>Tang</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>JH</given-names>
+              </name>
+            </person-group>
+            <article-title>The role of Volatile Anesthetics in Cardioprotection: a systematic review.</article-title>
+            <source>Med Gas Res</source>
+            <year>2012</year>
+            <month>Aug</month>
+            <day>28</day>
+            <volume>2</volume>
+            <issue>1</issue>
+            <fpage>22</fpage>
+            <pub-id pub-id-type="pmid">22929111</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23782.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ong Sio</surname>
+                <given-names>LCL</given-names>
+              </name>
+              <name>
+                <surname>Dela Cruz</surname>
+                <given-names>RGC</given-names>
+              </name>
+              <name>
+                <surname>Bautista</surname>
+                <given-names>AF</given-names>
+              </name>
+            </person-group>
+            <article-title>A comparison of renal responses to sevoflurane and isoflurane in patients undergoing donor nephrectomy: a randomized controlled trial.</article-title>
+            <source>Med Gas Res</source>
+            <year>2017</year>
+            <season>Jan-Mar</season>
+            <volume>7</volume>
+            <issue>1</issue>
+            <fpage>19</fpage>
+            <page-range>19-27</page-range>
+            <pub-id pub-id-type="pmid">28480028</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23782.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Nickalls</surname>
+                <given-names>RW</given-names>
+              </name>
+              <name>
+                <surname>Mapleson</surname>
+                <given-names>WW</given-names>
+              </name>
+            </person-group>
+            <article-title>Age-related iso-MAC charts for isoflurane, sevoflurane and desflurane in man.</article-title>
+            <source>Br J Anaesth</source>
+            <year>2003</year>
+            <month>Aug</month>
+            <volume>91</volume>
+            <issue>2</issue>
+            <fpage>170</fpage>
+            <page-range>170-4</page-range>
+            <pub-id pub-id-type="pmid">12878613</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23782.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ambrisko</surname>
+                <given-names>TD</given-names>
+              </name>
+              <name>
+                <surname>Klide</surname>
+                <given-names>AM</given-names>
+              </name>
+            </person-group>
+            <article-title>Accuracy of isoflurane, halothane, and sevoflurane vaporizers during high oxygen flow and at maximum vaporizer dial setting.</article-title>
+            <source>Am J Vet Res</source>
+            <year>2011</year>
+            <month>Jun</month>
+            <volume>72</volume>
+            <issue>6</issue>
+            <fpage>751</fpage>
+            <page-range>751-6</page-range>
+            <pub-id pub-id-type="pmid">21627520</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23782.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Rosenberg</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Pollock</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Schiemann</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Bulger</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Stowell</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Malignant hyperthermia: a review.</article-title>
+            <source>Orphanet J Rare Dis</source>
+            <year>2015</year>
+            <month>Aug</month>
+            <day>04</day>
+            <volume>10</volume>
+            <fpage>93</fpage>
+            <pub-id pub-id-type="pmid">26238698</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23782.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kharasch</surname>
+                <given-names>ED</given-names>
+              </name>
+              <name>
+                <surname>Hankins</surname>
+                <given-names>DC</given-names>
+              </name>
+              <name>
+                <surname>Cox</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Clinical isoflurane metabolism by cytochrome P450 2E1.</article-title>
+            <source>Anesthesiology</source>
+            <year>1999</year>
+            <month>Mar</month>
+            <volume>90</volume>
+            <issue>3</issue>
+            <fpage>766</fpage>
+            <page-range>766-71</page-range>
+            <pub-id pub-id-type="pmid">10078678</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23782.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Orser</surname>
+                <given-names>BA</given-names>
+              </name>
+              <name>
+                <surname>Suresh</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Evers</surname>
+                <given-names>AS</given-names>
+              </name>
+            </person-group>
+            <article-title>SmartTots Update Regarding Anesthetic Neurotoxicity in the Developing Brain.</article-title>
+            <source>Anesth Analg</source>
+            <year>2018</year>
+            <month>Apr</month>
+            <volume>126</volume>
+            <issue>4</issue>
+            <fpage>1393</fpage>
+            <page-range>1393-1396</page-range>
+            <pub-id pub-id-type="pmid">29401076</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23782.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Xiao</surname>
+                <given-names>XL</given-names>
+              </name>
+              <name>
+                <surname>Wu</surname>
+                <given-names>JT</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>HZ</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>YD</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>JQ</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>LF</given-names>
+              </name>
+              <name>
+                <surname>Yu-Chen</surname>
+              </name>
+              <name>
+                <surname>Min-Li</surname>
+              </name>
+              <name>
+                <surname>Yang</surname>
+                <given-names>PB</given-names>
+              </name>
+              <name>
+                <surname>Wu</surname>
+                <given-names>XL</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>JX</given-names>
+              </name>
+            </person-group>
+            <article-title>The neurotoxic effect of isoflurane on age-defined neurons generated from tertiary dentate matrix in mice.</article-title>
+            <source>Brain Behav</source>
+            <year>2021</year>
+            <month>Jan</month>
+            <volume>11</volume>
+            <issue>1</issue>
+            <fpage>e01949</fpage>
+            <pub-id pub-id-type="pmid">33201600</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23782.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sexton</surname>
+                <given-names>JB</given-names>
+              </name>
+              <name>
+                <surname>Makary</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Tersigni</surname>
+                <given-names>AR</given-names>
+              </name>
+              <name>
+                <surname>Pryor</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Hendrich</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Thomas</surname>
+                <given-names>EJ</given-names>
+              </name>
+              <name>
+                <surname>Holzmueller</surname>
+                <given-names>CG</given-names>
+              </name>
+              <name>
+                <surname>Knight</surname>
+                <given-names>AP</given-names>
+              </name>
+              <name>
+                <surname>Wu</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Pronovost</surname>
+                <given-names>PJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Teamwork in the operating room: frontline perspectives among hospitals and operating room personnel.</article-title>
+            <source>Anesthesiology</source>
+            <year>2006</year>
+            <month>Nov</month>
+            <volume>105</volume>
+            <issue>5</issue>
+            <fpage>877</fpage>
+            <page-range>877-84</page-range>
+            <pub-id pub-id-type="pmid">17065879</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

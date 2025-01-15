@@ -1,0 +1,2430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-132418" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Nipah Virus</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Rathish</surname>
+            <given-names>Balram</given-names>
+          </name>
+          <aff>Guy's and St Thomas' NHS Foundation Trust</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Vaishnani</surname>
+            <given-names>Kushal</given-names>
+          </name>
+          <aff>Louisiana State University Health Sciences Center</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Balram Rathish declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Kushal Vaishnani declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>24</day>
+          <month>4</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-132418.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Nipah virus infection is caused by the Nipah virus (NiV) and occurs as outbreaks in South and Southeast Asia. It is a zoonotic disease with bats being the reservoir host. Transmission can occur from bat to humans or through pigs which are the intermediate hosts. NiV presents as two distinct clinical syndromes as encephalitis or with predominantly respiratory involvement based on the strain of the virus and has a high mortality rate. This activity reviews the clinical evaluation of Nipah virus infection and explains the role of an inter-professional team in coordinating the care of this disease.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Review how Nipah virus infection is acquired.</p></list-item><list-item><p>Describe the history and physical exam of a patient with Nipah virus infection.</p></list-item><list-item><p>Summarize the treatment of Nipah virus infection.</p></list-item><list-item><p>Explain modalities to improve the care coordination between inter-professional team members to improve outcomes for patients affected by Nipah virus infection.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=132418&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=132418">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-132418.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Nipah virus (NiV) is an RNA virus that belongs to the family of Paramyxoviridae and Henipavirus genus, which also consists of Hendra virus (HeV) as well as the Cedar virus. NiV was first identified in Malaysia in 1998 and has since caused numerous outbreaks in and around South and Southeast Asia. NiV is a WHO priority pathogen due to its propensity for causing outbreaks.<xref ref-type="bibr" rid="article-132418.r1">[1]</xref>&#x000a0;</p>
+        <p>NiV is a zoonotic disease, with the reservoir of NiV being the&#x000a0;<italic toggle="yes">Pteropus&#x000a0;</italic>fruit bat from which spillover likely happened to pigs and subsequently humans. NiV is considered a Biological safety level 4 (BSL 4) pathogen due to the unavailability of effective treatment or vaccination against it.<xref ref-type="bibr" rid="article-132418.r2">[2]</xref>&#x000a0;As it is a zoonotic disease, a&#x000a0;One Health approach involving&#x000a0;humans, animals, and the environment is necessary&#x000a0;to prevent&#x000a0;further spillovers.</p>
+      </sec>
+      <sec id="article-132418.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p>Nipah virus is a paramyxovirus belonging to the Henipavirus genus, the Paramyxovirinae subfamily, the Paramyxoviridae family, and the Mononegavirales order. NiV is a negative sense, single-stranded, enveloped RNA virus. The reservoir host of NiV is the&#x000a0;<italic toggle="yes">Pteropus</italic>&#x000a0;fruit bat, and NiV has a half-life of 18 hours in the urine of the bats.<xref ref-type="bibr" rid="article-132418.r3">[3]</xref></p>
+        <p>NiV transmission happens through three transmission pathways, including the consumption of contaminated foods, contact with infected human or animal body fluids, and droplet or aerosol exposure. The risk factors for acquiring the infection include close proximity with an infected person. Contaminated food can include fruits and date palm sap contaminated by the bat&#x02019;s bodily fluids.</p>
+      </sec>
+      <sec id="article-132418.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p>The first case of NiV infection was reported near the city of Ipoh in Perak, Malaysia, in 1998.<xref ref-type="bibr" rid="article-132418.r2">[2]</xref>&#x000a0;In March 1999, NiV was isolated for the first time from a patient&#x02019;s cerebrospinal fluid (CSF) from the Sungai Nipah village, thereby obtaining its name from the village.<xref ref-type="bibr" rid="article-132418.r1">[1]</xref>&#x000a0;In 1999, another outbreak involving 11 cases and one death occurred in Singapore.<xref ref-type="bibr" rid="article-132418.r4">[4]</xref></p>
+        <p>In Bangladesh, the epidemiology of NiV differed, starting with an outbreak of encephalitis in Meherpur in 2001. The primary difference included the absence of pigs being involved in the outbreak, as pig farming was not being practiced in Bangladesh, which is a predominantly Muslim country. Following this, multiple seasonal outbreaks have occurred, each of which is thought to be separate spillover events.<xref ref-type="bibr" rid="article-132418.r2">[2]</xref>&#x000a0;</p>
+        <p>In 2001, an outbreak of encephalitis was reported in Siliguri, West Bengal, India, which is geographically adjacent to Bangladesh. This is now retrospectively thought to have been an outbreak of Nipah.<xref ref-type="bibr" rid="article-132418.r5">[5]</xref>&#x000a0;Hence, in Bangladesh and the Siliguri outbreak, the consumption of fresh date palm sap is thought to be responsible for a direct spillover of NiV from bat to humans.<xref ref-type="bibr" rid="article-132418.r6">[6]</xref></p>
+        <p>In 2014, an outbreak was reported in the Philippines where NiV transmission occurred by exposure to infected horses, similar to the Hendra virus infections in Australia.<xref ref-type="bibr" rid="article-132418.r2">[2]</xref><xref ref-type="bibr" rid="article-132418.r7">[7]</xref>&#x000a0;In 2018 and 2019, the southern state of Kerala in India reported two discrete NiV outbreaks where fruit bats were once again implicated in the spillover events.<xref ref-type="bibr" rid="article-132418.r8">[8]</xref><xref ref-type="bibr" rid="article-132418.r9">[9]</xref></p>
+      </sec>
+      <sec id="article-132418.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>Flying foxes (<italic toggle="yes">Pteropus giganteus)</italic> are the reservoirs of the Nipah virus in Bangladesh and India.<xref ref-type="bibr" rid="article-132418.r10">[10]</xref><xref ref-type="bibr" rid="article-132418.r11">[11]</xref>&#x000a0;<italic toggle="yes">Pteropus</italic> species of bats in other countries (Cambodia, Thailand, Indonesia, and Madagascar) have anti&#x02013;Nipah virus antibodies.<xref ref-type="bibr" rid="article-132418.r12">[12]</xref><xref ref-type="bibr" rid="article-132418.r13">[13]</xref><xref ref-type="bibr" rid="article-132418.r14">[14]</xref><xref ref-type="bibr" rid="article-132418.r15">[15]</xref>&#x000a0;Rarely non-<italic toggle="yes">Pteropus</italic> species of bats can be reservoirs.<xref ref-type="bibr" rid="article-132418.r13">[13]</xref><xref ref-type="bibr" rid="article-132418.r16">[16]</xref><xref ref-type="bibr" rid="article-132418.r17">[17]</xref>&#x000a0;Pigs acted as intermediate hosts of the Nipah virus during the initial outbreak in Malaysia and Singapore and horses during the outbreak in the Philippines.<xref ref-type="bibr" rid="article-132418.r18">[18]</xref>&#x000a0;</p>
+        <p>Transmission of the Nipah virus can occur from direct contact with infected animals (bats, pigs, horses) or their body fluids (blood, urine, or saliva), consuming contaminated food products (palm sap or fruit), or close contact with an infected person or their body fluids (nasal or respiratory droplets, urine, or blood).</p>
+        <p>NiV enters through the oro-nasal route into humans and other hosts. High concentrations of antigen in the lymphoid and respiratory tissue suggest that these are the probable sites of initial replication. NiV infects the epithelium of the respiratory tract and induces inflammatory cytokines, leading to the development of an acute respiratory distress syndrome-like disease.<xref ref-type="bibr" rid="article-132418.r19">[19]</xref>&#x000a0;Other than the lungs, the kidneys, spleen, and the brain may be involved, leading to multiple organ failure.<xref ref-type="bibr" rid="article-132418.r3">[3]</xref></p>
+      </sec>
+      <sec id="article-132418.s6" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>The incubation period ranges between 4 days to 2 weeks.<xref ref-type="bibr" rid="article-132418.r20">[20]</xref>&#x000a0;The presentation may be encephalitis, respiratory involvement, or asymptomatic infection in a small proportion of patients.&#x000a0;A difference is noted between the clinical features between the Malaysian and Indian variants of NiV, with the respiratory illness being encountered in almost 70% of patients in India and Bangladesh. Still, no significant respiratory involvement was noted in Malaysia.<xref ref-type="bibr" rid="article-132418.r21">[21]</xref><xref ref-type="bibr" rid="article-132418.r5">[5]</xref></p>
+        <p>Symptoms start with fever, headache, dizziness, vomiting. This is followed by rapidly progressive encephalitis resulting in drowsiness, disorientation, confusion, and coma. Among CNS symptoms, decreased level of consciousness, brainstem dysfunction, myoclonus, areflexia, hypotonia, cerebellar signs are commonly observed. In fulminant illness, multiorgan dysfunction, gastrointestinal bleeding, and renal failure are seen. 69% of patients had respiratory difficulty in outbreaks in Bangladesh, and some cases led to acute respiratory distress syndrome.<xref ref-type="bibr" rid="article-132418.r20">[20]</xref><xref ref-type="bibr" rid="article-132418.r22">[22]</xref><xref ref-type="bibr" rid="article-132418.r23">[23]</xref><xref ref-type="bibr" rid="article-132418.r21">[21]</xref>&#x000a0;</p>
+        <p>Patients also have long-term neurologic effects from encephalitis, including fatigue, encephalopathy, ocular motor palsies, cervical dystonia, focal weakness, and facial paralysis.&#x000a0;In a small proportion of patients, the onset of the illness may be delayed, and there may be relapses after recovery from the acute infection.<xref ref-type="bibr" rid="article-132418.r24">[24]</xref></p>
+      </sec>
+      <sec id="article-132418.s7" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>Leukopenia, thrombocytopenia, and elevated levels of alanine aminotransferase and aspartate aminotransferase are commonly seen. CSF analysis in most patients showed elevated WBC count or protein level, or both.<xref ref-type="bibr" rid="article-132418.r20">[20]</xref>&#x000a0;In acute Nipah virus infection, virus-specific antibodies were present in the serum in more than 70% of samples but in less than one-third of CSF samples. The presence of the virus in CSF culture was strongly associated with mortality.<xref ref-type="bibr" rid="article-132418.r25">[25]</xref>&#x000a0;EEG in encephalitis shows bilateral temporal periodic complexes of sharp and slow waves occurring every 1 or 2 seconds.<xref ref-type="bibr" rid="article-132418.r26">[26]</xref></p>
+        <p>Typical MRI findings were multiple 2 to 7 mm lesions best visualized in the T2-weighted images in the subcortical &#x00026; deep white matter of the cerebral hemispheres, periventricular areas, and the corpus callosum, without associated cerebral edema or mass effect. Few patients have leptomeningeal enhancement or parenchymal lesion enhancement.<xref ref-type="bibr" rid="article-132418.r20">[20]</xref><xref ref-type="bibr" rid="article-132418.r27">[27]</xref><xref ref-type="bibr" rid="article-132418.r28">[28]</xref>&#x000a0;Nipah virus can be detected from urine and respiratory secretions by culture and PCR. Real-time RT-PCR is more sensitive than conventional assay.<xref ref-type="bibr" rid="article-132418.r29">[29]</xref><xref ref-type="bibr" rid="article-132418.r30">[30]</xref><xref ref-type="bibr" rid="article-132418.r31">[31]</xref><xref ref-type="bibr" rid="article-132418.r32">[32]</xref><xref ref-type="bibr" rid="article-132418.r33">[33]</xref>&#x000a0;Serology is not helpful for acute infections but mostly useful for epidemiologic studies.<xref ref-type="bibr" rid="article-132418.r34">[34]</xref></p>
+      </sec>
+      <sec id="article-132418.s8" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>Patients with NiV infection should be isolated with infection control practices in place. Treatment is primarily supportive. Ribavirin is an antiviral that is effective against other paramyxoviruses like respiratory syncytial virus. Reports on its efficacy are unclear, with conflicting reports showing a reduction in mortality and no effect. However, the Indian National Centre for Disease Control recommends the use of ribavirin in Nipah virus infections.<xref ref-type="bibr" rid="article-132418.r20">[20]</xref><xref ref-type="bibr" rid="article-132418.r1">[1]</xref><xref ref-type="bibr" rid="article-132418.r35">[35]</xref>&#x000a0;Acyclovir, chloroquine, and ephrin-B2 are under review as potential therapeutic options.<xref ref-type="bibr" rid="article-132418.r4">[4]</xref><xref ref-type="bibr" rid="article-132418.r36">[36]</xref><xref ref-type="bibr" rid="article-132418.r37">[37]</xref>&#x000a0;</p>
+        <p>Favipiravir, which is licensed for the treatment of influenza in Japan, was shown to be effective in hamsters.<xref ref-type="bibr" rid="article-132418.r38">[38]</xref>&#x000a0;The human monoclonal antibody has been shown to be useful in ferrets and non-human primates.<xref ref-type="bibr" rid="article-132418.r39">[39]</xref><xref ref-type="bibr" rid="article-132418.r40">[40]</xref>&#x000a0;Patients should be discharged only after a negative RT-PCR is performed on a throat swab. Discharged patients remain in isolation for 21 days following confirmation of the infection.<xref ref-type="bibr" rid="article-132418.r1">[1]</xref></p>
+      </sec>
+      <sec id="article-132418.s9" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <p>Differential diagnosis involves any disease presenting with fever and encephalitis, and/or ARDS, but epidemiology, travel history, and ongoing outbreaks help differentiate the diagnosis. The common differentials in NiV infection can include:<xref ref-type="bibr" rid="article-132418.r41">[41]</xref></p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Japanese encephalitis</p>
+          </list-item>
+          <list-item>
+            <p>Measles</p>
+          </list-item>
+          <list-item>
+            <p>Rabies</p>
+          </list-item>
+          <list-item>
+            <p>Dengue encephalitis</p>
+          </list-item>
+          <list-item>
+            <p>Cerebral malaria</p>
+          </list-item>
+          <list-item>
+            <p>Scrub typhus</p>
+          </list-item>
+          <list-item>
+            <p>Leptospirosis</p>
+          </list-item>
+          <list-item>
+            <p>Herpes encephalitis</p>
+          </list-item>
+          <list-item>
+            <p>Bacterial meningitis</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-132418.s10" sec-type="Prognosis">
+        <title>Prognosis</title>
+        <p>The case fatality rates can range between 40% and 100%. Poor prognostic factors include old age and severe brain-stem involvement.<xref ref-type="bibr" rid="article-132418.r41">[41]</xref>&#x000a0;Prognosis and case fatality rates also depend on the strain of the virus, with the Malaysian variant showing lower rates.<xref ref-type="bibr" rid="article-132418.r42">[42]</xref></p>
+      </sec>
+      <sec id="article-132418.s11" sec-type="Complications">
+        <title>Complications</title>
+        <p>There may be residual neurological deficits in survivors, including behavioral change, cervical dystonia, ocular motor palsies, weakness, and facial paralysis. In a small proportion of patients, there may be relapses after recovery from the acute infection.<xref ref-type="bibr" rid="article-132418.r24">[24]</xref></p>
+      </sec>
+      <sec id="article-132418.s12" sec-type="Deterrence and Patient Education">
+        <title>Deterrence and Patient Education</title>
+        <p>Patient education is of extreme importance in preventing the disease, especially in the context of the lack of an effective treatment. Patient education should focus on efforts to prevent the contamination or consumption of date palm sap. The WHO also recommends avoiding exposure to bats and pigs and avoiding exposure to bat-bitten fruits or raw date palm sap. Protective clothing is recommended for people involved in the slaughter of animals. Human-to-human transmission during an outbreak can be contained by limiting exposure and the use of personal protective equipment. Contact tracing and quarantining potential contacts form a large part of an outbreak response.<xref ref-type="bibr" rid="article-132418.r1">[1]</xref><xref ref-type="bibr" rid="article-132418.r9">[9]</xref><xref ref-type="bibr" rid="article-132418.r43">[43]</xref></p>
+      </sec>
+      <sec id="article-132418.s13" sec-type="Pearls and Other Issues">
+        <title>Pearls and Other Issues</title>
+        <p>Nipah virus infection is a highly lethal infection that adequate preventive measures can prevent. The diagnosis may be made based on RT-PCR in the clinical context of encephalitis or an ARDS-like picture. There are no effective treatment options available at present. Nipah virus has pandemic potential, and further research is warranted into its epidemiology and therapeutic options.</p>
+      </sec>
+      <sec id="article-132418.s14" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>The management of Nipah virus infection is best accomplished via an inter-professional team approach that includes infectious disease specialists, clinicians, mid-level practitioners, and nursing staff. The infection has no cure, and treatment options are limited. The patient needs consultations from numerous specialists. Since no effective treatment exists, prevention is critical. This can be achieved by preventing exposure to bats, pigs, and bat-bitten fruits in addition to avoiding consumption of date palm sap. In the context of an outbreak, adequate infection control practices are necessary to prevent human-to-human transmission. The outcome for patients with NiV infection is guarded. In addition to infectious diseases clinicians, the involvement of a neurologist and subsequently a physiatrist may be required due to the residual neuropsychiatric deficits following recovery. [Level 4]</p>
+      </sec>
+      <sec id="article-132418.s15">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=132418&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=132418">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/infectious-disease/nipah-virus/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=132418">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/132418/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=132418">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-132418.s16">
+        <title>References</title>
+        <ref id="article-132418.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Aditi</surname>
+              </name>
+              <name>
+                <surname>Shariff</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Nipah virus infection: A review.</article-title>
+            <source>Epidemiol Infect</source>
+            <year>2019</year>
+            <month>Jan</month>
+            <volume>147</volume>
+            <fpage>e95</fpage>
+            <pub-id pub-id-type="pmid">30869046</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ang</surname>
+                <given-names>BSP</given-names>
+              </name>
+              <name>
+                <surname>Lim</surname>
+                <given-names>TCC</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>Nipah Virus Infection.</article-title>
+            <source>J Clin Microbiol</source>
+            <year>2018</year>
+            <month>Jun</month>
+            <volume>56</volume>
+            <issue>6</issue>
+            <pub-id pub-id-type="pmid">29643201</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Singh</surname>
+                <given-names>RK</given-names>
+              </name>
+              <name>
+                <surname>Dhama</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Chakraborty</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Tiwari</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Natesan</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Khandia</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Munjal</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Vora</surname>
+                <given-names>KS</given-names>
+              </name>
+              <name>
+                <surname>Latheef</surname>
+                <given-names>SK</given-names>
+              </name>
+              <name>
+                <surname>Karthik</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Singh Malik</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Singh</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Chaicumpa</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Mourya</surname>
+                <given-names>DT</given-names>
+              </name>
+            </person-group>
+            <article-title>Nipah virus: epidemiology, pathology, immunobiology and advances in diagnosis, vaccine designing and control strategies - a comprehensive review.</article-title>
+            <source>Vet Q</source>
+            <year>2019</year>
+            <month>Dec</month>
+            <volume>39</volume>
+            <issue>1</issue>
+            <fpage>26</fpage>
+            <page-range>26-55</page-range>
+            <pub-id pub-id-type="pmid">31006350</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Paton</surname>
+                <given-names>NI</given-names>
+              </name>
+              <name>
+                <surname>Leo</surname>
+                <given-names>YS</given-names>
+              </name>
+              <name>
+                <surname>Zaki</surname>
+                <given-names>SR</given-names>
+              </name>
+              <name>
+                <surname>Auchus</surname>
+                <given-names>AP</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>KE</given-names>
+              </name>
+              <name>
+                <surname>Ling</surname>
+                <given-names>AE</given-names>
+              </name>
+              <name>
+                <surname>Chew</surname>
+                <given-names>SK</given-names>
+              </name>
+              <name>
+                <surname>Ang</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Rollin</surname>
+                <given-names>PE</given-names>
+              </name>
+              <name>
+                <surname>Umapathi</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Sng</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>CC</given-names>
+              </name>
+              <name>
+                <surname>Lim</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Ksiazek</surname>
+                <given-names>TG</given-names>
+              </name>
+            </person-group>
+            <article-title>Outbreak of Nipah-virus infection among abattoir workers in Singapore.</article-title>
+            <source>Lancet</source>
+            <year>1999</year>
+            <month>Oct</month>
+            <day>09</day>
+            <volume>354</volume>
+            <issue>9186</issue>
+            <fpage>1253</fpage>
+            <page-range>1253-6</page-range>
+            <pub-id pub-id-type="pmid">10520634</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chadha</surname>
+                <given-names>MS</given-names>
+              </name>
+              <name>
+                <surname>Comer</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Lowe</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Rota</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Rollin</surname>
+                <given-names>PE</given-names>
+              </name>
+              <name>
+                <surname>Bellini</surname>
+                <given-names>WJ</given-names>
+              </name>
+              <name>
+                <surname>Ksiazek</surname>
+                <given-names>TG</given-names>
+              </name>
+              <name>
+                <surname>Mishra</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Nipah virus-associated encephalitis outbreak, Siliguri, India.</article-title>
+            <source>Emerg Infect Dis</source>
+            <year>2006</year>
+            <month>Feb</month>
+            <volume>12</volume>
+            <issue>2</issue>
+            <fpage>235</fpage>
+            <page-range>235-40</page-range>
+            <pub-id pub-id-type="pmid">16494748</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Islam</surname>
+                <given-names>MS</given-names>
+              </name>
+              <name>
+                <surname>Sazzad</surname>
+                <given-names>HM</given-names>
+              </name>
+              <name>
+                <surname>Satter</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Sultana</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hossain</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Hasan</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Rahman</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Campbell</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Cannon</surname>
+                <given-names>DL</given-names>
+              </name>
+              <name>
+                <surname>Str&#x000f6;her</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>Daszak</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Luby</surname>
+                <given-names>SP</given-names>
+              </name>
+              <name>
+                <surname>Gurley</surname>
+                <given-names>ES</given-names>
+              </name>
+            </person-group>
+            <article-title>Nipah Virus Transmission from Bats to Humans Associated with Drinking Traditional Liquor Made from Date Palm Sap, Bangladesh, 2011-2014.</article-title>
+            <source>Emerg Infect Dis</source>
+            <year>2016</year>
+            <month>Apr</month>
+            <volume>22</volume>
+            <issue>4</issue>
+            <fpage>664</fpage>
+            <page-range>664-70</page-range>
+            <pub-id pub-id-type="pmid">26981928</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tulsiani</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Graham</surname>
+                <given-names>GC</given-names>
+              </name>
+              <name>
+                <surname>Moore</surname>
+                <given-names>PR</given-names>
+              </name>
+              <name>
+                <surname>Jansen</surname>
+                <given-names>CC</given-names>
+              </name>
+              <name>
+                <surname>Van Den Hurk</surname>
+                <given-names>AF</given-names>
+              </name>
+              <name>
+                <surname>Moore</surname>
+                <given-names>FA</given-names>
+              </name>
+              <name>
+                <surname>Simmons</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Craig</surname>
+                <given-names>SB</given-names>
+              </name>
+            </person-group>
+            <article-title>Emerging tropical diseases in Australia. Part 5. Hendra virus.</article-title>
+            <source>Ann Trop Med Parasitol</source>
+            <year>2011</year>
+            <month>Jan</month>
+            <volume>105</volume>
+            <issue>1</issue>
+            <fpage>1</fpage>
+            <page-range>1-11</page-range>
+            <pub-id pub-id-type="pmid">21294944</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Thulaseedaran</surname>
+                <given-names>NK</given-names>
+              </name>
+              <name>
+                <surname>Kumar</surname>
+                <given-names>KGS</given-names>
+              </name>
+              <name>
+                <surname>Kumar</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Geetha</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Jayachandran</surname>
+                <given-names>NV</given-names>
+              </name>
+              <name>
+                <surname>Kamalasanan</surname>
+                <given-names>CG</given-names>
+              </name>
+              <name>
+                <surname>Mathew</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Pv</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>A Case Series on the Recent Nipah Epidemic in Kerala.</article-title>
+            <source>J Assoc Physicians India</source>
+            <year>2018</year>
+            <month>Oct</month>
+            <volume>66</volume>
+            <issue>10</issue>
+            <fpage>63</fpage>
+            <page-range>63-67</page-range>
+            <pub-id pub-id-type="pmid">31317711</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wilson</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Warrier</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Rathish</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Contact tracing: a lesson from the Nipah virus in the time of COVID-19.</article-title>
+            <source>Trop Doct</source>
+            <year>2020</year>
+            <month>Jul</month>
+            <volume>50</volume>
+            <issue>3</issue>
+            <fpage>174</fpage>
+            <page-range>174-175</page-range>
+            <pub-id pub-id-type="pmid">32476600</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hsu</surname>
+                <given-names>VP</given-names>
+              </name>
+              <name>
+                <surname>Hossain</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Parashar</surname>
+                <given-names>UD</given-names>
+              </name>
+              <name>
+                <surname>Ali</surname>
+                <given-names>MM</given-names>
+              </name>
+              <name>
+                <surname>Ksiazek</surname>
+                <given-names>TG</given-names>
+              </name>
+              <name>
+                <surname>Kuzmin</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Niezgoda</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Rupprecht</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Bresee</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Breiman</surname>
+                <given-names>RF</given-names>
+              </name>
+            </person-group>
+            <article-title>Nipah virus encephalitis reemergence, Bangladesh.</article-title>
+            <source>Emerg Infect Dis</source>
+            <year>2004</year>
+            <month>Dec</month>
+            <volume>10</volume>
+            <issue>12</issue>
+            <fpage>2082</fpage>
+            <page-range>2082-7</page-range>
+            <pub-id pub-id-type="pmid">15663842</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Epstein</surname>
+                <given-names>JH</given-names>
+              </name>
+              <name>
+                <surname>Prakash</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Smith</surname>
+                <given-names>CS</given-names>
+              </name>
+              <name>
+                <surname>Daszak</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>McLaughlin</surname>
+                <given-names>AB</given-names>
+              </name>
+              <name>
+                <surname>Meehan</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Field</surname>
+                <given-names>HE</given-names>
+              </name>
+              <name>
+                <surname>Cunningham</surname>
+                <given-names>AA</given-names>
+              </name>
+            </person-group>
+            <article-title>Henipavirus infection in fruit bats (Pteropus giganteus), India.</article-title>
+            <source>Emerg Infect Dis</source>
+            <year>2008</year>
+            <month>Aug</month>
+            <volume>14</volume>
+            <issue>8</issue>
+            <fpage>1309</fpage>
+            <page-range>1309-11</page-range>
+            <pub-id pub-id-type="pmid">18680665</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Reynes</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Counor</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Ong</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Faure</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Seng</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Molia</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Walston</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Georges-Courbot</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Deubel</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Sarthou</surname>
+                <given-names>JL</given-names>
+              </name>
+            </person-group>
+            <article-title>Nipah virus in Lyle's flying foxes, Cambodia.</article-title>
+            <source>Emerg Infect Dis</source>
+            <year>2005</year>
+            <month>Jul</month>
+            <volume>11</volume>
+            <issue>7</issue>
+            <fpage>1042</fpage>
+            <page-range>1042-7</page-range>
+            <pub-id pub-id-type="pmid">16022778</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wacharapluesadee</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Lumlertdacha</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Boongird</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Wanghongsa</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Chanhome</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Rollin</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Stockton</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Rupprecht</surname>
+                <given-names>CE</given-names>
+              </name>
+              <name>
+                <surname>Ksiazek</surname>
+                <given-names>TG</given-names>
+              </name>
+              <name>
+                <surname>Hemachudha</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Bat Nipah virus, Thailand.</article-title>
+            <source>Emerg Infect Dis</source>
+            <year>2005</year>
+            <month>Dec</month>
+            <volume>11</volume>
+            <issue>12</issue>
+            <fpage>1949</fpage>
+            <page-range>1949-51</page-range>
+            <pub-id pub-id-type="pmid">16485487</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sendow</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Field</surname>
+                <given-names>HE</given-names>
+              </name>
+              <name>
+                <surname>Curran</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Darminto</surname>
+              </name>
+              <name>
+                <surname>Morrissy</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Meehan</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Buick</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Daniels</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Henipavirus in Pteropus vampyrus bats, Indonesia.</article-title>
+            <source>Emerg Infect Dis</source>
+            <year>2006</year>
+            <month>Apr</month>
+            <volume>12</volume>
+            <issue>4</issue>
+            <fpage>711</fpage>
+            <page-range>711-2</page-range>
+            <pub-id pub-id-type="pmid">16715584</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Iehl&#x000e9;</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Razafitrimo</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Razainirina</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Andriaholinirina</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Goodman</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Faure</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Georges-Courbot</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Rousset</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Reynes</surname>
+                <given-names>JM</given-names>
+              </name>
+            </person-group>
+            <article-title>Henipavirus and Tioman virus antibodies in pteropodid bats, Madagascar.</article-title>
+            <source>Emerg Infect Dis</source>
+            <year>2007</year>
+            <month>Jan</month>
+            <volume>13</volume>
+            <issue>1</issue>
+            <fpage>159</fpage>
+            <page-range>159-61</page-range>
+            <pub-id pub-id-type="pmid">17370536</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yob</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Field</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Rashdi</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Morrissy</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>van der Heide</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Rota</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>bin Adzhar</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>White</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Daniels</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Jamaluddin</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Ksiazek</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Nipah virus infection in bats (order Chiroptera) in peninsular Malaysia.</article-title>
+            <source>Emerg Infect Dis</source>
+            <year>2001</year>
+            <season>May-Jun</season>
+            <volume>7</volume>
+            <issue>3</issue>
+            <fpage>439</fpage>
+            <page-range>439-41</page-range>
+            <pub-id pub-id-type="pmid">11384522</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hayman</surname>
+                <given-names>DT</given-names>
+              </name>
+              <name>
+                <surname>Suu-Ire</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Breed</surname>
+                <given-names>AC</given-names>
+              </name>
+              <name>
+                <surname>McEachern</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Wood</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Cunningham</surname>
+                <given-names>AA</given-names>
+              </name>
+            </person-group>
+            <article-title>Evidence of henipavirus infection in West African fruit bats.</article-title>
+            <source>PLoS One</source>
+            <year>2008</year>
+            <month>Jul</month>
+            <day>23</day>
+            <volume>3</volume>
+            <issue>7</issue>
+            <fpage>e2739</fpage>
+            <pub-id pub-id-type="pmid">18648649</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ching</surname>
+                <given-names>PK</given-names>
+              </name>
+              <name>
+                <surname>de los Reyes</surname>
+                <given-names>VC</given-names>
+              </name>
+              <name>
+                <surname>Sucaldito</surname>
+                <given-names>MN</given-names>
+              </name>
+              <name>
+                <surname>Tayag</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Columna-Vingno</surname>
+                <given-names>AB</given-names>
+              </name>
+              <name>
+                <surname>Malbas</surname>
+                <given-names>FF</given-names>
+              </name>
+              <name>
+                <surname>Bolo</surname>
+                <given-names>GC</given-names>
+              </name>
+              <name>
+                <surname>Sejvar</surname>
+                <given-names>JJ</given-names>
+              </name>
+              <name>
+                <surname>Eagles</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Playford</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Dueger</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Kaku</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Morikawa</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kuroda</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Marsh</surname>
+                <given-names>GA</given-names>
+              </name>
+              <name>
+                <surname>McCullough</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Foxwell</surname>
+                <given-names>AR</given-names>
+              </name>
+            </person-group>
+            <article-title>Outbreak of henipavirus infection, Philippines, 2014.</article-title>
+            <source>Emerg Infect Dis</source>
+            <year>2015</year>
+            <month>Feb</month>
+            <volume>21</volume>
+            <issue>2</issue>
+            <fpage>328</fpage>
+            <page-range>328-31</page-range>
+            <pub-id pub-id-type="pmid">25626011</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Rockx</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Brining</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Kramer</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Callison</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ebihara</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Mansfield</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Feldmann</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Clinical outcome of henipavirus infection in hamsters is determined by the route and dose of infection.</article-title>
+            <source>J Virol</source>
+            <year>2011</year>
+            <month>Aug</month>
+            <volume>85</volume>
+            <issue>15</issue>
+            <fpage>7658</fpage>
+            <page-range>7658-71</page-range>
+            <pub-id pub-id-type="pmid">21593160</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Goh</surname>
+                <given-names>KJ</given-names>
+              </name>
+              <name>
+                <surname>Tan</surname>
+                <given-names>CT</given-names>
+              </name>
+              <name>
+                <surname>Chew</surname>
+                <given-names>NK</given-names>
+              </name>
+              <name>
+                <surname>Tan</surname>
+                <given-names>PS</given-names>
+              </name>
+              <name>
+                <surname>Kamarulzaman</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Sarji</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>Wong</surname>
+                <given-names>KT</given-names>
+              </name>
+              <name>
+                <surname>Abdullah</surname>
+                <given-names>BJ</given-names>
+              </name>
+              <name>
+                <surname>Chua</surname>
+                <given-names>KB</given-names>
+              </name>
+              <name>
+                <surname>Lam</surname>
+                <given-names>SK</given-names>
+              </name>
+            </person-group>
+            <article-title>Clinical features of Nipah virus encephalitis among pig farmers in Malaysia.</article-title>
+            <source>N Engl J Med</source>
+            <year>2000</year>
+            <month>Apr</month>
+            <day>27</day>
+            <volume>342</volume>
+            <issue>17</issue>
+            <fpage>1229</fpage>
+            <page-range>1229-35</page-range>
+            <pub-id pub-id-type="pmid">10781618</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hossain</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Gurley</surname>
+                <given-names>ES</given-names>
+              </name>
+              <name>
+                <surname>Montgomery</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Bell</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Carroll</surname>
+                <given-names>DS</given-names>
+              </name>
+              <name>
+                <surname>Hsu</surname>
+                <given-names>VP</given-names>
+              </name>
+              <name>
+                <surname>Formenty</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Croisier</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Bertherat</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Faiz</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Azad</surname>
+                <given-names>AK</given-names>
+              </name>
+              <name>
+                <surname>Islam</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Molla</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Ksiazek</surname>
+                <given-names>TG</given-names>
+              </name>
+              <name>
+                <surname>Rota</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Comer</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Rollin</surname>
+                <given-names>PE</given-names>
+              </name>
+              <name>
+                <surname>Luby</surname>
+                <given-names>SP</given-names>
+              </name>
+              <name>
+                <surname>Breiman</surname>
+                <given-names>RF</given-names>
+              </name>
+            </person-group>
+            <article-title>Clinical presentation of nipah virus infection in Bangladesh.</article-title>
+            <source>Clin Infect Dis</source>
+            <year>2008</year>
+            <month>Apr</month>
+            <day>01</day>
+            <volume>46</volume>
+            <issue>7</issue>
+            <fpage>977</fpage>
+            <page-range>977-84</page-range>
+            <pub-id pub-id-type="pmid">18444812</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chong</surname>
+                <given-names>HT</given-names>
+              </name>
+              <name>
+                <surname>Kunjapan</surname>
+                <given-names>SR</given-names>
+              </name>
+              <name>
+                <surname>Thayaparan</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Tong</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Petharunam</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Jusoh</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Tan</surname>
+                <given-names>CT</given-names>
+              </name>
+            </person-group>
+            <article-title>Nipah encephalitis outbreak in Malaysia, clinical features in patients from Seremban.</article-title>
+            <source>Can J Neurol Sci</source>
+            <year>2002</year>
+            <month>Feb</month>
+            <volume>29</volume>
+            <issue>1</issue>
+            <fpage>83</fpage>
+            <page-range>83-7</page-range>
+            <pub-id pub-id-type="pmid">11858542</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lee</surname>
+                <given-names>KE</given-names>
+              </name>
+              <name>
+                <surname>Umapathi</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Tan</surname>
+                <given-names>CB</given-names>
+              </name>
+              <name>
+                <surname>Tjia</surname>
+                <given-names>HT</given-names>
+              </name>
+              <name>
+                <surname>Chua</surname>
+                <given-names>TS</given-names>
+              </name>
+              <name>
+                <surname>Oh</surname>
+                <given-names>HM</given-names>
+              </name>
+              <name>
+                <surname>Fock</surname>
+                <given-names>KM</given-names>
+              </name>
+              <name>
+                <surname>Kurup</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Das</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Tan</surname>
+                <given-names>AK</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>WL</given-names>
+              </name>
+            </person-group>
+            <article-title>The neurological manifestations of Nipah virus encephalitis, a novel paramyxovirus.</article-title>
+            <source>Ann Neurol</source>
+            <year>1999</year>
+            <month>Sep</month>
+            <volume>46</volume>
+            <issue>3</issue>
+            <fpage>428</fpage>
+            <page-range>428-32</page-range>
+            <pub-id pub-id-type="pmid">10482278</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sejvar</surname>
+                <given-names>JJ</given-names>
+              </name>
+              <name>
+                <surname>Hossain</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Saha</surname>
+                <given-names>SK</given-names>
+              </name>
+              <name>
+                <surname>Gurley</surname>
+                <given-names>ES</given-names>
+              </name>
+              <name>
+                <surname>Banu</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hamadani</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Faiz</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Siddiqui</surname>
+                <given-names>FM</given-names>
+              </name>
+              <name>
+                <surname>Mohammad</surname>
+                <given-names>QD</given-names>
+              </name>
+              <name>
+                <surname>Mollah</surname>
+                <given-names>AH</given-names>
+              </name>
+              <name>
+                <surname>Uddin</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Alam</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Rahman</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Tan</surname>
+                <given-names>CT</given-names>
+              </name>
+              <name>
+                <surname>Bellini</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Rota</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Breiman</surname>
+                <given-names>RF</given-names>
+              </name>
+              <name>
+                <surname>Luby</surname>
+                <given-names>SP</given-names>
+              </name>
+            </person-group>
+            <article-title>Long-term neurological and functional outcome in Nipah virus infection.</article-title>
+            <source>Ann Neurol</source>
+            <year>2007</year>
+            <month>Sep</month>
+            <volume>62</volume>
+            <issue>3</issue>
+            <fpage>235</fpage>
+            <page-range>235-42</page-range>
+            <pub-id pub-id-type="pmid">17696217</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chua</surname>
+                <given-names>KB</given-names>
+              </name>
+              <name>
+                <surname>Lam</surname>
+                <given-names>SK</given-names>
+              </name>
+              <name>
+                <surname>Tan</surname>
+                <given-names>CT</given-names>
+              </name>
+              <name>
+                <surname>Hooi</surname>
+                <given-names>PS</given-names>
+              </name>
+              <name>
+                <surname>Goh</surname>
+                <given-names>KJ</given-names>
+              </name>
+              <name>
+                <surname>Chew</surname>
+                <given-names>NK</given-names>
+              </name>
+              <name>
+                <surname>Tan</surname>
+                <given-names>KS</given-names>
+              </name>
+              <name>
+                <surname>Kamarulzaman</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Wong</surname>
+                <given-names>KT</given-names>
+              </name>
+            </person-group>
+            <article-title>High mortality in Nipah encephalitis is associated with presence of virus in cerebrospinal fluid.</article-title>
+            <source>Ann Neurol</source>
+            <year>2000</year>
+            <month>Nov</month>
+            <volume>48</volume>
+            <issue>5</issue>
+            <fpage>802</fpage>
+            <page-range>802-5</page-range>
+            <pub-id pub-id-type="pmid">11079547</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r26">
+          <label>26</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chua</surname>
+                <given-names>KB</given-names>
+              </name>
+            </person-group>
+            <article-title>Nipah virus outbreak in Malaysia.</article-title>
+            <source>J Clin Virol</source>
+            <year>2003</year>
+            <month>Apr</month>
+            <volume>26</volume>
+            <issue>3</issue>
+            <fpage>265</fpage>
+            <page-range>265-75</page-range>
+            <pub-id pub-id-type="pmid">12637075</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r27">
+          <label>27</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sarji</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>Abdullah</surname>
+                <given-names>BJ</given-names>
+              </name>
+              <name>
+                <surname>Goh</surname>
+                <given-names>KJ</given-names>
+              </name>
+              <name>
+                <surname>Tan</surname>
+                <given-names>CT</given-names>
+              </name>
+              <name>
+                <surname>Wong</surname>
+                <given-names>KT</given-names>
+              </name>
+            </person-group>
+            <article-title>MR imaging features of Nipah encephalitis.</article-title>
+            <source>AJR Am J Roentgenol</source>
+            <year>2000</year>
+            <month>Aug</month>
+            <volume>175</volume>
+            <issue>2</issue>
+            <fpage>437</fpage>
+            <page-range>437-42</page-range>
+            <pub-id pub-id-type="pmid">10915690</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r28">
+          <label>28</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lim</surname>
+                <given-names>CC</given-names>
+              </name>
+              <name>
+                <surname>Sitoh</surname>
+                <given-names>YY</given-names>
+              </name>
+              <name>
+                <surname>Hui</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>KE</given-names>
+              </name>
+              <name>
+                <surname>Ang</surname>
+                <given-names>BS</given-names>
+              </name>
+              <name>
+                <surname>Lim</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Lim</surname>
+                <given-names>WE</given-names>
+              </name>
+              <name>
+                <surname>Oh</surname>
+                <given-names>HM</given-names>
+              </name>
+              <name>
+                <surname>Tambyah</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Wong</surname>
+                <given-names>JS</given-names>
+              </name>
+              <name>
+                <surname>Tan</surname>
+                <given-names>CB</given-names>
+              </name>
+              <name>
+                <surname>Chee</surname>
+                <given-names>TS</given-names>
+              </name>
+            </person-group>
+            <article-title>Nipah viral encephalitis or Japanese encephalitis? MR findings in a new zoonotic disease.</article-title>
+            <source>AJNR Am J Neuroradiol</source>
+            <year>2000</year>
+            <month>Mar</month>
+            <volume>21</volume>
+            <issue>3</issue>
+            <fpage>455</fpage>
+            <page-range>455-61</page-range>
+            <pub-id pub-id-type="pmid">10730635</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r29">
+          <label>29</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chow</surname>
+                <given-names>VT</given-names>
+              </name>
+              <name>
+                <surname>Tambyah</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Yeo</surname>
+                <given-names>WM</given-names>
+              </name>
+              <name>
+                <surname>Phoon</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Howe</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Diagnosis of nipah virus encephalitis by electron microscopy of cerebrospinal fluid.</article-title>
+            <source>J Clin Virol</source>
+            <year>2000</year>
+            <month>Dec</month>
+            <volume>19</volume>
+            <issue>3</issue>
+            <fpage>143</fpage>
+            <page-range>143-7</page-range>
+            <pub-id pub-id-type="pmid">11090749</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r30">
+          <label>30</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wacharapluesadee</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hemachudha</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Duplex nested RT-PCR for detection of Nipah virus RNA from urine specimens of bats.</article-title>
+            <source>J Virol Methods</source>
+            <year>2007</year>
+            <month>Apr</month>
+            <volume>141</volume>
+            <issue>1</issue>
+            <fpage>97</fpage>
+            <page-range>97-101</page-range>
+            <pub-id pub-id-type="pmid">17184850</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r31">
+          <label>31</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bossart</surname>
+                <given-names>KN</given-names>
+              </name>
+              <name>
+                <surname>McEachern</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Hickey</surname>
+                <given-names>AC</given-names>
+              </name>
+              <name>
+                <surname>Choudhry</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Dimitrov</surname>
+                <given-names>DS</given-names>
+              </name>
+              <name>
+                <surname>Eaton</surname>
+                <given-names>BT</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>LF</given-names>
+              </name>
+            </person-group>
+            <article-title>Neutralization assays for differential henipavirus serology using Bio-Plex protein array systems.</article-title>
+            <source>J Virol Methods</source>
+            <year>2007</year>
+            <month>Jun</month>
+            <volume>142</volume>
+            <issue>1-2</issue>
+            <fpage>29</fpage>
+            <page-range>29-40</page-range>
+            <pub-id pub-id-type="pmid">17292974</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r32">
+          <label>32</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zhu</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Bossart</surname>
+                <given-names>KN</given-names>
+              </name>
+              <name>
+                <surname>Bishop</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Crameri</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Dimitrov</surname>
+                <given-names>AS</given-names>
+              </name>
+              <name>
+                <surname>McEachern</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Feng</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Middleton</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>LF</given-names>
+              </name>
+              <name>
+                <surname>Broder</surname>
+                <given-names>CC</given-names>
+              </name>
+              <name>
+                <surname>Dimitrov</surname>
+                <given-names>DS</given-names>
+              </name>
+            </person-group>
+            <article-title>Exceptionally potent cross-reactive neutralization of Nipah and Hendra viruses by a human monoclonal antibody.</article-title>
+            <source>J Infect Dis</source>
+            <year>2008</year>
+            <month>Mar</month>
+            <day>15</day>
+            <volume>197</volume>
+            <issue>6</issue>
+            <fpage>846</fpage>
+            <page-range>846-53</page-range>
+            <pub-id pub-id-type="pmid">18271743</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r33">
+          <label>33</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Guillaume</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Lefeuvre</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Faure</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Marianneau</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Buckland</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Lam</surname>
+                <given-names>SK</given-names>
+              </name>
+              <name>
+                <surname>Wild</surname>
+                <given-names>TF</given-names>
+              </name>
+              <name>
+                <surname>Deubel</surname>
+                <given-names>V</given-names>
+              </name>
+            </person-group>
+            <article-title>Specific detection of Nipah virus using real-time RT-PCR (TaqMan).</article-title>
+            <source>J Virol Methods</source>
+            <year>2004</year>
+            <month>Sep</month>
+            <day>15</day>
+            <volume>120</volume>
+            <issue>2</issue>
+            <fpage>229</fpage>
+            <page-range>229-37</page-range>
+            <pub-id pub-id-type="pmid">15288966</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r34">
+          <label>34</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chua</surname>
+                <given-names>KB</given-names>
+              </name>
+              <name>
+                <surname>Lam</surname>
+                <given-names>SK</given-names>
+              </name>
+              <name>
+                <surname>Goh</surname>
+                <given-names>KJ</given-names>
+              </name>
+              <name>
+                <surname>Hooi</surname>
+                <given-names>PS</given-names>
+              </name>
+              <name>
+                <surname>Ksiazek</surname>
+                <given-names>TG</given-names>
+              </name>
+              <name>
+                <surname>Kamarulzaman</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Olson</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Tan</surname>
+                <given-names>CT</given-names>
+              </name>
+            </person-group>
+            <article-title>The presence of Nipah virus in respiratory secretions and urine of patients during an outbreak of Nipah virus encephalitis in Malaysia.</article-title>
+            <source>J Infect</source>
+            <year>2001</year>
+            <month>Jan</month>
+            <volume>42</volume>
+            <issue>1</issue>
+            <fpage>40</fpage>
+            <page-range>40-3</page-range>
+            <pub-id pub-id-type="pmid">11243752</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r35">
+          <label>35</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chong</surname>
+                <given-names>HT</given-names>
+              </name>
+              <name>
+                <surname>Kamarulzaman</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Tan</surname>
+                <given-names>CT</given-names>
+              </name>
+              <name>
+                <surname>Goh</surname>
+                <given-names>KJ</given-names>
+              </name>
+              <name>
+                <surname>Thayaparan</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Kunjapan</surname>
+                <given-names>SR</given-names>
+              </name>
+              <name>
+                <surname>Chew</surname>
+                <given-names>NK</given-names>
+              </name>
+              <name>
+                <surname>Chua</surname>
+                <given-names>KB</given-names>
+              </name>
+              <name>
+                <surname>Lam</surname>
+                <given-names>SK</given-names>
+              </name>
+            </person-group>
+            <article-title>Treatment of acute Nipah encephalitis with ribavirin.</article-title>
+            <source>Ann Neurol</source>
+            <year>2001</year>
+            <month>Jun</month>
+            <volume>49</volume>
+            <issue>6</issue>
+            <fpage>810</fpage>
+            <page-range>810-3</page-range>
+            <pub-id pub-id-type="pmid">11409437</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r36">
+          <label>36</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Freiberg</surname>
+                <given-names>AN</given-names>
+              </name>
+              <name>
+                <surname>Worthy</surname>
+                <given-names>MN</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Holbrook</surname>
+                <given-names>MR</given-names>
+              </name>
+            </person-group>
+            <article-title>Combined chloroquine and ribavirin treatment does not prevent death in a hamster model of Nipah and Hendra virus infection.</article-title>
+            <source>J Gen Virol</source>
+            <year>2010</year>
+            <month>Mar</month>
+            <volume>91</volume>
+            <issue>Pt 3</issue>
+            <fpage>765</fpage>
+            <page-range>765-72</page-range>
+            <pub-id pub-id-type="pmid">19889926</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r37">
+          <label>37</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Negrete</surname>
+                <given-names>OA</given-names>
+              </name>
+              <name>
+                <surname>Levroney</surname>
+                <given-names>EL</given-names>
+              </name>
+              <name>
+                <surname>Aguilar</surname>
+                <given-names>HC</given-names>
+              </name>
+              <name>
+                <surname>Bertolotti-Ciarlet</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Nazarian</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Tajyar</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>EphrinB2 is the entry receptor for Nipah virus, an emergent deadly paramyxovirus.</article-title>
+            <source>Nature</source>
+            <year>2005</year>
+            <month>Jul</month>
+            <day>21</day>
+            <volume>436</volume>
+            <issue>7049</issue>
+            <fpage>401</fpage>
+            <page-range>401-5</page-range>
+            <pub-id pub-id-type="pmid">16007075</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r38">
+          <label>38</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dawes</surname>
+                <given-names>BE</given-names>
+              </name>
+              <name>
+                <surname>Kalveram</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Ikegami</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Juelich</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Smith</surname>
+                <given-names>JK</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Park</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Komeno</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Furuta</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Freiberg</surname>
+                <given-names>AN</given-names>
+              </name>
+            </person-group>
+            <article-title>Favipiravir (T-705) protects against Nipah virus infection in the hamster model.</article-title>
+            <source>Sci Rep</source>
+            <year>2018</year>
+            <month>May</month>
+            <day>15</day>
+            <volume>8</volume>
+            <issue>1</issue>
+            <fpage>7604</fpage>
+            <pub-id pub-id-type="pmid">29765101</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r39">
+          <label>39</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mire</surname>
+                <given-names>CE</given-names>
+              </name>
+              <name>
+                <surname>Chan</surname>
+                <given-names>YP</given-names>
+              </name>
+              <name>
+                <surname>Borisevich</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Cross</surname>
+                <given-names>RW</given-names>
+              </name>
+              <name>
+                <surname>Yan</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Agans</surname>
+                <given-names>KN</given-names>
+              </name>
+              <name>
+                <surname>Dang</surname>
+                <given-names>HV</given-names>
+              </name>
+              <name>
+                <surname>Veesler</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Fenton</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Geisbert</surname>
+                <given-names>TW</given-names>
+              </name>
+              <name>
+                <surname>Broder</surname>
+                <given-names>CC</given-names>
+              </name>
+            </person-group>
+            <article-title>A Cross-Reactive Humanized Monoclonal Antibody Targeting Fusion Glycoprotein Function Protects Ferrets Against Lethal Nipah Virus and Hendra Virus Infection.</article-title>
+            <source>J Infect Dis</source>
+            <year>2020</year>
+            <month>May</month>
+            <day>11</day>
+            <volume>221</volume>
+            <issue>Suppl 4</issue>
+            <fpage>S471</fpage>
+            <page-range>S471-S479</page-range>
+            <pub-id pub-id-type="pmid">31686101</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r40">
+          <label>40</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Geisbert</surname>
+                <given-names>TW</given-names>
+              </name>
+              <name>
+                <surname>Mire</surname>
+                <given-names>CE</given-names>
+              </name>
+              <name>
+                <surname>Geisbert</surname>
+                <given-names>JB</given-names>
+              </name>
+              <name>
+                <surname>Chan</surname>
+                <given-names>YP</given-names>
+              </name>
+              <name>
+                <surname>Agans</surname>
+                <given-names>KN</given-names>
+              </name>
+              <name>
+                <surname>Feldmann</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Fenton</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Zhu</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Dimitrov</surname>
+                <given-names>DS</given-names>
+              </name>
+              <name>
+                <surname>Scott</surname>
+                <given-names>DP</given-names>
+              </name>
+              <name>
+                <surname>Bossart</surname>
+                <given-names>KN</given-names>
+              </name>
+              <name>
+                <surname>Feldmann</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Broder</surname>
+                <given-names>CC</given-names>
+              </name>
+            </person-group>
+            <article-title>Therapeutic treatment of Nipah virus infection in nonhuman primates with a neutralizing human monoclonal antibody.</article-title>
+            <source>Sci Transl Med</source>
+            <year>2014</year>
+            <month>Jun</month>
+            <day>25</day>
+            <volume>6</volume>
+            <issue>242</issue>
+            <fpage>242ra82</fpage>
+            <pub-id pub-id-type="pmid">24964990</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r41">
+          <label>41</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Banerjee</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Gupta</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Kodan</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Mittal</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Ray</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Nischal</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Soneja</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Biswas</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Wig</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Nipah virus disease: A rare and intractable disease.</article-title>
+            <source>Intractable Rare Dis Res</source>
+            <year>2019</year>
+            <month>Feb</month>
+            <volume>8</volume>
+            <issue>1</issue>
+            <fpage>1</fpage>
+            <page-range>1-8</page-range>
+            <pub-id pub-id-type="pmid">30881850</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r42">
+          <label>42</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Thomas</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Chandran</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Lilabi</surname>
+                <given-names>MP</given-names>
+              </name>
+              <name>
+                <surname>George</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Sivakumar</surname>
+                <given-names>CP</given-names>
+              </name>
+              <name>
+                <surname>Jayadev</surname>
+                <given-names>VK</given-names>
+              </name>
+              <name>
+                <surname>Bindu</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Rajasi</surname>
+                <given-names>RS</given-names>
+              </name>
+              <name>
+                <surname>Vijayan</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Mohandas</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Hafeez</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Nipah Virus Infection in Kozhikode, Kerala, South India, in 2018: Epidemiology of an Outbreak of an Emerging Disease.</article-title>
+            <source>Indian J Community Med</source>
+            <year>2019</year>
+            <season>Oct-Dec</season>
+            <volume>44</volume>
+            <issue>4</issue>
+            <fpage>383</fpage>
+            <page-range>383-387</page-range>
+            <pub-id pub-id-type="pmid">31802805</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132418.r43">
+          <label>43</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Khan</surname>
+                <given-names>SU</given-names>
+              </name>
+              <name>
+                <surname>Gurley</surname>
+                <given-names>ES</given-names>
+              </name>
+              <name>
+                <surname>Hossain</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Nahar</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Sharker</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Luby</surname>
+                <given-names>SP</given-names>
+              </name>
+            </person-group>
+            <article-title>A randomized controlled trial of interventions to impede date palm sap contamination by bats to prevent nipah virus transmission in Bangladesh.</article-title>
+            <source>PLoS One</source>
+            <year>2012</year>
+            <volume>7</volume>
+            <issue>8</issue>
+            <fpage>e42689</fpage>
+            <pub-id pub-id-type="pmid">22905160</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

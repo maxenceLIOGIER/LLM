@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-42596" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Prescription Drug Monitoring Program</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>D'Souza</surname>
+            <given-names>Ryan S.</given-names>
+          </name>
+          <aff>Mayo Clinic</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Lang</surname>
+            <given-names>Michael</given-names>
+          </name>
+          <aff>Brody School of Medicine at ECU</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Eldrige</surname>
+            <given-names>Jason S.</given-names>
+          </name>
+          <aff>Mayo Clinic Foundation</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Ryan D'Souza declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Michael Lang declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Jason Eldrige declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>6</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-42596.s1" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Opioids, benzodiazepines, stimulants, and other controlled substances are widely prescribed in the medical field, but these medications may also be misused, abused or diverted for nonmedical purposes. According to the Center for Disease Control and Prevention (CDC), opioid use (prescription and illicit) was involved in the deaths of 42,249 people in 2016, representing a 5-fold increase from 1999 (Drug Overdose Death Data, CDC). One contributing factor is the increased number of total opioid prescriptions administered.<xref ref-type="bibr" rid="article-42596.r1">[1]</xref>&#x000a0;Despite the quadrupling of prescribed opioid sales in the United States from 1999 to 2014, there has not been an observed change in the overall pain Americans report.<xref ref-type="bibr" rid="article-42596.r2">[2]</xref></p>
+        <p>The Prescription Drug Monitoring Program (PDMP) was implemented to help mitigate prescription misuse and diversion, as well as to monitor and analyze prescription and dispensing data for controlled substances. The PDMP system consists of independent statewide electronic databases that track prescriptions of controlled substances within that particular&#x000a0;state. This data can be utilized by health authorities to obtain timely information on prescribing practices and patient behaviors. The concept of the PDMP dates back as early as 1918 in the state of New York, while California maintains the oldest continuously operating PDMP program since 1939.<xref ref-type="bibr" rid="article-42596.r3">[3]</xref>&#x000a0;Oklahoma was the first state to establish a technologically modern PDMP that collected and distributed prescription data electronically in 1991.<xref ref-type="bibr" rid="article-42596.r4">[4]</xref>&#x000a0;Despite its longstanding conceptual history, many states have only recently started to form PDMPs within the last 2 decades.</p>
+      </sec>
+      <sec id="article-42596.s2" sec-type="Function">
+        <title>Function</title>
+        <p>PDMPs have been implemented in 49 of 50 states, the District of Columbia, and 1 United States territory (Guam).<xref ref-type="bibr" rid="article-42596.r5">[5]</xref>&#x000a0;They require scheduled interval reporting by pharmacies statewide for information on medication data within the past year (drug name, dose), dispense date, and involved parties (patient, prescriber, and pharmacy). Typically, oversight of all controlled substances is recommended including drug enforcement agency (DEA) schedule 2 to 5 drugs, as well as non-opioids such as stimulants (methylphenidate) and unscheduled medications (muscle relaxants).<xref ref-type="bibr" rid="article-42596.r6">[6]</xref>&#x000a0;Both individual patient reports and broader population-level reports can be generated, revealing epidemiologic trends within and across geographic regions. Law enforcement organizations can utilize this information to identify fraudulent prescription activity and/or illegal diversion of controlled substances.<xref ref-type="bibr" rid="article-42596.r7">[7]</xref></p>
+        <p>One model is operated through non-mandated use, where prescribers and dispensers access the database voluntarily. Another model involves proactive reporting, where in addition to voluntarily checking databases, prescribers and dispensers also receive unsolicited reports on patients obtaining a dangerous dose or combination of controlled substances, or if they are acquiring prescriptions from multiple providers.<xref ref-type="bibr" rid="article-42596.r8">[8]</xref>&#x000a0;Finally, a mandated use model is gaining recent attention due to preliminary studies demonstrating a reduction in opioid prescribing and decline in doctor shopping.<xref ref-type="bibr" rid="article-42596.r8">[8]</xref>&#x000a0;Early operation of the mandated model has occurred in Kentucky, Tennessee, New York, and Ohio, requiring prescribers to review PDMP data prior to prescribing controlled substances.<xref ref-type="bibr" rid="article-42596.r4">[4]</xref></p>
+        <p>Features of well-functioning and resourceful PDMPs have been described by the CDC, noting requirements to have providers check a state PDMP report prior to prescribing a controlled substance (mandated model), providing real-time data on when controlled substances are dispensed, and permitting access to state health departments to analyze the behavior of the opioid epidemic and assess interventions (Drug Overdose Data, CDC).</p>
+        <p>Access to PDMP data varies per state law, although healthcare prescribers and pharmacists are usually allowed to obtain reports on patients they are directly treating. Some states provide reports to law enforcement organizations, state Medicaid programs, licensing and regulatory boards, medical examiners, and various research programs.<xref ref-type="bibr" rid="article-42596.r9">[9]</xref></p>
+      </sec>
+      <sec id="article-42596.s3" sec-type="Issues of Concern">
+        <title>Issues of Concern</title>
+        <p>Major deficiencies are present within the currently&#x000a0;deployed PDMPs.<xref ref-type="bibr" rid="article-42596.r10">[10]</xref>&#x000a0;Firstly, there is inadequate collection of certain information in various states, including the absence of reporting method of payment and identification of the person filling out the prescription. In addition, no States record data on prescribers&#x02019; deaths or disciplinary status (license suspension). Secondly, the provided data is not always effectively&#x000a0;utilized&#x000a0;in clinical practice. This is depicted by most states not requiring prescribers or pharmacists to check a PDMP report prior to prescribing controlled substances, the presence of&#x000a0;lag time in updating data, and the absence of tools to analyze the comprehensive data generated by the PDMP. Thirdly, there may be limited interstate data sharing, which may allow inadequate monitoring of patients who cross state boundaries to obtain medications. Finally, there is inadequate use of data by regulatory agencies, and states may have legal protections that prevent law enforcement access to these reports.<xref ref-type="bibr" rid="article-42596.r9">[9]</xref></p>
+      </sec>
+      <sec id="article-42596.s4" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>The evidence basis for establishing the positive impact of state-wide PDMPs remains mixed. A recent review by Finley and colleagues in 2017 evaluated outcomes of PDMP implementation in 4 key domains: opioid prescribing, opioid diversion and supply, opioid misuse, and opioid-related morbidity and mortality.<xref ref-type="bibr" rid="article-42596.r3">[3]</xref>&#x000a0;While there was evidence found for reduced opioid prescriptions in certain states including Florida<xref ref-type="bibr" rid="article-42596.r11">[11]</xref>&#x000a0;and New York,<xref ref-type="bibr" rid="article-42596.r12">[12]</xref>&#x000a0;these associations were not observed when combining results from multiple PDMP states.<xref ref-type="bibr" rid="article-42596.r13">[13]</xref>&#x000a0;Regarding illicit drug diversion and overall supply, reduced shipments of oxycodone were found in PDMP states, but no reduction was seen for all opioid shipments overall.<xref ref-type="bibr" rid="article-42596.r14">[14]</xref>&#x000a0;Only one study assessed the impact on opioid misuse, noting that although the presence of&#x000a0;a PDMP slowed the rate of increase in misuse, there was no observed absolute reduction in misuse.<xref ref-type="bibr" rid="article-42596.r15">[15]</xref>&#x000a0;Importantly, studies have revealed that opioid-specific mortality was lower in certain states with a PDMP including California, Texas, New York,<xref ref-type="bibr" rid="article-42596.r16">[16]</xref>&#x000a0;and Florida,<xref ref-type="bibr" rid="article-42596.r17">[17]</xref>&#x000a0;although this trend was not observed when combining all PDMP states overall.<xref ref-type="bibr" rid="article-42596.r18">[18]</xref></p>
+      </sec>
+      <sec id="article-42596.s5" sec-type="Other Issues">
+        <title>Other Issues</title>
+        <p>Similar to all electronic databases, problems that may be encountered include difficulty with obtaining login access, inability to use the database when systems are offline for maintenance and other purposes, lack of integration of comprehensive information into clinical workflow, and presence of incomplete data.<xref ref-type="bibr" rid="article-42596.r6">[6]</xref><xref ref-type="bibr" rid="article-42596.r19">[19]</xref>&#x000a0;Furthermore, there may be limited professional guidance to assist providers on how to correctly access and interpret query results.<xref ref-type="bibr" rid="article-42596.r19">[19]</xref></p>
+        <p>The formation of certain guidelines has also been met with resistance by primary care providers due to the hindrance of patient-provider trust. For instance, some guidelines recommend the use of written agreements (pain contracts) and urine drug screening, which may be interpreted as a confrontational approach by some patients and thus introduce a source of mistrust.<xref ref-type="bibr" rid="article-42596.r6">[6]</xref></p>
+        <p>The PDMP has been developed at the level of individual states, leading to considerable variation in policies, query generation, and data reporting. &#x000a0;This lack of consistent data collection and report standardization between states makes it challenging to interpret results for providers needing to access multiple different state-specific PDMPs. It is likely that these PDMP deficiencies have hindered clinical outcomes research.<xref ref-type="bibr" rid="article-42596.r3">[3]</xref></p>
+      </sec>
+      <sec id="article-42596.s6" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>All healthcare workers who write prescriptions should be familiar with PDMP. This program has been implemented in 49 of 50 states, the District of Columbia, and 1 United States territory (Guam).<xref ref-type="bibr" rid="article-42596.r5">[5]</xref>&#x000a0;The program requires scheduled interval reporting by pharmacies statewide for information on medication data within the past year (drug name, dose), dispense date, and involved parties (patient, prescriber, and pharmacy). Typically, oversight of all controlled substances is recommended including drug enforcement agency (DEA) schedule 2 to 5 drugs, as well as non-opioids such as stimulants (methylphenidate) and unscheduled medications (muscle relaxants).<xref ref-type="bibr" rid="article-42596.r6">[6]</xref>&#x000a0;Both individual patient reports and broader population-level reports can be generated, revealing epidemiologic trends within and across geographic regions. Law enforcement organizations can utilize this information to identify fraudulent prescription activity and/or illegal diversion of controlled substances.<xref ref-type="bibr" rid="article-42596.r7">[7]</xref>&#x000a0;More important, the PDMP is also used to identify physician, nurse practitioner, and physician assistant prescribing habits, especially controlled substances; as well as outliers.</p>
+      </sec>
+      <sec id="article-42596.s7">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=42596&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=42596">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/42596/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=42596">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-42596.s8">
+        <title>References</title>
+        <ref id="article-42596.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Daubresse</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Chang</surname>
+                <given-names>HY</given-names>
+              </name>
+              <name>
+                <surname>Yu</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Viswanathan</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Shah</surname>
+                <given-names>ND</given-names>
+              </name>
+              <name>
+                <surname>Stafford</surname>
+                <given-names>RS</given-names>
+              </name>
+              <name>
+                <surname>Kruszewski</surname>
+                <given-names>SP</given-names>
+              </name>
+              <name>
+                <surname>Alexander</surname>
+                <given-names>GC</given-names>
+              </name>
+            </person-group>
+            <article-title>Ambulatory diagnosis and treatment of nonmalignant pain in the United States, 2000-2010.</article-title>
+            <source>Med Care</source>
+            <year>2013</year>
+            <month>Oct</month>
+            <volume>51</volume>
+            <issue>10</issue>
+            <fpage>870</fpage>
+            <page-range>870-8</page-range>
+            <pub-id pub-id-type="pmid">24025657</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-42596.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chang</surname>
+                <given-names>HY</given-names>
+              </name>
+              <name>
+                <surname>Daubresse</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Kruszewski</surname>
+                <given-names>SP</given-names>
+              </name>
+              <name>
+                <surname>Alexander</surname>
+                <given-names>GC</given-names>
+              </name>
+            </person-group>
+            <article-title>Prevalence and treatment of pain in EDs in the United States, 2000 to 2010.</article-title>
+            <source>Am J Emerg Med</source>
+            <year>2014</year>
+            <month>May</month>
+            <volume>32</volume>
+            <issue>5</issue>
+            <fpage>421</fpage>
+            <page-range>421-31</page-range>
+            <pub-id pub-id-type="pmid">24560834</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-42596.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Finley</surname>
+                <given-names>EP</given-names>
+              </name>
+              <name>
+                <surname>Garcia</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Rosen</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>McGeary</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Pugh</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Potter</surname>
+                <given-names>JS</given-names>
+              </name>
+            </person-group>
+            <article-title>Evaluating the impact of prescription drug monitoring program implementation: a scoping review.</article-title>
+            <source>BMC Health Serv Res</source>
+            <year>2017</year>
+            <month>Jun</month>
+            <day>20</day>
+            <volume>17</volume>
+            <issue>1</issue>
+            <fpage>420</fpage>
+            <pub-id pub-id-type="pmid">28633638</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-42596.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Heagerty</surname>
+                <given-names>KE</given-names>
+              </name>
+            </person-group>
+            <article-title>Prescription monitoring programs: to use or not to use.</article-title>
+            <source>Innov Clin Neurosci</source>
+            <year>2013</year>
+            <month>Nov</month>
+            <volume>10</volume>
+            <issue>11-12</issue>
+            <fpage>28</fpage>
+            <page-range>28-30</page-range>
+            <pub-id pub-id-type="pmid">24563819</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-42596.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Manasco</surname>
+                <given-names>AT</given-names>
+              </name>
+              <name>
+                <surname>Griggs</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Leeds</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Langlois</surname>
+                <given-names>BK</given-names>
+              </name>
+              <name>
+                <surname>Breaud</surname>
+                <given-names>AH</given-names>
+              </name>
+              <name>
+                <surname>Mitchell</surname>
+                <given-names>PM</given-names>
+              </name>
+              <name>
+                <surname>Weiner</surname>
+                <given-names>SG</given-names>
+              </name>
+            </person-group>
+            <article-title>Characteristics of state prescription drug monitoring programs: a state-by-state survey.</article-title>
+            <source>Pharmacoepidemiol Drug Saf</source>
+            <year>2016</year>
+            <month>Jul</month>
+            <volume>25</volume>
+            <issue>7</issue>
+            <fpage>847</fpage>
+            <page-range>847-51</page-range>
+            <pub-id pub-id-type="pmid">27061342</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-42596.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Perrone</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Nelson</surname>
+                <given-names>LS</given-names>
+              </name>
+            </person-group>
+            <article-title>Medication reconciliation for controlled substances--an "ideal" prescription-drug monitoring program.</article-title>
+            <source>N Engl J Med</source>
+            <year>2012</year>
+            <month>Jun</month>
+            <day>21</day>
+            <volume>366</volume>
+            <issue>25</issue>
+            <fpage>2341</fpage>
+            <page-range>2341-3</page-range>
+            <pub-id pub-id-type="pmid">22646509</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-42596.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Islam</surname>
+                <given-names>MM</given-names>
+              </name>
+              <name>
+                <surname>McRae</surname>
+                <given-names>IS</given-names>
+              </name>
+            </person-group>
+            <article-title>An inevitable wave of prescription drug monitoring programs in the context of prescription opioids: pros, cons and tensions.</article-title>
+            <source>BMC Pharmacol Toxicol</source>
+            <year>2014</year>
+            <month>Aug</month>
+            <day>16</day>
+            <volume>15</volume>
+            <fpage>46</fpage>
+            <pub-id pub-id-type="pmid">25127880</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-42596.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Elder</surname>
+                <given-names>JW</given-names>
+              </name>
+              <name>
+                <surname>DePalma</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Pines</surname>
+                <given-names>JM</given-names>
+              </name>
+            </person-group>
+            <article-title>Optimal Implementation of Prescription Drug Monitoring Programs in the Emergency Department.</article-title>
+            <source>West J Emerg Med</source>
+            <year>2018</year>
+            <month>Mar</month>
+            <volume>19</volume>
+            <issue>2</issue>
+            <fpage>387</fpage>
+            <page-range>387-391</page-range>
+            <pub-id pub-id-type="pmid">29560070</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-42596.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gabay</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Prescription Drug Monitoring Programs.</article-title>
+            <source>Hosp Pharm</source>
+            <year>2015</year>
+            <month>Apr</month>
+            <volume>50</volume>
+            <issue>4</issue>
+            <fpage>277</fpage>
+            <page-range>277-8</page-range>
+            <pub-id pub-id-type="pmid">26445918</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-42596.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shepherd</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Combating the prescription painkiller epidemic: a national prescription drug reporting program.</article-title>
+            <source>Am J Law Med</source>
+            <year>2014</year>
+            <volume>40</volume>
+            <issue>1</issue>
+            <fpage>85</fpage>
+            <page-range>85-112</page-range>
+            <pub-id pub-id-type="pmid">24844043</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-42596.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Rutkow</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Chang</surname>
+                <given-names>HY</given-names>
+              </name>
+              <name>
+                <surname>Daubresse</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Webster</surname>
+                <given-names>DW</given-names>
+              </name>
+              <name>
+                <surname>Stuart</surname>
+                <given-names>EA</given-names>
+              </name>
+              <name>
+                <surname>Alexander</surname>
+                <given-names>GC</given-names>
+              </name>
+            </person-group>
+            <article-title>Effect of Florida's Prescription Drug Monitoring Program and Pill Mill Laws on Opioid Prescribing and Use.</article-title>
+            <source>JAMA Intern Med</source>
+            <year>2015</year>
+            <month>Oct</month>
+            <volume>175</volume>
+            <issue>10</issue>
+            <fpage>1642</fpage>
+            <page-range>1642-9</page-range>
+            <pub-id pub-id-type="pmid">26280092</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-42596.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Rasubala</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Pernapati</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Velasquez</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Burk</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ren</surname>
+                <given-names>YF</given-names>
+              </name>
+            </person-group>
+            <article-title>Impact of a Mandatory Prescription Drug Monitoring Program on Prescription of Opioid Analgesics by Dentists.</article-title>
+            <source>PLoS One</source>
+            <year>2015</year>
+            <volume>10</volume>
+            <issue>8</issue>
+            <fpage>e0135957</fpage>
+            <pub-id pub-id-type="pmid">26274819</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-42596.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Brady</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Wunsch</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>DiMaggio</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Lang</surname>
+                <given-names>BH</given-names>
+              </name>
+              <name>
+                <surname>Giglio</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Prescription drug monitoring and dispensing of prescription opioids.</article-title>
+            <source>Public Health Rep</source>
+            <year>2014</year>
+            <season>Mar-Apr</season>
+            <volume>129</volume>
+            <issue>2</issue>
+            <fpage>139</fpage>
+            <page-range>139-47</page-range>
+            <pub-id pub-id-type="pmid">24587548</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-42596.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Reisman</surname>
+                <given-names>RM</given-names>
+              </name>
+              <name>
+                <surname>Shenoy</surname>
+                <given-names>PJ</given-names>
+              </name>
+              <name>
+                <surname>Atherly</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Flowers</surname>
+                <given-names>CR</given-names>
+              </name>
+            </person-group>
+            <article-title>Prescription opioid usage and abuse relationships: an evaluation of state prescription drug monitoring program efficacy.</article-title>
+            <source>Subst Abuse</source>
+            <year>2009</year>
+            <volume>3</volume>
+            <fpage>41</fpage>
+            <page-range>41-51</page-range>
+            <pub-id pub-id-type="pmid">24357929</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-42596.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Reifler</surname>
+                <given-names>LM</given-names>
+              </name>
+              <name>
+                <surname>Droz</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Bailey</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Schnoll</surname>
+                <given-names>SH</given-names>
+              </name>
+              <name>
+                <surname>Fant</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Dart</surname>
+                <given-names>RC</given-names>
+              </name>
+              <name>
+                <surname>Bucher Bartelson</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Do prescription monitoring programs impact state trends in opioid abuse/misuse?</article-title>
+            <source>Pain Med</source>
+            <year>2012</year>
+            <month>Mar</month>
+            <volume>13</volume>
+            <issue>3</issue>
+            <fpage>434</fpage>
+            <page-range>434-42</page-range>
+            <pub-id pub-id-type="pmid">22299725</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-42596.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Paulozzi</surname>
+                <given-names>LJ</given-names>
+              </name>
+              <name>
+                <surname>Kilbourne</surname>
+                <given-names>EM</given-names>
+              </name>
+              <name>
+                <surname>Desai</surname>
+                <given-names>HA</given-names>
+              </name>
+            </person-group>
+            <article-title>Prescription drug monitoring programs and death rates from drug overdose.</article-title>
+            <source>Pain Med</source>
+            <year>2011</year>
+            <month>May</month>
+            <volume>12</volume>
+            <issue>5</issue>
+            <fpage>747</fpage>
+            <page-range>747-54</page-range>
+            <pub-id pub-id-type="pmid">21332934</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-42596.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Delcher</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Wagenaar</surname>
+                <given-names>AC</given-names>
+              </name>
+              <name>
+                <surname>Goldberger</surname>
+                <given-names>BA</given-names>
+              </name>
+              <name>
+                <surname>Cook</surname>
+                <given-names>RL</given-names>
+              </name>
+              <name>
+                <surname>Maldonado-Molina</surname>
+                <given-names>MM</given-names>
+              </name>
+            </person-group>
+            <article-title>Abrupt decline in oxycodone-caused mortality after implementation of Florida's Prescription Drug Monitoring Program.</article-title>
+            <source>Drug Alcohol Depend</source>
+            <year>2015</year>
+            <month>May</month>
+            <day>01</day>
+            <volume>150</volume>
+            <fpage>63</fpage>
+            <page-range>63-8</page-range>
+            <pub-id pub-id-type="pmid">25746236</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-42596.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Li</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Brady</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Lang</surname>
+                <given-names>BH</given-names>
+              </name>
+              <name>
+                <surname>Giglio</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Wunsch</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>DiMaggio</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Prescription drug monitoring and drug overdose mortality.</article-title>
+            <source>Inj Epidemiol</source>
+            <year>2014</year>
+            <month>Dec</month>
+            <volume>1</volume>
+            <issue>1</issue>
+            <fpage>9</fpage>
+            <pub-id pub-id-type="pmid">27747666</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-42596.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Haffajee</surname>
+                <given-names>RL</given-names>
+              </name>
+              <name>
+                <surname>Jena</surname>
+                <given-names>AB</given-names>
+              </name>
+              <name>
+                <surname>Weiner</surname>
+                <given-names>SG</given-names>
+              </name>
+            </person-group>
+            <article-title>Mandatory use of prescription drug monitoring programs.</article-title>
+            <source>JAMA</source>
+            <year>2015</year>
+            <month>Mar</month>
+            <day>03</day>
+            <volume>313</volume>
+            <issue>9</issue>
+            <fpage>891</fpage>
+            <page-range>891-2</page-range>
+            <pub-id pub-id-type="pmid">25622279</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

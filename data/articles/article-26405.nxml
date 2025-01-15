@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-26405" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Osteopenia</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Varacallo</surname>
+            <given-names>Matthew</given-names>
+          </name>
+          <aff>Penn Highlands Healthcare System</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Seaman</surname>
+            <given-names>Travis J.</given-names>
+          </name>
+          <aff>University Hospitals UH Richmond</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Jandu</surname>
+            <given-names>Jagmohan S.</given-names>
+          </name>
+          <aff>University of Nevada Reno, School of Medicine</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Pizzutillo</surname>
+            <given-names>Peter</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Matthew Varacallo declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Travis Seaman declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Jagmohan Jandu declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Peter Pizzutillo declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>4</day>
+          <month>8</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-26405.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Osteopenia describes a decrease in bone mineral density (BMD) below normal reference values, yet not low enough to meet the diagnostic criteria for osteoporosis. BMD is diagnosed via dual-energy x-ray absorptiometry (DXA) bone scans. Osteopenia, as defined by the World Health Organization (WHO), is a t-score between -1 to -2.5, while values less than -2.5 are diagnostic for osteoporosis. This activity describes the pathophysiology, evaluation, and management of osteopenia and addresses the role of the interprofessional team in the care of affected patients.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Review the presentation of osteopenia.</p></list-item><list-item><p>Distinguish osteoporosis from osteopenia based on t-score.</p></list-item><list-item><p>List management considerations for osteopenia.</p></list-item><list-item><p>Explore interprofessional team strategies for improving care coordination and communication to enhance outcomes for patients affected by osteopenia.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=26405&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=26405">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-26405.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Osteopenia is a clinical term used to describe a decrease in bone mineral density (BMD) below normal reference values, yet not low enough to meet the diagnostic criteria to be considered osteoporotic<xref ref-type="bibr" rid="article-26405.r1">[1]</xref>. BMD is diagnosed via dual-energy x-ray absorptiometry (DXA) bone scans.&#x000a0;Osteopenia, as defined by the World Health Organization (WHO), is a t-score between -1 to -2.5, while values less than -2.5 are diagnostic for osteoporosis.&#x000a0;Decreasing BMD values are reflective of an underlying disruption in the microarchitecture of bone and osteopenia, and osteoporosis is considered quantitative, not qualitative, disorders of bone mineralization.&#x000a0;<xref ref-type="bibr" rid="article-26405.r2">[2]</xref></p>
+      </sec>
+      <sec id="article-26405.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p>Bone mineral acquisition from birth to adulthood follows a predictable trend specific to an individual&#x02019;s age and sex. With the onset of puberty, bone mineral accretion increases to its maximum level not long after peak height gains are achieved in adolescence. Bone mineral accretion rates remain the greatest for males and females for about four years after the peak accretion rate is achieved, and 95% of the adult bone mass is typically achieved by age 17 for females and 21 for males. Thus, peak bone mass is normally achieved by the third decade of life. Failure to achieve peak bone mass as a young adult results in early-onset conditions of decreased bone mass (osteopenia or osteoporosis) and increased risk of fragility fractures even in adolescence and young adulthood. After age 30, there is a gradual and natural bone mass reduction that takes place over the ensuing decades into later life.&#x000a0;<xref ref-type="bibr" rid="article-26405.r3">[3]</xref><xref ref-type="bibr" rid="article-26405.r4">[4]</xref></p>
+        <p>While it is estimated that heritable factors dictate up to 80% of our ability to achieve and maintain optimal bone mineralization levels, modifiable factors attributed to the rate of natural bone mass reduction into adulthood include weight-bearing exercises, nutrition status (adequate calcium and vitamin D daily intake), body mass, and hormonal milieu.</p>
+        <p>The natural bone loss that occurs gradually during adulthood is considered to be the cause of primary forms of osteopenia and osteoporosis. Secondary causes serve to&#x000a0;accelerate this process and include lifestyle factors such as alcohol use disorder, smoking, sedentary lifestyle, thin body habitus (BMI under 18.5 kg/m2). White and Asian races are also established risk factors.&#x000a0;</p>
+        <p>Overall disease states and certain medications are considered secondary causes&#x000a0;as well. Medical conditions include hyperparathyroidism, anorexia, malabsorption syndromes, hyperthyroidism, chronic renal failure, hypogonadism, amenorrhea/oligomenorrhea, early onset menopause, and chronic conditions resulting in calcium and/or vitamin D deficiencies. Medications implicated in the disease process include excess glucocorticoids/long-term steroid use, valproic acid, proton pump inhibitors, antiepileptics, and chemotherapy agents.&#x000a0;<xref ref-type="bibr" rid="article-26405.r3">[3]</xref></p>
+      </sec>
+      <sec id="article-26405.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p>Currently, 34 million Americans are afflicted with osteopenia. The incidence is expected to exponentially increase as our population becomes older with each ensuing decade. Between 2010 and 2030, the United States population over 65 years of age is expected to increase from 13% to over 20%. By 2020, projections estimate that over 47 million Americans will be afflicted with osteopenia.&#x000a0;<xref ref-type="bibr" rid="article-26405.r5">[5]</xref></p>
+        <p>Overall, females have a four-fold higher overall prevalence of osteopenia compared to males. However, males are more likely to demonstrate secondary causes of decreased bone mass. While secondary osteopenia and osteoporosis can develop at any age, the incidence of osteopenia in select subgroups demonstrates predictable patterns and trends. In the United States, 54% of postmenopausal women are osteopenic, and an additional 30% are already considered osteoporotic. By age 80, this relative trend predictably shifts in favor of osteoporosis as 27% of women are osteopenic, and 70% are osteoporotic.</p>
+        <p>Worldwide, Asia has reported the lowest average t-scores by region. Australia reported an incidence rate of osteopenia in 42% of men and 51% of women. In 2005, India reported a 52% overall incidence in its population. Perhaps more important than the population-based absolute&#x000a0;BMD values reported is the associated burden of disease, which has been demonstrated in the reported fragility fractures by region worldwide. The greatest number of fragility fractures occur in Europe, followed by the Western Pacific region, Southeast Asia, and the Americas.</p>
+        <p>Fragility fractures significantly compromise a patient's quality of life and financially devastate the healthcare system. Roughly 2 million fragility fractures occur each year in the United States alone, and by 2025 this number is expected to increase to over 3 million. Worldwide, 9 million fragility fractures occur each year. The overall impact of fragility fractures on the healthcare system is staggering. In 2005, direct costs of care associated with fragility fractures alone tallied $19 billion, and the direct and indirect costs of care are expected to surpass $25 billion by 2025. In addition, fragility fractures significantly decrease the quality of life, and hip fractures alone are associated with a one-year mortality rate of greater than 20%.&#x000a0;<xref ref-type="bibr" rid="article-26405.r6">[6]</xref><xref ref-type="bibr" rid="article-26405.r7">[7]</xref><xref ref-type="bibr" rid="article-26405.r8">[8]</xref></p>
+      </sec>
+      <sec id="article-26405.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>Osteopenia occurs secondary to uncoupling of osteoclast-osteoblast activity, resulting in a quantitative decrease in bone mass. Peak bone mass is typically achieved by males and females just prior to or early on in the third decade of life. Beyond age 30, bone resorption gradually becomes favored as dynamic bone remodeling continues into later decades of life.&#x000a0;<xref ref-type="bibr" rid="article-26405.r9">[9]</xref><xref ref-type="bibr" rid="article-26405.r10">[10]</xref></p>
+      </sec>
+      <sec id="article-26405.s6" sec-type="Histopathology">
+        <title>Histopathology</title>
+        <p>Histologic specimens demonstrate markedly thinned trabeculae, decreased osteon size, and enlarged haversian and marrow spaces.&#x000a0;<xref ref-type="bibr" rid="article-26405.r10">[10]</xref></p>
+      </sec>
+      <sec id="article-26405.s7" sec-type="Toxicokinetics">
+        <title>Toxicokinetics</title>
+        <p>Bisphosphonates are the most commonly prescribed medication class for treatment. Adverse side effects are well documented in the literature as prolonged use has been linked to two major clinical side effects: osteonecrosis of the jaw (ONJ) and the atypical subtrochanteric femur fracture.&#x000a0;</p>
+        <p>ONJ is rare and is associated with intravenous forms and not oral forms of the medication. Treatment entails immediately stopping the offending agent. Atypical femur fractures&#x000a0;also&#x000a0;are rare but have significant associated morbidity, and clinicians are cautioned against the chronic, uninterrupted bisphosphonate use beyond 3 to 5 years or in situations when patients report&#x000a0;mild thigh discomfort while undergoing treatment.&#x000a0;<xref ref-type="bibr" rid="article-26405.r11">[11]</xref></p>
+      </sec>
+      <sec id="article-26405.s8" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>A comprehensive history and physical includes eliciting potential risk factors attributable to secondary bone loss. A thorough social history&#x000a0;also&#x000a0;should be obtained with attention to smoking history and chronic alcohol consumption. A family history of osteoporosis&#x000a0;also&#x000a0;should be noted. The patient should be asked about any prior fractures with focus given to low energy ground-level fall mechanisms and any fractures after the age of 40.</p>
+        <p>The physical exam is often normal except in certain cases of advanced disease states (i.e., osteoporosis). In healthy individuals without risk factors, most clinicians recommend women approaching menopause (or by age 65 years&#x000a0;at the latest) and males at the age of&#x000a0;70 to be screened via a dual x-ray absorptiometry (DXA) scan. However, it should be noted that the United States Preventative&#x000a0;Services Task Force (USPTF) has not found sufficient evidence to establish official screening recommendations for men, and systematic population-based screening for osteoporosis has yet to be implemented.&#x000a0;<xref ref-type="bibr" rid="article-26405.r12">[12]</xref></p>
+        <p>Much attention should be given to the patient sustaining a fragility fracture, and early follow-up with an appropriate practitioner is highly encouraged. Although a standardized follow-up protocol is yet to be recommended, automated follow-up systems and fracture liaison services are two increasingly popular strategies to help improve on the historically reported and strikingly low follow-up rates of 1% to 10%.<xref ref-type="bibr" rid="article-26405.r2">[2]</xref></p>
+        <p>Women with normal&#x000a0;DXA scans do not need follow-up&#x000a0;DXA scans, as studies have shown that most women with normal scores did not progress to osteoporosis. Some experts may advocate for follow-up scans upon treatment implementation, but this modality remains controversial as the literature suggests subsequent DXA scans have rarely resulted in interventions or treatment adjustments.&#x000a0;<xref ref-type="bibr" rid="article-26405.r1">[1]</xref><xref ref-type="bibr" rid="article-26405.r5">[5]</xref></p>
+      </sec>
+      <sec id="article-26405.s9" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>The WHO has established DXA scans as the gold standard for assessing BMD levels. DXA&#x000a0;scans utilize a single x-ray beam to measure calcified tissue in select regions of the body. Measurements are reported with 1% to 2% precision rates, and DXA scans are considered the most accurate diagnostic imaging modality with the least amount of radiation exposure. The lumbar spine (L2 to L4), the hip (compiled from the femoral neck, trochanters, and intertrochanteric regions), and the wrist are routinely included in the scan. The BMD reported reflects the absolute, patient-specific score determined from these measured anatomic areas.&#x000a0;</p>
+        <p>In addition, the scan also reports a t-score and a z-score.&#x000a0; The t-score is measured in standard deviations and reflects the difference between the patient's measured BMD and the mean value of BMD in healthy, young, matched controls (30-year-old women). By definition, a normal BMD measurement is within one standard deviation of the young adult mean. The WHO defines t-scores between -1 and -2.5 as osteopenic and scores below -2.5 as osteoporotic. The z-score&#x000a0;is also measured in standard deviations, but the z-score is compared to a healthy, age-matched control group. The z-score is most clinically relevant when obtaining a DXA scan in younger patients when secondary osteoporosis is being considered. A z-score less than -1.5 warrants a comprehensive secondary osteoporosis workup.</p>
+        <p>Standard laboratory workup includes checking calcium, phosphorus, albumin, alkaline phosphatase, liver function tests, creatinine (serum and urine), 25 hydroxyvitamin D, TSH and free T4, and intact PTH levels. Males should have a free testosterone level checked to rule out hypogonadism.&#x000a0;</p>
+        <p>The routine use of checking bone turnover markers (BTM) is debated. The utility of obtaining markers of bone resorption can be considered if this is being considered the possible underlying cause of secondary osteoporosis. Although reports question the reproducibility of such values, available tests include checking serum or urinary cross-links of type I collagen (deoxypyridinoline), N-telopeptide of type I collagen (NTx), or C-telopeptide of type I collagen (CTx).</p>
+        <p>The WHO created a fracture risk assessment tool (FRAX score) to predict the 10-year risk of sustaining a hip or other major osteoporotic fracture. These other major fragility fractures include fractures of the spine, wrist, forearm, or humerus. The assessment includes 12 questions weighted by the relative risk associated with a future fragility fracture event. Assessment includes age, sex, personal history of fracture, low BMI, oral steroid use, secondary osteoporosis, parental history of hip fracture, smoking status, and alcohol intake. In addition, optional BMD measurement values can be included from a prior DXA scan (if available) to provide a more comprehensive score report.&#x000a0;<xref ref-type="bibr" rid="article-26405.r13">[13]</xref></p>
+        <p>The utility of the FRAX score is emphasized, especially in the osteopenic patient. Although fracture risk increases with decreases in BMD, the concept that the vast majority of these fragility fractures occur in osteopenic (as opposed to osteoporotic) patients poses a conflicting treatment paradigm. Thus, clinicians rely on the FRAX score to stratify in which osteopenic patients exceed the risk threshold to warrant more aggressive pharmacologic treatments.</p>
+        <p>Patients younger than 50 at increased fragility fracture risk are recommended to obtain a DXA scan if one has not been already obtained for another reason. A study from 2013 analyzed the worldwide uptake of FRAX calculation over one year from 2012 to 2013. Nearly 2.5 million calculations from 173 countries were reported, with the USA, UK, Canada, Spain, Japan, France, Belgium, Italy, Switzerland, and Turkey representing over 80% of all calculations.</p>
+      </sec>
+      <sec id="article-26405.s10" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>The core treatment options for osteopenic patients involve early education on how to achieve and maintain healthy bone mass levels and extensive education and counseling on the relevant social, environmental, and lifestyle risk factors that compromise bone health.&#x000a0;</p>
+        <p>
+<bold>Lifestyle Modifications</bold>
+</p>
+        <p>All patients can benefit from lifestyle modifications. Chronic alcohol use has been identified as a significant risk factor for decreased BMD. Clinicians should also routinely encourage smoking cessation and promote weight-bearing physical activities and regular exercise regimens. Yoga and tai chi can help reduce stress and improve balance and agility.&#x000a0;</p>
+        <p>Patients should be educated on the recommended daily intake for calcium and vitamin D. The National Osteoporosis Foundation (NOF) recommends 1,200 to 1500 mg of calcium per day and 800 to 1,000 IUs of daily vitamin D for adults over the age of 50.</p>
+        <p>
+<bold>Fall Prevention&#x000a0;</bold>
+</p>
+        <p>Falls, mostly in-house, cause over 90% of hip fractures and all distal radius fractures.&#x000a0; While the role of exercise programs and physical therapy intervention for the elderly is reported with mixed results on outcomes of fall reduction and reduced rates of subsequent hip and other fragility fractures, some studies advocate multimodal combinations to benefit the elderly. Regular exercise combined with prophylactic measures to remove loose carpets, reduce the use of sleep medicine and other tranquilizers, and correct visual impairment in elderly populations living in the community results in reduced rates of falls.&#x000a0;<xref ref-type="bibr" rid="article-26405.r14">[14]</xref></p>
+        <p>
+<bold>Risk Stratification of Osteopenic Patients</bold>
+</p>
+        <p>While the recommendations for pharmacologic intervention in patients diagnosed with osteoporosis are universally accepted, the pharmacologic treatment of osteopenic patients is much more controversial secondary to the much higher number needed to treat (NNT) threshold reported in the literature. Compared to osteoporosis (NNT = 10 to 20 patients), the NNT for osteopenia exceeds 100 patients.&#x000a0;</p>
+        <p>Current guidelines advocate for risk stratification by the ten-year probability of future hip or other fragility fracture risk and reserving pharmacologic intervention to the subgroup of patients most at risk of developing a major osteoporotic fracture. The primary risk factor for subsequent fracture is a prevalent, low energy fracture, irrespective of whether it is clinically apparent or not.</p>
+        <p>
+<bold>Fragility Fracture Considerations</bold>
+</p>
+        <p>A major clinical hurdle is ensuring timely patient follow-up after fragility fractures. The re-fracture risk is highest during the first 1 to 2 years after the inciting fragility fracture, and ultimately, about 50% of subsequent fractures occur within 3 to 5 years from the first event. These patients warrant rapid intervention and follow-up to determine the patient&#x02019;s FRAX score and complete a DXA scan to establish a baseline BMD level and t-score value.&#x000a0;</p>
+        <p>Special consideration is given to the detection of current or prior history of vertebral fractures as they represent the most frequent fractures in both men and women over age 50 years. However, many vertebral fractures are initially missed or not diagnosed by a clinician because the patient is relatively asymptomatic. Estimates report 85% of vertebral fractures are due to an underlying bone density that is already diagnostic for osteoporosis. Furthermore, they are associated with significant morbidity, including a five-fold increased risk of subsequent vertebral fracture regardless of an individual&#x02019;s BMD at the time of the index fracture. When symptomatic, vertebral fractures will present with back pain that can last up to 2 to 3 months. Depending on the severity and degree of&#x000a0;collapse associated with the fracture(s), the patient classically may develop a progressive kyphotic deformity and complain of loss of height&#x000a0;over time.&#x000a0;<xref ref-type="bibr" rid="article-26405.r15">[15]</xref></p>
+        <p>
+<bold>Pharmacotherapy Recommendations&#x000a0;<xref ref-type="bibr" rid="article-26405.r16">[16]</xref><xref ref-type="bibr" rid="article-26405.r17">[17]</xref></bold>
+</p>
+        <p>Consensus favors pharmacologic treatment in a patient with spine or hip fractures in addition to a documented low BMD. Treatment recommendations vary for other nonvertebral fractures and include&#x000a0;the following:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>The National Osteoporosis Society (NOS) recommends starting treatment&#x000a0;in all postmenopausal women with a history of any fragility fracture</p>
+          </list-item>
+          <list-item>
+            <p>The National Osteoporosis Foundation (NOF) recommends performing DXA scans on patients sustaining nonvertebral fragility fractures, and the decision to treat or not with pharmacotherapy is based on the patient&#x02019;s t-score; patients considered to be osteopenic (t-score between -1 and -2.5) are not started on drugs.</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Pharmacotherapy Options&#x000a0;<xref ref-type="bibr" rid="article-26405.r18">[18]</xref></bold>
+</p>
+        <p>Pharmacotherapy agents work through either antiresorptive or anabolic means. Bisphosphonates are the most commonly prescribed medication class. These drugs are divided into non-nitrogen and nitrogen-containing compounds. The latter are&#x000a0;considered&#x000a0;first-line therapy. The nitrogen-containing compounds inhibit farnesyl pyrophosphate synthase and ultimately inhibit osteoclast resorption and induce osteocyte apoptosis. Common agents include:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Alendronate may reduce the rate of hip, spine, and wrist fractures by 50%</p>
+          </list-item>
+          <list-item>
+            <p>Risedronate may reduce vertebral and nonvertebral fractures by 40% over three years</p>
+          </list-item>
+          <list-item>
+            <p>IV zoledronic acid reduces the rate of spine fractures by 70% and hip fractures by 40% over three years</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Other Medication Classes</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Conjugated estrogen-progestin hormone replacement (HRT)</p>
+          </list-item>
+          <list-item>
+            <p>Estrogen-only replacement (ERT)</p>
+          </list-item>
+          <list-item>
+            <p>Salmon calcitonin</p>
+          </list-item>
+          <list-item>
+            <p>Selective estrogen receptor modulators (Raloxifene) - Raloxifene is an agonist to estrogen receptors on bone and reduces osteoclast resorption</p>
+          </list-item>
+          <list-item>
+            <p>Anabolic - Teriparatide is a recombinant form of parathyroid hormone (PTH) that stimulates osteoblasts to produce more bone. Teriparatide is now FDA approved for osteoporosis treatment in males and females</p>
+          </list-item>
+          <list-item>
+            <p>RANKL inhibitors (Denosumab) - Denosumab is a monoclonal Ig2 that targets RANKL and inhibits its ability to bind to RANK and results in the inhibition of osteoclast activation</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Treatment and Follow-up Considerations&#x000a0;<xref ref-type="bibr" rid="article-26405.r19">[19]</xref></bold>
+</p>
+        <p>Treatment duration varies depending on the class of medication utilized. Agents such as teriparatide and hormonal-based therapy require immediate follow-up treatment with another agent upon stopping the medication; otherwise, bone mass is rapidly lost. Clinicians&#x000a0;also&#x000a0;must remain cautious against the prolonged use of uninterrupted bisphosphonate therapy beyond a 3- to 5-year period. Patients should also be made aware of these potentially morbid adverse events, and they should be counseled to seek immediate care if they are experiencing any symptoms of thigh discomfort.&#x000a0;</p>
+        <p>Any patient on bisphosphonates for any given period&#x000a0;and presenting with mild thigh discomfort should have the following treatment workup:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Educate on the risks of and immediately stop all&#x000a0;weight-bearing activity.</p>
+          </list-item>
+          <list-item>
+            <p>Obtain full-length femur and hip radiographs. Thigh pain may be indicative of an impending pathologic, atypical femur fracture. Attention should be directed to the subtrochanteric and diaphyseal regions of the femur, particularly the lateral cortex, which often demonstrates evidence of periosteal reaction.</p>
+          </list-item>
+          <list-item>
+            <p>Immediately discontinue bisphosphonate use.</p>
+          </list-item>
+          <list-item>
+            <p>Refer to an orthopedic surgeon for prophylactic surgical fixation.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-26405.s11" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>Homocystinuria</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Hyperparathyroidism</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Imaging in osteomalacia</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Mastocytosis</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Multiple myeloma</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Paget disease</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Scurvy</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Sickle cell anaemia</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-26405.s12" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Osteopenia and osteoporosis and its associated complications constitute&#x000a0;a significant source of patient morbidity and mortality, and the treatment of its complications provide an enormous financial and resource burden to the healthcare system&#x000a0;<xref ref-type="bibr" rid="article-26405.r5">[5]</xref>.&#x000a0; The key is to prevent osteopenia. Thus, this is best done with an interprofessional team with a focus on patient education. All clinicians should educate patients about the morbidity of osteopenia. The nurse practitioner, pharmacist, and primary care provider should encourage the patient to eat a healthy diet rich in calcium. In addition, the patient should be encouraged to exercise, cease smoking, and abstain from alcohol. The pharmacist should educate the patient on the bisphosphonates, their benefits, and adverse effects.</p>
+        <p>All postmenopausal women should undergo bone densitometry and understand the benefits of this test.</p>
+        <p>Healthcare providers must all coordinate to ensure that patients initially diagnosed with a fragility fracture receive&#x000a0;early follow-up with an appropriate provider experienced in managing low bone mineral density conditions.&#x000a0; The latter has been receiving significant attention in the literature over the last few decades, as followup&#x000a0;rates have been documented to be extremely&#x000a0;low (i.e., in the range of 5% to 15%).&#x000a0; The goal is to enhance interprofessional care and prevent further fracture, surgery, morbidity, and associated mortality. Evidence level: Level 2 and Level 3. <xref ref-type="bibr" rid="article-26405.r20">[20]</xref></p>
+      </sec>
+      <sec id="article-26405.s13">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=26405&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=26405">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/joint-muscle-and-bone/osteopenia/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=26405">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/26405/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=26405">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-26405.s14">
+        <title>References</title>
+        <ref id="article-26405.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Varacallo</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Fox</surname>
+                <given-names>EJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Osteoporosis and its complications.</article-title>
+            <source>Med Clin North Am</source>
+            <year>2014</year>
+            <month>Jul</month>
+            <volume>98</volume>
+            <issue>4</issue>
+            <fpage>817</fpage>
+            <page-range>817-31, xii-xiii</page-range>
+            <pub-id pub-id-type="pmid">24994054</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26405.r2">
+          <label>2</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Porter</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Varacallo</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Osteoporosis</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>8</month>
+            <day>4</day>
+            <pub-id pub-id-type="pmid">28722930</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26405.r3">
+          <label>3</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Varacallo</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Seaman</surname>
+                <given-names>TJ</given-names>
+              </name>
+              <name>
+                <surname>Jandu</surname>
+                <given-names>JS</given-names>
+              </name>
+              <name>
+                <surname>Pizzutillo</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Osteopenia</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>8</month>
+            <day>4</day>
+            <pub-id pub-id-type="pmid">29763053</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26405.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Weaver</surname>
+                <given-names>CM</given-names>
+              </name>
+              <name>
+                <surname>Gordon</surname>
+                <given-names>CM</given-names>
+              </name>
+              <name>
+                <surname>Janz</surname>
+                <given-names>KF</given-names>
+              </name>
+              <name>
+                <surname>Kalkwarf</surname>
+                <given-names>HJ</given-names>
+              </name>
+              <name>
+                <surname>Lappe</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Lewis</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>O'Karma</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Wallace</surname>
+                <given-names>TC</given-names>
+              </name>
+              <name>
+                <surname>Zemel</surname>
+                <given-names>BS</given-names>
+              </name>
+            </person-group>
+            <article-title>The National Osteoporosis Foundation's position statement on peak bone mass development and lifestyle factors: a systematic review and implementation recommendations.</article-title>
+            <source>Osteoporos Int</source>
+            <year>2016</year>
+            <month>Apr</month>
+            <volume>27</volume>
+            <issue>4</issue>
+            <fpage>1281</fpage>
+            <page-range>1281-1386</page-range>
+            <pub-id pub-id-type="pmid">26856587</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26405.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Varacallo</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Fox</surname>
+                <given-names>EJ</given-names>
+              </name>
+              <name>
+                <surname>Paul</surname>
+                <given-names>EM</given-names>
+              </name>
+              <name>
+                <surname>Hassenbein</surname>
+                <given-names>SE</given-names>
+              </name>
+              <name>
+                <surname>Warlow</surname>
+                <given-names>PM</given-names>
+              </name>
+            </person-group>
+            <article-title>Patients' response toward an automated orthopedic osteoporosis intervention program.</article-title>
+            <source>Geriatr Orthop Surg Rehabil</source>
+            <year>2013</year>
+            <month>Sep</month>
+            <volume>4</volume>
+            <issue>3</issue>
+            <fpage>89</fpage>
+            <page-range>89-98</page-range>
+            <pub-id pub-id-type="pmid">24319621</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26405.r6">
+          <label>6</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Donnally III</surname>
+                <given-names>CJ</given-names>
+              </name>
+              <name>
+                <surname>DiPompeo</surname>
+                <given-names>CM</given-names>
+              </name>
+              <name>
+                <surname>Varacallo</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Vertebral Compression Fractures</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>8</month>
+            <day>4</day>
+            <pub-id pub-id-type="pmid">28846351</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26405.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Blume</surname>
+                <given-names>SW</given-names>
+              </name>
+              <name>
+                <surname>Curtis</surname>
+                <given-names>JR</given-names>
+              </name>
+            </person-group>
+            <article-title>Medical costs of osteoporosis in the elderly Medicare population.</article-title>
+            <source>Osteoporos Int</source>
+            <year>2011</year>
+            <month>Jun</month>
+            <volume>22</volume>
+            <issue>6</issue>
+            <fpage>1835</fpage>
+            <page-range>1835-44</page-range>
+            <pub-id pub-id-type="pmid">21165602</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26405.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Burge</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Dawson-Hughes</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Solomon</surname>
+                <given-names>DH</given-names>
+              </name>
+              <name>
+                <surname>Wong</surname>
+                <given-names>JB</given-names>
+              </name>
+              <name>
+                <surname>King</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Tosteson</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Incidence and economic burden of osteoporosis-related fractures in the United States, 2005-2025.</article-title>
+            <source>J Bone Miner Res</source>
+            <year>2007</year>
+            <month>Mar</month>
+            <volume>22</volume>
+            <issue>3</issue>
+            <fpage>465</fpage>
+            <page-range>465-75</page-range>
+            <pub-id pub-id-type="pmid">17144789</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26405.r9">
+          <label>9</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Varacallo</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Davis</surname>
+                <given-names>DD</given-names>
+              </name>
+              <name>
+                <surname>Pizzutillo</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Osteoporosis in Spinal Cord Injuries</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>8</month>
+            <day>28</day>
+            <pub-id pub-id-type="pmid">30252365</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26405.r10">
+          <label>10</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>El Sayed</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>Nezwek</surname>
+                <given-names>TA</given-names>
+              </name>
+              <name>
+                <surname>Varacallo</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Physiology, Bone</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2022</year>
+            <month>10</month>
+            <day>19</day>
+            <pub-id pub-id-type="pmid">28722997</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26405.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Khosla</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Burr</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Cauley</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Dempster</surname>
+                <given-names>DW</given-names>
+              </name>
+              <name>
+                <surname>Ebeling</surname>
+                <given-names>PR</given-names>
+              </name>
+              <name>
+                <surname>Felsenberg</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Gagel</surname>
+                <given-names>RF</given-names>
+              </name>
+              <name>
+                <surname>Gilsanz</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Guise</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Koka</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>McCauley</surname>
+                <given-names>LK</given-names>
+              </name>
+              <name>
+                <surname>McGowan</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>McKee</surname>
+                <given-names>MD</given-names>
+              </name>
+              <name>
+                <surname>Mohla</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Pendrys</surname>
+                <given-names>DG</given-names>
+              </name>
+              <name>
+                <surname>Raisz</surname>
+                <given-names>LG</given-names>
+              </name>
+              <name>
+                <surname>Ruggiero</surname>
+                <given-names>SL</given-names>
+              </name>
+              <name>
+                <surname>Shafer</surname>
+                <given-names>DM</given-names>
+              </name>
+              <name>
+                <surname>Shum</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Silverman</surname>
+                <given-names>SL</given-names>
+              </name>
+              <name>
+                <surname>Van Poznak</surname>
+                <given-names>CH</given-names>
+              </name>
+              <name>
+                <surname>Watts</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Woo</surname>
+                <given-names>SB</given-names>
+              </name>
+              <name>
+                <surname>Shane</surname>
+                <given-names>E</given-names>
+              </name>
+              <collab>American Society for Bone and Mineral Research</collab>
+            </person-group>
+            <article-title>Bisphosphonate-associated osteonecrosis of the jaw: report of a task force of the American Society for Bone and Mineral Research.</article-title>
+            <source>J Bone Miner Res</source>
+            <year>2007</year>
+            <month>Oct</month>
+            <volume>22</volume>
+            <issue>10</issue>
+            <fpage>1479</fpage>
+            <page-range>1479-91</page-range>
+            <pub-id pub-id-type="pmid">17663640</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26405.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Karaguzel</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Holick</surname>
+                <given-names>MF</given-names>
+              </name>
+            </person-group>
+            <article-title>Diagnosis and treatment of osteopenia.</article-title>
+            <source>Rev Endocr Metab Disord</source>
+            <year>2010</year>
+            <month>Dec</month>
+            <volume>11</volume>
+            <issue>4</issue>
+            <fpage>237</fpage>
+            <page-range>237-51</page-range>
+            <pub-id pub-id-type="pmid">21234807</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26405.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kanis</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Johansson</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Oden</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Cooper</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>McCloskey</surname>
+                <given-names>EV</given-names>
+              </name>
+              <collab>Epidemiology and Quality of Life Working Group of IOF</collab>
+            </person-group>
+            <article-title>Worldwide uptake of FRAX.</article-title>
+            <source>Arch Osteoporos</source>
+            <year>2014</year>
+            <volume>9</volume>
+            <fpage>166</fpage>
+            <pub-id pub-id-type="pmid">24420978</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26405.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Salkeld</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Cameron</surname>
+                <given-names>ID</given-names>
+              </name>
+              <name>
+                <surname>Cumming</surname>
+                <given-names>RG</given-names>
+              </name>
+              <name>
+                <surname>Easter</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Seymour</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Kurrle</surname>
+                <given-names>SE</given-names>
+              </name>
+              <name>
+                <surname>Quine</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Quality of life related to fear of falling and hip fracture in older women: a time trade off study.</article-title>
+            <source>BMJ</source>
+            <year>2000</year>
+            <month>Feb</month>
+            <day>05</day>
+            <volume>320</volume>
+            <issue>7231</issue>
+            <fpage>341</fpage>
+            <page-range>341-6</page-range>
+            <pub-id pub-id-type="pmid">10657327</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26405.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bukata</surname>
+                <given-names>SV</given-names>
+              </name>
+              <name>
+                <surname>Digiovanni</surname>
+                <given-names>BF</given-names>
+              </name>
+              <name>
+                <surname>Friedman</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Hoyen</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Kates</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Kates</surname>
+                <given-names>SL</given-names>
+              </name>
+              <name>
+                <surname>Mears</surname>
+                <given-names>SC</given-names>
+              </name>
+              <name>
+                <surname>Mendelson</surname>
+                <given-names>DA</given-names>
+              </name>
+              <name>
+                <surname>Serna</surname>
+                <given-names>FH</given-names>
+              </name>
+              <name>
+                <surname>Sieber</surname>
+                <given-names>FE</given-names>
+              </name>
+              <name>
+                <surname>Tyler</surname>
+                <given-names>WK</given-names>
+              </name>
+            </person-group>
+            <article-title>A guide to improving the care of patients with fragility fractures.</article-title>
+            <source>Geriatr Orthop Surg Rehabil</source>
+            <year>2011</year>
+            <month>Jan</month>
+            <volume>2</volume>
+            <issue>1</issue>
+            <fpage>5</fpage>
+            <page-range>5-37</page-range>
+            <pub-id pub-id-type="pmid">23569668</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26405.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Eriksen</surname>
+                <given-names>EF</given-names>
+              </name>
+            </person-group>
+            <article-title>Treatment of osteopenia.</article-title>
+            <source>Rev Endocr Metab Disord</source>
+            <year>2012</year>
+            <month>Sep</month>
+            <volume>13</volume>
+            <issue>3</issue>
+            <fpage>209</fpage>
+            <page-range>209-23</page-range>
+            <pub-id pub-id-type="pmid">21710179</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26405.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Siris</surname>
+                <given-names>ES</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>YT</given-names>
+              </name>
+              <name>
+                <surname>Abbott</surname>
+                <given-names>TA</given-names>
+              </name>
+              <name>
+                <surname>Barrett-Connor</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Miller</surname>
+                <given-names>PD</given-names>
+              </name>
+              <name>
+                <surname>Wehren</surname>
+                <given-names>LE</given-names>
+              </name>
+              <name>
+                <surname>Berger</surname>
+                <given-names>ML</given-names>
+              </name>
+            </person-group>
+            <article-title>Bone mineral density thresholds for pharmacological intervention to prevent fractures.</article-title>
+            <source>Arch Intern Med</source>
+            <year>2004</year>
+            <month>May</month>
+            <day>24</day>
+            <volume>164</volume>
+            <issue>10</issue>
+            <fpage>1108</fpage>
+            <page-range>1108-12</page-range>
+            <pub-id pub-id-type="pmid">15159268</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26405.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Diab</surname>
+                <given-names>DL</given-names>
+              </name>
+              <name>
+                <surname>Watts</surname>
+                <given-names>NB</given-names>
+              </name>
+            </person-group>
+            <article-title>Diagnosis and treatment of osteoporosis in older adults.</article-title>
+            <source>Endocrinol Metab Clin North Am</source>
+            <year>2013</year>
+            <month>Jun</month>
+            <volume>42</volume>
+            <issue>2</issue>
+            <fpage>305</fpage>
+            <page-range>305-17</page-range>
+            <pub-id pub-id-type="pmid">23702403</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26405.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lenart</surname>
+                <given-names>BA</given-names>
+              </name>
+              <name>
+                <surname>Lorich</surname>
+                <given-names>DG</given-names>
+              </name>
+              <name>
+                <surname>Lane</surname>
+                <given-names>JM</given-names>
+              </name>
+            </person-group>
+            <article-title>Atypical fractures of the femoral diaphysis in postmenopausal women taking alendronate.</article-title>
+            <source>N Engl J Med</source>
+            <year>2008</year>
+            <month>Mar</month>
+            <day>20</day>
+            <volume>358</volume>
+            <issue>12</issue>
+            <fpage>1304</fpage>
+            <page-range>1304-6</page-range>
+            <pub-id pub-id-type="pmid">18354114</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26405.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Xia</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Cooper</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Xu</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Rizzoli</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Zhu</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Lin</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Beard</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ding</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Yu</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Cavalier</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Kanis</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Cheng</surname>
+                <given-names>Q</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>Q</given-names>
+              </name>
+              <name>
+                <surname>Reginster</surname>
+                <given-names>JY</given-names>
+              </name>
+            </person-group>
+            <article-title>East meets West: current practices and policies in the management of musculoskeletal aging.</article-title>
+            <source>Aging Clin Exp Res</source>
+            <year>2019</year>
+            <month>Oct</month>
+            <volume>31</volume>
+            <issue>10</issue>
+            <fpage>1351</fpage>
+            <page-range>1351-1373</page-range>
+            <pub-id pub-id-type="pmid">31376119</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

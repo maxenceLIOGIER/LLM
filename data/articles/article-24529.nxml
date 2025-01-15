@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-24529" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Drug-Induced Lupus Erythematosus</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Solhjoo</surname>
+            <given-names>Mahdis</given-names>
+          </name>
+          <aff>Nassau University Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Goyal</surname>
+            <given-names>Amandeep</given-names>
+          </name>
+          <aff>University of Kansas Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Chauhan</surname>
+            <given-names>Krati</given-names>
+          </name>
+          <aff>Southern Illinois University</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Mahdis Solhjoo declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Amandeep Goyal declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Krati Chauhan declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>3</day>
+          <month>4</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-24529.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Drug-induced lupus erythematosus (DIL) is an autoimmune phenomenon where the patient develops symptoms similar to systemic lupus erythematosus (SLE) after exposure to certain drugs. While DIL tends to be less severe than SLE, the diagnosis can be challenging. This activity reviews the pathophysiology and management of drug-induced lupus and highlights the role of the interprofessional team in its management.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Identify the drugs that can induce lupus-like features.</p></list-item><list-item><p>Describe the laboratory features of drug-induced lupus.</p></list-item><list-item><p>Summarize the treatment options for drug-induced lupus.</p></list-item><list-item><p>Review the importance of improving care coordination among interprofessional team members to improve outcomes for patients affected by drug-induced lupus.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=24529&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=24529">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-24529.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Drug-induced lupus (DIL) is an autoimmune phenomenon where a drug exposure leads to the development of&#x000a0;systemic lupus erythematosus (SLE) like clinical features. DIL is a clear example of an environmental trigger leading to the development of lupus in a genetically susceptible individual. Hydralazine was the first agent to be&#x000a0;associated with the development of lupus-like symptoms in 1954<xref ref-type="bibr" rid="article-24529.r1">[1]</xref>. Since then, more than 100 drugs have been identified as the cause of drug-induced lupus, with the list expanding with the development of newer biologic agents each year. DIL tends to be less severe than SLE, with symptoms usually resolving after discontinuation of the offending agent.</p>
+      </sec>
+      <sec id="article-24529.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p>Hundreds of drugs have been reported to cause DIL.<xref ref-type="bibr" rid="article-24529.r2">[2]</xref><xref ref-type="bibr" rid="article-24529.r3">[3]</xref>&#x000a0;While some drugs have good evidence of association with DIL,&#x000a0;there are case reports implicating several other drugs as a possible cause of DIL. Several herbal medications have also been reported to cause a lupus-like syndrome. Clinical and immunological features may vary for each agent responsible for the development of DIL.</p>
+        <p>Procainamide and hydralazine have the highest incidence of causing DIL, with risks reported as high as 30% with procainamide and 5% to 10% with hydralazine. All anti-TNF agents have been associated with DIL, with the risk being higher with etanercept and infliximab.<xref ref-type="bibr" rid="article-24529.r4">[4]</xref><xref ref-type="bibr" rid="article-24529.r5">[5]</xref><xref ref-type="bibr" rid="article-24529.r6">[6]</xref>&#x000a0;Other drugs with definite association with DIL include interferon-alpha, minocycline, isoniazid, rifampin, phenytoin, penicillamine, quinidine, phenytoin, methyldopa, chlorpromazine, carbamazepine, ethosuximide, propylthiouracil, and sulfasalazine. Several other medications are thought to be possible causes for DIL with case reports being reported, including statins, antiarrhythmic medications,&#x000a0; ace-inhibitors, proton pump inhibitors, gold salts, non-steroidal anti-inflammatory agents (NSAIDs), oral contraceptives, etc. Herbal medications such as&#x000a0;alfalfa sprouts,&#x000a0;echinacea, and melatonin have also been liked to more lupus flares.&#x000a0;</p>
+      </sec>
+      <sec id="article-24529.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p>Drug-induced lupus represents 6% to 12% of all lupus cases, with an annual incidence of&#x000a0;15,000 to 30,000 new cases per year in the United States.<xref ref-type="bibr" rid="article-24529.r7">[7]</xref>&#x000a0;The epidemiology of DIL is reflective of the population taking the particular drug responsible for DIL. Minocycline induced lupus is more common in younger females, while procainamide or hydralazine induced lupus is more common in the elderly population.&#x000a0;</p>
+      </sec>
+      <sec id="article-24529.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>The pathophysiology of DIL is unclear and different mechanisms are responsible for the induction of autoimmunity by different lupus-inducing drugs.&#x000a0;There are some genetic risk factors such as HLA-DR4, HLA-DR0301 and Complement C4 null allele which vary between different agents. Slow acetylators with genetic deficiency of N-acetyltransferase are at a higher risk of DIL, especially from procainamide and hydralazine.&#x000a0;</p>
+        <p>Inhibition of DNA methylation is thought to contribute to the development of DIL from many agents including procainamide and hydralazine. The demethylation of CD4+ T cells makes them autoreactive by overexpression of the LFA-1 adhesion molecule. These autoreactive T-cells can then overstimulate autoantibody production by interaction with self class II MHC molecules on B-cells and induce apoptosis of macrophages by interacting with self class II MHC molecules on macrophages which release the highly antigenic apoptotic chromatin from the dying macrophages. This autoantibody production and release of the antigenic macrophage chromatin is thought to contribute to the development of lupus-like autoimmunity.</p>
+      </sec>
+      <sec id="article-24529.s6" sec-type="Histopathology">
+        <title>Histopathology</title>
+        <p>Skin rash is one of the most common clinical presentations of drug-induced lupus.&#x000a0;The pathological examination of the biopsy from the skin rash in patients with DIL is similar to those with SLE. The subacute cutaneous lupus erythematosus (SCLE) rash is one of the common rashes which may reveal vacuolar interface dermatitis with lymphohistiocytic infiltration of the upper dermis in a perivascular pattern, epidermal atrophy, dead keratinocytes, and dermo-epidermal degeneration.</p>
+      </sec>
+      <sec id="article-24529.s7" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>Drug-induced lupus may develop a few weeks to several months after starting the drug, which may make the diagnosis difficult. Further, it is not possible to differentiate DIL from SLE based on clinical features alone, although DIL tends to be milder and renal or CNS involvement, vasculitis, leukopenia, and pericarditis are rare.&#x000a0;</p>
+        <p>Arthralgia is&#x000a0;common and often&#x000a0;is the first symptom and presents in up to 90% of the patients. Constitutional symptoms including myalgia, fever and weight loss are also common. Cutaneous involvement is frequent and may include photosensitivity, purpura, erythema nodosum, malar rash, and subacute cutaneous lupus erythematosus (SCLE) rash. Scarring alopecia, discoid lesions, and mucosal ulcers are less common in DIL than in&#x000a0;SLE. Serositis especially pleuritis is also commonly seen. Although pericarditis has rarely been reported with DIL secondary to some drugs, large pericardial effusion or cardiac tamponade is rare to occur in DIL.</p>
+        <p>Hydralazine induced lupus is frequently manifested by arthralgia, myalgia, fever, rash (malar rash is common), hepatosplenomegaly, lymphadenopathy, and pleuritis. Rare cases of glomerulonephritis, neuropsychiatric manifestations and pericarditis have been reported. While arthralgia, myalgia, fever, and pleuritis are common in procainamide induced lupus, rash and lymphadenopathy are less common, and glomerulonephritis or CNS involvement is rare. Minocycline induced lupus is usually characterized by fever, arthralgia, arthritis, rash, and rarely pneumonitis and cutaneous vasculitis.</p>
+        <p>Anti-TNF agents, which are the mainstay of treatment of rheumatoid arthritis now, have been frequently reported with positive autoantibodies as well as drug-induced lupus. While there is a high incidence of positive autoantibodies including ANA and Anti-dsDNA in patients treated with anti-TNF agents (up to 50%), only a few of those patients develop DIL (less than 1%).<xref ref-type="bibr" rid="article-24529.r8">[8]</xref>&#x000a0;Skin rash, thrombocytopenia, leukopenia, hypocomplementemia and rarely hemolytic anemia are the manifestations of DIL secondary to anti-TNF agents. Notably, the development of DIL from one anti-TNF agent may not always lead to DIL from another anti-TNF agent.<xref ref-type="bibr" rid="article-24529.r9">[9]</xref>&#x000a0;Symptoms of DIL resolve within a few weeks to months after discontinuation of the anti-TNF agent, however, the autoantibodies may remain positive for several years.&#x000a0;</p>
+        <p>Both interferon-alpha and interferon-beta have been linked to the development of DIL. As the case with anti-TNF agents, autoantibody development including ANA and Anti-dsDNA is common, while DIL develops in less than 2% cases.<xref ref-type="bibr" rid="article-24529.r10">[10]</xref>&#x000a0;Arthralgia, arthritis, and leukopenia are the usual manifestations.</p>
+        <p>Subacute cutaneous lupus erythematosus (SCLE) may be idiopathic but is drug-induced in about one-third of cases. Hydrochlorothiazide is the classic drug associated with SCLE. Other drugs reported to cause SCLE include terbinafine, anti-TNF agents, antiepileptics, proton pump inhibitors, NSAIDs, antiarrhythmic medications, calcium channel blockers, and ace inhibitors.<xref ref-type="bibr" rid="article-24529.r11">[11]</xref><xref ref-type="bibr" rid="article-24529.r12">[12]</xref>&#x000a0;The rash appears in a photodistribution.&#x000a0;Morphologically, SCLE presents as a papulosquamous psoriasiform to a lichenoid eruption, but it&#x000a0;also&#x000a0;can have a scaly annular&#x000a0;morphology with central clearing.&#x000a0;SCLE is associated with anti-Ro/SSA positivity greater than 3/4 of the time, speckled ANA, and 30% positivity with anti-La/SSB.<xref ref-type="bibr" rid="article-24529.r13">[13]</xref><xref ref-type="bibr" rid="article-24529.r3">[3]</xref></p>
+      </sec>
+      <sec id="article-24529.s8" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>Lupus-like symptoms with the exclusion of other autoimmune disorders and the resolution of symptoms with the withdrawal of medications suggest the diagnosis of DIL.<xref ref-type="bibr" rid="article-24529.r14">[14]</xref><xref ref-type="bibr" rid="article-24529.r15">[15]</xref></p>
+        <p>Laboratory evaluation is crucial but may not always be able to differentiate DIL from SLE. Cytopenias are less common, and if present, are mild. Methyldopa has been associated with hemolytic anemia while a positive coombs test has been reported with methyldopa, procainamide, and carbamazepine.</p>
+        <p>Autoantibody evaluation reveals a positive ANA, usually in a homogenous pattern, although the speckled pattern has been reported. Anti-histone antibodies are present in 75% of cases of DIL, although their utility in differentiating DIL from SLE is limited given their positivity in up to 75% of cases of SLE as well. Positive anti-histone antibodies are seen in DIL secondary to several drugs including hydralazine, procainamide, hydrochlorothiazide, chlorpromazine, isoniazid, quinidine, penicillamine, anti-TNF agents, although they are less frequently seen in DIL secondary to minocycline or propylthiouracil.</p>
+        <p>Anti-dsDNA antibodies are seen in more than 50% of cases of SLE and less than 5% cases of DIL, especially secondary to anti-TNF agents and interferon-alpha. Rare cases of positive Anti-dsDNA have been reported in DIL secondary to minocycline and isoniazid. Anti-Ro/SSA antibodies may be positive in SCLE, either idiopathic or secondary to hydrochlorothiazide.&#x000a0;</p>
+        <p>Antiphospholipid antibodies including anticardiolipin antibodies and lupus anticoagulant have been reported in DIL secondary to&#x000a0;chlorpromazine, procainamide, quinidine, and interferon-alpha. These are rarely associated with thrombotic events.</p>
+        <p>Antineutrophil cytoplasmic antibodies (ANCA)&#x000a0;especially P-ANCA or atypical-ANCA have been reported in DIL secondary to minocycline, hydralazine, propylthiouracil, methimazole, and anti-TNF agents. Notably, up to 20% of patients with SLE can also have a positive ANCA.</p>
+        <p>Other autoantibodies against antigens including smith, ribonuclear protein (RNP), SCL70, centromere, Jo-1 are rare in DIL and may help differentiate DIL from other autoimmune disorders.&#x000a0;</p>
+        <p>Laboratory evaluation shall also include evaluation of complements (C3 and C4), renal function including urine to evaluate for proteinuria, liver function.&#x000a0;Skin biopsy for&#x000a0;DIL is indistinguishable from SLE although it should be pursued in suspicious skin lesions to rule out other etiologies.</p>
+      </sec>
+      <sec id="article-24529.s9" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>The mainstay of treatment is recognition and discontinuation of the offending drug.&#x000a0;Development of positive ANA alone after receiving a drug shall not be a reason for discontinuation of the drug, although these patients shall be closely monitored for the development of DIL.&#x000a0;Symptoms of DIL usually resolve within a few weeks of discontinuation of the medication, although rarely, they may last several months. NSAIDs or low dose corticosteroids may be considered for milder manifestations, with high dose corticosteroids reserved for more serious manifestations such as symptomatic pericardial effusion.&#x000a0; As noted above, even though the symptoms of DIL resolve within few weeks of drug discontinuation, the autoantibodies can stay positive for several months to years, and their presence alone shall be a reason to use anti-inflammatory or immunosuppressive therapy.</p>
+      </sec>
+      <sec id="article-24529.s10" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>Idiopathic systemic lupus erythematosus
+<list list-type="bullet"><list-item><p>The main differential diagnosis of DIL is idiopathic SLE. There is a significant overlap in clinical features and autoantibodies in both these diseases. As mentioned above, severe manifestations such as renal or neurological involvement, vasculitis, and severe hematological involvement are rare in DIL, and when present, shall raise high suspicion for SLE.&#x000a0;</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Idiopathic subacute cutaneous lupus erythematosus
+<list list-type="bullet"><list-item><p>Idiopathic SCLE is in the differential diagnosis of drug-induced SCLE. Widespread distribution of the rash, and resolution of rash after discontinuation of the drug is consistent with drug-induced SCLE rather than idiopathic SCLE.</p></list-item></list>
+</p>
+          </list-item>
+        </list>
+        <p>In patients on anti-TNF agents presenting with fever, rash, and arthralgia, infections shall be ruled out first due to the immunocompromised state of these patients.</p>
+      </sec>
+      <sec id="article-24529.s11" sec-type="Prognosis">
+        <title>Prognosis</title>
+        <p>Drug-induced lupus carries a favorable prognosis with less morbidity and mortality as compared to SLE. In most cases, DIL resolves within a few weeks after discontinuation of the drug, with rare patients needing treatment for several months. Life-threatening disease is infrequent.<xref ref-type="bibr" rid="article-24529.r16">[16]</xref>&#x000a0;However, early recognition is crucial in preventing prolonged hospitalizations or multiple outpatient visits due to uncertainty about the diagnosis.</p>
+      </sec>
+      <sec id="article-24529.s12" sec-type="Complications">
+        <title>Complications</title>
+        <p>Most patients do not experience severe complications of drug-induced lupus. Rare cases of glomerulonephritis may need corticosteroids with immunosuppressive agents, but the development of permanent renal damage is rare.&#x000a0;</p>
+      </sec>
+      <sec id="article-24529.s13" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Many drugs can induce lupus and often these patients will present to the nurse practitioner, primary care provider, internist, and rheumatologist. However, it is important to get an elaborate drug history because the diagnosis may not be straight forward. In most cases, once the offending drug is discontinued, the symptoms gradually subside. However, if there is any organ dysfunction, then the patient needs to be monitored until the laboratory parameters are normal. The pharmacist should always keep a track of patient medications because it may be the first clue that a drug is involved in the patient's pathology.<xref ref-type="bibr" rid="article-24529.r17">[17]</xref><xref ref-type="bibr" rid="article-24529.r18">[18]</xref>&#x000a0;an interprofessional&#x000a0;team approach to the evaluation and treatment of drug-induced&#x000a0;lupus will provide the best outcome. [Level V]</p>
+      </sec>
+      <sec id="article-24529.s14">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=24529&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=24529">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/medications/drug-induced-lupus-erythematosus/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=24529">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/24529/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=24529">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-24529.s15">
+        <title>References</title>
+        <ref id="article-24529.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>REINHARDT</surname>
+                <given-names>DJ</given-names>
+              </name>
+              <name>
+                <surname>WALDRON</surname>
+                <given-names>JM</given-names>
+              </name>
+            </person-group>
+            <article-title>Lupus erythematosus-like syndrome complicating hydralazine (apresoline) therapy.</article-title>
+            <source>J Am Med Assoc</source>
+            <year>1954</year>
+            <month>Aug</month>
+            <day>21</day>
+            <volume>155</volume>
+            <issue>17</issue>
+            <fpage>1491</fpage>
+            <page-range>1491-2</page-range>
+            <pub-id pub-id-type="pmid">13183772</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24529.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bojinca</surname>
+                <given-names>VC</given-names>
+              </name>
+              <name>
+                <surname>Bojinca</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Gheorghe</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Birceanu</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Iosif</surname>
+                <given-names>CI</given-names>
+              </name>
+              <name>
+                <surname>Balanescu</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Balanescu</surname>
+                <given-names>AR</given-names>
+              </name>
+            </person-group>
+            <article-title>Stevens-Johnsons syndrome or drug-induced lupus - a clinical dilemma: A case report and review of the literature.</article-title>
+            <source>Biomed Rep</source>
+            <year>2018</year>
+            <month>Jul</month>
+            <volume>9</volume>
+            <issue>1</issue>
+            <fpage>37</fpage>
+            <page-range>37-41</page-range>
+            <pub-id pub-id-type="pmid">29930803</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24529.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>He</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Sawalha</surname>
+                <given-names>AH</given-names>
+              </name>
+            </person-group>
+            <article-title>Drug-induced lupus erythematosus: an update on drugs and mechanisms.</article-title>
+            <source>Curr Opin Rheumatol</source>
+            <year>2018</year>
+            <month>Sep</month>
+            <volume>30</volume>
+            <issue>5</issue>
+            <fpage>490</fpage>
+            <page-range>490-497</page-range>
+            <pub-id pub-id-type="pmid">29870500</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24529.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Atzeni</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Turiel</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Capsoni</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Doria</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Meroni</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Sarzi-Puttini</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Autoimmunity and anti-TNF-alpha agents.</article-title>
+            <source>Ann N Y Acad Sci</source>
+            <year>2005</year>
+            <month>Jun</month>
+            <volume>1051</volume>
+            <fpage>559</fpage>
+            <page-range>559-69</page-range>
+            <pub-id pub-id-type="pmid">16126996</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24529.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shakoor</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Michalska</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Harris</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>Block</surname>
+                <given-names>JA</given-names>
+              </name>
+            </person-group>
+            <article-title>Drug-induced systemic lupus erythematosus associated with etanercept therapy.</article-title>
+            <source>Lancet</source>
+            <year>2002</year>
+            <month>Feb</month>
+            <day>16</day>
+            <volume>359</volume>
+            <issue>9306</issue>
+            <fpage>579</fpage>
+            <page-range>579-80</page-range>
+            <pub-id pub-id-type="pmid">11867114</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24529.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>De Rycke</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Kruithof</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Van Damme</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Hoffman</surname>
+                <given-names>IE</given-names>
+              </name>
+              <name>
+                <surname>Van den Bossche</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Van den Bosch</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Veys</surname>
+                <given-names>EM</given-names>
+              </name>
+              <name>
+                <surname>De Keyser</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>Antinuclear antibodies following infliximab treatment in patients with rheumatoid arthritis or spondylarthropathy.</article-title>
+            <source>Arthritis Rheum</source>
+            <year>2003</year>
+            <month>Apr</month>
+            <volume>48</volume>
+            <issue>4</issue>
+            <fpage>1015</fpage>
+            <page-range>1015-23</page-range>
+            <pub-id pub-id-type="pmid">12687543</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24529.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chang</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Gershwin</surname>
+                <given-names>ME</given-names>
+              </name>
+            </person-group>
+            <article-title>Drug-induced lupus erythematosus: incidence, management and prevention.</article-title>
+            <source>Drug Saf</source>
+            <year>2011</year>
+            <month>May</month>
+            <day>01</day>
+            <volume>34</volume>
+            <issue>5</issue>
+            <fpage>357</fpage>
+            <page-range>357-74</page-range>
+            <pub-id pub-id-type="pmid">21513360</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24529.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Katz</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>Zandman-Goddard</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Drug-induced lupus: an update.</article-title>
+            <source>Autoimmun Rev</source>
+            <year>2010</year>
+            <month>Nov</month>
+            <volume>10</volume>
+            <issue>1</issue>
+            <fpage>46</fpage>
+            <page-range>46-50</page-range>
+            <pub-id pub-id-type="pmid">20656071</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24529.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Williams</surname>
+                <given-names>VL</given-names>
+              </name>
+              <name>
+                <surname>Cohen</surname>
+                <given-names>PR</given-names>
+              </name>
+            </person-group>
+            <article-title>TNF alpha antagonist-induced lupus-like syndrome: report and review of the literature with implications for treatment with alternative TNF alpha antagonists.</article-title>
+            <source>Int J Dermatol</source>
+            <year>2011</year>
+            <month>May</month>
+            <volume>50</volume>
+            <issue>5</issue>
+            <fpage>619</fpage>
+            <page-range>619-25</page-range>
+            <pub-id pub-id-type="pmid">21506984</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24529.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>R&#x000f6;nnblom</surname>
+                <given-names>LE</given-names>
+              </name>
+              <name>
+                <surname>Alm</surname>
+                <given-names>GV</given-names>
+              </name>
+              <name>
+                <surname>Oberg</surname>
+                <given-names>KE</given-names>
+              </name>
+            </person-group>
+            <article-title>Autoimmunity after alpha-interferon therapy for malignant carcinoid tumors.</article-title>
+            <source>Ann Intern Med</source>
+            <year>1991</year>
+            <month>Aug</month>
+            <day>01</day>
+            <volume>115</volume>
+            <issue>3</issue>
+            <fpage>178</fpage>
+            <page-range>178-83</page-range>
+            <pub-id pub-id-type="pmid">2058872</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24529.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sosenko</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Pasula</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Brahmamdam</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Girnita</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>When Chest Pain Reveals More: A Case of Hydrochlorothiazide-Induced Systemic Lupus Erythematosus.</article-title>
+            <source>Am J Case Rep</source>
+            <year>2019</year>
+            <month>Jan</month>
+            <day>07</day>
+            <volume>20</volume>
+            <fpage>26</fpage>
+            <page-range>26-30</page-range>
+            <pub-id pub-id-type="pmid">30613100</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24529.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Batra</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Kaur</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kaushal</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Singh</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Lamotrigine-induced Systemic Lupus Erythematosus: A Diagnostic Dilemma.</article-title>
+            <source>Indian Dermatol Online J</source>
+            <year>2018</year>
+            <season>Nov-Dec</season>
+            <volume>9</volume>
+            <issue>6</issue>
+            <fpage>445</fpage>
+            <page-range>445-447</page-range>
+            <pub-id pub-id-type="pmid">30505789</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24529.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Vaglio</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Grayson</surname>
+                <given-names>PC</given-names>
+              </name>
+              <name>
+                <surname>Fenaroli</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Gianfreda</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Boccaletti</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Ghiggeri</surname>
+                <given-names>GM</given-names>
+              </name>
+              <name>
+                <surname>Moroni</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Drug-induced lupus: Traditional and new concepts.</article-title>
+            <source>Autoimmun Rev</source>
+            <year>2018</year>
+            <month>Sep</month>
+            <volume>17</volume>
+            <issue>9</issue>
+            <fpage>912</fpage>
+            <page-range>912-918</page-range>
+            <pub-id pub-id-type="pmid">30005854</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24529.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kelly</surname>
+                <given-names>AS</given-names>
+              </name>
+              <name>
+                <surname>De la Harpe Golden</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>D'Arcy</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Lally</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Drug-induced lupus erythematosus secondary to pirfenidone.</article-title>
+            <source>Br J Dermatol</source>
+            <year>2018</year>
+            <month>Jun</month>
+            <volume>178</volume>
+            <issue>6</issue>
+            <fpage>1437</fpage>
+            <page-range>1437-1438</page-range>
+            <pub-id pub-id-type="pmid">29266198</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24529.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sarkar</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Paul</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Pandey</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Roy</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Sau</surname>
+                <given-names>TJ</given-names>
+              </name>
+              <name>
+                <surname>Mani</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Ruia</surname>
+                <given-names>AV</given-names>
+              </name>
+              <name>
+                <surname>Mondal</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Drug-induced Lupus Presenting with Myocarditis.</article-title>
+            <source>J Assoc Physicians India</source>
+            <year>2017</year>
+            <month>Jun</month>
+            <volume>65</volume>
+            <issue>6</issue>
+            <fpage>110</fpage>
+            <pub-id pub-id-type="pmid">28782328</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24529.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Vasoo</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Drug-induced lupus: an update.</article-title>
+            <source>Lupus</source>
+            <year>2006</year>
+            <volume>15</volume>
+            <issue>11</issue>
+            <fpage>757</fpage>
+            <page-range>757-61</page-range>
+            <pub-id pub-id-type="pmid">17153847</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24529.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zeitjian</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Mehdizadeh</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>ANA-Negative Hydralazine-Induced Pericardial Effusion.</article-title>
+            <source>Case Rep Med</source>
+            <year>2017</year>
+            <volume>2017</volume>
+            <fpage>3521541</fpage>
+            <pub-id pub-id-type="pmid">29391867</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24529.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Laurinaviciene</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Sandholdt</surname>
+                <given-names>LH</given-names>
+              </name>
+              <name>
+                <surname>Bygum</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Drug-induced cutaneous lupus erythematosus: 88 new cases.</article-title>
+            <source>Eur J Dermatol</source>
+            <year>2017</year>
+            <month>Feb</month>
+            <day>01</day>
+            <volume>27</volume>
+            <issue>1</issue>
+            <fpage>28</fpage>
+            <page-range>28-33</page-range>
+            <pub-id pub-id-type="pmid">27799135</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

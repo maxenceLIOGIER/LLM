@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-41850" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Ranolazine</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Reed</surname>
+            <given-names>Mirembe</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Kerndt</surname>
+            <given-names>Connor C.</given-names>
+          </name>
+          <aff>Spectrum Health/Michigan State University College of Human Medicine</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Gopal</surname>
+            <given-names>Shwetha</given-names>
+          </name>
+          <aff>Bassett Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Pellegrini</surname>
+            <given-names>Mark V.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Nicolas</surname>
+            <given-names>Diala</given-names>
+          </name>
+          <aff>Steward St. Elizabeth's Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Mirembe Reed declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Connor Kerndt declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Shwetha Gopal declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Mark Pellegrini declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Diala Nicolas declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>28</day>
+          <month>2</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-41850.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p content-type="pubmed-excerpt">This activity focuses on ranolazine, an FDA-approved medication for the management of chronic angina associated with ischemic heart disease. Aimed at optimizing the treatment of stable angina, the primary objective is to alleviate ischemic symptoms, minimize their occurrence, and reduce the risk of myocardial infarction and mortality. In conjunction with standard therapies such as aspirin, P2Y12 inhibitors, ACEIs, angiotensin receptor blockers, statins, beta-blockers, calcium channel blockers, and nitrates, ranolazine serves as an adjunct therapy, enriching the overall strategy for angina management.</p>
+        <p>This educational activity also explores the limited data surrounding ranolazine's potential in addressing specific arrhythmias, particularly ventricular tachycardia. The program thoroughly explores ranolazine, encompassing its indications, mechanism of action, administration modalities, notable adverse effects, contraindications, and monitoring protocols. This knowledge equips healthcare providers to guide patient therapy skillfully, seamlessly incorporating ranolazine as a component within defined clinical contexts and fostering collaborative practices within the healthcare team.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Identify the appropriate patient population for ranolazine therapy, considering those with chronic angina or related symptoms refractory to other standard medications.</p></list-item><list-item><p>Implement ranolazine as part of a comprehensive treatment plan for patients with chronic angina or related conditions, considering its role in combination with other anti-anginal medications.</p></list-item><list-item><p>Assess patients regularly for therapeutic response and potential adverse effects while on ranolazine therapy.</p></list-item><list-item><p>Determine plans&#x000a0;with an interprofessional team to optimize the use of ranolazine in the management of chronic angina and related conditions.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=41850&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=41850">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-41850.s2" sec-type="Indications">
+        <title>Indications</title>
+        <p>Chronic angina is a relatively common cardiovascular disorder that affects millions of patients worldwide, causing significant disability and inhibiting activities of daily living.<xref ref-type="bibr" rid="article-41850.r1">[1]</xref> Ranolazine was FDA-approved in 2006 for the treatment of chronic stable angina.<xref ref-type="bibr" rid="article-41850.r2">[2]</xref><xref ref-type="bibr" rid="article-41850.r3">[3]</xref><xref ref-type="bibr" rid="article-41850.r4">[4]</xref></p>
+        <p>Chronic stable angina affects more than 7 million people in America and is one of the major causes of significant morbidity in these patients.&#x000a0;Stable angina is treated to reduce the symptoms and occurrence of ischemia and to prevent myocardial infarction and mortality.<xref ref-type="bibr" rid="article-41850.r5">[5]</xref>&#x000a0;Standard therapy includes aspirin, beta-blockers, P2Y12 inhibitors, angiotensin-converting enzyme inhibitors (ACEI), angiotensin receptor blockers,&#x000a0;statins, calcium channel blockers, and nitrates. Ranolazine may be used in combination with these agents to treat angina.&#x000a0;</p>
+        <p>
+<bold>FDA-Approved Indications</bold>
+</p>
+        <p>Chronic angina</p>
+        <p>
+<bold>Off-Label Uses</bold>
+</p>
+        <p>Arrhythmias, such as&#x000a0;ventricular tachycardia; there is little data to support this use.<xref ref-type="bibr" rid="article-41850.r4">[4]</xref></p>
+        <p>
+<bold>Clinical Evidence</bold>
+</p>
+        <p>The Combination Assessment of Ranolazine in Stable Angina (CARISA) trial was a multinational,&#x000a0;randomized, double-blind, placebo-controlled trial of patients with symptomatic chronic angina despite taking standard doses of&#x000a0;diltiazem, atenolol, or amlodipine.<xref ref-type="bibr" rid="article-41850.r6">[6]</xref>&#x000a0;Patients were randomly assigned to receive a placebo or 750 to 1000 mg of ranolazine twice daily. Outcome measures included a change in exercise time, time to onset of symptoms, time to onset of ischemia, need for nitroglycerin, and the number of angina attacks.&#x000a0;Exercise duration, time to angina symptoms, and time to&#x000a0;ischemia&#x000a0;increased&#x000a0;more from baseline in both ranolazine groups&#x000a0;compared to&#x000a0;the placebo group. Exercise tolerance increased with ranolazine dose and plasma concentration.&#x000a0;These changes were independent of heart rate, blood pressure, or background antianginal therapy. Angina attacks and nitroglycerin use were reduced by about&#x000a0;7 days&#x000a0;in the ranolazine group compared to placebo.</p>
+        <p>In the&#x000a0;Efficacy of Ranolazine in Chronic Angina (ERICA) trial, ranolazine reduced the frequency of anginal symptoms and nitroglycerin use compared to placebo in patients with coronary artery disease who still had symptoms despite&#x000a0;therapy with&#x000a0;amlodipine 10 mg daily.<xref ref-type="bibr" rid="article-41850.r7">[7]</xref>&#x000a0;Researchers are examining the potential role of ranolazine in atrial fibrillation, but it&#x000a0;has not yet received FDA approval&#x000a0;for that purpose.<xref ref-type="bibr" rid="article-41850.r8">[8]</xref></p>
+      </sec>
+      <sec id="article-41850.s3" sec-type="Mechanism of Action">
+        <title>Mechanism of Action</title>
+        <p>The mechanism of ranolazine's anti-anginal and anti-ischemic effects is&#x000a0;not&#x000a0;entirely understood.&#x000a0;Ranolazine is known to&#x000a0;inhibit the late phase of inward sodium&#x000a0;channels in ischemic&#x000a0;cardiac myocytes, reducing the intracellular sodium concentration and thus reducing intracellular calcium&#x000a0;influx via the Na-Ca channel. Decreased intracellular calcium reduces ventricular wall tension and thus reduces oxygen consumption; it does not&#x000a0;affect blood pressure or heart rate.&#x000a0;The Monotherapy Assessment of Ranolazine in Stable Angina (MARISA) trial randomized 191 patients with activity-limiting angina to 500 mg, 1000 mg, or 1500 mg twice daily or placebo for a week.&#x000a0;Ranolazine significantly increased exercise duration compared to placebo and&#x000a0;had negligible effects on heart rate and blood pressure.<xref ref-type="bibr" rid="article-41850.r9">[9]</xref></p>
+        <p>At higher concentrations, ranolazine inhibits rapid delayed rectifier potassium current, delaying the action potential and prolonging the QT interval. Ranolazine&#x000a0;also inhibits fatty acid oxidation, which enhances glucose oxidation, reduces lactic acid production, and improves heart function.</p>
+        <p>
+<bold>Pharmacokinetics</bold>
+</p>
+        <p><bold>Absorption:&#x000a0;</bold>Ranolazine's time to peak concentration varies within 2 to 6 hours, with steady-state achieved within 3 days.</p>
+        <p><bold>Distribution:&#x000a0;</bold>Ranolazine's steady-state volume of distribution ranges from 85 to 180 L.</p>
+        <p><bold>Metabolism:&#x000a0;</bold>The drug is rapidly hepatically metabolized primarily via CYP3A4 enzymatic activity; minor metabolism occurs via CYP2D6.<xref ref-type="bibr" rid="article-41850.r10">[10]</xref><xref ref-type="bibr" rid="article-41850.r11">[11]</xref>&#x000a0;Over 40 different ranolazine metabolites have been found in plasma, while over 100 have been identified in urine.<xref ref-type="bibr" rid="article-41850.r12">[12]</xref></p>
+        <p><bold>Elimination:&#x000a0;</bold>Approximately 75% of the administered dose is excreted renally, with the remainder excreted in the feces. The drug has a half-life of approximately 7 hours.<xref ref-type="bibr" rid="article-41850.r13">[13]</xref></p>
+      </sec>
+      <sec id="article-41850.s4" sec-type="Administration">
+        <title>Administration</title>
+        <p>
+<bold>Dosage Forms</bold>
+</p>
+        <p>Ranolazine is available as 500 mg and 1000 mg extended-release tablets.</p>
+        <p>
+<bold>Adult Dosing</bold>
+</p>
+        <p>Dosing should begin at 500 mg twice daily and be titrated&#x000a0;to 1000 mg twice daily as tolerated. The maximum&#x000a0;recommended dose&#x000a0;is&#x000a0;1000 mg twice a day. The&#x000a0;tablets are film-coated and not scored; they&#x000a0;should not be crushed, broken, or chewed. Food does not alter the absorption rate or the area under the plasma concentration-time curve (AUC); ranolazine can be administered without regard to meals. Peak&#x000a0;plasma concentrations are reached between 2 and 5 hours, the half-life is&#x000a0;7 hours, and the steady state concentration is achieved within&#x000a0;3 days.</p>
+        <p>Dose adjustment is required when ranolazine is taken with moderate CYP3A inhibitors like verapamil, diltiazem, and erythromycin. The dose should not exceed 500 mg twice a day. Dosing should be titrated to clinical response&#x000a0;for patients&#x000a0;who are co-administered P-glycoprotein inhibitors (eg, cyclosporine) because they may also increase ranolazine plasma concentrations.</p>
+        <p>
+<bold>Special Patient Populations</bold>
+</p>
+        <p><bold>Hepatic impairment:&#x000a0;</bold>Plasma concentrations of ranolazine increased by 30% in patients with mild hepatic impairment (Child-Pugh Class A) and 60% in patients with moderate hepatic impairment (Child-Pugh Class B). However,&#x000a0;in patients with mild to severe hepatic impairment, researchers noted a 3-fold increase in QT prolongation;&#x000a0;ranolazine is contraindicated in patients with severe liver disease such as cirrhosis.&#x000a0;</p>
+        <p><bold>Renal impairment:&#x000a0;</bold>Specific renal impairment dosing is undefined, but caution is advised in patients with CrCl &#x0003c;60.&#x000a0;Ranolazine should be discontinued&#x000a0;if renal failure occurs, and therapy should not be initiated in patients with a CrCl of less than 30 mL/min. Dosing is undefined for patients on dialysis.</p>
+        <p><bold>Pregnancy considerations:&#x000a0;</bold>While there is no known teratogenicity data, clinicians should weigh risk vs. benefit in patients who are pregnant.&#x000a0;</p>
+        <p><bold>Breastfeeding considerations:&#x000a0;</bold>Clinicians should weigh the risks vs benefits in breastfeeding females; no data exists to assess potential infant harm or effects on milk production.</p>
+        <p><bold>Pediatric patients:&#x000a0;</bold>Ranolazine is not indicated or approved for use in pediatric patients.</p>
+        <p><bold>Older patients:&#x000a0;</bold>In controlled&#x000a0;studies, 48% of subjects were older than 65, and 11% were&#x000a0;older than 75. Researchers observed no overall differences in efficacy between older and younger patients.&#x000a0;However, patients&#x000a0;older than 75 experienced a higher incidence of adverse events, serious adverse events, and drug discontinuations&#x000a0;resulting from adverse events.<xref ref-type="bibr" rid="article-41850.r14">[14]</xref></p>
+      </sec>
+      <sec id="article-41850.s5" sec-type="Adverse Effects">
+        <title>Adverse Effects</title>
+        <p>The most common adverse events were dizziness, headaches, nausea, confusion, tinnitus, vertigo, blurred vision, dyspnea, palpitations, abdominal pain, dry mouth, vomiting, anorexia, dyspepsia, peripheral edema, and constipation.&#x000a0;More severe&#x000a0;adverse effects include&#x000a0;QT prolongation, syncope, hematuria, bradycardia, hypotension, orthostatic hypotension, thrombocytopenia, leukopenia, angioedema, renal failure, eosinophilia, pulmonary fibrosis, and pancytopenia.<xref ref-type="bibr" rid="article-41850.r15">[15]</xref>&#x000a0;A few cases of ranolazine-induced myopathy have been reported, but this is very rare, and the prognosis for such cases is good following cessation of the drug.<xref ref-type="bibr" rid="article-41850.r16">[16]</xref><xref ref-type="bibr" rid="article-41850.r17">[17]</xref></p>
+        <p>Postmarketing adverse effects include hallucinations, tremors, paresthesia, abnormal coordination, dysuria, and rash. Reported neurologic effects are usually dose-dependent and resolve upon discontinuation.<xref ref-type="bibr" rid="article-41850.r8">[8]</xref></p>
+        <p>
+<bold>Drug-Drug Interactions</bold>
+</p>
+        <p>Ranolazine is metabolized in the liver&#x000a0;primarily by CYP3A4&#x000a0; and, to a lesser extent, CYP2D6 enzymes. Ranolazine is also a substrate&#x000a0;of P-glycoprotein. Potent CYP3A4 inhibitors like ketoconazole, clarithromycin, and ritonavir&#x000a0;increase ranolazine levels, and concomitant use is contraindicated. Moderate CYP3A4 inhibitors such as diltiazem, fluconazole, erythromycin, and verapamil increase ranolazine levels. When&#x000a0;used together, the ranolazine dose should not exceed 500 mg twice daily; close monitoring is required. CYP3A4 inducers such as rifampin,&#x000a0;carbamazepine, phenytoin, and St. John&#x02019;s wort decrease ranolazine plasma levels, and concomitant use is not recommended. There are no recommended dose adjustments for patients with hepatic impairment, but usage&#x000a0;is&#x000a0;contraindicated in patients with&#x000a0;cirrhosis of the liver.<xref ref-type="bibr" rid="article-41850.r18">[18]</xref></p>
+        <p>Coadministration of ranolazine and metformin, each at a dose of 1000 mg twice daily, increased plasma concentrations of metformin. Patients on ranolazine 1000 mg twice daily should not exceed a total daily metformin dose of 1700 mg, and their blood glucose should be closely monitored.<xref ref-type="bibr" rid="article-41850.r19">[19]</xref></p>
+      </sec>
+      <sec id="article-41850.s6" sec-type="Contraindications">
+        <title>Contraindications</title>
+        <p>Ranolazine is contraindicated in patients with a sensitivity to the drug or any ingredient in the formulation.&#x000a0;</p>
+        <p>Ranolazine may prolong the QT interval by inhibiting potassium current (IKr).&#x000a0;Torsades de pointes was not reported as an adverse effect in clinical trials, but the risk may increase&#x000a0;in patients taking other QT-prolonging medications. Hepatic impairment may also increase plasma concentrations and a prolonged QTc interval. Caution is advised in patients with a family history of long QT syndrome and patients with known prolonged QT intervals.<xref ref-type="bibr" rid="article-41850.r20">[20]</xref></p>
+      </sec>
+      <sec id="article-41850.s7" sec-type="Monitoring">
+        <title>Monitoring</title>
+        <p>Healthcare professionals must monitor the following:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>The QT interval in patients on ranolazine and other QT-prolonging drugs.</p>
+          </list-item>
+          <list-item>
+            <p>Concomitant use of ranolazine and metformin increases metformin&#x000a0;levels. Monitor blood glucose and the&#x000a0;adverse effects of metformin in these patients.</p>
+          </list-item>
+          <list-item>
+            <p>Serum creatinine, BUN, and urine output in patients with CrCl less than 60 mL/min</p>
+          </list-item>
+          <list-item>
+            <p>Signs of neurologic&#x000a0;adverse effects</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-41850.s8" sec-type="Toxicity">
+        <title>Toxicity</title>
+        <p>High doses of ranolazine can cause dose-dependent&#x000a0;increases in dizziness, tremors, dysphagia, hallucinations, unsteady gait,&#x000a0;nausea, and vomiting. Supportive therapy should be given in cases of overdose. ECG monitoring may be&#x000a0;necessary if a ranolazine overdose occurs. Ranolazine is about 62% bound to plasma proteins, so hemodialysis is not adequate for an overdose.</p>
+      </sec>
+      <sec id="article-41850.s9" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Ranolazine&#x000a0;is a relatively new drug for managing angina. While primarily cardiologists prescribe the medication, it can be prescribed by primary care providers, including physician assistants and&#x000a0;nurse practitioners. All interprofessional healthcare team members who prescribe this agent or&#x000a0;consult with&#x000a0;patients who have had it prescribed&#x000a0;must understand that high doses of ranolazine&#x000a0;cause dose-dependent&#x000a0;increases in dizziness, tremors, dysphagia, hallucinations, unsteady gait,&#x000a0;nausea, and vomiting. This interprofessional healthcare team includes physicians, specialists,&#x000a0;advanced practice practitioners, nursing staff, and pharmacists. ECG monitoring may be&#x000a0;necessary if increased ranolazine&#x000a0;plasma levels occur, whether through overdosing or because of drug interactions; therefore, a thorough medication reconciliation is needed before prescribing ranolazine. Ranolazine is about 62% bound to plasma proteins, so hemodialysis will not effectively clear&#x000a0;the drug in case of an overdose.</p>
+        <p>Nursing staff and pharmacists can counsel the patient on properly administering the drug. Nurses will often serve as the primary point of contact for patients with the interprofessional team, so they must monitor for adverse events and counsel patients on what to look for. In addition, the patient's renal function needs to be monitored. Before starting the drug, a baseline ECG is recommended as the drug is known to prolong the QT interval. With an interprofessional team approach to ranolazine therapy, better patient outcomes are achievable while limiting potential adverse events.&#x000a0;</p>
+      </sec>
+      <sec id="article-41850.s10">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=41850&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=41850">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/41850/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=41850">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-41850.s11">
+        <title>References</title>
+        <ref id="article-41850.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Reddy</surname>
+                <given-names>BM</given-names>
+              </name>
+              <name>
+                <surname>Weintraub</surname>
+                <given-names>HS</given-names>
+              </name>
+              <name>
+                <surname>Schwartzbard</surname>
+                <given-names>AZ</given-names>
+              </name>
+            </person-group>
+            <article-title>Ranolazine: a new approach to treating an old problem.</article-title>
+            <source>Tex Heart Inst J</source>
+            <year>2010</year>
+            <volume>37</volume>
+            <issue>6</issue>
+            <fpage>641</fpage>
+            <page-range>641-7</page-range>
+            <pub-id pub-id-type="pmid">21224931</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-41850.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Al Batran</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Gopal</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Aburasayn</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Eshreif</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Almutairi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Greenwell</surname>
+                <given-names>AA</given-names>
+              </name>
+              <name>
+                <surname>Campbell</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>Saleme</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Court</surname>
+                <given-names>EA</given-names>
+              </name>
+              <name>
+                <surname>Eaton</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Light</surname>
+                <given-names>PE</given-names>
+              </name>
+              <name>
+                <surname>Sutendra</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Ussher</surname>
+                <given-names>JR</given-names>
+              </name>
+            </person-group>
+            <article-title>The antianginal ranolazine mitigates obesity-induced nonalcoholic fatty liver disease and increases hepatic pyruvate dehydrogenase activity.</article-title>
+            <source>JCI Insight</source>
+            <year>2019</year>
+            <month>Jan</month>
+            <day>10</day>
+            <volume>4</volume>
+            <issue>1</issue>
+            <pub-id pub-id-type="pmid">30626749</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-41850.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Teoh</surname>
+                <given-names>IH</given-names>
+              </name>
+              <name>
+                <surname>Banerjee</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Effect of ranolazine on glycaemia in adults with and without diabetes: a meta-analysis of randomised controlled trials.</article-title>
+            <source>Open Heart</source>
+            <year>2018</year>
+            <volume>5</volume>
+            <issue>2</issue>
+            <fpage>e000706</fpage>
+            <pub-id pub-id-type="pmid">30613407</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-41850.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pavasini</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Camici</surname>
+                <given-names>PG</given-names>
+              </name>
+              <name>
+                <surname>Crea</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Danchin</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Fox</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Manolis</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Marzilli</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Rosano</surname>
+                <given-names>GMC</given-names>
+              </name>
+              <name>
+                <surname>Lopez-Sendon</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Pinto</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Balla</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Ferrari</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Anti-anginal drugs: Systematic review and clinical implications.</article-title>
+            <source>Int J Cardiol</source>
+            <year>2019</year>
+            <month>May</month>
+            <day>15</day>
+            <volume>283</volume>
+            <fpage>55</fpage>
+            <page-range>55-63</page-range>
+            <pub-id pub-id-type="pmid">30538056</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-41850.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Banon</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Filion</surname>
+                <given-names>KB</given-names>
+              </name>
+              <name>
+                <surname>Budlovsky</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Franck</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Eisenberg</surname>
+                <given-names>MJ</given-names>
+              </name>
+            </person-group>
+            <article-title>The usefulness of ranolazine for the treatment of refractory chronic stable angina pectoris as determined from a systematic review of randomized controlled trials.</article-title>
+            <source>Am J Cardiol</source>
+            <year>2014</year>
+            <month>Mar</month>
+            <day>15</day>
+            <volume>113</volume>
+            <issue>6</issue>
+            <fpage>1075</fpage>
+            <page-range>1075-82</page-range>
+            <pub-id pub-id-type="pmid">24462341</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-41850.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chaitman</surname>
+                <given-names>BR</given-names>
+              </name>
+              <name>
+                <surname>Pepine</surname>
+                <given-names>CJ</given-names>
+              </name>
+              <name>
+                <surname>Parker</surname>
+                <given-names>JO</given-names>
+              </name>
+              <name>
+                <surname>Skopal</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Chumakova</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Kuch</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Skettino</surname>
+                <given-names>SL</given-names>
+              </name>
+              <name>
+                <surname>Wolff</surname>
+                <given-names>AA</given-names>
+              </name>
+              <collab>Combination Assessment of Ranolazine In Stable Angina (CARISA) Investigators</collab>
+            </person-group>
+            <article-title>Effects of ranolazine with atenolol, amlodipine, or diltiazem on exercise tolerance and angina frequency in patients with severe chronic angina: a randomized controlled trial.</article-title>
+            <source>JAMA</source>
+            <year>2004</year>
+            <month>Jan</month>
+            <day>21</day>
+            <volume>291</volume>
+            <issue>3</issue>
+            <fpage>309</fpage>
+            <page-range>309-16</page-range>
+            <pub-id pub-id-type="pmid">14734593</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-41850.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Stone</surname>
+                <given-names>PH</given-names>
+              </name>
+              <name>
+                <surname>Gratsiansky</surname>
+                <given-names>NA</given-names>
+              </name>
+              <name>
+                <surname>Blokhin</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Huang</surname>
+                <given-names>IZ</given-names>
+              </name>
+              <name>
+                <surname>Meng</surname>
+                <given-names>L</given-names>
+              </name>
+              <collab>ERICA Investigators</collab>
+            </person-group>
+            <article-title>Antianginal efficacy of ranolazine when added to treatment with amlodipine: the ERICA (Efficacy of Ranolazine in Chronic Angina) trial.</article-title>
+            <source>J Am Coll Cardiol</source>
+            <year>2006</year>
+            <month>Aug</month>
+            <day>01</day>
+            <volume>48</volume>
+            <issue>3</issue>
+            <fpage>566</fpage>
+            <page-range>566-75</page-range>
+            <pub-id pub-id-type="pmid">16875985</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-41850.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yuan</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Luo</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Ren</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Ya</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Yan</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Hui</surname>
+                <given-names>Q</given-names>
+              </name>
+            </person-group>
+            <article-title>Ranolazine in the prevention and treatment of atrial fibrillation: A protocol for meta-analysis.</article-title>
+            <source>Medicine (Baltimore)</source>
+            <year>2021</year>
+            <month>Apr</month>
+            <day>23</day>
+            <volume>100</volume>
+            <issue>16</issue>
+            <fpage>e25437</fpage>
+            <pub-id pub-id-type="pmid">33879675</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-41850.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jones</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Ranolazine (Roche Bioscience).</article-title>
+            <source>IDrugs</source>
+            <year>1999</year>
+            <month>Dec</month>
+            <volume>2</volume>
+            <issue>12</issue>
+            <fpage>1353</fpage>
+            <page-range>1353-62</page-range>
+            <pub-id pub-id-type="pmid">16113967</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-41850.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Saad</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Mahmoud</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Elgendy</surname>
+                <given-names>IY</given-names>
+              </name>
+              <name>
+                <surname>Richard Conti</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Ranolazine in Cardiac Arrhythmia.</article-title>
+            <source>Clin Cardiol</source>
+            <year>2016</year>
+            <month>Mar</month>
+            <volume>39</volume>
+            <issue>3</issue>
+            <fpage>170</fpage>
+            <page-range>170-8</page-range>
+            <pub-id pub-id-type="pmid">26459200</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-41850.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Rayner-Hartley</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Sedlak</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Ranolazine: A Contemporary Review.</article-title>
+            <source>J Am Heart Assoc</source>
+            <year>2016</year>
+            <month>Mar</month>
+            <day>15</day>
+            <volume>5</volume>
+            <issue>3</issue>
+            <fpage>e003196</fpage>
+            <pub-id pub-id-type="pmid">26979079</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-41850.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mezincescu</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Karthikeyan</surname>
+                <given-names>VJ</given-names>
+              </name>
+              <name>
+                <surname>Nadar</surname>
+                <given-names>SK</given-names>
+              </name>
+            </person-group>
+            <article-title>Ranolazine: A true pluripotent cardiovascular drug or jack of all trades, master of none?</article-title>
+            <source>Sultan Qaboos Univ Med J</source>
+            <year>2018</year>
+            <month>Feb</month>
+            <volume>18</volume>
+            <issue>1</issue>
+            <fpage>e13</fpage>
+            <page-range>e13-e23</page-range>
+            <pub-id pub-id-type="pmid">29666676</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-41850.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chaitman</surname>
+                <given-names>BR</given-names>
+              </name>
+            </person-group>
+            <article-title>Ranolazine for the treatment of chronic angina and potential use in other cardiovascular conditions.</article-title>
+            <source>Circulation</source>
+            <year>2006</year>
+            <month>May</month>
+            <day>23</day>
+            <volume>113</volume>
+            <issue>20</issue>
+            <fpage>2462</fpage>
+            <page-range>2462-72</page-range>
+            <pub-id pub-id-type="pmid">16717165</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-41850.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Santillo</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Migale</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Postacchini</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Fallavollita</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Marini</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Balestrini</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>Efficacy of ranolazine for rhythm control in an elderly patient with paroxysmal atrial fibrillation.</article-title>
+            <source>Clin Ter</source>
+            <year>2014</year>
+            <volume>165</volume>
+            <issue>2</issue>
+            <fpage>e166</fpage>
+            <page-range>e166-9</page-range>
+            <pub-id pub-id-type="pmid">24770828</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-41850.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kloner</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Hines</surname>
+                <given-names>ME</given-names>
+              </name>
+              <name>
+                <surname>Geunes-Boyer</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Efficacy and safety of ranolazine in patients with chronic stable angina.</article-title>
+            <source>Postgrad Med</source>
+            <year>2013</year>
+            <month>Nov</month>
+            <volume>125</volume>
+            <issue>6</issue>
+            <fpage>43</fpage>
+            <page-range>43-52</page-range>
+            <pub-id pub-id-type="pmid">24200760</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-41850.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Paul</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Vazquez Do Campo</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Liewluck</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Naddaf</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Ranolazine-induced lipid storage myopathy presenting with respiratory failure and head drop.</article-title>
+            <source>Neuromuscul Disord</source>
+            <year>2021</year>
+            <month>Jun</month>
+            <volume>31</volume>
+            <issue>6</issue>
+            <fpage>546</fpage>
+            <page-range>546-550</page-range>
+            <pub-id pub-id-type="pmid">33903020</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-41850.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dein</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Manno</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Syed</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Douglas</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Geetha</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Timlin</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Ranolazine-induced Elevation of Creatinine Kinase in the Absence of Statin Usage.</article-title>
+            <source>Cureus</source>
+            <year>2018</year>
+            <month>Jun</month>
+            <day>18</day>
+            <volume>10</volume>
+            <issue>6</issue>
+            <fpage>e2832</fpage>
+            <pub-id pub-id-type="pmid">30131925</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-41850.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Abdallah</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Jerling</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Effect of hepatic impairment on the multiple-dose pharmacokinetics of ranolazine sustained-release tablets.</article-title>
+            <source>J Clin Pharmacol</source>
+            <year>2005</year>
+            <month>Jul</month>
+            <volume>45</volume>
+            <issue>7</issue>
+            <fpage>802</fpage>
+            <page-range>802-9</page-range>
+            <pub-id pub-id-type="pmid">15951470</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-41850.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zack</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Berg</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Juan</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Pannacciulli</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Allard</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Gottwald</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Shao</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Ben-Yehuda</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Jochelson</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Pharmacokinetic drug-drug interaction study of ranolazine and metformin in subjects with type 2 diabetes mellitus.</article-title>
+            <source>Clin Pharmacol Drug Dev</source>
+            <year>2015</year>
+            <month>Mar</month>
+            <volume>4</volume>
+            <issue>2</issue>
+            <fpage>121</fpage>
+            <page-range>121-9</page-range>
+            <pub-id pub-id-type="pmid">27128216</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-41850.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bonadei</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Vizzardi</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Quinzani</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Piovanelli</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Rovetta</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>D'Aloia</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Cas</surname>
+                <given-names>LD</given-names>
+              </name>
+            </person-group>
+            <article-title>Effects of ranolazine on cardiovascular system.</article-title>
+            <source>Recent Pat Cardiovasc Drug Discov</source>
+            <year>2011</year>
+            <month>Sep</month>
+            <volume>6</volume>
+            <issue>3</issue>
+            <fpage>215</fpage>
+            <page-range>215-21</page-range>
+            <pub-id pub-id-type="pmid">21867482</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

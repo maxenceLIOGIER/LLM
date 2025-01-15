@@ -1,0 +1,2126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-158743" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>EMS System Regionalization</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Su</surname>
+            <given-names>John S.</given-names>
+          </name>
+          <aff>Ohio State University College of Medicine</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Mearkle</surname>
+            <given-names>Benjamin G.</given-names>
+          </name>
+          <aff>SUNY Downstate College of Medicine</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Quinn</surname>
+            <given-names>Eric</given-names>
+          </name>
+          <aff>Maimonides Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>John Su declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Benjamin Mearkle declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Eric Quinn declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>26</day>
+          <month>10</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-158743.s1" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>The Emergency Medical Services (EMS) system is a network of healthcare resources that delivers acute unscheduled care to patients outside of a hospital. The system closely interfaces with the rest of the healthcare infrastructure (in-hospital components, outpatient clinics, public health).&#x000a0;EMS services vary in capabilities, with some providers able to provide basic life support and others able to provide advanced life support (ALS) or air medical services.<xref ref-type="bibr" rid="article-158743.r1">[1]</xref>&#x000a0;Patients sometimes require definitive care unavailable at the closest hospital, so EMS systems need to be regionalized.<xref ref-type="bibr" rid="article-158743.r2">[2]</xref>&#x000a0;This means that patients are transported to hospitals best equipped to care for their specific needs, even if it is not the local hospital in the ambulance's jurisdiction. Regionalization can help to improve patient outcomes, avoid delays in care, and help reduce overall resource utilization by avoiding secondary transports.<xref ref-type="bibr" rid="article-158743.r3">[3]</xref><xref ref-type="bibr" rid="article-158743.r4">[4]</xref><xref ref-type="bibr" rid="article-158743.r5">[5]</xref><xref ref-type="bibr" rid="article-158743.r6">[6]</xref><xref ref-type="bibr" rid="article-158743.r7">[7]</xref><xref ref-type="bibr" rid="article-158743.r8">[8]</xref><xref ref-type="bibr" rid="article-158743.r9">[9]</xref><xref ref-type="bibr" rid="article-158743.r10">[10]</xref><xref ref-type="bibr" rid="article-158743.r11">[11]</xref>&#x000a0;</p>
+        <p>Regionalization of emergency medical care has become the standard of care in recent years. Studies have shown improved patient outcomes and reduced costs due to this policy. However, the success of a regionalized system requires constant quality assurance from all stakeholders and the EMS medical director. The system must focus on every aspect of the patient's journey through the acute unscheduled care system, constantly identify any barriers that need to be improved, and update processes as new outcome data becomes available. EMS medical directors play a crucial role by ensuring that the system meets the needs of the patients in their region while educating other healthcare stakeholders on the importance of regionalization, which healthcare organizations or individual providers may not fully understand.&#x000a0;For example, local hospital administrators often have financial pressure to keep patients in the local community within their hospitals. EMS operations may want all units to go&#x000a0;to the closest hospital to decrease turnaround times. Therefore, the EMS medical director must help different providers interface effectively and ensure the medical needs of the patient arriving by&#x000a0;ambulance are the primary focus.</p>
+      </sec>
+      <sec id="article-158743.s2" sec-type="Issues of Concern">
+        <title>Issues of Concern</title>
+        <p>
+<bold>Categorization and Designation</bold>
+</p>
+        <p>An effective regionalized prehospital system requires the categorization and designation of hospitals. Categorization is the process of classifying hospitals based on accepted standards, while designation is the process of formally selecting hospitals to receive patients who need specialized care. Professional bodies often set categorization, while governmental agencies usually set designation.</p>
+        <p>The need for categorization and designation arose from recognizing that not every hospital could possess every medical service. A patient with a time-sensitive diagnosis such as severe trauma requires specialty services such as trauma surgery and blood transfusions without delay.<xref ref-type="bibr" rid="article-158743.r12">[12]</xref><xref ref-type="bibr" rid="article-158743.r13">[13]</xref><xref ref-type="bibr" rid="article-158743.r14">[14]</xref><xref ref-type="bibr" rid="article-158743.r15">[15]</xref>&#x000a0;Categorization and designation help to ensure that patients are transported to the most appropriate hospital with verified capabilities to treat their medical condition.</p>
+        <p>One challenge associated with categorization and designation is the need for explicit authority to designate hospitals. Without such authority, physicians, hospitals, or other special interest groups may impede the designation process. For example, bypassed institutions not designated for certain conditions may suffer adverse economic effects and be at odds with the regionalization process.<xref ref-type="bibr" rid="article-158743.r16">[16]</xref><xref ref-type="bibr" rid="article-158743.r17">[17]</xref><xref ref-type="bibr" rid="article-158743.r18">[18]</xref>&#x000a0;Federal funding for EMS systems has been unreliable, resulting in a lack of consistent funding for designation programs and patchwork solutions that vary by state and, in some cases, by municipality.<xref ref-type="bibr" rid="article-158743.r19">[19]</xref><xref ref-type="bibr" rid="article-158743.r20">[20]</xref><xref ref-type="bibr" rid="article-158743.r21">[21]</xref><xref ref-type="bibr" rid="article-158743.r22">[22]</xref>&#x000a0;Lack of explicit authority to designate could also result in antitrust liability, as designations can inadvertently create a monopoly if only one center can meet the thresholds set.<xref ref-type="bibr" rid="article-158743.r23">[23]</xref>&#x000a0;</p>
+        <p>Another challenge is the need for clear criteria for categorization and subsequent designation. The American College of Surgeons releases criteria for level&#x000a0;1 and 2 trauma centers. There are no clear criteria for what may count as a pediatric emergency department.<xref ref-type="bibr" rid="article-158743.r24">[24]</xref>&#x000a0;Without clear categorization criteria, hospitals may self-designate themselves as having capabilities that may not be congruent with the needs of the time-sensitive illness and lead to patients receiving suboptimal care. Despite these challenges, categorization and designation are essential components of EMS systems worth maintaining so patients receive the care they need in the right place without delay.</p>
+        <p>
+<bold>Outcomes in Regionalized Systems</bold>
+</p>
+        <p>Time-critical emergencies require immediate medical attention and definitive care. The prehospital system has effectively regionalized three major time-critical crises: severe trauma, acute ischemic stroke, and ST-Elevation Myocardial Infarction (STEMI). Early identification and treatment are critical&#x000a0;for improving a patient's outcome. Future directions could include pediatric center designations, return of spontaneous circulation after cardiac arrest, and sepsis designations.&#x000a0;</p>
+        <p>Time to blood products and operative interventions are critical for trauma management. Trauma systems typically include a network of hospitals designated as trauma centers and an EMS system designed to bring patients who meet field trauma triage criteria to them. Research has shown that patients treated at trauma centers have better outcomes than those treated outside.<xref ref-type="bibr" rid="article-158743.r25">[25]</xref><xref ref-type="bibr" rid="article-158743.r26">[26]</xref><xref ref-type="bibr" rid="article-158743.r27">[27]</xref><xref ref-type="bibr" rid="article-158743.r28">[28]</xref>&#x000a0;For example, one study found an overall reduction in preventable mortality in patients treated within a trauma system was approximately 50%. Trauma systems provide a framework for communication and coordination between different interfacing parts of the health system to decrease delays and barriers to definitive management.&#x000a0;</p>
+        <p>Stroke networks are a newer concept, but they have shown promise&#x000a0;for improving the quality of care for stroke patients. They are evolving in the age of endovascular thrombectomy for large vessel occlusions.<xref ref-type="bibr" rid="article-158743.r29">[29]</xref><xref ref-type="bibr" rid="article-158743.r30">[30]</xref><xref ref-type="bibr" rid="article-158743.r31">[31]</xref>&#x000a0;Stroke networks have been shown to reduce mortality and improve functional outcomes for patients taken to primary and comprehensive stroke centers.<xref ref-type="bibr" rid="article-158743.r32">[32]</xref><xref ref-type="bibr" rid="article-158743.r33">[33]</xref></p>
+        <p>Endovascular therapy, available at comprehensive stroke centers, must be offered in the first 24 hours. There is emerging evidence suggesting earlier endovascular intervention may lead to better outcomes. Patient outcomes from bypass of primary to comprehensive stroke centers are actively being studied.<xref ref-type="bibr" rid="article-158743.r34">[34]</xref><xref ref-type="bibr" rid="article-158743.r35">[35]</xref><xref ref-type="bibr" rid="article-158743.r36">[36]</xref><xref ref-type="bibr" rid="article-158743.r37">[37]</xref>&#x000a0;One research group is the OPUS-REACH consortium, which consists of nine health systems to study and optimize prehospital care systems for large vessel occlusions. Besides regionalization, EMS systems also optimize stroke care delivery by teaching EMS providers to identify stroke patients and initiate pre-alert notifications to activate stroke teams. All this decreases the time to fibrinolysis and endovascular therapy if appropriate and available. EMS providers use many scales, including the Cincinnati Prehospital Stroke Scale or Los Angeles Motor Scale, to screen for acute stroke and the Rapid Arterial Occlusion Evaluation Scale for large vessel occlusions.</p>
+        <p>STEMI regionalization has shown significant mortality benefits and has been widely adopted.<xref ref-type="bibr" rid="article-158743.r38">[38]</xref><xref ref-type="bibr" rid="article-158743.r39">[39]</xref><xref ref-type="bibr" rid="article-158743.r40">[40]</xref><xref ref-type="bibr" rid="article-158743.r41">[41]</xref>&#x000a0;For example, the Reperfusion of Acute MI in North Carolina Emergency Departments (RACE) effort has organized the entire state of North Carolina into a system that allows for a high level of coordinated STEMI treatment to decrease time to coronary reperfusion. Unlike trauma patients with high injury severity scores who are unlikely to self-transport and benefit from being transported by EMS to a regional trauma center, 50% of patients with STEMI continue to self-transport to receiving facilities. This results in STEMI patients often presenting to centers incapable of cardiac catheterization and increasing morbidity and mortality for these patients. Public education efforts have not been successful in changing this statistic. More work&#x000a0;is needed to reduce the number of patients who self-transport to inappropriate treatment facilities. Unlike stroke, a clinical diagnosis, STEMI diagnosis requires a prehospital EKG, which complicates regionalization efforts. Many rural areas do not have ready access to ALS, which impedes STEMI recognition and results in improper destination choices for patients arriving by ambulance.</p>
+        <p>
+<bold>Diversion and Bypass</bold>
+</p>
+        <p>Diversion is when a receiving facility may decline to allow transport by EMS. There are several reasons why a hospital might need to divert ambulances. For example, if the hospital is overcrowded or the staff is overwhelmed, they may not be able to adequately care for any more patients.<xref ref-type="bibr" rid="article-158743.r42">[42]</xref><xref ref-type="bibr" rid="article-158743.r43">[43]</xref><xref ref-type="bibr" rid="article-158743.r44">[44]</xref><xref ref-type="bibr" rid="article-158743.r45">[45]</xref><xref ref-type="bibr" rid="article-158743.r46">[46]</xref><xref ref-type="bibr" rid="article-158743.r47">[47]</xref>&#x000a0;Hospitals, in conjunction with the EMS medical director, need to have clear and strict criteria for diversion. This ensures that the decision to divert is made fairly and consistently and is not a permanent solution to systemic problems within the hospital. The criteria must also be in place to prevent individuals from arbitrarily diverting ambulance patients. Diversion can prolong the prehospital phase of the encounter and result in worse patient care.</p>
+        <p>In some cases, diverting ambulances for a subcategory of patients may be necessary. For example, suppose a STEMI center has many active patients waiting to receive care in the cardiac catheterization lab. In that case, they may go on STEMI divert because the next STEMI patient may not receive timely care and would be better served elsewhere. However, the hospital would be able to accept other types of patients. Regardless, ambulance diversion results in longer transport times and delays patient care delivery. Second, it can lead to patients being transported to facilities not equipped to treat their condition. Third, it can be confusing for EMS providers not used to practicing in the new&#x000a0;prehospital system and patients who may be forced to go to unfamiliar institutions without records. For these reasons, some EMS systems have abandoned ambulance diversion. Massachusetts abandoned ambulance diversion in 2009 and found no changes in monthly ED volume, elopement, or patient length-of-stay.<xref ref-type="bibr" rid="article-158743.r48">[48]</xref></p>
+        <p>Bypass is a process in which EMS providers transport patients directly to the most appropriate facility for their condition, even if that facility is not the closest one. This can help patients receive the care they need as quickly as possible. Otherwise, patients may arrive in a facility not equipped to&#x000a0;treat their condition, which could result in additional resources mobilized for an interfacility transfer and duplicative testing in multiple health systems. STEMI patients who&#x000a0;go to the closest facility without cardiac catheterization capabilities for stabilization&#x000a0;have an average of 79 minutes added to the patient's care and increased mortality.<xref ref-type="bibr" rid="article-158743.r8">[8]</xref>&#x000a0;EMS systems must have clear and consistent guidelines for specific disease processes to implement bypass. They also need to have the cooperation of all hospitals in the region.</p>
+        <p>
+<bold>Special Considerations Affecting Regionalization</bold>
+</p>
+        <p>When EMS systems were originally designed, care delivery was done in series. For example, an ambulance&#x000a0;would respond to a 911 call, followed by assessment, treatment, and transport. When the patient arrives at the emergency department, the evaluation is often repeated, and appropriate consultants or notifications are made. Simultaneous processing is a newer approach involving concurrent medical system activation. This can be done by authorizing field personnel to activate specific teams or procedures, such as stroke teams or cardiac catheterization labs, to mobilize resources before the patient arrives at the receiving hospital. This can decrease the door-to-needle time for strokes and door-to-balloon time for STEMIs. Simultaneous processing decreases the time elapsed from symptom onset to definitive care. In the future, simultaneous processing will likely become even more critical as new technologies are developed. For example, drones could deliver medications to patients in the field while EMS is en route and notify nearby receiving centers of a potential patient.<xref ref-type="bibr" rid="article-158743.r49">[49]</xref></p>
+        <p>Funding is a crucial factor in the operation of both EMS and health systems. Different types of care are reimbursed differently, which can lead to competition between hospitals for specific designations. For example, trauma care is not as well-reimbursed as cardiac care, so some hospitals may choose to focus on cardiac care while hollowing out trauma care. Reimbursement incentives thus unintentionally affect the availability of services at ambulance-receiving centers. Facilities may also inappropriately self-designate to receive high-reimbursing disease processes. EMS agencies must also be reasonably reimbursed for their work, especially when using nuanced medical decision-making to transport patients to farther away facilities. Longer transport times lead to increased costs. Payers should adjust their reimbursement standards, often flat fee reimbursements, to accommodate the advances and reinforce the medical benefits of regionalization.</p>
+      </sec>
+      <sec id="article-158743.s3" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>Regionalization is a never-ending process that requires continuous quality improvement and re-evaluation. For example, prehospital stroke systems evolve as endovascular therapy becomes the standard of care for large vessel occlusions. Clear protocols regarding diversion, bypass, and specialty receiving center criteria must be developed so no one entity (EMS or facility) feels marginalized and medical care is not arbitrary. The public must also understand the destination choices and why they may have to go to one facility over another. Prehospital care, especially for time-sensitive diseases, must employ simultaneous processing to decrease time to definitive care by allowing for EMS-initiated prenotification.</p>
+        <p>Conversely, EMS medical directors must ensure their providers appropriately identify time-sensitive diseases, such as stroke and STEMI cardiac catheterization candidates. EMS medical directors are positioned to gain an understanding of the viewpoints of all stakeholders and ensure that the system is impartial and acting in the patient's best interest. These concepts will help to ensure that regionalized EMS systems are effective and fair and improve outcomes of ambulance-arrived patients through proper destination choices.</p>
+      </sec>
+      <sec id="article-158743.s4">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=158743&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=158743">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/158743/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=158743">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-158743.s5">
+        <title>References</title>
+        <ref id="article-158743.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hackey</surname>
+                <given-names>RB</given-names>
+              </name>
+            </person-group>
+            <article-title>The politics of trauma system development.</article-title>
+            <source>J Trauma</source>
+            <year>1995</year>
+            <month>Dec</month>
+            <volume>39</volume>
+            <issue>6</issue>
+            <fpage>1045</fpage>
+            <page-range>1045-53</page-range>
+            <pub-id pub-id-type="pmid">7500391</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Luft</surname>
+                <given-names>HS</given-names>
+              </name>
+            </person-group>
+            <article-title>Regionalization of medical care.</article-title>
+            <source>Am J Public Health</source>
+            <year>1985</year>
+            <month>Feb</month>
+            <volume>75</volume>
+            <issue>2</issue>
+            <fpage>125</fpage>
+            <page-range>125-6</page-range>
+            <pub-id pub-id-type="pmid">3966613</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cales</surname>
+                <given-names>RH</given-names>
+              </name>
+              <name>
+                <surname>Anderson</surname>
+                <given-names>PG</given-names>
+              </name>
+              <name>
+                <surname>Heilig</surname>
+                <given-names>RW</given-names>
+              </name>
+            </person-group>
+            <article-title>Utilization of medical care in Orange County: the effect of implementation of a regional trauma system.</article-title>
+            <source>Ann Emerg Med</source>
+            <year>1985</year>
+            <month>Sep</month>
+            <volume>14</volume>
+            <issue>9</issue>
+            <fpage>853</fpage>
+            <page-range>853-8</page-range>
+            <pub-id pub-id-type="pmid">4025982</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shackford</surname>
+                <given-names>SR</given-names>
+              </name>
+              <name>
+                <surname>Hollingworth-Fridlund</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Cooper</surname>
+                <given-names>GF</given-names>
+              </name>
+              <name>
+                <surname>Eastman</surname>
+                <given-names>AB</given-names>
+              </name>
+            </person-group>
+            <article-title>The effect of regionalization upon the quality of trauma care as assessed by concurrent audit before and after institution of a trauma system: a preliminary report.</article-title>
+            <source>J Trauma</source>
+            <year>1986</year>
+            <month>Sep</month>
+            <volume>26</volume>
+            <issue>9</issue>
+            <fpage>812</fpage>
+            <page-range>812-20</page-range>
+            <pub-id pub-id-type="pmid">3746956</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>DeBritz</surname>
+                <given-names>JN</given-names>
+              </name>
+              <name>
+                <surname>Pollak</surname>
+                <given-names>AN</given-names>
+              </name>
+            </person-group>
+            <article-title>The impact of trauma centre accreditation on patient outcome.</article-title>
+            <source>Injury</source>
+            <year>2006</year>
+            <month>Dec</month>
+            <volume>37</volume>
+            <issue>12</issue>
+            <fpage>1166</fpage>
+            <page-range>1166-71</page-range>
+            <pub-id pub-id-type="pmid">17098237</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jurkovich</surname>
+                <given-names>GJ</given-names>
+              </name>
+              <name>
+                <surname>Mock</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Systematic review of trauma system effectiveness based on registry comparisons.</article-title>
+            <source>J Trauma</source>
+            <year>1999</year>
+            <month>Sep</month>
+            <volume>47</volume>
+            <issue>3 Suppl</issue>
+            <fpage>S46</fpage>
+            <page-range>S46-55</page-range>
+            <pub-id pub-id-type="pmid">10496611</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Nathens</surname>
+                <given-names>AB</given-names>
+              </name>
+              <name>
+                <surname>Jurkovich</surname>
+                <given-names>GJ</given-names>
+              </name>
+              <name>
+                <surname>Cummings</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Rivara</surname>
+                <given-names>FP</given-names>
+              </name>
+              <name>
+                <surname>Maier</surname>
+                <given-names>RV</given-names>
+              </name>
+            </person-group>
+            <article-title>The effect of organized systems of trauma care on motor vehicle crash mortality.</article-title>
+            <source>JAMA</source>
+            <year>2000</year>
+            <month>Apr</month>
+            <day>19</day>
+            <volume>283</volume>
+            <issue>15</issue>
+            <fpage>1990</fpage>
+            <page-range>1990-4</page-range>
+            <pub-id pub-id-type="pmid">10789667</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gross</surname>
+                <given-names>BW</given-names>
+              </name>
+              <name>
+                <surname>Dauterman</surname>
+                <given-names>KW</given-names>
+              </name>
+              <name>
+                <surname>Moran</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Kotler</surname>
+                <given-names>TS</given-names>
+              </name>
+              <name>
+                <surname>Schnugg</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Rostykus</surname>
+                <given-names>PS</given-names>
+              </name>
+              <name>
+                <surname>Ross</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Weaver</surname>
+                <given-names>WD</given-names>
+              </name>
+            </person-group>
+            <article-title>An approach to shorten time to infarct artery patency in patients with ST-segment elevation myocardial infarction.</article-title>
+            <source>Am J Cardiol</source>
+            <year>2007</year>
+            <month>May</month>
+            <day>15</day>
+            <volume>99</volume>
+            <issue>10</issue>
+            <fpage>1360</fpage>
+            <page-range>1360-3</page-range>
+            <pub-id pub-id-type="pmid">17493460</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Le May</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Davies</surname>
+                <given-names>RF</given-names>
+              </name>
+              <name>
+                <surname>Dionne</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Maloney</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Trickett</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>So</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Ha</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Sherrard</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Glover</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Marquis</surname>
+                <given-names>JF</given-names>
+              </name>
+              <name>
+                <surname>O'Brien</surname>
+                <given-names>ER</given-names>
+              </name>
+              <name>
+                <surname>Stiell</surname>
+                <given-names>IG</given-names>
+              </name>
+              <name>
+                <surname>Poirier</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Labinaz</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Comparison of early mortality of paramedic-diagnosed ST-segment elevation myocardial infarction with immediate transport to a designated primary percutaneous coronary intervention center to that of similar patients transported to the nearest hospital.</article-title>
+            <source>Am J Cardiol</source>
+            <year>2006</year>
+            <month>Nov</month>
+            <day>15</day>
+            <volume>98</volume>
+            <issue>10</issue>
+            <fpage>1329</fpage>
+            <page-range>1329-33</page-range>
+            <pub-id pub-id-type="pmid">17134623</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Le May</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>So</surname>
+                <given-names>DY</given-names>
+              </name>
+              <name>
+                <surname>Dionne</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Glover</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>Froeschl</surname>
+                <given-names>MP</given-names>
+              </name>
+              <name>
+                <surname>Wells</surname>
+                <given-names>GA</given-names>
+              </name>
+              <name>
+                <surname>Davies</surname>
+                <given-names>RF</given-names>
+              </name>
+              <name>
+                <surname>Sherrard</surname>
+                <given-names>HL</given-names>
+              </name>
+              <name>
+                <surname>Maloney</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Marquis</surname>
+                <given-names>JF</given-names>
+              </name>
+              <name>
+                <surname>O'Brien</surname>
+                <given-names>ER</given-names>
+              </name>
+              <name>
+                <surname>Trickett</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Poirier</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Ryan</surname>
+                <given-names>SC</given-names>
+              </name>
+              <name>
+                <surname>Ha</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Joseph</surname>
+                <given-names>PG</given-names>
+              </name>
+              <name>
+                <surname>Labinaz</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>A citywide protocol for primary PCI in ST-segment elevation myocardial infarction.</article-title>
+            <source>N Engl J Med</source>
+            <year>2008</year>
+            <month>Jan</month>
+            <day>17</day>
+            <volume>358</volume>
+            <issue>3</issue>
+            <fpage>231</fpage>
+            <page-range>231-40</page-range>
+            <pub-id pub-id-type="pmid">18199862</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jollis</surname>
+                <given-names>JG</given-names>
+              </name>
+              <name>
+                <surname>Roettig</surname>
+                <given-names>ML</given-names>
+              </name>
+              <name>
+                <surname>Aluko</surname>
+                <given-names>AO</given-names>
+              </name>
+              <name>
+                <surname>Anstrom</surname>
+                <given-names>KJ</given-names>
+              </name>
+              <name>
+                <surname>Applegate</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Babb</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Berger</surname>
+                <given-names>PB</given-names>
+              </name>
+              <name>
+                <surname>Bohle</surname>
+                <given-names>DJ</given-names>
+              </name>
+              <name>
+                <surname>Fletcher</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Garvey</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Hathaway</surname>
+                <given-names>WR</given-names>
+              </name>
+              <name>
+                <surname>Hoekstra</surname>
+                <given-names>JW</given-names>
+              </name>
+              <name>
+                <surname>Kelly</surname>
+                <given-names>RV</given-names>
+              </name>
+              <name>
+                <surname>Maddox</surname>
+                <given-names>WT</given-names>
+              </name>
+              <name>
+                <surname>Shiber</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Valeri</surname>
+                <given-names>FS</given-names>
+              </name>
+              <name>
+                <surname>Watling</surname>
+                <given-names>BA</given-names>
+              </name>
+              <name>
+                <surname>Wilson</surname>
+                <given-names>BH</given-names>
+              </name>
+              <name>
+                <surname>Granger</surname>
+                <given-names>CB</given-names>
+              </name>
+              <collab>Reperfusion of Acute Myocardial Infarction in North Carolina Emergency Departments (RACE) Investigators</collab>
+            </person-group>
+            <article-title>Implementation of a statewide system for coronary reperfusion for ST-segment elevation myocardial infarction.</article-title>
+            <source>JAMA</source>
+            <year>2007</year>
+            <month>Nov</month>
+            <day>28</day>
+            <volume>298</volume>
+            <issue>20</issue>
+            <fpage>2371</fpage>
+            <page-range>2371-80</page-range>
+            <pub-id pub-id-type="pmid">17982184</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Boyd</surname>
+                <given-names>DR</given-names>
+              </name>
+              <name>
+                <surname>Cowley</surname>
+                <given-names>RA</given-names>
+              </name>
+            </person-group>
+            <article-title>Comprehensive regional trauma/emergency medical services (EMS) delivery systems: the United States experience.</article-title>
+            <source>World J Surg</source>
+            <year>1983</year>
+            <month>Jan</month>
+            <volume>7</volume>
+            <issue>1</issue>
+            <fpage>149</fpage>
+            <page-range>149-57</page-range>
+            <pub-id pub-id-type="pmid">6837054</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dakessian</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Bachir</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>El Sayed</surname>
+                <given-names>MJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Association Between Trauma Center Designation Levels and Survival of Patients With Motor Vehicular Transport Injuries in the United States.</article-title>
+            <source>J Emerg Med</source>
+            <year>2020</year>
+            <month>Mar</month>
+            <volume>58</volume>
+            <issue>3</issue>
+            <fpage>398</fpage>
+            <page-range>398-406</page-range>
+            <pub-id pub-id-type="pmid">32070648</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cudnik</surname>
+                <given-names>MT</given-names>
+              </name>
+              <name>
+                <surname>Newgard</surname>
+                <given-names>CD</given-names>
+              </name>
+              <name>
+                <surname>Sayre</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Steinberg</surname>
+                <given-names>SM</given-names>
+              </name>
+            </person-group>
+            <article-title>Level I versus Level II trauma centers: an outcomes-based assessment.</article-title>
+            <source>J Trauma</source>
+            <year>2009</year>
+            <month>May</month>
+            <volume>66</volume>
+            <issue>5</issue>
+            <fpage>1321</fpage>
+            <page-range>1321-6</page-range>
+            <pub-id pub-id-type="pmid">19430234</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>DiRusso</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Holly</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Kamath</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Cuff</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Sullivan</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Scharf</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Tully</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Nealon</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Savino</surname>
+                <given-names>JA</given-names>
+              </name>
+            </person-group>
+            <article-title>Preparation and achievement of American College of Surgeons level I trauma verification raises hospital performance and improves patient outcome.</article-title>
+            <source>J Trauma</source>
+            <year>2001</year>
+            <month>Aug</month>
+            <volume>51</volume>
+            <issue>2</issue>
+            <fpage>294</fpage>
+            <page-range>294-9; discussion 299-300</page-range>
+            <pub-id pub-id-type="pmid">11493787</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Friedman</surname>
+                <given-names>HR</given-names>
+              </name>
+              <name>
+                <surname>Holmes</surname>
+                <given-names>GM</given-names>
+              </name>
+            </person-group>
+            <article-title>Rural Medicare beneficiaries are increasingly likely to be admitted to urban hospitals.</article-title>
+            <source>Health Serv Res</source>
+            <year>2022</year>
+            <month>Oct</month>
+            <volume>57</volume>
+            <issue>5</issue>
+            <fpage>1029</fpage>
+            <page-range>1029-1034</page-range>
+            <pub-id pub-id-type="pmid">35773787</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sanders</surname>
+                <given-names>SR</given-names>
+              </name>
+              <name>
+                <surname>Erickson</surname>
+                <given-names>LD</given-names>
+              </name>
+              <name>
+                <surname>Call</surname>
+                <given-names>VR</given-names>
+              </name>
+              <name>
+                <surname>McKnight</surname>
+                <given-names>ML</given-names>
+              </name>
+              <name>
+                <surname>Hedges</surname>
+                <given-names>DW</given-names>
+              </name>
+            </person-group>
+            <article-title>Rural health care bypass behavior: how community and spatial characteristics affect primary health care selection.</article-title>
+            <source>J Rural Health</source>
+            <year>2015</year>
+            <season>Spring</season>
+            <volume>31</volume>
+            <issue>2</issue>
+            <fpage>146</fpage>
+            <page-range>146-56</page-range>
+            <pub-id pub-id-type="pmid">25219792</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Greenwood-Ericksen</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Kamdar</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Lin</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>George</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Myaskovsky</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Crandall</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Mohr</surname>
+                <given-names>NM</given-names>
+              </name>
+              <name>
+                <surname>Kocher</surname>
+                <given-names>KE</given-names>
+              </name>
+            </person-group>
+            <article-title>Association of Rural and Critical Access Hospital Status With Patient Outcomes After Emergency Department Visits Among Medicare Beneficiaries.</article-title>
+            <source>JAMA Netw Open</source>
+            <year>2021</year>
+            <month>Nov</month>
+            <day>01</day>
+            <volume>4</volume>
+            <issue>11</issue>
+            <fpage>e2134980</fpage>
+            <pub-id pub-id-type="pmid">34797370</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shah</surname>
+                <given-names>MN</given-names>
+              </name>
+            </person-group>
+            <article-title>The formation of the emergency medical services system.</article-title>
+            <source>Am J Public Health</source>
+            <year>2006</year>
+            <month>Mar</month>
+            <volume>96</volume>
+            <issue>3</issue>
+            <fpage>414</fpage>
+            <page-range>414-23</page-range>
+            <pub-id pub-id-type="pmid">16449600</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pozner</surname>
+                <given-names>CN</given-names>
+              </name>
+              <name>
+                <surname>Zane</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Nelson</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Levine</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>International EMS systems: The United States: past, present, and future.</article-title>
+            <source>Resuscitation</source>
+            <year>2004</year>
+            <month>Mar</month>
+            <volume>60</volume>
+            <issue>3</issue>
+            <fpage>239</fpage>
+            <page-range>239-44</page-range>
+            <pub-id pub-id-type="pmid">15050754</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Boyd</surname>
+                <given-names>DR</given-names>
+              </name>
+            </person-group>
+            <article-title>The conceptual development of EMS systems in the United States, Part I.</article-title>
+            <source>Emerg Med Serv</source>
+            <year>1982</year>
+            <season>Jan-Feb</season>
+            <volume>11</volume>
+            <issue>1</issue>
+            <fpage>19</fpage>
+            <page-range>19-23</page-range>
+            <pub-id pub-id-type="pmid">10298361</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Boyd</surname>
+                <given-names>DR</given-names>
+              </name>
+            </person-group>
+            <article-title>The conceptual development of EMS systems in the Unites States, Part II.</article-title>
+            <source>Emerg Med Serv</source>
+            <year>1982</year>
+            <season>Mar-Apr</season>
+            <volume>11</volume>
+            <issue>2</issue>
+            <fpage>26</fpage>
+            <page-range>26, 28-30, 32-3 passim</page-range>
+            <pub-id pub-id-type="pmid">10298550</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Young</surname>
+                <given-names>CJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Emergency! Says who?: analysis of the legal issues concerning managed care and emergency medical services.</article-title>
+            <source>J Contemp Health Law Policy</source>
+            <year>1997</year>
+            <season>Spring</season>
+            <volume>13</volume>
+            <issue>2</issue>
+            <fpage>553</fpage>
+            <page-range>553-79</page-range>
+            <pub-id pub-id-type="pmid">9212530</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Fuchs</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>The Origins and Evolution of Emergency Medical Services for Children.</article-title>
+            <source>Pediatr Ann</source>
+            <year>2021</year>
+            <month>Apr</month>
+            <volume>50</volume>
+            <issue>4</issue>
+            <fpage>e150</fpage>
+            <page-range>e150-e154</page-range>
+            <pub-id pub-id-type="pmid">34039172</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Nguyen</surname>
+                <given-names>JK</given-names>
+              </name>
+              <name>
+                <surname>Sanghavi</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Comparison of survival outcomes among older adults with major trauma after trauma center versus non-trauma center care in the United States.</article-title>
+            <source>Health Serv Res</source>
+            <year>2023</year>
+            <month>Aug</month>
+            <volume>58</volume>
+            <issue>4</issue>
+            <fpage>817</fpage>
+            <page-range>817-827</page-range>
+            <pub-id pub-id-type="pmid">36829289</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r26">
+          <label>26</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jarman</surname>
+                <given-names>MP</given-names>
+              </name>
+              <name>
+                <surname>Jin</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Weissman</surname>
+                <given-names>JS</given-names>
+              </name>
+              <name>
+                <surname>Ash</surname>
+                <given-names>AS</given-names>
+              </name>
+              <name>
+                <surname>Tjia</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Salim</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Haider</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Cooper</surname>
+                <given-names>Z</given-names>
+              </name>
+            </person-group>
+            <article-title>Association of Trauma Center Designation With Postdischarge Survival Among Older Adults With Injuries.</article-title>
+            <source>JAMA Netw Open</source>
+            <year>2022</year>
+            <month>Mar</month>
+            <day>01</day>
+            <volume>5</volume>
+            <issue>3</issue>
+            <fpage>e222448</fpage>
+            <pub-id pub-id-type="pmid">35294541</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r27">
+          <label>27</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>van Rein</surname>
+                <given-names>EAJ</given-names>
+              </name>
+              <name>
+                <surname>van der Sluijs</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Houwert</surname>
+                <given-names>RM</given-names>
+              </name>
+              <name>
+                <surname>Gunning</surname>
+                <given-names>AC</given-names>
+              </name>
+              <name>
+                <surname>Lichtveld</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Leenen</surname>
+                <given-names>LPH</given-names>
+              </name>
+              <name>
+                <surname>van Heijl</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Effectiveness of prehospital trauma triage systems in selecting severely injured patients: Is comparative analysis possible?</article-title>
+            <source>Am J Emerg Med</source>
+            <year>2018</year>
+            <month>Jun</month>
+            <volume>36</volume>
+            <issue>6</issue>
+            <fpage>1060</fpage>
+            <page-range>1060-1069</page-range>
+            <pub-id pub-id-type="pmid">29395772</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r28">
+          <label>28</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Garwe</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Cowan</surname>
+                <given-names>LD</given-names>
+              </name>
+              <name>
+                <surname>Neas</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Cathey</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Danford</surname>
+                <given-names>BC</given-names>
+              </name>
+              <name>
+                <surname>Greenawalt</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Survival benefit of transfer to tertiary trauma centers for major trauma patients initially presenting to nontertiary trauma centers.</article-title>
+            <source>Acad Emerg Med</source>
+            <year>2010</year>
+            <month>Nov</month>
+            <volume>17</volume>
+            <issue>11</issue>
+            <fpage>1223</fpage>
+            <page-range>1223-32</page-range>
+            <pub-id pub-id-type="pmid">21175521</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r29">
+          <label>29</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Molyneux</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Kerr</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Stratton</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Sandercock</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Clarke</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Shrimpton</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Holman</surname>
+                <given-names>R</given-names>
+              </name>
+              <collab>International Subarachnoid Aneurysm Trial (ISAT) Collaborative Group</collab>
+            </person-group>
+            <article-title>International Subarachnoid Aneurysm Trial (ISAT) of neurosurgical clipping versus endovascular coiling in 2143 patients with ruptured intracranial aneurysms: a randomised trial.</article-title>
+            <source>Lancet</source>
+            <year>2002</year>
+            <month>Oct</month>
+            <day>26</day>
+            <volume>360</volume>
+            <issue>9342</issue>
+            <fpage>1267</fpage>
+            <page-range>1267-74</page-range>
+            <pub-id pub-id-type="pmid">12414200</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r30">
+          <label>30</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Berman</surname>
+                <given-names>MF</given-names>
+              </name>
+              <name>
+                <surname>Solomon</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Mayer</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>Johnston</surname>
+                <given-names>SC</given-names>
+              </name>
+              <name>
+                <surname>Yung</surname>
+                <given-names>PP</given-names>
+              </name>
+            </person-group>
+            <article-title>Impact of hospital-related factors on outcome after treatment of cerebral aneurysms.</article-title>
+            <source>Stroke</source>
+            <year>2003</year>
+            <month>Sep</month>
+            <volume>34</volume>
+            <issue>9</issue>
+            <fpage>2200</fpage>
+            <page-range>2200-7</page-range>
+            <pub-id pub-id-type="pmid">12907814</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r31">
+          <label>31</label>
+          <element-citation publication-type="journal">
+            <collab>National Institute of Neurological Disorders and Stroke rt-PA Stroke Study Group</collab>
+            <article-title>Tissue plasminogen activator for acute ischemic stroke.</article-title>
+            <source>N Engl J Med</source>
+            <year>1995</year>
+            <month>Dec</month>
+            <day>14</day>
+            <volume>333</volume>
+            <issue>24</issue>
+            <fpage>1581</fpage>
+            <page-range>1581-7</page-range>
+            <pub-id pub-id-type="pmid">7477192</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r32">
+          <label>32</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hacke</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Donnan</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Fieschi</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Kaste</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>von Kummer</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Broderick</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Brott</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Frankel</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Grotta</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Haley</surname>
+                <given-names>EC</given-names>
+              </name>
+              <name>
+                <surname>Kwiatkowski</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Levine</surname>
+                <given-names>SR</given-names>
+              </name>
+              <name>
+                <surname>Lewandowski</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Lu</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Lyden</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Marler</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Patel</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Tilley</surname>
+                <given-names>BC</given-names>
+              </name>
+              <name>
+                <surname>Albers</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Bluhmki</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Wilhelm</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Hamilton</surname>
+                <given-names>S</given-names>
+              </name>
+              <collab>ATLANTIS Trials Investigators</collab>
+              <collab>ECASS Trials Investigators</collab>
+              <collab>NINDS rt-PA Study Group Investigators</collab>
+            </person-group>
+            <article-title>Association of outcome with early stroke treatment: pooled analysis of ATLANTIS, ECASS, and NINDS rt-PA stroke trials.</article-title>
+            <source>Lancet</source>
+            <year>2004</year>
+            <month>Mar</month>
+            <day>06</day>
+            <volume>363</volume>
+            <issue>9411</issue>
+            <fpage>768</fpage>
+            <page-range>768-74</page-range>
+            <pub-id pub-id-type="pmid">15016487</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r33">
+          <label>33</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Katzan</surname>
+                <given-names>IL</given-names>
+              </name>
+              <name>
+                <surname>Furlan</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Lloyd</surname>
+                <given-names>LE</given-names>
+              </name>
+              <name>
+                <surname>Frank</surname>
+                <given-names>JI</given-names>
+              </name>
+              <name>
+                <surname>Harper</surname>
+                <given-names>DL</given-names>
+              </name>
+              <name>
+                <surname>Hinchey</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Hammel</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Qu</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Sila</surname>
+                <given-names>CA</given-names>
+              </name>
+            </person-group>
+            <article-title>Use of tissue-type plasminogen activator for acute ischemic stroke: the Cleveland area experience.</article-title>
+            <source>JAMA</source>
+            <year>2000</year>
+            <month>Mar</month>
+            <day>01</day>
+            <volume>283</volume>
+            <issue>9</issue>
+            <fpage>1151</fpage>
+            <page-range>1151-8</page-range>
+            <pub-id pub-id-type="pmid">10703777</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r34">
+          <label>34</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Katzan</surname>
+                <given-names>IL</given-names>
+              </name>
+              <name>
+                <surname>Hammer</surname>
+                <given-names>MD</given-names>
+              </name>
+              <name>
+                <surname>Furlan</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Hixson</surname>
+                <given-names>ED</given-names>
+              </name>
+              <name>
+                <surname>Nadzam</surname>
+                <given-names>DM</given-names>
+              </name>
+              <collab>Cleveland Clinic Health System Stroke Quality Improvement Team</collab>
+            </person-group>
+            <article-title>Quality improvement and tissue-type plasminogen activator for acute ischemic stroke: a Cleveland update.</article-title>
+            <source>Stroke</source>
+            <year>2003</year>
+            <month>Mar</month>
+            <volume>34</volume>
+            <issue>3</issue>
+            <fpage>799</fpage>
+            <page-range>799-800</page-range>
+            <pub-id pub-id-type="pmid">12624312</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r35">
+          <label>35</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Schwamm</surname>
+                <given-names>LH</given-names>
+              </name>
+              <name>
+                <surname>Pancioli</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Acker</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Goldstein</surname>
+                <given-names>LB</given-names>
+              </name>
+              <name>
+                <surname>Zorowitz</surname>
+                <given-names>RD</given-names>
+              </name>
+              <name>
+                <surname>Shephard</surname>
+                <given-names>TJ</given-names>
+              </name>
+              <name>
+                <surname>Moyer</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Gorman</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Johnston</surname>
+                <given-names>SC</given-names>
+              </name>
+              <name>
+                <surname>Duncan</surname>
+                <given-names>PW</given-names>
+              </name>
+              <name>
+                <surname>Gorelick</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Frank</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Stranne</surname>
+                <given-names>SK</given-names>
+              </name>
+              <name>
+                <surname>Smith</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Federspiel</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Horton</surname>
+                <given-names>KB</given-names>
+              </name>
+              <name>
+                <surname>Magnis</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Adams</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <collab>American Stroke Association's Task Force on the Development of Stroke Systems</collab>
+            </person-group>
+            <article-title>Recommendations for the establishment of stroke systems of care: recommendations from the American Stroke Association's Task Force on the Development of Stroke Systems.</article-title>
+            <source>Stroke</source>
+            <year>2005</year>
+            <month>Mar</month>
+            <volume>36</volume>
+            <issue>3</issue>
+            <fpage>690</fpage>
+            <page-range>690-703</page-range>
+            <pub-id pub-id-type="pmid">15689577</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r36">
+          <label>36</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Rymer</surname>
+                <given-names>MM</given-names>
+              </name>
+              <name>
+                <surname>Thurtchley</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Summers</surname>
+                <given-names>D</given-names>
+              </name>
+              <collab>America Brain and Stroke Institute Stroke Team</collab>
+            </person-group>
+            <article-title>Expanded modes of tissue plasminogen activator delivery in a comprehensive stroke center increases regional acute stroke interventions.</article-title>
+            <source>Stroke</source>
+            <year>2003</year>
+            <month>Jun</month>
+            <volume>34</volume>
+            <issue>6</issue>
+            <fpage>e58</fpage>
+            <page-range>e58-60</page-range>
+            <pub-id pub-id-type="pmid">12730555</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r37">
+          <label>37</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jauch</surname>
+                <given-names>EC</given-names>
+              </name>
+              <name>
+                <surname>Saver</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Adams</surname>
+                <given-names>HP</given-names>
+              </name>
+              <name>
+                <surname>Bruno</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Connors</surname>
+                <given-names>JJ</given-names>
+              </name>
+              <name>
+                <surname>Demaerschalk</surname>
+                <given-names>BM</given-names>
+              </name>
+              <name>
+                <surname>Khatri</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>McMullan</surname>
+                <given-names>PW</given-names>
+              </name>
+              <name>
+                <surname>Qureshi</surname>
+                <given-names>AI</given-names>
+              </name>
+              <name>
+                <surname>Rosenfield</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Scott</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Summers</surname>
+                <given-names>DR</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>DZ</given-names>
+              </name>
+              <name>
+                <surname>Wintermark</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Yonas</surname>
+                <given-names>H</given-names>
+              </name>
+              <collab>American Heart Association Stroke Council</collab>
+              <collab>Council on Cardiovascular Nursing</collab>
+              <collab>Council on Peripheral Vascular Disease</collab>
+              <collab>Council on Clinical Cardiology</collab>
+            </person-group>
+            <article-title>Guidelines for the early management of patients with acute ischemic stroke: a guideline for healthcare professionals from the American Heart Association/American Stroke Association.</article-title>
+            <source>Stroke</source>
+            <year>2013</year>
+            <month>Mar</month>
+            <volume>44</volume>
+            <issue>3</issue>
+            <fpage>870</fpage>
+            <page-range>870-947</page-range>
+            <pub-id pub-id-type="pmid">23370205</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r38">
+          <label>38</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Glickman</surname>
+                <given-names>SW</given-names>
+              </name>
+              <name>
+                <surname>Lytle</surname>
+                <given-names>BL</given-names>
+              </name>
+              <name>
+                <surname>Ou</surname>
+                <given-names>FS</given-names>
+              </name>
+              <name>
+                <surname>Mears</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>O'Brien</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Cairns</surname>
+                <given-names>CB</given-names>
+              </name>
+              <name>
+                <surname>Garvey</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Bohle</surname>
+                <given-names>DJ</given-names>
+              </name>
+              <name>
+                <surname>Peterson</surname>
+                <given-names>ED</given-names>
+              </name>
+              <name>
+                <surname>Jollis</surname>
+                <given-names>JG</given-names>
+              </name>
+              <name>
+                <surname>Granger</surname>
+                <given-names>CB</given-names>
+              </name>
+            </person-group>
+            <article-title>Care processes associated with quicker door-in-door-out times for patients with ST-elevation-myocardial infarction requiring transfer: results from a statewide regionalization program.</article-title>
+            <source>Circ Cardiovasc Qual Outcomes</source>
+            <year>2011</year>
+            <month>Jul</month>
+            <volume>4</volume>
+            <issue>4</issue>
+            <fpage>382</fpage>
+            <page-range>382-8</page-range>
+            <pub-id pub-id-type="pmid">21712523</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r39">
+          <label>39</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dauerman</surname>
+                <given-names>HL</given-names>
+              </name>
+              <name>
+                <surname>Bates</surname>
+                <given-names>ER</given-names>
+              </name>
+              <name>
+                <surname>Kontos</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Garvey</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Henry</surname>
+                <given-names>TD</given-names>
+              </name>
+              <name>
+                <surname>Manoukian</surname>
+                <given-names>SV</given-names>
+              </name>
+              <name>
+                <surname>Roe</surname>
+                <given-names>MT</given-names>
+              </name>
+            </person-group>
+            <article-title>Nationwide Analysis of Patients With ST-Segment-Elevation Myocardial Infarction Transferred for Primary Percutaneous Intervention: Findings From the American Heart Association Mission: Lifeline Program.</article-title>
+            <source>Circ Cardiovasc Interv</source>
+            <year>2015</year>
+            <month>May</month>
+            <volume>8</volume>
+            <issue>5</issue>
+            <pub-id pub-id-type="pmid">25901044</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r40">
+          <label>40</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ting</surname>
+                <given-names>HH</given-names>
+              </name>
+              <name>
+                <surname>Rihal</surname>
+                <given-names>CS</given-names>
+              </name>
+              <name>
+                <surname>Gersh</surname>
+                <given-names>BJ</given-names>
+              </name>
+              <name>
+                <surname>Haro</surname>
+                <given-names>LH</given-names>
+              </name>
+              <name>
+                <surname>Bjerke</surname>
+                <given-names>CM</given-names>
+              </name>
+              <name>
+                <surname>Lennon</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Lim</surname>
+                <given-names>CC</given-names>
+              </name>
+              <name>
+                <surname>Bresnahan</surname>
+                <given-names>JF</given-names>
+              </name>
+              <name>
+                <surname>Jaffe</surname>
+                <given-names>AS</given-names>
+              </name>
+              <name>
+                <surname>Holmes</surname>
+                <given-names>DR</given-names>
+              </name>
+              <name>
+                <surname>Bell</surname>
+                <given-names>MR</given-names>
+              </name>
+            </person-group>
+            <article-title>Regional systems of care to optimize timeliness of reperfusion therapy for ST-elevation myocardial infarction: the Mayo Clinic STEMI Protocol.</article-title>
+            <source>Circulation</source>
+            <year>2007</year>
+            <month>Aug</month>
+            <day>14</day>
+            <volume>116</volume>
+            <issue>7</issue>
+            <fpage>729</fpage>
+            <page-range>729-36</page-range>
+            <pub-id pub-id-type="pmid">17673456</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r41">
+          <label>41</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Camp-Rogers</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Kurz</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Brady</surname>
+                <given-names>WJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Hospital-based strategies contributing to percutaneous coronary intervention time reduction in the patient with ST-segment elevation myocardiaI infarction: a review of the "system-of-care" approach.</article-title>
+            <source>Am J Emerg Med</source>
+            <year>2012</year>
+            <month>Mar</month>
+            <volume>30</volume>
+            <issue>3</issue>
+            <fpage>491</fpage>
+            <page-range>491-8</page-range>
+            <pub-id pub-id-type="pmid">21514087</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r42">
+          <label>42</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cooney</surname>
+                <given-names>DR</given-names>
+              </name>
+              <name>
+                <surname>Millin</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Carter</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Lawner</surname>
+                <given-names>BJ</given-names>
+              </name>
+              <name>
+                <surname>Nable</surname>
+                <given-names>JV</given-names>
+              </name>
+              <name>
+                <surname>Wallus</surname>
+                <given-names>HJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Ambulance diversion and emergency department offload delay: resource document for the National Association of EMS Physicians position statement.</article-title>
+            <source>Prehosp Emerg Care</source>
+            <year>2011</year>
+            <season>Oct-Dec</season>
+            <volume>15</volume>
+            <issue>4</issue>
+            <fpage>555</fpage>
+            <page-range>555-61</page-range>
+            <pub-id pub-id-type="pmid">21870947</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r43">
+          <label>43</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Brennan</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Allin</surname>
+                <given-names>DM</given-names>
+              </name>
+              <name>
+                <surname>Calkins</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Enguidanos</surname>
+                <given-names>ER</given-names>
+              </name>
+              <name>
+                <surname>Heimbach</surname>
+                <given-names>LJ</given-names>
+              </name>
+              <name>
+                <surname>Pruden</surname>
+                <given-names>JN</given-names>
+              </name>
+              <name>
+                <surname>Stilley</surname>
+                <given-names>DG</given-names>
+              </name>
+            </person-group>
+            <article-title>Guidelines for ambulance diversion. American College of Emergency Physicians.</article-title>
+            <source>Ann Emerg Med</source>
+            <year>2000</year>
+            <month>Oct</month>
+            <volume>36</volume>
+            <issue>4</issue>
+            <fpage>376</fpage>
+            <page-range>376-7</page-range>
+            <pub-id pub-id-type="pmid">11020687</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r44">
+          <label>44</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Schull</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Lazier</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Vermeulen</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Mawhinney</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Morrison</surname>
+                <given-names>LJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Emergency department contributors to ambulance diversion: a quantitative analysis.</article-title>
+            <source>Ann Emerg Med</source>
+            <year>2003</year>
+            <month>Apr</month>
+            <volume>41</volume>
+            <issue>4</issue>
+            <fpage>467</fpage>
+            <page-range>467-76</page-range>
+            <pub-id pub-id-type="pmid">12658245</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r45">
+          <label>45</label>
+          <element-citation publication-type="journal">
+            <article-title>Ambulance Diversion. EMS Committee, American College of Emergency Physicians.</article-title>
+            <source>Ann Emerg Med</source>
+            <year>1999</year>
+            <month>Jul</month>
+            <volume>34</volume>
+            <issue>1</issue>
+            <fpage>127</fpage>
+            <pub-id pub-id-type="pmid">10409094</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r46">
+          <label>46</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Millin</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Brown</surname>
+                <given-names>LH</given-names>
+              </name>
+              <name>
+                <surname>Schwartz</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>EMS provider determinations of necessity for transport and reimbursement for EMS response, medical care, and transport: combined resource document for the National Association of EMS Physicians position statements.</article-title>
+            <source>Prehosp Emerg Care</source>
+            <year>2011</year>
+            <season>Oct-Dec</season>
+            <volume>15</volume>
+            <issue>4</issue>
+            <fpage>562</fpage>
+            <page-range>562-9</page-range>
+            <pub-id pub-id-type="pmid">21797787</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r47">
+          <label>47</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Olshaker</surname>
+                <given-names>JS</given-names>
+              </name>
+              <name>
+                <surname>Rathlev</surname>
+                <given-names>NK</given-names>
+              </name>
+            </person-group>
+            <article-title>Emergency Department overcrowding and ambulance diversion: the impact and potential solutions of extended boarding of admitted patients in the Emergency Department.</article-title>
+            <source>J Emerg Med</source>
+            <year>2006</year>
+            <month>Apr</month>
+            <volume>30</volume>
+            <issue>3</issue>
+            <fpage>351</fpage>
+            <page-range>351-6</page-range>
+            <pub-id pub-id-type="pmid">16677993</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r48">
+          <label>48</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hsia</surname>
+                <given-names>RY</given-names>
+              </name>
+              <name>
+                <surname>Asch</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Weiss</surname>
+                <given-names>RE</given-names>
+              </name>
+              <name>
+                <surname>Zingmond</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Liang</surname>
+                <given-names>LJ</given-names>
+              </name>
+              <name>
+                <surname>Han</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>McCreath</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Sun</surname>
+                <given-names>BC</given-names>
+              </name>
+            </person-group>
+            <article-title>California hospitals serving large minority populations were more likely than others to employ ambulance diversion.</article-title>
+            <source>Health Aff (Millwood)</source>
+            <year>2012</year>
+            <month>Aug</month>
+            <volume>31</volume>
+            <issue>8</issue>
+            <fpage>1767</fpage>
+            <page-range>1767-76</page-range>
+            <pub-id pub-id-type="pmid">22869655</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-158743.r49">
+          <label>49</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Johnson</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Cunningham</surname>
+                <given-names>CJ</given-names>
+              </name>
+              <name>
+                <surname>Arnold</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Rosamond</surname>
+                <given-names>WD</given-names>
+              </name>
+              <name>
+                <surname>Z&#x000e8;gre-Hemsey</surname>
+                <given-names>JK</given-names>
+              </name>
+            </person-group>
+            <article-title>Impact of Using Drones in Emergency Medicine: What Does the Future Hold?</article-title>
+            <source>Open Access Emerg Med</source>
+            <year>2021</year>
+            <volume>13</volume>
+            <fpage>487</fpage>
+            <page-range>487-498</page-range>
+            <pub-id pub-id-type="pmid">34815722</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

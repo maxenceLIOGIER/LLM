@@ -1,0 +1,3102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-22461" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Guillain-Barre Syndrome</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Nguyen</surname>
+            <given-names>Thy P.</given-names>
+          </name>
+          <aff>McGovern Medical School UT Health</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Taylor</surname>
+            <given-names>Roger S.</given-names>
+          </name>
+          <aff>Charleston Area Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Thy Nguyen declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Roger Taylor declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>7</day>
+          <month>2</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-22461.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Guillain-Barr&#x000e9; syndrome (GBS) is a rare but serious post-infectious immune-mediated neuropathy. It results from the autoimmune destruction of nerves in the peripheral nervous system causing symptoms such as numbness, tingling, and weakness that can progress to paralysis. This activity illustrates the evaluation and management of Guillain-Barr&#x000e9; syndrome and explains the role of the interprofessional team in improving care for patients with this condition.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Review the pathophysiology of Guillain-Barr&#x000e9; syndrome.</p></list-item><list-item><p>Describe the use of electromyography and nerve conduction studies in the evaluation of Guillain-Barr&#x000e9; syndrome.</p></list-item><list-item><p>Summarize the management of Guillain-Barr&#x000e9; syndrome.</p></list-item><list-item><p>Outline the importance of collaboration and communication among the interprofessional team to enhance the delivery of care for patients affected by Guillain-Barr&#x000e9; syndrome.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=22461&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=22461">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-22461.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Guillain-Barr&#x000e9; syndrome (GBS) is the most common cause of acute, flaccid, neuromuscular paralysis in the United States. Guillain-Barr&#x000e9; syndrome was first discovered more than a century ago. Advances in the past century include investigating the immune-mediated pathophysiology of the disease, recognizing the spectrum of presentations, advancing diagnostic modalities, and prognostic models, and performing randomized trials of treatments to improve outcomes. Given the morbidity that can occur without treatment, all physicians should have knowledge of this rare disease.<xref ref-type="bibr" rid="article-22461.r1">[1]</xref><xref ref-type="bibr" rid="article-22461.r2">[2]</xref><xref ref-type="bibr" rid="article-22461.r3">[3]</xref><xref ref-type="bibr" rid="article-22461.r4">[4]</xref></p>
+      </sec>
+      <sec id="article-22461.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p>The Guillain-Barr&#x000e9; syndrome (GBS)&#x000a0;and its variants are considered post-infectious, immune-mediated neuropathies. Evidence from animal models suggests a key role of molecular mimicry. In <italic toggle="yes">Campylobacter jejuni</italic> gastrointestinal infections, a lipooligosaccharide present in the outer membrane of the bacteria is similar to gangliosides which are components of the peripheral nerves.<xref ref-type="bibr" rid="article-22461.r5">[5]</xref> Therefore, an immune response triggered to fight infection can lead to a cross-reaction on host nerves.</p>
+        <p>Many infections have been linked with GBS. The most common are gastrointestinal or respiratory illnesses. Up to 70% of patients have reported an antecedent illness in the 1 to 6 weeks before the presentation of GBS.<xref ref-type="bibr" rid="article-22461.r6">[6]</xref>&#x000a0;During the Zika virus outbreak, many GBS cases were described.<xref ref-type="bibr" rid="article-22461.r7">[7]</xref> Case reports detail many other possible&#x000a0;etiologies linked to GBS, including medications and surgeries. In 1976, flu vaccination against the influenza A/H1N1 antigen led to a well-documented, increased incidence of cases of GBS; however, further surveillance data of flu vaccinations in subsequent years have described only one additional case of GBS for every 1 million vaccines. Subsequent studies estimate that developing GBS after a flu infection is up to 7 times more likely than developing GBS after a vaccination.<xref ref-type="bibr" rid="article-22461.r8">[8]</xref><xref ref-type="bibr" rid="article-22461.r9">[9]</xref><xref ref-type="bibr" rid="article-22461.r10">[10]</xref><xref ref-type="bibr" rid="article-22461.r11">[11]</xref><xref ref-type="bibr" rid="article-22461.r12">[12]</xref>&#x000a0;</p>
+      </sec>
+      <sec id="article-22461.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p>Although rare, with an incidence of 0.4 to 2 per 100,000, Guillain-Barr&#x000e9; syndrome (GBS) has major effects on the healthcare system.&#x000a0;The cost of medical care for a patient with GBS has been estimated at up to $318,966. Overall, the cost of treating&#x000a0;patients with&#x000a0;GBS has been estimated at $1.7 billion per year. Males are affected at a slightly higher incidence than females. Each year, it is estimated that 100,000 patients worldwide will contract GBS.<xref ref-type="bibr" rid="article-22461.r13">[13]</xref><xref ref-type="bibr" rid="article-22461.r14">[14]</xref>&#x000a0;</p>
+      </sec>
+      <sec id="article-22461.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>Antecedent infections are reported in up to 70% of patients with Guillain-Barr&#x000e9; syndrome (GBS).<xref ref-type="bibr" rid="article-22461.r15">[15]</xref>&#x000a0;Therefore, molecular mimicry plays a substantial role in our understanding of GBS, particularly the axonal variant. The lipooligosaccharide of <italic toggle="yes">Campylobacter jejuni</italic> is similar to the gangliosides of peripheral nerve membranes.<xref ref-type="bibr" rid="article-22461.r5">[5]</xref>&#x000a0;Passive immunization of rabbits with these ganglioside-like lipooligosaccharides has led to similar clinical syndromes of flaccid tetraplegia, similar to the acute motor axonal neuropathy variant of GBS.<xref ref-type="bibr" rid="article-22461.r16">[16]</xref><xref ref-type="bibr" rid="article-22461.r17">[17]</xref>&#x000a0;Ganglioside antibodies have been shown to have different peripheral nerve targets. Anti-GD1a antibodies bind to paranodal&#x000a0;myelin, nodes of&#x000a0;Ranvier, and neuromuscular junction.<xref ref-type="bibr" rid="article-22461.r18">[18]</xref><xref ref-type="bibr" rid="article-22461.r19">[19]</xref>&#x000a0;GM1 and GQ1B antibodies bind to a peripheral nerve or neuromuscular junction.<xref ref-type="bibr" rid="article-22461.r20">[20]</xref><xref ref-type="bibr" rid="article-22461.r21">[21]</xref> These different peripheral nerve targets may play a role in the heterogeneity of the clinical presentation of GBS. Additionally, the complement cascade is activated and plays a key role in the disease&#x02019;s pathogenesis.<xref ref-type="bibr" rid="article-22461.r22">[22]</xref></p>
+        <p>Certain gangliosides are more likely to be associated with specific presentations. For example, Miller-Fisher syndrome is associated with the anti-GQ1B antibody.<xref ref-type="bibr" rid="article-22461.r23">[23]</xref>&#x000a0;The axonal motor neuropathy form may be associated with anti-GM1 antibodies.<xref ref-type="bibr" rid="article-22461.r24">[24]</xref>&#x000a0;The pharyngeal-cervical-brachial variant of GBS may be associated with anti-GT1A antibodies.<xref ref-type="bibr" rid="article-22461.r25">[25]</xref>&#x000a0;However, besides Miller-Fisher syndrome&#x02019;s association with anti-GQ1B antibodies, the sensitivity and specificity of all antibodies for specific subtypes are low-to-moderate yields for clinical utility. Given that not all patients test positive for anti-ganglioside antibodies, further research is needed to elucidate the roles of anti-ganglioside antibodies in GBS as causal or epiphenomenon. Less is known about the pathophysiology behind the acute inflammatory demyelinating polyneuropathy variant (AIDP) of GBS, although it is considered the most common variant in the United States.</p>
+      </sec>
+      <sec id="article-22461.s6" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>Guillain-Barr&#x000e9; syndrome (GBS) patients describe a fulminant course of symptoms that usually include ascending weakness and non-length dependent sensory symptoms. By definition, the nadir is usually reached within 4 weeks. Symmetric&#x000a0;involvement is a key feature of GBS.<xref ref-type="bibr" rid="article-22461.r6">[6]</xref>&#x000a0;GBS is usually considered monophasic; therefore, a relapsing or remitting course at presentation would be considered atypical.<xref ref-type="bibr" rid="article-22461.r26">[26]</xref>&#x000a0;Additionally, a prior GBS event (recurrent GBS) is also unusual, occurring in less than 10% of all patients.<xref ref-type="bibr" rid="article-22461.r27">[27]</xref>&#x000a0;If the patient reports progression beyond 8 weeks, other diagnoses should be considered. GBS often&#x000a0;presents&#x000a0;(up to 70% of patients)&#x000a0;within 1 to 6 weeks of antecedent illness.<xref ref-type="bibr" rid="article-22461.r28">[28]</xref>&#x000a0;Other antecedent events that have been linked with GBS include vaccinations (specifically a 1976 strain of swine flu vaccine), surgery, trauma, or other infections. <xref ref-type="bibr" rid="article-22461.r28">[28]</xref><xref ref-type="bibr" rid="article-22461.r11">[11]</xref>&#x000a0;</p>
+        <p>Classically, patients with GBS will have a pattern of proximal and distal weakness, which is flaccid and often profound if hospitalized. Significant neck flexion weakness may be present and can portend the need for intubation. Areflexia or hyporeflexia is usually present. (Rare cases without hypo/areflexia have been described, mostly in the AMAN variant of GBS).<xref ref-type="bibr" rid="article-22461.r29">[29]</xref>&#x000a0;Besides the flaccid weakness and areflexia, patients experience non-length-dependent sensory symptoms; therefore, unlike more common chronic neuropathies such as diabetic neuropathy, patients may report dysesthesias in the hands followed by the feet. Patients can develop facial diplegia due to the involvement of both facial cranial nerves. They can also develop dysphagia due to the involvement of the glossopharyngeal, vagus, and hypoglossal cranial nerves.<xref ref-type="bibr" rid="article-22461.r6">[6]</xref> Autonomic nerves can lead to significant morbidity; therefore, most physicians recommend monitoring in an intermediate or intensive care unit for cardiac arrhythmias or blood pressure lability. Dysautonomia is a primary etiology of the morbidity and mortality attributable to GBS. Additionally,&#x000a0;the involvement of the lower cranial nerves (glossopharyngeal, vagus, and hypoglossal nerves) or the involvement of the nerves in the muscles of respiration may lead to the need for artificial ventilation. Respiratory failure can occur in up to 30% of patients, usually leading to prolonged hospitalization and recovery.<xref ref-type="bibr" rid="article-22461.r30">[30]</xref></p>
+        <p>Besides the classic GBS presentation described above, many variants of GBS have been described. There is a variant with pure motor involvement called "AMAN (acute motor axonal neuropathy)" that is more common in Asian countries.<xref ref-type="bibr" rid="article-22461.r31">[31]</xref> Rarely these patients can have normal reflexes.<xref ref-type="bibr" rid="article-22461.r29">[29]</xref>&#x000a0;There is also a regional variant involving primarily the pharyngeal, neck, and upper extremity muscles called the "pharyngeal-cervical-brachial" variant).<xref ref-type="bibr" rid="article-22461.r32">[32]</xref> Some variants can involve the central nervous system, termed "Bickerstaff Encephalitis."<xref ref-type="bibr" rid="article-22461.r33">[33]</xref> There is also a variant that presents with paraparesis.<xref ref-type="bibr" rid="article-22461.r34">[34]</xref> Arguably, the most famous variant is the Miller-Fisher syndrome.<xref ref-type="bibr" rid="article-22461.r35">[35]</xref><xref ref-type="bibr" rid="article-22461.r36">[36]</xref> This is classically described as a triad of ophthalmoplegia, areflexia, and ataxia; however, other cranial nerves besides the oculomotor nerves have been reported in this variant.<xref ref-type="bibr" rid="article-22461.r36">[36]</xref></p>
+      </sec>
+      <sec id="article-22461.s7" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>Guillain-Barr&#x000e9; syndrome (GBS)&#x000a0;is&#x000a0;considered a clinical diagnosis; therefore, a diagnosis can be made with confidence at the bedside in most cases. For atypical cases or unusual subtypes, ancillary testing can be useful.<xref ref-type="bibr" rid="article-22461.r26">[26]</xref>&#x000a0;Electromyography and nerve conduction studies may be helpful in distinguishing GBS from its mimics. Nerve conduction studies (NCS) utilize technology to help distinguish between demyelinating and axonal forms of neuropathy. Needle electromyography may help to determine the acuity of a patient&#x02019;s symptoms. In some cases, these studies may be helpful in evaluating other considerations in the differential diagnosis, such as neuromuscular junction disorders or diabetic neuropathy. Classically, electrodiagnostic studies should be undertaken at 10 to 14 days after symptom onset due to the time for Wallerian degeneration of sensory and motor nerve fibers; however, there have been many studies that reveal that early, nonspecific findings may be helpful in diagnosing GBS as early as 3 to 7 days after symptom onset.<xref ref-type="bibr" rid="article-22461.r37">[37]</xref><xref ref-type="bibr" rid="article-22461.r38">[38]</xref>&#x000a0;</p>
+        <p>The more common early electrodiagnostic findings in GBS include absent or prolonged H-reflexes and/or F-wave latencies.<xref ref-type="bibr" rid="article-22461.r39">[39]</xref><xref ref-type="bibr" rid="article-22461.r38">[38]</xref>&#x000a0;The sural sparing pattern is considered&#x000a0;specific for GBS as compared to other polyneuropathies.<xref ref-type="bibr" rid="article-22461.r40">[40]</xref> This pattern would show an intact sural sensory response with abnormal upper extremity sensory responses. Other findings would depend on the variant of GBS. Acute inflammatory demyelinating polyneuropathy would be more likely to have partial motor conduction block, temporal dispersion, slow conduction velocities, prolonged/absent F-wave latencies, and prolonged distal latencies.<xref ref-type="bibr" rid="article-22461.r41">[41]</xref><xref ref-type="bibr" rid="article-22461.r31">[31]</xref>&#x000a0;AMAN would usually show a pattern of low, compound muscle action potential amplitudes or even inexcitable motor nerves; however, partial motor conduction block or complete conduction block can be seen in AMAN nerve conduction study (NCS). This phenomenon is explained by &#x0201c;reversible conduction failure.&#x0201d;<xref ref-type="bibr" rid="article-22461.r42">[42]</xref>&#x000a0;Complement is deposited in nodes of Ranvier and paranodal regions on peripheral nerves. Subsequently, the nerves can undergo Wallerian degeneration leading to significant and prolonged axonal damage or can reverse, deemed conduction failure.<xref ref-type="bibr" rid="article-22461.r43">[43]</xref><xref ref-type="bibr" rid="article-22461.r22">[22]</xref> This phenomenon explains the relatively rapid recovery of some severely weak patients with AMAN. Sensory nerves would be spared both clinically and electrodiagnostically in AMAN. Acute motor and sensory axonal neuropathy (AMSAN) would show low amplitude motor and sensory potentials. Miller-Fisher syndrome is more often described with reduced or absent sensory nerve action potentials.<xref ref-type="bibr" rid="article-22461.r44">[44]</xref>&#x000a0;</p>
+        <p>Cerebrospinal fluid (CSF) shows a classic pattern of albuminocytologic dissociation. This term means that spinal fluid shows a normal amount of white blood cells and an elevated CSF protein level.<xref ref-type="bibr" rid="article-22461.r4">[4]</xref><xref ref-type="bibr" rid="article-22461.r26">[26]</xref> However, this pattern is only present in 80% of patients at 2 weeks following symptom onset. Therefore, the absence of this classic finding does not exclude the diagnosis. If the white blood cell count is elevated, this should prompt consideration of other infectious GBS mimics, such as HIV seroconversion.<xref ref-type="bibr" rid="article-22461.r6">[6]</xref>&#x000a0;</p>
+        <p>A&#x000a0;number of ganglioside antibodies have been associated with GBS. Antibodies include anti-GM1, anti-GD1A, anti-GT1A, and anti-GQ1B. These range in sensitivity from up to 60% (anti-GM1 antibodies in acute motor axonal neuropathy) to up to more than 90% (anti-GQ1B antibodies in Miller Fisher syndrome). However, these laboratory studies usually require some&#x000a0;time to obtain results and, therefore, may not be as helpful in decision-making at the time of patient admission.<xref ref-type="bibr" rid="article-22461.r45">[45]</xref><xref ref-type="bibr" rid="article-22461.r46">[46]</xref><xref ref-type="bibr" rid="article-22461.r47">[47]</xref></p>
+        <p>Imaging studies such as magnetic resonance imaging (MRI) spine may show enhancement of the nerve roots,&#x000a0;indicating a breakdown of the blood-nerve barrier due to inflammation in GBS. However, MRI utility in GBS is most useful to rule out other etiologies of quadriparesis or facial diplegia, such as transverse myelitis or intracranial disease.<xref ref-type="bibr" rid="article-22461.r48">[48]</xref><xref ref-type="bibr" rid="article-22461.r49">[49]</xref>&#x000a0;A negative inspiratory force (NIF) should be performed on patients with suspected GBS.&#x000a0; Serial NIFs should be followed in patients with a high risk&#x000a0;of respiratory compromise.&#x000a0; Patients who&#x000a0;are unable to&#x000a0;perform&#x000a0;an NIF&#x000a0;of -20 to -30 cm H2O should be considered&#x000a0;at very high risk.&#x000a0;&#x000a0;</p>
+      </sec>
+      <sec id="article-22461.s8" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>In randomized controlled trials, there are two treatment options currently&#x000a0;considered the standard of care in Guillain-Barr&#x000e9; syndrome (GBS). These include either intravenous immunoglobulin (IVIG) or plasma exchange. IVIG is thought to act by its immune-modulating action; however, the exact mechanism remains to be elucidated. IVIG is given 2 grams/kilogram divided over 5 days.<xref ref-type="bibr" rid="article-22461.r50">[50]</xref>&#x000a0;Plasma exchange is thought to act by removing pathogenic antibodies, humoral mediators, and complement proteins involved in the pathogenesis of GBS. Similar to IVIG,&#x000a0;its&#x000a0;exact mechanism of action in the treatment of GBS has not been proven. Plasma exchange is generally given as a volume of exchange over five sessions. Plasma exchange and IVIG have been shown to be equally efficacious.<xref ref-type="bibr" rid="article-22461.r51">[51]</xref>&#x000a0;The effect is present if either treatment is given within 4 weeks, but the stronger effect may be present if treatment is administered within two weeks.<xref ref-type="bibr" rid="article-22461.r52">[52]</xref><xref ref-type="bibr" rid="article-22461.r53">[53]</xref><xref ref-type="bibr" rid="article-22461.r54">[54]</xref>&#x000a0;Surprisingly, corticosteroids (both oral prednisone and intravenous methylprednisolone) have not shown benefit over placebo or in combination with IVIG and plasma exchange over either modality alone.&#x000a0;Overall, treatment is generally considered to shorten the course of recovery of GBS. Treated patients in one study achieved independent ambulation 32 days faster than untreated patients.<xref ref-type="bibr" rid="article-22461.r51">[51]</xref><xref ref-type="bibr" rid="article-22461.r53">[53]</xref><xref ref-type="bibr" rid="article-22461.r55">[55]</xref><xref ref-type="bibr" rid="article-22461.r56">[56]</xref><xref ref-type="bibr" rid="article-22461.r57">[57]</xref><xref ref-type="bibr" rid="article-22461.r58">[58]</xref></p>
+        <p>&#x000a0;Overall, most patients with GBS do well, with up to 85% of patients achieving independent ambulation with recovery; however, there is a significant proportion of patients (20%) with morbidity. Further studies of plasma exchange followed by IVIG and IVIG concurrent with steroids have not shown significant improvement.<xref ref-type="bibr" rid="article-22461.r59">[59]</xref><xref ref-type="bibr" rid="article-22461.r60">[60]</xref>&#x000a0;An ongoing trial of 2 courses of IVIG should have results within the next year.<xref ref-type="bibr" rid="article-22461.r61">[61]</xref> There are also ongoing trials of complement inhibitors in patients with refractory GBS.<xref ref-type="bibr" rid="article-22461.r62">[62]</xref><xref ref-type="bibr" rid="article-22461.r63">[63]</xref><xref ref-type="bibr" rid="article-22461.r64">[64]</xref></p>
+      </sec>
+      <sec id="article-22461.s9" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <p>Following the eradication of poliovirus, Guillain-Barr&#x000e9; syndrome (GBS) is the most common cause of acute or subacute, flaccid neuromuscular weakness worldwide; however, other disorders may mimic GBS. If flaccid weakness occurs in a critically ill patient with multiorgan involvement, critical illness neuropathy and myopathy should be considered. Other etiologies that may mimic GBS include tick paralysis. There would be an initial presentation of neuromuscular junction disorder, acute intermittent porphyria, human immunodeficiency virus infection, spinal cord disorders, toxic neuropathies, and even infections (such as West Nile virus or rabies). Some atypical clinical features should lead providers to consider other diagnoses. These include early bowel and bladder involvement, asymmetric features, and hyperreflexia or normal reflexes.</p>
+        <p>Distinguishing GBS from its mimics would require a thoughtful evaluation of history, clinical presentation, and ancillary data. Regarding the clinical presentation, the presence of&#x000a0;dilated pupils may be more suggestive of tick paralysis or botulism. Ancillary testing such as electromyography and nerve conduction studies may distinguish GBS from critical illness neuropathy/myopathy, along with history and clinical context. Cerebrospinal fluid testing showing pleocytosis rather than the classic albuminocytologic dissociation may lead to further consideration of infectious etiologies such as HIV or West Nile Virus infection.</p>
+      </sec>
+      <sec id="article-22461.s10" sec-type="Prognosis">
+        <title>Prognosis</title>
+        <p>After the acute phase of the illness, Guillain-Barr&#x000e9; syndrome (GBS) patients tend to&#x000a0;do well. More than 80% achieve independent ambulation after 6 months.<xref ref-type="bibr" rid="article-22461.r30">[30]</xref> Mortality during the acute phase of the illness is&#x000a0;less than 5%.<xref ref-type="bibr" rid="article-22461.r65">[65]</xref> However, there is a subset of patients, less than 20%, who continue to have significant disabilities despite receiving the standard of care for GBS. Studies are underway to try to&#x000a0;identify these patients early. Early identification of poor prognostic factors could lead to trials of further treatment specific to this subgroup. In a cohort of Dutch patients, a prognostic tool, Erasmus GBS Outcome score, utilizes the patient&#x02019;s physical examination, age, and presence of diarrhea to predict the patient&#x02019;s ability to walk in the near future.<xref ref-type="bibr" rid="article-22461.r66">[66]</xref> Patients with a significant likelihood of residual disability would be most amenable to further therapeutic trials.</p>
+        <p>Studies to assess whether plasma exchange followed by IVIG would have an additional benefit were not significant.<xref ref-type="bibr" rid="article-22461.r60">[60]</xref>&#x000a0;Additionally, a number of studies regarding the addition of corticosteroids to IVIG were also not significant; however, there may have been a benefit in patients with worse prognostic factors (such as age and GBS disability score).<xref ref-type="bibr" rid="article-22461.r59">[59]</xref>&#x000a0;According to a small case series, two courses of IVIG have been suggested as a possible intervention.<xref ref-type="bibr" rid="article-22461.r67">[67]</xref>&#x000a0;There may be some&#x000a0;limitations of IVIG use based on adverse effects, however.<xref ref-type="bibr" rid="article-22461.r68">[68]</xref>&#x000a0;Currently, there is an ongoing randomized controlled trial of 2 courses of IVIG with patients with refractory GBS.<xref ref-type="bibr" rid="article-22461.r61">[61]</xref> Additionally, there is much interest in the key role of complement activation in the pathogenesis of GBS; therefore, a randomized controlled trial of eculizumab in patients with GBS is being studied.<xref ref-type="bibr" rid="article-22461.r63">[63]</xref></p>
+        <p>Other clinical features have been shown to predict the need for ventilation during the illness. These include fulminant course (onset to admission less than 7 days), bulbar weakness, and neck flexion weakness. These predictive factors would suggest triage to an intensive care unit rather than a step-down unit.<xref ref-type="bibr" rid="article-22461.r69">[69]</xref>&#x000a0;Following recovery, patients may continue to contend with residual fatigue, pain, and paresthesias for up to several years.<xref ref-type="bibr" rid="article-22461.r70">[70]</xref><xref ref-type="bibr" rid="article-22461.r71">[71]</xref></p>
+      </sec>
+      <sec id="article-22461.s11" sec-type="Complications">
+        <title>Complications</title>
+        <p>The most feared complications are respiratory compromise and bulbar palsies.</p>
+      </sec>
+      <sec id="article-22461.s12" sec-type="Consultations">
+        <title>Consultations</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>Neurology</p>
+          </list-item>
+          <list-item>
+            <p>Pulmonology/intensive care</p>
+          </list-item>
+          <list-item>
+            <p>+/- Infectious disease</p>
+          </list-item>
+          <list-item>
+            <p>+/- Immunology</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-22461.s13" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>The care of the patient with Guillain-Barr&#x000e9; syndrome requires all members of the healthcare team. Nurses are integral in recognizing and preventing complications, including decubitus ulcers, dysautonomia, and infection prevention. Pharmacists should be well-versed in the adverse effects that may occur with the administration of treatments for GBS, such as IVIG. Respiratory therapists can assist with preventing atelectasis and aspiration pneumonia. Physical and occupational therapists are crucial as the patient begins to regain function and strength. Following recovery, patients often may find it helpful to enlist in support groups available through the GBS foundation.</p>
+      </sec>
+      <sec id="article-22461.s14">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=22461&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=22461">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/neurology/guillain-barre-syndrome/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=22461">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/22461/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=22461">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-22461.s15">
+        <title>References</title>
+        <ref id="article-22461.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lehmann</surname>
+                <given-names>HC</given-names>
+              </name>
+              <name>
+                <surname>Hughes</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Kieseier</surname>
+                <given-names>BC</given-names>
+              </name>
+              <name>
+                <surname>Hartung</surname>
+                <given-names>HP</given-names>
+              </name>
+            </person-group>
+            <article-title>Recent developments and future directions in Guillain-Barr&#x000e9; syndrome.</article-title>
+            <source>J Peripher Nerv Syst</source>
+            <year>2012</year>
+            <month>Dec</month>
+            <volume>17 Suppl 3</volume>
+            <fpage>57</fpage>
+            <page-range>57-70</page-range>
+            <pub-id pub-id-type="pmid">23279434</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Govoni</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Granieri</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Epidemiology of the Guillain-Barr&#x000e9; syndrome.</article-title>
+            <source>Curr Opin Neurol</source>
+            <year>2001</year>
+            <month>Oct</month>
+            <volume>14</volume>
+            <issue>5</issue>
+            <fpage>605</fpage>
+            <page-range>605-13</page-range>
+            <pub-id pub-id-type="pmid">11562572</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Frenzen</surname>
+                <given-names>PD</given-names>
+              </name>
+            </person-group>
+            <article-title>Economic cost of Guillain-Barr&#x000e9; syndrome in the United States.</article-title>
+            <source>Neurology</source>
+            <year>2008</year>
+            <month>Jul</month>
+            <day>01</day>
+            <volume>71</volume>
+            <issue>1</issue>
+            <fpage>21</fpage>
+            <page-range>21-7</page-range>
+            <pub-id pub-id-type="pmid">18591502</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Guillain</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Barr&#x000e9;</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Strohl</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>[Radiculoneuritis syndrome with hyperalbuminosis of cerebrospinal fluid without cellular reaction. Notes on clinical features and graphs of tendon reflexes. 1916].</article-title>
+            <source>Ann Med Interne (Paris)</source>
+            <year>1999</year>
+            <month>Jan</month>
+            <volume>150</volume>
+            <issue>1</issue>
+            <fpage>24</fpage>
+            <page-range>24-32</page-range>
+            <pub-id pub-id-type="pmid">10400560</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yuki</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Taki</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Inagaki</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Kasama</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Takahashi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Saito</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Handa</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Miyatake</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>A bacterium lipopolysaccharide that elicits Guillain-Barr&#x000e9; syndrome has a GM1 ganglioside-like structure.</article-title>
+            <source>J Exp Med</source>
+            <year>1993</year>
+            <month>Nov</month>
+            <day>01</day>
+            <volume>178</volume>
+            <issue>5</issue>
+            <fpage>1771</fpage>
+            <page-range>1771-5</page-range>
+            <pub-id pub-id-type="pmid">8228822</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Fokke</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>van den Berg</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Drenthen</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Walgaard</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>van Doorn</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Jacobs</surname>
+                <given-names>BC</given-names>
+              </name>
+            </person-group>
+            <article-title>Diagnosis of Guillain-Barr&#x000e9; syndrome and validation of Brighton criteria.</article-title>
+            <source>Brain</source>
+            <year>2014</year>
+            <month>Jan</month>
+            <volume>137</volume>
+            <issue>Pt 1</issue>
+            <fpage>33</fpage>
+            <page-range>33-43</page-range>
+            <pub-id pub-id-type="pmid">24163275</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dirlikov</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Major</surname>
+                <given-names>CG</given-names>
+              </name>
+              <name>
+                <surname>Medina</surname>
+                <given-names>NA</given-names>
+              </name>
+              <name>
+                <surname>Lugo-Robles</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Matos</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Mu&#x000f1;oz-Jordan</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Colon-Sanchez</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Garcia</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Olivero-Segarra</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Malave</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Rodr&#x000ed;guez-Vega</surname>
+                <given-names>GM</given-names>
+              </name>
+              <name>
+                <surname>Thomas</surname>
+                <given-names>DL</given-names>
+              </name>
+              <name>
+                <surname>Waterman</surname>
+                <given-names>SH</given-names>
+              </name>
+              <name>
+                <surname>Sejvar</surname>
+                <given-names>JJ</given-names>
+              </name>
+              <name>
+                <surname>Luciano</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>Sharp</surname>
+                <given-names>TM</given-names>
+              </name>
+              <name>
+                <surname>Rivera-Garc&#x000ed;a</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Clinical Features of Guillain-Barr&#x000e9; Syndrome With vs Without Zika Virus Infection, Puerto Rico, 2016.</article-title>
+            <source>JAMA Neurol</source>
+            <year>2018</year>
+            <month>Sep</month>
+            <day>01</day>
+            <volume>75</volume>
+            <issue>9</issue>
+            <fpage>1089</fpage>
+            <page-range>1089-1097</page-range>
+            <pub-id pub-id-type="pmid">29799940</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yuki</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Hartung</surname>
+                <given-names>HP</given-names>
+              </name>
+            </person-group>
+            <article-title>Guillain-Barr&#x000e9; syndrome.</article-title>
+            <source>N Engl J Med</source>
+            <year>2012</year>
+            <month>Jun</month>
+            <day>14</day>
+            <volume>366</volume>
+            <issue>24</issue>
+            <fpage>2294</fpage>
+            <page-range>2294-304</page-range>
+            <pub-id pub-id-type="pmid">22694000</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>CAMPBELL</surname>
+                <given-names>AM</given-names>
+              </name>
+            </person-group>
+            <article-title>The aetiology of polyneuritis.</article-title>
+            <source>Proc R Soc Med</source>
+            <year>1958</year>
+            <month>Mar</month>
+            <volume>51</volume>
+            <issue>3</issue>
+            <fpage>157</fpage>
+            <page-range>157-9</page-range>
+            <pub-id pub-id-type="pmid">13527504</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cao-Lormeau</surname>
+                <given-names>VM</given-names>
+              </name>
+              <name>
+                <surname>Blake</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Mons</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Last&#x000e8;re</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Roche</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Vanhomwegen</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Dub</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Baudouin</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Teissier</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Larre</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Vial</surname>
+                <given-names>AL</given-names>
+              </name>
+              <name>
+                <surname>Decam</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Choumet</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Halstead</surname>
+                <given-names>SK</given-names>
+              </name>
+              <name>
+                <surname>Willison</surname>
+                <given-names>HJ</given-names>
+              </name>
+              <name>
+                <surname>Musset</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Manuguerra</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Despres</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Fournier</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Mallet</surname>
+                <given-names>HP</given-names>
+              </name>
+              <name>
+                <surname>Musso</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Fontanet</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Neil</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ghawch&#x000e9;</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>Guillain-Barr&#x000e9; Syndrome outbreak associated with Zika virus infection in French Polynesia: a case-control study.</article-title>
+            <source>Lancet</source>
+            <year>2016</year>
+            <month>Apr</month>
+            <day>09</day>
+            <volume>387</volume>
+            <issue>10027</issue>
+            <fpage>1531</fpage>
+            <page-range>1531-1539</page-range>
+            <pub-id pub-id-type="pmid">26948433</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Schonberger</surname>
+                <given-names>LB</given-names>
+              </name>
+              <name>
+                <surname>Bregman</surname>
+                <given-names>DJ</given-names>
+              </name>
+              <name>
+                <surname>Sullivan-Bolyai</surname>
+                <given-names>JZ</given-names>
+              </name>
+              <name>
+                <surname>Keenlyside</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Ziegler</surname>
+                <given-names>DW</given-names>
+              </name>
+              <name>
+                <surname>Retailliau</surname>
+                <given-names>HF</given-names>
+              </name>
+              <name>
+                <surname>Eddins</surname>
+                <given-names>DL</given-names>
+              </name>
+              <name>
+                <surname>Bryan</surname>
+                <given-names>JA</given-names>
+              </name>
+            </person-group>
+            <article-title>Guillain-Barre syndrome following vaccination in the National Influenza Immunization Program, United States, 1976--1977.</article-title>
+            <source>Am J Epidemiol</source>
+            <year>1979</year>
+            <month>Aug</month>
+            <volume>110</volume>
+            <issue>2</issue>
+            <fpage>105</fpage>
+            <page-range>105-23</page-range>
+            <pub-id pub-id-type="pmid">463869</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lasky</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Terracciano</surname>
+                <given-names>GJ</given-names>
+              </name>
+              <name>
+                <surname>Magder</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Koski</surname>
+                <given-names>CL</given-names>
+              </name>
+              <name>
+                <surname>Ballesteros</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Nash</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Clark</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Haber</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Stolley</surname>
+                <given-names>PD</given-names>
+              </name>
+              <name>
+                <surname>Schonberger</surname>
+                <given-names>LB</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>RT</given-names>
+              </name>
+            </person-group>
+            <article-title>The Guillain-Barr&#x000e9; syndrome and the 1992-1993 and 1993-1994 influenza vaccines.</article-title>
+            <source>N Engl J Med</source>
+            <year>1998</year>
+            <month>Dec</month>
+            <day>17</day>
+            <volume>339</volume>
+            <issue>25</issue>
+            <fpage>1797</fpage>
+            <page-range>1797-802</page-range>
+            <pub-id pub-id-type="pmid">9854114</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Willison</surname>
+                <given-names>HJ</given-names>
+              </name>
+              <name>
+                <surname>Jacobs</surname>
+                <given-names>BC</given-names>
+              </name>
+              <name>
+                <surname>van Doorn</surname>
+                <given-names>PA</given-names>
+              </name>
+            </person-group>
+            <article-title>Guillain-Barr&#x000e9; syndrome.</article-title>
+            <source>Lancet</source>
+            <year>2016</year>
+            <month>Aug</month>
+            <day>13</day>
+            <volume>388</volume>
+            <issue>10045</issue>
+            <fpage>717</fpage>
+            <page-range>717-27</page-range>
+            <pub-id pub-id-type="pmid">26948435</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sejvar</surname>
+                <given-names>JJ</given-names>
+              </name>
+              <name>
+                <surname>Baughman</surname>
+                <given-names>AL</given-names>
+              </name>
+              <name>
+                <surname>Wise</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Morgan</surname>
+                <given-names>OW</given-names>
+              </name>
+            </person-group>
+            <article-title>Population incidence of Guillain-Barr&#x000e9; syndrome: a systematic review and meta-analysis.</article-title>
+            <source>Neuroepidemiology</source>
+            <year>2011</year>
+            <volume>36</volume>
+            <issue>2</issue>
+            <fpage>123</fpage>
+            <page-range>123-33</page-range>
+            <pub-id pub-id-type="pmid">21422765</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jacobs</surname>
+                <given-names>BC</given-names>
+              </name>
+              <name>
+                <surname>Rothbarth</surname>
+                <given-names>PH</given-names>
+              </name>
+              <name>
+                <surname>van der Mech&#x000e9;</surname>
+                <given-names>FG</given-names>
+              </name>
+              <name>
+                <surname>Herbrink</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Schmitz</surname>
+                <given-names>PI</given-names>
+              </name>
+              <name>
+                <surname>de Klerk</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>van Doorn</surname>
+                <given-names>PA</given-names>
+              </name>
+            </person-group>
+            <article-title>The spectrum of antecedent infections in Guillain-Barr&#x000e9; syndrome: a case-control study.</article-title>
+            <source>Neurology</source>
+            <year>1998</year>
+            <month>Oct</month>
+            <volume>51</volume>
+            <issue>4</issue>
+            <fpage>1110</fpage>
+            <page-range>1110-5</page-range>
+            <pub-id pub-id-type="pmid">9781538</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Susuki</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Nishimoto</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Yamada</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Baba</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Ueda</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hirata</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Yuki</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Acute motor axonal neuropathy rabbit model: immune attack on nerve root axons.</article-title>
+            <source>Ann Neurol</source>
+            <year>2003</year>
+            <month>Sep</month>
+            <volume>54</volume>
+            <issue>3</issue>
+            <fpage>383</fpage>
+            <page-range>383-8</page-range>
+            <pub-id pub-id-type="pmid">12953272</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yuki</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Yamada</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Koga</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Odaka</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Susuki</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Tagawa</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Ueda</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kasama</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Ohnishi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Hayashi</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Takahashi</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Kamijo</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Hirata</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Animal model of axonal Guillain-Barr&#x000e9; syndrome induced by sensitization with GM1 ganglioside.</article-title>
+            <source>Ann Neurol</source>
+            <year>2001</year>
+            <month>Jun</month>
+            <volume>49</volume>
+            <issue>6</issue>
+            <fpage>712</fpage>
+            <page-range>712-20</page-range>
+            <pub-id pub-id-type="pmid">11409422</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chiba</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Kusunoki</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Obata</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Machinami</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Kanazawa</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <article-title>Serum anti-GQ1b IgG antibody is associated with ophthalmoplegia in Miller Fisher syndrome and Guillain-Barr&#x000e9; syndrome: clinical and immunohistochemical studies.</article-title>
+            <source>Neurology</source>
+            <year>1993</year>
+            <month>Oct</month>
+            <volume>43</volume>
+            <issue>10</issue>
+            <fpage>1911</fpage>
+            <page-range>1911-7</page-range>
+            <pub-id pub-id-type="pmid">8413947</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Goodfellow</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Bowes</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Sheikh</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Odaka</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Halstead</surname>
+                <given-names>SK</given-names>
+              </name>
+              <name>
+                <surname>Humphreys</surname>
+                <given-names>PD</given-names>
+              </name>
+              <name>
+                <surname>Wagner</surname>
+                <given-names>ER</given-names>
+              </name>
+              <name>
+                <surname>Yuki</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Furukawa</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Furukawa</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Plomp</surname>
+                <given-names>JJ</given-names>
+              </name>
+              <name>
+                <surname>Willison</surname>
+                <given-names>HJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Overexpression of GD1a ganglioside sensitizes motor nerve terminals to anti-GD1a antibody-mediated injury in a model of acute motor axonal neuropathy.</article-title>
+            <source>J Neurosci</source>
+            <year>2005</year>
+            <month>Feb</month>
+            <day>16</day>
+            <volume>25</volume>
+            <issue>7</issue>
+            <fpage>1620</fpage>
+            <page-range>1620-8</page-range>
+            <pub-id pub-id-type="pmid">15716397</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Willison</surname>
+                <given-names>HJ</given-names>
+              </name>
+              <name>
+                <surname>O'Hanlon</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Paterson</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>O'Leary</surname>
+                <given-names>CP</given-names>
+              </name>
+              <name>
+                <surname>Veitch</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Wilson</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Roberts</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Tang</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Vincent</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Mechanisms of action of anti-GM1 and anti-GQ1b ganglioside antibodies in Guillain-Barr&#x000e9; syndrome.</article-title>
+            <source>J Infect Dis</source>
+            <year>1997</year>
+            <month>Dec</month>
+            <volume>176 Suppl 2</volume>
+            <fpage>S144</fpage>
+            <page-range>S144-9</page-range>
+            <pub-id pub-id-type="pmid">9396699</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Greenshields</surname>
+                <given-names>KN</given-names>
+              </name>
+              <name>
+                <surname>Halstead</surname>
+                <given-names>SK</given-names>
+              </name>
+              <name>
+                <surname>Zitman</surname>
+                <given-names>FM</given-names>
+              </name>
+              <name>
+                <surname>Rinaldi</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Brennan</surname>
+                <given-names>KM</given-names>
+              </name>
+              <name>
+                <surname>O'Leary</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Chamberlain</surname>
+                <given-names>LH</given-names>
+              </name>
+              <name>
+                <surname>Easton</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Roxburgh</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Pediani</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Furukawa</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Furukawa</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Goodyear</surname>
+                <given-names>CS</given-names>
+              </name>
+              <name>
+                <surname>Plomp</surname>
+                <given-names>JJ</given-names>
+              </name>
+              <name>
+                <surname>Willison</surname>
+                <given-names>HJ</given-names>
+              </name>
+            </person-group>
+            <article-title>The neuropathic potential of anti-GM1 autoantibodies is regulated by the local glycolipid environment in mice.</article-title>
+            <source>J Clin Invest</source>
+            <year>2009</year>
+            <month>Mar</month>
+            <volume>119</volume>
+            <issue>3</issue>
+            <fpage>595</fpage>
+            <page-range>595-610</page-range>
+            <pub-id pub-id-type="pmid">19221437</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Susuki</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Rasband</surname>
+                <given-names>MN</given-names>
+              </name>
+              <name>
+                <surname>Tohyama</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Koibuchi</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Okamoto</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Funakoshi</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Hirata</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Baba</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Yuki</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Anti-GM1 antibodies cause complement-mediated disruption of sodium channel clusters in peripheral motor nerve fibers.</article-title>
+            <source>J Neurosci</source>
+            <year>2007</year>
+            <month>Apr</month>
+            <day>11</day>
+            <volume>27</volume>
+            <issue>15</issue>
+            <fpage>3956</fpage>
+            <page-range>3956-67</page-range>
+            <pub-id pub-id-type="pmid">17428969</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chiba</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Kusunoki</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Shimizu</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Kanazawa</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <article-title>Serum IgG antibody to ganglioside GQ1b is a possible marker of Miller Fisher syndrome.</article-title>
+            <source>Ann Neurol</source>
+            <year>1992</year>
+            <month>Jun</month>
+            <volume>31</volume>
+            <issue>6</issue>
+            <fpage>677</fpage>
+            <page-range>677-9</page-range>
+            <pub-id pub-id-type="pmid">1514781</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gregson</surname>
+                <given-names>NA</given-names>
+              </name>
+              <name>
+                <surname>Jones</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Thomas</surname>
+                <given-names>PK</given-names>
+              </name>
+              <name>
+                <surname>Willison</surname>
+                <given-names>HJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Acute motor neuropathy with antibodies to GM1 ganglioside.</article-title>
+            <source>J Neurol</source>
+            <year>1991</year>
+            <month>Dec</month>
+            <volume>238</volume>
+            <issue>8</issue>
+            <fpage>447</fpage>
+            <page-range>447-51</page-range>
+            <pub-id pub-id-type="pmid">1779252</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>O'Leary</surname>
+                <given-names>CP</given-names>
+              </name>
+              <name>
+                <surname>Veitch</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Durward</surname>
+                <given-names>WF</given-names>
+              </name>
+              <name>
+                <surname>Thomas</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Rees</surname>
+                <given-names>JH</given-names>
+              </name>
+              <name>
+                <surname>Willison</surname>
+                <given-names>HJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Acute oropharyngeal palsy is associated with antibodies to GQ1b and GT1a gangliosides.</article-title>
+            <source>J Neurol Neurosurg Psychiatry</source>
+            <year>1996</year>
+            <month>Dec</month>
+            <volume>61</volume>
+            <issue>6</issue>
+            <fpage>649</fpage>
+            <page-range>649-51</page-range>
+            <pub-id pub-id-type="pmid">8971119</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r26">
+          <label>26</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Asbury</surname>
+                <given-names>AK</given-names>
+              </name>
+              <name>
+                <surname>Cornblath</surname>
+                <given-names>DR</given-names>
+              </name>
+            </person-group>
+            <article-title>Assessment of current diagnostic criteria for Guillain-Barr&#x000e9; syndrome.</article-title>
+            <source>Ann Neurol</source>
+            <year>1990</year>
+            <volume>27 Suppl</volume>
+            <fpage>S21</fpage>
+            <page-range>S21-4</page-range>
+            <pub-id pub-id-type="pmid">2194422</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r27">
+          <label>27</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ishii</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Yuki</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Kawamoto</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Yoshimura</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Kusunoki</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kohara</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Recurrent Guillain-Barr&#x000e9; syndrome, Miller Fisher syndrome and Bickerstaff brainstem encephalitis.</article-title>
+            <source>J Neurol Sci</source>
+            <year>2016</year>
+            <month>May</month>
+            <day>15</day>
+            <volume>364</volume>
+            <fpage>59</fpage>
+            <page-range>59-64</page-range>
+            <pub-id pub-id-type="pmid">27084218</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r28">
+          <label>28</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Koga</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Yuki</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Hirata</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Antecedent symptoms in Guillain-Barr&#x000e9; syndrome: an important indicator for clinical and serological subgroups.</article-title>
+            <source>Acta Neurol Scand</source>
+            <year>2001</year>
+            <month>May</month>
+            <volume>103</volume>
+            <issue>5</issue>
+            <fpage>278</fpage>
+            <page-range>278-87</page-range>
+            <pub-id pub-id-type="pmid">11328202</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r29">
+          <label>29</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tosun</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Dursun</surname>
+                <given-names>&#x0015e;</given-names>
+              </name>
+              <name>
+                <surname>Akyildiz</surname>
+                <given-names>UO</given-names>
+              </name>
+              <name>
+                <surname>Oktay</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Tataro&#x0011f;lu</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Acute motor-sensory axonal neuropathy with hyperreflexia in Guillain-Barr&#x000e9; syndrome.</article-title>
+            <source>J Child Neurol</source>
+            <year>2015</year>
+            <month>Apr</month>
+            <volume>30</volume>
+            <issue>5</issue>
+            <fpage>637</fpage>
+            <page-range>637-40</page-range>
+            <pub-id pub-id-type="pmid">24700665</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r30">
+          <label>30</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>van den Berg</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Walgaard</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Drenthen</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Fokke</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Jacobs</surname>
+                <given-names>BC</given-names>
+              </name>
+              <name>
+                <surname>van Doorn</surname>
+                <given-names>PA</given-names>
+              </name>
+            </person-group>
+            <article-title>Guillain-Barr&#x000e9; syndrome: pathogenesis, diagnosis, treatment and prognosis.</article-title>
+            <source>Nat Rev Neurol</source>
+            <year>2014</year>
+            <month>Aug</month>
+            <volume>10</volume>
+            <issue>8</issue>
+            <fpage>469</fpage>
+            <page-range>469-82</page-range>
+            <pub-id pub-id-type="pmid">25023340</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r31">
+          <label>31</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>McKhann</surname>
+                <given-names>GM</given-names>
+              </name>
+              <name>
+                <surname>Cornblath</surname>
+                <given-names>DR</given-names>
+              </name>
+              <name>
+                <surname>Griffin</surname>
+                <given-names>JW</given-names>
+              </name>
+              <name>
+                <surname>Ho</surname>
+                <given-names>TW</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>CY</given-names>
+              </name>
+              <name>
+                <surname>Jiang</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Wu</surname>
+                <given-names>HS</given-names>
+              </name>
+              <name>
+                <surname>Zhaori</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Jou</surname>
+                <given-names>LP</given-names>
+              </name>
+            </person-group>
+            <article-title>Acute motor axonal neuropathy: a frequent cause of acute flaccid paralysis in China.</article-title>
+            <source>Ann Neurol</source>
+            <year>1993</year>
+            <month>Apr</month>
+            <volume>33</volume>
+            <issue>4</issue>
+            <fpage>333</fpage>
+            <page-range>333-42</page-range>
+            <pub-id pub-id-type="pmid">8489203</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r32">
+          <label>32</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lametery</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Dubois-Teklali</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Millet</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Manel</surname>
+                <given-names>V</given-names>
+              </name>
+            </person-group>
+            <article-title>[Pharyngeal-cervical-brachial syndrome: A rare form of Guillain-Barr&#x000e9; syndrome with severe acute bulbar palsy].</article-title>
+            <source>Arch Pediatr</source>
+            <year>2016</year>
+            <month>Feb</month>
+            <volume>23</volume>
+            <issue>2</issue>
+            <fpage>176</fpage>
+            <page-range>176-9</page-range>
+            <pub-id pub-id-type="pmid">26697812</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r33">
+          <label>33</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shahrizaila</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Yuki</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Bickerstaff brainstem encephalitis and Fisher syndrome: anti-GQ1b antibody syndrome.</article-title>
+            <source>J Neurol Neurosurg Psychiatry</source>
+            <year>2013</year>
+            <month>May</month>
+            <volume>84</volume>
+            <issue>5</issue>
+            <fpage>576</fpage>
+            <page-range>576-83</page-range>
+            <pub-id pub-id-type="pmid">22984203</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r34">
+          <label>34</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>van den Berg</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Fokke</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Drenthen</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>van Doorn</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Jacobs</surname>
+                <given-names>BC</given-names>
+              </name>
+            </person-group>
+            <article-title>Paraparetic Guillain-Barr&#x000e9; syndrome.</article-title>
+            <source>Neurology</source>
+            <year>2014</year>
+            <month>Jun</month>
+            <day>03</day>
+            <volume>82</volume>
+            <issue>22</issue>
+            <fpage>1984</fpage>
+            <page-range>1984-9</page-range>
+            <pub-id pub-id-type="pmid">24808021</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r35">
+          <label>35</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ar&#x000e1;nyi</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Kov&#x000e1;cs</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Sipos</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Bereczki</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Miller Fisher syndrome: brief overview and update with a focus on electrophysiological findings.</article-title>
+            <source>Eur J Neurol</source>
+            <year>2012</year>
+            <month>Jan</month>
+            <volume>19</volume>
+            <issue>1</issue>
+            <fpage>15</fpage>
+            <page-range>15-20, e1-3</page-range>
+            <pub-id pub-id-type="pmid">21631649</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r36">
+          <label>36</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lo</surname>
+                <given-names>YL</given-names>
+              </name>
+            </person-group>
+            <article-title>Clinical and immunological spectrum of the Miller Fisher syndrome.</article-title>
+            <source>Muscle Nerve</source>
+            <year>2007</year>
+            <month>Nov</month>
+            <volume>36</volume>
+            <issue>5</issue>
+            <fpage>615</fpage>
+            <page-range>615-27</page-range>
+            <pub-id pub-id-type="pmid">17657801</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r37">
+          <label>37</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Al-Shekhlee</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Hachwi</surname>
+                <given-names>RN</given-names>
+              </name>
+              <name>
+                <surname>Preston</surname>
+                <given-names>DC</given-names>
+              </name>
+              <name>
+                <surname>Katirji</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>New criteria for early electrodiagnosis of acute inflammatory demyelinating polyneuropathy.</article-title>
+            <source>Muscle Nerve</source>
+            <year>2005</year>
+            <month>Jul</month>
+            <volume>32</volume>
+            <issue>1</issue>
+            <fpage>66</fpage>
+            <page-range>66-72</page-range>
+            <pub-id pub-id-type="pmid">15880488</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r38">
+          <label>38</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chanson</surname>
+                <given-names>JB</given-names>
+              </name>
+              <name>
+                <surname>Echaniz-Laguna</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Early electrodiagnostic abnormalities in acute inflammatory demyelinating polyneuropathy: a retrospective study of 58 patients.</article-title>
+            <source>Clin Neurophysiol</source>
+            <year>2014</year>
+            <month>Sep</month>
+            <volume>125</volume>
+            <issue>9</issue>
+            <fpage>1900</fpage>
+            <page-range>1900-5</page-range>
+            <pub-id pub-id-type="pmid">24529487</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r39">
+          <label>39</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Albert&#x000ed;</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Alentorn</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Mart&#x000ed;nez-Yelamos</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Mart&#x000ed;nez-Matos</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Povedano</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Montero</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Casasnovas</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Very early electrodiagnostic findings in Guillain-Barr&#x000e9; syndrome.</article-title>
+            <source>J Peripher Nerv Syst</source>
+            <year>2011</year>
+            <month>Jun</month>
+            <volume>16</volume>
+            <issue>2</issue>
+            <fpage>136</fpage>
+            <page-range>136-42</page-range>
+            <pub-id pub-id-type="pmid">21692913</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r40">
+          <label>40</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Derksen</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Ritter</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Athar</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Kieseier</surname>
+                <given-names>BC</given-names>
+              </name>
+              <name>
+                <surname>Mancias</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Hartung</surname>
+                <given-names>HP</given-names>
+              </name>
+              <name>
+                <surname>Sheikh</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Lehmann</surname>
+                <given-names>HC</given-names>
+              </name>
+            </person-group>
+            <article-title>Sural sparing pattern discriminates Guillain-Barr&#x000e9; syndrome from its mimics.</article-title>
+            <source>Muscle Nerve</source>
+            <year>2014</year>
+            <month>Nov</month>
+            <volume>50</volume>
+            <issue>5</issue>
+            <fpage>780</fpage>
+            <page-range>780-4</page-range>
+            <pub-id pub-id-type="pmid">24616124</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r41">
+          <label>41</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hadden</surname>
+                <given-names>RD</given-names>
+              </name>
+              <name>
+                <surname>Cornblath</surname>
+                <given-names>DR</given-names>
+              </name>
+              <name>
+                <surname>Hughes</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Zielasek</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Hartung</surname>
+                <given-names>HP</given-names>
+              </name>
+              <name>
+                <surname>Toyka</surname>
+                <given-names>KV</given-names>
+              </name>
+              <name>
+                <surname>Swan</surname>
+                <given-names>AV</given-names>
+              </name>
+            </person-group>
+            <article-title>Electrophysiological classification of Guillain-Barr&#x000e9; syndrome: clinical associations and outcome. Plasma Exchange/Sandoglobulin Guillain-Barr&#x000e9; Syndrome Trial Group.</article-title>
+            <source>Ann Neurol</source>
+            <year>1998</year>
+            <month>Nov</month>
+            <volume>44</volume>
+            <issue>5</issue>
+            <fpage>780</fpage>
+            <page-range>780-8</page-range>
+            <pub-id pub-id-type="pmid">9818934</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r42">
+          <label>42</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chan</surname>
+                <given-names>YC</given-names>
+              </name>
+              <name>
+                <surname>Punzalan-Sotelo</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Kannan</surname>
+                <given-names>TA</given-names>
+              </name>
+              <name>
+                <surname>Shahrizaila</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Umapathi</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Goh</surname>
+                <given-names>EJH</given-names>
+              </name>
+              <name>
+                <surname>Fukami</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Wilder-Smith</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Yuki</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Electrodiagnosis of reversible conduction failure in Guillain-Barr&#x000e9; syndrome.</article-title>
+            <source>Muscle Nerve</source>
+            <year>2017</year>
+            <month>Nov</month>
+            <volume>56</volume>
+            <issue>5</issue>
+            <fpage>919</fpage>
+            <page-range>919-924</page-range>
+            <pub-id pub-id-type="pmid">28093784</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r43">
+          <label>43</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Griffin</surname>
+                <given-names>JW</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>CY</given-names>
+              </name>
+              <name>
+                <surname>Macko</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Ho</surname>
+                <given-names>TW</given-names>
+              </name>
+              <name>
+                <surname>Hsieh</surname>
+                <given-names>ST</given-names>
+              </name>
+              <name>
+                <surname>Xue</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>FA</given-names>
+              </name>
+              <name>
+                <surname>Cornblath</surname>
+                <given-names>DR</given-names>
+              </name>
+              <name>
+                <surname>McKhann</surname>
+                <given-names>GM</given-names>
+              </name>
+              <name>
+                <surname>Asbury</surname>
+                <given-names>AK</given-names>
+              </name>
+            </person-group>
+            <article-title>Early nodal changes in the acute motor axonal neuropathy pattern of the Guillain-Barr&#x000e9; syndrome.</article-title>
+            <source>J Neurocytol</source>
+            <year>1996</year>
+            <month>Jan</month>
+            <volume>25</volume>
+            <issue>1</issue>
+            <fpage>33</fpage>
+            <page-range>33-51</page-range>
+            <pub-id pub-id-type="pmid">8852937</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r44">
+          <label>44</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Scelsa</surname>
+                <given-names>SN</given-names>
+              </name>
+              <name>
+                <surname>Herskovitz</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Miller Fisher syndrome: axonal, demyelinating or both?</article-title>
+            <source>Electromyogr Clin Neurophysiol</source>
+            <year>2000</year>
+            <month>Dec</month>
+            <volume>40</volume>
+            <issue>8</issue>
+            <fpage>497</fpage>
+            <page-range>497-502</page-range>
+            <pub-id pub-id-type="pmid">11155543</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r45">
+          <label>45</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ho</surname>
+                <given-names>TW</given-names>
+              </name>
+              <name>
+                <surname>Mishu</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>CY</given-names>
+              </name>
+              <name>
+                <surname>Gao</surname>
+                <given-names>CY</given-names>
+              </name>
+              <name>
+                <surname>Cornblath</surname>
+                <given-names>DR</given-names>
+              </name>
+              <name>
+                <surname>Griffin</surname>
+                <given-names>JW</given-names>
+              </name>
+              <name>
+                <surname>Asbury</surname>
+                <given-names>AK</given-names>
+              </name>
+              <name>
+                <surname>Blaser</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>McKhann</surname>
+                <given-names>GM</given-names>
+              </name>
+            </person-group>
+            <article-title>Guillain-Barr&#x000e9; syndrome in northern China. Relationship to Campylobacter jejuni infection and anti-glycolipid antibodies.</article-title>
+            <source>Brain</source>
+            <year>1995</year>
+            <month>Jun</month>
+            <volume>118 ( Pt 3)</volume>
+            <fpage>597</fpage>
+            <page-range>597-605</page-range>
+            <pub-id pub-id-type="pmid">7600081</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r46">
+          <label>46</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sheikh</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>An update on pathobiologic roles of anti-glycan antibodies in Guillain-Barr&#x000e9; syndrome.</article-title>
+            <source>F1000 Biol Rep</source>
+            <year>2010</year>
+            <month>Mar</month>
+            <day>25</day>
+            <volume>2</volume>
+            <pub-id pub-id-type="pmid">20948812</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r47">
+          <label>47</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Willison</surname>
+                <given-names>HJ</given-names>
+              </name>
+              <name>
+                <surname>Yuki</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Peripheral neuropathies and anti-glycolipid antibodies.</article-title>
+            <source>Brain</source>
+            <year>2002</year>
+            <month>Dec</month>
+            <volume>125</volume>
+            <issue>Pt 12</issue>
+            <fpage>2591</fpage>
+            <page-range>2591-625</page-range>
+            <pub-id pub-id-type="pmid">12429589</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r48">
+          <label>48</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yikilmaz</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Doganay</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Gumus</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Per</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Kumandas</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Coskun</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Magnetic resonance imaging of childhood Guillain-Barre syndrome.</article-title>
+            <source>Childs Nerv Syst</source>
+            <year>2010</year>
+            <month>Aug</month>
+            <volume>26</volume>
+            <issue>8</issue>
+            <fpage>1103</fpage>
+            <page-range>1103-8</page-range>
+            <pub-id pub-id-type="pmid">20556395</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r49">
+          <label>49</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zuccoli</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Panigrahy</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Bailey</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Fitz</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Redefining the Guillain-Barr&#x000e9; spectrum in children: neuroimaging findings of cranial nerve involvement.</article-title>
+            <source>AJNR Am J Neuroradiol</source>
+            <year>2011</year>
+            <month>Apr</month>
+            <volume>32</volume>
+            <issue>4</issue>
+            <fpage>639</fpage>
+            <page-range>639-42</page-range>
+            <pub-id pub-id-type="pmid">21292802</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r50">
+          <label>50</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ortiz-Salas</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Velez-Van-Meerbeke</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Galvis-Gomez</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>Rodriguez Q</surname>
+                <given-names>JH</given-names>
+              </name>
+            </person-group>
+            <article-title>Human Immunoglobulin Versus Plasmapheresis in Guillain-Barre Syndrome and Myasthenia Gravis: A Meta-Analysis.</article-title>
+            <source>J Clin Neuromuscul Dis</source>
+            <year>2016</year>
+            <month>Sep</month>
+            <volume>18</volume>
+            <issue>1</issue>
+            <fpage>1</fpage>
+            <page-range>1-11</page-range>
+            <pub-id pub-id-type="pmid">27552383</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r51">
+          <label>51</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>van der Mech&#x000e9;</surname>
+                <given-names>FG</given-names>
+              </name>
+              <name>
+                <surname>Schmitz</surname>
+                <given-names>PI</given-names>
+              </name>
+            </person-group>
+            <article-title>A randomized trial comparing intravenous immune globulin and plasma exchange in Guillain-Barr&#x000e9; syndrome. Dutch Guillain-Barr&#x000e9; Study Group.</article-title>
+            <source>N Engl J Med</source>
+            <year>1992</year>
+            <month>Apr</month>
+            <day>23</day>
+            <volume>326</volume>
+            <issue>17</issue>
+            <fpage>1123</fpage>
+            <page-range>1123-9</page-range>
+            <pub-id pub-id-type="pmid">1552913</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r52">
+          <label>52</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Rapha&#x000eb;l</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Chevret</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hughes</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Annane</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Plasma exchange for Guillain-Barr&#x000e9; syndrome.</article-title>
+            <source>Cochrane Database Syst Rev</source>
+            <year>2012</year>
+            <month>Jul</month>
+            <day>11</day>
+            <issue>7</issue>
+            <fpage>CD001798</fpage>
+            <pub-id pub-id-type="pmid">22786475</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r53">
+          <label>53</label>
+          <element-citation publication-type="journal">
+            <article-title>Plasmapheresis and acute Guillain-Barr&#x000e9; syndrome. The Guillain-Barr&#x000e9; syndrome Study Group.</article-title>
+            <source>Neurology</source>
+            <year>1985</year>
+            <month>Aug</month>
+            <volume>35</volume>
+            <issue>8</issue>
+            <fpage>1096</fpage>
+            <page-range>1096-104</page-range>
+            <pub-id pub-id-type="pmid">4022342</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r54">
+          <label>54</label>
+          <element-citation publication-type="journal">
+            <article-title>Appropriate number of plasma exchanges in Guillain-Barr&#x000e9; syndrome. The French Cooperative Group on Plasma Exchange in Guillain-Barr&#x000e9; Syndrome.</article-title>
+            <source>Ann Neurol</source>
+            <year>1997</year>
+            <month>Mar</month>
+            <volume>41</volume>
+            <issue>3</issue>
+            <fpage>298</fpage>
+            <page-range>298-306</page-range>
+            <pub-id pub-id-type="pmid">9066350</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r55">
+          <label>55</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hughes</surname>
+                <given-names>RA</given-names>
+              </name>
+            </person-group>
+            <article-title>Plasma exchange versus intravenous immunoglobulin for Guillain-Barr&#x000e9; syndrome.</article-title>
+            <source>Ther Apher</source>
+            <year>1997</year>
+            <month>May</month>
+            <volume>1</volume>
+            <issue>2</issue>
+            <fpage>129</fpage>
+            <page-range>129-30</page-range>
+            <pub-id pub-id-type="pmid">10225757</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r56">
+          <label>56</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hughes</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Brassington</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Gunn</surname>
+                <given-names>AA</given-names>
+              </name>
+              <name>
+                <surname>van Doorn</surname>
+                <given-names>PA</given-names>
+              </name>
+            </person-group>
+            <article-title>Corticosteroids for Guillain-Barr&#x000e9; syndrome.</article-title>
+            <source>Cochrane Database Syst Rev</source>
+            <year>2016</year>
+            <month>Oct</month>
+            <day>24</day>
+            <volume>10</volume>
+            <issue>10</issue>
+            <fpage>CD001446</fpage>
+            <pub-id pub-id-type="pmid">27775812</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r57">
+          <label>57</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hughes</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Swan</surname>
+                <given-names>AV</given-names>
+              </name>
+              <name>
+                <surname>van Doorn</surname>
+                <given-names>PA</given-names>
+              </name>
+            </person-group>
+            <article-title>Intravenous immunoglobulin for Guillain-Barr&#x000e9; syndrome.</article-title>
+            <source>Cochrane Database Syst Rev</source>
+            <year>2014</year>
+            <month>Sep</month>
+            <day>19</day>
+            <volume>2014</volume>
+            <issue>9</issue>
+            <fpage>CD002063</fpage>
+            <pub-id pub-id-type="pmid">25238327</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r58">
+          <label>58</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>McKhann</surname>
+                <given-names>GM</given-names>
+              </name>
+              <name>
+                <surname>Griffin</surname>
+                <given-names>JW</given-names>
+              </name>
+              <name>
+                <surname>Cornblath</surname>
+                <given-names>DR</given-names>
+              </name>
+              <name>
+                <surname>Mellits</surname>
+                <given-names>ED</given-names>
+              </name>
+              <name>
+                <surname>Fisher</surname>
+                <given-names>RS</given-names>
+              </name>
+              <name>
+                <surname>Quaskey</surname>
+                <given-names>SA</given-names>
+              </name>
+            </person-group>
+            <article-title>Plasmapheresis and Guillain-Barr&#x000e9; syndrome: analysis of prognostic factors and the effect of plasmapheresis.</article-title>
+            <source>Ann Neurol</source>
+            <year>1988</year>
+            <month>Apr</month>
+            <volume>23</volume>
+            <issue>4</issue>
+            <fpage>347</fpage>
+            <page-range>347-53</page-range>
+            <pub-id pub-id-type="pmid">3382169</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r59">
+          <label>59</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>van Koningsveld</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Schmitz</surname>
+                <given-names>PI</given-names>
+              </name>
+              <name>
+                <surname>Mech&#x000e9;</surname>
+                <given-names>FG</given-names>
+              </name>
+              <name>
+                <surname>Visser</surname>
+                <given-names>LH</given-names>
+              </name>
+              <name>
+                <surname>Meulstee</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>van Doorn</surname>
+                <given-names>PA</given-names>
+              </name>
+              <collab>Dutch GBS study group</collab>
+            </person-group>
+            <article-title>Effect of methylprednisolone when added to standard treatment with intravenous immunoglobulin for Guillain-Barr&#x000e9; syndrome: randomised trial.</article-title>
+            <source>Lancet</source>
+            <year>2004</year>
+            <month>Jan</month>
+            <day>17</day>
+            <volume>363</volume>
+            <issue>9404</issue>
+            <fpage>192</fpage>
+            <page-range>192-6</page-range>
+            <pub-id pub-id-type="pmid">14738791</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r60">
+          <label>60</label>
+          <element-citation publication-type="journal">
+            <article-title>Randomised trial of plasma exchange, intravenous immunoglobulin, and combined treatments in Guillain-Barr&#x000e9; syndrome. Plasma Exchange/Sandoglobulin Guillain-Barr&#x000e9; Syndrome Trial Group.</article-title>
+            <source>Lancet</source>
+            <year>1997</year>
+            <month>Jan</month>
+            <day>25</day>
+            <volume>349</volume>
+            <issue>9047</issue>
+            <fpage>225</fpage>
+            <page-range>225-30</page-range>
+            <pub-id pub-id-type="pmid">9014908</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r61">
+          <label>61</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Walgaard</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Jacobs</surname>
+                <given-names>BC</given-names>
+              </name>
+              <name>
+                <surname>Lingsma</surname>
+                <given-names>HF</given-names>
+              </name>
+              <name>
+                <surname>Steyerberg</surname>
+                <given-names>EW</given-names>
+              </name>
+              <name>
+                <surname>Cornblath</surname>
+                <given-names>DR</given-names>
+              </name>
+              <name>
+                <surname>van Doorn</surname>
+                <given-names>PA</given-names>
+              </name>
+              <collab>Dutch GBS Study Group</collab>
+            </person-group>
+            <article-title>Second IVIg course in Guillain-Barr&#x000e9; syndrome patients with poor prognosis (SID-GBS trial): Protocol for a double-blind randomized, placebo-controlled clinical trial.</article-title>
+            <source>J Peripher Nerv Syst</source>
+            <year>2018</year>
+            <month>Dec</month>
+            <volume>23</volume>
+            <issue>4</issue>
+            <fpage>210</fpage>
+            <page-range>210-215</page-range>
+            <pub-id pub-id-type="pmid">30151941</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r62">
+          <label>62</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>van Doorn</surname>
+                <given-names>PA</given-names>
+              </name>
+            </person-group>
+            <article-title>Diagnosis, treatment and prognosis of Guillain-Barr&#x000e9; syndrome (GBS).</article-title>
+            <source>Presse Med</source>
+            <year>2013</year>
+            <month>Jun</month>
+            <volume>42</volume>
+            <issue>6 Pt 2</issue>
+            <fpage>e193</fpage>
+            <page-range>e193-201</page-range>
+            <pub-id pub-id-type="pmid">23628447</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r63">
+          <label>63</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Misawa</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kuwabara</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Sato</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Yamaguchi</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Nagashima</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Katayama</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Sekiguchi</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Iwai</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Amino</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Suichi</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Yokota</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Nishida</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Kanouchi</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Kohara</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Kawamoto</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Ishii</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Kuwahara</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Suzuki</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Hirata</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Kokubun</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Masuda</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Kaneko</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Yabe</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Sasaki</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Kaida</surname>
+                <given-names>KI</given-names>
+              </name>
+              <name>
+                <surname>Takazaki</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Suzuki</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Suzuki</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Nodera</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Matsui</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Tsuji</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Koike</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Yamasaki</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Kusunoki</surname>
+                <given-names>S</given-names>
+              </name>
+              <collab>Japanese Eculizumab Trial for GBS (JET-GBS) Study Group</collab>
+            </person-group>
+            <article-title>Safety and efficacy of eculizumab in Guillain-Barr&#x000e9; syndrome: a multicentre, double-blind, randomised phase 2 trial.</article-title>
+            <source>Lancet Neurol</source>
+            <year>2018</year>
+            <month>Jun</month>
+            <volume>17</volume>
+            <issue>6</issue>
+            <fpage>519</fpage>
+            <page-range>519-529</page-range>
+            <pub-id pub-id-type="pmid">29685815</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r64">
+          <label>64</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yamaguchi</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Misawa</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Sato</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Nagashima</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Katayama</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Sekiguchi</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Iwai</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Amino</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Suichi</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Yokota</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Nishida</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Kohara</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Hirata</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Nishiyama</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Yabe</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Kaida</surname>
+                <given-names>KI</given-names>
+              </name>
+              <name>
+                <surname>Suzuki</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Nodera</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Tsuji</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Koike</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Kira</surname>
+                <given-names>JI</given-names>
+              </name>
+              <name>
+                <surname>Hanaoka</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Kusunoki</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kuwabara</surname>
+                <given-names>S</given-names>
+              </name>
+              <collab>JET-GBS Group</collab>
+            </person-group>
+            <article-title>A Prospective, Multicenter, Randomized Phase II Study to Evaluate the Efficacy and Safety of Eculizumab in Patients with Guillain-Barr&#x000e9; Syndrome (GBS): Protocol of Japanese Eculizumab Trial for GBS (JET-GBS).</article-title>
+            <source>JMIR Res Protoc</source>
+            <year>2016</year>
+            <month>Nov</month>
+            <day>07</day>
+            <volume>5</volume>
+            <issue>4</issue>
+            <fpage>e210</fpage>
+            <pub-id pub-id-type="pmid">27821382</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r65">
+          <label>65</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Alshekhlee</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Hussain</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Sultan</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Katirji</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Guillain-Barr&#x000e9; syndrome: incidence and mortality rates in US hospitals.</article-title>
+            <source>Neurology</source>
+            <year>2008</year>
+            <month>Apr</month>
+            <day>29</day>
+            <volume>70</volume>
+            <issue>18</issue>
+            <fpage>1608</fpage>
+            <page-range>1608-13</page-range>
+            <pub-id pub-id-type="pmid">18443311</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r66">
+          <label>66</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Walgaard</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Lingsma</surname>
+                <given-names>HF</given-names>
+              </name>
+              <name>
+                <surname>Ruts</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>van Doorn</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Steyerberg</surname>
+                <given-names>EW</given-names>
+              </name>
+              <name>
+                <surname>Jacobs</surname>
+                <given-names>BC</given-names>
+              </name>
+            </person-group>
+            <article-title>Early recognition of poor prognosis in Guillain-Barre syndrome.</article-title>
+            <source>Neurology</source>
+            <year>2011</year>
+            <month>Mar</month>
+            <day>15</day>
+            <volume>76</volume>
+            <issue>11</issue>
+            <fpage>968</fpage>
+            <page-range>968-75</page-range>
+            <pub-id pub-id-type="pmid">21403108</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r67">
+          <label>67</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Farcas</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Avnun</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Frisher</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Herishanu</surname>
+                <given-names>YO</given-names>
+              </name>
+              <name>
+                <surname>Wirguin</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <article-title>Efficacy of repeated intravenous immunoglobulin in severe unresponsive Guillain-Barr&#x000e9; syndrome.</article-title>
+            <source>Lancet</source>
+            <year>1997</year>
+            <month>Dec</month>
+            <day>13</day>
+            <volume>350</volume>
+            <issue>9093</issue>
+            <fpage>1747</fpage>
+            <pub-id pub-id-type="pmid">9413468</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r68">
+          <label>68</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Nguyen</surname>
+                <given-names>TP</given-names>
+              </name>
+              <name>
+                <surname>Biliciler</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Wahed</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Sheikh</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Occurrence of hemolytic anemia in patients with GBS treated with high-dose IVIg.</article-title>
+            <source>Neurol Neuroimmunol Neuroinflamm</source>
+            <year>2014</year>
+            <month>Dec</month>
+            <volume>1</volume>
+            <issue>4</issue>
+            <fpage>e50</fpage>
+            <pub-id pub-id-type="pmid">25520957</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r69">
+          <label>69</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Walgaard</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Lingsma</surname>
+                <given-names>HF</given-names>
+              </name>
+              <name>
+                <surname>Ruts</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Drenthen</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>van Koningsveld</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Garssen</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>van Doorn</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Steyerberg</surname>
+                <given-names>EW</given-names>
+              </name>
+              <name>
+                <surname>Jacobs</surname>
+                <given-names>BC</given-names>
+              </name>
+            </person-group>
+            <article-title>Prediction of respiratory insufficiency in Guillain-Barr&#x000e9; syndrome.</article-title>
+            <source>Ann Neurol</source>
+            <year>2010</year>
+            <month>Jun</month>
+            <volume>67</volume>
+            <issue>6</issue>
+            <fpage>781</fpage>
+            <page-range>781-7</page-range>
+            <pub-id pub-id-type="pmid">20517939</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r70">
+          <label>70</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ruts</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Drenthen</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Jongen</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Hop</surname>
+                <given-names>WC</given-names>
+              </name>
+              <name>
+                <surname>Visser</surname>
+                <given-names>GH</given-names>
+              </name>
+              <name>
+                <surname>Jacobs</surname>
+                <given-names>BC</given-names>
+              </name>
+              <name>
+                <surname>van Doorn</surname>
+                <given-names>PA</given-names>
+              </name>
+              <collab>Dutch GBS Study Group</collab>
+            </person-group>
+            <article-title>Pain in Guillain-Barre syndrome: a long-term follow-up study.</article-title>
+            <source>Neurology</source>
+            <year>2010</year>
+            <month>Oct</month>
+            <day>19</day>
+            <volume>75</volume>
+            <issue>16</issue>
+            <fpage>1439</fpage>
+            <page-range>1439-47</page-range>
+            <pub-id pub-id-type="pmid">20861454</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-22461.r71">
+          <label>71</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Garssen</surname>
+                <given-names>MP</given-names>
+              </name>
+              <name>
+                <surname>Bussmann</surname>
+                <given-names>JB</given-names>
+              </name>
+              <name>
+                <surname>Schmitz</surname>
+                <given-names>PI</given-names>
+              </name>
+              <name>
+                <surname>Zandbergen</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Welter</surname>
+                <given-names>TG</given-names>
+              </name>
+              <name>
+                <surname>Merkies</surname>
+                <given-names>IS</given-names>
+              </name>
+              <name>
+                <surname>Stam</surname>
+                <given-names>HJ</given-names>
+              </name>
+              <name>
+                <surname>van Doorn</surname>
+                <given-names>PA</given-names>
+              </name>
+            </person-group>
+            <article-title>Physical training and fatigue, fitness, and quality of life in Guillain-Barr&#x000e9; syndrome and CIDP.</article-title>
+            <source>Neurology</source>
+            <year>2004</year>
+            <month>Dec</month>
+            <day>28</day>
+            <volume>63</volume>
+            <issue>12</issue>
+            <fpage>2393</fpage>
+            <page-range>2393-5</page-range>
+            <pub-id pub-id-type="pmid">15623709</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

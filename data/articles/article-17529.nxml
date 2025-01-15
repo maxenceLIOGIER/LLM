@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-17529" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Anemia Screening</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Freeman</surname>
+            <given-names>Andrew M.</given-names>
+          </name>
+          <aff>Southeastern Regional Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Rai</surname>
+            <given-names>Maitreyee</given-names>
+          </name>
+          <aff>Crozer Chester Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Morando</surname>
+            <given-names>Donald W.</given-names>
+          </name>
+          <aff>Southeastern Health</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Andrew Freeman declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Maitreyee Rai declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Donald Morando declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>25</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-17529.s1" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Anemia is a common sign in both inpatient and outpatient settings and is defined as a decrease in the number of circulating&#x000a0;red blood cells or hemoglobin. Oftentimes anemia is not evaluated or managed adequately. It is routinely listed as a freestanding diagnosis, however, it is in fact a clinical sign&#x000a0;indicating the presence of an underlying etiology and additional&#x000a0;workup is required to elucidate&#x000a0;its cause. Anemia leads to diminished tissue oxygenation and can worsen the&#x000a0;progression of many coexisting diseases. Despite this, there remains clinical discordance in both the formal definition of anemia and in protocols to screen for it&#x000a0;<xref ref-type="bibr" rid="article-17529.r1">[1]</xref><xref ref-type="bibr" rid="article-17529.r2">[2]</xref><xref ref-type="bibr" rid="article-17529.r3">[3]</xref>.</p>
+        <p>Symptoms of anemia are diverse and can include fatigue, weakness, lightheadedness, headache, pallor or jaundice, tachycardia, palpitations, chest pain, dyspnea, cold distal extremities, and claudication. These signs and symptoms vary in prevalence and magnitude.&#x000a0;</p>
+        <p>Anemia causes a decrease in the relative number of circulating&#x000a0;red blood cells or hemoglobin, which leads to a consequent decrease in the amount of&#x000a0;oxygen delivered to tissues. However, the hemoglobin concentration constituting anemia varies based on factors such as gender, ethnicity, and&#x000a0;age. In addition, opinions differ as to which patient populations should undergo routine screening for anemia. Finally, the threshold for initiating treatment and the&#x000a0;goals of treatment are subject to variation according to discipline and medical condition&#x000a0;<xref ref-type="bibr" rid="article-17529.r4">[4]</xref><xref ref-type="bibr" rid="article-17529.r5">[5]</xref><xref ref-type="bibr" rid="article-17529.r6">[6]</xref>.&#x000a0;</p>
+        <p>In 2010, the World Health Organization (WHO) criteria for diagnosing anemia required hemoglobin levels less than 12 grams per deciliter (g/dl) in premenopausal females and 13 g/dl in postmenopausal females and males of all ages. The journal Blood disagreed with these standards, citing the paucity of WHO data and proposed new thresholds for anemia based on race, gender and age. These proposed standards&#x000a0;defined anemia as hemoglobin levels of less than 13.7 g/dl for white men between 20 and 60 years of age, less than 13.2 g/dl for white men older than 60, and white women of all ages were considered anemic at 12.2 g/dl. Although this journal did&#x000a0;reference a significant difference in hemoglobin levels in black men and women, no standard levels for the diagnosis of anemia in these populations were proposed.&#x000a0;Currently,&#x000a0;the majority of the literature utilizes the WHO standards for consistency.</p>
+        <p>There is a similar discordance concerning screening for anemia between the US Preventative Services Task Force (USPTF), various individual medical academic institutions, and what is done in the day-to-day practice of medicine. For example, the USPTF issued a statement on screening for iron deficiency anemia in asymptomatic children between 6 and 24 months of age, stating that there was insufficient evidence on the benefits versus harms of screening for anemia in children&#x000a0;in this age group. At the same time, the American Academy of Family Practice released its position statement: "Universal screening for anemia should be performed at 12 months of age, with measurement of hemoglobin levels and an assessment of risk factors associated with iron deficiency and iron-deficiency anemia."<xref ref-type="bibr" rid="article-17529.r7">[7]</xref><xref ref-type="bibr" rid="article-17529.r1">[1]</xref><xref ref-type="bibr" rid="article-17529.r8">[8]</xref>&#x000a0;The issue of screening in pregnant women presented a similar discordance. "The USPTF concludes that the evidence of the effect of routine screening for iron deficiency anemia in asymptomatic pregnant women on maternal health and birth outcomes is insufficient...and the balance of benefits and harms cannot be determined."&#x000a0;The American Academy of Family Practice voiced agreement with the USPSTF. The American College of Obstetrics and Gynecology in Practice Bulletin No. 95 issued the position statement, "All pregnant women should be screened for anemia and treated if necessary." At present, there are no recommendations for routine&#x000a0;anemia screening of non-gravid, well adults.</p>
+      </sec>
+      <sec id="article-17529.s2" sec-type="Etiology and Epidemiology">
+        <title>Etiology and Epidemiology</title>
+        <p>Anemia has multiple etiologies that can be attributed to one of 3 processes:</p>
+        <list list-type="order">
+          <list-item>
+            <p>Decreased production of red blood cells (RBCs): As RBCs have a limited lifespan of 90 to 120 days, hematopoiesis must be an ongoing process to keep pace with this natural attrition. Any process disruptive to hematopoiesis can cause a net loss of RBC mass over time, leading to anemia.</p>
+          </list-item>
+          <list-item>
+            <p>Increased destruction of RBCs: Any process that either destroys RBCs or significantly shortens the lifespan of the cell in such a fashion that hematopoiesis cannot keep up with destruction will cause anemia.</p>
+          </list-item>
+          <list-item>
+            <p>Loss of blood: Any loss of blood, microscopic or macroscopic that exceeds hematopoiesis will result in anemia.</p>
+          </list-item>
+        </list>
+        <p>The above processes can be further subdivided into their specific causative etiologies. These include but are not limited to:</p>
+        <list list-type="order">
+          <list-item>
+            <p>Frank loss of blood via trauma, bleeding from an organ or visceral system [otolaryngological (ENT), gastrointestinal (GI), genitourinary (GU), gynecological (GYN), among others].</p>
+          </list-item>
+          <list-item>
+            <p>Lack of a nutritional substrate for hematopoiesis including iron, vitamin B-12, or folate, or generalized malnutrition.</p>
+          </list-item>
+          <list-item>
+            <p>Chronic disease and/or chronic inflammation. Common culprits include chronic hepatic or renal disease, cancer, chronic infection, and collagen vascular disease.</p>
+          </list-item>
+          <list-item>
+            <p>Genetic illness: Common syndromes include but are not limited to the thalassemia, hemoglobinopathies, and enzyme abnormalities of the glycolytic pathways. Less common genetic syndromes include Fanconi anemia, abetalipoproteinemia, and hereditary xerocytosis.</p>
+          </list-item>
+          <list-item>
+            <p>Infectious etiologies include bacterial, viral and protozoan infections. Of note, malaria is a major global infectious cause of anemia.</p>
+          </list-item>
+          <list-item>
+            <p>Drug and chemical exposures are common etiologies for bone marrow suppression and resultant anemia.</p>
+          </list-item>
+          <list-item>
+            <p>Primary or idiosyncratic bone marrow suppression.</p>
+          </list-item>
+          <list-item>
+            <p>Autoimmune disease.</p>
+          </list-item>
+        </list>
+        <p>Epidemiological reporting of anemia is fragmented because of the use of different diagnostic criteria in the United States as opposed to the WHO criteria used for the rest of the world. Also, demographic subsets, genetic subsets and geographic subsets of anemia prevalence exist. Best estimates indicate that anemia prevalence is statistically similar in the United States, Canada, and northern Europe, and around 4% of males and 8% of females qualify for the diagnosis of anemia in these territories. There is substantially more limited data for the rest of the world. Estimates from the available data are inexact but do suggest that anemia frequency is between 2 and 5 times greater worldwide than in the US, Canada, and northern Europe.<xref ref-type="bibr" rid="article-17529.r9">[9]</xref><xref ref-type="bibr" rid="article-17529.r10">[10]</xref><xref ref-type="bibr" rid="article-17529.r11">[11]</xref></p>
+        <p>Regions in which populations commonly show higher rates of anemia include:</p>
+        <list list-type="order">
+          <list-item>
+            <p>Regions of the African, Indian and Mediterranean basin where sickle cell disease is more prevalent.</p>
+          </list-item>
+          <list-item>
+            <p>Regions of the Mediterranean basin where thalassemia is more common.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Regions with endemic malaria/protozoal illness where anemia of chronic disease is common.</p>
+          </list-item>
+          <list-item>
+            <p>Impoverished areas, where there is a higher risk of nutritional anemia.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-17529.s3" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>
+<italic toggle="yes">
+<bold>Red Blood Cells (RBC)</bold>
+</italic>
+</p>
+        <p>RBCs are released from the bone marrow as reticulocytes. The reticulocytes have a network of ribosomal RNA (rRNA) and&#x000a0;over a period of 24 hours mature into adult RBCs. The relative reticulocyte count can be used to gauge whether the bone marrow is responding appropriately to anemia by increasing production. The RBC contains 2 alpha and 2 beta chains and a single heme moiety that reversibly binds oxygen. Although there are multiple possible&#x000a0;genetic variants leading to an alteration in the configuration of these chains, most do not lead to clinical consequences. However, sickle cell disease and thalassemia variants of alpha and beta chains are causes of anemia. Genetic variants in the cell membrane, cell metabolism, and cell morphology are additional causes of anemia.</p>
+        <p>
+<bold>
+<italic toggle="yes">Bone Marrow</italic>
+</bold>
+</p>
+        <p>The bone marrow requires approximately 21 days transitioning a pluripotent stem cell to a reticulocyte released into circulation. The initial stimulus for reticulocyte production&#x000a0;is the renal release of erythropoietin, and continued erythropoietin is required for the transformation of a pluripotent stem cell into a proerythroblast. This initial stage&#x000a0;takes approximately 10 to 15 days. The next step is iron-dependent and takes 3-4 days, during which iron is added to the proerythroblast, forming a heme moiety and completing the formation of the reticulocyte.</p>
+        <p>Significant bone marrow related causes of anemia include:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Lack of substrates such as iron, vitamin B12 or folate required for the production of healthy reticulocytes.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Direct suppression of the bone marrow's function secondary to medications, toxins, infections or radiation exposure.</p>
+          </list-item>
+          <list-item>
+            <p>Replacement of the bone marrow by neoplasm or fibrosis.</p>
+          </list-item>
+        </list>
+        <p>
+<bold>
+<italic toggle="yes">Kidney</italic>
+</bold>
+</p>
+        <p>The kidneys have a dual role in the pathophysiology of anemia. Firstly,&#x000a0;they are responsible for the production of 90% of the erythropoietin needed to stimulate bone marrow transformation of pluripotent stem cells to proerythroblasts. Interference with erythropoietin production and release will result in anemia. Secondly, acute anemia associated with acute blood loss results in hypotension, which causes the stimulation of stretch receptors, which in turn sends signals to parts of the brain via the glossopharyngeal and vagus nerve that lead to several downstream effects, including antidiuretic hormone (ADH), also known as arginine vasopressin (AVP) or vasopressin secretion. In response, the kidney reabsorbs water, in turn leading to decreased renal perfusion. In direct response to the decreased renal perfusion, the renin-angiotensin system becomes activated, leading to increased vascular tone&#x000a0;and&#x000a0;stimulation of aldosterone and resultant increased intravascular volume.</p>
+        <p>
+<bold>
+<italic toggle="yes">Central Nervous System (CNS)</italic>
+</bold>
+</p>
+        <p>The medulla, cerebral cortex, and pituitary gland coordinate the response to acute blood-loss anemia and the resultant volume changes by increasing sympathetic tone and secreting&#x000a0;ADH.</p>
+        <p>
+<bold>The Acuity of Onset of the Anemia</bold>
+</p>
+        <p>Acute onset anemia due to blood loss or rapid hemolysis is compensated by the CNS-directed, renal-mediated response to the loss of volume and perfusion. This compensatory mechanism has an upper threshold and is well defined by The American College of Surgeons' Advanced Trauma Life Support protocols for management of volume loss:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Class I Hemorrhage involves up to 15% loss of blood volume and produces no significant change in vital signs and requires no intervention.</p>
+          </list-item>
+          <list-item>
+            <p>Class II Hemorrhage involves a 15% to 30% loss of blood volume and may cause&#x000a0;tachycardia, reduced pulse pressure, and peripheral vasoconstriction. Volume repletion with crystalloids is generally the only necessary treatment and blood transfusion is generally not needed.</p>
+          </list-item>
+          <list-item>
+            <p>Class III Hemorrhage involves a loss of 30% to 40% loss of blood volume and results in hypotension, tachycardia, and shock. Crystalloid resuscitation and blood transfusion are necessary.</p>
+          </list-item>
+          <list-item>
+            <p>Class IV Hemorrhage involves loss of greater than 40% of blood volume, exceeding the compensatory mechanism thresholds, and is lethal unless rapid, aggressive resuscitation is&#x000a0;instigated&#x000a0;with blood products, crystalloids, and pressors.</p>
+          </list-item>
+        </list>
+        <p>On the other hand, very low hemoglobin may be tolerated in the setting of chronic, slowly progressing anemia wherein the RBC mass is greatly decreased but circulating blood volume is preserved. Management of blood products and anemia specific therapy, such as therapy with RBC substrates or erythropoietin, varies&#x000a0;by case and by cause.</p>
+      </sec>
+      <sec id="article-17529.s4" sec-type="Diagnostic Tests">
+        <title>Diagnostic Tests</title>
+        <p>The array of laboratory testing and imaging that may be pertinent in the evaluation of anemia include:</p>
+        <list list-type="order">
+          <list-item>
+            <p>Complete blood count (CBC):
+<list list-type="bullet"><list-item><p>Includes hemoglobin, hematocrit, mean corpuscular volume (MCV), mean corpuscular hemoglobin (MCH) and mean corpuscular hemoglobin concentration (MCHC).&#x000a0;</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Reticulocyte count:
+<list list-type="bullet"><list-item><p>Serves as an&#x000a0;estimate of bone marrow red blood cell output.</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Iron profile:
+<list list-type="bullet"><list-item><p>Includes serum iron, ferritin and total iron-binding content (TIBC).</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Peripheral blood smear:
+<list list-type="bullet"><list-item><p>Microscopic evaluation of red blood cell morphology.</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Serum creatinine:
+<list list-type="bullet"><list-item><p>Serves to assist in the evaluation of renal function.</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Thyroid function tests:
+<list list-type="bullet"><list-item><p>Includes&#x000a0;thyroxine (T4) and thyroid-stimulating hormone level (TSH).</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Coagulation screen:
+<list list-type="bullet"><list-item><p>&#x000a0;Includes activated partial thromboplastin time (APTT), prothrombin time/international normalized ratio (PT/INR), and thrombin time (TT).</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Liver function tests (LFT):
+<list list-type="bullet"><list-item><p>LFT panels may vary but should include calcium, transaminases, total protein, bilirubin, albumin, and alkaline phosphatase.</p></list-item><list-item><p>Additional tests that may provide information about the liver function include lactate dehydrogenase (LDH), gamma-glutamyl transferase (GGT),&#x000a0;5'- nucleotidase.</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Hemolysis profile:
+<list list-type="bullet"><list-item><p>The profile contains&#x000a0;haptoglobin, lactate dehydrogenase (LDH), and indirect bilirubin.</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Macrocytosis profile:
+<list list-type="bullet"><list-item><p>The profile contains vitamin B-12, folate, methylmalonic acid, and homocysteine.&#x000a0;</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Hemoglobin electrophoresis:
+<list list-type="bullet"><list-item><p>Evaluates the hemoglobin amino acid chains.</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Abdominal sonogram:
+<list list-type="bullet"><list-item><p>Evaluates the size of the spleen size</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Bone marrow analysis:
+<list list-type="bullet"><list-item><p>Hematology consult is required to obtain this.&#x000a0;</p></list-item></list>
+</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-17529.s5" sec-type="Results, Reporting, and Critical Findings&#x0000d;&#x0000a;">
+        <title>Results, Reporting, and Critical Findings
+</title>
+        <p>Thorough patient history and physical exam are necessary to direct diagnostic testing and subsequent treatment. In the case of obvious cues on history or physical exam, the workup can be streamlined and focused and appropriate therapy&#x000a0;implemented. If the etiology of anemia is not obvious, generalized diagnostic testing is used to narrow potential causes.&#x000a0;</p>
+        <p>The differential for anemia is broad and includes:</p>
+        <list list-type="order">
+          <list-item>
+            <p>Chronic disease and neoplasia</p>
+          </list-item>
+          <list-item>
+            <p>Nutritional deficiency</p>
+          </list-item>
+          <list-item>
+            <p>Injury</p>
+          </list-item>
+          <list-item>
+            <p>Genetic illness</p>
+          </list-item>
+          <list-item>
+            <p>Infection</p>
+          </list-item>
+          <list-item>
+            <p>Auto-immune</p>
+          </list-item>
+          <list-item>
+            <p>Medication and chemical exposure</p>
+          </list-item>
+        </list>
+        <p>The first question to ask is whether&#x000a0;the patient is actively bleeding and, if so, how much. This will help determine the need for rapid should intervention. Advanced trauma life support outlines clear guidelines to treat trauma-related hemorrhage. The most common non-traumatic causes of hemorrhage include gastrointestinal (GI), gynecologic (GYN), and genitourinary (GU) bleeding. The patient's hemodynamic stability is a primary guide to ensuring appropriate intervention. More subtle hemorrhage can be observed with anticoagulation and occult chest, abdominal, or pelvic bleeding or hematoma formation. As always, treatment is aimed at restoring blood volume and treating the cause of the bleeding.</p>
+        <p>If acute hemorrhage is deemed unlikely, it is important to categorize the anemia by cell size and hemoglobin density and to look at red blood cell morphology on peripheral smear. Anemia falls into the categories of macrocytic, microcytic and normocytic&#x000a0;based on RBC&#x000a0;size and hypo or normochromic&#x000a0;based on relative hemoglobin concentration. Characteristic cell dysmorphisms may also be evident on a blood smear. An additional view of red cell dysmorphism can be elicited with hemoglobin electrophoresis to define the cell structure at the level of the amino acid chains binding the heme moiety.&#x000a0;</p>
+        <p>Two additional fundamental questions are:&#x000a0;</p>
+        <list list-type="order">
+          <list-item>
+            <p>Is the patient's bone marrow actively producing red blood cells to compensate for anemia?
+<list list-type="bullet"><list-item><p>Reticulocyte count and % of reticulocytes, though somewhat non-specific, is the best peripheral estimate available to determine the answer to this question.</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Is hemolysis present?
+<list list-type="bullet"><list-item><p>Elevated LDH, haptoglobin and indirect bilirubin are individually non-specific for hemolysis but in conjunction may suggest&#x000a0;hemolysis.</p></list-item></list>
+</p>
+          </list-item>
+        </list>
+        <p>With the above data in hand, algorithms are applied based on red blood cell size:</p>
+        <list list-type="order">
+          <list-item>
+            <p>Microcytic anemia is further evaluated and differentiated&#x000a0;based on&#x000a0;iron profile test results.</p>
+          </list-item>
+          <list-item>
+            <p>Macrocytic anemia is further evaluated and differentiated based on B-12, folate, methylmalonic acid, and homocysteine levels and in some cases, presence of thyroid disease.</p>
+          </list-item>
+          <list-item>
+            <p>Normocytic anemia can be classified as resulting from hemolysis, blood loss, or decreased bone marrow red cell production.</p>
+          </list-item>
+        </list>
+        <p>Per the American Acadamy of Family Medicine (AAFP) position statement issued on March 15, 2011:</p>
+        <p>"Transfusion of RBCs should be based on the patient's clinical condition. Indications for RBC transfusion include acute sickle cell crisis, or acute blood loss of greater than 1500 cc or 30% of blood volume. Patients with symptomatic anemia should be transfused if they cannot function without treating the anemia."</p>
+        <p>The authors go on to site an updated Cochrane review supporting the use of a restrictive transfusion trigger in non-cardiac patients that supports maintaining hemoglobin levels of at least 7 g/dl. This more restrictive criterion is a significant change from the previously cited 10 g/dl threshold. Statistical analysis supports the 7 g/dl threshold, demonstrating a 54% relative decrease in the number of units of blood transfused and decreased 30-day mortality rate with implementation of the new criterion.</p>
+      </sec>
+      <sec id="article-17529.s6" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>In conclusion, anemia is a sign that warrants further evaluation to determine its&#x000a0;underlying etiology. It&#x000a0;must be appreciated for both its primary medical impact on the patient and&#x000a0;the potential secondary impact on the patient's comorbidities.</p>
+      </sec>
+      <sec id="article-17529.s7" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>The diagnosis of anemia and its management is interprofessional. Anemia is a sign that needs to evaluated to determine its underlying etiology and must be appreciated for both its primary medical impact on the patient and its&#x000a0;secondary&#x000a0;impact on the patient's comorbidities. Thorough patient history and physical exam are necessary to direct diagnostic testing and subsequent treatment. In the case of obvious cues on history or physical exam, the workup can be streamlined and focused on clear therapeutic choices. Interprofessional healthcare team members that suspect a patient has&#x000a0;anemia should further evaluate for it and in some cases, seek consultation from a hematologist.</p>
+      </sec>
+      <sec id="article-17529.s8">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=17529&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=17529">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/17529/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=17529">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-17529.s9">
+        <title>References</title>
+        <ref id="article-17529.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lin</surname>
+                <given-names>TF</given-names>
+              </name>
+              <name>
+                <surname>Huang</surname>
+                <given-names>JN</given-names>
+              </name>
+              <name>
+                <surname>Cash</surname>
+                <given-names>HL</given-names>
+              </name>
+            </person-group>
+            <article-title>Investigation of Pediatric Anemia in the Commonwealth of the Northern Mariana Islands.</article-title>
+            <source>Matern Child Health J</source>
+            <year>2019</year>
+            <month>Mar</month>
+            <volume>23</volume>
+            <issue>3</issue>
+            <fpage>416</fpage>
+            <page-range>416-421</page-range>
+            <pub-id pub-id-type="pmid">30661189</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17529.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dhabangi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Idro</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>John</surname>
+                <given-names>CC</given-names>
+              </name>
+              <name>
+                <surname>Dzik</surname>
+                <given-names>WH</given-names>
+              </name>
+              <name>
+                <surname>Opoka</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Ssenyonga</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>van Hensbroek</surname>
+                <given-names>MB</given-names>
+              </name>
+            </person-group>
+            <article-title>Risk factors for recurrent severe anemia among previously transfused children in Uganda: an age-matched case-control study.</article-title>
+            <source>BMC Pediatr</source>
+            <year>2019</year>
+            <month>Jan</month>
+            <day>18</day>
+            <volume>19</volume>
+            <issue>1</issue>
+            <fpage>27</fpage>
+            <pub-id pub-id-type="pmid">30658602</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17529.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Karakochuk</surname>
+                <given-names>CD</given-names>
+              </name>
+              <name>
+                <surname>Hess</surname>
+                <given-names>SY</given-names>
+              </name>
+              <name>
+                <surname>Moorthy</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Namaste</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Parker</surname>
+                <given-names>ME</given-names>
+              </name>
+              <name>
+                <surname>Rappaport</surname>
+                <given-names>AI</given-names>
+              </name>
+              <name>
+                <surname>Wegm&#x000fc;ller</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Dary</surname>
+                <given-names>O</given-names>
+              </name>
+              <collab>HEmoglobin MEasurement (HEME) Working Group</collab>
+            </person-group>
+            <article-title>Measurement and interpretation of hemoglobin concentration in clinical and field settings: a narrative review.</article-title>
+            <source>Ann N Y Acad Sci</source>
+            <year>2019</year>
+            <month>Aug</month>
+            <volume>1450</volume>
+            <issue>1</issue>
+            <fpage>126</fpage>
+            <page-range>126-146</page-range>
+            <pub-id pub-id-type="pmid">30652320</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17529.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sk&#x00159;enkov&#x000e1;</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Postmenarcheal irregularities in menstrual cycle in adolescent girls.</article-title>
+            <source>Cas Lek Cesk</source>
+            <year>2018</year>
+            <month>Dec</month>
+            <day>03</day>
+            <volume>157</volume>
+            <issue>7</issue>
+            <fpage>343</fpage>
+            <page-range>343-349</page-range>
+            <pub-id pub-id-type="pmid">30650977</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17529.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Han</surname>
+                <given-names>SV</given-names>
+              </name>
+              <name>
+                <surname>Park</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Kwon</surname>
+                <given-names>YM</given-names>
+              </name>
+              <name>
+                <surname>Yoon</surname>
+                <given-names>HJ</given-names>
+              </name>
+              <name>
+                <surname>Chang</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Lim</surname>
+                <given-names>YH</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>SG</given-names>
+              </name>
+              <name>
+                <surname>Ko</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Mild Anemia and Risk for All-Cause, Cardiovascular and Cancer Deaths in Apparently Healthy Elderly Koreans.</article-title>
+            <source>Korean J Fam Med</source>
+            <year>2019</year>
+            <month>May</month>
+            <volume>40</volume>
+            <issue>3</issue>
+            <fpage>151</fpage>
+            <page-range>151-158</page-range>
+            <pub-id pub-id-type="pmid">30650952</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17529.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lei</surname>
+                <given-names>MQ</given-names>
+              </name>
+              <name>
+                <surname>Sun</surname>
+                <given-names>LF</given-names>
+              </name>
+              <name>
+                <surname>Luo</surname>
+                <given-names>XS</given-names>
+              </name>
+              <name>
+                <surname>Yang</surname>
+                <given-names>XY</given-names>
+              </name>
+              <name>
+                <surname>Yu</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>XX</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>ZM</given-names>
+              </name>
+            </person-group>
+            <article-title>Distinguishing iron deficiency anemia from thalassemia by the red blood cell lifespan with a simple CO breath test: a pilot study.</article-title>
+            <source>J Breath Res</source>
+            <year>2019</year>
+            <month>Mar</month>
+            <day>06</day>
+            <volume>13</volume>
+            <issue>2</issue>
+            <fpage>026007</fpage>
+            <pub-id pub-id-type="pmid">30641506</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17529.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mengesha</surname>
+                <given-names>MB</given-names>
+              </name>
+              <name>
+                <surname>Dadi</surname>
+                <given-names>GB</given-names>
+              </name>
+            </person-group>
+            <article-title>Prevalence of anemia among adults at Hawassa University referral hospital, Southern Ethiopia.</article-title>
+            <source>BMC Hematol</source>
+            <year>2019</year>
+            <volume>19</volume>
+            <fpage>1</fpage>
+            <pub-id pub-id-type="pmid">30637107</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17529.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Rabindrakumar</surname>
+                <given-names>MSK</given-names>
+              </name>
+              <name>
+                <surname>Pujitha Wickramasinghe</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Gooneratne</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Arambepola</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Senanayake</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Thoradeniya</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>The role of haematological indices in predicting early iron deficiency among pregnant women in an urban area of Sri Lanka.</article-title>
+            <source>BMC Hematol</source>
+            <year>2018</year>
+            <volume>18</volume>
+            <fpage>37</fpage>
+            <pub-id pub-id-type="pmid">30607249</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17529.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Z&#x000fa;&#x000f1;iga C</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Mart&#x000ed;nez G</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Gonz&#x000e1;lez R</surname>
+                <given-names>LM</given-names>
+              </name>
+              <name>
+                <surname>Rend&#x000f3;n C</surname>
+                <given-names>DS</given-names>
+              </name>
+              <name>
+                <surname>Rojas R</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Barriga C</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Wietstruck P</surname>
+                <given-names>MA</given-names>
+              </name>
+            </person-group>
+            <article-title>[Sickle cell disease: A diagnosis to keep in mind].</article-title>
+            <source>Rev Chil Pediatr</source>
+            <year>2018</year>
+            <month>Aug</month>
+            <volume>89</volume>
+            <issue>4</issue>
+            <fpage>525</fpage>
+            <page-range>525-529</page-range>
+            <pub-id pub-id-type="pmid">30571829</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17529.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mohandas</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Inherited hemolytic anemia: a possessive beginner's guide.</article-title>
+            <source>Hematology Am Soc Hematol Educ Program</source>
+            <year>2018</year>
+            <month>Nov</month>
+            <day>30</day>
+            <volume>2018</volume>
+            <issue>1</issue>
+            <fpage>377</fpage>
+            <page-range>377-381</page-range>
+            <pub-id pub-id-type="pmid">30504335</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17529.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bartels</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Bierings</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>How I manage children with Diamond-Blackfan anaemia.</article-title>
+            <source>Br J Haematol</source>
+            <year>2019</year>
+            <month>Jan</month>
+            <volume>184</volume>
+            <issue>2</issue>
+            <fpage>123</fpage>
+            <page-range>123-133</page-range>
+            <pub-id pub-id-type="pmid">30515771</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

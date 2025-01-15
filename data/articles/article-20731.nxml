@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-20731" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Drug Testing</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>McNeil</surname>
+            <given-names>Shawn E.</given-names>
+          </name>
+          <aff>LSU Health Sciences Center Shreveport</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Chen</surname>
+            <given-names>Richard J.</given-names>
+          </name>
+          <aff>Jefferson-Einstein Healthcare Network</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Cogburn</surname>
+            <given-names>Mark</given-names>
+          </name>
+          <aff>Louisiana State University HSC</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Shawn McNeil declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Richard Chen declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Mark Cogburn declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>29</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-20731.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Drug testing detects the presence or absence of a drug or its metabolites in a biological sample. This process can be completed in a variety of settings and with a variety of techniques. Despite the drawbacks, drug testing plays an essential role in the clinical setting because clinical examination, patient self-reporting, and collateral reporting will often underestimate the actual incidence of substance use. However, drug testing should always be used with history/physical and psychosocial assessment. This activity describes the process of drug testing, the nuances of drug testing, the interpretation of false positive and false negative results, and the role of the interprofessional team in managing patients who use illicit drugs.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Identify the function of drug testing.</p></list-item><list-item><p>Outline the types of biological matrices that can be used for drug testing.</p></list-item><list-item><p>Describe the issues of concern in regard to drug testing, including issues of false positives and negatives.</p></list-item><list-item><p>Summarize interprofessional team strategies for improving care coordination and communication to advance the management of patients who abuse drugs and improve outcomes.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=20731&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=20731">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-20731.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Broadly defined, drug testing uses a biological sample to detect the presence or absence of a drug or its metabolites. This process can be completed in a variety of settings and with a variety of techniques. Many drug screening immunoassays were initially designed for use in the workplace as a drug screening tool for employees. As these tests have become cheaper, more readily available, and easier to use, these tests are now standard in many clinical laboratories. Despite their prevalence, many physicians and providers do not understand how these tests&#x000a0;function and their associated limitations.<xref ref-type="bibr" rid="article-20731.r1">[1]</xref><xref ref-type="bibr" rid="article-20731.r2">[2]</xref>&#x000a0;Despite the drawbacks, drug testing plays an essential role in the clinical setting because clinical examination, patient self-reporting, and collateral reporting will often underestimate the actual incidence of substance use. The use of drug screens is also becoming increasingly important in the management of patients with chronic pain and in the treatment of substance use disorders.<xref ref-type="bibr" rid="article-20731.r3">[3]</xref>&#x000a0;</p>
+        <p>The most commonly tested-for substances are amphetamines, cannabinoids, cocaine, opiates, and phencyclidine (PCP). These drugs are also referred to as the "NIDA five" as these were the five drugs that were recommended for drug screening of federal employees by the National Institute on Drug Abuse (NIDA). This responsibility now falls on the Substance Abuse and Mental Health Services Administration (SAMHSA). There are now expanded drug screens that include testing for oxycodone, methadone, buprenorphine, and fentanyl, among many other drugs.&#x000a0;<xref ref-type="bibr" rid="article-20731.r4">[4]</xref></p>
+        <p>There are several biological samples that can be used for testing. These include blood or serum, sweat, hair, oral fluid, nails, and urine. The most commonly used biological sample is urine, as it is non-invasive, and the concentration of a given xenobiotic is generally higher when compared to other samples. This usually results in a higher sensitivity.<xref ref-type="bibr" rid="article-20731.r3">[3]</xref>&#x000a0;Additional considerations include how long a xenobiotic remains detectable in various matrices. It is important to consider these aspects in the context of why testing is being performed.</p>
+        <p>Immunoassays remain the most common and easily accessible form of testing. More advanced methods, particularly in confirmatory testing, are available and include gas chromatography/mass spectrometry (GC/MS) and liquid chromatography/mass spectrometry (LC/MS). These advanced methods tend to have higher specificity and sensitivity as compared to immunoassays, but are more expensive and require specialized equipment and training.<xref ref-type="bibr" rid="article-20731.r5">[5]</xref></p>
+      </sec>
+      <sec id="article-20731.s3" sec-type="Function">
+        <title>Function</title>
+        <p>Although drug testing can be used to confirm the recent use of a substance, it also has a role in the diagnosis, treatment, and monitoring of addiction. As a tool for monitoring, this type of testing has the potential to measure the performance of a patient&#x02019;s substance use treatment. Urine drug testing (UDT) remains the most common modality for detecting drugs in the human body, and it is based on immunoassay techniques. Clinicians should understand the value of random drug testing as opposed to scheduled testing, particularly in the context of a suspected or established substance use disorder.<xref ref-type="bibr" rid="article-20731.r6">[6]</xref><xref ref-type="bibr" rid="article-20731.r7">[7]</xref></p>
+        <p>There are several factors that need to be considered when choosing a particular drug test. Using a certain matrix or rotating matrices can reduce the chances of sample tampering. There are also times when a certain matrix may not be appropriate (i.e., using a hair sample with chemically treated hair or using directly observed urine testing when a patient has had sexual trauma). There is also often a tradeoff when choosing one test over another. Some tests may be regarded as &#x0201c;presumptive&#x0201d; while others are regarded as &#x0201c;definitive." Presumptive tests will typically give a faster result, which may aid in timely clinical decision-making. However, the specificity and/or sensitivity may be lower compared to a definitive test. There may be times when the patient will dispute the results of a presumptive test, and a more definitive test can then be done to provide clarification. A clinician may consider going directly to definitive testing if there is no reasonable presumptive test or if the results of the testing will have major implications.</p>
+        <p>An important consideration in drug testing is establishing a predetermined cutoff concentration. This value determines the concentration of a xenobiotic in a specimen that results in a positive test. This threshold should be sufficiently high to prevent false-positive results due to cross-reactivity and variability in the test itself and be low enough to prevent false negatives in those who regularly use the xenobiotic being tested for. The exact cutoff can vary depending on the specific xenobiotic, the immunoassay being used, or the clinical context.<xref ref-type="bibr" rid="article-20731.r3">[3]</xref><xref ref-type="bibr" rid="article-20731.r8">[8]</xref></p>
+        <p>
+<bold>Types of Matrices</bold>
+</p>
+        <p>Urine testing typically has a detection window of hours to days. It usually takes two hours before a substance can be detected in the urine. Factors like urine pH and fluid intake can have an impact on the results. Urine is the most well-established matrix and is the most commonly used matrix for point-of-care testing (POCT).&#x000a0;The detection window can be up to 4 days for some substances. Chronic use can extend this window out to weeks.<xref ref-type="bibr" rid="article-20731.r9">[9]</xref> Although sample tampering may be an issue, clinicians have the option of having observed sample collection in many cases. However, this may not completely remove the possibility of sample tampering. Substances that are likely to be tested for with a urine sample include alcohol, amphetamines, benzodiazepines, opiates/opioids, cocaine, and cannabis.</p>
+        <p>Blood testing is primarily done in emergency situations and is typically used to detect ethanol levels. The advantage of blood testing is that it allows for a precise level to be assessed. Additionally, testing for drugs of abuse often requires that samples be sent to an outside lab. The detection window is usually one to two days.<xref ref-type="bibr" rid="article-20731.r9">[9]</xref> The downside includes the invasiveness of the test, the need for someone skilled to obtain the sample, and the fact that the sample can be a potential biohazard.&#x000a0;</p>
+        <p>Breath testing is also primarily used for alcohol detection. More precisely, it allows for the assessment of recent alcohol use. The result is called a breath alcohol concentration or BrAC. The BrAC is often used as an estimate of blood alcohol concentration (BAC). However, on an individual basis, the BrAC can either overestimate or underestimate the blood ethanol level. Research has been focusing on the potential use of breath testing for the detection of cocaine, cannabis, benzodiazepines, amphetamines, opioids, methadone, and buprenorphine.<xref ref-type="bibr" rid="article-20731.r10">[10]</xref><xref ref-type="bibr" rid="article-20731.r11">[11]</xref></p>
+        <p>Oral fluid testing (OFT) generally detects concentration that correlates with plasma concentrations. However, the concentration of orally consumed substances will be higher. Oral testing is more likely to detect parent compounds versus urine testing which relies more heavily on metabolite concentrations. The detection window varies but can be up to 48 hours.<xref ref-type="bibr" rid="article-20731.r9">[9]</xref></p>
+        <p>Sweat testing is completed through the use of an absorbent pad that is collected. The results of testing this pad give a cumulative concentration that suggests how much of a substance that person consumed over the entire period that the pad was worn. There can be problems with contamination or incomplete adhesion of the patch to the skin. One benefit of sweat testing is that it gives a detection window of hours to weeks.</p>
+        <p>Hair, as a matrix for the detection of substances, can provide information on cumulative substance use. Similar to sweat testing, hair testing has a long detection window. Scalp hair has a detection window of three months, while slower-growing body hair (such as pubic or axillary hair) has a detection window of up to 12 months. The results of the hair testing can vary based on the individual in regards to the characteristics of their hair. Hair testing can be used for the detection of cocaine, phencyclidine (PCP), amphetamines, opioids, and 3,4-Methylenedioxymethamphetamine (MDMA). Potential shortcomings of this matrix include price, environmental cross-contamination, and issues during decontamination prior to testing and establishing cut-off values.<xref ref-type="bibr" rid="article-20731.r12">[12]</xref></p>
+        <p>Often, contingency management is paired with drug testing in the treatment of addiction, and behavioral incentives are allowed on the basis of a negative result. These incentives (or &#x0201c;reinforcers&#x0201d;) can be vouchers or prizes that are given to encourage the patient to continue their abstinence from a particular substance. The use of POC testing, in particular, makes the implementation of contingency management easier because of the rapid results that can be achieved.<xref ref-type="bibr" rid="article-20731.r13">[13]</xref><xref ref-type="bibr" rid="article-20731.r14">[14]</xref></p>
+      </sec>
+      <sec id="article-20731.s4" sec-type="Issues of Concern">
+        <title>Issues of Concern</title>
+        <p>The technologies behind drug testing as well as the clinical application of this technology are rapidly evolving. It is important that clinicians understand the proper use of current methods and stay informed about emerging techniques. One of the biggest challenges facing clinicians is the accurate detection of drugs that have relevance to clinical outcomes.<xref ref-type="bibr" rid="article-20731.r15">[15]</xref>&#x000a0;</p>
+        <p>As with all testing, false negatives and false positives are a possibility. False negatives are defined as a negative test result despite the presence of a given xenobiotic. A false positive is defined as a positive test result despite no xenobiotic present in a sample. Common false positives are described in the testing of amphetamines and include medications such as selegiline, bupropion, and pseudoephedrine.<xref ref-type="bibr" rid="article-20731.r16">[16]</xref></p>
+        <p>False negatives are well described when testing for opioids and benzodiazepines. The opiate screen on the UDT specifically detects morphine. As a result, this screen would not detect synthetic opioids, such as fentanyl and methadone, or other opioids that are structurally dissimilar such as buprenorphine, oxycodone, and hydrocodone. Similarly, the benzodiazepine screen tests for a metabolite, oxazepam. It would be expected to test negative for benzodiazepines such as lorazepam, clonazepam, and alprazolam as these are not metabolized to oxazepam.</p>
+        <p>Depending on the xenobiotic being tested for, there can be multiple other xenobiotics that can crossreact and cause a false positive result. These are commonly described in testing for amphetamines, PCP, cannabinoids, and methadone.<xref ref-type="bibr" rid="article-20731.r3">[3]</xref><xref ref-type="bibr" rid="article-20731.r17">[17]</xref><xref ref-type="bibr" rid="article-20731.r18">[18]</xref>&#x000a0;It is important to consider what medications patients may be taking when a positive result is obtained on presumptive testing. Common over-the-counter medications, such as diphenhydramine and dextromethorphan can result in a positive result on the PCP screen.</p>
+        <p>The protocols in place when performing drug testing in the workplace vs a clinical setting vary in several important aspects. Confirmatory testing is not standard procedure in the clinical setting, as the results from a presumptive test are often enough to direct&#x000a0;clinical decisions. In the workplace, when a presumptive test is positive, it is routinely sent off for confirmatory testing so that an appropriate decision can be made concerning employment.&#x000a0;By extension, in workplace testing, the chain of custody is important to maintain the validity of testing. It is not uncommon for results to be disputed, and so maintenance of the chain of custody will make it more difficult to invalidate results due to a procedural problem.<xref ref-type="bibr" rid="article-20731.r8">[8]</xref></p>
+        <p>A major concern in testing, particularly in UDT is the possibility of sample tampering. One common method is dilution, either by dilution by adding an adulterant or by increasing fluid intake prior to the test. Common adulterants include household items, such as bleach, laundry detergent, and table salt. Commercial products directed at bypassing UDT also exist, such as UrinAid (glutaraldehyde), Stealth (containing peroxidase and peroxide), Urine Luck (pyridinium chlorochromate), and Klear (potassium nitrite). These products are easily obtained through various internet sources. Synthetic urine is another common adulterant. These adulterants can be used to bypass both presumptive and confirmatory tests. For example, glutaraldehyde is commonly used to create a false negative for cannabinoids. Oxidative additives can react with drug and drug metabolites and make them undetectable with common immunoassays. Fortunately, there have been advancements in laboratory testing to detect common adulterants.<xref ref-type="bibr" rid="article-20731.r19">[19]</xref></p>
+        <p>The current drug landscape is continually changing. New synthetic drugs continue to be made and enter the current drug supply. Many of these drugs are structurally unlike any current existing drugs and as a result, are not detectable with current testing. This can make it difficult to determine if someone is using a particular substance. Continued research and development are needed to keep pace with new synthetic drugs and to address continued attempts at test adulteration.<xref ref-type="bibr" rid="article-20731.r4">[4]</xref><xref ref-type="bibr" rid="article-20731.r20">[20]</xref></p>
+      </sec>
+      <sec id="article-20731.s5" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>Drug testing can&#x000a0;be used to further assess a patient presenting for evaluation or be used in the workplace for employment eligibility.</p>
+        <p>A positive result on a drug test tells the clinician that the patient had a detectable amount of a substance present during a certain window of time. This result does not typically indicate that impairment is the result of any particular substance or that the patient has a substance use disorder. When considering a positive result, confirmatory testing may be helpful in verifying results in certain situations. As discussed previously, false positives can occur due to cross-reactivity between other substances not being tested for and the immunoassay being used.</p>
+        <p>A major consideration when using drug testing is regarding the significance of a negative result. Clinicians should bear in mind that a negative result simply means that the particular substance being tested for was not detected.<xref ref-type="bibr" rid="article-20731.r21">[21]</xref> This may mean its level was not sufficient enough to be detected or that use of that substance did not occur during the detection window. A negative result does not rule out the use of a substance or the presence of a substance use disorder. False negatives are not uncommon, particularly if the clinician is not aware of what is being tested for in a given immunoassay. A common example is in the testing of benzodiazepines, where the immunoassay is directed at the detection of oxazepam and is not intended to detect benzodiazepines such as clonazepam or alprazolam.&#x000a0;</p>
+        <p>It is essential that clinicians understand the testing methodology of various drug testing modalities as well as their associated sensitivity, specificity, and significance of false-negative and false-positive results.&#x000a0;</p>
+      </sec>
+      <sec id="article-20731.s6" sec-type="Other Issues">
+        <title>Other Issues</title>
+        <p>Another issue regarding the use of drug testing in the clinical setting is the attitude of some patients that the results of a drug test may be used in a punitive way. It is important that clinicians are forthcoming about how drug testing is being used.&#x000a0;Specifically, in the clinical setting, clinicians should make it clear that a drug test will not be used in a punitive fashion and is being used to help improve the care that the patient is receiving.</p>
+        <p>Another area of concern is the issue of drug testing adolescents. In particular, the American Academy of Pediatrics Committee on Substance Abuse has made it clear that involuntary drug testing of an adolescent with decisional capacity is inappropriate.<xref ref-type="bibr" rid="article-20731.r18">[18]</xref></p>
+      </sec>
+      <sec id="article-20731.s7" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Drug testing is now commonly done in clinical medicine for a variety of reasons. Because of the stigma associated with drug use and positive drug tests, the physician has an important role in setting the non-judgemental tone that may influence a patient's care. It is important that every member of the care team (physicians, nursing, ancillary staff, etc.) understand why drug testing is being performed. In the clinical setting, positive drug test results should not be used for punitive purposes. Instead, the result should be looked at as an opportunity to have a discussion concerning potential drug use in a patient. Finally, random drug testing on every patient is not recommended; it has to be supported by history and a physical exam. Healthcare workers including nurses and pharmacists should be aware of the laws surrounding drug usage, drug test results, and confidentiality laws.<xref ref-type="bibr" rid="article-20731.r15">[15]</xref></p>
+        <p>Drug testing in the workplace is vastly different in purpose than in the clinical setting and it is an important tool to identify those who may be working under the influence, as this can be a potential safety concern. It is important that test results are confirmed prior to any sanctions against an employee being made.</p>
+      </sec>
+      <sec id="article-20731.s8">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=20731&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=20731">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/20731/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=20731">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-20731.s9">
+        <title>References</title>
+        <ref id="article-20731.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Plebani</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>The detection and prevention of errors in laboratory medicine.</article-title>
+            <source>Ann Clin Biochem</source>
+            <year>2010</year>
+            <month>Mar</month>
+            <volume>47</volume>
+            <issue>Pt 2</issue>
+            <fpage>101</fpage>
+            <page-range>101-10</page-range>
+            <pub-id pub-id-type="pmid">19952034</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20731.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Reisfield</surname>
+                <given-names>GM</given-names>
+              </name>
+              <name>
+                <surname>Bertholf</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Barkin</surname>
+                <given-names>RL</given-names>
+              </name>
+              <name>
+                <surname>Webb</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Wilson</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Urine drug test interpretation: what do physicians know?</article-title>
+            <source>J Opioid Manag</source>
+            <year>2007</year>
+            <season>Mar-Apr</season>
+            <volume>3</volume>
+            <issue>2</issue>
+            <fpage>80</fpage>
+            <page-range>80-6</page-range>
+            <pub-id pub-id-type="pmid">17520987</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20731.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Moeller</surname>
+                <given-names>KE</given-names>
+              </name>
+              <name>
+                <surname>Kissack</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Atayee</surname>
+                <given-names>RS</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>KC</given-names>
+              </name>
+            </person-group>
+            <article-title>Clinical Interpretation of Urine Drug Tests: What Clinicians Need to Know About Urine Drug Screens.</article-title>
+            <source>Mayo Clin Proc</source>
+            <year>2017</year>
+            <month>May</month>
+            <volume>92</volume>
+            <issue>5</issue>
+            <fpage>774</fpage>
+            <page-range>774-796</page-range>
+            <pub-id pub-id-type="pmid">28325505</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20731.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gerona</surname>
+                <given-names>RR</given-names>
+              </name>
+              <name>
+                <surname>French</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Drug testing in the era of new psychoactive substances.</article-title>
+            <source>Adv Clin Chem</source>
+            <year>2022</year>
+            <volume>111</volume>
+            <fpage>217</fpage>
+            <page-range>217-263</page-range>
+            <pub-id pub-id-type="pmid">36427911</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20731.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pesce</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Kirsh</surname>
+                <given-names>KL</given-names>
+              </name>
+              <name>
+                <surname>Huskey</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Passik</surname>
+                <given-names>SD</given-names>
+              </name>
+              <name>
+                <surname>Hammett-Stabler</surname>
+                <given-names>CA</given-names>
+              </name>
+            </person-group>
+            <article-title>A primer on definitive gas and liquid chromatography drug testing: What clinicians need to know.</article-title>
+            <source>J Opioid Manag</source>
+            <year>2015</year>
+            <season>Jan-Feb</season>
+            <volume>11</volume>
+            <issue>1</issue>
+            <fpage>27</fpage>
+            <page-range>27-35</page-range>
+            <pub-id pub-id-type="pmid">25750162</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20731.r6">
+          <label>6</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Farzam</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Rajasurya</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Ahmad</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Sudden Death in Athletes</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>7</month>
+            <day>2</day>
+            <pub-id pub-id-type="pmid">30969530</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20731.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Platt</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>O'Driscoll</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Curran</surname>
+                <given-names>VH</given-names>
+              </name>
+              <name>
+                <surname>Rendell</surname>
+                <given-names>PG</given-names>
+              </name>
+              <name>
+                <surname>Kamboj</surname>
+                <given-names>SK</given-names>
+              </name>
+            </person-group>
+            <article-title>The effects of licit and illicit recreational drugs on prospective memory: a meta-analytic review.</article-title>
+            <source>Psychopharmacology (Berl)</source>
+            <year>2019</year>
+            <month>Apr</month>
+            <volume>236</volume>
+            <issue>4</issue>
+            <fpage>1131</fpage>
+            <page-range>1131-1143</page-range>
+            <pub-id pub-id-type="pmid">31093722</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20731.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Phan</surname>
+                <given-names>HM</given-names>
+              </name>
+              <name>
+                <surname>Yoshizuka</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Murry</surname>
+                <given-names>DJ</given-names>
+              </name>
+              <name>
+                <surname>Perry</surname>
+                <given-names>PJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Drug testing in the workplace.</article-title>
+            <source>Pharmacotherapy</source>
+            <year>2012</year>
+            <month>Jul</month>
+            <volume>32</volume>
+            <issue>7</issue>
+            <fpage>649</fpage>
+            <page-range>649-56</page-range>
+            <pub-id pub-id-type="pmid">22605533</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20731.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Verstraete</surname>
+                <given-names>AG</given-names>
+              </name>
+            </person-group>
+            <article-title>Detection times of drugs of abuse in blood, urine, and oral fluid.</article-title>
+            <source>Ther Drug Monit</source>
+            <year>2004</year>
+            <month>Apr</month>
+            <volume>26</volume>
+            <issue>2</issue>
+            <fpage>200</fpage>
+            <page-range>200-5</page-range>
+            <pub-id pub-id-type="pmid">15228165</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20731.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Beck</surname>
+                <given-names>O</given-names>
+              </name>
+            </person-group>
+            <article-title>Exhaled breath for drugs of abuse testing - evaluation in criminal justice settings.</article-title>
+            <source>Sci Justice</source>
+            <year>2014</year>
+            <month>Jan</month>
+            <volume>54</volume>
+            <issue>1</issue>
+            <fpage>57</fpage>
+            <page-range>57-60</page-range>
+            <pub-id pub-id-type="pmid">24438778</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20731.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Trefz</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Kamysek</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Fuchs</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Sukul</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Schubert</surname>
+                <given-names>JK</given-names>
+              </name>
+              <name>
+                <surname>Miekisch</surname>
+                <given-names>W</given-names>
+              </name>
+            </person-group>
+            <article-title>Drug detection in breath: non-invasive assessment of illicit or pharmaceutical drugs.</article-title>
+            <source>J Breath Res</source>
+            <year>2017</year>
+            <month>Mar</month>
+            <day>20</day>
+            <volume>11</volume>
+            <issue>2</issue>
+            <fpage>024001</fpage>
+            <pub-id pub-id-type="pmid">28220762</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20731.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cuypers</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Flanagan</surname>
+                <given-names>RJ</given-names>
+              </name>
+            </person-group>
+            <article-title>The interpretation of hair analysis for drugs and drug metabolites.</article-title>
+            <source>Clin Toxicol (Phila)</source>
+            <year>2018</year>
+            <month>Feb</month>
+            <volume>56</volume>
+            <issue>2</issue>
+            <fpage>90</fpage>
+            <page-range>90-100</page-range>
+            <pub-id pub-id-type="pmid">28938866</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20731.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Spindle</surname>
+                <given-names>TR</given-names>
+              </name>
+              <name>
+                <surname>Cone</surname>
+                <given-names>EJ</given-names>
+              </name>
+              <name>
+                <surname>Schlienz</surname>
+                <given-names>NJ</given-names>
+              </name>
+              <name>
+                <surname>Mitchell</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Bigelow</surname>
+                <given-names>GE</given-names>
+              </name>
+              <name>
+                <surname>Flegel</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Hayes</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Vandrey</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Urinary Excretion Profile of 11-Nor-9-Carboxy-&#x00394;9-Tetrahydrocannabinol (THCCOOH) Following Smoked and Vaporized Cannabis Administration in Infrequent Cannabis Users.</article-title>
+            <source>J Anal Toxicol</source>
+            <year>2020</year>
+            <month>Jan</month>
+            <day>07</day>
+            <volume>44</volume>
+            <issue>1</issue>
+            <fpage>1</fpage>
+            <page-range>1-14</page-range>
+            <pub-id pub-id-type="pmid">31095692</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20731.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shanmuganathan</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Macklai</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Barrenas C&#x000e1;rdenas</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Kroezen</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Zizek</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Britz-McKibbin</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>High-throughput and Comprehensive Drug Surveillance Using Multisegment Injection-capillary Electrophoresis Mass Spectrometry.</article-title>
+            <source>J Vis Exp</source>
+            <year>2019</year>
+            <month>Apr</month>
+            <day>23</day>
+            <issue>146</issue>
+            <pub-id pub-id-type="pmid">31081805</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20731.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Raouf</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Bettinger</surname>
+                <given-names>JJ</given-names>
+              </name>
+              <name>
+                <surname>Fudin</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>A Practical Guide to Urine Drug Monitoring.</article-title>
+            <source>Fed Pract</source>
+            <year>2018</year>
+            <month>Apr</month>
+            <volume>35</volume>
+            <issue>4</issue>
+            <fpage>38</fpage>
+            <page-range>38-44</page-range>
+            <pub-id pub-id-type="pmid">30766353</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20731.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Saitman</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Park</surname>
+                <given-names>HD</given-names>
+              </name>
+              <name>
+                <surname>Fitzgerald</surname>
+                <given-names>RL</given-names>
+              </name>
+            </person-group>
+            <article-title>False-positive interferences of common urine drug screen immunoassays: a review.</article-title>
+            <source>J Anal Toxicol</source>
+            <year>2014</year>
+            <month>Sep</month>
+            <volume>38</volume>
+            <issue>7</issue>
+            <fpage>387</fpage>
+            <page-range>387-96</page-range>
+            <pub-id pub-id-type="pmid">24986836</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20731.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mahajan</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Role of Urine Drug Testing in the Current Opioid Epidemic.</article-title>
+            <source>Anesth Analg</source>
+            <year>2017</year>
+            <month>Dec</month>
+            <volume>125</volume>
+            <issue>6</issue>
+            <fpage>2094</fpage>
+            <page-range>2094-2104</page-range>
+            <pub-id pub-id-type="pmid">29189366</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20731.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kale</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Urine Drug Tests: Ordering and Interpreting Results.</article-title>
+            <source>Am Fam Physician</source>
+            <year>2019</year>
+            <month>Jan</month>
+            <day>01</day>
+            <volume>99</volume>
+            <issue>1</issue>
+            <fpage>33</fpage>
+            <page-range>33-39</page-range>
+            <pub-id pub-id-type="pmid">30600984</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20731.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Fu</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Adulterants in Urine Drug Testing.</article-title>
+            <source>Adv Clin Chem</source>
+            <year>2016</year>
+            <volume>76</volume>
+            <fpage>123</fpage>
+            <page-range>123-63</page-range>
+            <pub-id pub-id-type="pmid">27645818</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20731.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Armenian</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Vo</surname>
+                <given-names>KT</given-names>
+              </name>
+              <name>
+                <surname>Barr-Walker</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Lynch</surname>
+                <given-names>KL</given-names>
+              </name>
+            </person-group>
+            <article-title>Fentanyl, fentanyl analogs and novel synthetic opioids: A comprehensive review.</article-title>
+            <source>Neuropharmacology</source>
+            <year>2018</year>
+            <month>May</month>
+            <day>15</day>
+            <volume>134</volume>
+            <issue>Pt A</issue>
+            <fpage>121</fpage>
+            <page-range>121-132</page-range>
+            <pub-id pub-id-type="pmid">29042317</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20731.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jamison</surname>
+                <given-names>RL</given-names>
+              </name>
+              <name>
+                <surname>Oliver</surname>
+                <given-names>RE</given-names>
+              </name>
+            </person-group>
+            <article-title>Disorders of urinary concentration and dilution.</article-title>
+            <source>Am J Med</source>
+            <year>1982</year>
+            <month>Feb</month>
+            <volume>72</volume>
+            <issue>2</issue>
+            <fpage>308</fpage>
+            <page-range>308-22</page-range>
+            <pub-id pub-id-type="pmid">7036728</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

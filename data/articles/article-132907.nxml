@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-132907" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Neurally Adjusted Ventilatory Assist (NAVA)</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Shah</surname>
+            <given-names>Sanket D.</given-names>
+          </name>
+          <aff>University of Florida</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Anjum</surname>
+            <given-names>Fatima</given-names>
+          </name>
+          <aff>Temple University, Lewis Katz School of Medicine</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Sanket Shah declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Fatima Anjum declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>22</day>
+          <month>5</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-132907.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Neurally-adjusted ventilatory assist (NAVA) is a relatively newer mode of ventilation in which a ventilator utilizes the electrical activity of the diaphragm (Edi) to generate appropriate breaths and assist ventilated patients. This topic highlights and reviews the role of NAVA in the management of respiratory failure in both neonates and adults by an interprofessional team.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Review the difference between proportional assisted ventilation and NAVA ventilation.</p></list-item><list-item><p>Identify indications and contraindications to the NAVA ventilator.</p></list-item><list-item><p>Describe the clinical significance and possible benefits of NAVA ventilation.</p></list-item><list-item><p>Outline the equipment, personnel, preparation, and technique for initial set-up by the interprofessional team.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=132907&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=132907">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-132907.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Although the earliest reported use of mechanical ventilation is in the 16th century, its use has become widespread in the 20th century in patients with respiratory failure. Over the decades,&#x000a0;optimal respiratory care and ventilator support have been supported by strong clinical evidence. Mechanical ventilation is triggered by either change in respiratory flow or pressure. Change in the respiratory flow (commonly termed as flow trigger) may cause false triggering or missed triggering. This produces patient-ventilator asynchrony.<xref ref-type="bibr" rid="article-132907.r1">[1]</xref><xref ref-type="bibr" rid="article-132907.r2">[2]</xref>&#x000a0;</p>
+        <p>Invasive mechanical ventilation causes alveolar overdistention, pulmonary air leaks, and small airway injury.<xref ref-type="bibr" rid="article-132907.r3">[3]</xref> In 1999, the concept of neural control of mechanical ventilation was first described by Sinderby et al.<xref ref-type="bibr" rid="article-132907.r4">[4]</xref> NAVA ventilator detects the electrical activity (electromyographic signal) of the diaphragm by a specially placed nasogastric catheter. In 2007, FDA approved the use of NAVA in all patients as small as 500 grams birth weight.</p>
+      </sec>
+      <sec id="article-132907.s3" sec-type="Anatomy and Physiology">
+        <title>Anatomy and Physiology</title>
+        <p>
+<bold>Normal Respiration</bold>
+</p>
+        <p>The respiratory center in the brain activates spontaneous breathing via the transmission of impulses through the phrenic nerve. Lourenco et al. showed that diaphragmatic activity is proportional to phrenic nerve activity.<xref ref-type="bibr" rid="article-132907.r5">[5]</xref>&#x000a0;This leads to a muscle contraction and allows the inflow of air by creating a negative alveolar pressure. Phrenic nerve impulses precede the contraction of the diaphragm. Depth and cycling of the breathing movement are dependent on the respiratory center output.&#x000a0;</p>
+        <p>
+<bold>Physiology of Edi Signal</bold>
+</p>
+        <p>All muscles in the body stimulate muscle contraction by generating electrical activity. The nerve stimulus controls this electrical activity. The NAVA ventilator utilizes this electrical activity to assist the patient&#x02019;s respiratory efforts in a synchronized manner. Edi is the primary requirement for NAVA to function and the main source for ventilator trigger. In theory, NAVA overcomes the limitation of proportional assist ventilation such as air leaks and asynchrony between patient and ventilator. The ventilator breath is triggered and terminated by changes in this electrical activity. The pressure is delivered in proportion to the Edi signal and ends when the Edi signal subsides. The ventilator displays two forms of Edi; Edi max (peak inspiration) and Edi min (tonic activity of diaphragm).</p>
+        <p>Figure 1: A process of inspiration and ventilator trigger<xref ref-type="bibr" rid="article-132907.r4">[4]</xref></p>
+        <p>
+<bold>NAVA Level </bold>
+</p>
+        <p>NAVA level converts the Edi signal into an appropriate pressure. NAVA level is expressed as cmHO/ &#x000b5;V. During ventilation, the ventilator will deliver pressure by multiplying each Edi by the NAVA level (see below). Increasing or decreasing the NAVA level will change the pressure delivery for the same Edi. However, pressure delivery varies with each breathing effort, and it depends on the measured electrical activity of the diaphragm. Hence, the patient controls both own and ventilator pressure and thus improves synchrony and comfort.</p>
+        <p>Calculation of Peak inspiratory pressure (PIP) = NAVA level x (Edi max &#x02013; Edi min) + PEEP</p>
+      </sec>
+      <sec id="article-132907.s4" sec-type="Indications">
+        <title>Indications</title>
+        <p>There is no specific indication for the use of NAVA in adults, children, or neonates. It can be used in all conditions where conventional ventilators are indicated.</p>
+        <p>
+<bold>Adults</bold>
+<xref ref-type="bibr" rid="article-132907.r6">[6]</xref>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Acute respiratory distress syndrome (ARDS)</p>
+          </list-item>
+          <list-item>
+            <p>Acute hypoxemic respiratory failure<bold>&#x000a0;</bold></p>
+          </list-item>
+        </list>
+        <p>
+<bold>Neonates or Children</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Respiratory distress syndrome (RDS)</p>
+          </list-item>
+          <list-item>
+            <p>Pulmonary hypertension (primary or secondary)</p>
+          </list-item>
+          <list-item>
+            <p>Assess breathing activity in the certain condition such as central hypoventilation syndrome<xref ref-type="bibr" rid="article-132907.r7">[7]</xref></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-132907.s5" sec-type="Contraindications">
+        <title>Contraindications</title>
+        <p>Any condition that limits the respiratory drive or any diaphragmatic anatomical defect in cases of an intact respiratory drive may be contraindicated, including:</p>
+        <list list-type="order">
+          <list-item>
+            <p>Central: paralytics, suppressed respiratory drive due to heavy sedation or brain injury</p>
+          </list-item>
+          <list-item>
+            <p>Peripheral: phrenic nerve injury or use of paralytic agent</p>
+          </list-item>
+          <list-item>
+            <p>Structural: esophageal atresia and diaphragmatic hernia</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-132907.s6" sec-type="Equipment">
+        <title>Equipment</title>
+        <p>The Servo-I ventilator is a commonly used ventilator and is the only one compatible with the NAVA catheter.</p>
+      </sec>
+      <sec id="article-132907.s7" sec-type="Personnel">
+        <title>Personnel</title>
+        <p>A skilled respiratory therapist must set up the machine, and a nurse will insert an Edi catheter.</p>
+      </sec>
+      <sec id="article-132907.s8" sec-type="Preparation">
+        <title>Preparation</title>
+        <p>Personnel must insert and verify proper Edi catheter position and check the machine for proper functioning.</p>
+      </sec>
+      <sec id="article-132907.s9" sec-type="Technique or Treatment">
+        <title>Technique or Treatment</title>
+        <p>An array of nine miniaturized electrodes are embedded within a catheter which is positioned in the lower esophagus at the level of the diaphragm. These electrodes continuously detect the electrical activity of the diaphragm and transmit this information to the ventilator.</p>
+        <p>There are three steps for the proper positioning of the Edi catheter.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Anatomical placement: The most common practice to place a catheter is to measure a distance from the nose to the ear lobe to the xiphoid process (NEX method).<xref ref-type="bibr" rid="article-132907.r8">[8]</xref>&#x000a0;The use of lubricants is not recommended as it may interfere with Edi signal measurement. Instead of lubricants, an Edi catheter can be dipped into the water.</p>
+          </list-item>
+          <list-item>
+            <p>Verification of the position of electrodes: ECG waveforms are visualized in the &#x0201c;Edi catheter positioning&#x0201d; window of the ventilator. P and QRS waves are present in the top electrodes (close to the right atrium). Loss of P wave and dampen QRS wave are present in the lower leads (close to the stomach)</p>
+          </list-item>
+          <list-item>
+            <p>Verification of the Edi signal: A weak or absent signal may suggest neural disorder, sedation, or muscle relaxant use.</p>
+          </list-item>
+        </list>
+        <p>Secure the catheter once the second and third leads are highlighted in blue and record the insertion.</p>
+        <p>
+<bold>Initial NAVA Settings</bold>
+<xref ref-type="bibr" rid="article-132907.r9">[9]</xref>
+</p>
+        <list list-type="order">
+          <list-item>
+            <p>NAVA level</p>
+          </list-item>
+          <list-item>
+            <p>Positive end-expiratory pressure (PEEP)</p>
+          </list-item>
+          <list-item>
+            <p>Trigger Edi</p>
+          </list-item>
+          <list-item>
+            <p>Backup ventilator settings</p>
+          </list-item>
+          <list-item>
+            <p>fraction of inspired oxygen (FiO)</p>
+          </list-item>
+          <list-item>
+            <p>Alarm settings</p>
+          </list-item>
+        </list>
+        <p>
+<bold>NAVA Level</bold>
+</p>
+        <p>NAVA level should be chosen to achieve a goal Edi range of (5-20&#x000b5;V). Lower NAVA level if Edi max &#x0003c; 5 &#x000b5;V and increase level if Edi max &#x0003e; 20 &#x000b5;V. NAVA level typically adjusted by 0.1-0.2 cmHO/ &#x000b5;V increments.</p>
+        <p>
+<bold>PEEP</bold>
+</p>
+        <p>Oxygenation and lung expansion are mainly determined by PEEP. Set the same PEEP according to earlier ventilator settings or according to the age of the patients.</p>
+        <p>
+<bold>Trigger Edi</bold>
+</p>
+        <p>Trigger Edi should be 0.5 &#x000b5;V.</p>
+        <p>
+<bold>Backup Ventilator Settings</bold>
+</p>
+        <p>An appropriate ventilator setting should be chosen in terms of respiratory rate, PEEP, tidal volume, inspiratory time, and peak inspiratory pressure. It could be similar to the earlier ventilator settings. These are set to kick in if there is a lack of Edi signal triggering a NAVA breath.</p>
+        <p>
+<bold>FiO</bold>
+</p>
+        <p>Oxygen requirements should be adjusted depending on targeted oxygen saturations depends on the condition of the disease.</p>
+        <p>
+<bold>Alarm Settings</bold>
+</p>
+        <p>The maximum pressure and apnea time should be chosen according to gestation age and maturity. Apnea time should be 2-4 s.</p>
+        <p>
+<bold>Monitoring During NAVA Ventilation</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Oxygen saturation</p>
+          </list-item>
+          <list-item>
+            <p>Transcutaneous carbon dioxide pressure</p>
+          </list-item>
+          <list-item>
+            <p>Edi signal (monitor trends on a ventilator)</p>
+          </list-item>
+          <list-item>
+            <p>Arterial/capillary blood gas</p>
+          </list-item>
+          <list-item>
+            <p>Trends
+<list list-type="order"><list-item><p>The number of switches to back-up per minute: This indicates how often the patient goes into back-up mode. If the numbers are higher, then the current apnea time may be too short, and a patient can tolerate longer apnea time.</p></list-item><list-item><p>Percentage of time on backup mode: if patients remain mostly in backup ventilation, then patients may not be ready to be weaned or may indicate malpositioning of the catheter.</p></list-item></list>
+</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Weaning From NAVA Ventilator </bold>
+</p>
+        <p>Unlike pressure-assist ventilation, weaning happens spontaneously in NAVA.<xref ref-type="bibr" rid="article-132907.r10">[10]</xref> Arterial or capillary blood gas is an important tool to monitor ventilator requirements. NAVA ventilator weaning is achieved by adjusting the NAVA level. If blood gas is acceptable, wean NAVA level by 0.5-1 cmHO/ &#x000b5;V. Consider extubating the patient once the NAVA level reaches 1 cmHO/ &#x000b5;V. If the patient appears clinically stable, then the following things can be considered before extubation.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Increasing apnea time</p>
+          </list-item>
+          <list-item>
+            <p>Decreasing back-up settings</p>
+          </list-item>
+          <list-item>
+            <p>Lowering NAVA level</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Troubleshooting During NAVA</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>The patient develops respiratory distress and oxygen requirement increasing</p>
+          </list-item>
+        </list>
+        <list list-type="order">
+          <list-item>
+            <p>Catheter malposition</p>
+          </list-item>
+          <list-item>
+            <p>Upper airway obstruction</p>
+          </list-item>
+          <list-item>
+            <p>Exceeding pressure limit</p>
+          </list-item>
+          <list-item>
+            <p>High Edi (under-supported ventilation)</p>
+          </list-item>
+          <list-item>
+            <p>Not enough Backup pressure</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Edi monitoring (Figure 2)</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-132907.s10" sec-type="Complications">
+        <title>Complications</title>
+        <p>There are no specific complications to NAVA ventilation mode use. However, it can cause the same complications as other mechanical ventilator modes, such as ventilator-induced lung injury, ventilator-induced diaphragmatic dysfunction, ventilator-induced pneumonia, and pneumothorax. The chances of ventilator-induced lung injury and ventilator-induced diaphragmatic dysfunction are less with NAVA as delivery of pressure is proportional to the patient&#x02019;s efforts, and reports have shown the lower need for PIP when using NAVA.</p>
+      </sec>
+      <sec id="article-132907.s11" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>As mentioned earlier, NAVA was aimed to overcome the limitation of limitations of proportional assisted ventilation. However, NAVA has several potential benefits.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Patient-ventilator synchrony: Mechanical ventilator synchrony depends on two factors- the timing of the mechanical breath delivery and the amount of pressure from a ventilator. There is a delay in diaphragm activity (signaled from the brain) and ventilator response in the flow trigger ventilator. However, NAVA delivers mechanical breath when the diaphragm receives a signal from the brain. Beck et al.&#x000a0;and Breatnach et al.&#x000a0;reported improved patent-ventilator synchrony during their NAVA trial in infants and children. It decreases the discomfort and agitation in patients while improving synchrony. Synchronized respiratory efforts have been associated with improved ventilation and oxygenation.<xref ref-type="bibr" rid="article-132907.r11">[11]</xref><xref ref-type="bibr" rid="article-132907.r12">[12]</xref> Improved synchronization will prevent further lung injury by limiting barotrauma and volutrauma. Improved synchrony also leads to decreased use of sedation (opioids)</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Air leaks: Air leaks are very common in both invasive and non-invasive ventilation. Although, leaks can be minimized by choosing the proper size endotracheal tube (cuffed or uncuffed) and compensating circuit in ventilators. Air-leak can be a bigger problem in non-invasive ventilation. It has shown that NAVA continues to trigger effectively even in the presence of 75% air leaks.<xref ref-type="bibr" rid="article-132907.r10">[10]</xref><xref ref-type="bibr" rid="article-132907.r13">[13]</xref></p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Benefits in preterm infants: In recent years, the use of NAVA has been increased and studied extensively in both preterm and term infants. Kallio et al. compared NAVA with conventional ventilators in preterm infants (28 to 36 weeks GA) and showed lower PIP needs in infants treated with NAVA, but the difference in the secondary outcomes such as bronchopulmonary dysplasia, time on mechanical ventilation, or pneumothorax.<xref ref-type="bibr" rid="article-132907.r14">[14]</xref>&#x000a0;In a multi-center retrospective review, NAVA was found to be successful as respiratory stability in 67% of the infants with severe BPD.<xref ref-type="bibr" rid="article-132907.r15">[15]</xref>&#x000a0;Thus, NAVA can also be used safely in premature infants. However, a well-designed randomized controlled trial is required to assess the long-term effectiveness of NAVA ventilation in terms of reducing the incidence of BPD.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Non-invasive mode: Non-invasive NAVA works exactly the same as invasive NAVA, but ventilation is delivered via nasal prongs or a mask. Non-invasive NAVA has shown to be effective even in the settings of high leaks.<xref ref-type="bibr" rid="article-132907.r13">[13]</xref> (19218884). When infants extubated to non-invasive NAVA ventilation, infants remained extubated longer and required lower PIP as compared to non-invasive pressure ventilation.<xref ref-type="bibr" rid="article-132907.r16">[16]</xref>&#x000a0;Setting up non-invasive NAVA and other monitoring approaches remains the same as invasive NAVA.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-132907.s12" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Like any other ventilators, NAVA also requires close coordination of physicians, registered nurses, and respiratory therapists for better management. Proper teaching and guidance are required before its implementation in any intensive care unit. Although NAVA has shown some promising results in few studies, larger studies are required for its widespread use. Proper monitoring, documentation, and trending ventilator data are required for better outcomes in the given patients.</p>
+      </sec>
+      <sec id="article-132907.s13">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=132907&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=132907">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/132907/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=132907">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <floats-group id="article-132907.s14">
+        <fig id="article-132907.image.f1" position="float" orientation="portrait">
+          <caption>
+            <p>Edi Monitoring Contributed by Sanket D Shah, MD</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Figure__2" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <ref-list id="article-132907.s15">
+        <title>References</title>
+        <ref id="article-132907.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Keszler</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>State of the art in conventional mechanical ventilation.</article-title>
+            <source>J Perinatol</source>
+            <year>2009</year>
+            <month>Apr</month>
+            <volume>29</volume>
+            <issue>4</issue>
+            <fpage>262</fpage>
+            <page-range>262-75</page-range>
+            <pub-id pub-id-type="pmid">19242486</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132907.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mellott</surname>
+                <given-names>KG</given-names>
+              </name>
+              <name>
+                <surname>Grap</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Munro</surname>
+                <given-names>CL</given-names>
+              </name>
+              <name>
+                <surname>Sessler</surname>
+                <given-names>CN</given-names>
+              </name>
+              <name>
+                <surname>Wetzel</surname>
+                <given-names>PA</given-names>
+              </name>
+            </person-group>
+            <article-title>Patient-ventilator dyssynchrony: clinical significance and implications for practice.</article-title>
+            <source>Crit Care Nurse</source>
+            <year>2009</year>
+            <month>Dec</month>
+            <volume>29</volume>
+            <issue>6</issue>
+            <fpage>41</fpage>
+            <page-range>41-55 quiz 1 p following 55</page-range>
+            <pub-id pub-id-type="pmid">19724065</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132907.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Stein</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Alosh</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Ethington</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>White</surname>
+                <given-names>DB</given-names>
+              </name>
+            </person-group>
+            <article-title>Prospective crossover comparison between NAVA and pressure control ventilation in premature neonates less than 1500 grams.</article-title>
+            <source>J Perinatol</source>
+            <year>2013</year>
+            <month>Jun</month>
+            <volume>33</volume>
+            <issue>6</issue>
+            <fpage>452</fpage>
+            <page-range>452-6</page-range>
+            <pub-id pub-id-type="pmid">23100042</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132907.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sinderby</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Navalesi</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Beck</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Skrobik</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Comtois</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Friberg</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Gottfried</surname>
+                <given-names>SB</given-names>
+              </name>
+              <name>
+                <surname>Lindstr&#x000f6;m</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>Neural control of mechanical ventilation in respiratory failure.</article-title>
+            <source>Nat Med</source>
+            <year>1999</year>
+            <month>Dec</month>
+            <volume>5</volume>
+            <issue>12</issue>
+            <fpage>1433</fpage>
+            <page-range>1433-6</page-range>
+            <pub-id pub-id-type="pmid">10581089</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132907.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Louren&#x000e7;o</surname>
+                <given-names>RV</given-names>
+              </name>
+              <name>
+                <surname>Cherniack</surname>
+                <given-names>NS</given-names>
+              </name>
+              <name>
+                <surname>Malm</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Fishman</surname>
+                <given-names>AP</given-names>
+              </name>
+            </person-group>
+            <article-title>Nervous output from the respiratory center during obstructed breathing.</article-title>
+            <source>J Appl Physiol</source>
+            <year>1966</year>
+            <month>Mar</month>
+            <volume>21</volume>
+            <issue>2</issue>
+            <fpage>527</fpage>
+            <page-range>527-33</page-range>
+            <pub-id pub-id-type="pmid">5934459</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132907.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Navalesi</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Costa</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>New modes of mechanical ventilation: proportional assist ventilation, neurally adjusted ventilatory assist, and fractal ventilation.</article-title>
+            <source>Curr Opin Crit Care</source>
+            <year>2003</year>
+            <month>Feb</month>
+            <volume>9</volume>
+            <issue>1</issue>
+            <fpage>51</fpage>
+            <page-range>51-8</page-range>
+            <pub-id pub-id-type="pmid">12548030</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132907.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Szczapa</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Beck</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Migdal</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Gadzinowski</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Monitoring diaphragm electrical activity and the detection of congenital central hypoventilation syndrome in a newborn.</article-title>
+            <source>J Perinatol</source>
+            <year>2013</year>
+            <month>Nov</month>
+            <volume>33</volume>
+            <issue>11</issue>
+            <fpage>905</fpage>
+            <page-range>905-7</page-range>
+            <pub-id pub-id-type="pmid">24169930</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132907.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ellett</surname>
+                <given-names>ML</given-names>
+              </name>
+              <name>
+                <surname>Beckstrand</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Flueckiger</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Perkins</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Johnson</surname>
+                <given-names>CS</given-names>
+              </name>
+            </person-group>
+            <article-title>Predicting the insertion distance for placing gastric tubes.</article-title>
+            <source>Clin Nurs Res</source>
+            <year>2005</year>
+            <month>Feb</month>
+            <volume>14</volume>
+            <issue>1</issue>
+            <fpage>11</fpage>
+            <page-range>11-27; discussion 28-31</page-range>
+            <pub-id pub-id-type="pmid">15604226</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132907.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sindelar</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>McKinney</surname>
+                <given-names>RL</given-names>
+              </name>
+              <name>
+                <surname>Wallstr&#x000f6;m</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Keszler</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Proportional assist and neurally adjusted ventilation: Clinical knowledge and future trials in newborn infants.</article-title>
+            <source>Pediatr Pulmonol</source>
+            <year>2021</year>
+            <month>Jul</month>
+            <volume>56</volume>
+            <issue>7</issue>
+            <fpage>1841</fpage>
+            <page-range>1841-1849</page-range>
+            <pub-id pub-id-type="pmid">33721418</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132907.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Narchi</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Chedid</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>Neurally adjusted ventilator assist in very low birth weight infants: Current status.</article-title>
+            <source>World J Methodol</source>
+            <year>2015</year>
+            <month>Jun</month>
+            <day>26</day>
+            <volume>5</volume>
+            <issue>2</issue>
+            <fpage>62</fpage>
+            <page-range>62-7</page-range>
+            <pub-id pub-id-type="pmid">26140273</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132907.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Breatnach</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Conlon</surname>
+                <given-names>NP</given-names>
+              </name>
+              <name>
+                <surname>Stack</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Healy</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>O'Hare</surname>
+                <given-names>BP</given-names>
+              </name>
+            </person-group>
+            <article-title>A prospective crossover comparison of neurally adjusted ventilatory assist and pressure-support ventilation in a pediatric and neonatal intensive care unit population.</article-title>
+            <source>Pediatr Crit Care Med</source>
+            <year>2010</year>
+            <month>Jan</month>
+            <volume>11</volume>
+            <issue>1</issue>
+            <fpage>7</fpage>
+            <page-range>7-11</page-range>
+            <pub-id pub-id-type="pmid">19593246</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132907.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Donn</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Sinha</surname>
+                <given-names>SK</given-names>
+              </name>
+            </person-group>
+            <article-title>Can mechanical ventilation strategies reduce chronic lung disease?</article-title>
+            <source>Semin Neonatol</source>
+            <year>2003</year>
+            <month>Dec</month>
+            <volume>8</volume>
+            <issue>6</issue>
+            <fpage>441</fpage>
+            <page-range>441-8</page-range>
+            <pub-id pub-id-type="pmid">15001116</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132907.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Beck</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Reilly</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Grasselli</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Mirabella</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Slutsky</surname>
+                <given-names>AS</given-names>
+              </name>
+              <name>
+                <surname>Dunn</surname>
+                <given-names>MS</given-names>
+              </name>
+              <name>
+                <surname>Sinderby</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Patient-ventilator interaction during neurally adjusted ventilatory assist in low birth weight infants.</article-title>
+            <source>Pediatr Res</source>
+            <year>2009</year>
+            <month>Jun</month>
+            <volume>65</volume>
+            <issue>6</issue>
+            <fpage>663</fpage>
+            <page-range>663-8</page-range>
+            <pub-id pub-id-type="pmid">19218884</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132907.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kallio</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Koskela</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>Peltoniemi</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Kontiokari</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Pokka</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Suo-Palosaari</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Saarela</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Neurally adjusted ventilatory assist (NAVA) in preterm newborn infants with respiratory distress syndrome-a randomized controlled trial.</article-title>
+            <source>Eur J Pediatr</source>
+            <year>2016</year>
+            <month>Sep</month>
+            <volume>175</volume>
+            <issue>9</issue>
+            <fpage>1175</fpage>
+            <page-range>1175-1183</page-range>
+            <pub-id pub-id-type="pmid">27502948</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132907.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>McKinney</surname>
+                <given-names>RL</given-names>
+              </name>
+              <name>
+                <surname>Keszler</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Truog</surname>
+                <given-names>WE</given-names>
+              </name>
+              <name>
+                <surname>Norberg</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Sindelar</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Wallstr&#x000f6;m</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Schulman</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Gien</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Abman</surname>
+                <given-names>SH</given-names>
+              </name>
+              <collab>Bronchopulmonary Dysplasia Collaborative</collab>
+            </person-group>
+            <article-title>Multicenter Experience with Neurally Adjusted Ventilatory Assist in Infants with Severe Bronchopulmonary Dysplasia.</article-title>
+            <source>Am J Perinatol</source>
+            <year>2021</year>
+            <month>Aug</month>
+            <volume>38</volume>
+            <issue>S 01</issue>
+            <fpage>e162</fpage>
+            <page-range>e162-e166</page-range>
+            <pub-id pub-id-type="pmid">32208500</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-132907.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Makker</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Cortez</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Jha</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Shah</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Nandula</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Lowrie</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Smotherman</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Gautam</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hudak</surname>
+                <given-names>ML</given-names>
+              </name>
+            </person-group>
+            <article-title>Comparison of extubation success using noninvasive positive pressure ventilation (NIPPV) versus noninvasive neurally adjusted ventilatory assist (NI-NAVA).</article-title>
+            <source>J Perinatol</source>
+            <year>2020</year>
+            <month>Aug</month>
+            <volume>40</volume>
+            <issue>8</issue>
+            <fpage>1202</fpage>
+            <page-range>1202-1210</page-range>
+            <pub-id pub-id-type="pmid">31911641</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,2060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-145837" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Physiology, Nutrient Absorption</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Basile</surname>
+            <given-names>Eric J.</given-names>
+          </name>
+          <aff>University of Florida - Shands Hospital</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Launico</surname>
+            <given-names>Marjorie V.</given-names>
+          </name>
+          <aff>De La Salle Medical and Health Sciences Institute</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Sheer</surname>
+            <given-names>Amy J.</given-names>
+          </name>
+          <aff>University of FLorida</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Eric Basile declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Marjorie Launico declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Amy Sheer declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>28</day>
+          <month>10</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-145837.s1" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>The gastrointestinal tract is a highly specialized organ system primarily responsible for nutrient absorption, though it has other roles.&#x000a0;From the mouth to the anus, its length is approximately&#x000a0;9 meters (30 feet).&#x000a0;The gastrointestinal tract's&#x000a0;wide range of functions include the following:<xref ref-type="bibr" rid="article-145837.r1">[1]</xref><xref ref-type="bibr" rid="article-145837.r2">[2]</xref><xref ref-type="bibr" rid="article-145837.r3">[3]</xref><xref ref-type="bibr" rid="article-145837.r4">[4]</xref></p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Nutrient absorption - This comes after the breakdown of carbohydrates, proteins, fats, vitamins, and minerals, which are essential for energy production, growth, and cellular maintenance.</p>
+          </list-item>
+          <list-item>
+            <p>Egestion of waste and toxins - The process eliminates indigestible components and&#x000a0;harmful substances from the body.</p>
+          </list-item>
+          <list-item>
+            <p>Maintenance of hormonal homeostasis - The gastrointestinal tract influences appetite, satiety, and metabolism.</p>
+          </list-item>
+          <list-item>
+            <p>Providing immunity - Immune cells line the gastrointestinal mucosa to defend against pathogens and maintain&#x000a0;a balance between tolerance and reactivity.</p>
+          </list-item>
+          <list-item>
+            <p>Influencing behavior -&#x000a0;The gastrointestinal tract is a key player in the "gut-brain axis," influencing behavior&#x000a0;and cognitive processes.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-145837.s2" sec-type="Cellular Level&#x0000d;&#x0000a;">
+        <title>Cellular Level
+</title>
+        <p>
+<bold>The Cells of the Gastrointestinal Tract</bold>
+</p>
+        <p><bold>Enterocytes</bold>: These are the cells that&#x000a0;make up most of the intestinal lining. Enterocytes are directly involved in the&#x000a0;uptake of ions, water, nutrients, vitamins, and unconjugated bile acid salts.<xref ref-type="bibr" rid="article-145837.r5">[5]</xref></p>
+        <p><bold>Goblet cells</bold>: These modified epithelial cells are found inserted between enterocytes. They are&#x000a0;unicellular glands that mainly produce alkaline mucus, which protects the gastrointestinal lining from shearing forces&#x000a0;and acidic secretions.<xref ref-type="bibr" rid="article-145837.r6">[6]</xref></p>
+        <p><bold>Enteroendocrine cells</bold>:&#x000a0;These cells are located in the stomach, pancreas, and small intestine. Enteroendocrine cells have several roles. First, they are responsible for biogenic amine and polypeptide secretion, releasing&#x000a0;ghrelin, cholecystokinin, glucagon-like peptide 1, peptide YY, insulin-like peptide 5, and oxyntomodulin. Second,&#x000a0;they aid in food digestion and nutrient absorption.<xref ref-type="bibr" rid="article-145837.r7">[7]</xref>&#x000a0;Third,&#x000a0;they&#x000a0;aid in pathogen recognition&#x000a0;by expressing&#x000a0;toll-like receptors and commensal bacterial metabolite-sensitive receptors.<xref ref-type="bibr" rid="article-145837.r8">[8]</xref>&#x000a0;</p>
+        <p><bold>G-cells</bold>: These are neuroendocrine cells in the stomach antrum and the duodenum. They are responsible for secreting the hormone gastrin, which stimulates enterochromaffin-like cells and parietal cells. Enterochromaffin-like cells secrete histamine, while parietal cells release hydrochloric acid&#x000a0;in the stomach. Gastrin also promotes gastric mucosal growth and supports gastric motility.&#x000a0;G-cells are innervated by the vagus nerve and stimulated by gastrin-releasing peptide and bombesin.<xref ref-type="bibr" rid="article-145837.r9">[9]</xref></p>
+        <p><bold>Oxyntic (parietal) cells</bold>: These are specialized cells&#x000a0;found in the stomach. They are responsible for hydrochloric acid secretion&#x000a0;that helps break down food, activates enzymes, and maintains the stomach's low pH for antimicrobial protection. Parietal cells also secrete intrinsic factor, which is necessary for vitamin B12 absorption in the terminal ileum.<xref ref-type="bibr" rid="article-145837.r10">[10]</xref></p>
+        <p><bold>Zymogenic (chief) cell</bold>:&#x000a0;These specialized stomach cells are responsible for pepsinogen, chymosin, and gastric lipase&#x000a0;secretion. Pepsinogen is converted to active pepsin by hydrochloric acid.&#x000a0;Both pepsin and chymosin&#x000a0;break down proteins into amino acids.<xref ref-type="bibr" rid="article-145837.r11">[11]</xref>&#x000a0;</p>
+        <p><bold>Paneth cells</bold>: These specialized cells&#x000a0;are found in the small intestine's crypts of Lieberkuhn and the large intestine.&#x000a0;Paneth cells&#x000a0;secrete antimicrobial peptides and proteins. In the large intestine, they&#x000a0;play a key role in microbiota regulation and inflammation.<xref ref-type="bibr" rid="article-145837.r12">[12]</xref></p>
+        <p><bold>Microfold (M) cells</bold>: These cells reside&#x000a0;in the Peyer's patches&#x000a0;of the small intestine and are&#x000a0;crucial to the mucosal immune response to foreign pathogens. They take&#x000a0;up antigens and deliver them to antigen-presenting cells, which initiate the immune response.<xref ref-type="bibr" rid="article-145837.r13">[13]</xref>&#x000a0;</p>
+        <p><bold>Tuft cells</bold>: These specialized small intestine cells&#x000a0;play a role in the immune response against parasite and protozoa infection.<xref ref-type="bibr" rid="article-145837.r14">[14]</xref><xref ref-type="bibr" rid="article-145837.r15">[15]</xref></p>
+      </sec>
+      <sec id="article-145837.s3" sec-type="Development">
+        <title>Development</title>
+        <p>Gastrointestinal&#x000a0;development begins during the 3rd week of life. The primordial digestive tract,&#x000a0;derived from the yolk sac's endodermal lining, develops&#x000a0;alongside its arterial blood supply.&#x000a0;It&#x000a0;divides into the foregut, midgut, and hindgut.&#x000a0;</p>
+        <p>The foregut&#x000a0;is supplied by the celiac trunk and forms into the pharynx, esophagus, stomach, liver, gallbladder, bile ducts, pancreas, and proximal duodenum.</p>
+        <p>The midgut&#x000a0;is supplied by the superior mesenteric artery and forms into the distal duodenum, jejunum, ileum, cecum, ascending colon, and proximal two-thirds of the transverse colon.</p>
+        <p>The hindgut&#x000a0;is supplied by the inferior mesenteric artery and forms into the distal third of the transverse colon, descending colon, sigmoid colon, rectum, and proximal anal canal.</p>
+        <p>Although organogenesis is achieved by the 8th week, intestinal absorption begins in the 24th week.<xref ref-type="bibr" rid="article-145837.r16">[16]</xref>&#x000a0;Defects during embryogenesis can result in congenital anomalies&#x000a0;such as atresia&#x000a0;and stenosis. While patient outcomes vary depending on the location, extent, and the organ involved, improper development can significantly impair digestion and absorption.<xref ref-type="bibr" rid="article-145837.r17">[17]</xref></p>
+      </sec>
+      <sec id="article-145837.s4" sec-type="Organ Systems Involved">
+        <title>Organ Systems Involved</title>
+        <p>The gastrointestinal system&#x000a0;interacts with every organ system.</p>
+        <p>
+<bold>Nervous System</bold>
+</p>
+        <p>Communication between the nervous and gastrointestinal systems is accomplished by hormonal signals and the enteric nerves.<xref ref-type="bibr" rid="article-145837.r18">[18]</xref>&#x000a0;</p>
+        <p>
+<bold>Cardiovascular</bold>
+</p>
+        <p>Gastrointestinal circulation has the following functions:<xref ref-type="bibr" rid="article-145837.r19">[19]</xref></p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Delivery of nutrients, oxygen, and other substances to the gastrointestinal cells</p>
+          </list-item>
+          <list-item>
+            <p>Absorption of nutrients</p>
+          </list-item>
+          <list-item>
+            <p>Clearance of metabolites in the gastrointestinal cells</p>
+          </list-item>
+          <list-item>
+            <p>Hemodynamic stability&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Renal</bold>
+</p>
+        <p>The interactions between the renal and gastrointestinal systems are crucial to calcium homeostasis. The kidneys activate the pre-hormone 25-hydroxyvitamin D to form 1,25-dihydroxyvitamin D. Activated vitamin D induces the colon to absorb calcium and phosphate. Kidney disease and nutritional deficiencies cause an imbalance in calcium homeostasis and may lead to bone disorders.<xref ref-type="bibr" rid="article-145837.r20">[20]</xref></p>
+        <p>
+<bold>Musculoskeletal</bold>
+</p>
+        <p>The gut absorbs vitamins and minerals that play a crucial role in bone formation. Vitamin D, calcium, magnesium, and&#x000a0;phosphate malabsorption can lead to bone loss, inflammation, and pain.<xref ref-type="bibr" rid="article-145837.r21">[21]</xref></p>
+        <p>
+<bold>Pulmonary</bold>
+</p>
+        <p>Interplays between the pulmonary and digestive systems are evident in the following:<xref ref-type="bibr" rid="article-145837.r22">[22]</xref></p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Oxygenation of gastrointestinal cells</p>
+          </list-item>
+          <list-item>
+            <p>Gut absorption of iron, which is necessary for hemoglobin formation and oxygen delivery</p>
+          </list-item>
+          <list-item>
+            <p>Liver cirrhosis leading to pleural effusion&#x000a0;<xref ref-type="bibr" rid="article-145837.r23">[23]</xref></p>
+          </list-item>
+        </list>
+        <p>
+<bold>Endocrine</bold>
+</p>
+        <p>Organs of the gastrointestinal system have vital endocrine functions. For example, the pancreas secretes insulin (beta cells) and glucagon (alpha cells), which are crucial in blood glucose regulation and energy expenditure.<xref ref-type="bibr" rid="article-145837.r24">[24]</xref>&#x000a0;The intestines&#x000a0;absorb cholesterol, which is important in steroid hormone biosynthesis.<xref ref-type="bibr" rid="article-145837.r25">[25]</xref></p>
+        <p>
+<bold>Reproductive</bold>
+</p>
+        <p>The sex hormones&#x000a0;are steroid hormones, which derive their central ring structure from cholesterol and its intermediates.<xref ref-type="bibr" rid="article-145837.r25">[25]</xref>&#x000a0;</p>
+      </sec>
+      <sec id="article-145837.s5" sec-type="Function">
+        <title>Function</title>
+        <p>
+<bold>Mouth</bold>
+</p>
+        <p>The mouth is comprised of the lips, teeth, tongue, salivary glands, hard palate, soft palate, uvula, and oropharynx.</p>
+        <p>The lips are fleshy, movable structures surrounding the mouth's opening. They play a crucial role in speech, expression, and sealing the mouth during eating and drinking.</p>
+        <p>The teeth are hard structures responsible for&#x000a0;breaking down food into smaller, more digestible particles. They&#x000a0;also aid in oral cavity&#x000a0;protection and speech.</p>
+        <p>The tongue is a muscular organ on the oral cavity floor. It is crucial in taste perception, food bolus manipulation, initiating swallowing, and generating the gag reflex.<xref ref-type="bibr" rid="article-145837.r26">[26]</xref></p>
+        <p>The salivary glands are located within and around the mouth. Their primary function is to secrete saliva, which contains enzymes&#x000a0;that initiate the process of digestion (amylase)&#x000a0;and protect against microbes (lysozyme).<xref ref-type="bibr" rid="article-145837.r27">[27]</xref></p>
+        <p>The palate is the roof of the mouth and aids in chewing and swallowing. The uvula is a small, fleshy projection&#x000a0;originating from the soft palate. It helps prevent food and liquid from entering the nasal cavity during deglutition.<xref ref-type="bibr" rid="article-145837.r28">[28]</xref></p>
+        <p>
+<bold>Esophagus</bold>
+</p>
+        <p>The esophagus is typically&#x000a0;can be divided into&#x000a0;3 portions. The upper third predominantly contains somatic-controlled striated muscle. The middle third&#x000a0;has a mix of striated and smooth muscles. The lower third mainly has&#x000a0;smooth muscle and is autonomic in function. The normal esophageal lining has&#x000a0;non-keratinized stratified squamous epithelium.</p>
+        <p>The esophagus carries food from the mouth to the stomach via muscular contractions known as peristalsis. It has two natural sphincters:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Upper esophageal sphincter: comprised of the cervical esophagus, cricopharyngeus, and inferior pharyngeal constrictor&#x000a0;<xref ref-type="bibr" rid="article-145837.r29">[29]</xref>&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Lower esophageal sphincter: comprised of the diaphragmatic crura, phrenoesophageal ligament, and intrinsic esophageal muscle fibers&#x000a0;<xref ref-type="bibr" rid="article-145837.r30">[30]</xref></p>
+          </list-item>
+        </list>
+        <p>
+<bold>Stomach</bold>
+</p>
+        <p>The stomach is divided into&#x000a0;five portions:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Cardia: the gastric segment that&#x000a0;connects with the esophagus. It has a sphincter that prevents gastric contents from refluxing to the esophagus.</p>
+          </list-item>
+          <list-item>
+            <p>Fundus: lies&#x000a0;inferior to the cardia and functions as residual space for gastric contents</p>
+          </list-item>
+          <list-item>
+            <p>Body: the largest portion of the stomach and the site where food mixes with gastric acid secretions</p>
+          </list-item>
+          <list-item>
+            <p>Antrum: the&#x000a0;inferior portion of the stomach that holds the food-acid mixture before it is moved into the small intestine</p>
+          </list-item>
+          <list-item>
+            <p>Pyrolus: the portion of the stomach connected to the duodenum. It is comprised of a thick muscular ring that acts as a sphincter controlling gastric emptying. Of note, the stomach is the first site of absorption for lipid-soluble substances such as alcohol and aspirin.<xref ref-type="bibr" rid="article-145837.r31">[31]</xref>&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Small Intestine</bold>
+</p>
+        <p>The small intestine is divided into three portions:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Duodenum: the segment that attaches to the stomach. It&#x000a0;is approximately 30 cm or 1 foot long. The duodenum&#x000a0;receives the food-acid mixture from the stomach, which then becomes chyme. Liver, pancreas, and gallbladder secretions come into contact with chyme in this segment, preparing it for further digestion and subsequent absorption.&#x000a0;The duodenum&#x000a0;absorbs most&#x000a0;of the iron, calcium, phosphorus, magnesium, copper, selenium, thiamin, riboflavin, niacin, biotin, folate, and the fat-soluble vitamins A, D, E, and&#x000a0;K. Intestinal villi&#x02014;the small finger-like projections at the epithelial apices&#x02014;increase the intestinal cells' surface area for absorption.<xref ref-type="bibr" rid="article-145837.r32">[32]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Jejunum: measures approximately 244 cm or 8 feet long&#x000a0;and is the second portion of the small intestines.&#x000a0;The lacteals&#x02014;the jejunal lymphatic vessels&#x02014;aid in the absorption of lipids, which have become&#x000a0;glycerol and free fatty acids in this segment. Amino acids are also absorbed in the jejunum, entering the bloodstream through the&#x000a0;mesenteric capillaries.<xref ref-type="bibr" rid="article-145837.r33">[33]</xref>&#x000a0;Other nutrients absorbed by the jejunal cells include thiamine, riboflavin, niacin, pantothenate, biotin, folate, pyridoxine, ascorbic acid, calcium, phosphorus, magnesium iron, zinc, chromium, manganese, molybdenum, lipids, monosaccharides, small peptides, and the fat-soluble vitamins A, D, E, and K.</p>
+          </list-item>
+          <list-item>
+            <p>Ileum: approximately 150 cm or 5 feet long.&#x000a0;It is the most distal&#x000a0;segment of the small intestine, terminating at the ileocecal junction.&#x000a0;The ileum&#x000a0;absorbs bile salts and acids, ascorbic acid, folate, cobalamin, vitamin D, vitamin K, and magnesium.<xref ref-type="bibr" rid="article-145837.r34">[34]</xref>&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Large Intestine </bold>
+</p>
+        <p>The large intestine is the portion of the intestinal tract between the ileocecal valve superiorly and the anus inferiorly. It is comprised of the ascending colon, transverse colon, descending colon, rectum, and anus. Its function is to absorb water, form stools, and eliminate feces.<xref ref-type="bibr" rid="article-145837.r35">[35]</xref>&#x000a0;&#x000a0;</p>
+      </sec>
+      <sec id="article-145837.s6" sec-type="Mechanism">
+        <title>Mechanism</title>
+        <p>Digestion is the body's natural process of converting food into products that can be absorbed and used for nourishment. Mechanical digestion involves physically breaking down food into fragments through mastication, deglutition, churning, and segmentation. Chemical digestion&#x000a0;breaks down&#x000a0;mechanically digested food into small, absorbable particles by pH changes and enzymatic action.<xref ref-type="bibr" rid="article-145837.r36">[36]</xref></p>
+        <p>Nutrient absorption occurs through cellular transport, which has two pathways:<xref ref-type="bibr" rid="article-145837.r37">[37]</xref><xref ref-type="bibr" rid="article-145837.r38">[38]</xref></p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Paracellular pathway: molecules move from the intestinal lumen across tight junctions between intestinal epithelial cells to enter the extracellular space (interstitium). This process is unmediated and passively regulated by an electrochemical concentration gradient.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Transcellular pathway: molecules first move from the intestinal lumen into the enterocyte by crossing the apical membrane.&#x000a0;From inside the cell, the molecules traverse the basolateral membrane and enter the extracellular space. In contrast to the paracellular pathway,&#x000a0;transcellular transport is active, requiring energy expenditure in the form of Adenosine Triphosphate (ATP). Apical and basolateral enterocyte transporters help facilitate this process.</p>
+          </list-item>
+        </list>
+        <p>While paracellular transport plays a minor role in glucose absorption, the transcellular pathway is responsible for most nutrient absorption.</p>
+        <p>Once in the interstitium, the&#x000a0;absorbed molecules circulate&#x000a0;in the venous portal system. Blood from the villous capillaries brings nutrients from the gastrointestinal tract to the liver (see <bold>Image</bold>. Small Intestinal Villi Schematic Representation). From there, hepatocytes can further process and distribute nutrients to the body through the blood flowing in the inferior vena cava.</p>
+        <p>Most nutrients&#x000a0;get into the bloodstream via the paracellular and transcellular&#x000a0;pathways. On the other hand, fats and fat-soluble vitamins enter specialized lymphatic ducts called "lacteals,"&#x000a0;which distribute&#x000a0;them throughout the body.</p>
+        <p>After absorption in the lacteals, lipids&#x000a0;enter&#x000a0;the intestinal lymphatic system and converge in the&#x000a0;cisterna chyli of the retrocrural space. The cisterna chyli&#x000a0;is the abdominal origin of the thoracic duct. From there, the thoracic duct will drain 95% of the time into the internal jugular vein, the subclavian vein, or the angle between the two. The&#x000a0;rest will drain into the external jugular vein, vertebral vein, brachiocephalic vein, suprascapular vein, or transverse cervical vein (see <bold>Image</bold>. Thoracic Lymphatic System).<xref ref-type="bibr" rid="article-145837.r39">[39]</xref>&#x000a0;</p>
+      </sec>
+      <sec id="article-145837.s7" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>
+<bold>Carbohydrate Absorption</bold>
+</p>
+        <p>Carbohydrate digestion begins in the oral cavity with the mechanical breakdown of food. Chemical digestion occurs&#x000a0;once mechanically digested food comes into contact with&#x000a0;salivary gland, pancreas, and intestinal brush border enzymes.</p>
+        <p>Enzymatic glycosidic bond&#x000a0;hydrolysis&#x000a0;turns complex carbohydrates into their simplest forms: glucose, fructose, and galactose. These monosaccharides exit the intestinal lumen and enter the bloodstream via the transcellular pathway.</p>
+        <p>Transcellular transport begins with the enterocytic apical symporter, Sodium-Glucose Transporter 1 (SGLT-1). Basolateral sodium-potassium ATPase pumps create a sodium concentration gradient across the enterocytic apical membrane. This gradient drives SGLT-1 symporters, which transport glucose&#x000a0;or galactose into the enterocyte paired with 2 sodium ions (secondary active transport).&#x000a0;</p>
+        <p>Glucose Transporter 5 (GLUT-5) is another apical membrane transporter. In contrast to SGLT-1, GLUT-5 has a high affinity for fructose, allowing passive entry into the cell via facilitated diffusion.</p>
+        <p>A basolateral membrane transporter, Glucose Transporter 2 (GLUT-2), uses facilitated diffusion to transport glucose, galactose, and fructose from the enterocyte body into the&#x000a0;interstitial space.<xref ref-type="bibr" rid="article-145837.r40">[40]</xref></p>
+        <p>Meanwhile, undigested carbohydrates&#x000a0;like cellulose&#x000a0;are not absorbed in the gut but remain in the colon and undergo fermentation by colonic bacteria.</p>
+        <p>
+<bold>Protein Absorption</bold>
+</p>
+        <p>Chemical protein digestion begins in the stomach and continues into the jejunum.<xref ref-type="bibr" rid="article-145837.r41">[41]</xref>&#x000a0;During this process, the stomach, pancreas, and intestinal brush border release enzymes (peptidases), which break down polypeptides into tripeptides, dipeptides, and amino acids.</p>
+        <p>Following digestion, protein absorption occurs in the jejunum and proximal ileum. Dipeptides and tripeptides&#x000a0;enter the enterocyte cytoplasm through the Peptide Transporter 1 (PepT1).&#x000a0;Single amino acids move&#x000a0;from the lumen into the enterocyte by facilitated diffusion&#x000a0;in sodium-linked transporters.</p>
+        <p>PepT1 is a high-capacity, low-affinity proton-dependent transporter. It transports an oligopeptide along with one hydrogen ion. Inside the enterocyte,&#x000a0;lysosomes further digest oligopeptides&#x000a0;into&#x000a0;free amino acids. Oligopeptides cross the basolateral membrane&#x000a0;and enter the interstitium as single amino acids.<xref ref-type="bibr" rid="article-145837.r42">[42]</xref>&#x000a0;</p>
+        <p>In contrast, free amino acids in the lumen enter the enterocyte&#x000a0;cytoplasm via sodium-linked transporters in a manner similar to glucose. There are different amino acid transporters&#x000a0;in the brush border, though they have overlapping affinities for the different amino acids.&#x000a0;One example is system B, which co-transports neutral amino acids with sodium ions.&#x000a0;&#x000a0;</p>
+        <p>From&#x000a0;the cytoplasm, single amino acids cross the basolateral membrane&#x000a0;to enter the extracellular space, where they will circulate through the venous portal system, as previously described.<xref ref-type="bibr" rid="article-145837.r43">[43]</xref><xref ref-type="bibr" rid="article-145837.r44">[44]</xref></p>
+        <p>
+<bold>Fat Absorption</bold>
+</p>
+        <p>Lipid breakdown begins early in the gastrointestinal tract as lipase is secreted in the mouth. Lipase&#x000a0;cleaves triglycerides into monoglycerides, then glycerol and free fatty acids. The stomach and pancreas also secrete lipase, so lipid digestion continues through to the small intestine.&#x000a0;</p>
+        <p>Bile from the gallbladder enhances lipase efficiency by emulsifying fats in the terminal duodenum&#x000a0;and jejunum. The final products of digestion aggregate in the lumen to form lipid-dense particles called "micelles."&#x000a0;Fat absorption begins when smaller lipid molecules separate from the micelle, crossing the apical membrane through simple diffusion.<xref ref-type="bibr" rid="article-145837.r45">[45]</xref></p>
+        <p>From&#x000a0;the enterocyte cytoplasm, fatty acids traverse the basolateral membrane&#x000a0;and enter the venous portal system. Meanwhile, monoglycerides assemble in the endoplasmic reticulum to create triglycerides,&#x000a0;which are fundamental chylomicron components. Lipoproteins and long-chain fatty acids fuse with the chylomicrons, which then travel to the basolateral surface, bud off, and enter the lacteals.&#x000a0;</p>
+        <p>Thoracic muscle contraction pushes the lipid-filled lymphatic fluid superiorly until it enters the systemic circulation&#x000a0;via the right subclavian vein.<xref ref-type="bibr" rid="article-145837.r46">[46]</xref>&#x000a0;Upon reaching the tissues, these lipids can be converted and used for&#x000a0;insulation, storage, or hormone synthesis.<xref ref-type="bibr" rid="article-145837.r47">[47]</xref></p>
+        <p>Secretin and&#x000a0;cholecystokinin (CCK) are duodenal hormones that reduce intestinal motility and stimulate&#x000a0;the pancreas and gallbladder to enhance fat digestion.</p>
+        <p>
+<bold>Vitamins and&#x000a0;</bold>
+<bold>Minerals </bold>
+</p>
+        <p>Vitamins A, D, E, and K are fat-soluble.&#x000a0;<xref ref-type="bibr" rid="article-145837.r48">[48]</xref>&#x000a0;As such, they readily dissolve in organic fats and other non-polar solvents. In the small intestine, fat-soluble vitamins&#x000a0;fuse with micelles&#x000a0;and cross the apical membrane via simple diffusion. Once inside the enterocyte, they integrate&#x000a0;with chylomicrons&#x000a0;and enter the systemic circulation from there.</p>
+        <p>Fat-soluble vitamins are absorbed&#x000a0;by adipose tissue, where they can stay for long periods and accumulate. Over time, chronically high intake of these vitamins may cause toxicity.</p>
+        <p>Water-soluble vitamins include thiamine (B1), riboflavin (B2), niacin (B3), pantothenic acid (B5), pyridoxine (B6), biotin (B7), folic acid (B9), cobalamin (B12), and ascorbic acid (C).<xref ref-type="bibr" rid="article-145837.r49">[49]</xref>&#x000a0;Water-soluble vitamins do not simply traverse cellular membranes but are absorbed in the digestive tract through specific carrier-mediated pathways.&#x000a0;After distribution, they are consumed by the tissues for their metabolic needs.</p>
+        <p>When&#x000a0;water-soluble vitamins reach supra-therapeutic levels, the kidney excretes the excess in urine. These&#x000a0;vitamins do not accumulate and are thus&#x000a0;less likely to elicit toxicity than lipid-soluble ones. However, that also means they need frequent dietary replacement.<xref ref-type="bibr" rid="article-145837.r50">[50]</xref></p>
+      </sec>
+      <sec id="article-145837.s8" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>Malabsorption&#x000a0;occurs when the body cannot effectively absorb nutrients. This condition is often the&#x000a0;result of gastrointestinal disease. The most prevalent causes of malabsorption in the United States include pancreatic insufficiency, Celiac disease, and Crohn disease.<xref ref-type="bibr" rid="article-145837.r51">[51]</xref></p>
+        <p>Malabsorptive&#x000a0;conditions impair&#x000a0;either&#x000a0;luminal, mucosal, or post-absorptive gastrointestinal processes. Impairment of the luminal processes&#x000a0;limits mechanical digestion and chemical hydrolysis, which are needed to break food down into absorbable forms.<xref ref-type="bibr" rid="article-145837.r52">[52]</xref>&#x000a0;Mucosal defects reduce nutrient transport across enterocyte membranes. Post-absorptive impairment prevents effective nutrient distribution through the lymphatic and portal systems.&#x000a0;Symptoms vary depending on which nutrient is deficient and the extent of intestinal damage.</p>
+        <p>Surgically shortened intestines reduce nutrient absorption time and can also produce&#x000a0;malabsorption symptoms.<xref ref-type="bibr" rid="article-145837.r53">[53]</xref>&#x000a0;</p>
+        <p>
+<bold>Carbohydrate Malabsorption</bold>
+</p>
+        <p>Undigested&#x000a0;and unabsorbed carbohydrates&#x000a0;move to the large intestine to be fermented by colonic bacteria. Fermentation is accompanied by gas production, which, in excess, can cause&#x000a0;abdominal cramping and bloating.</p>
+        <p>Lactase deficiency impairs the ability to digest lactose-containing food, such as dairy products.<xref ref-type="bibr" rid="article-145837.r54">[54]</xref>&#x000a0;The condition affects nearly 65% of the global population. Patients may have insufficient or structurally defective&#x000a0;lactase in the gut. The colon is burdened with processing the unabsorbed lactose, so symptoms typically include abdominal pain and diarrhea after lactose ingestion.</p>
+        <p>Celiac disease is another&#x000a0;condition&#x000a0;associated with carbohydrate malabsorption. Affected individuals mount an immune reaction to gluten, a substance found in some grain types.&#x000a0;The&#x000a0;brush border becomes blunted as a result of diffuse mucosal injury, reducing the small intestine's absorptive capacity.</p>
+        <p>In pediatric patients, carbohydrate malabsorption&#x000a0;presents with chronic caloric deficiency, weight loss, and growth delay. Malabsorption of other nutrients often co-exists with this condition, so it may be accompanied by other nutritional deficiencies.<xref ref-type="bibr" rid="article-145837.r55">[55]</xref></p>
+        <p>
+<bold>Protein Malabsorption</bold>
+</p>
+        <p>Impaired protein absorption rarely&#x000a0;occurs in isolation and is often a component of global&#x000a0;malabsorptive conditions. Protein deficiency affects various body processes, including the absorption and utilization of other nutrients.</p>
+        <p>For example, protein insufficiency can impair lipoprotein aggregation, which is necessary for lipid and cholesterol metabolism. Hypoalbuminemia reduces the blood's ability to&#x000a0;transport&#x000a0;fat-soluble vitamins, hormones, and medications. The condition simultaneously lowers plasma oncotic pressure, resulting in third spacing and edematous states.<xref ref-type="bibr" rid="article-145837.r56">[56]</xref><xref ref-type="bibr" rid="article-145837.r57">[57]</xref></p>
+        <p>Severe&#x000a0;protein malabsorption can lead to Kwarshiorkor syndrome, characterized by edema&#x000a0;and skin and hair changes. Hepatomegaly and ascites also manifest due to the liver's inability to produce apoproteins. Patients are prone to infections due to impaired&#x000a0;immunoglobulin production.<xref ref-type="bibr" rid="article-145837.r58">[58]</xref>&#x000a0;Longstanding protein deficiency&#x000a0;from any cause can lead to severe complications, even death.<xref ref-type="bibr" rid="article-145837.r59">[59]</xref>&#x000a0;</p>
+        <p>
+<bold>Fat Malabsorption</bold>
+</p>
+        <p>Fat malabsorption is most commonly due to the failure of lipolytic enzymes and bile to interact with the fatty contents of partly digested food. Etiologies include pancreatic exocrine insufficiency, biliary obstruction, post-surgical structural changes (eg, after a Whipple procedure), intestinal mucosal injury, and motility disorders.</p>
+        <p>Pancreatic exocrine insufficiency refers to the pancreas' inability to secrete digestive enzymes, ions, and water.&#x000a0;Intestinal mucosal damage can arise from inflammatory disorders, radiation, and infection.<xref ref-type="bibr" rid="article-145837.r52">[52]</xref></p>
+        <p>Typical&#x000a0;signs of fat malabsorption include loose, bulky, clay-colored stools&#x000a0;that tend to float in water. Patients may also experience weight loss, fatigue, and generalized weakness. Fat-soluble vitamin deficiencies&#x000a0;may likewise develop and present with&#x000a0;bone loss, night blindness, bleeding, and, in rare cases, hemolytic anemia.<xref ref-type="bibr" rid="article-145837.r60">[60]</xref></p>
+        <p>
+<bold>Malnutrition&#x000a0;in Hospitalized Patients and the Critically Ill</bold>
+</p>
+        <p>Nutritional support is essential when managing illnesses in&#x000a0;the hospital setting. Sepsis, shock, malignancy, and many other&#x000a0;critical&#x000a0;conditions may lead to intestinal slowing, anorexia, and hypermetabolic states. Surgical patients about to receive sedation are typically advised to fast for several hours or overnight before their procedure.<xref ref-type="bibr" rid="article-145837.r61">[61]</xref>&#x000a0;Without proper nutritional support, these patients may become vulnerable to malnutrition-associated&#x000a0;conditions&#x000a0;like hyponatremia, starvation ketoacidosis, and refeeding syndrome.</p>
+        <p>To date, evidence showing that&#x000a0;modified hospital diets confer any mortality benefit is insufficient. They may even be too restrictive. However, early feeding and nutritional support are not known to have better outcomes, either.&#x000a0;Additionally, patients who forego enteric feeding for&#x000a0;long periods are&#x000a0;more likely to become dependent on non-enteral modalities of feeding.<xref ref-type="bibr" rid="article-145837.r62">[62]</xref>&#x000a0;</p>
+      </sec>
+      <sec id="article-145837.s9">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=145837&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=145837">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/145837/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=145837">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <floats-group id="article-145837.s10">
+        <fig id="article-145837.image.f1" position="float" orientation="portrait">
+          <caption>
+            <p>Thoracic Lymphatic System. Thoracic venous structures lie closely to thoracic lymphatic structures. Shown here are&#x000a0;the&#x000a0;left innominate vein, internal and external jugular veins, Duct of Cuvier, left cardinal vein, cisterna chyli, left renal vein, retroperitoneal lymph sac, left common iliac vein, external iliac vein, hypogastric vein, posterior lymph sac, postrenal part of inferior vena cava, prerenal part of inferior vena cava, superior vena cava, and jugular lymph sac. Henry Vandyke Carter, Public Domain, via Wikimedia Commons</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Gray592" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <floats-group id="article-145837.s11">
+        <fig id="article-145837.image.f2" position="float" orientation="portrait">
+          <caption>
+            <p>Small Intestinal Villi&#x000a0;Schematic Representation.&#x000a0;Small intestinal villi&#x000a0;with blood and lymphatic vessels. Henry Vandyke Carter, Public Domain, via Wikimedia Commons</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Gray1061" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <ref-list id="article-145837.s12">
+        <title>References</title>
+        <ref id="article-145837.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sensoy</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <article-title>A review on the food digestion in the digestive tract and the used <italic>in vitro</italic> models.</article-title>
+            <source>Curr Res Food Sci</source>
+            <year>2021</year>
+            <volume>4</volume>
+            <fpage>308</fpage>
+            <page-range>308-319</page-range>
+            <pub-id pub-id-type="pmid">34027433</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cheng</surname>
+                <given-names>LK</given-names>
+              </name>
+              <name>
+                <surname>O'Grady</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Du</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Egbuji</surname>
+                <given-names>JU</given-names>
+              </name>
+              <name>
+                <surname>Windsor</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Pullan</surname>
+                <given-names>AJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Gastrointestinal system.</article-title>
+            <source>Wiley Interdiscip Rev Syst Biol Med</source>
+            <year>2010</year>
+            <season>Jan-Feb</season>
+            <volume>2</volume>
+            <issue>1</issue>
+            <fpage>65</fpage>
+            <page-range>65-79</page-range>
+            <pub-id pub-id-type="pmid">20836011</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ahluwalia</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Magnusson</surname>
+                <given-names>MK</given-names>
+              </name>
+              <name>
+                <surname>&#x000d6;hman</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>Mucosal immune system of the gastrointestinal tract: maintaining balance between the good and the bad.</article-title>
+            <source>Scand J Gastroenterol</source>
+            <year>2017</year>
+            <month>Nov</month>
+            <volume>52</volume>
+            <issue>11</issue>
+            <fpage>1185</fpage>
+            <page-range>1185-1193</page-range>
+            <pub-id pub-id-type="pmid">28697651</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mayer</surname>
+                <given-names>EA</given-names>
+              </name>
+              <name>
+                <surname>Nance</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>The Gut-Brain Axis.</article-title>
+            <source>Annu Rev Med</source>
+            <year>2022</year>
+            <month>Jan</month>
+            <day>27</day>
+            <volume>73</volume>
+            <fpage>439</fpage>
+            <page-range>439-453</page-range>
+            <pub-id pub-id-type="pmid">34669431</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ko</surname>
+                <given-names>CW</given-names>
+              </name>
+              <name>
+                <surname>Qu</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Black</surname>
+                <given-names>DD</given-names>
+              </name>
+              <name>
+                <surname>Tso</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Regulation of intestinal lipid metabolism: current concepts and relevance to disease.</article-title>
+            <source>Nat Rev Gastroenterol Hepatol</source>
+            <year>2020</year>
+            <month>Mar</month>
+            <volume>17</volume>
+            <issue>3</issue>
+            <fpage>169</fpage>
+            <page-range>169-183</page-range>
+            <pub-id pub-id-type="pmid">32015520</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gustafsson</surname>
+                <given-names>JK</given-names>
+              </name>
+              <name>
+                <surname>Johansson</surname>
+                <given-names>MEV</given-names>
+              </name>
+            </person-group>
+            <article-title>The role of goblet cells and mucus in intestinal homeostasis.</article-title>
+            <source>Nat Rev Gastroenterol Hepatol</source>
+            <year>2022</year>
+            <month>Dec</month>
+            <volume>19</volume>
+            <issue>12</issue>
+            <fpage>785</fpage>
+            <page-range>785-803</page-range>
+            <pub-id pub-id-type="pmid">36097076</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wang</surname>
+                <given-names>JK</given-names>
+              </name>
+              <name>
+                <surname>Yao</surname>
+                <given-names>SK</given-names>
+              </name>
+            </person-group>
+            <article-title>Roles of Gut Microbiota and Metabolites in Pathogenesis of Functional Constipation.</article-title>
+            <source>Evid Based Complement Alternat Med</source>
+            <year>2021</year>
+            <volume>2021</volume>
+            <fpage>5560310</fpage>
+            <pub-id pub-id-type="pmid">34603471</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gribble</surname>
+                <given-names>FM</given-names>
+              </name>
+              <name>
+                <surname>Reimann</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>Enteroendocrine Cells: Chemosensors in the Intestinal Epithelium.</article-title>
+            <source>Annu Rev Physiol</source>
+            <year>2016</year>
+            <volume>78</volume>
+            <fpage>277</fpage>
+            <page-range>277-99</page-range>
+            <pub-id pub-id-type="pmid">26442437</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r9">
+          <label>9</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Prosapio</surname>
+                <given-names>JG</given-names>
+              </name>
+              <name>
+                <surname>Sankar</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Jialal</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Physiology, Gastrin</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>4</month>
+            <day>6</day>
+            <pub-id pub-id-type="pmid">30521243</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Engevik</surname>
+                <given-names>AC</given-names>
+              </name>
+              <name>
+                <surname>Kaji</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Goldenring</surname>
+                <given-names>JR</given-names>
+              </name>
+            </person-group>
+            <article-title>The Physiology of the Gastric Parietal Cell.</article-title>
+            <source>Physiol Rev</source>
+            <year>2020</year>
+            <month>Apr</month>
+            <day>01</day>
+            <volume>100</volume>
+            <issue>2</issue>
+            <fpage>573</fpage>
+            <page-range>573-602</page-range>
+            <pub-id pub-id-type="pmid">31670611</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r11">
+          <label>11</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Heda</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Toro</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Tombazzi</surname>
+                <given-names>CR</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Physiology, Pepsin</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>5</month>
+            <day>1</day>
+            <pub-id pub-id-type="pmid">30725690</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bevins</surname>
+                <given-names>CL</given-names>
+              </name>
+              <name>
+                <surname>Salzman</surname>
+                <given-names>NH</given-names>
+              </name>
+            </person-group>
+            <article-title>Paneth cells, antimicrobial peptides and maintenance of intestinal homeostasis.</article-title>
+            <source>Nat Rev Microbiol</source>
+            <year>2011</year>
+            <month>May</month>
+            <volume>9</volume>
+            <issue>5</issue>
+            <fpage>356</fpage>
+            <page-range>356-68</page-range>
+            <pub-id pub-id-type="pmid">21423246</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kobayashi</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Takahashi</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Takano</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kimura</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hase</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>The Roles of Peyer's Patches and Microfold Cells in the Gut Immune System: Relevance to Autoimmune Diseases.</article-title>
+            <source>Front Immunol</source>
+            <year>2019</year>
+            <volume>10</volume>
+            <fpage>2345</fpage>
+            <pub-id pub-id-type="pmid">31649668</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hendel</surname>
+                <given-names>SK</given-names>
+              </name>
+              <name>
+                <surname>Kellermann</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Hausmann</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Bindslev</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Jensen</surname>
+                <given-names>KB</given-names>
+              </name>
+              <name>
+                <surname>Nielsen</surname>
+                <given-names>OH</given-names>
+              </name>
+            </person-group>
+            <article-title>Tuft Cells and Their Role in Intestinal Diseases.</article-title>
+            <source>Front Immunol</source>
+            <year>2022</year>
+            <volume>13</volume>
+            <fpage>822867</fpage>
+            <pub-id pub-id-type="pmid">35237268</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gerbe</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Sidot</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Smyth</surname>
+                <given-names>DJ</given-names>
+              </name>
+              <name>
+                <surname>Ohmoto</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Matsumoto</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Dardalhon</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Cesses</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Garnier</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Pouzolles</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Brulin</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Bruschi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Harcus</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Zimmermann</surname>
+                <given-names>VS</given-names>
+              </name>
+              <name>
+                <surname>Taylor</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Maizels</surname>
+                <given-names>RM</given-names>
+              </name>
+              <name>
+                <surname>Jay</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Intestinal epithelial tuft cells initiate type 2 mucosal immunity to helminth parasites.</article-title>
+            <source>Nature</source>
+            <year>2016</year>
+            <month>Jan</month>
+            <day>14</day>
+            <volume>529</volume>
+            <issue>7585</issue>
+            <fpage>226</fpage>
+            <page-range>226-30</page-range>
+            <pub-id pub-id-type="pmid">26762460</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r16">
+          <label>16</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Bhatia</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Shatanof</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Bordoni</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Embryology, Gastrointestinal</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>5</month>
+            <day>1</day>
+            <pub-id pub-id-type="pmid">30725857</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Rubarth</surname>
+                <given-names>LB</given-names>
+              </name>
+              <name>
+                <surname>Van Woudenberg</surname>
+                <given-names>CD</given-names>
+              </name>
+            </person-group>
+            <article-title>Development of the Gastrointestinal System: An Embryonic and Fetal Review.</article-title>
+            <source>Neonatal Netw</source>
+            <year>2016</year>
+            <volume>35</volume>
+            <issue>3</issue>
+            <fpage>156</fpage>
+            <page-range>156-8</page-range>
+            <pub-id pub-id-type="pmid">27194610</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lake</surname>
+                <given-names>JI</given-names>
+              </name>
+              <name>
+                <surname>Heuckeroth</surname>
+                <given-names>RO</given-names>
+              </name>
+            </person-group>
+            <article-title>Enteric nervous system development: migration, differentiation, and disease.</article-title>
+            <source>Am J Physiol Gastrointest Liver Physiol</source>
+            <year>2013</year>
+            <month>Jul</month>
+            <day>01</day>
+            <volume>305</volume>
+            <issue>1</issue>
+            <fpage>G1</fpage>
+            <page-range>G1-24</page-range>
+            <pub-id pub-id-type="pmid">23639815</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yoon</surname>
+                <given-names>KT</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>SS</given-names>
+              </name>
+            </person-group>
+            <article-title>Cirrhotic Cardiomyopathy.</article-title>
+            <source>Curr Gastroenterol Rep</source>
+            <year>2020</year>
+            <month>Jul</month>
+            <day>10</day>
+            <volume>22</volume>
+            <issue>9</issue>
+            <fpage>45</fpage>
+            <pub-id pub-id-type="pmid">32651721</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jung</surname>
+                <given-names>CY</given-names>
+              </name>
+              <name>
+                <surname>Chang</surname>
+                <given-names>JW</given-names>
+              </name>
+            </person-group>
+            <article-title>Hepatorenal syndrome: Current concepts and future perspectives.</article-title>
+            <source>Clin Mol Hepatol</source>
+            <year>2023</year>
+            <month>Oct</month>
+            <volume>29</volume>
+            <issue>4</issue>
+            <fpage>891</fpage>
+            <page-range>891-908</page-range>
+            <pub-id pub-id-type="pmid">37050843</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lips</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>van Schoor</surname>
+                <given-names>NM</given-names>
+              </name>
+            </person-group>
+            <article-title>The effect of vitamin D on bone and osteoporosis.</article-title>
+            <source>Best Pract Res Clin Endocrinol Metab</source>
+            <year>2011</year>
+            <month>Aug</month>
+            <volume>25</volume>
+            <issue>4</issue>
+            <fpage>585</fpage>
+            <page-range>585-91</page-range>
+            <pub-id pub-id-type="pmid">21872800</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Adams</surname>
+                <given-names>EB</given-names>
+              </name>
+              <name>
+                <surname>Scragg</surname>
+                <given-names>JN</given-names>
+              </name>
+              <name>
+                <surname>Naidoo</surname>
+                <given-names>BT</given-names>
+              </name>
+              <name>
+                <surname>Liljestrand</surname>
+                <given-names>SK</given-names>
+              </name>
+              <name>
+                <surname>Cockram</surname>
+                <given-names>VI</given-names>
+              </name>
+            </person-group>
+            <article-title>Observations on the aetiology and treatment of anaemia in kwashiorkor.</article-title>
+            <source>Br Med J</source>
+            <year>1967</year>
+            <month>Aug</month>
+            <day>19</day>
+            <volume>3</volume>
+            <issue>5563</issue>
+            <fpage>451</fpage>
+            <page-range>451-4</page-range>
+            <pub-id pub-id-type="pmid">20791319</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lazaridis</surname>
+                <given-names>KN</given-names>
+              </name>
+              <name>
+                <surname>Frank</surname>
+                <given-names>JW</given-names>
+              </name>
+              <name>
+                <surname>Krowka</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Kamath</surname>
+                <given-names>PS</given-names>
+              </name>
+            </person-group>
+            <article-title>Hepatic hydrothorax: pathogenesis, diagnosis, and management.</article-title>
+            <source>Am J Med</source>
+            <year>1999</year>
+            <month>Sep</month>
+            <volume>107</volume>
+            <issue>3</issue>
+            <fpage>262</fpage>
+            <page-range>262-7</page-range>
+            <pub-id pub-id-type="pmid">10492320</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>G&#x000f6;ke</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Islet cell function: alpha and beta cells--partners towards normoglycaemia.</article-title>
+            <source>Int J Clin Pract Suppl</source>
+            <year>2008</year>
+            <month>Mar</month>
+            <issue>159</issue>
+            <fpage>2</fpage>
+            <page-range>2-7</page-range>
+            <pub-id pub-id-type="pmid">18269435</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hu</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Shen</surname>
+                <given-names>WJ</given-names>
+              </name>
+              <name>
+                <surname>Azhar</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Cellular cholesterol delivery, intracellular processing and utilization for biosynthesis of steroid hormones.</article-title>
+            <source>Nutr Metab (Lond)</source>
+            <year>2010</year>
+            <month>Jun</month>
+            <day>01</day>
+            <volume>7</volume>
+            <fpage>47</fpage>
+            <pub-id pub-id-type="pmid">20515451</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r26">
+          <label>26</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shaw</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Martino</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>The normal swallow: muscular and neurophysiological control.</article-title>
+            <source>Otolaryngol Clin North Am</source>
+            <year>2013</year>
+            <month>Dec</month>
+            <volume>46</volume>
+            <issue>6</issue>
+            <fpage>937</fpage>
+            <page-range>937-56</page-range>
+            <pub-id pub-id-type="pmid">24262952</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r27">
+          <label>27</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Miletich</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <article-title>Introduction to salivary glands: structure, function and embryonic development.</article-title>
+            <source>Front Oral Biol</source>
+            <year>2010</year>
+            <volume>14</volume>
+            <fpage>1</fpage>
+            <page-range>1-20</page-range>
+            <pub-id pub-id-type="pmid">20428008</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r28">
+          <label>28</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Miller</surname>
+                <given-names>AJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Deglutition.</article-title>
+            <source>Physiol Rev</source>
+            <year>1982</year>
+            <month>Jan</month>
+            <volume>62</volume>
+            <issue>1</issue>
+            <fpage>129</fpage>
+            <page-range>129-84</page-range>
+            <pub-id pub-id-type="pmid">7034008</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r29">
+          <label>29</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lang</surname>
+                <given-names>IM</given-names>
+              </name>
+              <name>
+                <surname>Shaker</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>An overview of the upper esophageal sphincter.</article-title>
+            <source>Curr Gastroenterol Rep</source>
+            <year>2000</year>
+            <month>Jun</month>
+            <volume>2</volume>
+            <issue>3</issue>
+            <fpage>185</fpage>
+            <page-range>185-90</page-range>
+            <pub-id pub-id-type="pmid">10957928</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r30">
+          <label>30</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hershcovici</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Mashimo</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Fass</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>The lower esophageal sphincter.</article-title>
+            <source>Neurogastroenterol Motil</source>
+            <year>2011</year>
+            <month>Sep</month>
+            <volume>23</volume>
+            <issue>9</issue>
+            <fpage>819</fpage>
+            <page-range>819-30</page-range>
+            <pub-id pub-id-type="pmid">21711416</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r31">
+          <label>31</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lieber</surname>
+                <given-names>CS</given-names>
+              </name>
+              <name>
+                <surname>Gentry</surname>
+                <given-names>RT</given-names>
+              </name>
+              <name>
+                <surname>Baraona</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>First pass metabolism of ethanol.</article-title>
+            <source>Alcohol Alcohol Suppl</source>
+            <year>1994</year>
+            <volume>2</volume>
+            <fpage>163</fpage>
+            <page-range>163-9</page-range>
+            <pub-id pub-id-type="pmid">8974331</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r32">
+          <label>32</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sarna</surname>
+                <given-names>SK</given-names>
+              </name>
+              <name>
+                <surname>Otterson</surname>
+                <given-names>MF</given-names>
+              </name>
+            </person-group>
+            <article-title>Small intestinal physiology and pathophysiology.</article-title>
+            <source>Gastroenterol Clin North Am</source>
+            <year>1989</year>
+            <month>Jun</month>
+            <volume>18</volume>
+            <issue>2</issue>
+            <fpage>375</fpage>
+            <page-range>375-404</page-range>
+            <pub-id pub-id-type="pmid">2668175</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r33">
+          <label>33</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Volk</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Lacy</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Anatomy and Physiology of the Small Bowel.</article-title>
+            <source>Gastrointest Endosc Clin N Am</source>
+            <year>2017</year>
+            <month>Jan</month>
+            <volume>27</volume>
+            <issue>1</issue>
+            <fpage>1</fpage>
+            <page-range>1-13</page-range>
+            <pub-id pub-id-type="pmid">27908510</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r34">
+          <label>34</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Fish</surname>
+                <given-names>EM</given-names>
+              </name>
+              <name>
+                <surname>Shumway</surname>
+                <given-names>KR</given-names>
+              </name>
+              <name>
+                <surname>Burns</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Physiology, Small Bowel</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2024</year>
+            <month>1</month>
+            <day>31</day>
+            <pub-id pub-id-type="pmid">30335296</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r35">
+          <label>35</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Heitmann</surname>
+                <given-names>PT</given-names>
+              </name>
+              <name>
+                <surname>Vollebregt</surname>
+                <given-names>PF</given-names>
+              </name>
+              <name>
+                <surname>Knowles</surname>
+                <given-names>CH</given-names>
+              </name>
+              <name>
+                <surname>Lunniss</surname>
+                <given-names>PJ</given-names>
+              </name>
+              <name>
+                <surname>Dinning</surname>
+                <given-names>PG</given-names>
+              </name>
+              <name>
+                <surname>Scott</surname>
+                <given-names>SM</given-names>
+              </name>
+            </person-group>
+            <article-title>Understanding the physiology of human defaecation and disorders of continence and evacuation.</article-title>
+            <source>Nat Rev Gastroenterol Hepatol</source>
+            <year>2021</year>
+            <month>Nov</month>
+            <volume>18</volume>
+            <issue>11</issue>
+            <fpage>751</fpage>
+            <page-range>751-769</page-range>
+            <pub-id pub-id-type="pmid">34373626</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r36">
+          <label>36</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Boland</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Human digestion--a processing perspective.</article-title>
+            <source>J Sci Food Agric</source>
+            <year>2016</year>
+            <month>May</month>
+            <volume>96</volume>
+            <issue>7</issue>
+            <fpage>2275</fpage>
+            <page-range>2275-83</page-range>
+            <pub-id pub-id-type="pmid">26711173</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r37">
+          <label>37</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Fung</surname>
+                <given-names>KYY</given-names>
+              </name>
+              <name>
+                <surname>Fairn</surname>
+                <given-names>GD</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>WL</given-names>
+              </name>
+            </person-group>
+            <article-title>Transcellular vesicular transport in epithelial and endothelial cells: Challenges and opportunities.</article-title>
+            <source>Traffic</source>
+            <year>2018</year>
+            <month>Jan</month>
+            <volume>19</volume>
+            <issue>1</issue>
+            <fpage>5</fpage>
+            <page-range>5-18</page-range>
+            <pub-id pub-id-type="pmid">28985008</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r38">
+          <label>38</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dietschy</surname>
+                <given-names>JM</given-names>
+              </name>
+            </person-group>
+            <article-title>Mechanisms for the intestinal absorption of bile acids.</article-title>
+            <source>J Lipid Res</source>
+            <year>1968</year>
+            <month>May</month>
+            <volume>9</volume>
+            <issue>3</issue>
+            <fpage>297</fpage>
+            <page-range>297-309</page-range>
+            <pub-id pub-id-type="pmid">5646181</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r39">
+          <label>39</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Ilahi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>St Lucia</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Ilahi</surname>
+                <given-names>TB</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Anatomy, Thorax, Thoracic Duct</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>7</month>
+            <day>24</day>
+            <pub-id pub-id-type="pmid">30020599</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r40">
+          <label>40</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Koepsell</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Glucose transporters in the small intestine in health and disease.</article-title>
+            <source>Pflugers Arch</source>
+            <year>2020</year>
+            <month>Sep</month>
+            <volume>472</volume>
+            <issue>9</issue>
+            <fpage>1207</fpage>
+            <page-range>1207-1248</page-range>
+            <pub-id pub-id-type="pmid">32829466</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r41">
+          <label>41</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Beaumont</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Blachier</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>Amino Acids in Intestinal Physiology and Health.</article-title>
+            <source>Adv Exp Med Biol</source>
+            <year>2020</year>
+            <volume>1265</volume>
+            <fpage>1</fpage>
+            <page-range>1-20</page-range>
+            <pub-id pub-id-type="pmid">32761567</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r42">
+          <label>42</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wang</surname>
+                <given-names>CY</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Xie</surname>
+                <given-names>XN</given-names>
+              </name>
+              <name>
+                <surname>Tan</surname>
+                <given-names>ZR</given-names>
+              </name>
+            </person-group>
+            <article-title>Regulation profile of the intestinal peptide transporter 1 (PepT1).</article-title>
+            <source>Drug Des Devel Ther</source>
+            <year>2017</year>
+            <volume>11</volume>
+            <fpage>3511</fpage>
+            <page-range>3511-3517</page-range>
+            <pub-id pub-id-type="pmid">29263649</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r43">
+          <label>43</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Br&#x000f6;er</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Fairweather</surname>
+                <given-names>SJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Amino Acid Transport Across the Mammalian Intestine.</article-title>
+            <source>Compr Physiol</source>
+            <year>2018</year>
+            <month>Dec</month>
+            <day>13</day>
+            <volume>9</volume>
+            <issue>1</issue>
+            <fpage>343</fpage>
+            <page-range>343-373</page-range>
+            <pub-id pub-id-type="pmid">30549024</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r44">
+          <label>44</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Webb</surname>
+                <given-names>KE</given-names>
+              </name>
+            </person-group>
+            <article-title>Intestinal absorption of protein hydrolysis products: a review.</article-title>
+            <source>J Anim Sci</source>
+            <year>1990</year>
+            <month>Sep</month>
+            <volume>68</volume>
+            <issue>9</issue>
+            <fpage>3011</fpage>
+            <page-range>3011-22</page-range>
+            <pub-id pub-id-type="pmid">2211428</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r45">
+          <label>45</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Thompson</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Fat absorption and metabolism.</article-title>
+            <source>Gastroenterol Jpn</source>
+            <year>1984</year>
+            <month>Jun</month>
+            <volume>19</volume>
+            <issue>3</issue>
+            <fpage>251</fpage>
+            <page-range>251-9</page-range>
+            <pub-id pub-id-type="pmid">6745602</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r46">
+          <label>46</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Null</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Arbor</surname>
+                <given-names>TC</given-names>
+              </name>
+              <name>
+                <surname>Agarwal</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Anatomy, Lymphatic System</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>3</month>
+            <day>6</day>
+            <pub-id pub-id-type="pmid">30020619</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r47">
+          <label>47</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Iqbal</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Hussain</surname>
+                <given-names>MM</given-names>
+              </name>
+            </person-group>
+            <article-title>Intestinal lipid absorption.</article-title>
+            <source>Am J Physiol Endocrinol Metab</source>
+            <year>2009</year>
+            <month>Jun</month>
+            <volume>296</volume>
+            <issue>6</issue>
+            <fpage>E1183</fpage>
+            <page-range>E1183-94</page-range>
+            <pub-id pub-id-type="pmid">19158321</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r48">
+          <label>48</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Stevens</surname>
+                <given-names>SL</given-names>
+              </name>
+            </person-group>
+            <article-title>Fat-Soluble Vitamins.</article-title>
+            <source>Nurs Clin North Am</source>
+            <year>2021</year>
+            <month>Mar</month>
+            <volume>56</volume>
+            <issue>1</issue>
+            <fpage>33</fpage>
+            <page-range>33-45</page-range>
+            <pub-id pub-id-type="pmid">33549284</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r49">
+          <label>49</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Said</surname>
+                <given-names>HM</given-names>
+              </name>
+              <name>
+                <surname>Mohammed</surname>
+                <given-names>ZM</given-names>
+              </name>
+            </person-group>
+            <article-title>Intestinal absorption of water-soluble vitamins: an update.</article-title>
+            <source>Curr Opin Gastroenterol</source>
+            <year>2006</year>
+            <month>Mar</month>
+            <volume>22</volume>
+            <issue>2</issue>
+            <fpage>140</fpage>
+            <page-range>140-6</page-range>
+            <pub-id pub-id-type="pmid">16462170</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r50">
+          <label>50</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Said</surname>
+                <given-names>HM</given-names>
+              </name>
+            </person-group>
+            <article-title>Intestinal absorption of water-soluble vitamins in health and disease.</article-title>
+            <source>Biochem J</source>
+            <year>2011</year>
+            <month>Aug</month>
+            <day>01</day>
+            <volume>437</volume>
+            <issue>3</issue>
+            <fpage>357</fpage>
+            <page-range>357-72</page-range>
+            <pub-id pub-id-type="pmid">21749321</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r51">
+          <label>51</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jonathan Medernach</surname>
+              </name>
+              <name>
+                <surname>Middleton</surname>
+                <given-names>JP</given-names>
+              </name>
+            </person-group>
+            <article-title>Malabsorption Syndromes and Food Intolerance.</article-title>
+            <source>Clin Perinatol</source>
+            <year>2022</year>
+            <month>Jun</month>
+            <volume>49</volume>
+            <issue>2</issue>
+            <fpage>537</fpage>
+            <page-range>537-555</page-range>
+            <pub-id pub-id-type="pmid">35659102</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r52">
+          <label>52</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Olivecrona</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Hernell</surname>
+                <given-names>O</given-names>
+              </name>
+            </person-group>
+            <article-title>Fat digestion.</article-title>
+            <source>Bibl Nutr Dieta</source>
+            <year>1975</year>
+            <issue>22</issue>
+            <fpage>50</fpage>
+            <page-range>50-60</page-range>
+            <pub-id pub-id-type="pmid">1095011</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r53">
+          <label>53</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Massironi</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Cavalcoli</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Rausa</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Invernizzi</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Braga</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Vecchi</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Understanding short bowel syndrome: Current status and future perspectives.</article-title>
+            <source>Dig Liver Dis</source>
+            <year>2020</year>
+            <month>Mar</month>
+            <volume>52</volume>
+            <issue>3</issue>
+            <fpage>253</fpage>
+            <page-range>253-261</page-range>
+            <pub-id pub-id-type="pmid">31892505</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r54">
+          <label>54</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Deng</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Misselwitz</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Dai</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Fox</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Lactose Intolerance in Adults: Biological Mechanism and Dietary Management.</article-title>
+            <source>Nutrients</source>
+            <year>2015</year>
+            <month>Sep</month>
+            <day>18</day>
+            <volume>7</volume>
+            <issue>9</issue>
+            <fpage>8020</fpage>
+            <page-range>8020-35</page-range>
+            <pub-id pub-id-type="pmid">26393648</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r55">
+          <label>55</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Zuvarox</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Belletieri</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Malabsorption Syndromes</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>7</month>
+            <day>24</day>
+            <pub-id pub-id-type="pmid">31971746</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r56">
+          <label>56</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Coulthard</surname>
+                <given-names>MG</given-names>
+              </name>
+            </person-group>
+            <article-title>Oedema in kwashiorkor is caused by hypoalbuminaemia.</article-title>
+            <source>Paediatr Int Child Health</source>
+            <year>2015</year>
+            <month>May</month>
+            <volume>35</volume>
+            <issue>2</issue>
+            <fpage>83</fpage>
+            <page-range>83-9</page-range>
+            <pub-id pub-id-type="pmid">25223408</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r57">
+          <label>57</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Grover</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Ee</surname>
+                <given-names>LC</given-names>
+              </name>
+            </person-group>
+            <article-title>Protein energy malnutrition.</article-title>
+            <source>Pediatr Clin North Am</source>
+            <year>2009</year>
+            <month>Oct</month>
+            <volume>56</volume>
+            <issue>5</issue>
+            <fpage>1055</fpage>
+            <page-range>1055-68</page-range>
+            <pub-id pub-id-type="pmid">19931063</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r58">
+          <label>58</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Michael</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Amimo</surname>
+                <given-names>JO</given-names>
+              </name>
+              <name>
+                <surname>Rajashekara</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Saif</surname>
+                <given-names>LJ</given-names>
+              </name>
+              <name>
+                <surname>Vlasova</surname>
+                <given-names>AN</given-names>
+              </name>
+            </person-group>
+            <article-title>Mechanisms of Kwashiorkor-Associated Immune Suppression: Insights From Human, Mouse, and Pig Studies.</article-title>
+            <source>Front Immunol</source>
+            <year>2022</year>
+            <volume>13</volume>
+            <fpage>826268</fpage>
+            <pub-id pub-id-type="pmid">35585989</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r59">
+          <label>59</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jahoor</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Badaloo</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Reid</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Forrester</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Protein metabolism in severe childhood malnutrition.</article-title>
+            <source>Ann Trop Paediatr</source>
+            <year>2008</year>
+            <month>Jun</month>
+            <volume>28</volume>
+            <issue>2</issue>
+            <fpage>87</fpage>
+            <page-range>87-101</page-range>
+            <pub-id pub-id-type="pmid">18510818</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r60">
+          <label>60</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Morris</surname>
+                <given-names>AL</given-names>
+              </name>
+              <name>
+                <surname>Mohiuddin</surname>
+                <given-names>SS</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Biochemistry, Nutrients</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>5</month>
+            <day>1</day>
+            <pub-id pub-id-type="pmid">32119432</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r61">
+          <label>61</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kirkland</surname>
+                <given-names>LL</given-names>
+              </name>
+              <name>
+                <surname>Kashiwagi</surname>
+                <given-names>DT</given-names>
+              </name>
+              <name>
+                <surname>Brantley</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Scheurer</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Varkey</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Nutrition in the hospitalized patient.</article-title>
+            <source>J Hosp Med</source>
+            <year>2013</year>
+            <month>Jan</month>
+            <volume>8</volume>
+            <issue>1</issue>
+            <fpage>52</fpage>
+            <page-range>52-8</page-range>
+            <pub-id pub-id-type="pmid">23065968</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145837.r62">
+          <label>62</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Khalid</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Doshi</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>DiGiovine</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Early enteral nutrition and outcomes of critically ill patients treated with vasopressors and mechanical ventilation.</article-title>
+            <source>Am J Crit Care</source>
+            <year>2010</year>
+            <month>May</month>
+            <volume>19</volume>
+            <issue>3</issue>
+            <fpage>261</fpage>
+            <page-range>261-8</page-range>
+            <pub-id pub-id-type="pmid">20436064</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-26953" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Pericardiocentesis</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Willner</surname>
+            <given-names>Daniel A.</given-names>
+          </name>
+          <aff>Beth Israel Deaconess Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Grossman</surname>
+            <given-names>Shamai A.</given-names>
+          </name>
+          <aff>HVD Med Sch</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Daniel Willner declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Shamai Grossman declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>19</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-26953.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Pericardiocentesis is a procedure performed to remove excess fluid from the pericardial sac that surrounds the myocardium. The procedure is frequently performed in cardiac tamponade to correct hypotension caused by a decreased stroke volume resulting from extrinsic compression of the heart chambers by the excess fluid in the pericardial space. To reduce the risk of procedural complications, pericardiocentesis may be performed using one of several approaches, with or without real-time imaging adjuncts such as transthoracic echocardiography or fluoroscopy. The procedure may be performed at the bedside or in the cardiac catheterization lab. This activity reviews the indications, contraindications, and techniques for performing pericardiocentesis and highlights the importance of interprofessional team management of patients with acute or chronic pericardial effusion who undergo pericardiocentesis.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Identify patients with acute or chronic pericardial effusion who may benefit from pericardiocentesis.</p></list-item><list-item><p>Apply best practices when performing pericardiocentesis with and without real-time imaging guidance.</p></list-item><list-item><p>Recognize and efficiently manage the potential complications of pericardiocentesis.</p></list-item><list-item><p>Collaborate with the interprofessional team to provide adequate care and appropriate surveillance of patients undergoing pericardiocentesis.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=26953&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=26953">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-26953.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Pericardiocentesis is a procedure performed to remove pericardial fluid from the pericardial sac. It is often performed in the setting of cardiac tamponade to correct hypotension due to decreased stroke volume from extrinsic compression of the heart chambers.<xref ref-type="bibr" rid="article-26953.r1">[1]</xref>&#x000a0;It can also be performed in elective settings to remove excess pericardial fluid accumulated due to various pathological processes. Symptomatic pericardial&#x000a0;effusions are seen in various infectious processes, malignancies, and autoimmune diseases, after myocardial infarction or radiation therapy, as a response to certain drugs, toxins, and chemotherapeutic agents, and in metabolic derangements such as uremia. The etiology and temporal characteristics of pericardial effusion will determine the approach to pericardiocentesis.&#x000a0;</p>
+        <p>Pericardiocentesis may be performed via several approaches. The procedure may be performed blind or using real-time imaging adjuncts such as transthoracic echocardiography (TTE) or fluoroscopy to reduce the risk of procedural complications.<xref ref-type="bibr" rid="article-26953.r2">[2]</xref>&#x000a0;Pericardiocentesis may be performed at the bedside or in the cardiac catheterization lab. The decision on where to perform the procedure and what adjuncts to use is based on the stability of the patient, the comfort of the operator, and the availability of imaging adjuncts.<xref ref-type="bibr" rid="article-26953.r1">[1]</xref></p>
+      </sec>
+      <sec id="article-26953.s3" sec-type="Anatomy and Physiology">
+        <title>Anatomy and Physiology</title>
+        <p>The pericardium is a fibroelastic enclosure of the heart that usually contains approximately 50 mL of pericardial fluid.&#x000a0;Pericardial fluid is essentially filtered plasma that drains to nearby lymph nodes. The phrenic nerve innervates the pericardium. A pericardial effusion represents an increased amount of physiologic pericardial fluid.&#x000a0;</p>
+        <p>The pericardium can stretch to accommodate increased amounts of pericardial fluid, but the rapidity of fluid accumulation determines the ability of the pericardium to&#x000a0;adapt to the increased volume. If the fluid accumulates slowly, the pericardium will expand and adapt; in these circumstances, patients can maintain normal physiologic mechanisms even in the setting of large accumulated volumes. However, if the effusion occurs acutely, as in the setting of trauma or rupture of the ventricular wall, the pericardium cannot adapt, and physiologic decompensation occurs rapidly.</p>
+        <p>Specific disease processes do not result in the accumulation of pericardial fluid but rather fibrosis and scarring of the fibroelastic pericardial sac, resulting in a loss of elasticity and constriction.</p>
+        <p>Pericardiocentesis can result in iatrogenic injury to nearby critical structures such as the right main and left anterior descending coronary arteries, lungs, and diaphragm. These risks are reduced but not eliminated by performing the procedure with guided imaging.</p>
+      </sec>
+      <sec id="article-26953.s4" sec-type="Indications">
+        <title>Indications</title>
+        <p>Blunt and penetrating traumatic injuries may cause an accumulation of blood in the pericardial space, termed hemopericardium, leading to cardiac tamponade. Penetrating trauma to the region of the anterior chest delineated superiorly by the clavicles, inferiorly by the costal margin, and laterally by the nipple line, an area known as "the box," from projectiles or sharp-tipped objects has the potential to injure any of the structures in the area and cause cardiac tamponade.<xref ref-type="bibr" rid="article-26953.r3">[3]</xref>&#x000a0;Pericardiocentesis is indicated in patients with blunt or penetrating trauma who are hemodynamically unstable, are in cardiac arrest, or have&#x000a0;evidence of pericardial effusion on the Focused Assessment with Sonography for Trauma (FAST) exam and hypotension without another clear etiology.<xref ref-type="bibr" rid="article-26953.r4">[4]</xref>&#x000a0;</p>
+        <p>Posttraumatic pericardiocentesis is usually performed emergently at the bedside as a temporizing measure to stabilize the patient and facilitate transfer to the operating room where definitive treatment, such as the creation of a pericardial window or thoracotomy and surgical pericardiotomy, can be performed. If the pericardiocentesis is unsuccessful, a bedside thoracotomy can be performed to allow for pericardiotomy and drainage of pericardial tamponade.<xref ref-type="bibr" rid="article-26953.r5">[5]</xref></p>
+        <p>Pericardiocentesis may also be indicated for patients with a gradual-onset pericardial effusion. The patient with such an effusion may be only mildly symptomatic, if at all. These effusions may be identified during imaging studies such as plain radiography, computed tomography, or echocardiography. In such instances, the pericardiocentesis may be diagnostic, therapeutic, or both. Pericardiocentesis is frequently performed under fluoroscopic or echocardiographic guidance in these controlled circumstances.</p>
+      </sec>
+      <sec id="article-26953.s5" sec-type="Contraindications">
+        <title>Contraindications</title>
+        <p>There are no absolute contraindications to pericardiocentesis in an unstable patient. Removing&#x000a0;even a small amount of pericardial fluid in an unstable patient with true tamponade can rapidly improve hemodynamics.</p>
+        <p>Relative contraindications to pericardiocentesis include uncorrected coagulopathy, low platelet count, and lack of knowledge about the anatomy of the chest.<xref ref-type="bibr" rid="article-26953.r6">[6]</xref>&#x000a0;The clinician should be entirely certain that an emergency procedure is necessary, as patient outcomes are superior if the patient can be transported to a cardiac catheterization lab or operating room for definitive care. Emergent pericardiocentesis at the bedside is generally considered only a temporizing measure.</p>
+      </sec>
+      <sec id="article-26953.s6" sec-type="Equipment">
+        <title>Equipment</title>
+        <p>Pericardiocentesis should ideally be&#x000a0;performed in the operating room or intensive care unit, where the patient can be continuously&#x000a0;monitored. The operator will require an ultrasound machine or fluoroscopy to use imaging guidance.&#x000a0;Additionally, the clinician should prepare&#x000a0;sterile drapes, local anesthetic, syringes, needles, a scalpel, and a pericardiocentesis kit. The typical setup includes an 18-gauge spinal needle and a syringe with a volume of &#x02265;50 mL. Operators should be prepared to place a pericardial drain; drainage is often required, even if the initial needle aspiration leads to significant clinical improvement.&#x000a0;</p>
+        <p>Place the patient supine with the head of the bed slightly elevated. The patient&#x000a0;should be on continuous electrocardiographic monitoring, have intravenous access, and receive supplemental oxygen. The placement of a&#x000a0;nasogastric tube to decompress the stomach and lower the risk of gastric perforation may be considered if time permits.&#x000a0;</p>
+        <p>The procedure should be performed under echocardiographic guidance, including point-of-care or bedside ultrasound, when possible. Ultrasound facilitates more accurate needle positioning and may prevent complications. Continuous electrocardiographic monitoring will indicate when the needle contacts the epicardium&#x000a0;and can prevent iatrogenic puncture of the ventricular wall. ST- and PR-segment elevation may be seen if the needle contacts the cardiac chambers.<xref ref-type="bibr" rid="article-26953.r7">[7]</xref>&#x000a0;</p>
+      </sec>
+      <sec id="article-26953.s7" sec-type="Personnel">
+        <title>Personnel</title>
+        <p>Pericardiocentesis should only be performed by&#x000a0;clinicians&#x000a0;familiar with the anatomy of the heart and prior experience with the procedure. Initial training for novice clinicians can utilize simulation lab settings.<xref ref-type="bibr" rid="article-26953.r8">[8]</xref> This is not a learning procedure as it can potentially cause serious injury to the heart.</p>
+        <p>The procedure should follow strict aseptic rules using personnel from the operating room or cardiac catheterization laboratory. Emergent pericardiocentesis may be performed in an emergency department or trauma resuscitation room if the patient cannot tolerate a delay in care to transport to a more definitive site.&#x000a0;</p>
+      </sec>
+      <sec id="article-26953.s8" sec-type="Preparation">
+        <title>Preparation</title>
+        <p>Pericardiocentesis is performed as a therapeutic or diagnostic procedure. Pericardiocentesis is indicated when an acute or chronic pericardial effusion causes clinically significant symptoms, often overt cardiac tamponade. Pericardiocentesis may also be indicated for acute or chronic pericardial effusions without tamponade.<xref ref-type="bibr" rid="article-26953.r9">[9]</xref>&#x000a0;Such indications may include obtaining pericardial fluid for laboratory analysis to determine the etiology of an effusion, palliation of symptoms including dyspnea or edema, or to prevent the progression of the effusion to frank&#x000a0;tamponade, which is an emergent situation.<xref ref-type="bibr" rid="article-26953.r9">[9]</xref></p>
+        <p>In the acute setting, as little as 100 to 150&#x000a0;mL of pericardial fluid can cause cardiac tamponade; in chronic pericardial effusions, as much as 1 to 2&#x000a0;L of pericardial fluid may slowly accumulate. If the pericardium has adequate time to adjust to the increasing volume, decompensation may not occur. Removing large volumes of fluid can cause paradoxical physiologic decompensation.&#x000a0;The rapidity of fluid drainage can impact the likelihood of occurrence.&#x000a0;</p>
+        <p>Pericardiocentesis can be performed in the emergency department or at the bedside of an inpatient in the same manner as for traumatic pericardial tamponade; the patient may&#x000a0;benefit from initial intravenous fluid resuscitation and&#x000a0;transfer&#x000a0;to the cardiac catheterization lab.<xref ref-type="bibr" rid="article-26953.r10">[10]</xref>&#x000a0;A transfer&#x000a0;allows for TTE or fluoroscopic guidance and monitoring of right-sided heart pressures.</p>
+      </sec>
+      <sec id="article-26953.s9" sec-type="Technique or Treatment">
+        <title>Technique or Treatment</title>
+        <p>Anatomical approaches to pericardiocentesis include needle insertion via either the subxiphoid or anterior chest.<xref ref-type="bibr" rid="article-26953.r11">[11]</xref>&#x000a0;Guidance via ultrasound or fluoroscopy may be used with either approach. The area is prepped and draped in the usual sterile fashion, and a&#x000a0;20-gauge or larger&#x000a0;needle of sufficient length is inserted through the skin and into the pericardial sac.</p>
+        <p>If the pericardiocentesis is being performed with the benefit of imaging guidance and fluid is not encountered on the first pass, the needle is withdrawn to the skin and adjusted as deemed appropriate by the operator, moving sequentially across the anticipated position of the heart and pericardial sac until fluid is encountered.<xref ref-type="bibr" rid="article-26953.r11">[11]</xref>&#x000a0;</p>
+        <p>When reaccumulation of pericardial fluid is expected, a pericardial drain may be placed to facilitate serial drainage. After temporization with emergent pericardiocentesis, patients will likely require definitive surgical treatment.&#x000a0;</p>
+      </sec>
+      <sec id="article-26953.s10" sec-type="Complications">
+        <title>Complications</title>
+        <p>Complications of pericardiocentesis include injury to the myocardium with the potential for hemorrhage into the pericardium&#x000a0;leading to iatrogenic cardiac tamponade. Aberrant needle placement may also injure the great vessels, coronary arteries, liver or abdominal viscera, or pneumothorax.<xref ref-type="bibr" rid="article-26953.r12">[12]</xref> The phrenic nerve runs through the pericardium and can be damaged during the procedure.&#x000a0;Other complications include arrhythmia and infection.<xref ref-type="bibr" rid="article-26953.r1">[1]</xref>&#x000a0;</p>
+        <p>The acute decompression of the pericardial sac via pericardiocentesis can result in vasovagal bradycardia in up to&#x000a0;25% of patients; clinicians must be aware of and prepared for this potential complication.<xref ref-type="bibr" rid="article-26953.r13">[13]</xref>&#x000a0;Additionally, acute cardiac decompression syndrome, characterized by hemodynamic decompensation and pulmonary edema, can occur; the syndrome is most likely to appear when large volumes of pericardial fluid are rapidly drained.<xref ref-type="bibr" rid="article-26953.r14">[14]</xref></p>
+      </sec>
+      <sec id="article-26953.s11" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>Pericardiocentesis is a potentially life-saving procedure. Failure to recognize decompensation in a critical patient and perform the procedure when indicated will result in cardiac tamponade and death.<xref ref-type="bibr" rid="article-26953.r15">[15]</xref>&#x000a0;</p>
+        <p>Several methods have been used to differentiate pericardial fluid from blood in a cardiac chamber. No method is perfect, and one must use clinical judgment. It is generally accepted that fluid from a cardiac chamber will form a clot, while pericardial fluid does not clot. The pericardial fluid should have a lower hematocrit or hemoglobin level than&#x000a0;chamber&#x000a0;blood. If an intracardiac injection of fluorescein is performed, the fluorescein may be seen in the conjunctivae.</p>
+        <p>If the needle enters the heart chamber, the needle should be removed and the patient closely observed. In most cases, there will be no leakage of blood into the pericardial space.<xref ref-type="bibr" rid="article-26953.r16">[16]</xref> However, if blood begins to accumulate in the pericardial space, a cardiac surgeon should be notified immediately. The clinician should also consider the placement of a drain for continued fluid accumulation, which is necessary in most cases.&#x000a0;</p>
+        <p>The etiology of the effusion dictates the subsequent care of the patient. Clinicians should treat the underlying causes of the effusion and any other relevant comorbidities.</p>
+      </sec>
+      <sec id="article-26953.s12" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>As aforementioned, pericardiocentesis is a potentially life-saving procedure usually performed by a cardiologist, emergency department provider, cardiac surgeon, or radiologist. The other healthcare team members can assist with pain control, volume resuscitation, and monitoring. Before&#x000a0;an elective procedure, the patient&#x000a0;should provide informed consent based on understanding the risks and benefits. All patients should&#x000a0;be appropriately positioned and monitored&#x000a0;during and after the procedure. While the procedure is frequently done under local anesthesia, the other team members may&#x000a0;provide reassurance and comfort to the patient while at the same time monitoring the vital signs. After the procedure, patients should be closely monitored with minimal activity for 12 to 24 hours. If a pericardial drain is placed, the clinical staff should record the drainage every shift.<xref ref-type="bibr" rid="article-26953.r1">[1]</xref>&#x000a0;</p>
+        <p>When performed by experienced providers, pericardiocentesis&#x000a0;generally leads to favorable&#x000a0;outcomes, but complications occur in 5% or more cases.<xref ref-type="bibr" rid="article-26953.r12">[12]</xref> Most complications present early and&#x000a0;require&#x000a0;immediate attention. Using ultrasound or other imaging modalities is highly recommended to lower the risk of complications.<xref ref-type="bibr" rid="article-26953.r17">[17]</xref><xref ref-type="bibr" rid="article-26953.r18">[18]</xref>&#x000a0;Providers&#x000a0;performing pericardiocentesis should be in or have access to direct contact with cardiothoracic surgical specialists who are ideally in the same facility.</p>
+      </sec>
+      <sec id="article-26953.s13">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=26953&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=26953">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/26953/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=26953">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-26953.s14">
+        <title>References</title>
+        <ref id="article-26953.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Alerhand</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Adrian</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Long</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Avila</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Pericardial tamponade: A comprehensive emergency medicine and echocardiography review.</article-title>
+            <source>Am J Emerg Med</source>
+            <year>2022</year>
+            <month>Aug</month>
+            <volume>58</volume>
+            <fpage>159</fpage>
+            <page-range>159-174</page-range>
+            <pub-id pub-id-type="pmid">35696801</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26953.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Flint</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Siegel</surname>
+                <given-names>RJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Echo-Guided Pericardiocentesis: When and How Should It Be Performed?</article-title>
+            <source>Curr Cardiol Rep</source>
+            <year>2020</year>
+            <month>Jun</month>
+            <day>22</day>
+            <volume>22</volume>
+            <issue>8</issue>
+            <fpage>71</fpage>
+            <pub-id pub-id-type="pmid">32572594</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26953.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Truesdell</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Gore</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Primakov</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Lieberman</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Jankowska</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Joshi</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Goyal</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Ballistic and Penetrating Injuries of the Chest.</article-title>
+            <source>J Thorac Imaging</source>
+            <year>2020</year>
+            <month>Mar</month>
+            <volume>35</volume>
+            <issue>2</issue>
+            <fpage>W51</fpage>
+            <page-range>W51-W59</page-range>
+            <pub-id pub-id-type="pmid">31584478</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26953.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sinnaeve</surname>
+                <given-names>PR</given-names>
+              </name>
+              <name>
+                <surname>Adriaenssens</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>A contemporary look at pericardiocentesis.</article-title>
+            <source>Trends Cardiovasc Med</source>
+            <year>2019</year>
+            <month>Oct</month>
+            <volume>29</volume>
+            <issue>7</issue>
+            <fpage>375</fpage>
+            <page-range>375-383</page-range>
+            <pub-id pub-id-type="pmid">30482483</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26953.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Boddaert</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Hornez</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>De Lesquen</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Avramenko</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Grand</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>MacBride</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Avaro</surname>
+                <given-names>JP</given-names>
+              </name>
+            </person-group>
+            <article-title>Resuscitation thoracotomy.</article-title>
+            <source>J Visc Surg</source>
+            <year>2017</year>
+            <month>Dec</month>
+            <volume>154 Suppl 1</volume>
+            <fpage>S35</fpage>
+            <page-range>S35-S41</page-range>
+            <pub-id pub-id-type="pmid">28941568</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26953.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ryu</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Kane</surname>
+                <given-names>GC</given-names>
+              </name>
+              <name>
+                <surname>Pislaru</surname>
+                <given-names>SV</given-names>
+              </name>
+              <name>
+                <surname>Lekhakul</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Geske</surname>
+                <given-names>JB</given-names>
+              </name>
+              <name>
+                <surname>Luis</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>Michelena</surname>
+                <given-names>HI</given-names>
+              </name>
+              <name>
+                <surname>Nkomo</surname>
+                <given-names>VT</given-names>
+              </name>
+              <name>
+                <surname>Thaden</surname>
+                <given-names>JJ</given-names>
+              </name>
+              <name>
+                <surname>Sinak</surname>
+                <given-names>LJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Bleeding Complications of Ultrasound-Guided Pericardiocentesis in the Presence of Coagulopathy or Thrombocytopenia.</article-title>
+            <source>J Am Soc Echocardiogr</source>
+            <year>2020</year>
+            <month>Mar</month>
+            <volume>33</volume>
+            <issue>3</issue>
+            <fpage>399</fpage>
+            <page-range>399-401</page-range>
+            <pub-id pub-id-type="pmid">31959530</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26953.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kerber</surname>
+                <given-names>RE</given-names>
+              </name>
+              <name>
+                <surname>Ridges</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Harrison</surname>
+                <given-names>DC</given-names>
+              </name>
+            </person-group>
+            <article-title>Electrocardiographic indications of atrial puncture during pericardiocentesis.</article-title>
+            <source>N Engl J Med</source>
+            <year>1970</year>
+            <month>May</month>
+            <day>14</day>
+            <volume>282</volume>
+            <issue>20</issue>
+            <fpage>1142</fpage>
+            <page-range>1142-3</page-range>
+            <pub-id pub-id-type="pmid">5439411</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26953.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lin</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Soh</surname>
+                <given-names>CHW</given-names>
+              </name>
+              <name>
+                <surname>Chua</surname>
+                <given-names>MT</given-names>
+              </name>
+              <name>
+                <surname>Lin</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ho</surname>
+                <given-names>CJY</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>JYH</given-names>
+              </name>
+              <name>
+                <surname>Shen</surname>
+                <given-names>FYT</given-names>
+              </name>
+              <name>
+                <surname>Yau</surname>
+                <given-names>YW</given-names>
+              </name>
+              <name>
+                <surname>Kuan</surname>
+                <given-names>WS</given-names>
+              </name>
+            </person-group>
+            <article-title>Comparison of Reusable Models in Pericardiocentesis Simulation Training.</article-title>
+            <source>Ann Acad Med Singap</source>
+            <year>2020</year>
+            <month>Dec</month>
+            <volume>49</volume>
+            <issue>12</issue>
+            <fpage>971</fpage>
+            <page-range>971-977</page-range>
+            <pub-id pub-id-type="pmid">33463655</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26953.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Vakamudi</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Ho</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Cremer</surname>
+                <given-names>PC</given-names>
+              </name>
+            </person-group>
+            <article-title>Pericardial Effusions: Causes, Diagnosis, and Management.</article-title>
+            <source>Prog Cardiovasc Dis</source>
+            <year>2017</year>
+            <season>Jan-Feb</season>
+            <volume>59</volume>
+            <issue>4</issue>
+            <fpage>380</fpage>
+            <page-range>380-388</page-range>
+            <pub-id pub-id-type="pmid">28062268</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26953.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hoit</surname>
+                <given-names>BD</given-names>
+              </name>
+            </person-group>
+            <article-title>Pericardial Effusion and Cardiac Tamponade in the New Millennium.</article-title>
+            <source>Curr Cardiol Rep</source>
+            <year>2017</year>
+            <month>Jul</month>
+            <volume>19</volume>
+            <issue>7</issue>
+            <fpage>57</fpage>
+            <pub-id pub-id-type="pmid">28493085</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26953.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Loukas</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Walters</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Boon</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Welch</surname>
+                <given-names>TP</given-names>
+              </name>
+              <name>
+                <surname>Meiring</surname>
+                <given-names>JH</given-names>
+              </name>
+              <name>
+                <surname>Abrahams</surname>
+                <given-names>PH</given-names>
+              </name>
+            </person-group>
+            <article-title>Pericardiocentesis: a clinical anatomy review.</article-title>
+            <source>Clin Anat</source>
+            <year>2012</year>
+            <month>Oct</month>
+            <volume>25</volume>
+            <issue>7</issue>
+            <fpage>872</fpage>
+            <page-range>872-81</page-range>
+            <pub-id pub-id-type="pmid">22294431</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26953.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tsang</surname>
+                <given-names>TS</given-names>
+              </name>
+              <name>
+                <surname>Enriquez-Sarano</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Freeman</surname>
+                <given-names>WK</given-names>
+              </name>
+              <name>
+                <surname>Barnes</surname>
+                <given-names>ME</given-names>
+              </name>
+              <name>
+                <surname>Sinak</surname>
+                <given-names>LJ</given-names>
+              </name>
+              <name>
+                <surname>Gersh</surname>
+                <given-names>BJ</given-names>
+              </name>
+              <name>
+                <surname>Bailey</surname>
+                <given-names>KR</given-names>
+              </name>
+              <name>
+                <surname>Seward</surname>
+                <given-names>JB</given-names>
+              </name>
+            </person-group>
+            <article-title>Consecutive 1127 therapeutic echocardiographically guided pericardiocenteses: clinical profile, practice patterns, and outcomes spanning 21 years.</article-title>
+            <source>Mayo Clin Proc</source>
+            <year>2002</year>
+            <month>May</month>
+            <volume>77</volume>
+            <issue>5</issue>
+            <fpage>429</fpage>
+            <page-range>429-36</page-range>
+            <pub-id pub-id-type="pmid">12004992</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26953.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lindenberger</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Kjellberg</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Karlsson</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Wranne</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Pericardiocentesis guided by 2-D echocardiography: the method of choice for treatment of pericardial effusion.</article-title>
+            <source>J Intern Med</source>
+            <year>2003</year>
+            <month>Apr</month>
+            <volume>253</volume>
+            <issue>4</issue>
+            <fpage>411</fpage>
+            <page-range>411-7</page-range>
+            <pub-id pub-id-type="pmid">12653869</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26953.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pradhan</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Okabe</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Yoshida</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Angouras</surname>
+                <given-names>DC</given-names>
+              </name>
+              <name>
+                <surname>DeCaro</surname>
+                <given-names>MV</given-names>
+              </name>
+              <name>
+                <surname>Marhefka</surname>
+                <given-names>GD</given-names>
+              </name>
+            </person-group>
+            <article-title>Patient characteristics and predictors of mortality associated with pericardial decompression syndrome: a comprehensive analysis of published cases.</article-title>
+            <source>Eur Heart J Acute Cardiovasc Care</source>
+            <year>2015</year>
+            <month>Apr</month>
+            <volume>4</volume>
+            <issue>2</issue>
+            <fpage>113</fpage>
+            <page-range>113-20</page-range>
+            <pub-id pub-id-type="pmid">25178691</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26953.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Roy</surname>
+                <given-names>CL</given-names>
+              </name>
+              <name>
+                <surname>Minor</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Brookhart</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Choudhry</surname>
+                <given-names>NK</given-names>
+              </name>
+            </person-group>
+            <article-title>Does this patient with a pericardial effusion have cardiac tamponade?</article-title>
+            <source>JAMA</source>
+            <year>2007</year>
+            <month>Apr</month>
+            <day>25</day>
+            <volume>297</volume>
+            <issue>16</issue>
+            <fpage>1810</fpage>
+            <page-range>1810-8</page-range>
+            <pub-id pub-id-type="pmid">17456823</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26953.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tsang</surname>
+                <given-names>TS</given-names>
+              </name>
+              <name>
+                <surname>Freeman</surname>
+                <given-names>WK</given-names>
+              </name>
+              <name>
+                <surname>Barnes</surname>
+                <given-names>ME</given-names>
+              </name>
+              <name>
+                <surname>Reeder</surname>
+                <given-names>GS</given-names>
+              </name>
+              <name>
+                <surname>Packer</surname>
+                <given-names>DL</given-names>
+              </name>
+              <name>
+                <surname>Seward</surname>
+                <given-names>JB</given-names>
+              </name>
+            </person-group>
+            <article-title>Rescue echocardiographically guided pericardiocentesis for cardiac perforation complicating catheter-based procedures. The Mayo Clinic experience.</article-title>
+            <source>J Am Coll Cardiol</source>
+            <year>1998</year>
+            <month>Nov</month>
+            <volume>32</volume>
+            <issue>5</issue>
+            <fpage>1345</fpage>
+            <page-range>1345-50</page-range>
+            <pub-id pub-id-type="pmid">9809946</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26953.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chandraratna</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Mohar</surname>
+                <given-names>DS</given-names>
+              </name>
+              <name>
+                <surname>Sidarous</surname>
+                <given-names>PF</given-names>
+              </name>
+            </person-group>
+            <article-title>Role of echocardiography in the treatment of cardiac tamponade.</article-title>
+            <source>Echocardiography</source>
+            <year>2014</year>
+            <month>Aug</month>
+            <volume>31</volume>
+            <issue>7</issue>
+            <fpage>899</fpage>
+            <page-range>899-910</page-range>
+            <pub-id pub-id-type="pmid">24697811</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26953.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Vilela</surname>
+                <given-names>EM</given-names>
+              </name>
+              <name>
+                <surname>Ruivo</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Guerreiro</surname>
+                <given-names>CE</given-names>
+              </name>
+              <name>
+                <surname>Silva</surname>
+                <given-names>MP</given-names>
+              </name>
+              <name>
+                <surname>Ladeiras-Lopes</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Caeiro</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Morais</surname>
+                <given-names>GP</given-names>
+              </name>
+              <name>
+                <surname>Primo</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Braga</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Ferreira</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Nunes</surname>
+                <given-names>JPL</given-names>
+              </name>
+              <name>
+                <surname>Ribeiro</surname>
+                <given-names>VG</given-names>
+              </name>
+            </person-group>
+            <article-title>Computed tomography-guided pericardiocentesis: a systematic review concerning contemporary evidence and future perspectives.</article-title>
+            <source>Ther Adv Cardiovasc Dis</source>
+            <year>2018</year>
+            <month>Nov</month>
+            <volume>12</volume>
+            <issue>11</issue>
+            <fpage>299</fpage>
+            <page-range>299-307</page-range>
+            <pub-id pub-id-type="pmid">30111248</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26953.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Little</surname>
+                <given-names>WC</given-names>
+              </name>
+              <name>
+                <surname>Freeman</surname>
+                <given-names>GL</given-names>
+              </name>
+            </person-group>
+            <article-title>Pericardial disease.</article-title>
+            <source>Circulation</source>
+            <year>2006</year>
+            <month>Mar</month>
+            <day>28</day>
+            <volume>113</volume>
+            <issue>12</issue>
+            <fpage>1622</fpage>
+            <page-range>1622-32</page-range>
+            <pub-id pub-id-type="pmid">16567581</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

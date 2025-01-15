@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-18454" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Bone Scan</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Adams</surname>
+            <given-names>Chad</given-names>
+          </name>
+          <aff>Brooke Army Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Banks</surname>
+            <given-names>Kevin P.</given-names>
+          </name>
+          <aff>Uniformed Services University</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Chad Adams declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Kevin Banks declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>14</day>
+          <month>8</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-18454.s1" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Skeletal scintigraphy, commonly referred to as a bone scan (BS), is a valuable and versatile nuclear medicine&#x000a0;tool. The examination is most commonly performed using the radiotracer Technetium-99m (Tc99m) complexed to a diphosphonate, either methylene diphosphonate (MDP) forming Tc99m-MDP or hydroxydiphosphonate (HDP) forming Tc99m-HDP. Tc99m is the most common radionuclide used in nuclear medicine for labeling because it is relatively inexpensive and has favorable characteristics for imaging such as good spatial resolution, an ideal photopeak (140 keV) for gamma cameras and possessing a relatively short half-life (6 hours) that allows adequate time for image acquisition without excessive radiation dose to patients. The Tc99m-phosphonates first entered practice in 1971 by Subramanian and colleagues with several subsequent variations produced until the development of Tc 99m-MDP in 1975, which remains the dominant radiotracer in skeletal scintigraphy.<xref ref-type="bibr" rid="article-18454.r1">[1]</xref> Both MDP and HDP serve as phosphate analogs which complex with the crystalline hydroxyapatite in the mineral phase of bone by a process called chemisorption.<xref ref-type="bibr" rid="article-18454.r2">[2]</xref> Tc99m phosphonates localize to bone in proportion to osteoblastic activity as seen at sites of bony remodeling and, to a lesser extent, localizes in proportion to blood flow and its delivery of the radiotracer. Thus, increased radiotracer uptake occurs with multiple pathologic processes such as fractures, infection, malignant disease and less commonly encountered osseous diseases like Paget disease, fibrous dysplasia, osteoid osteoma, and complex regional pain syndrome. The specificity of skeletal scintigraphy, therefore, relies heavily on an appropriate clinical history and correlation with other imaging modalities in conjunction&#x000a0;with a thorough assessment of the radiotracer uptake pattern: mono-ostotic versus polyostotic, axial versus appendicular, peri-articular versus metaphyseal or diaphyseal, focal versus fusiform or linear.</p>
+        <p>There has been a relatively recent re-emergence of fluorine-18 sodium fluoride (F18-NaF) positron emission tomography (PET) for metabolic bone imaging, secondary to temporary shortages of Tc99m and the proliferation of PET-CT technology. A calcium analog, F18-NaF was introduced in 1963, and its 511 keV photons could be imaged with general-purpose rectilinear scanners or early positron detectors.<xref ref-type="bibr" rid="article-18454.r3">[3]</xref> Given the relatively short half-life of fluorine-18 (110 minutes) and its production via cyclotron, F18-NaF was not widely available. This, along with the introduction of Tc99m generators, the phosphate compounds, and gamma cameras, relegated F18-NaF to relative obscurity for the next 4 decades.</p>
+        <p>The advantages of modern F18-NaF PET-CT over the Tc99m-phosphonates BS include increased spatial resolution, improved target to background ratio, and increased sensitivity. Disadvantages include higher cost, slightly higher radiation dose, and potentially higher false positive rate due to increased uptake at sites of degenerative changes.<xref ref-type="bibr" rid="article-18454.r4">[4]</xref></p>
+      </sec>
+      <sec id="article-18454.s2" sec-type="Procedures">
+        <title>Procedures</title>
+        <p>Skeletal scintigraphy starts with the intravenous injection of Tc99m-MDP followed by imaging at multiple time points, or phases. The adult dose of Tc99m is 10 to 30 millicuries (mCi) or 370 to 1110 megabecquerels (MBq). The dose for children under&#x000a0;5 years is 0.2 to 0.3 mCi per kg or 7 to 11 MBq per kg. Protocols exist with as few as one or as many as&#x000a0;four phases of imaging: flow phase, blood pool phase, delayed phase, and 4th phase. The 4th phase, acquired 24-hours after radiotracer injection, is not commonly performed but can be helpful in patients with peripheral vascular disease and concern for osteomyelitis.<xref ref-type="bibr" rid="article-18454.r5">[5]</xref> The flow phase is a radionuclide angiogram to assess for increased (and less commonly decreased) arterial flow to the area of concern and is obtained for 60 to 90 seconds, immediately after injection. The blood pool phase images are obtained immediately after the flow phase and extends out to 10 minutes following injection. This portion of the exam assesses for hyperemia manifest as increased soft tissue activity due to extravasation of radiotracer. The delayed phase imaging is performed 2 to 6 hours after injection and reflects the rate of bone turnover.<xref ref-type="bibr" rid="article-18454.r6">[6]</xref> Three phase studies are most typically used to evaluate for osteomyelitis, joint prosthesis infection versus loosening, and complex regional pain syndrome. The remaining bone scan indications are imaged primarily utilizing a single, delayed-phase-only protocol. The rest of this article focuses primarily on the single-phase bone scan. Please refer to the dedicated Three Phase Bone Scan (TPBS) StatPearls article for more information on that use of bone scintigraphy.</p>
+        <p>Delayed-phase images are typically&#x000a0;obtained&#x000a0;as anterior and posterior projections of either the whole body and/or using spot images. Whole body images are helpful for non-focal complaints (i.e., concern for bony metastases, diffuse arthralgia, or elevated alkaline phosphatase of indeterminate etiology) while spot images are preferred for focal issues (rule out tibial stress fracture, unexplained rib pain or assess an indeterminate sclerotic femur lesion seen on x-ray). Spot images are smaller, field-of-view acquisitions that have the advantage of better spatial resolution and may be obtained in multiple projections (anterior/posterior, lateral, anterior/posterior oblique) to assist in anatomic localization of any abnormal radiotracer uptake. If anatomic localization is inadequate on spot images or is in an area of complex anatomy, a single-photon emission computed tomography (SPECT) can be performed with or without a conventional computed tomography (CT), referred to as a SPECT/CT. This allows the fusion of the gamma camera-generated images from the Tc99m-MDP SPECT with the conventional CT images for precise anatomic localization.</p>
+      </sec>
+      <sec id="article-18454.s3" sec-type="Indications">
+        <title>Indications</title>
+        <p>Skeletal scintigraphy has a wide variety of indications.</p>
+        <p>
+<bold>Most Common</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Detection or follow-up of osseous metastases</p>
+          </list-item>
+          <list-item>
+            <p>Detection of radiographically occult injury</p>
+          </list-item>
+          <list-item>
+            <p>Evaluating for the presence of&#x000a0;osteomyelitis</p>
+          </list-item>
+          <list-item>
+            <p>Assessing for prosthetic hardware infection or loosening</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Less Common</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Evaluating a primary bone lesion</p>
+          </list-item>
+          <list-item>
+            <p>Evaluating for avascular necrosis/bone infarcts</p>
+          </list-item>
+          <list-item>
+            <p>Assessing bone graft viability</p>
+          </list-item>
+          <list-item>
+            <p>Diagnosis of complex regional pain syndrome</p>
+          </list-item>
+          <list-item>
+            <p>Screening for child abuse</p>
+          </list-item>
+          <list-item>
+            <p>Determining the distribution of osteoblastic activity in preparation of radionuclide therapy for bone metastases</p>
+          </list-item>
+          <list-item>
+            <p>Evaluating arthritides</p>
+          </list-item>
+          <list-item>
+            <p>Investigating indeterminate radiographic, laboratory, or clinical findings that suggest skeletal involvement&#x000a0;<xref ref-type="bibr" rid="article-18454.r7">[7]</xref></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-18454.s4" sec-type="Normal and Critical Findings">
+        <title>Normal and Critical Findings</title>
+        <p>An understanding of the normal anatomic distribution of Tc99m-MDP is important for interpreting skeletal scintigraphy. Symmetric uptake should be seen throughout the osseous structures of a healthy adult. In children, additional intense uptake is present in the physes of the long bones, which represent the normal growth centers. Common areas of benign increased radiotracer accumulation are present at the acromioclavicular joints, sternoclavicular joints, sternomanubrial junction, sacroiliac joints, and pubic symphysis as well as in articular surfaces of the shoulders, hips, knees, ankles, and feet. This is likely due to the constant bony remodeling of the weight-bearing surfaces of the joints and the propensity of degenerative changes in these areas. Also, primarily in adult patients, focal increased uptake is&#x000a0;frequently&#x000a0;seen in the maxillary and mandibular regions due to underlying dental disease which causes reactive osteogenesis. Similarly, uptake can be present in the nasopharyngeal region of the facial bones in individuals with chronic sinus disease. &#x000a0;</p>
+        <p>Extraosseous activity is seen in the kidneys and bladder due to the normal renal excretion of T99m-MDP. If the kidneys and bladder are not seen, this should raise suspicion of the so-called &#x0201c;superscan.&#x0201d; A superscan implies diffusely increased osseous uptake due to metastatic disease (most commonly breast or prostate cancer) or metabolic bone disease which is so intense that little or no renal excretion of the radiotracer occurs.<xref ref-type="bibr" rid="article-18454.r8">[8]</xref></p>
+        <p>
+<bold>Critical Findings</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Detection of osseous metastatic disease: most frequently occurring in the axial and proximal appendicular skeleton corresponding with sites of red marrow</p>
+          </list-item>
+          <list-item>
+            <p>Detection of stress fracture: most commonly seen in lower body such as tibia, metatarsals and femoral necks, a site particularly critical due to the risk of progression to a displaced fracture</p>
+          </list-item>
+          <list-item>
+            <p>Detection of osteomyelitis or hardware infection</p>
+          </list-item>
+          <list-item>
+            <p>Detection of occult fractures in evaluation for child abuse (generally&#x000a0;in children older than 1 year): typically seen in ribs and extremities, though it should be noted that bone scintigraphy has a low sensitivity for detection of pediatric skull fractures and classic metaphyseal corner fractures&#x000a0;<xref ref-type="bibr" rid="article-18454.r9">[9]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Detection of avascular necrosis: history of sickle cell disease or chronic steroid use should raise suspicion for this entity</p>
+          </list-item>
+          <list-item>
+            <p>Detection of incidental soft tissue uptake: may represent occult malignancy such breast cancer, malignant pleural effusion, soft tissue sarcoma, or metastatic disease in the liver</p>
+          </list-item>
+          <list-item>
+            <p>Identification of the presence of kidneys on every bone scan; if the kidneys are not seen, a superscan should be suspected</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-18454.s5" sec-type="Interfering Factors">
+        <title>Interfering Factors</title>
+        <p>The primary interfering factor in skeletal scintigraphy is poor renal function. Adequate evaluation of a bone scan requires clearance of the radiotracer from the soft tissues by the kidneys so that the image produced is composed mostly of gamma rays originating from Tc99m-MDP complexed with the hydroxyapatite of bone. If the kidneys are not functioning properly, the visualization of bone is&#x000a0;limited by overlying extraosseous activity in the soft tissues which decreases target-to-background. This factor might be mitigated by obtaining a 24-hour delayed acquisition, often referred to as the fourth phase, which gives the kidneys more time to clear non-osseous uptake. This technique suffers from the limitation of T99m having a half-life of 6 hours which leaves only 6.25% of the initial activity of T99m for imaging at 24 hours. Due to similar reasons, patient dehydration can impede renal clearance of activity from the soft tissues. Thus, it is beneficial to have patients orally hydrate during the 2 to 6 hours between injection of the radiotracer and acquisition of the delayed images.</p>
+        <p>A second interfering factor in skeletal scintigraphy is the potential for poor labeling of Tc99m with MDP. Poor labeling results in unbound Tc99m-pertechnetate, commonly referred to as &#x0201c;free technetium&#x0201d; or &#x0201c;free tech.&#x0201d; Free technetium will localize to the salivary glands, thyroid, and stomach which may confound interpretation. This potential problem exists with all Tc99m labeled radiotracers and is not specific to skeletal scintigraphy.</p>
+        <p>A third interfering factor in skeletal scintigraphy is the &#x0201c;flare phenomenon.&#x0201d; This is a pattern of uptake where the osseous metastatic disease may appear worsened in the 2 to 6 months following chemotherapy. New lesions may be seen while pre-existing lesions can appear larger or more intense.<xref ref-type="bibr" rid="article-18454.r10">[10]</xref> This change likely represents increased bone turnover as the bone heals the area of prior metastatic disease to include sclerosis of prior occult lytic lesions. This pseudo-progression will resolve on follow-up bone scans, confirming the response to therapy.</p>
+      </sec>
+      <sec id="article-18454.s6" sec-type="Complications">
+        <title>Complications</title>
+        <p>Skeletal scintigraphy relies on intravenous administration. Most of the common complications of this examination originate from a failure of proper injection.</p>
+        <p>Extravasation of the injected Tc99m-MDP into the soft tissues causes the following three problems:</p>
+        <list list-type="order">
+          <list-item>
+            <p>&#x000a0;Minimal radiotracer reaches the bones and thus severely degrades visibility of osteoblastic pathology.</p>
+          </list-item>
+          <list-item>
+            <p>The extravasated radiotracer&#x000a0;is taken up by the lymphatic system which complicates same-day re-injection due to retention in lymph nodes which may obscure underlying bone pathology.</p>
+          </list-item>
+          <list-item>
+            <p>The intense tracer uptake coming from the injection site degrades the image of the skeleton due to the image being derived from extraneous photons arising from the site of extravasation.</p>
+          </list-item>
+        </list>
+        <p>Arterial injection may also rarely occur which produces the "glove" phenomenon. The glove phenomenon is characterized by significant asymmetric uptake extending from the arterial injection site down into the fingers.<xref ref-type="bibr" rid="article-18454.r11">[11]</xref></p>
+      </sec>
+      <sec id="article-18454.s7" sec-type="Patient Safety and Education">
+        <title>Patient Safety and Education</title>
+        <p>Skeletal scintigraphy uses ionizing radiation in the form of gamma rays produced from the radiotracer Tc99m. The effective whole body dose of radiation for adults from this examination is 0.0057 millisieverts (mSv) per MBq which translates to approximately 4 mSv for a 20 mCi dose of Tc99m-MDP.<xref ref-type="bibr" rid="article-18454.r4">[4]</xref>&#x000a0;The effective whole body dose for children under 5 is 0.025 mSv per MBq. For reference, the average annual background radiation dose to an adult is approximately 3 mSv&#x000a0;and it is considered acceptable for medical staff to receive up to 5 mSv annually from occupational exposures.</p>
+        <p>A small amount of Tc99m-pertechnetate&#x000a0;is secreted in breast milk, but the estimated fetal dose is below 1 mSv (100 mrem).&#x000a0;<xref ref-type="bibr" rid="article-18454.r12">[12]</xref>&#x000a0;Therefore&#x000a0;breastfeeding&#x000a0;does not need to&#x000a0;be discontinued, although many providers do&#x000a0;counsel that breastfeeding be avoided for 12-24 hours due to patient&#x000a0;concerns and&#x000a0;older guidelines recommending the same.<xref ref-type="bibr" rid="article-18454.r13">[13]</xref>&#x000a0;<xref ref-type="bibr" rid="article-18454.r12">[12]</xref>&#x000a0;</p>
+      </sec>
+      <sec id="article-18454.s8" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>Skeletal scintigraphy is a versatile medical imaging tool, providing a highly sensitive examination for bone pathology, particularly in the detection of stress injury and radiographically occult fractures. A negative bone scan at 72 hours excludes a fracture in the appendicular skeleton with a sensitivity of 95% to 100%. Note that healing fractures may display increased uptake long after the initial trauma, with 60 to 80% of fractures returning to normal on bone scan in one year and 95% of fractures returning to normal by 3 years.<xref ref-type="bibr" rid="article-18454.r14">[14]</xref> The detection of osseous stress injury is important because the patient&#x02019;s activity should be modified to prevent completion of the fracture.</p>
+        <p>A bone scan can be very helpful in the evaluation of osteomyelitis. The exam is very&#x000a0;sensitive, up to 94%; this results in an excellent negative predictive value.<xref ref-type="bibr" rid="article-18454.r15">[15]</xref> In the setting of normal bone, the exam can also demonstrate similar specificity;&#x000a0;however, the presence of&#x000a0;an&#x000a0;underlying intrinsic lesion, hardware, fracture, or recent surgery can markedly decrease specificity to as low as 34%, necessitating further imaging when the examination is positive.<xref ref-type="bibr" rid="article-18454.r16">[16]</xref> Further imaging options in nuclear medicine include F18-FDG PET/CT or radiolabeled white blood cell (WBC) scan using In-111 or Tc99m-HMPAO labeled WBCs.</p>
+        <p>The sensitivity of bone scan for metastatic disease varies for each primary tumor. The specifics of sensitivity and specificity for each type of malignancy is beyond the scope of&#x000a0;this article;&#x000a0;however, the study is most accurate in the setting of osteoblastic metastases and least accurate with malignancies that typically produce osteolytic bone lesions. Given such, the common malignancies for which bone scintigraphy is known to have a high sensitivity for identifying bone metastases include breast, prostate, and lung cancer. The common malignancies for which bone scintigraphy is known to have a low sensitivity for detection of osseous metastases include multiple myeloma, renal cell carcinoma, and thyroid carcinoma.</p>
+      </sec>
+      <sec id="article-18454.s9">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=18454&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=18454">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/18454/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=18454">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <floats-group id="article-18454.s10">
+        <fig id="article-18454.image.f1" position="float" orientation="portrait">
+          <caption>
+            <p>Normal appearance of Technetium 99m MDP bone scan Contributed by Chad Adams, MD</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Normal__tc99m__MDP__bone__scan" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <ref-list id="article-18454.s11">
+        <title>References</title>
+        <ref id="article-18454.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Subramanian</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>McAfee</surname>
+                <given-names>JG</given-names>
+              </name>
+            </person-group>
+            <article-title>A new complex of 99mTc for skeletal imaging.</article-title>
+            <source>Radiology</source>
+            <year>1971</year>
+            <month>Apr</month>
+            <volume>99</volume>
+            <issue>1</issue>
+            <fpage>192</fpage>
+            <page-range>192-6</page-range>
+            <pub-id pub-id-type="pmid">5548678</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18454.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Subramanian</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>McAfee</surname>
+                <given-names>JG</given-names>
+              </name>
+              <name>
+                <surname>Blair</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Kallfelz</surname>
+                <given-names>FA</given-names>
+              </name>
+              <name>
+                <surname>Thomas</surname>
+                <given-names>FD</given-names>
+              </name>
+            </person-group>
+            <article-title>Technetium-99m-methylene diphosphonate--a superior agent for skeletal imaging: comparison with other technetium complexes.</article-title>
+            <source>J Nucl Med</source>
+            <year>1975</year>
+            <month>Aug</month>
+            <volume>16</volume>
+            <issue>8</issue>
+            <fpage>744</fpage>
+            <page-range>744-55</page-range>
+            <pub-id pub-id-type="pmid">170385</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18454.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bridges</surname>
+                <given-names>RL</given-names>
+              </name>
+              <name>
+                <surname>Wiley</surname>
+                <given-names>CR</given-names>
+              </name>
+              <name>
+                <surname>Christian</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Strohm</surname>
+                <given-names>AP</given-names>
+              </name>
+            </person-group>
+            <article-title>An introduction to Na(18)F bone scintigraphy: basic principles, advanced imaging concepts, and case examples.</article-title>
+            <source>J Nucl Med Technol</source>
+            <year>2007</year>
+            <month>Jun</month>
+            <volume>35</volume>
+            <issue>2</issue>
+            <fpage>64</fpage>
+            <page-range>64-76; quiz 78-9</page-range>
+            <pub-id pub-id-type="pmid">17496010</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18454.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Grant</surname>
+                <given-names>FD</given-names>
+              </name>
+              <name>
+                <surname>Fahey</surname>
+                <given-names>FH</given-names>
+              </name>
+              <name>
+                <surname>Packard</surname>
+                <given-names>AB</given-names>
+              </name>
+              <name>
+                <surname>Davis</surname>
+                <given-names>RT</given-names>
+              </name>
+              <name>
+                <surname>Alavi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Treves</surname>
+                <given-names>ST</given-names>
+              </name>
+            </person-group>
+            <article-title>Skeletal PET with 18F-fluoride: applying new technology to an old tracer.</article-title>
+            <source>J Nucl Med</source>
+            <year>2008</year>
+            <month>Jan</month>
+            <volume>49</volume>
+            <issue>1</issue>
+            <fpage>68</fpage>
+            <page-range>68-78</page-range>
+            <pub-id pub-id-type="pmid">18077529</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18454.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Alazraki</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Dries</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Datz</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Lawrence</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Greenberg</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Taylor</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Value of a 24-hour image (four-phase bone scan) in assessing osteomyelitis in patients with peripheral vascular disease.</article-title>
+            <source>J Nucl Med</source>
+            <year>1985</year>
+            <month>Jul</month>
+            <volume>26</volume>
+            <issue>7</issue>
+            <fpage>711</fpage>
+            <page-range>711-7</page-range>
+            <pub-id pub-id-type="pmid">3159858</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18454.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Love</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Din</surname>
+                <given-names>AS</given-names>
+              </name>
+              <name>
+                <surname>Tomas</surname>
+                <given-names>MB</given-names>
+              </name>
+              <name>
+                <surname>Kalapparambath</surname>
+                <given-names>TP</given-names>
+              </name>
+              <name>
+                <surname>Palestro</surname>
+                <given-names>CJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Radionuclide bone imaging: an illustrative review.</article-title>
+            <source>Radiographics</source>
+            <year>2003</year>
+            <season>Mar-Apr</season>
+            <volume>23</volume>
+            <issue>2</issue>
+            <fpage>341</fpage>
+            <page-range>341-58</page-range>
+            <pub-id pub-id-type="pmid">12640151</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18454.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Van den Wyngaert</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Strobel</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Kampen</surname>
+                <given-names>WU</given-names>
+              </name>
+              <name>
+                <surname>Kuwert</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>van der Bruggen</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Mohan</surname>
+                <given-names>HK</given-names>
+              </name>
+              <name>
+                <surname>Gnanasegaran</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Delgado-Bolton</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Weber</surname>
+                <given-names>WA</given-names>
+              </name>
+              <name>
+                <surname>Beheshti</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Langsteger</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Giammarile</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Mottaghy</surname>
+                <given-names>FM</given-names>
+              </name>
+              <name>
+                <surname>Paycha</surname>
+                <given-names>F</given-names>
+              </name>
+              <collab>EANM Bone &#x00026; Joint Committee and the Oncology Committee</collab>
+            </person-group>
+            <article-title>The EANM practice guidelines for bone scintigraphy.</article-title>
+            <source>Eur J Nucl Med Mol Imaging</source>
+            <year>2016</year>
+            <month>Aug</month>
+            <volume>43</volume>
+            <issue>9</issue>
+            <fpage>1723</fpage>
+            <page-range>1723-38</page-range>
+            <pub-id pub-id-type="pmid">27262701</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18454.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Buckley</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>O'Keeffe</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Geoghegan</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Lyburn</surname>
+                <given-names>ID</given-names>
+              </name>
+              <name>
+                <surname>Munk</surname>
+                <given-names>PL</given-names>
+              </name>
+              <name>
+                <surname>Worsley</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Torreggiani</surname>
+                <given-names>WC</given-names>
+              </name>
+            </person-group>
+            <article-title>99mTc bone scintigraphy superscans: a review.</article-title>
+            <source>Nucl Med Commun</source>
+            <year>2007</year>
+            <month>Jul</month>
+            <volume>28</volume>
+            <issue>7</issue>
+            <fpage>521</fpage>
+            <page-range>521-7</page-range>
+            <pub-id pub-id-type="pmid">17538392</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18454.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Howard</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Barron</surname>
+                <given-names>BJ</given-names>
+              </name>
+              <name>
+                <surname>Smith</surname>
+                <given-names>GG</given-names>
+              </name>
+            </person-group>
+            <article-title>Bone scintigraphy in the evaluation of extraskeletal injuries from child abuse.</article-title>
+            <source>Radiographics</source>
+            <year>1990</year>
+            <month>Jan</month>
+            <volume>10</volume>
+            <issue>1</issue>
+            <fpage>67</fpage>
+            <page-range>67-81</page-range>
+            <pub-id pub-id-type="pmid">2296698</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18454.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pollen</surname>
+                <given-names>JJ</given-names>
+              </name>
+              <name>
+                <surname>Witztum</surname>
+                <given-names>KF</given-names>
+              </name>
+              <name>
+                <surname>Ashburn</surname>
+                <given-names>WL</given-names>
+              </name>
+            </person-group>
+            <article-title>The flare phenomenon on radionuclide bone scan in metastatic prostate cancer.</article-title>
+            <source>AJR Am J Roentgenol</source>
+            <year>1984</year>
+            <month>Apr</month>
+            <volume>142</volume>
+            <issue>4</issue>
+            <fpage>773</fpage>
+            <page-range>773-6</page-range>
+            <pub-id pub-id-type="pmid">6230903</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18454.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shih</surname>
+                <given-names>WJ</given-names>
+              </name>
+              <name>
+                <surname>Wienrzbinski</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Ryo</surname>
+                <given-names>UY</given-names>
+              </name>
+            </person-group>
+            <article-title>Abnormally increased uptake in the palm and the thumb as the result of a bone imaging agent injection into the radial artery.</article-title>
+            <source>Clin Nucl Med</source>
+            <year>2000</year>
+            <month>Jul</month>
+            <volume>25</volume>
+            <issue>7</issue>
+            <fpage>539</fpage>
+            <page-range>539-40</page-range>
+            <pub-id pub-id-type="pmid">10885697</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18454.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Stabin</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Breitz</surname>
+                <given-names>HB</given-names>
+              </name>
+            </person-group>
+            <article-title>Breast milk excretion of radiopharmaceuticals: mechanisms, findings, and radiation dosimetry.</article-title>
+            <source>J Nucl Med</source>
+            <year>2000</year>
+            <month>May</month>
+            <volume>41</volume>
+            <issue>5</issue>
+            <fpage>863</fpage>
+            <page-range>863-73</page-range>
+            <pub-id pub-id-type="pmid">10809203</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18454.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ahlgren</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Ivarsson</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Johansson</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Mattsson</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Nosslin</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Excretion of radionuclides in human breast milk after the administration of radiopharmaceuticals.</article-title>
+            <source>J Nucl Med</source>
+            <year>1985</year>
+            <month>Sep</month>
+            <volume>26</volume>
+            <issue>9</issue>
+            <fpage>1085</fpage>
+            <page-range>1085-90</page-range>
+            <pub-id pub-id-type="pmid">4032049</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18454.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Matin</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>The appearance of bone scans following fractures, including immediate and long-term studies.</article-title>
+            <source>J Nucl Med</source>
+            <year>1979</year>
+            <month>Dec</month>
+            <volume>20</volume>
+            <issue>12</issue>
+            <fpage>1227</fpage>
+            <page-range>1227-31</page-range>
+            <pub-id pub-id-type="pmid">536788</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18454.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Christian</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kraas</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Conway</surname>
+                <given-names>WF</given-names>
+              </name>
+            </person-group>
+            <article-title>Musculoskeletal infections.</article-title>
+            <source>Semin Roentgenol</source>
+            <year>2007</year>
+            <month>Apr</month>
+            <volume>42</volume>
+            <issue>2</issue>
+            <fpage>92</fpage>
+            <page-range>92-101</page-range>
+            <pub-id pub-id-type="pmid">17394922</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18454.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>El-Maghraby</surname>
+                <given-names>TA</given-names>
+              </name>
+              <name>
+                <surname>Moustafa</surname>
+                <given-names>HM</given-names>
+              </name>
+              <name>
+                <surname>Pauwels</surname>
+                <given-names>EK</given-names>
+              </name>
+            </person-group>
+            <article-title>Nuclear medicine methods for evaluation of skeletal infection among other diagnostic modalities.</article-title>
+            <source>Q J Nucl Med Mol Imaging</source>
+            <year>2006</year>
+            <month>Sep</month>
+            <volume>50</volume>
+            <issue>3</issue>
+            <fpage>167</fpage>
+            <page-range>167-92</page-range>
+            <pub-id pub-id-type="pmid">16868532</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

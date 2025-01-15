@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-20310" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Defibrillation</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Goyal</surname>
+            <given-names>Amandeep</given-names>
+          </name>
+          <aff>University of Kansas Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Chhabra</surname>
+            <given-names>Lovely</given-names>
+          </name>
+          <aff>New York Medical College</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Sciammarella</surname>
+            <given-names>Joseph C.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Cooper</surname>
+            <given-names>Jeffrey S.</given-names>
+          </name>
+          <aff>University of Nebraska Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Amandeep Goyal declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Lovely Chhabra declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Joseph Sciammarella declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Jeffrey Cooper declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>24</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-20310.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Cardiac defibrillation is the act of administering a transthoracic electrical current to a person experiencing one of the two lethal ventricular dysrhythmias, ventricular fibrillation (VF) or pulseless ventricular tachycardia (VT). Under Advanced Cardiac Life Support (ACLS) guidelines, pulseless VT and VF are treated the same. Heart disease remains the number one cause of death in both sexes. About half of these sudden deaths occur in the pre-hospital setting; of these, almost three-quarters happen in the home, and half of these are unwitnessed. In the adult patient, VF is the most common cause of sudden cardiac arrest. The definitive treatment for VF is to perform electrical defibrillation. When defibrillation is delayed, effectiveness is reduced by almost 10% per minute. This activity reviews the use of defibrillation and highlights the role of the interprofessional team in evaluating and treating patients using this technique.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Describe the importance of rapid defibrillation in ventricular fibrillation and pulseless ventricular tachycardia.</p></list-item><list-item><p>Outline the principles involved in the termination of ventricular fibrillation or pulseless ventricular tachycardia with defibrillation.</p></list-item><list-item><p>Summarize the technique of cardiac defibrillation in a patient experiencing sudden cardiac arrest secondary to ventricular dysrhythmia.</p></list-item><list-item><p>Explain the importance of the interprofessional team to ensure the appropriate selection of candidates for rapid defibrillation and the role of teaching early defibrillation as part of out-of-hospital resuscitation.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=20310&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=20310">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-20310.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Cardiac defibrillation is the act of administering a transthoracic electrical current to a person experiencing one of the two lethal ventricular dysrhythmias, ventricular fibrillation (VF) or pulseless ventricular tachycardia (VT). Under Advanced Cardiac Life Support (ACLS) guidelines, pulseless VT and VF are treated the same.&#x000a0;</p>
+        <p>According to the Centers for Disease Control and Prevention (CDC), 610,000 deaths occur annually in the United States from heart disease. Heart disease remains the number one cause of death in both sexes. About half of these sudden deaths occur in the pre-hospital setting; of these, almost three-quarters happen in the home, and half of these are unwitnessed. In the adult patient, VF is the most common cause of sudden cardiac arrest.</p>
+        <p>The definitive treatment for VF is to perform electrical defibrillation. Defibrillation is highly effective in terminating VF when performed as close to the onset of VF as possible. When defibrillation is delayed, effectiveness is reduced by almost 10% per minute.</p>
+        <p>Adult victims of nontraumatic cardiac arrest who receive resuscitation attempts by emergency medical services have a rate of survival to hospital discharge of only 10.8%. In comparison, adult patients who develop cardiac arrest in a hospital have rates of survival to hospital discharge of up to 25.5%. This increased survival is due to defibrillation being performed closer to the onset of VF.<xref ref-type="bibr" rid="article-20310.r1">[1]</xref><xref ref-type="bibr" rid="article-20310.r2">[2]</xref><xref ref-type="bibr" rid="article-20310.r3">[3]</xref></p>
+      </sec>
+      <sec id="article-20310.s3" sec-type="Anatomy and Physiology">
+        <title>Anatomy and Physiology</title>
+        <p>Ventricular fibrillation occurs when the normal transmission of the cardiac impulse through the heart&#x02019;s electrical conduction system is interrupted. This can occur in the setting of coronary ischemia or acute myocardial infarction. It can also occur due to sudden interruptions to the cardiac impulse by events such as an electrical shock; a blow to the chest (commotio cordis); premature ventricular contractions, especially the &#x0201c;R on T&#x0201d; type; abnormal tachycardic rhythms such as ventricular tachycardia; and syndromes such as QT prolongation.</p>
+        <p>The chaotic, dysrhythmic firing of multiple irritable myocardial foci in the ventricles causes fibrillation of the ventricles. This produces a loss of normal ventricular contraction with the resultant cessation of cardiac output. The clinical result is a sudden cardiac arrest. While defibrillation is highly effective in treating VF and pulseless VT, its effectiveness is time-dependent. Untreated VF will rapidly deteriorate into asystole, from which resuscitation rates are dismal. For untreated VF or VT, the likelihood of resuscitation decreases by up to 10% per minute. Cardiopulmonary Resuscitation (CPR) can provide temporary oxygenation and circulation until defibrillation becomes available. Conventional manual CPR, combining chest compressions with rescue breathing, when done properly, can provide up to 33% of normal cardiac output and oxygenation. The provision of early CPR can triple the rate of survival from witnessed sudden cardiac arrest.</p>
+        <p>The definitive treatment for VF or its equivalent, pulseless VT, is electrical defibrillation. Defibrillation, contrary to popular belief, does not &#x0201c;jump-start&#x0201d; the heart. Rather, it produces nearly simultaneous depolarization of a critical mass of myocardium, causing momentary cessation of all cardiac activity. Under ideal circumstances, a viable site within the heart&#x02019;s intrinsic electrical conduction system will then spontaneously initiate an electrical impulse that can restore normal propagation of the heart&#x02019;s cardiac cycle, with a resultant restoration of ventricular contraction and, hence, a pulse. Traditional &#x0201c;manual&#x0201d; defibrillation is provided by medical or paramedical personnel trained in electrocardiogram (EKG) dysrhythmia recognition and emergency cardiac care. Today, the widespread availability of automated external defibrillators (AEDs) allows trained first responders and, in some instances, the lay public to provide early defibrillation to victims of sudden cardiac arrest. AEDs interpret the EKG rhythm automatically, determine if a &#x0201c;shockable&#x0201d; rhythm is present, self-charge to the required energy level, and provide the responder with verbal prompts to successfully perform the defibrillation process.<xref ref-type="bibr" rid="article-20310.r4">[4]</xref><xref ref-type="bibr" rid="article-20310.r5">[5]</xref></p>
+      </sec>
+      <sec id="article-20310.s4" sec-type="Indications">
+        <title>Indications</title>
+        <p>Early electrical defibrillation is the treatment of choice for VF and pulseless VT in the absence of a pulse.</p>
+      </sec>
+      <sec id="article-20310.s5" sec-type="Contraindications">
+        <title>Contraindications</title>
+        <p>Defibrillation has no contraindications. The presence of a pacemaker or implanted cardiac defibrillator does not change the indication or performance of the procedure when a shockable rhythm is present.&#x000a0;</p>
+      </sec>
+      <sec id="article-20310.s6" sec-type="Equipment">
+        <title>Equipment</title>
+        <p>A cardiac monitor with defibrillation capability&#x000a0;or an automated external defibrillator (AED) is required to perform defibrillation.</p>
+      </sec>
+      <sec id="article-20310.s7" sec-type="Personnel">
+        <title>Personnel</title>
+        <p>Most persons who perform defibrillation are medical personnel who have received additional training in cardiac resuscitation through courses such as the ACLS or Pediatric Advanced Life Support (PALS) programs.</p>
+      </sec>
+      <sec id="article-20310.s8" sec-type="Preparation">
+        <title>Preparation</title>
+        <p>While the defibrillator is prepared, resuscitation, including CPR, continues. Once a defibrillator is available, it should be used as&#x000a0;soon as possible and take precedence over other resuscitative measures in a patient with VT or VF. The act of defibrillation delivers an electrical shock across the chest, either by placing a pair of manual paddles on the chest or through the application of adhesive &#x0201c;hands-free&#x0201d; pads. Current defibrillators typically utilize a biphasic waveform that needs a lower energy level to achieve effective defibrillation. This increased&#x000a0;ability to terminate ventricular dysrhythmias, makes defibrillators utilizing biphasic waveforms&#x000a0;preferred to the&#x000a0;older, monophasic waveform.</p>
+      </sec>
+      <sec id="article-20310.s9" sec-type="Technique or Treatment">
+        <title>Technique or Treatment</title>
+        <p>The defibrillator paddles are placed on the chest, with one paddle placed along the upper right sternal border and the other place at the cardiac apex. Alternatively, "hands-free" defibrillator pads may be used. The hands-free pads are placed in the same location as the paddles; alternatively, they may be placed in an anteroposterior configuration.</p>
+        <p>The cardiac monitor/defibrillator is then placed in the defibrillation mode, and the defibrillator&#x02019;s capacitor is charged. The manufacturer pre-sets the initial energy level for biphasic manual defibrillators. The 2015 American Heart Association (AHA) guidelines for defibrillation state that&#x000a0;it is reasonable to use the manufacturer&#x02019;s recommended dose of the first defibrillation shock. On a biphasic defibrillator, this is usually between 120 joules to 200 joules. On a monophasic defibrillator, this is usually 360 joules. If the manufacturers recommended dose is unavailable the AHA recommends giving the maximum available dose.&#x000a0;</p>
+        <p>Once fully charged, the scene is checked to make sure&#x000a0;that no one is touching the patient or in contact with anything that is touching the&#x000a0;patient. The "shock" button is then pressed, allowing the stored charge to be delivered across the chest from paddle to paddle or hands-free pad to pad.</p>
+        <p>After the shock is delivered, CPR is immediately resumed for 2 minutes.&#x000a0;After 2 minutes of high-quality CPR following the initial defibrillation, the patient's pulse is palpated and the electrical rhythm is checked on the monitor to determine if VF or pulseless VT has been terminated and if a pulse has been restored.</p>
+        <p>If VF or pulseless VT persists CPR is immediately resumed and the patient may be shocked again. It is important to remember that every successive electrical defibrillation dose should be of equal or greater value until the maximum available dose is reached. A step-wise increase in the defibrillation dose according to the manufacturer's guidelines is recommended.</p>
+        <p>According to the ACLS VF/pulseless VT algorithm outlined by AHA 1 mg of epinephrine should be administered intravenously every 3 to 5 minutes during the resuscitation after the first unsuccessful defibrillation. High-quality CPR is immediately resumed after the second shock for 2 minutes. If VF or pulseless VT persists at the next pulse and rhythm check, the ACLS algorithm allows for&#x000a0;300 mg of amiodarone to be administered as a bolus intravenously during the resuscitation. If additional doses of antiarrhythmic drugs are needed, 150 mg of amiodarone may be given or 1 mg/kg to 1.5 mg/kg of lidocaine may be administered. According to the current AHA guidelines, epinephrine and amiodarone are preferred over lidocaine.<xref ref-type="bibr" rid="article-20310.r6">[6]</xref></p>
+        <p>For pediatric patients, the initial energy dose delivered for defibrillation is recommended to be 2 joules/kg. Subsequent defibrillations in pediatric patients can be dosed at 4 joules/kg or higher with a maximum dose of 10 joules/kg.&#x000a0;Infant pads are needed if the patient is under 10 kg or less than 1 year of age. If the patient is over 10 kg or 1 year of age, then adult pads are used. If small pads are not available, adult pads can be used in the anterior-posterior position. It is important to ensure that the pads do not touch. The pads cannot be cut to fit the patient either. A delay in defibrillation for lack of infant pads or low voltage defibrillator is not recommended. A shock with adult pads/defibrillator at adult dose is better than not delivering a shock at all. Ideally, patients less than 1 year of age should be defibrillated using&#x000a0;a manual defibrillator. If this is not available, a pediatric attenuator can be used.&#x000a0;In children, less than 8 years of age or less than 25 kg, an AED with a pediatric dose attenuator is used. In children 8 years of age and older or 25 kg and greater, standard adult AED pads and cable systems are used.<xref ref-type="bibr" rid="article-20310.r7">[7]</xref><xref ref-type="bibr" rid="article-20310.r8">[8]</xref></p>
+        <p>In the case of VF or pulseless VT during thoracotomy procedures such as emergency department thoracotomy or cardiac surgery, internal defibrillation is performed. This follows the same algorithm as external defibrillation except for a change in the defibrillation energy dose. In internal defibrillation, an initial dose of 20 joules is recommended to avoid burn-like injury to the myocardium. Care should be taken to avoid coronary vessels to prevent vessel damage. Subsequent doses can be increased to a maximum of 40 joules. Sterile internal pads must be used for internal defibrillation and should be readily available during any thoracotomy procedures.<xref ref-type="bibr" rid="article-20310.r9">[9]</xref></p>
+      </sec>
+      <sec id="article-20310.s10" sec-type="Complications">
+        <title>Complications</title>
+        <p>When a patient is defibrillated,&#x000a0;the stored energy is immediately released. The shock is delivered at whatever point the cardiac cycle happens to be in at that moment. If an electrical shock were to be administered to someone who&#x000a0;is not in VF or pulseless VT, it is possible for the energy to be applied during the relative refractory period, which corresponds to the latter part of the T wave of the cardiac cycle. If an electrical charge were to be administered at this vulnerable point in time, it is possible to induce VF by the &#x0201c;R-on-T phenomenon" which would result in a patient who originally had a pulse being put into cardiac arrest. For this reason, defibrillation is only performed for VF or pulseless VT. For a patient who&#x000a0;is not in cardiac arrest but needs electrical cardioversion for an unstable tachycardic rhythm, synchronized cardioversion is performed instead of defibrillation to avoid this complication.</p>
+        <p>For a patient with ventricular tachycardia and a palpable pulse, who presents with signs of hypoperfusion and hemodynamic instability, synchronized cardioversion with 100 joules of energy dose is recommended.<xref ref-type="bibr" rid="article-20310.r10">[10]</xref></p>
+      </sec>
+      <sec id="article-20310.s11" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>VF can be successfully treated when defibrillation is provided as soon after the onset as is possible. After 10 minutes of VF the chances of successful resuscitation drop to near zero. For this reason, many communities have developed early defibrillation programs, whereby certain members of the public are trained to perform defibrillation by using AEDs.<xref ref-type="bibr" rid="article-20310.r11">[11]</xref><xref ref-type="bibr" rid="article-20310.r12">[12]</xref></p>
+      </sec>
+      <sec id="article-20310.s12" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Today defibrillators are widely used both in and out of the hospital, despite universal algorithms taught&#x000a0;to healthcare workers, the outcomes after CPR and defibrillation remain poor. The key reason for this is because many resuscitation&#x000a0;teams deviate from standard protocols. Evidence suggests that in many cases, the absence of a team leader&#x000a0;is the key reason for the deviation. Research shows that developing a CPR&#x000a0;team with strong leadership is the key to improving results after CPR. Until the arrival of&#x000a0;a team leader at the site of the cardiac arrest, the bedside nurse is in the ideal position to run the code. However, other factors that also influence the conduct of code and defibrillation are external&#x000a0;factors like equipment, team hierarchy, institutional characteristics, and stress of the situation for the clinical providers. There is no question that defibrillation is an interprofessional event but in order&#x000a0;to achieve good success rates, the team has to be organized and functional.<xref ref-type="bibr" rid="article-20310.r13">[13]</xref><xref ref-type="bibr" rid="article-20310.r14">[14]</xref></p>
+      </sec>
+      <sec id="article-20310.s13">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=20310&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=20310">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/20310/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=20310">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <floats-group id="article-20310.s14">
+        <fig id="article-20310.image.f1" position="float" orientation="portrait">
+          <caption>
+            <p>Adult and Pediatric defibrillation/ external pacer pad examples with placement recommendations on manufacturer packaging. Contributed by Tammy J. Toney-Butler, RN, CEN, TCRN, CPEN</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Defibrillation__and__pacer__pads__adult__and__pediatric" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <floats-group id="article-20310.s15">
+        <fig id="article-20310.image.f2" position="float" orientation="portrait">
+          <caption>
+            <p>Electrode Positions During Defibrillation/Cardioversion. The image depicts the position of the heart and the flow of&#x000a0;intrathoracic energy during shock. PhilippN, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://commons.wikimedia.org/wiki/File:Defibrillation_Electrode_Position.jpg">Public Domain</ext-link>, via Wikimedia Commons&#x000a0;</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="20090507123232xDefibrillation_Electrode_Position" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <floats-group id="article-20310.s16">
+        <fig id="article-20310.image.f3" position="float" orientation="portrait">
+          <caption>
+            <p>Double defibrillation Image courtesy Dr Chaigasame</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="double__defibrillation" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <ref-list id="article-20310.s17">
+        <title>References</title>
+        <ref id="article-20310.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wang</surname>
+                <given-names>PL</given-names>
+              </name>
+              <name>
+                <surname>Brooks</surname>
+                <given-names>SC</given-names>
+              </name>
+            </person-group>
+            <article-title>Mechanical versus manual chest compressions for cardiac arrest.</article-title>
+            <source>Cochrane Database Syst Rev</source>
+            <year>2018</year>
+            <month>Aug</month>
+            <day>20</day>
+            <volume>8</volume>
+            <issue>8</issue>
+            <fpage>CD007260</fpage>
+            <pub-id pub-id-type="pmid">30125048</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20310.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Srinivasan</surname>
+                <given-names>NT</given-names>
+              </name>
+              <name>
+                <surname>Schilling</surname>
+                <given-names>RJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Sudden Cardiac Death and Arrhythmias.</article-title>
+            <source>Arrhythm Electrophysiol Rev</source>
+            <year>2018</year>
+            <month>Jun</month>
+            <volume>7</volume>
+            <issue>2</issue>
+            <fpage>111</fpage>
+            <page-range>111-117</page-range>
+            <pub-id pub-id-type="pmid">29967683</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20310.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pacheco</surname>
+                <given-names>RL</given-names>
+              </name>
+              <name>
+                <surname>Trevizo</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Souza</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>Alves</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Sakaya</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Thiago</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>G&#x000f3;is</surname>
+                <given-names>AFT</given-names>
+              </name>
+              <name>
+                <surname>Riera</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>What do Cochrane systematic reviews say about cardiac arrest management?</article-title>
+            <source>Sao Paulo Med J</source>
+            <year>2018</year>
+            <month>Mar</month>
+            <volume>136</volume>
+            <issue>2</issue>
+            <fpage>170</fpage>
+            <page-range>170-176</page-range>
+            <pub-id pub-id-type="pmid">29791610</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20310.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>El-Battrawy</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Borggrefe</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Akin</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <article-title>Letter by El-Battrawy et al Regarding Article, "The Effects of Public Access Defibrillation on Survival After Out-of-Hospital Cardiac Arrest: A Systematic Review of Observational Studies".</article-title>
+            <source>Circulation</source>
+            <year>2018</year>
+            <month>Apr</month>
+            <day>10</day>
+            <volume>137</volume>
+            <issue>15</issue>
+            <fpage>1646</fpage>
+            <page-range>1646-1647</page-range>
+            <pub-id pub-id-type="pmid">29632161</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20310.r5">
+          <label>5</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Goyal</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Sciammarella</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Chhabra</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Singhal</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Synchronized Electrical Cardioversion</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>3</month>
+            <day>27</day>
+            <pub-id pub-id-type="pmid">29489237</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20310.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Oechslin</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>[Treatment strategies in mechanical and electrical cardiovascular failure].</article-title>
+            <source>Ther Umsch</source>
+            <year>1996</year>
+            <month>Aug</month>
+            <volume>53</volume>
+            <issue>8</issue>
+            <fpage>646</fpage>
+            <page-range>646-57</page-range>
+            <pub-id pub-id-type="pmid">8830422</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20310.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wolfe</surname>
+                <given-names>HA</given-names>
+              </name>
+              <name>
+                <surname>Morgan</surname>
+                <given-names>RW</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Topjian</surname>
+                <given-names>AA</given-names>
+              </name>
+              <name>
+                <surname>Fink</surname>
+                <given-names>EL</given-names>
+              </name>
+              <name>
+                <surname>Berg</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Nadkarni</surname>
+                <given-names>VM</given-names>
+              </name>
+              <name>
+                <surname>Nishisaki</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Mensinger</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Sutton</surname>
+                <given-names>RM</given-names>
+              </name>
+              <collab>American Heart Association&#x02019;s Get With the Guidelines-Resuscitation Investigator</collab>
+            </person-group>
+            <article-title>Deviations from AHA guidelines during pediatric cardiopulmonary resuscitation are associated with decreased event survival.</article-title>
+            <source>Resuscitation</source>
+            <year>2020</year>
+            <month>Apr</month>
+            <volume>149</volume>
+            <fpage>89</fpage>
+            <page-range>89-99</page-range>
+            <pub-id pub-id-type="pmid">32057946</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20310.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Egan</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Atkins</surname>
+                <given-names>DL</given-names>
+              </name>
+            </person-group>
+            <article-title>Defibrillation in children: why a range in energy dosing?</article-title>
+            <source>Curr Pediatr Rev</source>
+            <year>2013</year>
+            <volume>9</volume>
+            <issue>2</issue>
+            <fpage>134</fpage>
+            <page-range>134-8</page-range>
+            <pub-id pub-id-type="pmid">25417034</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20310.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pugsley</surname>
+                <given-names>WB</given-names>
+              </name>
+              <name>
+                <surname>Baldwin</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Treasure</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Sturridge</surname>
+                <given-names>MF</given-names>
+              </name>
+            </person-group>
+            <article-title>Low energy level internal defibrillation during cardiopulmonary bypass.</article-title>
+            <source>Eur J Cardiothorac Surg</source>
+            <year>1989</year>
+            <volume>3</volume>
+            <issue>3</issue>
+            <fpage>273</fpage>
+            <page-range>273-5</page-range>
+            <pub-id pub-id-type="pmid">2624794</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20310.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>McDonough</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Treating ventricular tachycardia.</article-title>
+            <source>J Contin Educ Nurs</source>
+            <year>2009</year>
+            <month>Aug</month>
+            <volume>40</volume>
+            <issue>8</issue>
+            <fpage>342</fpage>
+            <page-range>342-3</page-range>
+            <pub-id pub-id-type="pmid">19681568</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20310.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kiyohara</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Nitta</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Sato</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Kojimahara</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Yamaguchi</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Iwami</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Kitamura</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Ten-Year Trends of Public-Access Defibrillation in Japanese School-Aged Patients Having Neurologically Favorable Survival After Out-of-Hospital Cardiac Arrest.</article-title>
+            <source>Am J Cardiol</source>
+            <year>2018</year>
+            <month>Sep</month>
+            <day>01</day>
+            <volume>122</volume>
+            <issue>5</issue>
+            <fpage>890</fpage>
+            <page-range>890-897</page-range>
+            <pub-id pub-id-type="pmid">30057229</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20310.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zijlstra</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Koster</surname>
+                <given-names>RW</given-names>
+              </name>
+              <name>
+                <surname>Blom</surname>
+                <given-names>MT</given-names>
+              </name>
+              <name>
+                <surname>Lippert</surname>
+                <given-names>FK</given-names>
+              </name>
+              <name>
+                <surname>Svensson</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Herlitz</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Kramer-Johansen</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ringh</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Rosenqvist</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Palsgaard M&#x000f8;ller</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Tan</surname>
+                <given-names>HL</given-names>
+              </name>
+              <name>
+                <surname>Beesems</surname>
+                <given-names>SG</given-names>
+              </name>
+              <name>
+                <surname>Hulleman</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Claesson</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Folke</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Olasveengen</surname>
+                <given-names>TM</given-names>
+              </name>
+              <name>
+                <surname>Wissenberg</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Hansen</surname>
+                <given-names>CM</given-names>
+              </name>
+              <name>
+                <surname>Viereck</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hollenberg</surname>
+                <given-names>J</given-names>
+              </name>
+              <collab>COSTA study group</collab>
+            </person-group>
+            <article-title>Different defibrillation strategies in survivors after out-of-hospital cardiac arrest.</article-title>
+            <source>Heart</source>
+            <year>2018</year>
+            <month>Dec</month>
+            <volume>104</volume>
+            <issue>23</issue>
+            <fpage>1929</fpage>
+            <page-range>1929-1936</page-range>
+            <pub-id pub-id-type="pmid">29903805</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20310.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <collab>Society of Thoracic Surgeons Task Force on Resuscitation After Cardiac Surgery</collab>
+            <article-title>The Society of Thoracic Surgeons Expert Consensus for the Resuscitation of Patients Who Arrest After Cardiac Surgery.</article-title>
+            <source>Ann Thorac Surg</source>
+            <year>2017</year>
+            <month>Mar</month>
+            <volume>103</volume>
+            <issue>3</issue>
+            <fpage>1005</fpage>
+            <page-range>1005-1020</page-range>
+            <pub-id pub-id-type="pmid">28122680</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20310.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Figueroa</surname>
+                <given-names>MI</given-names>
+              </name>
+              <name>
+                <surname>Sepanski</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Goldberg</surname>
+                <given-names>SP</given-names>
+              </name>
+              <name>
+                <surname>Shah</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Improving teamwork, confidence, and collaboration among members of a pediatric cardiovascular intensive care unit multidisciplinary team using simulation-based team training.</article-title>
+            <source>Pediatr Cardiol</source>
+            <year>2013</year>
+            <month>Mar</month>
+            <volume>34</volume>
+            <issue>3</issue>
+            <fpage>612</fpage>
+            <page-range>612-9</page-range>
+            <pub-id pub-id-type="pmid">22972517</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

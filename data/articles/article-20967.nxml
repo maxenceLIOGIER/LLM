@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-20967" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Electrical Injuries</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Zemaitis</surname>
+            <given-names>Michael R.</given-names>
+          </name>
+          <aff>Carepoint Health Bayonne Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Foris</surname>
+            <given-names>Lisa A.</given-names>
+          </name>
+          <aff>St. George's University</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Lopez</surname>
+            <given-names>Richard A.</given-names>
+          </name>
+          <aff>Geisinger Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Huecker</surname>
+            <given-names>Martin R.</given-names>
+          </name>
+          <aff>University of Louisville</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Michael Zemaitis declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Lisa Foris declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Richard Lopez declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Martin Huecker declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>17</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-20967.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Electrical injuries are a complex form of trauma that is often associated with high morbidity and mortality. The severity of the injuries depends upon the type of current, the voltage, and the resistance. This activity will review the pathophysiology behind electrical burns and explain the role of the interprofessional team as they evaluate and treat these complex patients.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Explain the difference between alternating and direct current and the different injury patterns seen with both.</p></list-item><list-item><p>Identify the potential immediate and long term complications associated with electrical injuries.</p></list-item><list-item><p>Outline the treatment of patients presenting with electrical injuries.</p></list-item><list-item><p>Summarize the importance of using an interprofessional team, system-based critical care approach in managing patients with electrical injuries.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=20967&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=20967">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-20967.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Electrical injuries, a relatively common form of mechanical trauma, can occur as a result of lightning, low-voltage, or high-voltage injury, and are often associated with high morbidity and mortality. Almost all electrical injuries are accidental and often, preventable. If not instantly fatal, the damage associated with electrical injuries can result in the dysfunction of multiple tissues or organs.<xref ref-type="bibr" rid="article-20967.r1">[1]</xref><xref ref-type="bibr" rid="article-20967.r2">[2]</xref><xref ref-type="bibr" rid="article-20967.r3">[3]</xref><xref ref-type="bibr" rid="article-20967.r4">[4]</xref></p>
+        <p>There are four main types of electrical injuries: flash, flame, lightning, and true. Flash injuries, caused by an arc flash, are typically associated with superficial burns, as no electrical current travels past the skin. Flame injuries occur when an arc flash ignites an individual&#x02019;s clothing, and electrical current may or may not pass the skin in these cases. Lightning injuries, involving extremely short but very high voltage electrical energy, are associated with an electrical current flowing through the individual&#x02019;s entire body.&#x000a0;True electrical injuries involve an individual becoming part of an electrical circuit. In these cases, an entrance and exit site are usually found.</p>
+      </sec>
+      <sec id="article-20967.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p>An individual may experience an electrical injury at home such as shock from a small appliance, extension cord, or wall outlet, which is very rarely associated with any significant trauma or complications. Children may experience a low-voltage injury without associated loss of consciousness or arrest by biting or chewing on an electrical cord. Adults may&#x000a0;receive similar injuries while working on home or office appliances or circuits. Low-voltage electrical current can result in severe injury, much like high-voltage current, depending on the length of exposure (e.g., if there is prolonged muscle tetany), the size of the individual, and cross-sectional area in contact with the electrical source.<xref ref-type="bibr" rid="article-20967.r5">[5]</xref><xref ref-type="bibr" rid="article-20967.r6">[6]</xref><xref ref-type="bibr" rid="article-20967.r7">[7]</xref><xref ref-type="bibr" rid="article-20967.r8">[8]</xref></p>
+        <p>At least half of all electrocutions encountered in an occupational setting occur as a result of contact with power lines, and about a quarter as a result of electrical machines or tools.</p>
+      </sec>
+      <sec id="article-20967.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p>In the United States, there are approximately 1000 deaths per year, as&#x000a0;a result of electrical injuries. Of these, approximately 400 are due to high-voltage electrical injuries, and lightning causes 50 to 300.</p>
+        <p>There are also at least 30,000 shock incidents per year that are non-fatal. Each year, approximately 5% of all burn unit admissions in the United States occur as a result of electrical injuries.</p>
+        <p>Approximately 20% of all electrical injuries occur in&#x000a0;children. The incidence is highest in toddlers and adolescents.</p>
+        <p>In adults, these injuries occur mostly in occupational settings and are the fourth-leading cause of workplace-related traumatic death, whereas, in children, electrical injuries occur most often at home.</p>
+      </sec>
+      <sec id="article-20967.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>The flow of electrons through a conductive material, down a potential gradient from high to low concentration, generates electricity. The potential gradient, or the difference between the high and low concentration of electrons, represents the voltage and may vary depending on the electrical source. Electrical injuries can be separated based on low-voltage or high-voltage injuries, where a threshold of either 500 V to 100 V may be used. This is considered high. Household electricity in the United States is set at 110 V, though some high-power appliances may be set as high as 240 V. In comparison, industrial and high-tension electrical power lines can be set at greater than 100,000 V.</p>
+        <p>Current (I), describes the amount of energy (volume of electrons) flowing down a potential gradient and is measured in amperes (A). This describes the amount of energy that flows through the affected individual&#x02019;s body as a result of an electrical injury. Individuals vary in the amount of maximum current they can tolerate touching while still being able to let go of the electrical source before induction of muscle tetany.</p>
+        <p>Resistance (R) is a measure of how a material reduces the amount of electrical flow that passes through it, measured in ohms. In the body, the resistance varies between tissues, depending on the level of water and electrolytes that are present. The highest concentration of electrolytes and water (and therefore the lowest resistance) are found in blood vessels, neurons, and muscles. For this reason, these are excellent conductors of electricity in the body. Bone, fat, and skin are, contrastingly, poor conductors of electricity (with high resistance). Skin resistance also increases with increased thickness, dryness, and keratinization. Moist mucous membranes or openings in the skin (e.g., punctures, lacerations, or abrasions) contrastingly have a lower resistance.</p>
+        <p>Tissues with the highest resistance tend to suffer the greatest level of damage as a result of an electrical injury. High skin resistance will cause a larger amount of energy dissipation at the level of the skin resulting in skin burns, thereby reducing the level of resultant internal damage. On the other hand, low skin resistance may result in less obvious skin injury or no skin injury at all, while a larger amount of electrical energy is transferred to internal tissues. For this reason, the extent of external burns on the skin does not predict the level of damage that will be found internally, nor does the total absence of external burns predict the total absence of internal electrical injury.</p>
+        <p>The resistance of internal tissues themselves further determines the level of damage that is encountered. An additional factor to consider is the current density which is determined by the cross-sectional area of a particular tissue. For example, as electrical energy travels down an arm which is mainly composed of low-resistance tissues like muscle, nerve, blood vessels, the current density is relatively low and constant throughout.&#x000a0;This is true until the electrical energy reaches the joints (e.g., elbow, wrist, fingers) where a larger proportion of the cross-sectional area is comprised of tissues with higher resistance (e.g., bones, tendons) and fewer low-resistance tissues. Therefore, at the joints, the electrical energy becomes more focused on fewer low-resistance tissues, and for this reason, these types of tissues tend to suffer the most injury at the joints throughout the body.</p>
+        <p>Other determinants of electrical injury throughout the body are the source (i.e., entry point) and ground (i.e., exit point) of the current. The most common source is a hand, followed by the head, while the most common ground is usually a foot. Any current passing through the head may result in central nervous system (CNS) damage. The heart is most often affected if the current travels from hand to leg or hand to hand across the body, and this may result in a potentially fatal arrhythmia.</p>
+        <p>Ohm&#x02019;s law describes the relationship between current, voltage, and resistance, such that voltage is directly proportional to current, while indirectly proportional to resistance.</p>
+        <p>The degree of electrical injury experienced by an individual can be predicted by Kouwenhoven factors include the type of current, current strength, length of time of exposure, body resistance, and the pathway the current takes in the body in addition to electrical field strength.</p>
+        <p>Type of current refers to either alternating current (AC) or direct current (DC). AC, the current found in household electrical outlets (generally 50 Hz to 60 Hz; low frequency), changes direction rhythmically, while DC, the current found in most batteries, constantly flows in one direction. Most cardioverters and defibrillators also use DC.</p>
+        <p>The higher the current and voltage associated with AC or DC, the greater the electrical damage will be. High-voltage current (greater than 500 V to 1000 V) typically will result in deep burns, while low-voltage current (110 V to 120 V) is more likely to result in tetany.</p>
+        <p>Muscle tetany typically occurs in response to electrical stimulation at a frequency of 40 Hz to 110 Hz, a range in which most household currents exist. If this muscle contraction occurs&#x000a0;in the hand, contraction&#x000a0;of flexors&#x000a0;will cause the affected individual to grasp the source and prolong contact with the electrical source.</p>
+        <p>Most humans can perceive electrical energy, to touch, at a current of 1 milliamp (mA). Let-go current refers to the amount current (amperage) that will still allow an individual to release the source, even though muscle contraction is induced. The amount of amperage tolerated per individual (let-go current) varies depending on his or her size (i.e., muscle mass and weight). An average 70 kg man, for example, will have a let-go current of approximately 75 mA for DC and 15 mA for AC. Most children can tolerate a let-go current of 3 mA to 5 mA, which is much lower than the current generated by most circuit breakers. An electrical switch is designed to interrupt the electrical flow when there is an excess of electrical current found in the home.</p>
+        <p>It is mainly the frequency of AC that determines the effect it will have on the body. Low-frequency AC tends to cause tetany (prolonged muscle contraction), making it difficult for an affected individual to release the current source, thereby prolonging the length of exposure. For this reason, low-frequency AC can often be more hazardous than high-frequency AC. In general, AC is also approximately three to five times more damaging than DC of equal voltage and current.&#x000a0;In addition, DC only causes a single convulsion or contraction, usually propelling the person away from the electrical source.</p>
+        <p>Finally, electrical field strength must be considered when determining the level of tissue injury. Field strength is determined based on the amount of voltage that is encountered, in addition to the size of the area with which it comes in contact. For example, a very high voltage that comes in contact with a larger surface area may have a field strength that is equal to or perhaps even less than a much smaller voltage coming into contact with a much smaller surface area. For this reason, low-voltage injuries (spread out over a smaller area) can often result in the same amount of damage as high-voltage injuries (spread out over a larger area).</p>
+        <p>Low electrical field strength is associated with an immediate, uncomfortable sensation (&#x0201c;shock&#x0201d;) that will not result in any significant injury. High electrical field strength, on the other hand, tends to result in either electrochemical or thermal damage to affected tissues with the risk of causing protein coagulation, coagulation necrosis, hemolysis, thrombosis, muscle or tendon avulsion, or dehydration. In addition to the electrical injury itself, high electrical field strength injury can result in massive tissue edema (e.g., secondary to thrombosis, vascular congestion, and muscle swelling secondary to damage), leading potentially to compartment syndrome. Dehydration (with associated hypovolemia and hypotension) may also occur as a result of this tissue edema. Severe muscle injury may lead to rhabdomyolysis, myoglobinuria, and additional electrolyte disturbances. Altogether, these sequelae place individuals at a very high risk of acute kidney injury.</p>
+      </sec>
+      <sec id="article-20967.s6" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>An individual that has experienced an electrical injury may present with a variety of complaints or issues, and these may include cardiac arrhythmia or arrest, respiratory arrest, coma, blunt trauma, or an assortment of burns. Some patients may complain of occasional unpleasant sensations without any obvious physical damage, while others may present with a large amount of pain and overt tissue damage. Regardless of the patient&#x02019;s presentation, it is critical to determine details about the source of electrical injury (e.g., high versus low voltage, AC versus DC), the length of contact, and any resultant trauma that may have occurred.</p>
+        <p>Patients that have experienced a low-voltage AC injury may present with only superficial burns, or contrastingly, many devastating injuries if there is prolonged contact or muscle tetany. Low-voltage AC injuries may potentially result in cardiac or respiratory arrest, arrhythmias (e.g., ventricular fibrillation), or seizures that are unwitnessed. For this reason, electrocution should be considered as a differential for any patient that presents with or has experienced a recent arrest. Additionally, it is important to obtain as much information as possible regarding the electrical injury, from any witnesses or emergency medical service personnel, to guide treatment appropriately.</p>
+        <p>High-voltage AC injuries are more likely to result in highly destructive thermal burns. It is very rare for a patient that has experienced a high-voltage AC injury to have associated loss of consciousness or arrest. Under such circumstances the provider should, again, try to obtain as much information as possible regarding the injury from witnesses or associated medical personnel.</p>
+        <p>Regardless of the presenting complaints or extent of the electrical injury, all patients should receive a thorough physical examination to assess the full extent of the damage. In general, morbidity tends to be higher with low-voltage injuries than with high-voltage injuries.</p>
+        <p>Ventricular fibrillation, for example, may occur with exposure to voltage as low as 50 mA to 120 mA (i.e., lower than the highest accessible current in most households). In addition to arrhythmias and other electrical abnormalities, electrical injuries may also directly damage cardiac myocytes. Therefore, patients may experience delayed arrhythmias as a result of this damage as well (e.g., sinus tachycardia or premature ventricular contractions). Electrical injuries resulting in long-term cardiac sequelae, however, are rare.</p>
+        <p>If the pathway of electrical current through the body crosses the thorax, there is a risk of chest wall muscle paralysis and concomitant respiratory arrest. Unlike cardiac myocytes, however, lung tissue is a poor electrical conductor, and therefore rarely experiences a direct electrical injury.</p>
+        <p>Skin damage secondary to electrical injury is often the most devastating of associated injuries (secondary only to cardiac complications). Burns may appear minor despite substantial internal injuries (e.g., as with high voltage electrothermal burns) that may necessitate interventional surgery (e.g., amputation or fasciotomy). Burns are generally most severe at the source contact point (entry) and ground (exit), with the severity of any remaining injury depending heavily on the intensity and duration of source contact.</p>
+        <p>An electric arc is a form of electrical discharge that occurs between two electrodes as electrical current ionizes gases present in the air. This type of current, also known as plasma, is a current that passes through a medium that is normally nonconductive, has the highest current density, and is often luminous. Though in nature, electric arcs occur in the form of lightning, this is also a type of electrical current that may be harnessed and used industrially (e.g., welding, plasma cutting, fluorescent lighting). Undesired arcs may also occur as a result of poorly installed circuit breakers, switches, or electrical contact points. If an individual experiences an electrical arc burn there will likely be skin lesions at the point of source and ground contact points. These lesions&#x000a0;characteristically have a dry parchment paper-like center surrounded by a rim of congestion. Based on the location of these wounds, one can determine the likely path of the arc through the body. Arcs may also cause electrothermal, flash, or flame burns in addition to electrical burns; therefore, a variety of wounds may be observed in affected individuals.</p>
+        <p>Flash burns occur when an individual is in proximity to the heat produced by an electrical arc, and this heat may reach more than 50,000 degrees Celcius.</p>
+        <p>Flash burns may pass through the body like an arc burn or, depending on the path of the arc; the flash may only pass over the surface of the skin, thereby causing diffuse superficial or partial-thickness burns without any internal injury.</p>
+        <p>Pediatric patients may present with oral burns as a result of biting or sucking on an electrical wire or appliance. An electric arc often forms between one side of the mouth to the other, whereby there may be involvement of the orbicularis oris muscle, or potential deformation of the lip if the burn crosses the oral commissure which are the corners of the mouth. There may be a significant amount of associated edema, as well as eschar formation within two to three days. If the eschar involves the labial artery, there may be severe bleeding when the eschar falls off after two to three weeks. These patients should, therefore, be monitored closely and receive adequate follow-up with burn specialists and oral or plastic surgeons.</p>
+        <p>Secondary blunt trauma as a result of an electrical injury may result in musculoskeletal or head injuries including tympanic membrane, cervical spine, or facial injury and potential subsequent neurological damage. Patients should be thoroughly examined for any signs of impending compartment syndrome (e.g., circumferential burns, vascular abnormalities, and any neurologic or motor dysfunction). Surgical consultation should be obtained as early as possible to avoid any further complications (e.g., severe compartment syndrome necessitating amputation).</p>
+      </sec>
+      <sec id="article-20967.s7" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>Victims of electrical injuries should be approached as both trauma and cardiac patients. All adult patients that have experienced an electrical injury should receive an electrocardiogram (ECG) and cardiac monitoring. Prolonged monitoring is warranted for any patient who presents with chest pain, abnormalities on ECG, the known transthoracic path of electrical injury, cardiac arrest, loss of consciousness, or known cardiac history. Most patients that have no significant injury or cardiac abnormalities on initial assessment are unlikely to develop any cardiac abnormalities after 24 to 48 hours.<xref ref-type="bibr" rid="article-20967.r9">[9]</xref><xref ref-type="bibr" rid="article-20967.r10">[10]</xref><xref ref-type="bibr" rid="article-20967.r11">[11]</xref><xref ref-type="bibr" rid="article-20967.r12">[12]</xref></p>
+        <p>In general, patients with a normal ECG who have experienced a low-voltage electrical injury, without any cardiac complaints or cardiac history, may be safely discharged home following a thorough physical examination. Similarly, children that experience a low-voltage, household current electrical exposure without any significant injury or pre-existing cardiac history may be discharged following a thorough physical examination.</p>
+        <p>Laboratory studies that should be considered in any patient that experiences an electrical injury include a complete blood count (CBC), a complete metabolic panel including assessment of electrolyte and creatinine levels, urinalysis, serum myoglobin (if urinalysis reveals myoglobinuria), and an arterial blood gas analysis if the patient presents with rhabdomyolysis or requires respiratory support. Creatine kinase (CK) levels should also be assessed, especially if rhabdomyolysis is suspected. Creatine kinase-MB (CK-MB) and troponin levels should be assessed as well if the path of electrical current is suspected to have traversed the chest, if the patient complains of chest pain, or if there is any abnormality noted on ECG such as arrhythmia or signs of ischemia.</p>
+        <p>Imaging studies may also be considered, depending on the type of injury and associated complaints. A chest radiograph is warranted for any patient that presents with cardiac or respiratory arrest, chest pain, shortness of breath, hypoxia, experienced fall or blunt trauma, or required cardiopulmonary resuscitation (CPR). A head computed tomography (CT) is warranted for any patient that presents with altered mental status, known trauma to the head, loss of consciousness, seizure, or any focal neurologic deficits. In addition to a head CT, these patients should be immobilized at the cervical spine, and imaging of the cervical spine may also be considered (may not be warranted in a patient with no focal neurologic deficits, no changes in mental status, or no significant injury).</p>
+        <p>It is important to note that the severity of an electrical injury is not related to the extent of external burns on an individual&#x02019;s body such that lack of an external burn does not predict the absence of electrical injury to internal tissues. Therefore, some patients may require additional CT or ultrasound imaging depending on the path of electrical current through the body to assess for any internal tissue injuries (imaging modality of choice depending on the tissue being examined).</p>
+        <p>Finally, high-voltage or prolonged low-voltage electrical exposure may result in tissue damage that necessitates fasciotomy. Surgical consultation should be obtained as soon as possible under such circumstances; as prompt fasciotomy may help avoid further complications like amputation.</p>
+      </sec>
+      <sec id="article-20967.s8" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>On arrival in the emergency department, patients that have experienced an electrical injury should be stabilized and provided both respiratory and circulatory support as needed (according to advanced cardiovascular life support [ACLS] and advanced trauma life support [ATLS] protocols). Cardiac monitoring should be initiated in all patients that have experienced anything greater than a minor low-voltage burn.</p>
+        <p>Any patient with facial or oral burns, hypoxia, respiratory distress, loss of consciousness, or other issues resulting in difficulty protecting the airway or maintaining a patent airway should be given oxygen and airway protection (e.g., ventilation, intubation, cricothyrotomy).</p>
+        <p>Depending on the type of trauma or injury experienced, the patient may require cervical or spinal immobilization. A primary assessment evaluating for traumatic injuries (e.g., pneumothorax, fractures) should be performed as soon as possible. Following the primary assessment, any patient with significant burns or suspected rhabdomyolysis (myoglobinuria) should be given fluid resuscitation (with target urine output 0.5&#x000a0;mL/kg/h to 1 mL/kg/h). An osmotic diuretic (mannitol), a loop diuretic (furosemide), or urine alkalization (with sodium bicarbonate titration) may also be employed if additional diuresis is needed.</p>
+        <p>Intravenous (IV) access should be obtained in all adult patients that have experienced an electrical injury. If there is significantly associated trauma, cardiac or respiratory arrest, or loss of consciousness, central IV access should be considered.</p>
+        <p>Proper burn care should be initiated, including a tetanus vaccination, if needed, and proper splinting and bandaging following a thorough neurovascular assessment.</p>
+        <p>Any patient that has experienced cardiac or respiratory arrest, loss of consciousness, chest pain, hypoxia, arrhythmia, significant trauma or burns, or displays abnormalities on ECG should be admitted for further inpatient care. This may additionally be followed by transfer to burn care or rehabilitation center as necessary.</p>
+        <p>Finally, consultations with trauma or critical care specialists, surgical specialists, and orthopedists should be considered as soon as possible to avoid any complications or irreversible damage.</p>
+        <p>Prior to discharge, patients should be educated on potential sources of household and workplace exposures and risks, in addition to any potential long-term effects of their electrical injuries (e.g., neurological, psychological, or physical), and scheduled follow-up as needed.</p>
+      </sec>
+      <sec id="article-20967.s9" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <p>The differential diagnoses of electrical burns include but are not limited to the following:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Chemical burns</p>
+          </list-item>
+          <list-item>
+            <p>Thermal burns</p>
+          </list-item>
+          <list-item>
+            <p>Intracranial haemorrhage</p>
+          </list-item>
+          <list-item>
+            <p>Ocular burns and chemical injuries</p>
+          </list-item>
+          <list-item>
+            <p>Respiratory arrest</p>
+          </list-item>
+          <list-item>
+            <p>Rhabdomyolysis</p>
+          </list-item>
+          <list-item>
+            <p>Seizures</p>
+          </list-item>
+          <list-item>
+            <p>Syncope</p>
+          </list-item>
+          <list-item>
+            <p>Status epilepticus</p>
+          </list-item>
+          <list-item>
+            <p>Ventricular fibrillation</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-20967.s10" sec-type="Prognosis">
+        <title>Prognosis</title>
+        <p>The location and extent of injury, the development of complications, and the functional result determine outcome and prognosis. High voltage electrical injuries have poor outcomes as compared to low voltage. Recent advances in ICU care, resuscitation, nutritional support, and surgical techniques, along with new skin substitutes, have significantly improved outcomes.</p>
+      </sec>
+      <sec id="article-20967.s11" sec-type="Complications">
+        <title>Complications</title>
+        <p>High electrical field strength tends to result in either electrochemical or thermal damage to affected tissues with the risk of causing protein coagulation, coagulation necrosis, hemolysis, thrombosis, muscle or tendon avulsion, or dehydration. In addition to the electrical injury itself, high electrical field strength injury can result in massive tissue edema (e.g., secondary to thrombosis, vascular congestion, and muscle swelling secondary to damage), leading potentially to compartment syndrome. Dehydration (with associated hypovolemia and hypotension) may also occur as a result of this tissue edema. Severe muscle injury may lead to rhabdomyolysis, myoglobinuria, and additional electrolyte disturbances. Altogether, these sequelae place individuals at a very high risk of acute kidney injury.</p>
+        <p>Potential long-term sequelae of electrical injuries may include:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Neurological
+<list list-type="bullet"><list-item><p>Neuropathy</p></list-item><list-item><p>Seizures</p></list-item><list-item><p>Syncope</p></list-item><list-item><p>Tinnitus</p></list-item><list-item><p>Paresthesias</p></list-item><list-item><p>Weakness</p></list-item><list-item><p>Loss of balance, poor coordination, or gait ataxia</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Psychological
+<list list-type="bullet"><list-item><p>Memory or attention difficulties</p></list-item><list-item><p>Irritability</p></list-item><list-item><p>Depression</p></list-item><list-item><p>Post-traumatic stress</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Ocular
+<list list-type="bullet"><list-item><p>Cataracts</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Physical
+<list list-type="bullet"><list-item><p>Pain</p></list-item><list-item><p>Fatigue</p></list-item><list-item><p>Contractures</p></list-item><list-item><p>Muscle spasms</p></list-item><list-item><p>Pruritus</p></list-item><list-item><p>Headaches</p></list-item><list-item><p>Fever or night sweats</p></list-item><list-item><p>Reduced range of motion or stiffness in the joints</p></list-item></list>
+</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-20967.s12" sec-type="Consultations">
+        <title>Consultations</title>
+        <p>The management of electrical injuries requires a multidisciplinary team. Following specialist are involved in care of such patients:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>General surgeon</p>
+          </list-item>
+          <list-item>
+            <p>Orthopedic surgeon</p>
+          </list-item>
+          <list-item>
+            <p>Critical care/trauma specialist</p>
+          </list-item>
+          <list-item>
+            <p>Neurosurgeon</p>
+          </list-item>
+          <list-item>
+            <p>Neurologist</p>
+          </list-item>
+          <list-item>
+            <p>Cardiologist</p>
+          </list-item>
+          <list-item>
+            <p>Psychiatrist</p>
+          </list-item>
+          <list-item>
+            <p>Physiotherapist</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-20967.s13" sec-type="Deterrence and Patient Education">
+        <title>Deterrence and Patient Education</title>
+        <p>To help prevent getting an electrical burn at home, the following precautions should be taken:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Put child-safety covers on all electrical outlets.</p>
+          </list-item>
+          <list-item>
+            <p>Keep electrical cords out of the reach of children.</p>
+          </list-item>
+          <list-item>
+            <p>Follow the directions when using electrical appliances.</p>
+          </list-item>
+          <list-item>
+            <p>Avoid using electrical appliances in the shower or bath.</p>
+          </list-item>
+          <list-item>
+            <p>Turn off the circuit breaker when you are working with electricity.</p>
+          </list-item>
+        </list>
+        <p>Prior to discharge, patients should be educated on potential sources of household and workplace exposures and risks, in addition to any potential long-term effects of their electrical injuries (e.g., neurological, psychological, or physical), and scheduled follow-up as needed.</p>
+      </sec>
+      <sec id="article-20967.s14" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>The diagnosis and management of the electrical injury are best done with an interprofessional team that includes an emergency department provider, radiologist, surgeon, trauma specialist, anesthesiologist, and a burn specialist. Depending on the severity of the injury, one may need to first follow the&#x000a0;advanced trauma life support protocol. Cardiac monitoring should be initiated in all patients that have experienced anything greater than a minor low-voltage burn.</p>
+        <p>Any patient with facial or oral burns, hypoxia, respiratory distress, loss of consciousness, or other issues resulting in difficulty protecting the airway or maintaining a patent airway should be given oxygen and airway protection (e.g., ventilation, intubation, cricothyrotomy). All patients who developed respiratory or cardiac arrest need ICU admission. Consultations with trauma or critical care specialists, surgical specialists, and orthopedists should be considered as soon as possible to avoid any complications or irreversible damage.<xref ref-type="bibr" rid="article-20967.r13">[13]</xref></p>
+        <p>Prior to discharge, patients should be educated on potential sources of household and workplace exposures and risks, in addition to any potential long-term effects of their electrical injuries (e.g., neurological, psychological, or physical), and scheduled follow-up as needed.</p>
+      </sec>
+      <sec id="article-20967.s15">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=20967&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=20967">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/wilderness-and-environmental/electrical-injuries/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=20967">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/20967/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=20967">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-20967.s16">
+        <title>References</title>
+        <ref id="article-20967.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Burnham</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Hilgenhurst</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>McCormick</surname>
+                <given-names>ZL</given-names>
+              </name>
+            </person-group>
+            <article-title>Second-degree Skin Burn from a Radiofrequency Grounding Pad: A Case Report and Review of Risk-Mitigation Strategies.</article-title>
+            <source>PM R</source>
+            <year>2019</year>
+            <month>Oct</month>
+            <volume>11</volume>
+            <issue>10</issue>
+            <fpage>1139</fpage>
+            <page-range>1139-1142</page-range>
+            <pub-id pub-id-type="pmid">30746904</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20967.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kim</surname>
+                <given-names>MS</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>SG</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>JY</given-names>
+              </name>
+              <name>
+                <surname>Kang</surname>
+                <given-names>MY</given-names>
+              </name>
+            </person-group>
+            <article-title>Maculopathy from an accidental exposure to welding arc.</article-title>
+            <source>BMJ Case Rep</source>
+            <year>2019</year>
+            <month>Feb</month>
+            <day>03</day>
+            <volume>12</volume>
+            <issue>2</issue>
+            <pub-id pub-id-type="pmid">30718265</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20967.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Carrano</surname>
+                <given-names>FM</given-names>
+              </name>
+              <name>
+                <surname>Iezzi</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Melis</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Quaresima</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Gaspari</surname>
+                <given-names>AL</given-names>
+              </name>
+              <name>
+                <surname>Di Lorenzo</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>A Surgical Instrument Cover for the Prevention of Thermal Injuries During Laparoscopic Operations.</article-title>
+            <source>J Laparoendosc Adv Surg Tech A</source>
+            <year>2019</year>
+            <month>Jan</month>
+            <day>30</day>
+            <pub-id pub-id-type="pmid">30698493</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20967.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lovaglio</surname>
+                <given-names>AC</given-names>
+              </name>
+              <name>
+                <surname>Socolovsky</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Di Masi</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Bonilla</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Treatment of neuropathic pain after peripheral nerve and brachial plexus traumatic injury.</article-title>
+            <source>Neurol India</source>
+            <year>2019</year>
+            <season>Jan-Feb</season>
+            <volume>67</volume>
+            <issue>Supplement</issue>
+            <fpage>S32</fpage>
+            <page-range>S32-S37</page-range>
+            <pub-id pub-id-type="pmid">30688230</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20967.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Trivedi</surname>
+                <given-names>TK</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Antonio</surname>
+                <given-names>ALM</given-names>
+              </name>
+              <name>
+                <surname>Wheaton</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Kreger</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Yap</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Schriger</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Elmore</surname>
+                <given-names>JG</given-names>
+              </name>
+            </person-group>
+            <article-title>Injuries Associated With Standing Electric Scooter Use.</article-title>
+            <source>JAMA Netw Open</source>
+            <year>2019</year>
+            <month>Jan</month>
+            <day>04</day>
+            <volume>2</volume>
+            <issue>1</issue>
+            <fpage>e187381</fpage>
+            <pub-id pub-id-type="pmid">30681711</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20967.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Daskal</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Beicker</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Dudkiewicz</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Kessel</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>[HIGH VOLTAGE ELECTRIC INJURY: MECHANISM OF INJURY, CLINICAL FEATURES AND INITIAL EVALUATION.].</article-title>
+            <source>Harefuah</source>
+            <year>2019</year>
+            <month>Jan</month>
+            <volume>158</volume>
+            <issue>1</issue>
+            <fpage>65</fpage>
+            <page-range>65-69</page-range>
+            <pub-id pub-id-type="pmid">30663297</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20967.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bailey</surname>
+                <given-names>ME</given-names>
+              </name>
+              <name>
+                <surname>Sagiraju</surname>
+                <given-names>HKR</given-names>
+              </name>
+              <name>
+                <surname>Mashreky</surname>
+                <given-names>SR</given-names>
+              </name>
+              <name>
+                <surname>Alamgir</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Epidemiology and outcomes of burn injuries at a tertiary burn care center in Bangladesh.</article-title>
+            <source>Burns</source>
+            <year>2019</year>
+            <month>Jun</month>
+            <volume>45</volume>
+            <issue>4</issue>
+            <fpage>957</fpage>
+            <page-range>957-963</page-range>
+            <pub-id pub-id-type="pmid">30612889</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20967.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Von Caues</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Herbst</surname>
+                <given-names>CI</given-names>
+              </name>
+              <name>
+                <surname>Wadee</surname>
+                <given-names>SA</given-names>
+              </name>
+            </person-group>
+            <article-title>A retrospective review of fatal electrocution cases at Tygerberg Forensic Pathology Services, Cape Town, South Africa, over the 5-year period 1 January 2008 - 31 December 2012.</article-title>
+            <source>S Afr Med J</source>
+            <year>2018</year>
+            <month>Nov</month>
+            <day>26</day>
+            <volume>108</volume>
+            <issue>12</issue>
+            <fpage>1042</fpage>
+            <page-range>1042-1045</page-range>
+            <pub-id pub-id-type="pmid">30606289</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20967.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pawlik</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Lampart</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Stephan</surname>
+                <given-names>FP</given-names>
+              </name>
+              <name>
+                <surname>Bingisser</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Ummenhofer</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Nickel</surname>
+                <given-names>CH</given-names>
+              </name>
+            </person-group>
+            <article-title>Outcomes of electrical injuries in the emergency department: a 10-year retrospective study.</article-title>
+            <source>Eur J Emerg Med</source>
+            <year>2016</year>
+            <month>Dec</month>
+            <volume>23</volume>
+            <issue>6</issue>
+            <fpage>448</fpage>
+            <page-range>448-454</page-range>
+            <pub-id pub-id-type="pmid">25969345</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20967.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Davis</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Engeln</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Johnson</surname>
+                <given-names>EL</given-names>
+              </name>
+              <name>
+                <surname>McIntosh</surname>
+                <given-names>SE</given-names>
+              </name>
+              <name>
+                <surname>Zafren</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Islas</surname>
+                <given-names>AA</given-names>
+              </name>
+              <name>
+                <surname>McStay</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Smith</surname>
+                <given-names>WR</given-names>
+              </name>
+              <name>
+                <surname>Cushing</surname>
+                <given-names>T</given-names>
+              </name>
+              <collab>Wilderness Medical Society</collab>
+            </person-group>
+            <article-title>Wilderness Medical Society practice guidelines for the prevention and treatment of lightning injuries: 2014 update.</article-title>
+            <source>Wilderness Environ Med</source>
+            <year>2014</year>
+            <month>Dec</month>
+            <volume>25</volume>
+            <issue>4 Suppl</issue>
+            <fpage>S86</fpage>
+            <page-range>S86-95</page-range>
+            <pub-id pub-id-type="pmid">25498265</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20967.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gentges</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Schieche</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Electrical injuries in the emergency department: an evidence-based review.</article-title>
+            <source>Emerg Med Pract</source>
+            <year>2018</year>
+            <month>Nov</month>
+            <volume>20</volume>
+            <issue>11</issue>
+            <fpage>1</fpage>
+            <page-range>1-20</page-range>
+            <pub-id pub-id-type="pmid">30358379</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20967.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lee</surname>
+                <given-names>DH</given-names>
+              </name>
+              <name>
+                <surname>Desai</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Gauger</surname>
+                <given-names>EM</given-names>
+              </name>
+            </person-group>
+            <article-title>Electrical Injuries of the Hand and Upper Extremity.</article-title>
+            <source>J Am Acad Orthop Surg</source>
+            <year>2019</year>
+            <month>Jan</month>
+            <day>01</day>
+            <volume>27</volume>
+            <issue>1</issue>
+            <fpage>e1</fpage>
+            <page-range>e1-e8</page-range>
+            <pub-id pub-id-type="pmid">30278017</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20967.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gille</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Schmidt</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Dragu</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Emich</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Hilbert-Carius</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Kremer</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Raff</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Reichelt</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Siafliakis</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Siemers</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Steen</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Struck</surname>
+                <given-names>MF</given-names>
+              </name>
+            </person-group>
+            <article-title>Electrical injury - a dual center analysis of patient characteristics, therapeutic specifics and outcome predictors.</article-title>
+            <source>Scand J Trauma Resusc Emerg Med</source>
+            <year>2018</year>
+            <month>May</month>
+            <day>31</day>
+            <volume>26</volume>
+            <issue>1</issue>
+            <fpage>43</fpage>
+            <pub-id pub-id-type="pmid">29855384</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

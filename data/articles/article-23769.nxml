@@ -1,0 +1,1433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-23769" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Iron Overload</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>McDowell</surname>
+            <given-names>Lisa A.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Kudaravalli</surname>
+            <given-names>Pujitha</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Chen</surname>
+            <given-names>Richard J.</given-names>
+          </name>
+          <aff>Jefferson-Einstein Healthcare Network</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Sticco</surname>
+            <given-names>Kristin L.</given-names>
+          </name>
+          <aff>Stony Brook University Hospital</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Lisa McDowell declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Pujitha Kudaravalli declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Richard Chen declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Kristin Sticco declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>11</day>
+          <month>1</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-23769.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Iron plays a critical role in various metabolic processes, including oxygen transport, energy production, and immune response. Iron overload occurs when there are excess stores of iron in the body. Primary iron overload is often inherited. Secondary iron overload usually arises from causes such as transfusion, hemolysis, or excessive parenteral and/or dietary consumption of iron. Excess iron is deposited into organs throughout the body, which can damage the organs. Organs that commonly become damaged due to iron deposition are the liver, heart, and endocrine glands. This activity reviews the evaluation and management of iron overload and highlights the role of the interprofessional team in recognizing and managing this condition.</p>
+        <p>Participants will gain insights into the delicate balance of iron levels in the body and how disruptions can lead to pathological conditions. Clinicians will be equipped with the knowledge to recognize and effectively manage iron overload, emphasizing the collaborative role of the interprofessional team in tackling this condition. A focus will be placed on acquiring&#x000a0;enhanced diagnostic skills, a nuanced understanding of the impact of iron on organ systems, and practical strategies for intervention, ensuring a holistic approach to patient care in the context of iron overload.&#x000a0;</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Differentiate between primary and secondary iron overload by recognizing the distinct etiological factors associated with genetic mutations and secondary causes such as transfusion, hemolysis, and excessive iron intake.</p></list-item><list-item><p>Screen at-risk populations effectively to identify individuals predisposed to iron overload, employing appropriate diagnostic tools and considering genetic, clinical, and lifestyle factors contributing to iron accumulation.</p></list-item><list-item><p>Select appropriate interventions, including therapeutic phlebotomy, chelation therapy, and dietary modifications, tailored to the individual patient's needs and the specific underlying causes of iron overload.</p></list-item><list-item><p>Collaborate with the interprofessional team to enhance patient outcomes by integrating diverse perspectives and expertise in the ongoing care and management of patients with iron overload.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=23769&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=23769">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-23769.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Iron is an essential element and plays a critical role in various metabolic processes in the body, including oxygen transport, energy production, and immune response.<xref ref-type="bibr" rid="article-23769.r1">[1]</xref> In certain disease states, an excess of iron can accumulate in the body. This state is termed iron overload. Iron overload most commonly occurs due to genetic mutation and is called hemochromatosis.&#x000a0;The body's iron stores can also exceed normal limits due to secondary causes such as transfusion, hemolysis, and elevated dietary iron consumption.&#x000a0;</p>
+        <p>Excess iron is deposited in organs throughout the body and can cause organ damage due to the formation of reactive oxygen species. The liver, heart, and endocrine glands are the most notable organs with iron deposition. The resulting symptoms and disease are related to the specific organ damage.<xref ref-type="bibr" rid="article-23769.r2">[2]</xref>&#x000a0;Understanding and management of iron overload is a vital aspect of clinical practice.</p>
+      </sec>
+      <sec id="article-23769.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p>Primary iron overload is most often&#x000a0;inherited. Hereditary hemochromatosis is the leading case of iron overload disease. In 1996, 2 gene mutations (C282Y and H63D) of the <italic toggle="yes">HFE</italic> gene were discovered and linked to primary iron overload. The most common is C282Y, which encodes the hereditary hemochromatosis protein (HFE protein) and plays a role in hepcidin regulation. Less common genetic mutations are found in&#x000a0;<italic toggle="yes">HAMP, HJV,&#x000a0;TFR2,&#x000a0;</italic>and<italic toggle="yes"> SLC40A1</italic>. These gene mutations are grouped as non-<italic toggle="yes">HFE</italic> hemochromatosis.<xref ref-type="bibr" rid="article-23769.r3">[3]</xref></p>
+        <p>The previous classification of hemochromatosis consisted of four types. Type 1 is classic hemochromatosis resulting from <italic toggle="yes">HFE</italic> gene mutation (C282Y or H63D). The remaining types are non-classical. Type 2A results from <italic toggle="yes">HAMP</italic>&#x000a0;mutation. Type 2B results from <italic toggle="yes">HJV</italic> mutation. Type 3 is due to a mutation in <italic toggle="yes">TFR2,</italic> and Type 4 is due to <italic toggle="yes">SLC40A1.</italic><xref ref-type="bibr" rid="article-23769.r4">[4]</xref> A newer system that classifies hemochromatosis as <italic toggle="yes">HFE</italic>-related, non-<italic toggle="yes">HFE</italic>-related, and digenic has been proposed. The classification places type 1 into the <italic toggle="yes">HFE</italic>-related group. This also includes the heterozygosity of C282Y with other rare <italic toggle="yes">HFE</italic> variants. Groups Type 2, 3, and 4 fall into the non-<italic toggle="yes">HFE</italic>-related group. Digenic consists of double heterozygosity and/or double homozygosity/heterozygosity for mutations in two different genes, which can be <italic toggle="yes">HFE</italic> or non-<italic toggle="yes">HFE</italic>-related.<xref ref-type="bibr" rid="article-23769.r5">[5]</xref></p>
+        <p>The introduction of excess iron&#x000a0;into the body&#x000a0;causes secondary iron overload. This occurs most commonly through blood transfusion and also can be due to hemolysis or excessive parenteral and/or dietary consumption.<xref ref-type="bibr" rid="article-23769.r6">[6]</xref></p>
+      </sec>
+      <sec id="article-23769.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p>An estimated 16 million Americans have some&#x000a0;degree of&#x000a0;iron overload, either inherited or acquired. Hereditary hemochromatosis is found more commonly in the white population of European backgrounds. One study found a rate of C282Y homozygosity of 0.4% and heterozygosity of 9.2% in European countries and 0.5% and 9% in North America.<xref ref-type="bibr" rid="article-23769.r7">[7]</xref> It is estimated that&#x000a0;1 in every 200 US white patients is positive for iron overload, and 10% to 14% are genetic mutation carriers.<xref ref-type="bibr" rid="article-23769.r8">[8]</xref>&#x000a0;</p>
+        <p>The HEIRS study, investigating the prevalence of homozygous C282Y in the US and Canada, revealed a predominant occurrence among non-Hispanic whites (0.44%), Native and indigenous Americans (0.11%), and Hispanics (0.027%). In contrast, a study conducted in Ireland reported a higher rate, with 1.2% of individuals identified as homozygous for the C282Y mutation.<xref ref-type="bibr" rid="article-23769.r9">[9]</xref>&#x000a0;</p>
+      </sec>
+      <sec id="article-23769.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>Iron homeostasis is mainly dependent on controlling iron absorption from the diet. Normal plasma levels of iron range between&#x000a0;12 to 25 &#x003bc;M/L. Plasma iron depends on iron absorbed from enterocytes and macrophages. The export of iron into the serum is regulated by ferroportin. Hepcidin is a protein synthesized in the liver and regulates ferroportin activity. Increased levels of hepcidin decrease ferroportin activity by inducing its internalization. This results in a decrease in plasma iron concentrations.<xref ref-type="bibr" rid="article-23769.r10">[10]</xref> Conversely, low levels of hepcidin increase plasma iron. Upon initial entry into the serum, iron undergoes oxidation facilitated by ceruloplasmin and is then bound by transferrin, giving rise to the formation of holotransferrin. Holotransferrin then transports the iron to all cell types in the body. High levels of holotransferrin increase the release of hepcidin into the serum.<xref ref-type="bibr" rid="article-23769.r11">[11]</xref>&#x000a0;</p>
+        <p>Hepcidin production is regulated by&#x000a0;the&#x000a0;hereditary hemochromatosis protein (HFE protein). This protein functions based on whether it binds to transferrin receptor 1 (TFR1). When TFR1 is bound, hepcidin production decreases; when it is not bound to TFR1, hepcidin production increases. As overall serum iron levels increase, transferrin becomes saturated, and non-transferrin-bound iron (NTBI) will begin to appear in the plasma, which can go on to cause cell toxicity.<xref ref-type="bibr" rid="article-23769.r12">[12]</xref>&#x000a0;</p>
+        <p>The most common mutation, C282Y, a mutation to <italic toggle="yes">HFE</italic>, disrupts this protein binding interactions with various other proteins, ultimately leading to decreased hepcidin levels.&#x000a0;<italic toggle="yes">HAMP</italic> mutations are homozygous recessive and lead to the absence of normal hepcidin, disrupting the regulation of plasma iron concentrations.&#x000a0;<italic toggle="yes">HJV</italic> mutations are homozygous recessive and lead to the disruption of upregulation of <italic toggle="yes">HAMP</italic> transcription, leading to decreased levels of hepcidin. The&#x000a0;<italic toggle="yes">TFR2 </italic>gene is involved in the uptake of transferrin-bound iron. Mutation in this gene disrupts iron uptake into cells, increasing plasma iron.<xref ref-type="bibr" rid="article-23769.r12">[12]</xref>&#x000a0;</p>
+        <p>Excess NTBI leads to reactive oxygen species&#x000a0;(ROS) forming via the Fenton-Haber-Weiss reaction. Iron cycles between its ferrous (Fe2+) and ferric (Fe3+) states, generating hydroxide ions, hydroperoxyl, and hydroxyl radicals. ROS oxidize lipids, proteins, and nucleic acids in this reaction, leading to cellular apoptosis and eventual organ damage.<xref ref-type="bibr" rid="article-23769.r13">[13]</xref></p>
+        <p>The functional changes in the human body that result from iron overload are numerous. Excess iron deposits mainly in the liver, heart, and endocrine organs. Damage to the liver can result in chronic liver disease and cirrhosis and lead to hepatocellular carcinoma. Damage to the heart muscle can lead to heart failure and irregular heart rhythms. Damage to the pancreas can lead to elevated blood glucose levels and "bronze"&#x000a0;diabetes. Hypothyroidism and hypogonadism can result in fatigue, hair loss, infertility, and decreased libido. Joint involvement leads to arthritis. Neurological involvement can accelerate neurodegenerative diseases such as Alzheimer disease.<xref ref-type="bibr" rid="article-23769.r14">[14]</xref></p>
+      </sec>
+      <sec id="article-23769.s6" sec-type="Histopathology">
+        <title>Histopathology</title>
+        <p>Microscopic examination of involved tissues reveals iron deposition. Microscopic pancreatic islet beta-cell examination can reveal iron deposition. A liver biopsy can show hemosiderosis on iron staining (Prussian blue or Perls' iron stain) and cirrhosis if the liver disease is advanced. Liver biopsy is also useful for patients with cirrhosis and liver lesions suspected to be hepatocellular carcinoma. Liver biopsy with a Hepatic Iron Index (HII) has been the standard of diagnosis. With the advent of&#x000a0;genetic testing, liver biopsy is utilized less frequently.<xref ref-type="bibr" rid="article-23769.r15">[15]</xref></p>
+      </sec>
+      <sec id="article-23769.s7" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>Patients will often be asymptomatic for many years, and diagnosis of&#x000a0;HFE-related hemochromatosis&#x000a0;may not occur until adulthood,&#x000a0;often&#x000a0;later than 30 years of age. In non-HFE-related hemochromatosis, patients often manifest symptoms when they are younger, typically 20 to 30 years of age.<xref ref-type="bibr" rid="article-23769.r16">[16]</xref></p>
+        <p>Patients with iron overload are asymptomatic in 3 out of 4 cases. When signs and symptoms occur, they are generally related to specific organ involvement. These include chronic fatigue, arthralgia, abdominal pain, hepatomegaly, irregular heart rhythm, hypogonadism, decreased libido, elevated blood glucose levels, hyperpigmentation (bronze skin), and depression.<xref ref-type="bibr" rid="article-23769.r17">[17]</xref>&#x000a0;Men with primary hemochromatosis are more likely to experience symptoms than women due to a lack of menses.</p>
+      </sec>
+      <sec id="article-23769.s8" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>Iron overload suspected after a history and physical can generally&#x000a0;be diagnosed with low-cost, non-invasive blood tests. Serum iron levels are not indicated. Serum ferritin &#x0003e;300 ng/ml in males and greater than 150 to 200 ng/ml in menstruating females can indicate iron overload. However, serum ferritin levels can also be elevated for various reasons, including inflammation, infection, and liver disease.&#x000a0;Ferritin is known as an acute-phase reactant.<xref ref-type="bibr" rid="article-23769.r18">[18]</xref> Total binding iron capacity (TIBC)&#x000a0;may be normal&#x000a0;as well. Fasting and elevated serum transferrin saturation percentage &#x0003e;45% can assist in further diagnosis. In classic hemochromatosis, both serum ferritin and transferrin iron saturation percentages will most often be elevated.</p>
+        <p>Magnetic resonance imaging (MRI) can be useful to quantify body iron overload. MRI should be used to evaluate the iron burden in the liver and spleen. Significant liver iron excess and absence of spleen iron excess are highly suggestive of hepcidin deficiency.<xref ref-type="bibr" rid="article-23769.r19">[19]</xref></p>
+        <p>Additional genetic testing is indicated in those patients who are found to have iron overload. After other mechanisms have been ruled out, such as hypotransferrinemia, nephrotic syndrome, or malnutrition, genetic testing for the <italic toggle="yes">HFE</italic> gene associated with hemochromatosis should be performed.&#x000a0;Mutations in this gene can occur in many different patterns. Patients with the C282Y/C282Y, H63D/H63D, or C282Y/H63D pattern are most at risk for the disease. It is estimated that&#x000a0;1 million white Americans have the C282Y/C282Y inheritance pattern.<xref ref-type="bibr" rid="article-23769.r20">[20]</xref><xref ref-type="bibr" rid="article-23769.r21">[21]</xref>. If this is negative, genetic testing for non-<italic toggle="yes">HFE</italic> mutations should be pursued. Genetic testing is generally not widely available as it requires specialized laboratories. Therefore, treatment is not dependent on the specific genetic mutation and should not be delayed once a clinical diagnosis has been obtained.&#x000a0;</p>
+        <p>Hepatic iron index on percutaneous liver biopsy can be utilized in difficult-to-diagnose cases but carries greater procedural risk than blood testing. Liver biopsy&#x000a0;was previously the standard&#x000a0;for diagnosis, but with less invasive testing, it is reserved for more complicated cases.<xref ref-type="bibr" rid="article-23769.r22">[22]</xref></p>
+        <p>Once the diagnosis of iron overload is established, more specific testing is directed depending on the suspected organ involvement.</p>
+      </sec>
+      <sec id="article-23769.s9" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>The treatment for iron overload is reduction therapy. This is most commonly achieved through therapeutic phlebotomy. In patients with an acceptable hemoglobin level, phlebotomy can initially be prescribed every 1 to 2 weeks until serum ferritin is brought within acceptable levels (approximately 50ug/L). Then, a schedule of periodic phlebotomy can be maintained, generally every 2 to 3 months, according to the serum ferritin levels achieved. When serum ferritin remains &#x0003e;1000 ng/ml, the risk of liver damage increases, and life expectancy decreases dramatically. Patients with mildly elevated serum ferritin levels are often advised to donate blood regularly. Donating more frequently than every 8 weeks usually necessitates physician approval.<xref ref-type="bibr" rid="article-23769.r23">[23]</xref><xref ref-type="bibr" rid="article-23769.r24">[24]</xref></p>
+        <p>In patients with hemoglobin levels that do not tolerate therapeutic phlebotomy, iron chelation therapy becomes an option. Potential agents include parental deferoxamine and oral agents deferasirox and deferiprone. Deferoxamine is a parental treatment that requires prolonged infusions of up to 8 to 12 hours with&#x000a0;multiple administrations per week to be effective. Subcutaneous infusion is preferred for treating chronic overload, whereas intravenous infusion is reserved for acute toxicity.<xref ref-type="bibr" rid="article-23769.r25">[25]</xref>&#x000a0;It is also associated with many adverse effects, including hypotension, dizziness, and rash, as well as an increased risk of Yersinia sepsis and the development of acute respiratory distress syndrome. Deferasirox and deferiprone are relatively newer oral agents that are less cumbersome&#x000a0;in dosing and are as effective in treatment as deferoxamine.<xref ref-type="bibr" rid="article-23769.r26">[26]</xref><xref ref-type="bibr" rid="article-23769.r27">[27]</xref></p>
+        <p>Proton pump inhibitors, such as pantoprazole, may be a useful adjunct for patients with hemochromatosis. In a randomized control trial, pantoprazole significantly reduced the need for phlebotomy in patients with C282Y mutation.<xref ref-type="bibr" rid="article-23769.r28">[28]</xref></p>
+        <p>Ongoing research is exploring the potential of hepcidin-based therapies as adjunctive treatments&#x000a0;to phlebotomy.<xref ref-type="bibr" rid="article-23769.r29">[29]</xref></p>
+        <p>Patients should be encouraged to avoid iron supplementation, iron-containing multivitamins, and vitamin C. Vitamin C, in particular, can increase iron absorption in the GI tract, resulting in an increased body burden of iron.</p>
+      </sec>
+      <sec id="article-23769.s10" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <p>The differential diagnosis for hemochromatosis includes elevated iron levels due to multiple transfusions, over-consumption, alcoholic liver disease, ineffective erythropoiesis with hyperplastic erythroid marrow, elevated iron with chronic anemia, and porphyria cutanea tarda. Genetic testing of the <italic toggle="yes">HFE</italic> gene or other related mutations can help illuminate the diagnosis.</p>
+        <p>Another iron overload disorder that presents with neurologic findings is neuroferritinopathy. This disorder results from an autosomal dominant mutation in the<italic toggle="yes"> FTL</italic> gene, resulting in iron deposition in the basal ganglia. Patients can present with chorea, dystonia, and speech and swallowing difficulties. Over time, behavioral and cognitive deficits also develop.<xref ref-type="bibr" rid="article-23769.r30">[30]</xref></p>
+      </sec>
+      <sec id="article-23769.s11" sec-type="Staging">
+        <title>Staging</title>
+        <p>When hemochromatosis has advanced to liver cirrhosis, a liver biopsy is indicated to determine the severity of the disease. This holds particularly true when a liver transplant is included in the management strategy.</p>
+      </sec>
+      <sec id="article-23769.s12" sec-type="Prognosis">
+        <title>Prognosis</title>
+        <p>The prognosis of patients with iron overload is extremely&#x000a0;positive when diagnosed early and when treatment effectively&#x000a0;reduces iron levels to acceptable levels. A normal lifespan and extremely low rates of liver damage are reported in patients who maintain serum ferritin levels within an acceptable range.<xref ref-type="bibr" rid="article-23769.r31">[31]</xref></p>
+        <p>Patients who are not treated or inadequately treated have lower survival rates than those who are adequately treated.&#x000a0;Patients who are inadequately treated&#x000a0;develop liver cirrhosis, hepatocellular carcinoma, pancreatic fibrosis, and diabetes at higher rates. The ferritin level at the time of diagnosis also has prognostic significance. Patients with a ferritin level &#x0003e;2000 ug/L have higher mortality rates when compared to those with a ferritin level &#x0003c;1000 ug/L.<xref ref-type="bibr" rid="article-23769.r32">[32]</xref></p>
+        <p>Patients with severe liver damage due to inadequately treated hemochromatosis can receive a liver transplant. This effectively can "cure" the patient, as the transplanted liver will contain the normal wild-type <italic toggle="yes">HFE</italic> genotype. As a result, hepcidin production is normal after transplantation.<xref ref-type="bibr" rid="article-23769.r33">[33]</xref> Patients with severe <italic toggle="yes">HFE</italic>-associated cardiomyopathy may also benefit from heart transplantation.<xref ref-type="bibr" rid="article-23769.r34">[34]</xref></p>
+      </sec>
+      <sec id="article-23769.s13" sec-type="Complications">
+        <title>Complications</title>
+        <p>Iron overload poses various complications that can significantly impact an individual's health. The excessive accumulation of iron in vital organs, particularly the liver, heart, and endocrine glands, can lead to organ damage due to the formation of reactive oxygen species. Complications may manifest as liver diseases, including cirrhosis and hepatocellular carcinoma, cardiomyopathies affecting the heart, and endocrine disorders such as diabetes and hypothyroidism. Additionally, iron overload has been linked to increased susceptibility to infections and impaired immune response. Recognizing and managing these complications is crucial in preventing further deterioration of organ function and improving overall patient outcomes. Regular monitoring, intervention strategies, and interdisciplinary collaboration are essential to mitigating the complications associated with excessive iron accumulation.</p>
+      </sec>
+      <sec id="article-23769.s14" sec-type="Consultations">
+        <title>Consultations</title>
+        <p>Consultations for iron overload play a crucial role in ensuring a comprehensive and effective approach to its management. When faced with a suspected or confirmed case of iron overload, clinicians often consult with specialists across various disciplines.</p>
+        <p>Gastroenterologists and hepatologists may be consulted for their expertise in assessing and managing liver complications associated with iron overload, such as cirrhosis or hepatocellular carcinoma. Cardiologists may provide valuable insights into addressing cardiovascular manifestations, while endocrinologists play a pivotal role in managing endocrine disorders linked to excessive iron deposition. Genetic counselors can aid in identifying hereditary factors contributing to iron overload.</p>
+        <p>Collaborative consultations with these specialists and open communication and information exchange facilitate a holistic understanding of the patient's condition. Interdisciplinary consultations ensure that all aspects of iron overload, from its underlying causes to its impact on different organs, are thoroughly evaluated, enabling the development of a tailored and cohesive treatment plan for the best possible patient outcomes.</p>
+      </sec>
+      <sec id="article-23769.s15" sec-type="Deterrence and Patient Education">
+        <title>Deterrence and Patient Education</title>
+        <p>Deterrence and prevention strategies for iron overload revolve around identifying and mitigating risk factors associated with this condition. Routine screening for individuals at higher risk, such as those with genetic predispositions or requiring frequent blood transfusions, can aid in early detection. Genetic testing for hereditary hemochromatosis and regular monitoring of iron levels are crucial components of preventive care. Clinicians play a pivotal role in educating patients on the potential risks of excessive iron accumulation, emphasizing the importance of a balanced diet and discouraging unnecessary iron supplementation.</p>
+        <p>Healthcare professionals must carefully manage iron therapies in patients prone to secondary iron overload, ensuring judicious use of transfusions and closely monitoring dietary iron intake. A proactive approach to identifying and addressing iron overload risk factors lays the foundation for effective prevention, reducing the likelihood of organ damage and improving overall patient outcomes.</p>
+      </sec>
+      <sec id="article-23769.s16" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>A long-term study of patients with hemochromatosis has shown that overall longevity was related to liver cirrhosis. In patients with hemochromatosis and no liver cirrhosis, long-term survival was unaffected. This reiterates the need for early diagnosis and treatment before cirrhosis develops. Frontline healthcare professionals, including physicians, advanced care practitioners, and nurses, should be knowledgeable on this topic to help identify cases at an early stage and initiate prompt, coordinated treatment.<xref ref-type="bibr" rid="article-23769.r35">[35]</xref>&#x000a0;</p>
+        <p>Effective management of iron overload requires a multidisciplinary approach involving various healthcare professionals, each contributing unique skills and expertise. Physicians play a pivotal role in diagnosing and differentiating primary and secondary iron overload, employing advanced assessment skills, and formulating personalized treatment strategies. Advanced care practitioners contribute by applying a holistic approach to patient care, considering genetic, clinical, and lifestyle factors in treatment plans. Nurses are essential for patient education on iron overload, its implications, and the importance of adherence to therapeutic interventions, promoting patient-centered care. Pharmacists play a crucial role in selecting and monitoring iron chelation therapies, ensuring optimal drug regimens, and minimizing potential adverse effects.</p>
+        <p>Clear responsibilities and communication strategies within the interprofessional team are essential for coordinated care. Regular team meetings facilitate collaboration, providing a platform for exchanging information, discussing patient progress, and refining care plans. This interprofessional collaboration ensures patient safety, enhances team performance, and ultimately leads to improved patient-centered care and outcomes in the management of iron overload.</p>
+      </sec>
+      <sec id="article-23769.s17">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=23769&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=23769">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/medications/iron-overload/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=23769">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/23769/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=23769">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-23769.s18">
+        <title>References</title>
+        <ref id="article-23769.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tian</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Tian</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Yuan</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Zeng</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Fan</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Yang</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Yang</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Iron Metabolism in Aging and Age-Related Diseases.</article-title>
+            <source>Int J Mol Sci</source>
+            <year>2022</year>
+            <month>Mar</month>
+            <day>25</day>
+            <volume>23</volume>
+            <issue>7</issue>
+            <pub-id pub-id-type="pmid">35408967</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Powell</surname>
+                <given-names>LW</given-names>
+              </name>
+              <name>
+                <surname>Subramaniam</surname>
+                <given-names>VN</given-names>
+              </name>
+              <name>
+                <surname>Yapp</surname>
+                <given-names>TR</given-names>
+              </name>
+            </person-group>
+            <article-title>Haemochromatosis in the new millennium.</article-title>
+            <source>J Hepatol</source>
+            <year>2000</year>
+            <volume>32</volume>
+            <issue>1 Suppl</issue>
+            <fpage>48</fpage>
+            <page-range>48-62</page-range>
+            <pub-id pub-id-type="pmid">10728794</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Brissot</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Pietrangelo</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Adams</surname>
+                <given-names>PC</given-names>
+              </name>
+              <name>
+                <surname>de Graaff</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>McLaren</surname>
+                <given-names>CE</given-names>
+              </name>
+              <name>
+                <surname>Lor&#x000e9;al</surname>
+                <given-names>O</given-names>
+              </name>
+            </person-group>
+            <article-title>Haemochromatosis.</article-title>
+            <source>Nat Rev Dis Primers</source>
+            <year>2018</year>
+            <month>Apr</month>
+            <day>05</day>
+            <volume>4</volume>
+            <fpage>18016</fpage>
+            <pub-id pub-id-type="pmid">29620054</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Crownover</surname>
+                <given-names>BK</given-names>
+              </name>
+              <name>
+                <surname>Covey</surname>
+                <given-names>CJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Hereditary hemochromatosis.</article-title>
+            <source>Am Fam Physician</source>
+            <year>2013</year>
+            <month>Feb</month>
+            <day>01</day>
+            <volume>87</volume>
+            <issue>3</issue>
+            <fpage>183</fpage>
+            <page-range>183-90</page-range>
+            <pub-id pub-id-type="pmid">23418762</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Girelli</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Busti</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Brissot</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Cabantchik</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Muckenthaler</surname>
+                <given-names>MU</given-names>
+              </name>
+              <name>
+                <surname>Porto</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Hemochromatosis classification: update and recommendations by the BIOIRON Society.</article-title>
+            <source>Blood</source>
+            <year>2022</year>
+            <month>May</month>
+            <day>19</day>
+            <volume>139</volume>
+            <issue>20</issue>
+            <fpage>3018</fpage>
+            <page-range>3018-3029</page-range>
+            <pub-id pub-id-type="pmid">34601591</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Radford-Smith</surname>
+                <given-names>DE</given-names>
+              </name>
+              <name>
+                <surname>Powell</surname>
+                <given-names>EE</given-names>
+              </name>
+              <name>
+                <surname>Powell</surname>
+                <given-names>LW</given-names>
+              </name>
+            </person-group>
+            <article-title>Haemochromatosis: a clinical update for the practising physician.</article-title>
+            <source>Intern Med J</source>
+            <year>2018</year>
+            <month>May</month>
+            <volume>48</volume>
+            <issue>5</issue>
+            <fpage>509</fpage>
+            <page-range>509-516</page-range>
+            <pub-id pub-id-type="pmid">29722188</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hanson</surname>
+                <given-names>EH</given-names>
+              </name>
+              <name>
+                <surname>Imperatore</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Burke</surname>
+                <given-names>W</given-names>
+              </name>
+            </person-group>
+            <article-title>HFE gene and hereditary hemochromatosis: a HuGE review. Human Genome Epidemiology.</article-title>
+            <source>Am J Epidemiol</source>
+            <year>2001</year>
+            <month>Aug</month>
+            <day>01</day>
+            <volume>154</volume>
+            <issue>3</issue>
+            <fpage>193</fpage>
+            <page-range>193-206</page-range>
+            <pub-id pub-id-type="pmid">11479183</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Richardson</surname>
+                <given-names>KJ</given-names>
+              </name>
+              <name>
+                <surname>McNamee</surname>
+                <given-names>AP</given-names>
+              </name>
+              <name>
+                <surname>Simmonds</surname>
+                <given-names>MJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Haemochromatosis: Pathophysiology and the red blood cell1.</article-title>
+            <source>Clin Hemorheol Microcirc</source>
+            <year>2018</year>
+            <volume>69</volume>
+            <issue>1-2</issue>
+            <fpage>295</fpage>
+            <page-range>295-304</page-range>
+            <pub-id pub-id-type="pmid">29660923</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kirk</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Bird</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ramadan</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Samad</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Adebayo</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Lourens</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Williams</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Haemochromatosis gene frequency in a control and diabetic Irish population.</article-title>
+            <source>Ir J Med Sci</source>
+            <year>2009</year>
+            <month>Mar</month>
+            <volume>178</volume>
+            <issue>1</issue>
+            <fpage>39</fpage>
+            <page-range>39-42</page-range>
+            <pub-id pub-id-type="pmid">19002551</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zeidan</surname>
+                <given-names>RS</given-names>
+              </name>
+              <name>
+                <surname>Han</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Leeuwenburgh</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Xiao</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Iron homeostasis and organismal aging.</article-title>
+            <source>Ageing Res Rev</source>
+            <year>2021</year>
+            <month>Dec</month>
+            <volume>72</volume>
+            <fpage>101510</fpage>
+            <pub-id pub-id-type="pmid">34767974</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Osaki</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Johnson</surname>
+                <given-names>DA</given-names>
+              </name>
+              <name>
+                <surname>Frieden</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>The possible significance of the ferrous oxidase activity of ceruloplasmin in normal human serum.</article-title>
+            <source>J Biol Chem</source>
+            <year>1966</year>
+            <month>Jun</month>
+            <day>25</day>
+            <volume>241</volume>
+            <issue>12</issue>
+            <fpage>2746</fpage>
+            <page-range>2746-51</page-range>
+            <pub-id pub-id-type="pmid">5912351</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Brissot</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Lor&#x000e9;al</surname>
+                <given-names>O</given-names>
+              </name>
+            </person-group>
+            <article-title>Hemochromatoses.</article-title>
+            <source>J Hepatol</source>
+            <year>2021</year>
+            <month>Sep</month>
+            <volume>75</volume>
+            <issue>3</issue>
+            <fpage>723</fpage>
+            <page-range>723-724</page-range>
+            <pub-id pub-id-type="pmid">34261579</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mehta</surname>
+                <given-names>KJ</given-names>
+              </name>
+              <name>
+                <surname>Farnaud</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Sharp</surname>
+                <given-names>PA</given-names>
+              </name>
+            </person-group>
+            <article-title>Iron and liver fibrosis: Mechanistic and clinical aspects.</article-title>
+            <source>World J Gastroenterol</source>
+            <year>2019</year>
+            <month>Feb</month>
+            <day>07</day>
+            <volume>25</volume>
+            <issue>5</issue>
+            <fpage>521</fpage>
+            <page-range>521-538</page-range>
+            <pub-id pub-id-type="pmid">30774269</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>McLaren</surname>
+                <given-names>GD</given-names>
+              </name>
+              <name>
+                <surname>Muir</surname>
+                <given-names>WA</given-names>
+              </name>
+              <name>
+                <surname>Kellermeyer</surname>
+                <given-names>RW</given-names>
+              </name>
+            </person-group>
+            <article-title>Iron overload disorders: natural history, pathogenesis, diagnosis, and therapy.</article-title>
+            <source>Crit Rev Clin Lab Sci</source>
+            <year>1983</year>
+            <volume>19</volume>
+            <issue>3</issue>
+            <fpage>205</fpage>
+            <page-range>205-66</page-range>
+            <pub-id pub-id-type="pmid">6373141</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Turlin</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Deugnier</surname>
+                <given-names>Y</given-names>
+              </name>
+            </person-group>
+            <article-title>Evaluation and interpretation of iron in the liver.</article-title>
+            <source>Semin Diagn Pathol</source>
+            <year>1998</year>
+            <month>Nov</month>
+            <volume>15</volume>
+            <issue>4</issue>
+            <fpage>237</fpage>
+            <page-range>237-45</page-range>
+            <pub-id pub-id-type="pmid">9845425</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pietrangelo</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Hereditary hemochromatosis: pathogenesis, diagnosis, and treatment.</article-title>
+            <source>Gastroenterology</source>
+            <year>2010</year>
+            <month>Aug</month>
+            <volume>139</volume>
+            <issue>2</issue>
+            <fpage>393</fpage>
+            <page-range>393-408, 408.e1-2</page-range>
+            <pub-id pub-id-type="pmid">20542038</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>McLaren</surname>
+                <given-names>GD</given-names>
+              </name>
+              <name>
+                <surname>McLaren</surname>
+                <given-names>CE</given-names>
+              </name>
+              <name>
+                <surname>Adams</surname>
+                <given-names>PC</given-names>
+              </name>
+              <name>
+                <surname>Barton</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Reboussin</surname>
+                <given-names>DM</given-names>
+              </name>
+              <name>
+                <surname>Gordeuk</surname>
+                <given-names>VR</given-names>
+              </name>
+              <name>
+                <surname>Acton</surname>
+                <given-names>RT</given-names>
+              </name>
+              <name>
+                <surname>Harris</surname>
+                <given-names>EL</given-names>
+              </name>
+              <name>
+                <surname>Speechley</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Sholinsky</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Dawkins</surname>
+                <given-names>FW</given-names>
+              </name>
+              <name>
+                <surname>Snively</surname>
+                <given-names>BM</given-names>
+              </name>
+              <name>
+                <surname>Vogt</surname>
+                <given-names>TM</given-names>
+              </name>
+              <name>
+                <surname>Eckfeldt</surname>
+                <given-names>JH</given-names>
+              </name>
+              <collab>Hemochromatosis and Iron Overload Screen (HEIRS) Study Research Investigators</collab>
+            </person-group>
+            <article-title>Clinical manifestations of hemochromatosis in HFE C282Y homozygotes identified by screening.</article-title>
+            <source>Can J Gastroenterol</source>
+            <year>2008</year>
+            <month>Nov</month>
+            <volume>22</volume>
+            <issue>11</issue>
+            <fpage>923</fpage>
+            <page-range>923-30</page-range>
+            <pub-id pub-id-type="pmid">19018338</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Alvarenga</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Brissot</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Santos</surname>
+                <given-names>PCJL</given-names>
+              </name>
+            </person-group>
+            <article-title>Haemochromatosis revisited.</article-title>
+            <source>World J Hepatol</source>
+            <year>2022</year>
+            <month>Nov</month>
+            <day>27</day>
+            <volume>14</volume>
+            <issue>11</issue>
+            <fpage>1931</fpage>
+            <page-range>1931-1939</page-range>
+            <pub-id pub-id-type="pmid">36483608</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>St Pierre</surname>
+                <given-names>TG</given-names>
+              </name>
+              <name>
+                <surname>Clark</surname>
+                <given-names>PR</given-names>
+              </name>
+              <name>
+                <surname>Chua-anusorn</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Fleming</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Jeffrey</surname>
+                <given-names>GP</given-names>
+              </name>
+              <name>
+                <surname>Olynyk</surname>
+                <given-names>JK</given-names>
+              </name>
+              <name>
+                <surname>Pootrakul</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Robins</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Lindeman</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Noninvasive measurement and imaging of liver iron concentrations using proton magnetic resonance.</article-title>
+            <source>Blood</source>
+            <year>2005</year>
+            <month>Jan</month>
+            <day>15</day>
+            <volume>105</volume>
+            <issue>2</issue>
+            <fpage>855</fpage>
+            <page-range>855-61</page-range>
+            <pub-id pub-id-type="pmid">15256427</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Powell</surname>
+                <given-names>LW</given-names>
+              </name>
+              <name>
+                <surname>George</surname>
+                <given-names>DK</given-names>
+              </name>
+              <name>
+                <surname>McDonnell</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Kowdley</surname>
+                <given-names>KV</given-names>
+              </name>
+            </person-group>
+            <article-title>Diagnosis of hemochromatosis.</article-title>
+            <source>Ann Intern Med</source>
+            <year>1998</year>
+            <month>Dec</month>
+            <day>01</day>
+            <volume>129</volume>
+            <issue>11</issue>
+            <fpage>925</fpage>
+            <page-range>925-31</page-range>
+            <pub-id pub-id-type="pmid">9867744</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cogswell</surname>
+                <given-names>ME</given-names>
+              </name>
+              <name>
+                <surname>McDonnell</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Khoury</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Franks</surname>
+                <given-names>AL</given-names>
+              </name>
+              <name>
+                <surname>Burke</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Brittenham</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Iron overload, public health, and genetics: evaluating the evidence for hemochromatosis screening.</article-title>
+            <source>Ann Intern Med</source>
+            <year>1998</year>
+            <month>Dec</month>
+            <day>01</day>
+            <volume>129</volume>
+            <issue>11</issue>
+            <fpage>971</fpage>
+            <page-range>971-9</page-range>
+            <pub-id pub-id-type="pmid">9867750</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Swinkels</surname>
+                <given-names>DW</given-names>
+              </name>
+              <name>
+                <surname>Jorna</surname>
+                <given-names>AT</given-names>
+              </name>
+              <name>
+                <surname>Raymakers</surname>
+                <given-names>RA</given-names>
+              </name>
+            </person-group>
+            <article-title>Synopsis of the Dutch multidisciplinary guideline for the diagnosis and treatment of hereditary haemochromatosis.</article-title>
+            <source>Neth J Med</source>
+            <year>2007</year>
+            <month>Dec</month>
+            <volume>65</volume>
+            <issue>11</issue>
+            <fpage>452</fpage>
+            <page-range>452-5</page-range>
+            <pub-id pub-id-type="pmid">18079569</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Worwood</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Pathogenesis and management of haemochromatosis.</article-title>
+            <source>Br J Haematol</source>
+            <year>1999</year>
+            <month>Apr</month>
+            <volume>105 Suppl 1</volume>
+            <fpage>16</fpage>
+            <page-range>16-8</page-range>
+            <pub-id pub-id-type="pmid">10330928</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Powell</surname>
+                <given-names>LW</given-names>
+              </name>
+              <name>
+                <surname>Yapp</surname>
+                <given-names>TR</given-names>
+              </name>
+            </person-group>
+            <article-title>Hemochromatosis.</article-title>
+            <source>Clin Liver Dis</source>
+            <year>2000</year>
+            <month>Feb</month>
+            <volume>4</volume>
+            <issue>1</issue>
+            <fpage>211</fpage>
+            <page-range>211-28, viii</page-range>
+            <pub-id pub-id-type="pmid">11232185</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r25">
+          <label>25</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Velasquez</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Wray</surname>
+                <given-names>AA</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Deferoxamine</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>5</month>
+            <day>22</day>
+            <pub-id pub-id-type="pmid">32491586</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r26">
+          <label>26</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kwiatkowski</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Hamdy</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>El-Beshlawy</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Ebeid</surname>
+                <given-names>FSE</given-names>
+              </name>
+              <name>
+                <surname>Badr</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Alshehri</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Kanter</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Inusa</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Adly</surname>
+                <given-names>AAM</given-names>
+              </name>
+              <name>
+                <surname>Williams</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kilinc</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Tricta</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Elalfy</surname>
+                <given-names>MS</given-names>
+              </name>
+            </person-group>
+            <article-title>Deferiprone vs deferoxamine for transfusional iron overload in SCD and other anemias: a randomized, open-label noninferiority study.</article-title>
+            <source>Blood Adv</source>
+            <year>2022</year>
+            <month>Feb</month>
+            <day>22</day>
+            <volume>6</volume>
+            <issue>4</issue>
+            <fpage>1243</fpage>
+            <page-range>1243-1254</page-range>
+            <pub-id pub-id-type="pmid">34847228</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r27">
+          <label>27</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Qadah</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Deferasirox versus deferoxamine in managing iron overload in patients with Sickle Cell Anaemia: a systematic review and meta-analysis.</article-title>
+            <source>J Int Med Res</source>
+            <year>2022</year>
+            <month>Dec</month>
+            <volume>50</volume>
+            <issue>12</issue>
+            <fpage>3000605221143290</fpage>
+            <pub-id pub-id-type="pmid">36562113</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r28">
+          <label>28</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Vanclooster</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>van Deursen</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Jaspers</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Cassiman</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Koek</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Proton Pump Inhibitors Decrease Phlebotomy Need in HFE Hemochromatosis: Double-Blind Randomized Placebo-Controlled Trial.</article-title>
+            <source>Gastroenterology</source>
+            <year>2017</year>
+            <month>Sep</month>
+            <volume>153</volume>
+            <issue>3</issue>
+            <fpage>678</fpage>
+            <page-range>678-680.e2</page-range>
+            <pub-id pub-id-type="pmid">28624580</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r29">
+          <label>29</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Liu</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Sun</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Yin</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Hepcidin: A Promising Therapeutic Target for Iron Disorders: A Systematic Review.</article-title>
+            <source>Medicine (Baltimore)</source>
+            <year>2016</year>
+            <month>Apr</month>
+            <volume>95</volume>
+            <issue>14</issue>
+            <fpage>e3150</fpage>
+            <pub-id pub-id-type="pmid">27057839</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r30">
+          <label>30</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Keogh</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Morris</surname>
+                <given-names>CM</given-names>
+              </name>
+              <name>
+                <surname>Chinnery</surname>
+                <given-names>PF</given-names>
+              </name>
+            </person-group>
+            <article-title>Neuroferritinopathy.</article-title>
+            <source>Int Rev Neurobiol</source>
+            <year>2013</year>
+            <volume>110</volume>
+            <fpage>91</fpage>
+            <page-range>91-123</page-range>
+            <pub-id pub-id-type="pmid">24209436</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r31">
+          <label>31</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>McDonnell</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Preston</surname>
+                <given-names>BL</given-names>
+              </name>
+              <name>
+                <surname>Jewell</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>Barton</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Edwards</surname>
+                <given-names>CQ</given-names>
+              </name>
+              <name>
+                <surname>Adams</surname>
+                <given-names>PC</given-names>
+              </name>
+              <name>
+                <surname>Yip</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>A survey of 2,851 patients with hemochromatosis: symptoms and response to treatment.</article-title>
+            <source>Am J Med</source>
+            <year>1999</year>
+            <month>Jun</month>
+            <volume>106</volume>
+            <issue>6</issue>
+            <fpage>619</fpage>
+            <page-range>619-24</page-range>
+            <pub-id pub-id-type="pmid">10378618</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r32">
+          <label>32</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bardou-Jacquet</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Morcet</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Manet</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Lain&#x000e9;</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Perrin</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Jouanolle</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Guyader</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Moirand</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Viel</surname>
+                <given-names>JF</given-names>
+              </name>
+              <name>
+                <surname>Deugnier</surname>
+                <given-names>Y</given-names>
+              </name>
+            </person-group>
+            <article-title>Decreased cardiovascular and extrahepatic cancer-related mortality in treated patients with mild HFE hemochromatosis.</article-title>
+            <source>J Hepatol</source>
+            <year>2015</year>
+            <month>Mar</month>
+            <volume>62</volume>
+            <issue>3</issue>
+            <fpage>682</fpage>
+            <page-range>682-9</page-range>
+            <pub-id pub-id-type="pmid">25450707</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r33">
+          <label>33</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bardou-Jacquet</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Philip</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Lorho</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Ropert</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Latournerie</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Houssel-Debry</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Guyader</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Lor&#x000e9;al</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Boudjema</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Brissot</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Liver transplantation normalizes serum hepcidin level and cures iron metabolism alterations in HFE hemochromatosis.</article-title>
+            <source>Hepatology</source>
+            <year>2014</year>
+            <month>Mar</month>
+            <volume>59</volume>
+            <issue>3</issue>
+            <fpage>839</fpage>
+            <page-range>839-47</page-range>
+            <pub-id pub-id-type="pmid">23775519</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r34">
+          <label>34</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Robinson</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Al-Kindi</surname>
+                <given-names>SG</given-names>
+              </name>
+              <name>
+                <surname>Oliveira</surname>
+                <given-names>GH</given-names>
+              </name>
+            </person-group>
+            <article-title>Heart and heart-liver transplantation in patients with hemochromatosis.</article-title>
+            <source>Int J Cardiol</source>
+            <year>2017</year>
+            <month>Oct</month>
+            <day>01</day>
+            <volume>244</volume>
+            <fpage>226</fpage>
+            <page-range>226-228</page-range>
+            <pub-id pub-id-type="pmid">28655414</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23769.r35">
+          <label>35</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Adams</surname>
+                <given-names>PC</given-names>
+              </name>
+              <name>
+                <surname>Speechley</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Kertesz</surname>
+                <given-names>AE</given-names>
+              </name>
+            </person-group>
+            <article-title>Long-term survival analysis in hereditary hemochromatosis.</article-title>
+            <source>Gastroenterology</source>
+            <year>1991</year>
+            <month>Aug</month>
+            <volume>101</volume>
+            <issue>2</issue>
+            <fpage>368</fpage>
+            <page-range>368-72</page-range>
+            <pub-id pub-id-type="pmid">2065912</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

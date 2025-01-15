@@ -1,0 +1,2066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-131252" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Root Cause Analysis and Medical Error Prevention</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Singh</surname>
+            <given-names>Gunjan</given-names>
+          </name>
+          <aff>Membership of the Royal College of Obstetricians and Gynecologists</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Patel</surname>
+            <given-names>Raj H.</given-names>
+          </name>
+          <aff>University of South Florida</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Vaqar</surname>
+            <given-names>Sarosh</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Boster</surname>
+            <given-names>Joshua</given-names>
+          </name>
+          <aff>Uniformed Services University of the Health Sciences</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Gunjan Singh declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Raj Patel declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Sarosh Vaqar declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Joshua Boster declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>12</day>
+          <month>2</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-131252.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>The term "medical error" encompasses diverse events that vary in magnitude and can potentially harm the patient. According to the 2019 World Health Organization (WHO) Patient Safety Factsheet, adverse events due to unsafe patient care are among the top 10 causes of death and disability worldwide. However, understanding that healthcare delivery involves multiple variables in a dynamic environment with many critical decisions made quickly is essential to finding the underlying causes of adverse events. Reducing medical errors requires a multifaceted approach at various levels of healthcare. In the event of a sentinel occurrence or adverse patient outcomes, a thorough evaluation is warranted to prevent such events. Root cause analysis provides a method of assessment for these situations so that a system-based intervention can be implemented rather than blaming individual clinicians.&#x000a0;Upon completing this activity, healthcare professionals will gain a comprehensive understanding that&#x000a0;root cause analysis (RCA) is a mandated process for healthcare institutions to mitigate future errors and promote patient safety. By acquiring proficiency in RCA application and methodology, healthcare professionals can effectively drive changes and improvements within the healthcare setting, resulting in enhanced patient care and a reduction in medical errors.&#x000a0;The course also highlights the interprofessional team's role in performing this analysis to prevent medical errors and improve clinical outcomes.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Implement effective root cause analysis of a sentinel event and strategies for prevention.</p></list-item><list-item><p>Apply root cause analysis reporting standards in accordance with the Joint Commission requirements.</p></list-item><list-item><p>Identify the indications for reporting sentinel events to the Joint Commission and the steps that should be taken following the occurrence of such incidents.</p></list-item><list-item><p>Collaborate within an interprofessional team to prevent the most common types of clinical errors and improve clinical outcomes.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=131252&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=131252">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-131252.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Medical error is an unfortunate reality of the healthcare industry and a continuously discussed topic due to its grave impact on patient care and outcomes. In a 1999 publication by the Institute of Medicine (IOM), it was highlighted that deaths resulting from medical error exceeded those attributed to motor vehicle accidents, breast cancer, or AIDS.<xref ref-type="bibr" rid="article-131252.r1">[1]</xref>&#x000a0;One study reported that approximately 400,000 hospitalized patients experience some preventable harm each year, while another&#x000a0;estimated that &#x0003e;200,000 patient deaths annually&#x000a0;were due to preventable medical errors.<xref ref-type="bibr" rid="article-131252.r2">[2]</xref><xref ref-type="bibr" rid="article-131252.r3">[3]</xref><xref ref-type="bibr" rid="article-131252.r4">[4]</xref>&#x000a0;Moreover, the reported cost of medical errors is wide-ranging, with some experts estimating healthcare costs of $20 billion each year, while others approximate costs of $35.7 to $45 billion annually from hospital-acquired infections alone.<xref ref-type="bibr" rid="article-131252.r2">[2]</xref><xref ref-type="bibr" rid="article-131252.r3">[3]</xref>&#x000a0;Subsequent reports that discuss potential etiologies of medical errors have blamed systemic issues. Others have focused attention on certain groups of patients that may be more vulnerable to medical error than others.<xref ref-type="bibr" rid="article-131252.r5">[5]</xref><xref ref-type="bibr" rid="article-131252.r6">[6]</xref>&#x000a0;Recently, the impact of medical errors on a patient's family members and healthcare professionals has been emphasized due to its effects on exacerbating burnout, poor work performance, mental health decline, and even suicidal ideation.<xref ref-type="bibr" rid="article-131252.r7">[7]</xref><xref ref-type="bibr" rid="article-131252.r8">[8]</xref>&#x000a0;</p>
+        <p>Though pinpointing the definitive cause of medical error in certain situations may be challenging, evaluating strategies that can be used to mitigate and prevent these adverse events from occurring in the first place is essential. One such method is root cause analysis, which has been shown to reduce clinical and surgical errors in various specialties by establishing a quality improvement framework.<xref ref-type="bibr" rid="article-131252.r9">[9]</xref>&#x000a0;This article will discuss the application of root cause analysis in medical error prevention and strategies for maintaining continuous quality improvement in the healthcare setting.</p>
+      </sec>
+      <sec id="article-131252.s3" sec-type="Function">
+        <title>Function</title>
+        <p>
+<bold>Sentinel Events and Root Cause Analysis</bold>
+</p>
+        <p>The Institute of Medicine defines a medical error as "the failure of a planned action to be completed as intended or the use of a wrong plan to achieve an aim."<xref ref-type="bibr" rid="article-131252.r1">[1]</xref>&#x000a0;Recognizing the differences between medical malpractice and medical error is essential. An adverse event in a healthcare setting may be attributed to medical error and not meet the threshold of malpractice or negligence. Medical errors generally result from the improper execution of a plan or improper procedural planning. Thus, the complexity of the occurrence of a medical error can range widely and manifest in any aspect of patient care, from hospital admission to discharge, as well as the outpatient setting. Medical errors may occur without directly harming the patient; however, even in these instances, evaluating the cause of any medical error, whether or not the patient is harmed, and developing guidelines and strategies to prevent future occurrences is critical.<xref ref-type="bibr" rid="article-131252.r10">[10]</xref><xref ref-type="bibr" rid="article-131252.r11">[11]</xref></p>
+        <p>The Joint Commission defines a sentinel event as any unexpected adverse event "involving death, serious physical or psychological injury, or the risk thereof. The phrase 'or the risk thereof' includes any process variation for which a recurrence would carry a significant chance of a serious adverse outcome." Sentinel events indicate the need for an immediate investigation to discover the cause and develop corrective measures. Moreover, the Joint Commission&#x000a0;reviews all sentinel events that have resulted in unexpected mortality,&#x000a0;significant permanent harm, or severe, temporary harm requiring intervention to sustain life, which they&#x000a0;require all member healthcare agencies to report.<xref ref-type="bibr" rid="article-131252.r12">[12]</xref><xref ref-type="bibr" rid="article-131252.r13">[13]</xref>&#x000a0;These events are not only debilitating to patients but can also impact the livelihood of healthcare providers. Sentinel events are unrelated to the patient's underlying medical condition but are attributable to improper medical intervention or improper technique. For instance, if a patient receives medication and experiences an anaphylactic reaction, clinicians must determine whether the reaction was due to the medication or failure to review the patient's allergies before administration. Thus, these cases must be critically reviewed&#x000a0;to delineate whether or not the etiology of the error was preventable, which is often a challenging task.&#x000a0;</p>
+        <p>Root cause analysis (RCA) is a process for identifying the causal factors of a medical error that may result in a sentinel event. A standardized RCA process is mandated by the Joint Commission&#x000a0;to determine the cause of medical errors and thus allow healthcare institutions to develop strategies to mitigate future errors.<xref ref-type="bibr" rid="article-131252.r13">[13]</xref>&#x000a0;Despite broad adoption in the business, engineering, and industrial sectors, RCA use in the medical field has been limited. The RCA process aims not to assign individual blame but to identify lapses in system-level processes that can be restructured to prevent patient harm and reduce the likelihood of future sentinel events. Thus, identifying the root cause of a medical error can better direct the need for additional training and resources.</p>
+        <p>
+<bold>Applying Root Cause Analysis</bold>
+</p>
+        <p>For accreditation purposes, the Joint Commission requires that healthcare institutions have a comprehensive process for systematically analyzing sentinel events. The RCA process is one of the most commonly utilized tools for this purpose. Through the RCA process, healthcare institutions attempt to identify all the contributing factors that led to an adverse event.&#x000a0; Essentially, RCA investigations continually question why a medical error occurred until all underlying deficiencies in a system are found.&#x000a0;RCA emphasizes lapses in system-level processes rather than individual actions. Following a sentinel event, a designated RCA team must be assembled to review and identify necessary changes at the&#x000a0;systematic level that can improve performance and reduce the likelihood of a repeat sentinel event.<xref ref-type="bibr" rid="article-131252.r14">[14]</xref>&#x000a0;Failure to perform an RCA within 45 days of a sentinel event&#x000a0;may result in the healthcare institution being placed on an accreditation watch, which is public information. Repeat violations may result in an onsite review by the Joint Commission that may jeopardize accreditation.<xref ref-type="bibr" rid="article-131252.r15">[15]</xref></p>
+        <p>An RCA's initial step is forming an interprofessional team to investigate and define the problem. Typically, a designated process is implemented to communicate with senior leadership throughout the investigation, establish internal target dates, and meet Joint Commission deadlines. After identifying the problem, the team should evaluate systematic factors contributing to the error. Throughout the process, collecting data regarding the potential underlying causes is essential. The team should propose and implement immediate changes so that a repeat sentinel event does not occur during the RCA process. While developing these interventions, the team should&#x000a0;evaluate the list of root causes, consider their interrelationships, and explore risk-reduction and process improvement strategies to prevent future errors at the systematic level. Furthermore, the team should discuss the proposed process modification with senior leadership and key stakeholders and determine if they are acceptable.&#x000a0; There are various models used to guide RCA inquiries. One model is referred to as "The Swiss Cheese Model." According to this framework, errors occur due to failures on 4 primary levels, classified as unsafe acts, preconditions for unsafe acts, supervisory factors, and organizational influences that can allow patient injury when lined up. Therefore, RCA teams work to identify breakdowns on each of these levels that led to an adverse event.<xref ref-type="bibr" rid="article-131252.r16">[16]</xref></p>
+        <p>The Joint Commission has also created a framework with a series of 24 questions to organize an RCA and as a general template to prepare the report submitted to the Joint Commission. The 24-question guide considers various situational factors that may have contributed to a sentinel event. This includes examining the systematic process, human factors, equipment malfunctions, environmental factors, uncontrollable external factors, organizational factors, staffing and qualifications, contingency plans, performance expectations, communication issues, and technology.<xref ref-type="bibr" rid="article-131252.r13">[13]</xref>&#x000a0;With detailed consideration of each of these topics, an in-depth analysis of the cause of the sentinel event can occur. Communication is one factor examined in several of the 24 questions, including communication within organizational structure, conveying messages effectively and efficiently, and ensuring a proper communication system. Environmental factors should also be examined to determine if any situational issues were ongoing during the sentinel event that may have impacted the outcome. Moreover, staffing is another issue that should be examined during an RCA review to determine if the staff were appropriately qualified, competent, and portioned for their assigned duties.<xref ref-type="bibr" rid="article-131252.r17">[17]</xref>&#x000a0;</p>
+        <p>After&#x000a0;discussion, evaluation, and analysis, corrective actions&#x000a0;should&#x000a0;be developed, identifying areas for targeted improvement. While utilizing the 24-question framework, causative etiologies should be considered to help determine areas that can be restructured to reduce risk. The root cause analysis should be clear and precise while providing appropriate depth and scope. The Joint Commission has identified a series of adverse events subject to their purview. Primarily, this would be a sentinel event that has resulted in death or permanent loss of function unrelated to any underlying medical conditions, including:<xref ref-type="bibr" rid="article-131252.r17">[17]</xref></p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Patient suicide involving any patient who received care from a healthcare system, including the emergency department, within 72 hours following their discharge</p>
+          </list-item>
+          <list-item>
+            <p>The unanticipated health issue of a full-term infant</p>
+          </list-item>
+          <list-item>
+            <p>An infant discharged to the wrong family</p>
+          </list-item>
+          <list-item>
+            <p>Abduction of any patient receiving care, treatment, or services</p>
+          </list-item>
+          <list-item>
+            <p>Elopement of a patient within a healthcare setting, leading to harm</p>
+          </list-item>
+          <list-item>
+            <p>Hemolytic transfusion reaction requiring administration of blood products</p>
+          </list-item>
+          <list-item>
+            <p>Rape, assault, or homicide of anyone on healthcare premises</p>
+          </list-item>
+          <list-item>
+            <p>Wrong patient, site, or procedure for any surgical procedures</p>
+          </list-item>
+          <list-item>
+            <p>Unintended retention of a foreign body in a patient following surgery</p>
+          </list-item>
+          <list-item>
+            <p>Severe neonatal hyperbilirubinemia</p>
+          </list-item>
+          <list-item>
+            <p>Prolonged fluoroscopy with cumulative dose to the wrong body region</p>
+          </list-item>
+          <list-item>
+            <p>Fire, flame, or unanticipated smoke, heat, or flashes during patient care</p>
+          </list-item>
+          <list-item>
+            <p>Intrapartum maternal death</p>
+          </list-item>
+          <list-item>
+            <p>Severe maternal morbidity</p>
+          </list-item>
+        </list>
+        <p>The finalized RCA report must follow a set standard to meet the Joint Commission's requirements, including:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Participation of the organization's leadership and key stakeholders</p>
+          </list-item>
+          <list-item>
+            <p>Thorough explanation of all findings</p>
+          </list-item>
+          <list-item>
+            <p>Consideration of any relevant or applicable studies</p>
+          </list-item>
+          <list-item>
+            <p>Internal accuracy and consistency, without contradictions or unanswered questions</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Case Illustrations with Root Cause Analysis Interventions</bold>
+</p>
+        <p>The following cases illustrate various types of medical errors, the process of root cause analysis through which failures were identified, and how interventions were implemented in each situation to prevent similar errors in the future.</p>
+        <p>
+<bold>Case example 1&#x000a0;</bold>
+</p>
+        <p>A 42-year-old primigravida&#x000a0;woman&#x000a0;at 34 weeks gestation was brought to the obstetric emergency department at midnight with complaints of severe headache, blurry vision, and right upper quadrant pain for the last&#x000a0;5 to&#x000a0;6 hours. She noted lower extremity edema and facial swelling that was gradually increasing. She has gestational hypertension and, 1 week ago, was prescribed labetalol 200 mg twice a day. On initial presentation, her blood pressure was 190/110 mm Hg on&#x000a0;2 separate occasions, 5 minutes apart. She had gained&#x000a0;2 kilograms since her last antenatal checkup in the clinic&#x000a0;a week ago. The patient was diagnosed with severe preeclampsia. The senior obstetric resident ordered&#x000a0;a loading dose of magnesium sulfate to prevent imminent seizure. The hospital protocol used an intravenous (IV) and intramuscular (IM) regimen where the patient received a 4 g IV bolus and a 10 g IM dose administered as 5 g in each buttock. The senior resident gave verbal orders for magnesium sulfate administration to the junior resident, who verbally communicated the order to the nurse.</p>
+        <p>The magnesium sulfate dosing regimen was complex, with multiple doses in different locations, and was incorrectly prepared by the nurse who&#x000a0;felt rushed in an urgent situation. Because the chart displaying magnesium sulfate's preparation in the drug preparation room had faded, the nurse relied on her memory. As part of the protocol, the nurse recited the dosage to another nurse, who cross-checked it from a printed chart and noted the error in time. The senior resident also identified the error as the dose was communicated aloud, and the drug administration was stopped.&#x000a0;</p>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Root cause analysis with corrective measures</bold>:&#x000a0;A root cause analysis was performed, and measures were taken to avoid this problem. As the Institute of Safe Medication Practices recommended, magnesium sulfate was marked as a high-alert medication. Furthermore, premixed solutions prepared by the pharmacy for the bolus dosing were instituted instead of requiring nurses to mix this high-risk medication on the unit. The second&#x000a0;nurse verification measure was retained, with the second nurse instructed to double-check all doses, pump settings, drug names, and concentrations before administration of any drugs. Moreover, the RCA recommended that all medication orders be provided in writing and entered in the electronic medical record using computerized provider order entry (CPOE) systems, regardless of the situation's urgency, to avoid dosing errors. The RCA team emphasized that verbal communication for medication administration should always be avoided. If verbal communication is necessary or unavoidable, the RCA recommended that the nurse taking the order read back the order given to the prescribing physician to minimize any prescribing errors.&#x000a0;</p>
+          </list-item>
+        </list>
+        <p><bold>Case example 2&#x000a0;</bold>(The name and date of birth used in this example are for illustrative purposes and do not represent an actual patient. Any&#x000a0;similarities if noted, are purely coincidental.)</p>
+        <p>Anna Joy, date of birth October 30, 1991, was a primigravida at 30 weeks gestation admitted to a busy obstetric ward with complaints of intermittent cramping abdominal pain. She had come from Spain to visit her sister, who was living in Boston. The patient's ability to communicate in English was limited, preferring to speak Spanish. However, her husband and sister were fluent in English and&#x000a0;assisted with translation throughout the history, exam, and admission. The patient was seen by an obstetrician who advised routine threatened preterm labor evaluation and observation.</p>
+        <p>Another patient, Ann Jay, date of birth September 30, 1991, was 34 weeks gestation and admitted to the same ward for gestational diabetes mellitus with hyperglycemia. A consulting endocrinologist advised&#x000a0;glucose monitoring and insulin administration. The nurse taking care of the patient was given orders, performed a finger-stick blood glucose check, and informed the endocrinologist about the results over the phone. The endocrinologist advised 6 units of regular insulin before lunch. After being told by the nurse that the patient was feeling decreased fetal movement, the admitting obstetrician recommended ongoing observation and fetal kick counts.&#x000a0;</p>
+        <p>The family members of the first patient,&#x000a0;Anna Joy,&#x000a0;informed the nurse that they were going to lunch. The morning shift nurse later required a half-day leave because of personal issues and quickly handed her patients to another nurse. The ward was busy and running at full capacity. The new nurse decided to give the insulin injection first as the patient was about to receive her lunch. She did not know that Anna Joy preferred&#x000a0;communication in Spanish. The nurse asked a few questions and rushed through patient identification with the help of 2 unique patient identifiers. She administered the insulin injection to the first patient, only realizing later that the insulin was supposed to be given to the second patient,&#x000a0;Ann Jay. The attending obstetrician and the endocrinologist were informed. They took the necessary measures and closely monitored the patient for the next few hours; however, no adverse effects were noted.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Root cause analysis with corrective measures</bold>:&#x000a0;A root cause analysis was performed, and measures were taken to avoid this problem. The RCA team noted that the nurse caring for both patients had worked in the hospital for&#x000a0;5 years and was recently transitioned to the obstetric ward. This had never happened to her before. The team recognized that the modern patient care delivery process relies on an interprofessional care team's efficient and effective integration. A clear, consistent, and standardized communication method between the team members contributes to safe patient care and minimizes the risk of adverse outcomes. The RCA team did not lay blame on the nurse involved. They instead instituted a standardized handoff platform and required all patient handoffs to occur using this format in the future. During shift change, the handoff between clinicians and nurses is pivotal in providing high-quality care. The aim should be to provide the oncoming team with up-to-date, accurate, and complete information. The RCA team outlined clinical education programs for nurses and clinicians to ensure high-quality and effective handoff occurs at every shift change and patient handoff. They also instituted mandatory use of hospital-based interpreters when communicating with patients who are not fluent in English. The hospital procedure for verifying patient identification using two unique patient identifiers, the name and the date of birth, was retained. However, an additional mandatory step of verifying the patient's identity using an arm-band barcode was instituted before every medication administration. They also highlighted patient charts and rooms when patients had similar names and dates of birth.</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Case example 3</bold>
+</p>
+        <p>A 26-year-old primigravida at 39 weeks gestation with no associated high-risk factors was admitted to a busy labor and delivery floor with labor pains. The patient was managed according to routine labor protocol. When the patient had reached a cervical dilatation of 4 cm, the cardiotocograph showed prolonged fetal bradycardia lasting for&#x000a0;3.5 minutes, which did not resolve with conservative interventions. The patient was transferred to the&#x000a0;operating room for an emergent cesarean section. The baby was delivered in good condition, with no intraoperative complications. Before closure, the operating obstetrician asked the scrub nurse to perform a surgical count. The scrub nurse reported a missing gauze piece from the surgical trolley. Therefore, the scrub and the floor nurses performed additional counts several times. A second on-call obstetrician was summoned to assist the primary surgeon in checking the surgical field for the missing gauze piece. The surgical gauze had a heat-bonded barium sulfate marker embedded in the fabric to help with x-ray identification. An intraoperative x-ray was obtained to evaluate for a retained sponge, and the results were negative. After discussing the case with the department chief, the abdomen was closed. Due to the associated delays, the operative&#x000a0;time was significantly lengthened, totaling 2 hours and&#x000a0;30 minutes.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Root cause analysis with corrective measures</bold>:&#x000a0;An&#x000a0;RCA of the event revealed inconsistent practices regarding the surgical count before initiating the procedure. Moreover, only the scrub nurse was responsible for performing this count. The RCA team determined that the surgical count is critical and must be performed in a standardized fashion to eliminate variation and minimize human error. They highlighted international standards that recommend standardizing the counting process and systematically tracking the instruments, gauze, and sponges in the sterile field. Subsequently, they instituted the World Health Organization's Surgical Safety Checklist as a mandatory step for all procedures, regardless of the urgency of the procedure. The team also recommended that the counting process be concurrently audible and visual, performed by the scrub nurse and the circulating nurse independently, and done before and after every procedure. They emphasized that the best practices for surgical count be followed regardless of the clinical situation.&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Case example 4</bold>
+</p>
+        <p>A 25-year-old&#x000a0;man presented for bilateral LASIK surgery at a same-day surgery center. The operating surgeon, a community-based surgeon not routinely operating at this facility, examined the patient, and informed consent was obtained preoperatively. The refractive error was -4 D for the right eye and &#x02013; 5 D for the left eye. The plan was to remove the refractive error altogether. There was a&#x000a0;timeout to ensure the correct patient and procedure. The LASIK procedure commenced by creating corneal flaps on both eyes, which was completed uneventfully. Then, the patient was adjusted on the operating microscope so that the first eye was directly under the excimer laser, and iris recognition was attempted before the&#x000a0;laser-guided corneal power correction was performed. Though the machine did not recognize the iris pattern after&#x000a0;3 attempts, the surgeon decided to proceed. The technician thought this was rare as they had good iris recognition rates of &#x0003e;98% this month. However, he did not want to contradict the surgeon. Before the procedure, the circulating nurse noted that the patient's table was adjusted to the wrong side with the left eye under the laser instead of the right. She pressed the emergency stop button, and the treatment was terminated. After identifying the mistake, the surgeon and technician restarted the machine to treat the correct eyes in the correct sequence.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Root cause analysis with corrective measures</bold>:&#x000a0;Unlike unilateral procedures, bilateral procedures are especially challenging, particularly if the treatment varies between the&#x000a0;2 sides. An example is LASIK, where both eyes are typically corrected simultaneously, and there is no obvious pathology on the eye except for the refractive error. The&#x000a0;correction is determined preoperatively, and the result is not immediately titrated. Therefore, the risk for wrong-site procedures is significant, given these ambiguities. To avoid these adverse events, the RCA team implemented a verification procedure where the optometrist, technician, and surgeon must verify each eye's refractive error before&#x000a0;the procedure and after programming the laser. Some advanced laser machines have a built-in layer of defense where the iris pattern of the eye is uniquely identified via iris recognition, helping to determine the correct eye and enhance treatment protocol. Some treatments, however, do not include iris recognition, and therefore, the onus lies on the technicians, nurses, and surgeons to identify the appropriate eye correctly.&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Case example 5</bold>
+</p>
+        <p>A community clinic treats approximately 110 patients daily. The clinic is run by&#x000a0;2 primary care physicians, with the assistance of&#x000a0;2 nurses and scribes. A 10-year-old boy was brought to the clinic by his parents due to a runny nose for the last 10 days. On examination, the primary care physician diagnosed allergic rhinitis and advised them to use over-the-counter cetirizine. One of the scribes had called in sick that day, so a secretary was assisting the physician. The physician advised the parents that cetirizine is an over-the-counter medication that could be obtained at their pharmacy of choice. After&#x000a0;2 days, the patient's mother returned to the clinic and reported that the child was lethargic. The clinic front desk staff told the mother they would convey this to the physician, who was very busy that day. The physician instructed the staff to inform the parents that somnolence was typical for children taking cetirizine and to keep the child at home for the next few days. The message was conveyed to the mother, who decided to take the child to another specialist as she was concerned by the sedation. The specialist noted that the child was taking a 10-mg cetirizine tablet twice a day, which is double the recommended amount.&#x000a0;</p>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Root cause analysis with corrective measures</bold>:&#x000a0;An RCA review at the primary clinic identified a typographical error in the patient instruction handout. Instead of 5 mg twice daily, the instructions had a dosage of 10 mg twice daily. Subsequently, the RCA recommended a verbal and written verification procedure be instituted with the prescribing physicians of all drugs and dosages transcribed by the scribes or office personnel. Moreover, the&#x000a0;physician and staff were to read prescription and over-the-counter drug recommendations and doses to the patient or caregiver from the visit summary instructions to verify a match with the clinician's notes. The RCA also mandated a document review for all patient callbacks or return visits before communicating with a patient to avoid future errors.</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Case example 6</bold>
+</p>
+        <p>All-Eyes Laser Center is a busy same-day ophthalmic laser center that performs multiple laser procedures daily but specializes in retinal and anterior segment lasers. A 60-year-old man, JM, suffered from chronic angle-closure glaucoma and had been advised to undergo a Yttrium-Aluminum-Garnett (YAG) laser iridotomy, which involves creating a small hole in the peripheral part of the iris to increase the aqueous flow between the anterior and the posterior chamber. This treatment is frequently performed to prevent an angle-closure attack and further glaucoma progression. This laser surgeon also does another laser procedure called a YAG capsulotomy in which the posterior capsule in a pseudophakic eye is lasered to create an opening to improve vision impaired by after-cataract posterior capsular opacity. The YAG laser device platform allows both procedures to be&#x000a0;performed with one machine.&#x000a0;</p>
+        <p>The day JM was scheduled for the YAG procedure was unusually busy at the laser center, and the surgeon was running behind schedule. There were&#x000a0;5 patients ahead of JM, and an approximately 2-hour delay was anticipated. With each patient, the typical practice before a YAG iridotomy procedure consisted of the nurse practitioner&#x000a0;checking the patient history, confirming examination findings, and instilling 2% pilocarpine eye drops to cause constriction and ensure good exposure of the peripheral iris crypts. The laser surgeon would then perform the procedure, directing the laser to create a small iridotomy.&#x000a0;</p>
+        <p>After JM was taken to the procedure room, a proper timeout was confirmed, including the correct eye and procedure. However, when the patient was positioned at the laser machine, the surgeon noticed that the pupil was dilated rather than constricted. The surgeon again verified the patient's tag and name and the correct procedure. Though the patient and the procedure were both determined to be correct, the surgeon believed attempting an iridotomy on a dilated pupil would be dangerous. Therefore, the procedure was not performed, and the patient was transferred out of the laser suite. The patient was informed of the error and&#x000a0;instructed&#x000a0;that he would be rescheduled for the correct procedure in a few days. The error was attributed to the nurse administering the wrong eye drop, secondary to high patient volume and practice inconsistencies.&#x000a0;</p>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Root cause analysis with corrective measures</bold>:&#x000a0;An RCA was performed, and measures were taken to avoid this problem in the future. Though this error did not harm the patient, the risk of the wrong procedure&#x000a0;being performed was high. Therefore, the RCA team recommended segregating patients for YAG capsulotomy and YAG iridotomy to different&#x000a0;seating areas that were clearly labeled. The&#x000a0;2 eye drops, tropicamide and pilocarpine, were kept in their respective areas, and the staff was not allowed to take them out from their designated area. A barcode-based verification was also instituted and used each time the drop was instilled. Many clinics utilize precautions for similar-sounding medications and patient names. However, in a clinic where multiple procedures with a relatively quick turnover are being performed, pre-procedure medications without designated patient areas have a significant risk of being mixed. Using the precautions such as those mentioned above can help reduce medication errors.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-131252.s4" sec-type="Issues of Concern">
+        <title>Issues of Concern</title>
+        <p>The IOM identifies medical errors as a leading cause of death and&#x000a0;injury.<xref ref-type="bibr" rid="article-131252.r1">[1]</xref>&#x000a0;According to the 2019 World Health Organization (WHO) Patient Safety Factsheet, adverse events due to unsafe patient care are&#x000a0;among&#x000a0;the top ten causes of death and disability worldwide.&#x000a0;Preventable adverse events in the US cause an estimated 44,000 to&#x000a0;98,000 hospital deaths annually, which exceeds motor vehicle collision deaths.<xref ref-type="bibr" rid="article-131252.r1">[1]</xref>&#x000a0;Furthermore, in terms of health care, disability, and loss of productivity, medical errors are estimated to cost the community an additional 37.6 to 50 billion dollars.<xref ref-type="bibr" rid="article-131252.r1">[1]</xref>&#x000a0;The most severe consequences of medical errors are the adverse events patients and their families suffer. Therefore, utilizing RCA is critical to identify systemic flaws that led to a medical error so that corrective measures can be promptly implemented.</p>
+        <p>
+<bold>Types of Medical Errors</bold>
+</p>
+        <p>Healthcare professionals should be familiar with the different types of medical errors to understand better the adverse events that may be caused. Errors are not always due to human miscalculation or miscommunication, as outlined by the cases above. Some errors are inherent to clinical situations, such as patient falls in hospital settings and healthcare-associated infections. Common types of medical errors include surgical errors, diagnostic errors, medication errors, equipment failures, patient falls, hospital-acquired infections, and communication failures.<xref ref-type="bibr" rid="article-131252.r3">[3]</xref><xref ref-type="bibr" rid="article-131252.r18">[18]</xref></p>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Surgical errors</bold>: Errors in surgery have the highest risk of severe patient injury and death. Intraoperative errors are estimated to be the primary issue in 75% of malpractice cases involving surgeons. Surgical errors involving the wrong site, patient, or procedure should never occur. Investigations into the factors that led to these types of surgical errors have demonstrated that common causes include clinician factors (eg, feeling rushed, distractions, and fatigue), miscommunication, changing or inadequate staffing, organizational factors (eg, discarding specimens as waste and not labeling specimens), medical record issues, and cognitive errors.<xref ref-type="bibr" rid="article-131252.r19">[19]</xref></p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Diagnostic errors</bold>: The National Academy of Medicine defines a diagnostic error as "the failure to establish an accurate and timely explanation of a patient's health problems or to communicate that explanation to the patient," therefore, delayed or missed diagnoses are considered errors as well.<xref ref-type="bibr" rid="article-131252.r20">[20]</xref>&#x000a0;According to the Joint Commission, diagnostic errors result in the death or injury of 40,000 to 80,000 patients annually. Diagnostic errors are most common in primary care solo practices due to workload, time constraints, and the inability to confer easily with colleagues.<xref ref-type="bibr" rid="article-131252.r21">[21]</xref>&#x000a0;Malignancies, surgical complications, and neurological, cardiac, and urological issues are the 5 conditions most frequently misdiagnosed.<xref ref-type="bibr" rid="article-131252.r22">[22]</xref><xref ref-type="bibr" rid="article-131252.r23">[23]</xref><xref ref-type="bibr" rid="article-131252.r24">[24]</xref>&#x000a0;According to studies, these conditions are frequently misdiagnosed secondary to knowledge gaps, resulting in deficient bedside assessment and clinical reasoning. Identifying these commonly misdiagnosed conditions is beneficial, as diagnostic errors are primarily cognitive rather than organization-based errors; therefore, clinicians can be forewarned of the potential challenges when caring for these patients.<xref ref-type="bibr" rid="article-131252.r25">[25]</xref>&#x000a0;In addition to a clinical knowledge deficiency, common contributing factors to diagnostic error include a clinician's fatigue, distraction, failure to consider differential diagnoses, neglect of diagnostic testing follow-up, and inadequate patient follow-up care.<xref ref-type="bibr" rid="article-131252.r11">[11]</xref><xref ref-type="bibr" rid="article-131252.r21">[21]</xref>&#x000a0;</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Medication errors</bold>: These errors are widely accepted as the most common and preventable cause of patient injury.<xref ref-type="bibr" rid="article-131252.r26">[26]</xref>&#x000a0;Because there are several components involved with patient medications (eg, prescribing, dispensing, dosing, and administering), errors can occur in any of those areas. The reported incidence of medication error-associated adverse events in acute hospitals is approximately 6.5 events per 100 admissions.<xref ref-type="bibr" rid="article-131252.r26">[26]</xref>&#x000a0;Medication errors before or after discharge from an acute care facility are the most easily overlooked or missed errors.<xref ref-type="bibr" rid="article-131252.r26">[26]</xref></p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Equipment errors</bold>: Medical equipment design flaws, mishandling, user error, and malfunction are common causes of medical errors. Additionally, a significant number of medical devices have been implanted in patients (eg, pacemakers, defibrillators, and nerve and brain stimulators), which may malfunction and result in life-threatening complications. Equipment errors can be due to device differences between manufacturers, inadequate testing and maintenance, poor design, and poor maintenance.&#x000a0;Errors involving tube and catheter connections (eg, using catheters for unintended purposes, running the wrong line through a pump, and misplacing feeding tubes into the lung) are also common. These adverse events can have life-threatening effects if a misconnection is not corrected early.<xref ref-type="bibr" rid="article-131252.r27">[27]</xref><xref ref-type="bibr" rid="article-131252.r28">[28]</xref>&#x000a0;To complicate the situation further, medications and food supplements are often delivered via these routes, and placement errors can result in administration or omission mistakes.&#x000a0;</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Hospital-acquired infections</bold>:&#x000a0;Healthcare-related infections are considered a failure of the system. As many as 1 in 20 hospitalized patients may acquire a healthcare-related infection, increasing complications and the length and cost of the hospital stay. Healthcare-related infections add close to $35 billion to the annual cost of healthcare in the United States.<xref ref-type="bibr" rid="article-131252.r29">[29]</xref>&#x000a0;Common causes of hospital-acquired infections include failure to practice basic hand hygiene and poor technique in placing indwelling urinary and vascular catheters. Subsequently, the most prevalent infections are catheter-associated urinary tract infections, surgical site infections, hospital-acquired pneumonia, central line-associated sepsis, and care-related skin and soft tissue infections.<xref ref-type="bibr" rid="article-131252.r29">[29]</xref></p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Patient falls</bold>: Each year, over one-third of people older than 65 suffer a fall, with one-third of these causing injury.<xref ref-type="bibr" rid="article-131252.r30">[30]</xref>&#x000a0;In a healthcare setting, several factors may further increase the risk of falls, including&#x000a0;blood loss medication side effects, post-anesthesia effects, decreased blood sugar, altered mental status, advanced age, mobility impairment, and inadequate staffing.<xref ref-type="bibr" rid="article-131252.r31">[31]</xref>&#x000a0;</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Communication errors</bold>: Optimal interprofessional communication, as well as with patients, is essential for patient care. Therefore, communication errors commonly result in adverse events.<xref ref-type="bibr" rid="article-131252.r32">[32]</xref>&#x000a0;Reasons for impaired communication include disruptive patient behavior, environmental distractions (eg, cell phones and pagers), cultural&#x000a0;differences, hierarchy issues, personality differences, language barriers, and socioeconomic variables, such as education and literacy.<xref ref-type="bibr" rid="article-131252.r11">[11]</xref>&#x000a0;Additionally, errors in written communication, such as using nonstandard abbreviations, illegible handwriting, failure to question inappropriately written orders, and failure to complete correct specimen labeling, frequently occur.<xref ref-type="bibr" rid="article-131252.r11">[11]</xref></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-131252.s5" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>RCA&#x000a0;helps healthcare organizations study events that resulted in patient harm or undesired clinical outcomes and identify strategies to reduce further medical errors and improve patient safety. Clinician participation in root cause analysis is vital as these initiatives recognize and address essential patient care aspects.&#x000a0;Through a review of data gathered by the Joint Commission, the most common categories of clinical error resulting in patient death, which can be prevented through root cause analysis, have been identified. These sentinel events, which account for a significant proportion of morbidity and mortality within the hospital setting, include:<xref ref-type="bibr" rid="article-131252.r13">[13]</xref>&#x000a0;</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Surgical errors&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Diagnostic errors</p>
+          </list-item>
+          <list-item>
+            <p>Patient suicide</p>
+          </list-item>
+          <list-item>
+            <p>Medication errors</p>
+          </list-item>
+          <list-item>
+            <p>Equipment errors</p>
+          </list-item>
+          <list-item>
+            <p>Hospital-acquired infections</p>
+          </list-item>
+          <list-item>
+            <p>Patient falls</p>
+          </list-item>
+          <list-item>
+            <p>Communication errors</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Medical Error Prevention Measures</bold>
+</p>
+        <p>By identifying the deficiencies, failures, and risk factors that lead to an adverse event, corrective measures can be developed to prevent similar errors. Subsequently, individuals involved in every aspect of healthcare can help implement appropriate preventative strategies to reduce future medical errors and improve patient safety.<xref ref-type="bibr" rid="article-131252.r17">[17]</xref>&#x000a0;The following interventions are some strategies institutions have implemented to address these common systemic flaws.</p>
+        <p>
+<bold>Surgical Errors</bold>
+</p>
+        <p>Preventative measures for surgical errors have frequently consisted of adopting checklists,&#x000a0;counting instruments, initiating antibiotic prophylaxis for deep vein thrombosis, and utilizing radio-frequency marked sponges.<xref ref-type="bibr" rid="article-131252.r3">[3]</xref>&#x000a0;Additionally, the performance of a surgical time-out has become a widespread strategy to reduce surgical errors. A time-out is a pause before a surgical procedure begins. The surgical team pauses and reviews the patient's identity, the consent form, the procedure&#x000a0;being performed, and the correct anatomical structures and side involved, which should be marked on the patient's skin. If multiple procedures by separate surgical teams are planned, separate time-outs must be done. Surgeons and every surgical team member involved in the procedure must be present during the time-out, and any disagreement during the time-out should trigger an investigation by the surgical team until the discrepancy is resolved.<xref ref-type="bibr" rid="article-131252.r33">[33]</xref>&#x000a0;</p>
+        <p>Wrong-site surgery is a major cause of medical errors that can be mitigated through various preoperative safety checkpoints and has been the subject of a sentinel event alert by the Joint Commission.<xref ref-type="bibr" rid="article-131252.r13">[13]</xref><xref ref-type="bibr" rid="article-131252.r34">[34]</xref>&#x000a0;These errors have most commonly been noted in orthopedic surgeries.<xref ref-type="bibr" rid="article-131252.r35">[35]</xref>&#x000a0;Risk factors include several surgeons involved in surgical care or transfers to another surgeon for patient care, multiple procedures on a single patient, time constraint pressures, and unique circumstances requiring unusual or special positioning during a surgical procedure.<xref ref-type="bibr" rid="article-131252.r34">[34]</xref>&#x000a0;Wrong-site surgeries can easily be mitigated by ensuring proper preoperative measures, such as labeling the correct surgical site with an indelible pen or distinctively marking the nonsurgical site before the surgery. Intraoperative radiography can also assist in aiding the correct surgical site during the procedure.</p>
+        <p>
+<bold>Diagnostic Errors</bold>
+</p>
+        <p>Diagnostic errors such as misdiagnoses, delayed diagnostic test results, lack of staffing or physician availability, delays in order fulfillment, inadequate treatment, and delays within the emergency department can cause delays in medical treatment that may result in patient death and permanent injuries. Reducing diagnostic errors requires a comprehensive approach that implements various strategies due to the many factors that can lead to these errors.&#x000a0;System-based safety checks and cognitive aids are often recommended as interventions to help prevent diagnostic errors. Cognitive aids include algorithms to help guide decision-making based on accepted guidelines, "trigger tools" within&#x000a0;electronic health records that remind clinicians to consider differential diagnoses for commonly misdiagnosed conditions, and checklists to prevent the omission of critical steps.<xref ref-type="bibr" rid="article-131252.r11">[11]</xref><xref ref-type="bibr" rid="article-131252.r36">[36]</xref>&#x000a0;&#x000a0;According to a 2015&#x000a0;<italic toggle="yes">New England&#x000a0;Journal of Medicine</italic>&#x000a0;article, trigger tools are essential in reducing this type of medical error.<xref ref-type="bibr" rid="article-131252.r36">[36]</xref>&#x000a0;Trigger tools are electronic algorithms that identify potential adverse events. This is accomplished&#x000a0;by searching electronic health records and flagging specific occurrences.<xref ref-type="bibr" rid="article-131252.r36">[36]</xref>&#x000a0;The use of cognitive aids and trigger tools has been shown to decrease the rate of misdiagnoses in recent studies.<xref ref-type="bibr" rid="article-131252.r36">[36]</xref>&#x000a0;Addressing deficiencies through various other strategies (eg, device-based decision support, simulation-based training, and increased specialist utilization) may also help reduce diagnostic errors.<xref ref-type="bibr" rid="article-131252.r24">[24]</xref>&#x000a0;Though ingrained practice methods and physician overconfidence can attenuate the success of these interventions, fostering critical thinking and promoting "pause and reflect" methods have been found to help avert diagnostic errors, especially in cases with obscure clinical findings or unexpected clinical trajectories.<xref ref-type="bibr" rid="article-131252.r37">[37]</xref><xref ref-type="bibr" rid="article-131252.r25">[25]</xref>&#x000a0;Aside from encouraging critical thinking, opportunities for case discussions and second opinions should be made available for the treating providers. Healthcare facilities should also provide avenues for second opinions or interdisciplinary teams where cases can be discussed.<xref ref-type="bibr" rid="article-131252.r37">[37]</xref>&#x000a0; Other interventions to reduce diagnostic errors of commonly misdiagnosed conditions include&#x000a0;simulation-based training, performance feedback, and encouraging the contributions of nurses, pharmacists, and other&#x000a0;health professionals during patient care.<xref ref-type="bibr" rid="article-131252.r24">[24]</xref></p>
+        <p>
+<bold>Patient Suicide</bold>
+</p>
+        <p>Patient suicide is an unfortunate cause of death commonly seen in psychiatric care settings.<xref ref-type="bibr" rid="article-131252.r13">[13]</xref>&#x000a0;Several risk-reduction methods can be implemented for this adverse event, including ensuring a controlled environment free of hazardous materials, frequent patient observation, effective communication, adequate staffing in the facility, suicide assessment upon admission, regular psychiatric evaluation, and assessment for the presence of contraband.</p>
+        <p>
+<bold>Medication Errors</bold>
+</p>
+        <p>Medication administration errors are&#x000a0;a common and avoidable adverse event that can occur at various patient care levels, involving many individuals in a multidisciplinary patient care team.<xref ref-type="bibr" rid="article-131252.r38">[38]</xref>&#x000a0;Barcode administration and handheld personal digital assistants increase medication administration safety by providing real-time patient information, medication profiles, laboratory values, drug information, and documentation. Moreover, electronic medication administration helps identify incorrect medications and orders that have been canceled or modified. However, circumventing barcode procedures decreases safety at the point of care. Automatic dispensing systems that quickly make drugs available to patients allow pharmacy clinicians to engage in other safety activities, such as medication reconciliation. Additionally,&#x000a0;look-alike medications should be stored away from more dangerous&#x000a0;medications. Hospitals can also standardize storage areas and avoid medication containers that have a similar appearance. Pharmacy clinicians should remove dangerous medications&#x000a0;from floor stock and discard out-of-date drugs as a preventative measure. Other strategies include using color-coded intravenous lines, utilizing standard concentrations of vasoactive agents, labeling syringes immediately after preparation, and capitalizing the differences on the labels of medications with similar names.<xref ref-type="bibr" rid="article-131252.r11">[11]</xref><xref ref-type="bibr" rid="article-131252.r3">[3]</xref></p>
+        <p>
+<bold>Equipment Errors</bold>
+</p>
+        <p>Health professionals should be involved in setting and evaluating institutional, organizational, and public technology-related policies. Safety primarily can be improved by developing&#x000a0;protocols for equipment maintenance, training, monitoring, and reporting adverse events related to technology. Additionally, clinicians should be educated in remaining vigilant despite clinical assistance by devices and able to manage equipment failure situations.<xref ref-type="bibr" rid="article-131252.r39">[39]</xref>&#x000a0;Unique connectors for anesthesia catheters&#x000a0;and feeding tubes can be used to reduce the chances of tubing misconnections.<xref ref-type="bibr" rid="article-131252.r40">[40]</xref>&#x000a0;Furthermore, clinicians and support staff should always trace lines back to the origin before connecting or disconnecting devices or starting infusions and labeling high-risk catheters.<xref ref-type="bibr" rid="article-131252.r27">[27]</xref><xref ref-type="bibr" rid="article-131252.r28">[28]</xref>&#x000a0;</p>
+        <p>
+<bold>Hospital-acquired Infections&#x000a0;</bold>
+</p>
+        <p>Changing the behaviors of healthcare team members is effective in reducing iatrogenic infections. Hand hygiene campaigns have been shown to decrease the number of nosocomial infection rates for various infections and should be universally endorsed.<xref ref-type="bibr" rid="article-131252.r41">[41]</xref>&#x000a0;Most healthcare facilities now employ specific protocols for minimizing central venous and urinary catheter use and using protective measures such as chlorhexidine for vascular catheter site care to reduce the incidence of healthcare-associated bloodstream infections, ventilator-associated pneumonia, and catheter-associated urinary tract infections.<xref ref-type="bibr" rid="article-131252.r3">[3]</xref>&#x000a0;Minimizing the duration of use of indwelling catheters has also effectively reduced the incidence of associated infections.<xref ref-type="bibr" rid="article-131252.r41">[41]</xref><xref ref-type="bibr" rid="article-131252.r3">[3]</xref>&#x000a0;</p>
+        <p>To decrease the risk of nosocomial infections, pharmacy-driven&#x000a0;antibiotic stewardship programs should be regularly employed in all patients admitted to a healthcare facility.<xref ref-type="bibr" rid="article-131252.r42">[42]</xref>&#x000a0;Frequent skin assessment and evaluation by wound care teams with regular and focused nursing education and evidence-based treatments should be routinely employed to lower healthcare-associated pressure injuries.<xref ref-type="bibr" rid="article-131252.r43">[43]</xref>&#x000a0;The care of surgical sites should follow similar protocols, with some studies proposing chlorhexidine-impregnated dressings to decrease the incidence of surgical site infections.<xref ref-type="bibr" rid="article-131252.r3">[3]</xref></p>
+        <p>
+<bold>Patient Falls</bold>
+</p>
+        <p>Similarly, patient falls are a constant source of injury within healthcare facilities. Patients at high risk for falls should be identified, and appropriate safety precautions should be taken.&#x000a0;Elderly patients tend to be prone to falls due to their age-related changes in vision or cardiovascular problems. Elderly patients also frequently have increased balance issues and muscle weakness over time, leading to ambulatory dysfunction. Having&#x000a0;fall-prevention protocols in place, identifying potential high-risk areas within the home, and mitigating them through safety measures can improve patient safety and outcomes.<xref ref-type="bibr" rid="article-131252.r13">[13]</xref></p>
+        <p>Standardized protocols can reduce fall rates by ensuring a safe environment for risk-prone patients.&#x000a0;Patient factors contributing to falls include advanced age, mobility impairment, and postsurgical effects.<xref ref-type="bibr" rid="article-131252.r31">[31]</xref>&#x000a0;Inadequate nurse staffing, an increased portion of staff made of new nurses, and increased shift hours are organizational factors that can lead to patient falls.<xref ref-type="bibr" rid="article-131252.r31">[31]</xref>&#x000a0;Implementing fall prevention protocols in hospitals and long-term care facilities has significantly reduced these errors. Furthermore, standardized fall risk assessments such as the Morse Fall Scale can decrease patient falls.<xref ref-type="bibr" rid="article-131252.r3">[3]</xref>&#x000a0;Institutional interventions such as&#x000a0;staff education, patient mobility training with rehabilitation professionals, and nutritionist support have also been shown to reduce patient falls.<xref ref-type="bibr" rid="article-131252.r3">[3]</xref>&#x000a0;Other strategies include identifying patients at high risk for falls, providing patient safety companions, educating caregivers about fall prevention, and setting bed alarms and frequent safety rounds for all high-risk patients.<xref ref-type="bibr" rid="article-131252.r3">[3]</xref></p>
+        <p>
+<bold>Communication Errors</bold>
+</p>
+        <p>A courteous and respectful workplace where the interprofessional team collaborates promotes a safe work environment for all healthcare team members, families, and patients. Risk management committees and interprofessional task forces should&#x000a0;work collaboratively on risk assessment and reduction. Joint education programs help providers and support staff learn roles and develop relationships to improve safety.&#x000a0;The Joint Commission's Safety Goals require that for critical test results and verbal or telephone orders, a "read-back" verbatim to the practitioner by the person receiving and recording the result or order. The practitioner should then verbally acknowledge the accuracy of the order.<xref ref-type="bibr" rid="article-131252.r11">[11]</xref></p>
+        <p>Additionally, healthcare staff should avoid common errors in written communication, such as using nonstandard abbreviations, illegible handwriting, failure to question inappropriately written orders, and failure to complete correct specimen labeling. Therefore, staff should be encouraged to ask questions when uncertain and trained to double-check that the patient's name is spelled correctly and their correct date of birth is present.&#x000a0;The Joint Commission requires healthcare professionals to use 2 or more patient identifiers when labeling, delivering, and maintaining specimens. Since this is a National Patient Safety Goal, The Joint Commission closely monitors healthcare institutions' adherence to this requirement as they prepare medications and transfusions and transfer patients from unit to unit.<xref ref-type="bibr" rid="article-131252.r11">[11]</xref></p>
+        <p>Clinicians should also follow well-communicated protocols that guide care and communication with patients. Age-associated hearing and cognitive decline increase the likelihood of communication errors regarding medications. Ensuring appropriate communication skills tailored to distinct patient groups is crucial in preventing such errors. Young children and infants are similarly prone to common medical errors due to the lack of direct participation in decision-making and patient care. Thus, specialized communication is needed to convey medical instructions to elderly and younger patients and their caregivers to ensure no lapses in communication. Providers should&#x000a0;listen to patients' questions concerning how care is delivered. Concerns must be respected and accepted if care plans contradict established evidence-based medicine. Moreover, the Joint Commission has supported "speak up" initiatives, which encourage hospitals to inform patients about the importance of their contributions to the care they receive in preventing medical errors. To make patients active participants in avoiding medical errors, encourage patients to ask about unfamiliar tests, unplanned diagnostic tests, and medications and to verify the correct surgical site.<xref ref-type="bibr" rid="article-131252.r11">[11]</xref>&#x000a0;Additionally, skilled medical interpreters can be crucial in effectively communicating instructions and information to patients instead of family members, who may often be biased. Implementing standardized clinician-family communication at the patient bedside with family engagement and bidirectional communication also decreased the frequency of harmful medical errors and positively impacted the family experience.<xref ref-type="bibr" rid="article-131252.r44">[44]</xref></p>
+        <p>Communication errors during patient hand-offs can occur when&#x000a0;incorrect information is passed to the receiving clinician, or pertinent information is omitted.<xref ref-type="bibr" rid="article-131252.r45">[45]</xref>&#x000a0;Several techniques developed to minimize errors when handing off patients include using electronic records and mnemonics (eg, situation, background, assessment, and recommendation [SBAR])&#x000a0;to address all pertinent information.<xref ref-type="bibr" rid="article-131252.r46">[46]</xref><xref ref-type="bibr" rid="article-131252.r47">[47]</xref>&#x000a0;The SBAR tool is considered a best-practice communication technique to deliver information in an organized and logical fashion during hand-off and critical patient care situations.<xref ref-type="bibr" rid="article-131252.r47">[47]</xref>&#x000a0;The US's National Academies of Sciences, Engineering, and Medicine also recommend that these hand-offs occur in real-time and allow the&#x000a0;opportunity to ask and respond to questions regarding pertinent facts about patient care.<xref ref-type="bibr" rid="article-131252.r48">[48]</xref>&#x000a0;This principle should be used when discharging patients from the hospital as well. Clinicians should remember to perform a final bedside evaluation and review discharge instructions before sending any patient home, including giving the patient a thorough written follow-up plan, counseling on new medications, and instruction to return to the hospital or office for new or worsening symptoms.</p>
+      </sec>
+      <sec id="article-131252.s6" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Medical errors are undeniably an essential cause of patient morbidity and mortality within the United States healthcare system. These errors are prevalent at rampant levels, and the consequences of such errors can severely impact the patient, family members, and clinicians. The interprofessional healthcare team plays an invaluable role in preventing medical errors; team effort is crucial in identifying strategies and solutions to reduce the burden of medical error on the healthcare system. Nurses, pharmacists, rehabilitation professionals, nutritionists, and physicians are integral to the patient care team and crucial&#x000a0;in preventing medical errors. Practitioners&#x000a0;who work in error-prone environments must recognize their roles as healthcare team members responsible for reducing&#x000a0;unnecessary errors.<xref ref-type="bibr" rid="article-131252.r49">[49]</xref>&#x000a0;The interprofessional&#x000a0;team members comprising the RCA team should include&#x000a0;professionals from all disciplines to ensure an effective investigation and implementation of corrective measures.</p>
+        <p>Clinicians should not hesitate to provide their peers with assistance in recognizing particular sources of common medical errors to deliver better patient care. Equal accountability and responsibility of all healthcare team members are critical&#x000a0;in preventing errors and providing superior patient safety.<xref ref-type="bibr" rid="article-131252.r1">[1]</xref>&#x000a0;Quality assurance teams should employ&#x000a0;RCAs with every sentinal event, especially in situations when the identification of medical errors becomes difficult or complex due to many underlying factors.&#x000a0;RCAs can help identify factors within the healthcare delivery process that may impede the ability to provide quality patient care. Given the preventable nature of most medical errors, a thorough&#x000a0;RCA can improve patient safety and allow healthcare organizations to serve as a model for others.</p>
+        <p>Healthcare professionals should be aware of common medical error sources and work as a team to identify possible risks when they become apparent. Doing so will increase the quality and efficiency of the healthcare industry and patient trust in the healthcare system. When an RCA is performed, the cooperation of all healthcare team members and clinicians involved in patient care is critical to understanding the underlying source of a medical error and identifying future strategies to mitigate such errors and improve patient outcomes.</p>
+      </sec>
+      <sec id="article-131252.s7">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=131252&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=131252">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/131252/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=131252">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-131252.s8">
+        <title>References</title>
+        <ref id="article-131252.r1">
+          <label>1</label>
+          <element-citation publication-type="book">
+            <collab>Institute of Medicine (US) Committee on Quality of Health Care in America</collab>
+            <person-group person-group-type="editor">
+              <name>
+                <surname>Kohn</surname>
+                <given-names>LT</given-names>
+              </name>
+              <name>
+                <surname>Corrigan</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Donaldson</surname>
+                <given-names>MS</given-names>
+              </name>
+            </person-group>
+            <source>To Err is Human: Building a Safer Health System</source>
+            <publisher-name>National Academies Press (US)</publisher-name>
+            <publisher-loc>Washington (DC)</publisher-loc>
+            <year>2000</year>
+            <pub-id pub-id-type="pmid">25077248</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>James</surname>
+                <given-names>JT</given-names>
+              </name>
+            </person-group>
+            <article-title>A new, evidence-based estimate of patient harms associated with hospital care.</article-title>
+            <source>J Patient Saf</source>
+            <year>2013</year>
+            <month>Sep</month>
+            <volume>9</volume>
+            <issue>3</issue>
+            <fpage>122</fpage>
+            <page-range>122-8</page-range>
+            <pub-id pub-id-type="pmid">23860193</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ahsani-Estahbanati</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Sergeevich Gordeev</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Doshmangir</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>Interventions to reduce the incidence of medical error and its financial burden in health care systems: A systematic review of systematic reviews.</article-title>
+            <source>Front Med (Lausanne)</source>
+            <year>2022</year>
+            <volume>9</volume>
+            <fpage>875426</fpage>
+            <pub-id pub-id-type="pmid">35966854</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kavanagh</surname>
+                <given-names>KT</given-names>
+              </name>
+              <name>
+                <surname>Saman</surname>
+                <given-names>DM</given-names>
+              </name>
+              <name>
+                <surname>Bartel</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Westerman</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Estimating Hospital-Related Deaths Due to Medical Error: A Perspective From Patient Advocates.</article-title>
+            <source>J Patient Saf</source>
+            <year>2017</year>
+            <month>Mar</month>
+            <volume>13</volume>
+            <issue>1</issue>
+            <fpage>1</fpage>
+            <page-range>1-5</page-range>
+            <pub-id pub-id-type="pmid">28187011</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Strader</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Most medical error is the result of system issues.</article-title>
+            <source>BMJ</source>
+            <year>2019</year>
+            <month>May</month>
+            <day>17</day>
+            <volume>365</volume>
+            <fpage>l2158</fpage>
+            <pub-id pub-id-type="pmid">31101651</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Byju</surname>
+                <given-names>AS</given-names>
+              </name>
+              <name>
+                <surname>Mayo</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Medical error in the care of the unrepresented: disclosure and apology for a vulnerable patient population.</article-title>
+            <source>J Med Ethics</source>
+            <year>2019</year>
+            <month>Dec</month>
+            <volume>45</volume>
+            <issue>12</issue>
+            <fpage>821</fpage>
+            <page-range>821-823</page-range>
+            <pub-id pub-id-type="pmid">31399496</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Robertson</surname>
+                <given-names>JJ</given-names>
+              </name>
+              <name>
+                <surname>Long</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Suffering in Silence: Medical Error and its Impact on Health Care Providers.</article-title>
+            <source>J Emerg Med</source>
+            <year>2018</year>
+            <month>Apr</month>
+            <volume>54</volume>
+            <issue>4</issue>
+            <fpage>402</fpage>
+            <page-range>402-409</page-range>
+            <pub-id pub-id-type="pmid">29366616</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wu</surname>
+                <given-names>AW</given-names>
+              </name>
+            </person-group>
+            <article-title>Medical error: the second victim. The doctor who makes the mistake needs help too.</article-title>
+            <source>BMJ</source>
+            <year>2000</year>
+            <month>Mar</month>
+            <day>18</day>
+            <volume>320</volume>
+            <issue>7237</issue>
+            <fpage>726</fpage>
+            <page-range>726-7</page-range>
+            <pub-id pub-id-type="pmid">10720336</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Charles</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Hood</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>DeRosier</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Gosbee</surname>
+                <given-names>JW</given-names>
+              </name>
+              <name>
+                <surname>Bagian</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Caird</surname>
+                <given-names>MS</given-names>
+              </name>
+              <name>
+                <surname>Biermann</surname>
+                <given-names>JS</given-names>
+              </name>
+              <name>
+                <surname>Hake</surname>
+                <given-names>ME</given-names>
+              </name>
+            </person-group>
+            <article-title>Root Cause Analysis and Actions for the Prevention of Medical Errors: Quality Improvement and Resident Education.</article-title>
+            <source>Orthopedics</source>
+            <year>2017</year>
+            <month>Jul</month>
+            <day>01</day>
+            <volume>40</volume>
+            <issue>4</issue>
+            <fpage>e628</fpage>
+            <page-range>e628-e635</page-range>
+            <pub-id pub-id-type="pmid">28437546</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Grober</surname>
+                <given-names>ED</given-names>
+              </name>
+              <name>
+                <surname>Bohnen</surname>
+                <given-names>JM</given-names>
+              </name>
+            </person-group>
+            <article-title>Defining medical error.</article-title>
+            <source>Can J Surg</source>
+            <year>2005</year>
+            <month>Feb</month>
+            <volume>48</volume>
+            <issue>1</issue>
+            <fpage>39</fpage>
+            <page-range>39-44</page-range>
+            <pub-id pub-id-type="pmid">15757035</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sameera</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Bindra</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Rath</surname>
+                <given-names>GP</given-names>
+              </name>
+            </person-group>
+            <article-title>Human errors and their prevention in healthcare.</article-title>
+            <source>J Anaesthesiol Clin Pharmacol</source>
+            <year>2021</year>
+            <season>Jul-Sep</season>
+            <volume>37</volume>
+            <issue>3</issue>
+            <fpage>328</fpage>
+            <page-range>328-335</page-range>
+            <pub-id pub-id-type="pmid">34759539</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mascioli</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Carrico</surname>
+                <given-names>CB</given-names>
+              </name>
+            </person-group>
+            <article-title>Spotlight on the 2016 National Patient Safety Goals for hospitals.</article-title>
+            <source>Nursing</source>
+            <year>2016</year>
+            <month>May</month>
+            <volume>46</volume>
+            <issue>5</issue>
+            <fpage>52</fpage>
+            <page-range>52-5</page-range>
+            <pub-id pub-id-type="pmid">27096916</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Carpenter</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Joint Commission sentinel event policy and procedures update.</article-title>
+            <source>J AHIMA</source>
+            <year>1999</year>
+            <month>Mar</month>
+            <volume>70</volume>
+            <issue>3</issue>
+            <fpage>49</fpage>
+            <page-range>49-50</page-range>
+            <pub-id pub-id-type="pmid">10345525</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kellogg</surname>
+                <given-names>KM</given-names>
+              </name>
+              <name>
+                <surname>Hettinger</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Shah</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Wears</surname>
+                <given-names>RL</given-names>
+              </name>
+              <name>
+                <surname>Sellers</surname>
+                <given-names>CR</given-names>
+              </name>
+              <name>
+                <surname>Squires</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Fairbanks</surname>
+                <given-names>RJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Our current approach to root cause analysis: is it contributing to our failure to improve patient safety?</article-title>
+            <source>BMJ Qual Saf</source>
+            <year>2017</year>
+            <month>May</month>
+            <volume>26</volume>
+            <issue>5</issue>
+            <fpage>381</fpage>
+            <page-range>381-387</page-range>
+            <pub-id pub-id-type="pmid">27940638</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r15">
+          <label>15</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Rodziewicz</surname>
+                <given-names>TL</given-names>
+              </name>
+              <name>
+                <surname>Houseman</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Vaqar</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hipskind</surname>
+                <given-names>JE</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Medical Error Reduction and Prevention</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2024</year>
+            <month>2</month>
+            <day>12</day>
+            <pub-id pub-id-type="pmid">29763131</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wiegmann</surname>
+                <given-names>DA</given-names>
+              </name>
+              <name>
+                <surname>Wood</surname>
+                <given-names>LJ</given-names>
+              </name>
+              <name>
+                <surname>Cohen</surname>
+                <given-names>TN</given-names>
+              </name>
+              <name>
+                <surname>Shappell</surname>
+                <given-names>SA</given-names>
+              </name>
+            </person-group>
+            <article-title>Understanding the "Swiss Cheese Model" and Its Application to Patient Safety.</article-title>
+            <source>J Patient Saf</source>
+            <year>2022</year>
+            <month>Mar</month>
+            <day>01</day>
+            <volume>18</volume>
+            <issue>2</issue>
+            <fpage>119</fpage>
+            <page-range>119-123</page-range>
+            <pub-id pub-id-type="pmid">33852542</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hooker</surname>
+                <given-names>AB</given-names>
+              </name>
+              <name>
+                <surname>Etman</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Westra</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Van der Kam</surname>
+                <given-names>WJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Aggregate analysis of sentinel events as a strategic tool in safety management can contribute to the improvement of healthcare safety.</article-title>
+            <source>Int J Qual Health Care</source>
+            <year>2019</year>
+            <month>Mar</month>
+            <day>01</day>
+            <volume>31</volume>
+            <issue>2</issue>
+            <fpage>110</fpage>
+            <page-range>110-116</page-range>
+            <pub-id pub-id-type="pmid">29788153</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Martin-Delgado</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Mart&#x000ed;nez-Garc&#x000ed;a</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Aranaz</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Valencia-Mart&#x000ed;n</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Mira</surname>
+                <given-names>JJ</given-names>
+              </name>
+            </person-group>
+            <article-title>How Much of Root Cause Analysis Translates into Improved Patient Safety: A Systematic Review.</article-title>
+            <source>Med Princ Pract</source>
+            <year>2020</year>
+            <volume>29</volume>
+            <issue>6</issue>
+            <fpage>524</fpage>
+            <page-range>524-531</page-range>
+            <pub-id pub-id-type="pmid">32417837</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Vacheron</surname>
+                <given-names>CH</given-names>
+              </name>
+              <name>
+                <surname>Acker</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Autran</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Fuz</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Piriou</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Friggeri</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Theissen</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Insurance Claims for Wrong-Side, Wrong-Organ, Wrong-Procedure, or Wrong-Person Surgical Errors: A Retrospective Study for 10 Years.</article-title>
+            <source>J Patient Saf</source>
+            <year>2023</year>
+            <month>Jan</month>
+            <day>01</day>
+            <volume>19</volume>
+            <issue>1</issue>
+            <fpage>e13</fpage>
+            <page-range>e13-e17</page-range>
+            <pub-id pub-id-type="pmid">36538340</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ibrahim</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>Pronovost</surname>
+                <given-names>PJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Diagnostic Errors, Health Disparities, and Artificial Intelligence: A Combination for Health or Harm?</article-title>
+            <source>JAMA Health Forum</source>
+            <year>2021</year>
+            <month>Sep</month>
+            <day>03</day>
+            <volume>2</volume>
+            <issue>9</issue>
+            <fpage>e212430</fpage>
+            <pub-id pub-id-type="pmid">36218658</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gray</surname>
+                <given-names>BM</given-names>
+              </name>
+              <name>
+                <surname>Vandergrift</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>McCoy</surname>
+                <given-names>RG</given-names>
+              </name>
+              <name>
+                <surname>Lipner</surname>
+                <given-names>RS</given-names>
+              </name>
+              <name>
+                <surname>Landon</surname>
+                <given-names>BE</given-names>
+              </name>
+            </person-group>
+            <article-title>Association between primary care physician diagnostic knowledge and death, hospitalisation and emergency department visits following an outpatient visit at risk for diagnostic error: a retrospective cohort study using medicare claims.</article-title>
+            <source>BMJ Open</source>
+            <year>2021</year>
+            <month>Apr</month>
+            <day>01</day>
+            <volume>11</volume>
+            <issue>4</issue>
+            <fpage>e041817</fpage>
+            <pub-id pub-id-type="pmid">33795293</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Haddad</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Sheybani</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Naderi</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Sasan</surname>
+                <given-names>MS</given-names>
+              </name>
+              <name>
+                <surname>Najaf Najafi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Sedighi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Seddigh</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Errors in Diagnosing Infectious Diseases: A Physician Survey.</article-title>
+            <source>Front Med (Lausanne)</source>
+            <year>2021</year>
+            <volume>8</volume>
+            <fpage>779454</fpage>
+            <pub-id pub-id-type="pmid">34869499</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Singh</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Giardina</surname>
+                <given-names>TD</given-names>
+              </name>
+              <name>
+                <surname>Meyer</surname>
+                <given-names>AN</given-names>
+              </name>
+              <name>
+                <surname>Forjuoh</surname>
+                <given-names>SN</given-names>
+              </name>
+              <name>
+                <surname>Reis</surname>
+                <given-names>MD</given-names>
+              </name>
+              <name>
+                <surname>Thomas</surname>
+                <given-names>EJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Types and origins of diagnostic errors in primary care settings.</article-title>
+            <source>JAMA Intern Med</source>
+            <year>2013</year>
+            <month>Mar</month>
+            <day>25</day>
+            <volume>173</volume>
+            <issue>6</issue>
+            <fpage>418</fpage>
+            <page-range>418-25</page-range>
+            <pub-id pub-id-type="pmid">23440149</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Newman-Toker</surname>
+                <given-names>DE</given-names>
+              </name>
+              <name>
+                <surname>Schaffer</surname>
+                <given-names>AC</given-names>
+              </name>
+              <name>
+                <surname>Yu-Moe</surname>
+                <given-names>CW</given-names>
+              </name>
+              <name>
+                <surname>Nassery</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Saber Tehrani</surname>
+                <given-names>AS</given-names>
+              </name>
+              <name>
+                <surname>Clemens</surname>
+                <given-names>GD</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Zhu</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Fanai</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Siegal</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Serious misdiagnosis-related harms in malpractice claims: The "Big Three" - vascular events, infections, and cancers.</article-title>
+            <source>Diagnosis (Berl)</source>
+            <year>2019</year>
+            <month>Aug</month>
+            <day>27</day>
+            <volume>6</volume>
+            <issue>3</issue>
+            <fpage>227</fpage>
+            <page-range>227-240</page-range>
+            <pub-id pub-id-type="pmid">31535832</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Stunkel</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Newman</surname>
+                <given-names>NJ</given-names>
+              </name>
+              <name>
+                <surname>Biousse</surname>
+                <given-names>V</given-names>
+              </name>
+            </person-group>
+            <article-title>Diagnostic error and neuro-ophthalmology.</article-title>
+            <source>Curr Opin Neurol</source>
+            <year>2019</year>
+            <month>Feb</month>
+            <volume>32</volume>
+            <issue>1</issue>
+            <fpage>62</fpage>
+            <page-range>62-67</page-range>
+            <pub-id pub-id-type="pmid">30516641</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r26">
+          <label>26</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Oyebode</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>Clinical errors and medical negligence.</article-title>
+            <source>Med Princ Pract</source>
+            <year>2013</year>
+            <volume>22</volume>
+            <issue>4</issue>
+            <fpage>323</fpage>
+            <page-range>323-33</page-range>
+            <pub-id pub-id-type="pmid">23343656</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r27">
+          <label>27</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wolf</surname>
+                <given-names>ZR</given-names>
+              </name>
+              <name>
+                <surname>Hicks</surname>
+                <given-names>RW</given-names>
+              </name>
+              <name>
+                <surname>Altmiller</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Bicknell</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Nursing student medication errors involving tubing and catheters: a descriptive study.</article-title>
+            <source>Nurse Educ Today</source>
+            <year>2009</year>
+            <month>Aug</month>
+            <volume>29</volume>
+            <issue>6</issue>
+            <fpage>681</fpage>
+            <page-range>681-8</page-range>
+            <pub-id pub-id-type="pmid">19342131</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r28">
+          <label>28</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kirkendall</surname>
+                <given-names>ES</given-names>
+              </name>
+              <name>
+                <surname>Timmons</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Huth</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Walsh</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Melton</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Human-Based Errors Involving Smart Infusion Pumps: A Catalog of Error Types and Prevention Strategies.</article-title>
+            <source>Drug Saf</source>
+            <year>2020</year>
+            <month>Nov</month>
+            <volume>43</volume>
+            <issue>11</issue>
+            <fpage>1073</fpage>
+            <page-range>1073-1087</page-range>
+            <pub-id pub-id-type="pmid">32797355</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r29">
+          <label>29</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Revelas</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Healthcare - associated infections: A public health problem.</article-title>
+            <source>Niger Med J</source>
+            <year>2012</year>
+            <month>Apr</month>
+            <volume>53</volume>
+            <issue>2</issue>
+            <fpage>59</fpage>
+            <page-range>59-64</page-range>
+            <pub-id pub-id-type="pmid">23271847</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r30">
+          <label>30</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bouldin</surname>
+                <given-names>EL</given-names>
+              </name>
+              <name>
+                <surname>Andresen</surname>
+                <given-names>EM</given-names>
+              </name>
+              <name>
+                <surname>Dunton</surname>
+                <given-names>NE</given-names>
+              </name>
+              <name>
+                <surname>Simon</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Waters</surname>
+                <given-names>TM</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Daniels</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Mion</surname>
+                <given-names>LC</given-names>
+              </name>
+              <name>
+                <surname>Shorr</surname>
+                <given-names>RI</given-names>
+              </name>
+            </person-group>
+            <article-title>Falls among adult patients hospitalized in the United States: prevalence and trends.</article-title>
+            <source>J Patient Saf</source>
+            <year>2013</year>
+            <month>Mar</month>
+            <volume>9</volume>
+            <issue>1</issue>
+            <fpage>13</fpage>
+            <page-range>13-7</page-range>
+            <pub-id pub-id-type="pmid">23143749</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r31">
+          <label>31</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kim</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Jung</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Kwon</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Patient-level and organizational-level factors influencing in-hospital falls.</article-title>
+            <source>J Adv Nurs</source>
+            <year>2022</year>
+            <month>Nov</month>
+            <volume>78</volume>
+            <issue>11</issue>
+            <fpage>3641</fpage>
+            <page-range>3641-3651</page-range>
+            <pub-id pub-id-type="pmid">35441709</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r32">
+          <label>32</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Singh</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Naik</surname>
+                <given-names>AD</given-names>
+              </name>
+              <name>
+                <surname>Rao</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Petersen</surname>
+                <given-names>LA</given-names>
+              </name>
+            </person-group>
+            <article-title>Reducing diagnostic errors through effective communication: harnessing the power of information technology.</article-title>
+            <source>J Gen Intern Med</source>
+            <year>2008</year>
+            <month>Apr</month>
+            <volume>23</volume>
+            <issue>4</issue>
+            <fpage>489</fpage>
+            <page-range>489-94</page-range>
+            <pub-id pub-id-type="pmid">18373151</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r33">
+          <label>33</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Papadakis</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Meiwandi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Grzybowski</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>The WHO safer surgery checklist time out procedure revisited: Strategies to optimise compliance and safety.</article-title>
+            <source>Int J Surg</source>
+            <year>2019</year>
+            <month>Sep</month>
+            <volume>69</volume>
+            <fpage>19</fpage>
+            <page-range>19-22</page-range>
+            <pub-id pub-id-type="pmid">31310820</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r34">
+          <label>34</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Treadwell</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Lucas</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Tsou</surname>
+                <given-names>AY</given-names>
+              </name>
+            </person-group>
+            <article-title>Surgical checklists: a systematic review of impacts and implementation.</article-title>
+            <source>BMJ Qual Saf</source>
+            <year>2014</year>
+            <month>Apr</month>
+            <volume>23</volume>
+            <issue>4</issue>
+            <fpage>299</fpage>
+            <page-range>299-318</page-range>
+            <pub-id pub-id-type="pmid">23922403</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r35">
+          <label>35</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ragusa</surname>
+                <given-names>PS</given-names>
+              </name>
+              <name>
+                <surname>Bitterman</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Auerbach</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Healy</surname>
+                <given-names>WA</given-names>
+              </name>
+            </person-group>
+            <article-title>Effectiveness of Surgical Safety Checklists in Improving Patient Safety.</article-title>
+            <source>Orthopedics</source>
+            <year>2016</year>
+            <season>Mar-Apr</season>
+            <volume>39</volume>
+            <issue>2</issue>
+            <fpage>e307</fpage>
+            <page-range>e307-10</page-range>
+            <pub-id pub-id-type="pmid">26942472</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r36">
+          <label>36</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Khullar</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Jha</surname>
+                <given-names>AK</given-names>
+              </name>
+              <name>
+                <surname>Jena</surname>
+                <given-names>AB</given-names>
+              </name>
+            </person-group>
+            <article-title>Reducing Diagnostic Errors--Why Now?</article-title>
+            <source>N Engl J Med</source>
+            <year>2015</year>
+            <month>Dec</month>
+            <day>24</day>
+            <volume>373</volume>
+            <issue>26</issue>
+            <fpage>2491</fpage>
+            <page-range>2491-3</page-range>
+            <pub-id pub-id-type="pmid">26397948</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r37">
+          <label>37</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Singh</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Connor</surname>
+                <given-names>DM</given-names>
+              </name>
+              <name>
+                <surname>Dhaliwal</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Five strategies for clinicians to advance diagnostic excellence.</article-title>
+            <source>BMJ</source>
+            <year>2022</year>
+            <month>Feb</month>
+            <day>16</day>
+            <volume>376</volume>
+            <fpage>e068044</fpage>
+            <pub-id pub-id-type="pmid">35172968</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r38">
+          <label>38</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Tariq</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Vashisht</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Sinha</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Scherbak</surname>
+                <given-names>Y</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Medication Dispensing Errors and Prevention</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2024</year>
+            <month>2</month>
+            <day>12</day>
+            <pub-id pub-id-type="pmid">30085607</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r39">
+          <label>39</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ruskin</surname>
+                <given-names>KJ</given-names>
+              </name>
+              <name>
+                <surname>Corvin</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Rice</surname>
+                <given-names>SC</given-names>
+              </name>
+              <name>
+                <surname>Winter</surname>
+                <given-names>SR</given-names>
+              </name>
+            </person-group>
+            <article-title>Autopilots in the Operating Room: Safe Use of Automated Medical Technology.</article-title>
+            <source>Anesthesiology</source>
+            <year>2020</year>
+            <month>Sep</month>
+            <volume>133</volume>
+            <issue>3</issue>
+            <fpage>653</fpage>
+            <page-range>653-665</page-range>
+            <pub-id pub-id-type="pmid">32472805</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r40">
+          <label>40</label>
+          <element-citation publication-type="journal">
+            <article-title>TJC: plan and prepare for the transition to new tubing connectors to minimize the risk of dangerous misconnections, clinician frustration.</article-title>
+            <source>ED Manag</source>
+            <year>2014</year>
+            <month>Dec</month>
+            <volume>26</volume>
+            <issue>12</issue>
+            <fpage>Suppl 1</fpage>
+            <page-range>Suppl 1-3</page-range>
+            <pub-id pub-id-type="pmid">25522497</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r41">
+          <label>41</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Puro</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Coppola</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Frasca</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Gentile</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Luzzaro</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Peghetti</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Sganga</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Pillars for prevention and control of healthcare-associated infections: an Italian expert opinion statement.</article-title>
+            <source>Antimicrob Resist Infect Control</source>
+            <year>2022</year>
+            <month>Jun</month>
+            <day>20</day>
+            <volume>11</volume>
+            <issue>1</issue>
+            <fpage>87</fpage>
+            <pub-id pub-id-type="pmid">35725502</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r42">
+          <label>42</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Watson</surname>
+                <given-names>RL</given-names>
+              </name>
+              <name>
+                <surname>Graber</surname>
+                <given-names>CJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Lack of improvement in antimicrobial prescribing after a diagnosis of Clostridium difficile and impact on recurrence.</article-title>
+            <source>Am J Infect Control</source>
+            <year>2018</year>
+            <month>Dec</month>
+            <volume>46</volume>
+            <issue>12</issue>
+            <fpage>1370</fpage>
+            <page-range>1370-1374</page-range>
+            <pub-id pub-id-type="pmid">29779687</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r43">
+          <label>43</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Powell</surname>
+                <given-names>LE</given-names>
+              </name>
+              <name>
+                <surname>Winn</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Andersen</surname>
+                <given-names>ES</given-names>
+              </name>
+              <name>
+                <surname>Pozez</surname>
+                <given-names>AL</given-names>
+              </name>
+            </person-group>
+            <article-title>Utilizing a Comprehensive Wound Care Team to Lower Hospital-Acquired Pressure Injuries in an Academic Public Hospital: A Retrospective Cohort Study.</article-title>
+            <source>J Wound Ostomy Continence Nurs</source>
+            <string-date>2022 Jan-Feb 01</string-date>
+            <volume>49</volume>
+            <issue>1</issue>
+            <fpage>34</fpage>
+            <page-range>34-50</page-range>
+            <pub-id pub-id-type="pmid">35040814</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r44">
+          <label>44</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Khan</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Spector</surname>
+                <given-names>ND</given-names>
+              </name>
+              <name>
+                <surname>Baird</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Ashland</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Starmer</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Rosenbluth</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Garcia</surname>
+                <given-names>BM</given-names>
+              </name>
+              <name>
+                <surname>Litterer</surname>
+                <given-names>KP</given-names>
+              </name>
+              <name>
+                <surname>Rogers</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Dalal</surname>
+                <given-names>AK</given-names>
+              </name>
+              <name>
+                <surname>Lipsitz</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Yoon</surname>
+                <given-names>CS</given-names>
+              </name>
+              <name>
+                <surname>Zigmont</surname>
+                <given-names>KR</given-names>
+              </name>
+              <name>
+                <surname>Guiot</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>O'Toole</surname>
+                <given-names>JK</given-names>
+              </name>
+              <name>
+                <surname>Patel</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Bismilla</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Coffey</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Langrish</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Blankenburg</surname>
+                <given-names>RL</given-names>
+              </name>
+              <name>
+                <surname>Destino</surname>
+                <given-names>LA</given-names>
+              </name>
+              <name>
+                <surname>Everhart</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Good</surname>
+                <given-names>BP</given-names>
+              </name>
+              <name>
+                <surname>Kocolas</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Srivastava</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Calaman</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Cray</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kuzma</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Lewis</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Thompson</surname>
+                <given-names>ED</given-names>
+              </name>
+              <name>
+                <surname>Hepps</surname>
+                <given-names>JH</given-names>
+              </name>
+              <name>
+                <surname>Lopreiato</surname>
+                <given-names>JO</given-names>
+              </name>
+              <name>
+                <surname>Yu</surname>
+                <given-names>CE</given-names>
+              </name>
+              <name>
+                <surname>Haskell</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Kruvand</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Micalizzi</surname>
+                <given-names>DA</given-names>
+              </name>
+              <name>
+                <surname>Alvarado-Little</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Dreyer</surname>
+                <given-names>BP</given-names>
+              </name>
+              <name>
+                <surname>Yin</surname>
+                <given-names>HS</given-names>
+              </name>
+              <name>
+                <surname>Subramony</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Patel</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Sectish</surname>
+                <given-names>TC</given-names>
+              </name>
+              <name>
+                <surname>West</surname>
+                <given-names>DC</given-names>
+              </name>
+              <name>
+                <surname>Landrigan</surname>
+                <given-names>CP</given-names>
+              </name>
+            </person-group>
+            <article-title>Patient safety after implementation of a coproduced family centered communication programme: multicenter before and after intervention study.</article-title>
+            <source>BMJ</source>
+            <year>2018</year>
+            <month>Dec</month>
+            <day>05</day>
+            <volume>363</volume>
+            <fpage>k4764</fpage>
+            <pub-id pub-id-type="pmid">30518517</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r45">
+          <label>45</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Saleem</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Paulus</surname>
+                <given-names>JK</given-names>
+              </name>
+              <name>
+                <surname>Vassiliou</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Parsons</surname>
+                <given-names>SK</given-names>
+              </name>
+            </person-group>
+            <article-title>Initial assessment of patient handoff in accredited general surgery residency programs in the United States and Canada: a cross-sectional survey.</article-title>
+            <source>Can J Surg</source>
+            <year>2015</year>
+            <month>Aug</month>
+            <volume>58</volume>
+            <issue>4</issue>
+            <fpage>269</fpage>
+            <page-range>269-77</page-range>
+            <pub-id pub-id-type="pmid">26204366</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r46">
+          <label>46</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Leonard</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Graham</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Bonacum</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>The human factor: the critical importance of effective teamwork and communication in providing safe care.</article-title>
+            <source>Qual Saf Health Care</source>
+            <year>2004</year>
+            <month>Oct</month>
+            <volume>13 Suppl 1</volume>
+            <issue>Suppl 1</issue>
+            <fpage>i85</fpage>
+            <page-range>i85-90</page-range>
+            <pub-id pub-id-type="pmid">15465961</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r47">
+          <label>47</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>M&#x000fc;ller</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>J&#x000fc;rgens</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Reda&#x000e8;lli</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Klingberg</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Hautz</surname>
+                <given-names>WE</given-names>
+              </name>
+              <name>
+                <surname>Stock</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Impact of the communication and patient hand-off tool SBAR on patient safety: a systematic review.</article-title>
+            <source>BMJ Open</source>
+            <year>2018</year>
+            <month>Aug</month>
+            <day>23</day>
+            <volume>8</volume>
+            <issue>8</issue>
+            <fpage>e022202</fpage>
+            <pub-id pub-id-type="pmid">30139905</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r48">
+          <label>48</label>
+          <element-citation publication-type="book">
+            <collab>Institute of Medicine (US) Committee on Optimizing Graduate Medical Trainee (Resident) Hours and Work Schedule to Improve Patient Safety</collab>
+            <person-group person-group-type="editor">
+              <name>
+                <surname>Ulmer</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Miller Wolman</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Johns</surname>
+                <given-names>MME</given-names>
+              </name>
+            </person-group>
+            <source>Resident Duty Hours: Enhancing Sleep, Supervision, and Safety</source>
+            <publisher-name>National Academies Press (US)</publisher-name>
+            <publisher-loc>Washington (DC)</publisher-loc>
+            <year>2009</year>
+            <pub-id pub-id-type="pmid">25009922</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131252.r49">
+          <label>49</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Carayon</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Wood</surname>
+                <given-names>KE</given-names>
+              </name>
+            </person-group>
+            <article-title>Patient safety - the role of human factors and systems engineering.</article-title>
+            <source>Stud Health Technol Inform</source>
+            <year>2010</year>
+            <volume>153</volume>
+            <fpage>23</fpage>
+            <page-range>23-46</page-range>
+            <pub-id pub-id-type="pmid">20543237</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-28035" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Altitude-Induced Pulmonary Hypertension</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Ulloa </surname>
+            <given-names>Nicolas A.</given-names>
+          </name>
+          <aff>Aventura Hospital and Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Cook</surname>
+            <given-names>Jessica</given-names>
+          </name>
+          <aff>Aventura Hospital and Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Nicolas Ulloa declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Jessica Cook declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>30</day>
+          <month>1</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-28035.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>This activity describes the development of pulmonary hypertension due to high altitude. We describe a phenomenon known as high altitude pulmonary hypertension (HAPH), which is classically defined as a mean pulmonary arterial pressure greater than or equal to 25 mmHg on a right heart catheterization and results in pulmonary vascular remodeling. This condition can present in individuals who typically reside at altitudes greater than 2500 meters. The hypoxic stimulus of high altitude and individual genetic factors play a role in the pathophysiology of pulmonary vasoconstriction and, eventually, vascular remodeling that occurs with HAPH. This activity reviews the etiology, pathophysiology, clinical evaluation, and treatment of HAPH and highlights the interprofessional team's role in providing well-coordinated care to enhance patient outcomes.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Assess&#x000a0;the etiology of high altitude pulmonary hypertension.</p></list-item><list-item><p>Evaluate&#x000a0;the clinical evaluation of high-altitude pulmonary hypertension.</p></list-item><list-item><p>Identify&#x000a0;the management options available for high-altitude pulmonary hypertension.</p></list-item><list-item><p>Communicate&#x000a0;the interprofessional team strategies for improving care coordination and understanding of high altitude pulmonary hypertension to improve clinical outcomes.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=28035&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=28035">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-28035.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Mountainous regions are a destination for adventure travel, seasonal work, and permanent residence for many people. More than 40 million people visit high altitude areas (greater than 2500 meters) every year, and a reported 140 million have a permanent residence at these elevations.<xref ref-type="bibr" rid="article-28035.r1">[1]</xref>&#x000a0;The decreased barometric and partial pressures of oxygen at high altitudes can reduce inspired oxygen levels compared to sea levels. The body's exaggerated physiological response to rapid ascent, a lower level of inspired oxygen, or the persistent hypoxic stimulus experienced at high altitude can cause significant morbidity and mortality. High altitude-associated disease processes can vary from mild to life-threatening. The body's response can present in acute mountain sickness, high-altitude cerebral edema, high-altitude pulmonary edema, and, ultimately, high-altitude pulmonary hypertension (HAPH). Acute mountain sickness develops secondary to rapid ascent and can be described as a "hangover, " including nonspecific symptoms such as headache, nausea, dizziness, fatigue, and insomnia.<xref ref-type="bibr" rid="article-28035.r2">[2]</xref>&#x000a0;</p>
+        <p>High altitude pulmonary edema&#x000a0;is a progression of acute mountain sickness and presents with acute pulmonary, a complication of the body's poor acclimatization. High altitude cerebral edema, the most feared complication of altitude sickness, involves cerebral edema and associated neurological symptoms and sequela. Chronic hypoxic stimuli of high altitude living can result in permanent pulmonary vascular remodeling due to increased pulmonary vascular resistance and define a subgroup of pulmonary hypertension known as HAPH.<xref ref-type="bibr" rid="article-28035.r1">[1]</xref>&#x000a0;This&#x000a0;topic&#x000a0;focuses primarily on the pathophysiology, clinical presentation, and management of HAPH.</p>
+      </sec>
+      <sec id="article-28035.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p>At altitudes above 2500 meters, the barometric pressure is lower, which decreases the partial pressure of oxygen in the air. Even though the FiO<sub>2</sub> remains at 21% at high altitudes, the amount of oxygen reaching the alveoli is much less than at sea level, resulting in hypoxia and hypoxemia.<xref ref-type="bibr" rid="article-28035.r3">[3]</xref>&#x000a0;Hypoxia triggers pulmonary vasoconstriction and increases pulmonary artery pressures throughout the lung. The belief is that vascular remodeling secondary to abnormal smooth muscle production, a decrease in the intrinsic availability of nitric oxide, and poorly understood genetic predisposition all contribute to the development of HAPH.</p>
+      </sec>
+      <sec id="article-28035.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p>While some individuals experience the spectrum of acute mountain sickness,&#x000a0;HAPH develops mainly in those who reside at high altitudes for extended periods. Those with preexisting pulmonary hypertension are at an even greater risk of developing acute mountain sickness because of worsening ambient hypoxia-associated hemodynamics exacerbating previously elevated high pulmonary artery pressures.<xref ref-type="bibr" rid="article-28035.r4">[4]</xref>&#x000a0;Only a limited amount of epidemiologic data regarding at-risk populations for HAPH is available. Some studies of South American populations report a prevalence of 18 to 55%, and the condition tends to be more common in men.<xref ref-type="bibr" rid="article-28035.r1">[1]</xref><xref ref-type="bibr" rid="article-28035.r5">[5]</xref>&#x000a0; Lower rates of HAPH have been reported in premenopausal women compared to men living at high altitudes. The difference in reported incidence may be secondary to female sex hormones and an associated increase in ventilatory rate and drive.<xref ref-type="bibr" rid="article-28035.r6">[6]</xref></p>
+      </sec>
+      <sec id="article-28035.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>Hypoxic stress at high altitudes induces a variety of physiological changes. Many organ systems utilize vasodilation to enhance oxygen delivery in hypoxia. In contrast, the lung responds to hypoxia with increased pulmonary vasoconstriction. Blood is shunted away from poorly oxygenated lung zones towards healthy alveoli to minimize V/Q mismatch.<xref ref-type="bibr" rid="article-28035.r7">[7]</xref> This intuitively makes sense in the setting of lobar pneumonia or other focal disease processes involving the lung. In HAPH, all lung fields experience the same degree of hypoxia. Significant vasoconstriction in all parts of the lung and elevated pulmonary artery pressures lead to pulmonary hypertension.<xref ref-type="bibr" rid="article-28035.r8">[8]</xref>&#x000a0;The increased pulmonary pressure forces fluid into the lungs, causing acute pulmonary edema.&#x000a0;</p>
+        <p>Vascular remodeling plays a major role in the pathophysiology of HAPH. Hypoxia ultimately leads to vascular remodeling by triggering pulmonary vasoconstriction and increased vascular resistance in the small pulmonary veins and arteries. At the cellular level, chronic hypoxia causes channelopathy of both potassium and calcium channels, increasing intracellular calcium. The proliferation of smooth muscle within the pulmonary vasculature occurs, a structure normally devoid of smooth muscle cells (fibroblasts).<xref ref-type="bibr" rid="article-28035.r1">[1]</xref>&#x000a0;Vascular remodeling can be a long-term and irreversible sequela of chronic hypoxia and persist despite the removal of the hypoxic stimulus.<xref ref-type="bibr" rid="article-28035.r9">[9]</xref></p>
+        <p>Endothelial nitrous oxide is theorized to play a role in the development of HAPH. Longstanding hypoxia is known to decrease&#x000a0;nitrous oxide&#x000a0;synthesis, contributing to the development of pulmonary hypertension.<xref ref-type="bibr" rid="article-28035.r10">[10]</xref><xref ref-type="bibr" rid="article-28035.r1">[1]</xref>&#x000a0;Research and comparison of different subpopulations have demonstrated that increased nitrous oxide concentrations&#x000a0;in pulmonary endothelium decrease the prevalence of HAPH. Studies have shown that individuals from Tibet have high&#x000a0;nitrous oxide concentrations, which correlates with a lower prevalence of HAPH than the South American Andean population.<xref ref-type="bibr" rid="article-28035.r1">[1]</xref></p>
+      </sec>
+      <sec id="article-28035.s6" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>HAPH&#x000a0;presents with similar symptoms to other causes of pulmonary hypertension. The patient may present with&#x000a0;1 or more of the following symptoms: exertional dyspnea, cough, hemoptysis, chest tightness, fatigue, lower extremity swelling, or syncope. On examination, there are signs of right-sided heart failure. Specifically, a loud P2, a right ventricular heave, tricuspid regurgitation, jugular venous distension, peripheral edema, and ascites.<xref ref-type="bibr" rid="article-28035.r1">[1]</xref>&#x000a0;All these findings are sequelae of right ventricular hypertrophy and right-sided heart failure. A thorough history and examination looking for signs and symptoms of other additional causes of pulmonary hypertension (autoimmune pathology, valvular heart disease, drug-induced PH, and infectious disease) are necessary when evaluating patients for suspected HAPH.</p>
+      </sec>
+      <sec id="article-28035.s7" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>Patients who present with signs and symptoms of shortness of breath, dyspnea, fatigue, or peripheral edema should be evaluated for heart failure and pulmonary hypertension. To diagnose HAPH, the patient must reside at an elevation greater than 2,500 meters.<xref ref-type="bibr" rid="article-28035.r1">[1]</xref>&#x000a0;Other diagnoses besides pulmonary hypertension should always be considered. Diagnostic tests that can be utilized are an EKG, echocardiogram, chest X-ray, pulmonary function tests, or a right-sided heart catheterization with pulmonary angiography.&#x000a0;</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>An EKG can be consistent with chronic right heart strain and have findings of right ventricular hypertrophy, right bundle branch block, and tall p-waves in inferior leads.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>An echocardiogram can show a dilated right ventricle and right atrium and increased pulmonary artery pressure. Left ventricular function and ejection fraction must also be assessed to rule out left-sided heart failure.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>The chest X-ray may be normal or show signs of cardiomegaly or pulmonary vascular congestion.</p>
+          </list-item>
+          <list-item>
+            <p>Pulmonary function tests are useful in excluding diagnoses such as chronic obstructive pulmonary disease, asthma, or other interstitial lung diseases.&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>Right-sided heart catheterization and pulmonary angiography are the most important diagnostic tools for establishing a definitive diagnosis. A mean pulmonary artery pressure (mPAP) greater than 30 mmHg or systolic PAP of greater than 50 mmHg is diagnostic for pulmonary hypertension.<xref ref-type="bibr" rid="article-28035.r1">[1]</xref>&#x000a0;If possible, it is important to attempt catheterization and angiography at the altitude of residence.&#x000a0;</p>
+      </sec>
+      <sec id="article-28035.s8" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>Limited data is currently available to guide the long-term management of HAPH. Several studies have shown that some treatments recommended for managing other causes of pulmonary hypertension have improved symptoms and mPAPs. Patients suffering from&#x000a0;HAPH should be advised to move to lower altitudes. Some studies have shown that mPAPs for patients have normalized within&#x000a0;2 years of returning to lower altitudes.<xref ref-type="bibr" rid="article-28035.r11">[11]</xref>&#x000a0; Pharmacological treatments for HAPH can include phosphodiesterase and carbonic anhydrase inhibitors.&#x000a0;</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Phosphodiesterase inhibitors (ie, Sildenafil) block the breakdown of nitrous oxide, promote pulmonary artery vasodilation, and decrease mPAP.<xref ref-type="bibr" rid="article-28035.r12">[12]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Carbonic Anhydrase Inhibitors (ie, Acetazolamide) are useful in preventing acute mountain sickness. Studies have also shown a decrease in pulmonary vascular resistance.<xref ref-type="bibr" rid="article-28035.r1">[1]</xref> However, Acetazolamide has not been studied specifically for treating HAPH, and the benefits may be minimal. Due to Acetazolamide's low side effect profile, it is safe to incorporate as a treatment option.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Endothelin receptor blockers (ie, Bosentan) have also been used to treat pulmonary hypertension.</p>
+          </list-item>
+        </list>
+        <p>Some studies have shown that venovenous extracorporeal membrane oxygenation can be beneficial for severe cases in the acute setting. Despite all efforts and recommendations, if an individual develops irreversible pulmonary hypertension, the mainstay of treatment is pulmonary transplantation.<xref ref-type="bibr" rid="article-28035.r13">[13]</xref></p>
+      </sec>
+      <sec id="article-28035.s9" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <p>Patients with&#x000a0;HAPH can present with dyspnea on exertion, fatigue, chest pain, and peripheral edema. Other causes of heart failure and pulmonary hypertension to consider are:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Asthma</p>
+          </list-item>
+          <list-item>
+            <p>Congenital heart disease</p>
+          </list-item>
+          <list-item>
+            <p>Connective tissue disease</p>
+          </list-item>
+          <list-item>
+            <p>Chronic obstructive pulmonary disease</p>
+          </list-item>
+          <list-item>
+            <p>Diastolic dysfunction</p>
+          </list-item>
+          <list-item>
+            <p>Interstitial lung disease</p>
+          </list-item>
+          <list-item>
+            <p>Systolic dysfunction</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-28035.s10" sec-type="Prognosis">
+        <title>Prognosis</title>
+        <p>Early recognition and treatment are critical for the successful management and outcomes of any form of pulmonary hypertension. Treatments that decrease pulmonary artery pressures and maximize the right ventricle, such as pulmonary vasodilators, are the mainstay of chronic management. Despite optimal medical management, many patients still experience some degree of exercise intolerance, and others develop irreversible pulmonary hypertension and require pulmonary transplantation.<xref ref-type="bibr" rid="article-28035.r13">[13]</xref>&#x000a0;After transplantation, patients have a median survival of 10.7 years.<xref ref-type="bibr" rid="article-28035.r13">[13]</xref>&#x000a0;If unsuccessful, various palliative procedures can aid in maximizing right ventricular cardiac output.&#x000a0;Few long-term studies have assessed the prognosis of HAPH. Some research suggests that mean pulmonary artery pressures can normalize in as little as&#x000a0;2 years after descent to lower altitudes but can increase with a return to high elevation.<xref ref-type="bibr" rid="article-28035.r1">[1]</xref>&#x000a0;</p>
+      </sec>
+      <sec id="article-28035.s11" sec-type="Complications">
+        <title>Complications</title>
+        <p>The most common complication of the condition is exercise intolerance, which most patients experience to some degree, regardless of optimized treatment and therapy. More severe complications of the condition include the advancement of the disease, right ventricular failure, and death.<xref ref-type="bibr" rid="article-28035.r13">[13]</xref></p>
+      </sec>
+      <sec id="article-28035.s12" sec-type="Deterrence and Patient Education">
+        <title>Deterrence and Patient Education</title>
+        <p>Patient education is essential for the successful management of pulmonary hypertension. Treatment with the appropriate medications and the patient's understanding of the importance of adherence to the regimen provides the greatest likelihood of the best clinical outcome. Healthcare providers should work with patients to help them manage their expectations for treatment outcomes. Some patients still experience significant exercise intolerance and may ultimately require pulmonary transplantation.&#x000a0;Patients with HAPH should understand that pulmonary artery pressures can improve with a return to lower altitudes. If the disease's progression and severity are understood, urging the patient to return can significantly improve the prognosis and quality of life.</p>
+      </sec>
+      <sec id="article-28035.s13" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>HAPH&#x000a0;is a life-threatening condition. Optimal patient outcomes are achieved through early recognition and treatment. During the initial acute presentation of symptoms, healthcare team members need to recognize the signs of pulmonary hypertension, treat them symptomatically, and investigate with the proper modalities to diagnose HAPH. Primary care providers who serve communities at high altitudes also serve an important role in providing information on the condition and patient education. It is vital to have a high index of suspicion for altitude-related illness and HAPH since early detection and treatment can significantly improve the prognosis. Patients suffering from HAPH should be strongly urged to descend to lower elevations to lower their pulmonary artery pressures.</p>
+      </sec>
+      <sec id="article-28035.s14">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=28035&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=28035">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/heart-health/altitude-induced-pulmonary-hypertension/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=28035">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/28035/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=28035">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-28035.s15">
+        <title>References</title>
+        <ref id="article-28035.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mirrakhimov</surname>
+                <given-names>AE</given-names>
+              </name>
+              <name>
+                <surname>Strohl</surname>
+                <given-names>KP</given-names>
+              </name>
+            </person-group>
+            <article-title>High-altitude Pulmonary Hypertension: an Update on Disease Pathogenesis and Management.</article-title>
+            <source>Open Cardiovasc Med J</source>
+            <year>2016</year>
+            <volume>10</volume>
+            <fpage>19</fpage>
+            <page-range>19-27</page-range>
+            <pub-id pub-id-type="pmid">27014374</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28035.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Luks</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Swenson</surname>
+                <given-names>ER</given-names>
+              </name>
+              <name>
+                <surname>B&#x000e4;rtsch</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Acute high-altitude sickness.</article-title>
+            <source>Eur Respir Rev</source>
+            <year>2017</year>
+            <month>Jan</month>
+            <volume>26</volume>
+            <issue>143</issue>
+            <pub-id pub-id-type="pmid">28143879</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28035.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Aksel</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>&#x000c7;orbac&#x00131;o&#x0011f;lu</surname>
+                <given-names>&#x0015e;K</given-names>
+              </name>
+              <name>
+                <surname>&#x000d6;zen</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>High-altitude illness: Management approach.</article-title>
+            <source>Turk J Emerg Med</source>
+            <year>2019</year>
+            <month>Oct</month>
+            <volume>19</volume>
+            <issue>4</issue>
+            <fpage>121</fpage>
+            <page-range>121-126</page-range>
+            <pub-id pub-id-type="pmid">31687609</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28035.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Luks</surname>
+                <given-names>AM</given-names>
+              </name>
+            </person-group>
+            <article-title>Can patients with pulmonary hypertension travel to high altitude?</article-title>
+            <source>High Alt Med Biol</source>
+            <year>2009</year>
+            <season>Fall</season>
+            <volume>10</volume>
+            <issue>3</issue>
+            <fpage>215</fpage>
+            <page-range>215-9</page-range>
+            <pub-id pub-id-type="pmid">19775210</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28035.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hakim</surname>
+                <given-names>TS</given-names>
+              </name>
+              <name>
+                <surname>Michel</surname>
+                <given-names>RP</given-names>
+              </name>
+              <name>
+                <surname>Minami</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Chang</surname>
+                <given-names>HK</given-names>
+              </name>
+            </person-group>
+            <article-title>Site of pulmonary hypoxic vasoconstriction studied with arterial and venous occlusion.</article-title>
+            <source>J Appl Physiol Respir Environ Exerc Physiol</source>
+            <year>1983</year>
+            <month>May</month>
+            <volume>54</volume>
+            <issue>5</issue>
+            <fpage>1298</fpage>
+            <page-range>1298-302</page-range>
+            <pub-id pub-id-type="pmid">6863090</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28035.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Le&#x000f3;n-Velarde</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Ramos</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Hern&#x000e1;ndez</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>De Idi&#x000e1;quez</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Mu&#x000f1;oz</surname>
+                <given-names>LS</given-names>
+              </name>
+              <name>
+                <surname>Gaffo</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>C&#x000f3;rdova</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Durand</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Monge</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>The role of menopause in the development of chronic mountain sickness.</article-title>
+            <source>Am J Physiol</source>
+            <year>1997</year>
+            <month>Jan</month>
+            <volume>272</volume>
+            <issue>1 Pt 2</issue>
+            <fpage>R90</fpage>
+            <page-range>R90-4</page-range>
+            <pub-id pub-id-type="pmid">9038995</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28035.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dempsey</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Morgan</surname>
+                <given-names>BJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Humans In Hypoxia: A Conspiracy Of Maladaptation?!</article-title>
+            <source>Physiology (Bethesda)</source>
+            <year>2015</year>
+            <month>Jul</month>
+            <volume>30</volume>
+            <issue>4</issue>
+            <fpage>304</fpage>
+            <page-range>304-16</page-range>
+            <pub-id pub-id-type="pmid">26136544</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28035.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Luks</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Levett</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Martin</surname>
+                <given-names>DS</given-names>
+              </name>
+              <name>
+                <surname>Goss</surname>
+                <given-names>CH</given-names>
+              </name>
+              <name>
+                <surname>Mitchell</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Fernandez</surname>
+                <given-names>BO</given-names>
+              </name>
+              <name>
+                <surname>Feelisch</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Grocott</surname>
+                <given-names>MP</given-names>
+              </name>
+              <name>
+                <surname>Swenson</surname>
+                <given-names>ER</given-names>
+              </name>
+              <collab>Caudwell Xtreme Everest Investigators</collab>
+            </person-group>
+            <article-title>Changes in acute pulmonary vascular responsiveness to hypoxia during a progressive ascent to high altitude (5300&#x000a0;m).</article-title>
+            <source>Exp Physiol</source>
+            <year>2017</year>
+            <month>Jun</month>
+            <day>01</day>
+            <volume>102</volume>
+            <issue>6</issue>
+            <fpage>711</fpage>
+            <page-range>711-724</page-range>
+            <pub-id pub-id-type="pmid">28390080</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28035.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Robinson</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Abbott</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Meadows</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>Roach</surname>
+                <given-names>RC</given-names>
+              </name>
+              <name>
+                <surname>Honigman</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Bull</surname>
+                <given-names>TM</given-names>
+              </name>
+            </person-group>
+            <article-title>Long-Term Health Outcomes in High-Altitude Pulmonary Hypertension.</article-title>
+            <source>High Alt Med Biol</source>
+            <year>2017</year>
+            <month>Mar</month>
+            <volume>18</volume>
+            <issue>1</issue>
+            <fpage>61</fpage>
+            <page-range>61-66</page-range>
+            <pub-id pub-id-type="pmid">28061144</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28035.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Klinger</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Abman</surname>
+                <given-names>SH</given-names>
+              </name>
+              <name>
+                <surname>Gladwin</surname>
+                <given-names>MT</given-names>
+              </name>
+            </person-group>
+            <article-title>Nitric oxide deficiency and endothelial dysfunction in pulmonary arterial hypertension.</article-title>
+            <source>Am J Respir Crit Care Med</source>
+            <year>2013</year>
+            <month>Sep</month>
+            <day>15</day>
+            <volume>188</volume>
+            <issue>6</issue>
+            <fpage>639</fpage>
+            <page-range>639-46</page-range>
+            <pub-id pub-id-type="pmid">23822809</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28035.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sime</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Pe&#x000f1;aloza</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Ruiz</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>Bradycardia, increased cardiac output, and reversal of pulmonary hypertension in altitude natives living at sea level.</article-title>
+            <source>Br Heart J</source>
+            <year>1971</year>
+            <month>Sep</month>
+            <volume>33</volume>
+            <issue>5</issue>
+            <fpage>647</fpage>
+            <page-range>647-57</page-range>
+            <pub-id pub-id-type="pmid">5115010</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28035.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Xu</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Qian</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Meta-analysis of clinical efficacy of sildenafil, a phosphodiesterase type-5 inhibitor on high altitude hypoxia and its complications.</article-title>
+            <source>High Alt Med Biol</source>
+            <year>2014</year>
+            <month>Apr</month>
+            <volume>15</volume>
+            <issue>1</issue>
+            <fpage>46</fpage>
+            <page-range>46-51</page-range>
+            <pub-id pub-id-type="pmid">24673534</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28035.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Taimeh</surname>
+                <given-names>Z</given-names>
+              </name>
+            </person-group>
+            <article-title>Assessment and treatment of the failing right heart: considerations for transplantation referral.</article-title>
+            <source>J Thorac Dis</source>
+            <year>2019</year>
+            <month>Sep</month>
+            <volume>11</volume>
+            <issue>Suppl 14</issue>
+            <fpage>S1817</fpage>
+            <page-range>S1817-S1820</page-range>
+            <pub-id pub-id-type="pmid">31632759</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-23480" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Infection Control</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Habboush</surname>
+            <given-names>Yacob</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Yarrarapu</surname>
+            <given-names>Siva Naga S.</given-names>
+          </name>
+          <aff>Monmouth Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Guzman</surname>
+            <given-names>Nilmarie</given-names>
+          </name>
+          <aff>Orange Park Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Yacob Habboush declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Siva Naga Yarrarapu declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Nilmarie Guzman declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>4</day>
+          <month>9</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-23480.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Infection control refers to the policy and procedures implemented to control and minimize the dissemination of infections in hospitals and other healthcare settings with the main purpose of reducing infection rates. Infection control as a formal entity was established in the early 1950s in the United States. By the late 1950s and 1960s, a small number of hospitals began to recognize healthcare-associated infections (HAIs) and implemented some of the infection control concepts. This activity reviews the types of infection control methods and their indications and highlights the role of the interprofessional team in following principles of infection control to improve outcomes.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Identify the single most effective and least expensive way for providers to prevent the spread of infection.</p></list-item><list-item><p>Summarize standard precautions, contact precautions, droplet precautions, and airborne precautions.</p></list-item><list-item><p>Review the types of precautions required for a patient with tuberculosis versus a patient with Clostridium difficile.</p></list-item><list-item><p>Outline interprofessional team strategies for ensuring proper infection control measures are being followed to prevent the spread of infection in healthcare institutions.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=23480&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=23480">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-23480.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Infection control refers to the policy and procedures implemented to control and minimize the dissemination of infections in hospitals and other healthcare settings with the main purpose of reducing infection rates. Infection control as a formal entity was established in the early 1950s in the United States. By the late 1950s and 1960s, a small number of hospitals began to recognize healthcare-associated infections (HAIs) and implemented some of the infection control concepts. The primary purpose of infection control programs was to focus on the surveillance for HAIs and in-cooperate the basic understandings of epidemiology to elucidate risk factors for HAIs&#x000a0;<xref ref-type="bibr" rid="article-23480.r1">[1]</xref>. However, most of the infection control programs were organized and managed by large academic centers rather than public health agencies which lead to sporadic efficiency and suboptimal outcomes. It was not until the late 19th and early 20th century when the new era in infection control was started through three pivotal events. These events included the Institute of Medicine&#x02019;s 1999 report on errors in health care&#x000a0;<xref ref-type="bibr" rid="article-23480.r2">[2]</xref>, the 2002 Chicago Tribune representation on HAIs&#x000a0;<xref ref-type="bibr" rid="article-23480.r3">[3]</xref>, and the 2004/2006 publications of the significant reductions in bloodstream infection rate through the standardization of central venous catheter insertion process&#x000a0;<xref ref-type="bibr" rid="article-23480.r4">[4]</xref>.&#x000a0;This new era in healthcare epidemiology is characterized by consumer demands for more transparency and accountability, increasing scrutiny and regulation, and expectations for rapid reductions in HAIs rates&#x000a0;<xref ref-type="bibr" rid="article-23480.r5">[5]</xref>. The role of infection control is to prevent and reduce the risk for hospital-acquired infections. This can be achieved by implementing infection control programs in the forms of surveillance, isolation, outbreak management, environmental hygiene, employee health, education, and infections prevention policies and management.</p>
+      </sec>
+      <sec id="article-23480.s3" sec-type="Indications">
+        <title>Indications</title>
+        <p>Infection control program has the main purpose of preventing and stopping the transmission of infections. Specific precautions are needed to prevent infection transmission depending on the microorganism.</p>
+        <p>The following are examples of indications for transmission-based precautions:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Standard precautions: Used for all patient care. It includes hand hygiene, personal protective equipment, appropriate patient placement, clean and disinfects patient care equipment, textiles and laundry management, safe injection practices, proper disposal of needles and other sharp objects.</p>
+          </list-item>
+          <list-item>
+            <p>Contact precaution: Used for patients with known or suspected infections that can be transmitted through contact. For those patients, standard precautions are needed, plus limit transport and movement of patients, use disposable patient care equipment, and thorough cleaning and disinfection strategies. Patients with acute infectious diarrhea such as <italic toggle="yes">Clostridium&#x000a0;difficile</italic>, vesicular rash, respiratory tract infection with a multidrug-resistant organism, abscess or draining wound that cannot be covered need to be under contact precautions.</p>
+          </list-item>
+          <list-item>
+            <p>Droplet precautions: Used for patients with known or suspected infections that can transmit by air droplets through the mechanism of a cough, sneeze, or by&#x000a0;talking. In such cases, it is vital to control the source by placing a mask on the patient, use standard precautions plus limitation on transport and movement. Patients with respiratory tract infection in infants and young children, petechial or ecchymotic rash with fever, and meningitis are placed under droplet precautions.</p>
+          </list-item>
+          <list-item>
+            <p>Airborne precautions: Use for patients with known or suspected infections that can be transmitted by the airborne route. Those patients require to be in an airborne infection isolation room with all the previously mentioned protections. The most important pathogens that need airborne precautions are tuberculosis, measles, chickenpox, and disseminated herpes zoster. Patients with suspected vesicular rash, cough/fever with pulmonary infiltrate, maculopapular rash with cough/coryza/fever need to be under airborne precaution.</p>
+          </list-item>
+        </list>
+        <p>Multiple of those indications might require more than one precaution to ensure efficient standard and transmission-based precautions. For example, patients with suspected <italic toggle="yes">C. difficile</italic> need to be under contract and standard precautions, tuberculosis need to be under airborne, contact, and standard precautions.</p>
+      </sec>
+      <sec id="article-23480.s4" sec-type="Equipment">
+        <title>Equipment</title>
+        <p>Healthcare facilities must have the necessary equipment to implement the standard precautions for all patient. The most significant precaution that is effective in preventing infection transmission is hand hygiene. This is achieved by washing hands with soap and warm water and/or by hand rubbing with alcohol or nonalcohol based hand sanitizer. Gloves can also be used as a standard precaution, new gloves have to be used for each patient and must be disposed of after each patient interaction. Other personal protective equipment includes facial protection (procedure/surgical masks, goggles, face shield) and gown before entering the patient's room. Infection control equipment also includes the housekeeping tools where adequate and routine disinfection of surfaces and floors are implemented. Also, linens have to be handled and transported in a manner which prevents skin and mucous exposure by using the appropriate personal protective equipment.</p>
+      </sec>
+      <sec id="article-23480.s5" sec-type="Personnel">
+        <title>Personnel</title>
+        <p>Hospitals need to attain hospital epidemiologists, infection preventionists, and an infection control committee&#x000a0;to organize a well-structured and implemented infection control program. The hospital epidemiologist is required to interface with many of the hospital departments and administrators to discuss their responsibilities, expectations, and available resources. The epidemiologist generally oversees the infection prevention program and in some cases the quality improvement program. A physician&#x000a0;with a subspecialty in infectious disease&#x000a0;usually holds the position&#x000a0;<xref ref-type="bibr" rid="article-23480.r6">[6]</xref>. A&#x000a0;registered nurse with a background in clinical practice, epidemiology, and basic microbiology typically hold the infection preventionist title. Hospitals can have multiple infection preventionists depending on the number of beds available, mix of patients, and the Center for Disease Contol and Prevention (CDC) recommendations&#x000a0;<xref ref-type="bibr" rid="article-23480.r7">[7]</xref>. The last aspect of a functioning infection control program is the infection control committee, which consists of an interprofessional group of clinicians, nurses, administrators, epidemiologist, infection preventionists and other representatives from the laboratory, pharmacy, operating rooms, and central services. The responsibilities of this committee are to generate, implement, and maintain policies related to infection control&#x000a0;<xref ref-type="bibr" rid="article-23480.r7">[7]</xref>.</p>
+      </sec>
+      <sec id="article-23480.s6" sec-type="Technique or Treatment">
+        <title>Technique or Treatment</title>
+        <p>To achieve a successful and functioning infection control program, a hospital can implement the following measures:</p>
+        <p>Surveillance: The primary aim of surveillance programs is to assess the rate of infections and endemic likelihood. Generally, hospitals target surveillance for HAIs in areas where the highest rate of infection is, including intensive care units (ICUs), hematology/oncology, and surgery units. However, surveillance has expanded in the recent years to include a hospital-wide based surveillance as it is becoming a mandatory requirement by the public health authorities in multiple states&#x000a0;<xref ref-type="bibr" rid="article-23480.r8">[8]</xref>. This change has also been empowered by the wide implementation of the electronic health records in most hospitals in the United States, and now it is easy for any medical provider to access the electronic records at patients&#x02019; bedside and assess risks and surveillance data for each patient. Most hospitals have developed sophisticated algorithms in their electronic health systems that could streamline surveillance and identify patients at highest risk for HAIs. Hence, a hospital-wide surveillance targeting a specific infection could be implemented relatively easily. Public health agencies require that hospitals report some specific infections to strengthen the public health surveillance system&#x000a0;<xref ref-type="bibr" rid="article-23480.r9">[9]</xref>.</p>
+        <p>Isolation: The main purpose of isolation is to prevent the transmission of microorganisms from infected patients to others. Isolation is an expensive and time-consuming process, therefore, should only be utilized if necessary. On the other hand, if isolation is not implemented then we risk the increase in morbidity and mortality, henceforth, increasing overall healthcare cost. Hospitals that operate based on single-patient per room can implement isolation efficiently, however, significant facilities still have a substantial number of double-patient rooms which is challenging for isolation.&#x000a0;<xref ref-type="bibr" rid="article-23480.r10">[10]</xref>. The CDC and the Healthcare Infection Control Practice Advisory Committee have issued a guideline to outline the approaches to enhance isolation. These guidelines are based on standard and transmission-based precautions. The standard precaution refers to the assumption that all patients are possibly colonized or infected with microorganisms, therefore, precautions are applied to all patients, at all times and all departments. The main elements for standard precautions include hand hygiene (before and after patient contact), personal protective equipment (for contact with any body fluid, mucous membrane, or nonintact skin), and safe needle practices (use one needle per single dose medication per single time, then dispose of it is a safe container)&#x000a0;<xref ref-type="bibr" rid="article-23480.r11">[11]</xref>. Other countries such as the United Kingdom have also adopted the bare below the elbows initiative that requires all healthcare providers to wear short-sleeved garments with no accessories including rings, bracelets, and wrist watches. As for the transmission-based precautions, a cohort of patients is selected based on their clinical presentations, diagnostic criteria, or confirmatory tests with specific indication of infection or colonization of microorganisms to be isolated. In these cases, a requirement for airborne/droplet/contact precautions is necessary. These precautions are designed to prevent the transmission of disease based on the type of microorganism&#x000a0;<xref ref-type="bibr" rid="article-23480.r12">[12]</xref>.</p>
+        <p>Outbreak Investigation and Management: Microorganisms outbreaks can be identified through the surveillance system. Once a particular infection monthly rate crosses the 95% confidence interval threshold, an investigation is warranted for a possible outbreak. Also, clusters of infections can be reported by the healthcare providers of laboratory staff which should be followed by an initial investigation to assess if this cluster is indeed an outbreak. Usually, clusters of infections involve a common microorganism which can be identified by using the pulsed-field gel electrophoresis or the whole-genome sequencing which provides a more detailed tracking of the microorganism. Most outbreaks are a result of direct or indirect contact involving multidrug-resistant organism. Infected patients have to be separated, isolated if needed, and implementation of the necessary contact precautions, depending on what the suspected cause of infection is, have to be enforced&#x000a0;to control such outbreaks&#x000a0;<xref ref-type="bibr" rid="article-23480.r13">[13]</xref>.</p>
+        <p>Education: Healthcare professionals need to be educated and periodically reinforce their knowledge through seminars and workshops to ensure high understanding of how to prevent communicable diseases transmission. The hospital might develop infection prevention liaison program by appointing a healthcare professional who could reach out and disseminate the infection prevention information to all members of the hospital.</p>
+        <p>Employee Health: It is essential for the infection control program to work closely with employee health service. Both teams need to address important topics related to the well-being of employees and infection prevention, including management of exposure to bloodborne communicable diseases and other communicable infections. Generally, all new employees undergo a screening by the employee health service to ensure that they are up-to-date with their vaccinations and have adequate immunity against some of the common communicable infections such as hepatitis B, rubella, mumps, measles, tetanus, pertussis, and varicella. Moreover, healthcare employees should always be encouraged to take the annual influenza vaccination. Also, periodic test for latent tuberculosis should be performed assess for any new exposure. Employ health service should develop proactive campaigns and policies to engage employees in their wellbeing and prevent infections.</p>
+        <p>Antimicrobial Stewardship: Antimicrobials are widely used in the inpatient and outpatient settings. Antimicrobial usage widely varies between hospitals, commonly, a high percentage of patients admitted to hospitals are administered with antibiotics. Increasingly, hospitals are adapting antimicrobial stewardship programs to control antimicrobial resistance, improve outcomes, and reduce healthcare costs. Antimicrobial stewardship should be programmed to monitor antimicrobial susceptibility profiles to anticipate and assess any new antimicrobial resistance patterns. These trends need to be correlated with the antimicrobial agents used to evaluate susceptibility&#x000a0;<xref ref-type="bibr" rid="article-23480.r14">[14]</xref>. Antimicrobial stewardship programs can be designed to be active and/or passive and can target pre-prescription&#x000a0;or post-prescription periods. In the pre-prescription period, an active program includes prescriptions restrictions and preauthorization, while passive initiative includes education, guidelines, and antimicrobial susceptibility reports. On the other hand, an active post-prescription program would focus on a real-time feedback provision to physicians regarding antibiotic usage, dose, bioavailability, and susceptibility with automatic conversion of intravenous to oral formulations, while passive post-prescription involves the integration of the electronic medical records to generate alerts for prolonged prescriptions and antibiotic-microorganism mismatch&#x000a0;<xref ref-type="bibr" rid="article-23480.r15">[15]</xref>.</p>
+        <p>Policy and Interventions: The main purpose of the infection control program is to develop, implement, and evaluate policies and interventions to minimize the risk for HAIs. Policies are usually developed by the hospital&#x02019;s infections control committee to enforce procedures that are generalizable to the hospital or certain departments. These policies are developed based on the hospital&#x02019;s needs and evidence-based practice. Interventions that impact infection control can be categorized into two categories; vertical and horizontal interventions. The vertical intervention involves the reduction of risk from a single pathogen. For example, the surveillance cultures and subsequent isolation of patients infected with Methicillin-resistant Staphylococcus aureus (MRSA). Whereas, horizontal intervention targets multiple different pathogens that are transmitted in the same mechanism such as the handwashing hygiene, where clinicians are required to wash their hands before and after any patient contact which will prevent the transmission of multiple different pathogens. Vertical and horizontal interventions can be implemented simultaneously and are not mutually exclusive. However, vertical interventions might be more expensive and would not impact the other drug-resistant pathogens, while horizontal intervention might be a more affordable option with more impactful results if implemented appropriately&#x000a0;<xref ref-type="bibr" rid="article-23480.r16">[16]</xref>.</p>
+        <p>Environmental Hygiene: As the inpatient population becomes more susceptible to infections the emphasize on environmental hygiene has increased. Hospital decontamination through the traditional cleaning methods is notoriously inefficient. Newer methods including steam, antimicrobial surfaces, automated dispersal systems, sterilization techniques and disinfectants have a better effect in limiting transmission of pathogens through the surrounding environment&#x000a0;<xref ref-type="bibr" rid="article-23480.r17">[17]</xref>. The CDC has published guidelines that emphasize the collaboration between federal agencies and hospital engineers, architectures, public health and medical professionals to manage a safe and clean environment within hospitals which include air handling, water supply, and construction&#x000a0;<xref ref-type="bibr" rid="article-23480.r18">[18]</xref>.</p>
+      </sec>
+      <sec id="article-23480.s7" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>Infection control clinically translates to identifying and containing infections to minimize its dissemination. Clinicians play a significant role in infection control by identifying patients' signs and symptoms suspicious for a transmissible infection such as tuberculosis. Precaution orders have to be placed and implemented even before a confirmatory diagnosis is reached to avoid the possible transmission of the infectious pathogen. Clinically, an efficient infection control program results into fewer infection rates and lower risk for the development of multidrug-resistant pathogens.&#x000a0;Hospital-acquired infections are one of the most common healthcare complications. Therefore simple standard precautions such as hand hygiene can prove to be highly effective. In fact, the most effective and least expensive way for clinicians to also apply infection control principles is by washing hands before and after any patient interaction&#x000a0;<xref ref-type="bibr" rid="article-23480.r19">[19]</xref>. Hence, hospitals need to promote and enable handwashing by providing reminders at all bedsides and having sinks or hand sanitizer stations available at the entrance to each room in the hospital. Another simple measure can be to educate patient always to try to use their forearm to block their cough or sneeze to avoid the transmission of droplets and the direct contamination of their hands by which pathogens can be transferred to other surfaces.</p>
+      </sec>
+      <sec id="article-23480.s8" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Infection control has many challenges especially with the increasing number of hospitalized patients, a greater prevalence of invasive technologies, and a higher prevalence of immunocompromised patients&#x000a0;<xref ref-type="bibr" rid="article-23480.r20">[20]</xref>. Poor infection control programs lead to increased rates of infections, increase the likelihood of multidrug-resistant bacterias, and increases the risk of outbreaks in specific departments that might disseminate to the entire hospital and community. Resources are one of the major limitations in achieving an optimal infection control program; hospital epidemiologists should consider the balance between cost, clinical outcomes, patient satisfaction, and economic impact when considering new interventions. Hospital epidemiologists also need to assess the latest evidence-based literature to make certain that all infection control policies are up-to-date and to monitor the newly emerging multidrug-resistant pathogens. The major direct complication of an inappropriately managed infection control program is infection risk for the patient. Patients might be at risk for bacterial, viral, fungal, or parasitic infection. If the infection is severe, it can spread to the bloodstream leading to sepsis and possible septic shock which are life-threatening. All healthcare workers have a duty to prevent infection and maintain an aseptic environment when possible. Nursing is on the front lines of this issue, since they routinely have the highest level of contact with the patient, and have access to all aspects of the facility; their observations and recommendations should be taken seriously by all members of the interprofessional healthcare team. The most basic preventive method is by washing hands.&#x000a0;</p>
+      </sec>
+      <sec id="article-23480.s9">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=23480&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=23480">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/23480/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=23480">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-23480.s10">
+        <title>References</title>
+        <ref id="article-23480.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Forder</surname>
+                <given-names>AA</given-names>
+              </name>
+            </person-group>
+            <article-title>A brief history of infection control - past and present.</article-title>
+            <source>S Afr Med J</source>
+            <year>2007</year>
+            <month>Nov</month>
+            <volume>97</volume>
+            <issue>11 Pt 3</issue>
+            <fpage>1161</fpage>
+            <page-range>1161-4</page-range>
+            <pub-id pub-id-type="pmid">18250929</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23480.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Melker</surname>
+                <given-names>RJ</given-names>
+              </name>
+            </person-group>
+            <article-title>The Institute of Medicine report on medical errors.</article-title>
+            <source>N Engl J Med</source>
+            <year>2000</year>
+            <month>Aug</month>
+            <day>31</day>
+            <volume>343</volume>
+            <issue>9</issue>
+            <fpage>664</fpage>
+            <page-range>664-5</page-range>
+            <pub-id pub-id-type="pmid">10979813</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23480.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Berenholtz</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Pronovost</surname>
+                <given-names>PJ</given-names>
+              </name>
+              <name>
+                <surname>Lipsett</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Hobson</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Earsing</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Farley</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Milanovich</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Garrett-Mayer</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Winters</surname>
+                <given-names>BD</given-names>
+              </name>
+              <name>
+                <surname>Rubin</surname>
+                <given-names>HR</given-names>
+              </name>
+              <name>
+                <surname>Dorman</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Perl</surname>
+                <given-names>TM</given-names>
+              </name>
+            </person-group>
+            <article-title>Eliminating catheter-related bloodstream infections in the intensive care unit.</article-title>
+            <source>Crit Care Med</source>
+            <year>2004</year>
+            <month>Oct</month>
+            <volume>32</volume>
+            <issue>10</issue>
+            <fpage>2014</fpage>
+            <page-range>2014-20</page-range>
+            <pub-id pub-id-type="pmid">15483409</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23480.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pronovost</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Needham</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Berenholtz</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Sinopoli</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Chu</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Cosgrove</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Sexton</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Hyzy</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Welsh</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Roth</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Bander</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Kepros</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Goeschel</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>An intervention to decrease catheter-related bloodstream infections in the ICU.</article-title>
+            <source>N Engl J Med</source>
+            <year>2006</year>
+            <month>Dec</month>
+            <day>28</day>
+            <volume>355</volume>
+            <issue>26</issue>
+            <fpage>2725</fpage>
+            <page-range>2725-32</page-range>
+            <pub-id pub-id-type="pmid">17192537</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23480.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Edmond</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Eickhoff</surname>
+                <given-names>TC</given-names>
+              </name>
+            </person-group>
+            <article-title>Who is steering the ship? External influences on infection control programs.</article-title>
+            <source>Clin Infect Dis</source>
+            <year>2008</year>
+            <month>Jun</month>
+            <day>01</day>
+            <volume>46</volume>
+            <issue>11</issue>
+            <fpage>1746</fpage>
+            <page-range>1746-50</page-range>
+            <pub-id pub-id-type="pmid">18419420</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23480.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wright</surname>
+                <given-names>SB</given-names>
+              </name>
+              <name>
+                <surname>Ostrowsky</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Fishman</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Deloney</surname>
+                <given-names>VM</given-names>
+              </name>
+              <name>
+                <surname>Mermel</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Perl</surname>
+                <given-names>TM</given-names>
+              </name>
+            </person-group>
+            <article-title>Expanding roles of healthcare epidemiology and infection control in spite of limited resources and compensation.</article-title>
+            <source>Infect Control Hosp Epidemiol</source>
+            <year>2010</year>
+            <month>Feb</month>
+            <volume>31</volume>
+            <issue>2</issue>
+            <fpage>127</fpage>
+            <page-range>127-32</page-range>
+            <pub-id pub-id-type="pmid">20039800</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23480.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>O'Boyle</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Jackson</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Henly</surname>
+                <given-names>SJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Staffing requirements for infection control programs in US health care facilities: Delphi project.</article-title>
+            <source>Am J Infect Control</source>
+            <year>2002</year>
+            <month>Oct</month>
+            <volume>30</volume>
+            <issue>6</issue>
+            <fpage>321</fpage>
+            <page-range>321-33</page-range>
+            <pub-id pub-id-type="pmid">12360140</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23480.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Assanasen</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Edmond</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Bearman</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Impact of 2 different levels of performance feedback on compliance with infection control process measures in 2 intensive care units.</article-title>
+            <source>Am J Infect Control</source>
+            <year>2008</year>
+            <month>Aug</month>
+            <volume>36</volume>
+            <issue>6</issue>
+            <fpage>407</fpage>
+            <page-range>407-13</page-range>
+            <pub-id pub-id-type="pmid">18675146</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23480.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dudeck</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Horan</surname>
+                <given-names>TC</given-names>
+              </name>
+              <name>
+                <surname>Peterson</surname>
+                <given-names>KD</given-names>
+              </name>
+              <name>
+                <surname>Allen-Bridson</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Morrell</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Pollock</surname>
+                <given-names>DA</given-names>
+              </name>
+              <name>
+                <surname>Edwards</surname>
+                <given-names>JR</given-names>
+              </name>
+            </person-group>
+            <article-title>National Healthcare Safety Network (NHSN) Report, data summary for 2010, device-associated module.</article-title>
+            <source>Am J Infect Control</source>
+            <year>2011</year>
+            <month>Dec</month>
+            <volume>39</volume>
+            <issue>10</issue>
+            <fpage>798</fpage>
+            <page-range>798-816</page-range>
+            <pub-id pub-id-type="pmid">22133532</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23480.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Detsky</surname>
+                <given-names>ME</given-names>
+              </name>
+              <name>
+                <surname>Etchells</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Single-patient rooms for safe patient-centered hospitals.</article-title>
+            <source>JAMA</source>
+            <year>2008</year>
+            <month>Aug</month>
+            <day>27</day>
+            <volume>300</volume>
+            <issue>8</issue>
+            <fpage>954</fpage>
+            <page-range>954-6</page-range>
+            <pub-id pub-id-type="pmid">18728270</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23480.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bauer</surname>
+                <given-names>TM</given-names>
+              </name>
+              <name>
+                <surname>Ofner</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Just</surname>
+                <given-names>HM</given-names>
+              </name>
+              <name>
+                <surname>Just</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Daschner</surname>
+                <given-names>FD</given-names>
+              </name>
+            </person-group>
+            <article-title>An epidemiological study assessing the relative importance of airborne and direct contact transmission of microorganisms in a medical intensive care unit.</article-title>
+            <source>J Hosp Infect</source>
+            <year>1990</year>
+            <month>May</month>
+            <volume>15</volume>
+            <issue>4</issue>
+            <fpage>301</fpage>
+            <page-range>301-9</page-range>
+            <pub-id pub-id-type="pmid">1972946</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23480.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Boyce</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Pittet</surname>
+                <given-names>D</given-names>
+              </name>
+              <collab>Healthcare Infection Control Practices Advisory Committee</collab>
+              <collab>HICPAC/SHEA/APIC/IDSA Hand Hygiene Task Force</collab>
+            </person-group>
+            <article-title>Guideline for Hand Hygiene in Health-Care Settings. Recommendations of the Healthcare Infection Control Practices Advisory Committee and the HICPAC/SHEA/APIC/IDSA Hand Hygiene Task Force. Society for Healthcare Epidemiology of America/Association for Professionals in Infection Control/Infectious Diseases Society of America.</article-title>
+            <source>MMWR Recomm Rep</source>
+            <year>2002</year>
+            <month>Oct</month>
+            <day>25</day>
+            <volume>51</volume>
+            <issue>RR-16</issue>
+            <fpage>1</fpage>
+            <page-range>1-45, quiz CE1-4</page-range>
+            <pub-id pub-id-type="pmid">12418624</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23480.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Snitkin</surname>
+                <given-names>ES</given-names>
+              </name>
+              <name>
+                <surname>Zelazny</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Thomas</surname>
+                <given-names>PJ</given-names>
+              </name>
+              <name>
+                <surname>Stock</surname>
+                <given-names>F</given-names>
+              </name>
+              <collab>NISC Comparative Sequencing Program Group</collab>
+              <name>
+                <surname>Henderson</surname>
+                <given-names>DK</given-names>
+              </name>
+              <name>
+                <surname>Palmore</surname>
+                <given-names>TN</given-names>
+              </name>
+              <name>
+                <surname>Segre</surname>
+                <given-names>JA</given-names>
+              </name>
+            </person-group>
+            <article-title>Tracking a hospital outbreak of carbapenem-resistant Klebsiella pneumoniae with whole-genome sequencing.</article-title>
+            <source>Sci Transl Med</source>
+            <year>2012</year>
+            <month>Aug</month>
+            <day>22</day>
+            <volume>4</volume>
+            <issue>148</issue>
+            <fpage>148ra116</fpage>
+            <pub-id pub-id-type="pmid">22914622</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23480.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Polk</surname>
+                <given-names>RE</given-names>
+              </name>
+              <name>
+                <surname>Hohmann</surname>
+                <given-names>SF</given-names>
+              </name>
+              <name>
+                <surname>Medvedev</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Ibrahim</surname>
+                <given-names>O</given-names>
+              </name>
+            </person-group>
+            <article-title>Benchmarking risk-adjusted adult antibacterial drug use in 70 US academic medical center hospitals.</article-title>
+            <source>Clin Infect Dis</source>
+            <year>2011</year>
+            <month>Dec</month>
+            <volume>53</volume>
+            <issue>11</issue>
+            <fpage>1100</fpage>
+            <page-range>1100-10</page-range>
+            <pub-id pub-id-type="pmid">21998281</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23480.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>MacDougall</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Polk</surname>
+                <given-names>RE</given-names>
+              </name>
+            </person-group>
+            <article-title>Variability in rates of use of antibacterials among 130 US hospitals and risk-adjustment models for interhospital comparison.</article-title>
+            <source>Infect Control Hosp Epidemiol</source>
+            <year>2008</year>
+            <month>Mar</month>
+            <volume>29</volume>
+            <issue>3</issue>
+            <fpage>203</fpage>
+            <page-range>203-11</page-range>
+            <pub-id pub-id-type="pmid">18257689</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23480.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wenzel</surname>
+                <given-names>RP</given-names>
+              </name>
+              <name>
+                <surname>Edmond</surname>
+                <given-names>MB</given-names>
+              </name>
+            </person-group>
+            <article-title>Infection control: the case for horizontal rather than vertical interventional programs.</article-title>
+            <source>Int J Infect Dis</source>
+            <year>2010</year>
+            <month>Oct</month>
+            <volume>14 Suppl 4</volume>
+            <fpage>S3</fpage>
+            <page-range>S3-5</page-range>
+            <pub-id pub-id-type="pmid">20851010</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23480.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dancer</surname>
+                <given-names>SJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Controlling hospital-acquired infection: focus on the role of the environment and new technologies for decontamination.</article-title>
+            <source>Clin Microbiol Rev</source>
+            <year>2014</year>
+            <month>Oct</month>
+            <volume>27</volume>
+            <issue>4</issue>
+            <fpage>665</fpage>
+            <page-range>665-90</page-range>
+            <pub-id pub-id-type="pmid">25278571</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23480.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sehulster</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Chinn</surname>
+                <given-names>RY</given-names>
+              </name>
+              <collab>CDC</collab>
+              <collab>HICPAC</collab>
+            </person-group>
+            <article-title>Guidelines for environmental infection control in health-care facilities. Recommendations of CDC and the Healthcare Infection Control Practices Advisory Committee (HICPAC).</article-title>
+            <source>MMWR Recomm Rep</source>
+            <year>2003</year>
+            <month>Jun</month>
+            <day>06</day>
+            <volume>52</volume>
+            <issue>RR-10</issue>
+            <fpage>1</fpage>
+            <page-range>1-42</page-range>
+            <pub-id pub-id-type="pmid">12836624</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23480.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mathur</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Hand hygiene: back to the basics of infection control.</article-title>
+            <source>Indian J Med Res</source>
+            <year>2011</year>
+            <month>Nov</month>
+            <volume>134</volume>
+            <issue>5</issue>
+            <fpage>611</fpage>
+            <page-range>611-20</page-range>
+            <pub-id pub-id-type="pmid">22199099</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23480.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Edmond</surname>
+                <given-names>MB</given-names>
+              </name>
+            </person-group>
+            <article-title>Getting to zero: is it safe?</article-title>
+            <source>Infect Control Hosp Epidemiol</source>
+            <year>2009</year>
+            <month>Jan</month>
+            <volume>30</volume>
+            <issue>1</issue>
+            <fpage>74</fpage>
+            <page-range>74-6</page-range>
+            <pub-id pub-id-type="pmid">19067600</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

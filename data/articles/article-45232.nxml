@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-45232" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Superior Ophthalmic Vein Cannulation for Carotid Cavernous Fistula</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Shah</surname>
+            <given-names>Amar</given-names>
+          </name>
+          <aff>University of Utah</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Patel</surname>
+            <given-names>Bhupendra C.</given-names>
+          </name>
+          <aff>University of Utah</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Amar Shah declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Bhupendra Patel declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>1</day>
+          <month>5</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-45232.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>The superior ophthalmic vein (SOV) approach for embolization of carotid-cavernous fistulas (CCFs) was first described over 25 years ago. Carotid-cavernous fistulas are typically divided into four subtypes, defined by etiology and nature of the lesion. This activity describes the pathophysiology of carotid cavernous fistula and highlights the role of the interprofessional team in the management of these patients.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Review indications for endovascular treatment of carotid cavernous fistulas.</p></list-item><list-item><p>Summarize the relevant orbital anatomy for superior opthalmic vein cannulation.</p></list-item><list-item><p>Describe the surgical technique to dissect the orbit and identify the superior ophthalmic vein safely.</p></list-item><list-item><p>Outline interprofessional team strategies for improving care coordination and communication to enhance the treatment of carotid cavernous fistula and improve patient outcomes.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=45232&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=45232">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-45232.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>The superior ophthalmic vein (SOV) approach for embolization of carotid-cavernous fistulas (CCFs) was first described over 25 years ago.<xref ref-type="bibr" rid="article-45232.r1">[1]</xref>&#x000a0;Carotid-cavernous fistulas&#x000a0;are typically divided into four subtypes, defined by etiology and nature of the lesion. Direct (Barrow A) lesions involve an endothelial tear of the carotid itself, while indirect lesions (Barrow B, C, or D) involve small branches of the internal or external carotid systems. While 10 to 60% of CCFs may spontaneously resolve, and up to an additional 30% of low-flow CCFs may resolve with conservative management (carotid compression therapy), many progressive lesions require intervention.<xref ref-type="bibr" rid="article-45232.r2">[2]</xref>&#x000a0;Direct lesions are amenable to endoarterial treatment. Indirect lesions are appropriately treated with transvenous embolization; the ipsilateral inferior petrosal sinus (IPS) is the preferred route. Initial reports characterized case series in which the SOV route was utilized when traditional access through the IPS failed. Typically, the SOV can be accessed through the facial-angular venous system. However, cases exist in which stenosis, hypoplasia, or tortuosity of the vessels prevent safe transvenous access via this route. Surgical cutdown for direct cannulation of the SOV is a safe, effective option in these cases in which other endovascular approaches have been exhausted. With advances in endovascular access techniques, the necessity of this approach has decreased. Still, direct cannulation of the SOV via surgical cutdown remains an important technique in the surgical armamentarium.</p>
+      </sec>
+      <sec id="article-45232.s3" sec-type="Anatomy and Physiology">
+        <title>Anatomy and Physiology</title>
+        <p>Knowledge of orbital anatomy is crucial to avoid damaging key structures within the orbit, particularly once the orbital fat pad has been exposed. The superior ophthalmic vein forms at the junction of the supraorbital (SPOV), angular, and supratrochlear veins within the superomedial orbit. It is consistently found approximately 6 mm above the superior sulcus of the eyelid nasally. Additionally, the SOV can be identified by following the SPOV into the orbit; the SPOV itself can be within the supraorbital notch when present.<xref ref-type="bibr" rid="article-45232.r3">[3]</xref>&#x000a0;As the SOV courses posteriorly and laterally with the ophthalmic artery (located posteriorly and laterally to the superior oblique), it receives draining vessels from superior orbital structures, including the ethmoid veins, central retinal vein, muscular veins, and superior vortex veins. The SOV crosses the anterior portion of the optic nerve and traverses the superior orbital fissure, eventually terminating in the cavernous sinus. The SOV has also been noted to run directly underneath the superior rectus in the superomedial quadrant of the periorbital cone, a useful landmark when the vessel is not hypertrophied outside of the deep orbit.<xref ref-type="bibr" rid="article-45232.r2">[2]</xref>&#x000a0;Anastomosis with the inferior ophthalmic vein is variable.</p>
+      </sec>
+      <sec id="article-45232.s4" sec-type="Indications">
+        <title>Indications</title>
+        <p>Direct cannulation of the SOV for endovascular treatment is appropriate for indirect CCFs. Typical signs and symptoms include pulsatile visual defects, headache, ocular and orbital pain, diplopia, conjunctival chemosis, proptosis, and orbital bruits. A common association is congestion of the inferior petrosal sinus and arterialization of the ophthalmic and orbital veins. The superior ophthalmic vein may be used for transvenous access to lesions of the cavernous sinus when other routes have been exhausted or are anatomically unavailable. Aberrant anatomy of the inferior petrosal sinus, in which it is exquisitely tortuous or in discontinuity with the proximal jugular system, may make that approach impossible.&#x000a0;Access to the SOV via the angular vein through the facial vein is commonly employed&#x000a0;as well, though the small caliber of the vessels and sharp angles may make this route technically challenging. In such cases, if arterial access is insufficient, direct cannulation of the SOV should be employed.<xref ref-type="bibr" rid="article-45232.r4">[4]</xref></p>
+      </sec>
+      <sec id="article-45232.s5" sec-type="Contraindications">
+        <title>Contraindications</title>
+        <p>Conservative management will lead to the resolution of symptoms in a significant number of cases; detailed assessment of symptomology in the immediate pre-operative period is critical to avoid unnecessary intervention. If thrombosis of the SOV is observed intra-operatively, further intervention may not be required. Patients with suspected direct or mixed CCFs will require endoarterial treatment and should not be solely treated with transvenous embolization.</p>
+      </sec>
+      <sec id="article-45232.s6" sec-type="Equipment">
+        <title>Equipment</title>
+        <p>Standard microsurgical and endovascular equipment is required for this procedure. This procedure can be safely performed in the endovascular suite with proper anesthesia support. It is important to have a surgical headlight, together with the appropriate&#x000a0;orbital surgical instruments which allow proper orbital exposure (Sewell retractors, ribbon retractors) and long bayonet forceps and bipolar cautery forceps to allow easy access to any bleeders deep within the orbit. Neurosurgical cottonoids are useful to separate the fat from the vessels. Muscle hooks are useful to lift the SOV gently while ligation bands or sutures are applied. As the surgeon will be operating&#x000a0;with limited mobility because of the radiology machinery, a good assistant is very&#x000a0;useful. As these procedures are performed infrequently, we give a list of the necessary&#x000a0;surgical instruments to the interventional radiology department.</p>
+      </sec>
+      <sec id="article-45232.s7" sec-type="Personnel">
+        <title>Personnel</title>
+        <p>This procedure requires a team with neurointerventional and orbital surgical&#x000a0;expertise. The procedure can be performed in the angiography suite with the assistance of anesthesia staff.</p>
+      </sec>
+      <sec id="article-45232.s8" sec-type="Preparation">
+        <title>Preparation</title>
+        <p>Digital subtraction angiography is the gold standard for diagnosis and initial therapy of CCF. However, CT, CT angiography, and MRI may be used to&#x000a0;confirm the diagnosis if in doubt and to rule out other potential etiologies (tumor, posterior communicating artery aneurysm, infection, etc.). A detailed history should be obtained, and a physical examination should be performed on the day of the procedure to assess the necessity of intervention.</p>
+      </sec>
+      <sec id="article-45232.s9" sec-type="Technique or Treatment">
+        <title>Technique or Treatment</title>
+        <p>Informed consent must be obtained, and the risks and benefits of the operation explained. The patient is positioned supine in the angiography suite and induced under general anesthesia. A femoral sheath is placed in the standard fashion for angiography. The sterile field includes the eye, eyebrow, forehead, and cheek.</p>
+        <p>
+<bold>Incision</bold>
+</p>
+        <p>A small incision is made in the medial upper eyelid crease; alternately, a sub-brow incision may be used. Authors prefer the medial upper eyelid incision.&#x000a0;The incision is carried down through the orbicularis oculi muscle using blunt separation with Stevens scissors. It is important to obtain hemostasis at this point as there will be oozing from the tissues below the orbicularis oculi muscle, which can interfere with the surgical site.</p>
+        <p>
+<bold>Orbitotomy</bold>
+</p>
+        <p>The orbital septum is opened medially, revealing the medial&#x000a0;retroseptal fat pad, which will be whiter than the central fat pad. This fat is bluntly dissected in the posterolateral direction until an arterialized feeder of the SOV is identified, which is traced back until the main trunk of the SOV is found. If multiple feeders are identified, the milking of the vessels may help identify the direction of flow. If the vessel has not significantly&#x000a0;engorged, it has been suggested that an osteotomy may be needed to broaden exposure to the deep orbit, although we have not found&#x000a0;.this&#x000a0;to be necessary in&#x000a0;over 40 cases. Sewell retractors together with moist neurosurgical cottonoids are invaluable at this stage. If the surgeon is familiar with the anatomy of the angular vessels, the supraorbital and supratrochlear vessels, the superior ophthalmic vein can be identified with relative ease by following one of these vessels leading into the superior ophthalmic vein. Another maneuver that&#x000a0;we have found helpful is to use a blunt separating motion with either a hemostat or Stevens scissors. This allows separation of the superomedial orbital tissues, which in turn&#x000a0;will expose the dilated superior ophthalmic vein. For the sake of completeness, it should be mentioned that some surgeons perform an additional brow incision, dissect the subcutaneous tissues and the frontalis muscle until the orbital rim is reached. They then design&#x000a0;a&#x000a0;small orbitofrontal bone flap is made in the orbital rim. In this approach, the SOV can be identified within the superomedial portion of the periorbital cone following gentle retraction of the superior rectus.<xref ref-type="bibr" rid="article-45232.r2">[2]</xref>&#x000a0;However, as mentioned, authors have not had a&#x000a0;need to perform any osteotomies when good retraction, lighting, and proper knowledge of anatomy is available.</p>
+        <p>
+<bold>Isolation of the Superior Ophthalmic Vein</bold>
+</p>
+        <p>The SOV is bluntly isolated, freed from attachments, and exposed to the surface for incision of the vessel wall. Rubber loops may be used around the superior ophthalmic vein to allow manipulation. The vein is kept taut with these loops (4-0 silk sutures may also be used), and the vein is entered&#x000a0;with an angiocatheter. Brisk bleeding confirms a full-thickness opening and allows cannulation. The angiocatheter is usually tied with a suture, and the&#x000a0;catheter is advanced to the cavernous sinus with fluoroscopic guidance using a gentle injection of contrast through the catheter. Once the placement is confirmed, obliteration of the cavernous sinus can be performed using standard endovascular techniques (liquid embolic agents, coiling).<xref ref-type="bibr" rid="article-45232.r5">[5]</xref>&#x000a0;Care is taken to leave one of the ophthalmic veins patents to prevent a sudden increase in intraocular pressures. Arterial angiography is performed to confirm obliteration of the fistula, after which the catheter is withdrawn.</p>
+        <p>The SOV is ligated distal to the insertion point unless it is large and thick-walled, in which case the vessel is primarily closed. The orbit may be irrigated with an antibiotic solution.</p>
+        <p>
+<bold>Closure</bold>
+</p>
+        <p>After meticulous hemostasis is obtained, the orbital incision is closed using simple 6-0 catgut sutures. Follow-up angiography is recommended if there is suspicion for recurrence of the fistula. Clinical follow-up is recommended at 3 and 6 months post-intervention. The patient's vision and intraocular pressures are assessed.</p>
+      </sec>
+      <sec id="article-45232.s10" sec-type="Complications">
+        <title>Complications</title>
+        <p>Surgical cutdown of the superior ophthalmic vein is typically well-tolerated. Complications include damage to orbital structures, particularly the superficial nerves and extraocular muscles. Few such complications have been reported in the literature, however. During endovascular treatment, vessel rupture with subsequent hemorrhage is possible. In one observed case of SOV rupture, no retro-orbital hematoma was noted, and the patient was successfully managed conservatively. Aggressive embolization of the cavernous sinus may lead to cranial nerve deficits.</p>
+      </sec>
+      <sec id="article-45232.s11" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>Over 95% of patients receiving endovascular embolization via direct surgical access of the SOV remained symptom and recurrence-free at the last clinical follow-up in reported case series.<xref ref-type="bibr" rid="article-45232.r1">[1]</xref><xref ref-type="bibr" rid="article-45232.r2">[2]</xref><xref ref-type="bibr" rid="article-45232.r4">[4]</xref><xref ref-type="bibr" rid="article-45232.r5">[5]</xref><xref ref-type="bibr" rid="article-45232.r6">[6]</xref>&#x000a0;Even in settings of incomplete embolization, clinical improvement has been observed. Direct cannulation of the SOV is a safe and effective approach for the endovascular treatment of indirect CCFs in settings in which other endovascular approaches have been exhausted.<xref ref-type="bibr" rid="article-45232.r7">[7]</xref><xref ref-type="bibr" rid="article-45232.r8">[8]</xref><xref ref-type="bibr" rid="article-45232.r9">[9]</xref><xref ref-type="bibr" rid="article-45232.r10">[10]</xref></p>
+      </sec>
+      <sec id="article-45232.s12" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Superior ophthalmic vein cannulation for the treatment of carotid cavernous fistula requires an interprofessional approach. A neurointerventionalist is required for the femoral access and eventual endovascular treatment of the fistula once the vein has been cannulated. An orbital surgeon is required for the surgical procedure. Trained staff are required to assist in the interventional suite, while anesthetists will be needed to monitor the patient. Nursing and clinic staff can aid in screening patients on the day of surgery to ensure that symptoms are ongoing. Pharmacists may be needed to aid with post-operative pain management, which is typically minor in this setting. This is why an interprofessional team approach care is necessary for these patients, as it leads to better outcomes. [Level 5]</p>
+      </sec>
+      <sec id="article-45232.s13">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=45232&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=45232">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/45232/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=45232">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <floats-group id="article-45232.s14">
+        <fig id="article-45232.image.f1" position="float" orientation="portrait">
+          <caption>
+            <p>Superior Ophthalmic vein, Cavernous sinus, Inferior Ophthalmic vein Henry Vandyke Carter, Public Domain, via Wikimedia Commons</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Gray572" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <ref-list id="article-45232.s15">
+        <title>References</title>
+        <ref id="article-45232.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Teng</surname>
+                <given-names>MM</given-names>
+              </name>
+              <name>
+                <surname>Guo</surname>
+                <given-names>WY</given-names>
+              </name>
+              <name>
+                <surname>Huang</surname>
+                <given-names>CI</given-names>
+              </name>
+              <name>
+                <surname>Wu</surname>
+                <given-names>CC</given-names>
+              </name>
+              <name>
+                <surname>Chang</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Occlusion of arteriovenous malformations of the cavernous sinus via the superior ophthalmic vein.</article-title>
+            <source>AJNR Am J Neuroradiol</source>
+            <year>1988</year>
+            <season>May-Jun</season>
+            <volume>9</volume>
+            <issue>3</issue>
+            <fpage>539</fpage>
+            <page-range>539-46</page-range>
+            <pub-id pub-id-type="pmid">3132828</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-45232.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wolfe</surname>
+                <given-names>SQ</given-names>
+              </name>
+              <name>
+                <surname>Cumberbatch</surname>
+                <given-names>NM</given-names>
+              </name>
+              <name>
+                <surname>Aziz-Sultan</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Tummala</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Morcos</surname>
+                <given-names>JJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Operative approach via the superior ophthalmic vein for the endovascular treatment of carotid cavernous fistulas that fail traditional endovascular access.</article-title>
+            <source>Neurosurgery</source>
+            <year>2010</year>
+            <month>Jun</month>
+            <volume>66</volume>
+            <issue>6 Suppl Operative</issue>
+            <fpage>293</fpage>
+            <page-range>293-9; discussion 299</page-range>
+            <pub-id pub-id-type="pmid">20489519</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-45232.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Reis</surname>
+                <given-names>CV</given-names>
+              </name>
+              <name>
+                <surname>Gonzalez</surname>
+                <given-names>FL</given-names>
+              </name>
+              <name>
+                <surname>Zabramski</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Hassan</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Deshmukh</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Albuquerque</surname>
+                <given-names>FC</given-names>
+              </name>
+              <name>
+                <surname>Preul</surname>
+                <given-names>MC</given-names>
+              </name>
+            </person-group>
+            <article-title>Anatomy of the superior ophthalmic vein approach for direct endovascular access to vascular lesions of the orbit and cavernous sinus.</article-title>
+            <source>Neurosurgery</source>
+            <year>2009</year>
+            <month>May</month>
+            <volume>64</volume>
+            <issue>5 Suppl 2</issue>
+            <fpage>318</fpage>
+            <page-range>318-23; discussion 323</page-range>
+            <pub-id pub-id-type="pmid">19404110</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-45232.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Miller</surname>
+                <given-names>NR</given-names>
+              </name>
+              <name>
+                <surname>Monsein</surname>
+                <given-names>LH</given-names>
+              </name>
+              <name>
+                <surname>Debrun</surname>
+                <given-names>GM</given-names>
+              </name>
+              <name>
+                <surname>Tamargo</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Nauta</surname>
+                <given-names>HJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Treatment of carotid-cavernous sinus fistulas using a superior ophthalmic vein approach.</article-title>
+            <source>J Neurosurg</source>
+            <year>1995</year>
+            <month>Nov</month>
+            <volume>83</volume>
+            <issue>5</issue>
+            <fpage>838</fpage>
+            <page-range>838-42</page-range>
+            <pub-id pub-id-type="pmid">7472552</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-45232.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chalouhi</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Dumont</surname>
+                <given-names>AS</given-names>
+              </name>
+              <name>
+                <surname>Tjoumakaris</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Gonzalez</surname>
+                <given-names>LF</given-names>
+              </name>
+              <name>
+                <surname>Bilyk</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Randazzo</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Hasan</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Dalyai</surname>
+                <given-names>RT</given-names>
+              </name>
+              <name>
+                <surname>Rosenwasser</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Jabbour</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>The superior ophthalmic vein approach for the treatment of carotid-cavernous fistulas: a novel technique using Onyx.</article-title>
+            <source>Neurosurg Focus</source>
+            <year>2012</year>
+            <month>May</month>
+            <volume>32</volume>
+            <issue>5</issue>
+            <fpage>E13</fpage>
+            <pub-id pub-id-type="pmid">22537122</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-45232.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Qui&#x000f1;ones</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Duckwiler</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Gobin</surname>
+                <given-names>PY</given-names>
+              </name>
+              <name>
+                <surname>Goldberg</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Vi&#x000f1;uela</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>Embolization of dural cavernous fistulas via superior ophthalmic vein approach.</article-title>
+            <source>AJNR Am J Neuroradiol</source>
+            <year>1997</year>
+            <month>May</month>
+            <volume>18</volume>
+            <issue>5</issue>
+            <fpage>921</fpage>
+            <page-range>921-8</page-range>
+            <pub-id pub-id-type="pmid">9159371</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-45232.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Baldauf</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Spuler</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Hoch</surname>
+                <given-names>HH</given-names>
+              </name>
+              <name>
+                <surname>Molsen</surname>
+                <given-names>HP</given-names>
+              </name>
+              <name>
+                <surname>Kiwit</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Synowitz</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Embolization of indirect carotid-cavernous sinus fistulas using the superior ophthalmic vein approach.</article-title>
+            <source>Acta Neurol Scand</source>
+            <year>2004</year>
+            <month>Sep</month>
+            <volume>110</volume>
+            <issue>3</issue>
+            <fpage>200</fpage>
+            <page-range>200-4</page-range>
+            <pub-id pub-id-type="pmid">15285779</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-45232.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jiang</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Lv</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Wu</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Shi</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Surgical access on the superior ophthalmic vein to the cavernous sinus dural fistula for embolization.</article-title>
+            <source>J Neurointerv Surg</source>
+            <year>2013</year>
+            <month>May</month>
+            <volume>5</volume>
+            <issue>3</issue>
+            <fpage>e13</fpage>
+            <pub-id pub-id-type="pmid">22387624</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-45232.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Briganti</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Caranci</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Leone</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Napoli</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Cicala</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Briganti</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Tranfa</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Bonavolont&#x000e0;</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Endovascular occlusion of dural cavernous fistulas through a superior ophthalmic vein approach.</article-title>
+            <source>Neuroradiol J</source>
+            <year>2013</year>
+            <month>Oct</month>
+            <volume>26</volume>
+            <issue>5</issue>
+            <fpage>565</fpage>
+            <page-range>565-72</page-range>
+            <pub-id pub-id-type="pmid">24199817</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-45232.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>El-Hindy</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Kalantzis</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Patankar</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Georgalas</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Jyothi</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Goddard</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Chang</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Difficult indirect carotid-cavernous fistulas--alternative techniques to gaining access for treatment.</article-title>
+            <source>Clin Interv Aging</source>
+            <year>2014</year>
+            <volume>9</volume>
+            <fpage>1687</fpage>
+            <page-range>1687-90</page-range>
+            <pub-id pub-id-type="pmid">25336933</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

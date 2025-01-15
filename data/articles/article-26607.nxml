@@ -1,0 +1,1330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-26607" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Paracentesis</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Aponte</surname>
+            <given-names>Elisa M.</given-names>
+          </name>
+          <aff>Kaweah Delta Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Katta</surname>
+            <given-names>Shravan</given-names>
+          </name>
+          <aff>Texas Health</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Kurapati</surname>
+            <given-names>Rahul</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>O'Rourke </surname>
+            <given-names>Maria C.</given-names>
+          </name>
+          <aff>Dignity Health - STMC - Stockton, CA</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Elisa Aponte declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Shravan Katta declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Rahul Kurapati declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Maria O'Rourke declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>27</day>
+          <month>10</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-26607.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Ascites, characterized by abnormal fluid accumulation in the peritoneal cavity, often emerges as a grim harbinger of underlying liver cirrhosis, a condition with a daunting prognosis. Paracentesis, a pivotal medical procedure, is the key to understanding and managing this complex condition.&#x000a0;Diagnostic paracentesis provides a window into the origins of ascites, enabling healthcare professionals to pinpoint its underlying cause and rule out peritoneal fluid infection. In contrast, therapeutic paracentesis is a powerful tool for alleviating the distressing symptoms associated with ascites by safely removing substantial volumes of ascitic fluid.</p>
+        <p>The course delves into the indications, contraindications, and potential complications of paracentesis, providing invaluable insights for healthcare practitioners. Additionally, it underscores the crucial role of an interprofessional team in managing patients with ascites, as early diagnosis and intervention can significantly impact patient outcomes. In a world where liver cirrhosis remains a leading cause of ascites, understanding the nuances of paracentesis becomes an essential skill for healthcare professionals.&#x000a0;</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Identify the appropriate indications for paracentesis, recognizing when the procedure is necessary for diagnostic or therapeutic purposes in patients presenting with ascites.</p></list-item><list-item><p>Differentiate between transudative and exudative ascites using the serum-ascitic albumin gradient and apply this differentiation to guide the choice of diagnostic and treatment approaches effectively.</p></list-item><list-item><p>Implement sterile and safe paracentesis techniques, following established protocols and guidelines to minimize the risk of infection and other procedural complications.</p></list-item><list-item><p>Collaborate with an interprofessional healthcare team to coordinate the comprehensive care of patients with ascites.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=26607&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=26607">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-26607.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Ascites, characterized by abnormal fluid accumulation in the peritoneal cavity, often emerges as a grim harbinger of underlying liver cirrhosis, a condition with a daunting prognosis.<xref ref-type="bibr" rid="article-26607.r1">[1]</xref>&#x000a0; Paracentesis, a pivotal medical procedure, is the key to understanding and managing this complex condition.&#x000a0;Diagnostic paracentesis provides a window into the origins of ascites, enabling healthcare professionals to pinpoint its underlying cause and rule out peritoneal fluid infection. In contrast, therapeutic paracentesis is a powerful tool for alleviating the distressing symptoms associated with ascites by safely removing substantial volumes of ascitic fluid.</p>
+        <p>This review addresses&#x000a0;the indications, contraindications, and potential complications of paracentesis, providing invaluable insights for healthcare practitioners. Additionally, it underscores the crucial role of an interprofessional team in managing patients with ascites, as early diagnosis and intervention can significantly impact patient outcomes.&#x000a0;In a world where liver cirrhosis remains a leading cause of ascites, understanding the nuances of paracentesis becomes an essential skill for healthcare professionals.&#x000a0;</p>
+        <p>Paracentesis is a procedure performed in patients with ascites, during which a needle is inserted into the peritoneal cavity to obtain ascitic fluid.<xref ref-type="bibr" rid="article-26607.r2">[2]</xref>&#x000a0;The removal and testing of the ascitic fluid to diagnose the etiology of ascites or to rule out an infection of peritoneal fluid is called diagnostic paracentesis. Therapeutic paracentesis refers to removing large quantities of ascitic fluid to treat the patient's symptoms caused by ascites.</p>
+        <p>The most common cause of ascites is cirrhosis of the liver.<xref ref-type="bibr" rid="article-26607.r3">[3]</xref>&#x000a0;Patients who develop ascites due to liver cirrhosis have an estimated one-year mortality rate of 20% compared to a one-year mortality rate of 7% in patients with cirrhosis and without the development of ascites.<xref ref-type="bibr" rid="article-26607.r4">[4]</xref>&#x000a0;Therefore, the ascitic fluid should be sampled in all patients with new-onset ascites.</p>
+        <p>Ascites can be of&#x000a0;2&#x000a0;types: exudative and transudative. Regarding the differentiation between transudate and exudate, the preferred way to distinguish ascites is the serum-ascitic albumin gradient (SAAG).<xref ref-type="bibr" rid="article-26607.r5">[5]</xref>&#x000a0;The SAAG is directly related to portal pressure. The SAAG level greater than or equal to 1.1 g/dL indicates portal hypertension and transudative ascites. If this level is less than 1.1 g/dL, it means exudative ascites. The causes of transudative ascites include the following:<xref ref-type="bibr" rid="article-26607.r6">[6]</xref></p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Hepatic cirrhosis</p>
+          </list-item>
+          <list-item>
+            <p>Heart failure</p>
+          </list-item>
+          <list-item>
+            <p>Alcoholic hepatitis</p>
+          </list-item>
+          <list-item>
+            <p>Fulminant hepatic failure</p>
+          </list-item>
+          <list-item>
+            <p>Nephrotic syndrome</p>
+          </list-item>
+          <list-item>
+            <p>Portal vein thrombosis</p>
+          </list-item>
+        </list>
+        <p>The causes of exudative ascites include the following:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Peritoneal carcinomatosis</p>
+          </list-item>
+          <list-item>
+            <p>Pancreatitis</p>
+          </list-item>
+          <list-item>
+            <p>Peritonitis</p>
+          </list-item>
+          <list-item>
+            <p>Ischemic colitis</p>
+          </list-item>
+          <list-item>
+            <p>Intestinal obstruction</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-26607.s3" sec-type="Anatomy and Physiology">
+        <title>Anatomy and Physiology</title>
+        <p>Paracentesis can be performed in a lateral decubitus or supine position, with or without imaging guidance. When performing a paracentesis without imaging guidance, it is recommended to use the left lower quadrant of the abdominal wall as the entry point for the needle. This location is considered the safest and most favorable due to the thinner abdominal wall and deeper pocket of fluid, according to a study conducted by Sakai H et al.<xref ref-type="bibr" rid="article-26607.r7">[7]</xref></p>
+        <p>The following are some essential anatomical considerations that should be taken into account while performing paracentesis:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Surgical scars&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Spleen</p>
+          </list-item>
+          <list-item>
+            <p>Inferior epigastric arteries&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Cecum - if performing paracentesis in the right lower quadrant</p>
+          </list-item>
+        </list>
+        <p>The&#x000a0;ascitic fluid level is percussed to perform a paracentesis, and a needle is inserted in the midline or lower quadrant (lateral to rectus abdominis muscle, 2 to 4 cm superomedial to the anterior superior iliac spine).<xref ref-type="bibr" rid="article-26607.r8">[8]</xref><xref ref-type="bibr" rid="article-26607.r2">[2]</xref>&#x000a0;This approach avoids puncture of the inferior epigastric arteries. When inserting the needle, the healthcare provider must avoid visible surface veins or surgical scars. The needle should be inserted at a 45-degree angle or using the z-tracking technique to minimize the chance of an ascites fluid leak.</p>
+      </sec>
+      <sec id="article-26607.s4" sec-type="Indications">
+        <title>Indications</title>
+        <p>Diagnostic paracentesis can be performed in the following situations:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Rule out spontaneous bacterial peritonitis in patients with known ascites presenting with concerning symptoms such as abdominal pain, fever, gastrointestinal bleeding, worsening encephalopathy, new or worsening renal or liver failure, hypotension, or other signs of infection or sepsis</p>
+          </list-item>
+          <list-item>
+            <p>Identify the etiology of new-onset ascites. Fluid evaluation helps determine etiology, distinguish between transudate and exudate, detect cancerous cells, or address other possibilities.</p>
+          </list-item>
+        </list>
+        <p>Therapeutic paracentesis is helpful&#x000a0;when alleviating abdominal discomfort or respiratory distress in hemodynamically stable patients with tense ascites or ascites refractory to diuretics.<xref ref-type="bibr" rid="article-26607.r8">[8]</xref><xref ref-type="bibr" rid="article-26607.r2">[2]</xref></p>
+        <p>Large-volume paracentesis (LVP) is required in patients with refractory ascites. Bureau et al described a low-flow pump system that can move the fluid from the peritoneal cavity into the urinary bladder, which is removed&#x000a0;through&#x000a0;micturition.<xref ref-type="bibr" rid="article-26607.r9">[9]</xref>&#x000a0;This demonstrated improved quality of life and reduced need for repeated LVP in patients with ascites.</p>
+        <p>Patients with abdominal compartment syndrome generally require&#x000a0;a laparotomy for emergency surgical decompression. However, LVP can help reduce intra-abdominal pressure in a patient with tense ascites that may lead to ACS.<xref ref-type="bibr" rid="article-26607.r10">[10]</xref>&#x000a0;Advanced hepatic cirrhosis may cause moderate-to-severe ascites,&#x000a0;leading to impaired respiration. Wittmer et al reported the benefits of paracentesis in 30 patients with liver cirrhosis and ascites.<xref ref-type="bibr" rid="article-26607.r11">[11]</xref>&#x000a0;They reported improvement in these patients' abdominal breathing patterns and ventilatory variables. Paracentesis also led to improvement in thoracoabdominal mobility and a reduction in dyspnea and fatigue, causing increased peripheral oxygen saturation.</p>
+      </sec>
+      <sec id="article-26607.s5" sec-type="Contraindications">
+        <title>Contraindications</title>
+        <p>There are few absolute contraindications for paracentesis.<xref ref-type="bibr" rid="article-26607.r12">[12]</xref>&#x000a0;Parcentesis is absolutely contraindicated in the following:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Disseminated intravascular coagulation</p>
+          </list-item>
+          <list-item>
+            <p>An acute abdomen requiring surgery</p>
+          </list-item>
+        </list>
+        <p>The relative contraindications of paracentesis include the following:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Pregnancy</p>
+          </list-item>
+          <list-item>
+            <p>Organomegaly</p>
+          </list-item>
+          <list-item>
+            <p>Ileus</p>
+          </list-item>
+          <list-item>
+            <p>Intestinal obstruction</p>
+          </list-item>
+          <list-item>
+            <p>Distended bladder</p>
+          </list-item>
+          <list-item>
+            <p>Clotting derangements (ie, severe thrombocytopenia where platelets&#x000a0;are less than 20 &#x000d7; 10<sup>3</sup>/&#x003bc;L and&#x000a0;an&#x000a0;international normalized ratio (INR) more than 2.0)</p>
+          </list-item>
+        </list>
+        <p>Coagulopathy and thrombocytopenia (common in cirrhotic patients) are not absolute contraindications, as the incidence of bleeding complications from the procedure is very&#x000a0;low.<xref ref-type="bibr" rid="article-26607.r13">[13]</xref>&#x000a0;Those with severe thrombocytopenia&#x000a0;should receive platelets before the procedure, and those with an increased INR should receive&#x000a0;fresh-frozen plasma (FFP). One method often employed in the case of an elevated INR is to administer one unit of FFP before the procedure and the second unit during the procedure.&#x000a0;In patients with&#x000a0;no prior history and without clinical evidence of active bleeding, tests such as prothrombin time, activated partial thromboplastin time, and platelet count may not be&#x000a0;required before the procedure.<xref ref-type="bibr" rid="article-26607.r13">[13]</xref></p>
+        <p>During the procedure, providers should avoid passing the needle/catheter through sites of skin infection, surgical scars, visibly engorged abdominal wall vessels, or abdominal wall hematomas.</p>
+      </sec>
+      <sec id="article-26607.s6" sec-type="Equipment">
+        <title>Equipment</title>
+        <p>Prepackaged paracentesis kits with plastic sheath cannulas attached to a syringe and a stopcock are available. Alternatively, traditional large-bore intravenous&#x000a0;(IV) catheters or 18-gauge to 20-gauge standard or spinal needles can be used. These can be attached to a syringe for aspiration and IV tubing for fluid drainage. If these prepackaged kits are not available, one will need&#x000a0;the following:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Sterile gloves</p>
+          </list-item>
+          <list-item>
+            <p>Antiseptic swab sticks</p>
+          </list-item>
+          <list-item>
+            <p>Scalpel, No. 11 blade</p>
+          </list-item>
+          <list-item>
+            <p>Sterile drapes/towels</p>
+          </list-item>
+          <list-item>
+            <p>Chlorhexidine or betadine</p>
+          </list-item>
+          <list-item>
+            <p>Lidocaine 1%, 5-mL ampule</p>
+          </list-item>
+          <list-item>
+            <p>Two injection needles, 22-gauge</p>
+          </list-item>
+          <list-item>
+            <p>Catheter, 8 French, over 18-gauge &#x000d7; 7.5-inch (19-cm) needle with 3-way stopcock and self-sealing valve</p>
+          </list-item>
+          <list-item>
+            <p>Injection needle, 25-gauge</p>
+          </list-item>
+          <list-item>
+            <p>Introducer needle, 20-gauge</p>
+          </list-item>
+          <list-item>
+            <p>20 ml or 60 ml syringe to collect a sample of fluid</p>
+          </list-item>
+          <list-item>
+            <p>Tubing set with roller clamp</p>
+          </list-item>
+          <list-item>
+            <p>Drainage bag or vacuum container</p>
+          </list-item>
+          <list-item>
+            <p>Gauze, 4 &#x000d7; 4 in. (10&#x000a0;&#x000d7; 10 cm)</p>
+          </list-item>
+          <list-item>
+            <p>Three specimen vials or collection bottles (hematology, chemistry, and microbiology sample tubes plus blood culture bottles)<xref ref-type="bibr" rid="article-26607.r12">[12]</xref></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-26607.s7" sec-type="Preparation">
+        <title>Preparation</title>
+        <p>
+<bold>Consent</bold>
+</p>
+        <p>Explain the procedure, risks, benefits, complications, and alternate options to the patient or their representative, and obtain signed informed consent.</p>
+        <p>
+<bold>Portal of Entry</bold>
+</p>
+        <p>The preferred site for paracentesis is the right or left lower quadrant of the abdomen lateral to the rectus sheath and superior to the anterior superior iliac spine (ASIS).&#x000a0;The&#x000a0;2 recommended areas of entry for paracentesis are the following:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>2&#x000a0;cm below the umbilicus&#x000a0;through the linea alba in the midline</p>
+          </list-item>
+          <list-item>
+            <p>5&#x000a0;cm superior and medial to ASIS on either side</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Positioning</bold>
+</p>
+        <p>The lateral decubitus position is preferred because air-filled loops of the bowel float in a distended abdominal cavity. However, patients with severe ascites&#x000a0;may need to be positioned supine. Placing the patient in the lateral decubitus position can aid in identifying fluid pockets in patients with lower fluid volumes. Ask the patient to empty their bladder before starting the procedure.</p>
+        <p>
+<bold>Imaging</bold>
+</p>
+        <p>Bedside ultrasound guidance is recommended to identify an appropriate location for the procedure.<xref ref-type="bibr" rid="article-26607.r14">[14]</xref> Ultrasound can confirm the presence of&#x000a0;fluid (see <bold>Image.</bold> Ultrasound for Paracentesis Uses. Fig 1) and identify an area with sufficient fluid for aspiration, thereby&#x000a0;decreasing the incidence of unsuccessful aspiration and complications. Ultrasound increases the success rate of paracentesis and helps prevent an unnecessary invasive procedure in some patients.<xref ref-type="bibr" rid="article-26607.r15">[15]</xref>&#x000a0;The procedure can be performed either after marking the insertion site or in real-time by advancing the needle under direct ultrasound guidance (see&#x000a0;<bold>Image.</bold>&#x000a0;Ultrasound for Paracentesis Uses. Fig 2).&#x000a0;Performing an ultrasound also helps the provider avoid small bowel adhesions or a distended urinary bladder below the entry point. Avoiding areas of prominent veins (caput medusae), scar tissue, and infected skin is critical to minimize complications.</p>
+      </sec>
+      <sec id="article-26607.s8" sec-type="Technique or Treatment">
+        <title>Technique or Treatment</title>
+        <p>Historically, paracentesis under ultrasonographic guidance has been used for hospital palliative care.&#x000a0;However, some patients may have difficulty reaching the hospital. Home-based palliative paracentesis (HBPP) is a safe, effective, and convenient option for such patients. This was reported by Ota et al. in a case series of patients with ascites.<xref ref-type="bibr" rid="article-26607.r16">[16]</xref>&#x000a0;Home-based abdominal paracentesis in refractory congestive heart failure (CHF) cases is a better alternative to periodic percutaneous paracentesis. A study by Kunin et al demonstrated that it improved symptoms in patients on peritoneal dialysis without needing peritoneal exchanges for fluid.<xref ref-type="bibr" rid="article-26607.r17">[17]</xref></p>
+        <p>Before beginning the procedure, ensure the patient's urinary bladder is empty. Prepare and drape the patient in a sterile fashion. Cleanse the skin with an antiseptic solution. Administer local anesthesia to the skin and soft tissue (down to the peritoneum) at the planned needle or catheter insertion site. Use a 25-gauge needle and the 5 ml syringe to raise a small skin wheal with lidocaine around the skin entry site. Insert the needle or IV catheter attached to a syringe&#x000a0;or the prepackaged catheter directly perpendicular to the skin or use the z-track method, which is thought to decrease the chance of fluid leakage after the procedure. This method entails puncturing and pulling the skin caudally before advancing the needle through the soft tissue and peritoneum. If using a catheter kit, making a small nick in the skin using an 11-blade scalpel is recommended to advance the catheter through the skin and soft tissue smoothly.</p>
+        <p>Apply&#x000a0;negative pressure to the syringe during needle or catheter insertion until a loss of resistance is felt and a steady flow of ascitic fluid is&#x000a0;obtained. This&#x000a0;is paramount to detect unwanted entry into a vessel or other structure rapidly. Advance the catheter over the needle into the peritoneal cavity. After collecting sufficient fluid in the syringe for fluid analysis, either remove the needle if performing a diagnostic tap or connect the collecting tubing to it or the catheter's stopcock to drain larger volumes of fluid into a vacuum container, plastic canister, or drainage bag. After draining the desired amount of fluid,&#x000a0;remove the catheter and hold pressure to stop bleeding from the insertion site.<xref ref-type="bibr" rid="article-26607.r8">[8]</xref><xref ref-type="bibr" rid="article-26607.r12">[12]</xref></p>
+        <p>Kelil et al. reported that wall suction and plastic canisters for drainage and collection of fluid during therapeutic paracentesis were safe alternatives to evacuated glass bottles. They also reduced per-procedure costs.<xref ref-type="bibr" rid="article-26607.r18">[18]</xref></p>
+        <p>
+<bold>Peritoneal Fluid Analysis</bold>
+</p>
+        <p>Send ascitic fluid for laboratory testing, including cell count with differential, Gram stain, and fluid culture. Placing some&#x000a0;fluid into bacterial culture bottles can help to increase culture sensitivity.<xref ref-type="bibr" rid="article-26607.r2">[2]</xref> Spontaneous bacterial peritonitis&#x000a0;is diagnosed when the absolute neutrophil count (PMN) is 250 cells/mm<sup>3</sup> or more.<xref ref-type="bibr" rid="article-26607.r2">[2]</xref><xref ref-type="bibr" rid="article-26607.r12">[12]</xref> This is calculated by multiplying the number of white cells by the percentage of neutrophils reported in the differential. Empiric antibiotics, typically a third-generation cephalosporin or a fluoroquinolone, should be started in patients with ascites and a high suspicion for spontaneous bacterial peritonitis&#x000a0;regardless of the&#x000a0;absolute neutrophil count&#x000a0;or in patients with an&#x000a0;absolute neutrophil count&#x000a0;above the cut-off range.</p>
+        <p>Additional tests that can aid in inpatient management include albumin, total protein, lactate dehydrogenase (LDH), glucose, cytology, and tumor markers. Albumin, in particular, can&#x000a0;be used to&#x000a0;calculate SAAG, which can assist in determining the etiology of ascites by classifying it as either exudative or transudative. SAAG helps identify the presence of portal hypertension.&#x000a0;It is calculated by subtracting the ascitic fluid albumin from the serum albumin obtained on the same day. SAAG greater than 1.1 indicates a high probability of portal hypertension. SAAG less than 1.1 rules out portal hypertension.<xref ref-type="bibr" rid="article-26607.r2">[2]</xref><xref ref-type="bibr" rid="article-26607.r19">[19]</xref></p>
+      </sec>
+      <sec id="article-26607.s9" sec-type="Complications">
+        <title>Complications</title>
+        <p>Paracentesis is a safe procedure; however&#x000a0;possible complications include the following:<xref ref-type="bibr" rid="article-26607.r20">[20]</xref></p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Persistent leakage of ascitic fluid at the needle insertion site. This can often be addressed with a single skin suture.</p>
+          </list-item>
+          <list-item>
+            <p>Abdominal wall hematoma or bleeding</p>
+          </list-item>
+          <list-item>
+            <p>Wound infection</p>
+          </list-item>
+          <list-item>
+            <p>Perforation of surrounding vessels or viscera (extremely&#x000a0;rare)</p>
+          </list-item>
+          <list-item>
+            <p>Hypotension after large volume fluid removal (more than 5 L to 6 L). Albumin is often administered after removing more than 5 L of fluid to prevent this complication.<xref ref-type="bibr" rid="article-26607.r12">[12]</xref><xref ref-type="bibr" rid="article-26607.r21">[21]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Spontaneous hemoperitoneum</p>
+          </list-item>
+          <list-item>
+            <p>Catheter laceration and loss in the abdominal cavity</p>
+          </list-item>
+          <list-item>
+            <p>Hepatorenal syndrome<xref ref-type="bibr" rid="article-26607.r22">[22]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Subcutaneous effusion due to ascitic fluid leakage<xref ref-type="bibr" rid="article-26607.r23">[23]</xref></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-26607.s10" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>The development of fluid in the peritoneal space, known as ascites, can occur due to many different disease states. Performing a paracentesis will help determine the etiology of a patient's ascites. Draining the peritoneal fluid may help identify infection, causes of liver disease, or portal hypertension and relieve symptoms by removing a large volume of fluid. Using bedside ultrasound to identify an ideal pocket of fluid will increase the likelihood of a successful procedure.</p>
+        <p>According to a retrospective study of 97 patients, early paracentesis can decrease mortality rates in cases of SBP.<xref ref-type="bibr" rid="article-26607.r24">[24]</xref> The study showed that emergency physicians often ordered early paracentesis.</p>
+      </sec>
+      <sec id="article-26607.s11" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Paracentesis is a relatively simple procedure performed at the bedside with or without ultrasound guidance to remove ascitic fluid from a patient's abdomen. The procedure is often performed by the internist, emergency department physician, radiologist, general surgeon, or intensivist. The procedure is either&#x000a0;performed for diagnostic or therapeutic reasons. When performed as a diagnostic tool, it can help to identify certain conditions the patient may have. When&#x000a0;performed for therapeutic reasons, it can quickly relieve symptoms. Unfortunately, ascites often recur and require multiple paracenteses, significantly impacting a person's quality of life.</p>
+        <p>Patients need close monitoring by nursing during and after the procedure, as&#x000a0;it&#x000a0;can be associated with hypotension, tachycardia,&#x000a0;hemorrhage, fluid leakage, infection, and bowel perforation.<xref ref-type="bibr" rid="article-26607.r25">[25]</xref><xref ref-type="bibr" rid="article-26607.r26">[26]</xref>&#x000a0;They can then communicate any untoward signs or symptoms to the physician so appropriate action can be taken. A pharmacist can ensure that all medications used during the procedure are accurately dosed.&#x000a0;Close communication between the interprofessional team is vital to ensure good outcomes.&#x000a0;</p>
+      </sec>
+      <sec id="article-26607.s12">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=26607&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=26607">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/26607/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=26607">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <floats-group id="article-26607.s13">
+        <fig id="article-26607.image.f1" position="float" orientation="portrait">
+          <caption>
+            <p>Ultrasound for Paracentesis Uses Contributed by Maria O'Rourke, MyPhuong Mitarai</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="IMG_1952" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <ref-list id="article-26607.s14">
+        <title>References</title>
+        <ref id="article-26607.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ong</surname>
+                <given-names>JP</given-names>
+              </name>
+            </person-group>
+            <article-title>Paracentesis.</article-title>
+            <source>Am J Gastroenterol</source>
+            <year>2006</year>
+            <month>Sep</month>
+            <volume>101</volume>
+            <issue>9</issue>
+            <fpage>1954</fpage>
+            <page-range>1954-5</page-range>
+            <pub-id pub-id-type="pmid">16968501</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26607.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Runyon</surname>
+                <given-names>BA</given-names>
+              </name>
+              <collab>AASLD Practice Guidelines Committee</collab>
+            </person-group>
+            <article-title>Management of adult patients with ascites due to cirrhosis: an update.</article-title>
+            <source>Hepatology</source>
+            <year>2009</year>
+            <month>Jun</month>
+            <volume>49</volume>
+            <issue>6</issue>
+            <fpage>2087</fpage>
+            <page-range>2087-107</page-range>
+            <pub-id pub-id-type="pmid">19475696</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26607.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Aithal</surname>
+                <given-names>GP</given-names>
+              </name>
+              <name>
+                <surname>Palaniyappan</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>China</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>H&#x000e4;rm&#x000e4;l&#x000e4;</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Macken</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Ryan</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Wilkes</surname>
+                <given-names>EA</given-names>
+              </name>
+              <name>
+                <surname>Moore</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Leithead</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Hayes</surname>
+                <given-names>PC</given-names>
+              </name>
+              <name>
+                <surname>O'Brien</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Verma</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Guidelines on the management of ascites in cirrhosis.</article-title>
+            <source>Gut</source>
+            <year>2021</year>
+            <month>Jan</month>
+            <volume>70</volume>
+            <issue>1</issue>
+            <fpage>9</fpage>
+            <page-range>9-29</page-range>
+            <pub-id pub-id-type="pmid">33067334</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26607.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Fleming</surname>
+                <given-names>KM</given-names>
+              </name>
+              <name>
+                <surname>Aithal</surname>
+                <given-names>GP</given-names>
+              </name>
+              <name>
+                <surname>Card</surname>
+                <given-names>TR</given-names>
+              </name>
+              <name>
+                <surname>West</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>The rate of decompensation and clinical progression of disease in people with cirrhosis: a cohort study.</article-title>
+            <source>Aliment Pharmacol Ther</source>
+            <year>2010</year>
+            <month>Dec</month>
+            <volume>32</volume>
+            <issue>11-12</issue>
+            <fpage>1343</fpage>
+            <page-range>1343-50</page-range>
+            <pub-id pub-id-type="pmid">21050236</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26607.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lichoska-Josifovikj</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Grivceva-Stardelova</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Todorovska</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Andreevski</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Nikolov</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Adem</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>THE VALUE OF SERUM-ASCITES ALBUMIN GRADIENT AS A PREDICTOR OF SPONTANEOUS BACTERIAL PERITONITIS IN PATIENTS WITH LIVER CIRRHOSIS AND ASCITES.</article-title>
+            <source>Georgian Med News</source>
+            <year>2022</year>
+            <month>Sep</month>
+            <issue>330</issue>
+            <fpage>23</fpage>
+            <page-range>23-25</page-range>
+            <pub-id pub-id-type="pmid">36427835</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26607.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Angeleri</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Rocher</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Caracciolo</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Pandolfo</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Palaoro</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Perazzi</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>New Biochemical Parameters in the Differential Diagnosis of Ascitic Fluids.</article-title>
+            <source>Gastroenterology Res</source>
+            <year>2016</year>
+            <month>Feb</month>
+            <volume>9</volume>
+            <issue>1</issue>
+            <fpage>17</fpage>
+            <page-range>17-21</page-range>
+            <pub-id pub-id-type="pmid">27785319</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26607.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sakai</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Sheer</surname>
+                <given-names>TA</given-names>
+              </name>
+              <name>
+                <surname>Mendler</surname>
+                <given-names>MH</given-names>
+              </name>
+              <name>
+                <surname>Runyon</surname>
+                <given-names>BA</given-names>
+              </name>
+            </person-group>
+            <article-title>Choosing the location for non-image guided abdominal paracentesis.</article-title>
+            <source>Liver Int</source>
+            <year>2005</year>
+            <month>Oct</month>
+            <volume>25</volume>
+            <issue>5</issue>
+            <fpage>984</fpage>
+            <page-range>984-6</page-range>
+            <pub-id pub-id-type="pmid">16162157</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26607.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Thomsen</surname>
+                <given-names>TW</given-names>
+              </name>
+              <name>
+                <surname>Shaffer</surname>
+                <given-names>RW</given-names>
+              </name>
+              <name>
+                <surname>White</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Setnik</surname>
+                <given-names>GS</given-names>
+              </name>
+            </person-group>
+            <article-title>Videos in clinical medicine. Paracentesis.</article-title>
+            <source>N Engl J Med</source>
+            <year>2006</year>
+            <month>Nov</month>
+            <day>09</day>
+            <volume>355</volume>
+            <issue>19</issue>
+            <fpage>e21</fpage>
+            <pub-id pub-id-type="pmid">17093242</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26607.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bureau</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Adebayo</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Chalret de Rieu</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Elkrief</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Valla</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Peck-Radosavljevic</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>McCune</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Vargas</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Simon-Talero</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Cordoba</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Angeli</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Rosi</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>MacDonald</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Malago</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Stepanova</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Younossi</surname>
+                <given-names>ZM</given-names>
+              </name>
+              <name>
+                <surname>Trepte</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Watson</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Borisenko</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Sun</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Inhaber</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Jalan</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Alfapump&#x000ae; system vs. large volume paracentesis for refractory ascites: A multicenter randomized controlled study.</article-title>
+            <source>J Hepatol</source>
+            <year>2017</year>
+            <month>Nov</month>
+            <volume>67</volume>
+            <issue>5</issue>
+            <fpage>940</fpage>
+            <page-range>940-949</page-range>
+            <pub-id pub-id-type="pmid">28645737</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26607.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Allen</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Sarani</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Evaluation and management of intraabdominal hypertension.</article-title>
+            <source>Curr Opin Crit Care</source>
+            <year>2020</year>
+            <month>Apr</month>
+            <volume>26</volume>
+            <issue>2</issue>
+            <fpage>192</fpage>
+            <page-range>192-196</page-range>
+            <pub-id pub-id-type="pmid">32004192</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26607.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wittmer</surname>
+                <given-names>VL</given-names>
+              </name>
+              <name>
+                <surname>Lima</surname>
+                <given-names>RT</given-names>
+              </name>
+              <name>
+                <surname>Maia</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Duarte</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Paro</surname>
+                <given-names>FM</given-names>
+              </name>
+            </person-group>
+            <article-title>RESPIRATORY AND SYMPTOMATIC IMPACT OF ASCITES RELIEF BY PARACENTESIS IN PATIENTS WITH HEPATIC CIRRHOSIS.</article-title>
+            <source>Arq Gastroenterol</source>
+            <year>2020</year>
+            <season>Jan-Mar</season>
+            <volume>57</volume>
+            <issue>1</issue>
+            <fpage>64</fpage>
+            <page-range>64-68</page-range>
+            <pub-id pub-id-type="pmid">32294737</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26607.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>McGibbon</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>GI</given-names>
+              </name>
+              <name>
+                <surname>Peltekian</surname>
+                <given-names>KM</given-names>
+              </name>
+              <name>
+                <surname>van Zanten</surname>
+                <given-names>SV</given-names>
+              </name>
+            </person-group>
+            <article-title>An evidence-based manual for abdominal paracentesis.</article-title>
+            <source>Dig Dis Sci</source>
+            <year>2007</year>
+            <month>Dec</month>
+            <volume>52</volume>
+            <issue>12</issue>
+            <fpage>3307</fpage>
+            <page-range>3307-15</page-range>
+            <pub-id pub-id-type="pmid">17393312</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26607.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>McVay</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Toy</surname>
+                <given-names>PT</given-names>
+              </name>
+            </person-group>
+            <article-title>Lack of increased bleeding after paracentesis and thoracentesis in patients with mild coagulation abnormalities.</article-title>
+            <source>Transfusion</source>
+            <year>1991</year>
+            <month>Feb</month>
+            <volume>31</volume>
+            <issue>2</issue>
+            <fpage>164</fpage>
+            <page-range>164-71</page-range>
+            <pub-id pub-id-type="pmid">1996485</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26607.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Millington</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Koenig</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Better With Ultrasound: Paracentesis.</article-title>
+            <source>Chest</source>
+            <year>2018</year>
+            <month>Jul</month>
+            <volume>154</volume>
+            <issue>1</issue>
+            <fpage>177</fpage>
+            <page-range>177-184</page-range>
+            <pub-id pub-id-type="pmid">29630894</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26607.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Nazeer</surname>
+                <given-names>SR</given-names>
+              </name>
+              <name>
+                <surname>Dewbre</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Miller</surname>
+                <given-names>AH</given-names>
+              </name>
+            </person-group>
+            <article-title>Ultrasound-assisted paracentesis performed by emergency physicians vs the traditional technique: a prospective, randomized study.</article-title>
+            <source>Am J Emerg Med</source>
+            <year>2005</year>
+            <month>May</month>
+            <volume>23</volume>
+            <issue>3</issue>
+            <fpage>363</fpage>
+            <page-range>363-7</page-range>
+            <pub-id pub-id-type="pmid">15915415</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26607.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ota</surname>
+                <given-names>KS</given-names>
+              </name>
+              <name>
+                <surname>Schultz</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Segaline</surname>
+                <given-names>NA</given-names>
+              </name>
+            </person-group>
+            <article-title>Palliative Paracentesis in the Home Setting: A Case Series.</article-title>
+            <source>Am J Hosp Palliat Care</source>
+            <year>2021</year>
+            <month>Aug</month>
+            <volume>38</volume>
+            <issue>8</issue>
+            <fpage>1042</fpage>
+            <page-range>1042-1045</page-range>
+            <pub-id pub-id-type="pmid">32996326</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26607.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kunin</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Mini</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Abu-Amer</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Beckerman</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Regular at-home abdominal paracentesis via Tenckhoff catheter in patients with refractory congestive heart failure.</article-title>
+            <source>Int J Clin Pract</source>
+            <year>2021</year>
+            <month>Dec</month>
+            <volume>75</volume>
+            <issue>12</issue>
+            <fpage>e14924</fpage>
+            <pub-id pub-id-type="pmid">34581465</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26607.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kelil</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Shyn</surname>
+                <given-names>PB</given-names>
+              </name>
+              <name>
+                <surname>Wu</surname>
+                <given-names>LE</given-names>
+              </name>
+              <name>
+                <surname>Levesque</surname>
+                <given-names>VM</given-names>
+              </name>
+              <name>
+                <surname>Kacher</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Khorasani</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Silverman</surname>
+                <given-names>SG</given-names>
+              </name>
+            </person-group>
+            <article-title>Wall suction-assisted image-guided therapeutic paracentesis: a safe and less expensive alternative to evacuated bottles.</article-title>
+            <source>Abdom Radiol (NY)</source>
+            <year>2016</year>
+            <month>Jul</month>
+            <volume>41</volume>
+            <issue>7</issue>
+            <fpage>1333</fpage>
+            <page-range>1333-7</page-range>
+            <pub-id pub-id-type="pmid">27315094</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26607.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bunchorntavakul</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Chamroonkul</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Chavalitdhamrong</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Bacterial infections in cirrhosis: A critical review and practical guidance.</article-title>
+            <source>World J Hepatol</source>
+            <year>2016</year>
+            <month>Feb</month>
+            <day>28</day>
+            <volume>8</volume>
+            <issue>6</issue>
+            <fpage>307</fpage>
+            <page-range>307-21</page-range>
+            <pub-id pub-id-type="pmid">26962397</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26607.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Runyon</surname>
+                <given-names>BA</given-names>
+              </name>
+            </person-group>
+            <article-title>Paracentesis of ascitic fluid. A safe procedure.</article-title>
+            <source>Arch Intern Med</source>
+            <year>1986</year>
+            <month>Nov</month>
+            <volume>146</volume>
+            <issue>11</issue>
+            <fpage>2259</fpage>
+            <page-range>2259-61</page-range>
+            <pub-id pub-id-type="pmid">2946271</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26607.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>De Gottardi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Th&#x000e9;venot</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Spahr</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Morard</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Bresson-Hadni</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Torres</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Giostra</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Hadengue</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Risk of complications after abdominal paracentesis in cirrhotic patients: a prospective study.</article-title>
+            <source>Clin Gastroenterol Hepatol</source>
+            <year>2009</year>
+            <month>Aug</month>
+            <volume>7</volume>
+            <issue>8</issue>
+            <fpage>906</fpage>
+            <page-range>906-9</page-range>
+            <pub-id pub-id-type="pmid">19447197</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26607.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Duggal</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Farah</surname>
+                <given-names>KF</given-names>
+              </name>
+              <name>
+                <surname>Anghel</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Marcus</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Lupetin</surname>
+                <given-names>AR</given-names>
+              </name>
+              <name>
+                <surname>Babich</surname>
+                <given-names>MM</given-names>
+              </name>
+              <name>
+                <surname>Sandroni</surname>
+                <given-names>SE</given-names>
+              </name>
+              <name>
+                <surname>McGill</surname>
+                <given-names>RL</given-names>
+              </name>
+            </person-group>
+            <article-title>Safety of paracentesis in inpatients.</article-title>
+            <source>Clin Nephrol</source>
+            <year>2006</year>
+            <month>Sep</month>
+            <volume>66</volume>
+            <issue>3</issue>
+            <fpage>171</fpage>
+            <page-range>171-6</page-range>
+            <pub-id pub-id-type="pmid">16995339</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26607.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Otsuka</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Nagaoka</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Nakano</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Sakae</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Hasegawa</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Otsuka</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>Subcutaneous edema as rare complication of abdominal paracentesis.</article-title>
+            <source>Clin Case Rep</source>
+            <year>2021</year>
+            <month>Nov</month>
+            <volume>9</volume>
+            <issue>11</issue>
+            <fpage>e05116</fpage>
+            <pub-id pub-id-type="pmid">34824856</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26607.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Abdu</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Akolkar</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Picking</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Boura</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Piper</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Factors Associated with Delayed Paracentesis in Patients with Spontaneous Bacterial Peritonitis.</article-title>
+            <source>Dig Dis Sci</source>
+            <year>2021</year>
+            <month>Nov</month>
+            <volume>66</volume>
+            <issue>11</issue>
+            <fpage>4035</fpage>
+            <page-range>4035-4045</page-range>
+            <pub-id pub-id-type="pmid">33274417</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26607.r25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ning</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Yang</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Luo</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>Pseudomyxoma peritonei induced by low-grade appendiceal mucinous neoplasm accompanied by rectal cancer: a case report and literature review.</article-title>
+            <source>BMC Surg</source>
+            <year>2019</year>
+            <month>Apr</month>
+            <day>25</day>
+            <volume>19</volume>
+            <issue>1</issue>
+            <fpage>42</fpage>
+            <pub-id pub-id-type="pmid">31023277</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26607.r26">
+          <label>26</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jun Jie</surname>
+                <given-names>NG</given-names>
+              </name>
+              <name>
+                <surname>Teo</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Shabbir</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Yeo</surname>
+                <given-names>TT</given-names>
+              </name>
+            </person-group>
+            <article-title>Widespread Intra-abdominal Carcinomatosis from a Rhabdoid Meningioma after Placement of a Ventriculoperitoneal Shunt: A Case Report and Review of the Literature.</article-title>
+            <source>Asian J Neurosurg</source>
+            <year>2018</year>
+            <season>Jan-Mar</season>
+            <volume>13</volume>
+            <issue>1</issue>
+            <fpage>176</fpage>
+            <page-range>176-183</page-range>
+            <pub-id pub-id-type="pmid">29492156</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,1345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-31088" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Ventricular Premature Complexes</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Sattar</surname>
+            <given-names>Yasar</given-names>
+          </name>
+          <aff>Icahn School of Medicine at Mount Sinai</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Hashmi</surname>
+            <given-names>Muhammad F.</given-names>
+          </name>
+          <aff>National Health Service</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Yasar Sattar declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Muhammad Hashmi declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>3</day>
+          <month>4</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-31088.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Ventricular premature complexes (VPCs), or premature ventricular complexes/contractions (PVCs), are ectopic beats that arise from within the ventricles. They are common and can occur in a wide variety of clinical scenarios and also in a diverse population. They can present in patients both with and without preexisting cardiac disease. This activity reviews the pathophysiology of PVCs and highlights the role of the interprofessional team in the management.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Identify the etiology of ventricular premature complexes.</p></list-item><list-item><p>Outline the appropriate evaluation of ventricular premature complexes.</p></list-item><list-item><p>Review the management options available for the ventricular premature complexes.</p></list-item><list-item><p>Summarize interprofessional team strategies for improving care coordination and communication to manage ventricular premature complexes and improve outcomes.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=31088&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=31088">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-31088.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Ventricular premature complexes (VPCs), or premature ventricular complexes/contractions (PVCs), are ectopic beats that arise from within the ventricles. They are common and can occur in a wide variety of clinical scenarios and a diverse population. They can present in patients both with and without preexisting cardiac disease.<xref ref-type="bibr" rid="article-31088.r1">[1]</xref> Reports show that frequent VPCs can cause progressive left ventricular (LV) dysfunction and dilation, which may return to normal after successful catheter ablation of the VPCs.<xref ref-type="bibr" rid="article-31088.r2">[2]</xref><xref ref-type="bibr" rid="article-31088.r3">[3]</xref></p>
+        <p>The morphology of VPCs is highly variable, and it depends upon its place of origin, underlying structural disease, or the use of antiarrhythmic drugs. The VPCs usually originate from the ventricle that leads to a prolonged QRS complex duration greater than 120 ms because of the delay in the spread of activation to the contralateral ventricle through non-specialized myocardium. However, in certain instances, a QRS complex of duration less than 120 ms can occur, leading to activation of both ventricles "synchronously" because of electrical stimulus from one of the fascicles through a specific conduction system.<xref ref-type="bibr" rid="article-31088.r4">[4]</xref></p>
+        <p>Premature ventricular contractions classify according to coupling interval (early and delayed), QRS duration (wide and narrow), morphology, and complexity. The 12-lead EKG helps to identify the precise location of the origin of VPCs only by the morphology of ectopic beats. Those VPCs that originates in the left ventricle are usually associated with a right bundle branch block (RBBB), and VPCs that arise in the right ventricle show a left bundle branch block (LBBB) pattern.</p>
+      </sec>
+      <sec id="article-31088.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p>A patient presenting with ventricular premature complexes usually complains of palpitations. A thorough history and examination can help identify the etiological cause of VPCs. Several risk factors or potential causes can lead to frequent VPCs. Benignly occurring ventricular premature complexes are usually due to excessive adrenergic stimulation. Other factors include various medications, electrolyte abnormalities, hypoxia, etc. The following describes several specific etiological causes:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Illicit drug abuse (alcohol, amphetamines, cocaine, etc.)</p>
+          </list-item>
+          <list-item>
+            <p>Various medications like digoxin, tricyclic antidepressants, sympathomimetics, aminophylline, caffeine, etc.</p>
+          </list-item>
+          <list-item>
+            <p>Electrolyte imbalance including hypokalemia, hypomagnesemia, or hypercalcemia</p>
+          </list-item>
+          <list-item>
+            <p>Hypoxia</p>
+          </list-item>
+          <list-item>
+            <p>Hypercapnia</p>
+          </list-item>
+          <list-item>
+            <p>Acute myocardial infarction</p>
+          </list-item>
+          <list-item>
+            <p>Cardiomyopathies mainly hypertrophic and dilated cardiomyopathy</p>
+          </list-item>
+          <list-item>
+            <p>Myocarditis</p>
+          </list-item>
+          <list-item>
+            <p>Myocardial contusion</p>
+          </list-item>
+          <list-item>
+            <p>Mitral valve prolapse</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-31088.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p>Researchers conducted a study in a healthy military population with a recording of 12-lead EKG that showed almost 0.8% of subjects with ventricular premature complexes with a 0.5% prevalence in the population under the age of 20 years and in those over the age of 50 years it was found to be 2.2%.<xref ref-type="bibr" rid="article-31088.r5">[5]</xref>&#x000a0;According to the Framingham Heart Study, the prevalence of VPCs was found to be higher in one hour continuous EKG monitoring with 33% being the men and 32% women with no history of any coronary artery disease. Those patients with coronary artery disease, the prevalence was comparatively higher, with 58% in men and women 49%.<xref ref-type="bibr" rid="article-31088.r6">[6]</xref>&#x000a0;The variability in the reported data differs due to the different monitoring techniques and duration used to calculate VPCs prevalence. Several factors are involved in this diversity, including coronary heart disease, African-American ethnicity, male gender, older age, hypertension, faster sinus rates, lower serum potassium or magnesium levels, and lower education level.<xref ref-type="bibr" rid="article-31088.r7">[7]</xref></p>
+      </sec>
+      <sec id="article-31088.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>The pathophysiological mechanisms for ventricular premature complexes include enhanced automaticity, re-entry, and triggered activity. The enhanced automaticity characteristically results from an ectopic ventricular focus that fires spontaneously. A variety of stimuli, including myocardial ischemia, electrolyte imbalance, and heightened adrenergic state, can cause enhanced automaticity. An impulse can trigger the premature ventricular ectopics during the early-depolarization phase due to exceeding the cell membrane activation threshold. The VPCs associated with bradycardia is often caused by this mechanism, along with other factors like electrolyte abnormalities, ischemia, and digoxin toxicity. The re-entry mechanism leading to VPCs occurs typically in the areas of scarring or ischemia.</p>
+      </sec>
+      <sec id="article-31088.s6" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>Most often,&#x000a0;ventricular premature complexes are asymptomatic. However, some patients will report fatigue,&#x000a0;palpitations, lightheadedness, or dizziness. In patients with pre-existing heart disease, frequent VPCs can cause dyspnea,&#x000a0;angina, and palpitations. Patients may often report a sense of abnormal neck pulsation with palpitations when they experience VPCs. VPCs rarely may cause hemodynamic compromise leading to presyncope or syncope, mainly if they occur in sustained or frequent runs. In asymptomatic individuals, VPCs&#x000a0;may be initially identified on a routine physical exam by an irregular rhythm consisting of a premature beat followed by a compensatory pause with subsequent return of regular rhythm, or cardiac auscultation revealing a sharp first heart sound or splitting of S2 or on a routine office electrocardiogram.</p>
+        <p>In some cases, VPC is the first manifestation of underlying structural heart disease. For this reason, in all patients with VPCs, one must perform a detailed clinical history of 12-lead EKG and chest X-ray. The indication for further evaluation by Holter-monitoring, stress test, or echocardiogram, depends on whether VPCs persist after the initial assessment of suspected structural heart disease or the onset of complex forms of ventricular arrhythmias.</p>
+        <p>For over 20 years, the accepted view is that the presence of VPCs in the absence of structural heart disease presents a favorable, benign prognosis, even when they arise frequently. Therefore treatment strategies of VPCs are planned according to the frequency of occurrence and symptoms. In some of the cases, very frequent VPCs can produce cardiomyopathy, being an indication for treatment, even in the absence of symptoms. However, the clinical importance of frequent VPCs in patients without any left ventricular dysfunction is still unclear.</p>
+      </sec>
+      <sec id="article-31088.s7" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>The initial workup should start with a resting EKG. The ventricular premature complex is defined electrocardiographically as a premature QRS complex that has an abnormal morphology and duration greater than 120 milliseconds. A large T-wave classically follows it with discordant deflection (opposite polarity) from the QRS complex. There are typically no preceding P waves; however, often, the impulse generated from the VPC can be propagated in a retrograde fashion to the atria and can cause a classic compensatory pause following the VPC. This pause is due to the atrioventricular (AV) nodal blockade due to depolarization from the retrograde impulse and subsequent refractory period of the AV node. Though the sinus node fires at the appropriate time, its impulse is not propagated, as the AV node has been rendered refractory, thus causing an R-R interval that is precisely double the intrinsic R-R interval.</p>
+        <p>Usually, a VPC is followed by a full compensatory pause&#x000a0;because the sinus node timing is not interrupted; one sinus P-wave&#x000a0;is not able to reach the ventricles because they are still refractory from the VPC; the following sinus impulse thus occurs on time based on the sinus rate. In contrast, premature atrial contractions (PACs) are usually&#x000a0;associated with an incomplete pause because the PAC usually enters the&#x000a0;SA node and resets its timing, which enables the following sinus impulse to appear earlier than expected.&#x000a0;Not all VPCs, however, get followed by a pause. If a VPC occurs early enough, especially with prolonged heart rates, it may appear sandwiched between the two normal heartbeats. This phenomenon is called an 'interpolated VPC.'&#x000a0;The sinus impulse following the VPC is conducted with a longer PR interval because of the retrograde concealed conduction by the premature ventricular impulse&#x000a0;into the AV-node junction, slowing the subsequent conduction of the sinus impulse.</p>
+        <p>The morphology of the QRS complex can be a means to determine the origin of the ventricular premature complex. Left and right ventricular outflow tracts are the most common sites of origin of VPCs and account for approximately two-thirds of all VPCs.&#x000a0;The electrocardiographic morphology can similarly determine the ectopic origin of the source of ventricular tachycardia. VPCs with the morphology of a typical left bundle branch block (LBBB) and an inferior axis&#x000a0;originating from the right ventricular outflow tract, while VPCs with the morphology of a standard right bundle branch block (RBBB)&#x000a0;and an inferior axis originate from the left ventricular outflow tract. VPCs can originate from numerous other locations such as the ventricular free wall, ventricular septum, aortic cusp, tricuspid or mitral annuli, pulmonary artery, fascicles, or papillary muscles.&#x000a0;Individuals with multiple abnormal QRS complexes classify as having multifocal VPCs, which are more common than unifocal VPCs. VPCs are also definable by the pattern in which they occur relative to intrinsic beats. Bigeminy indicates a VPC following a single, standard QRS complex, whereas trigeminy indicates a VPC following two normal QRS complexes. Multiple successive VPCs also have a distinct annotation; two VPCs successively is a couplet, three VPCs successively is a triplet, and more than three successive VPCs classify as a run of VPCs or ventricular tachycardia. When there are more than three consecutive VPCs, the term used is non-sustained ventricular tachycardia, and the term sustained VT is when the duration lasts more than 30 seconds. Couplets can be further defined by the interval between the ectopic, ventricular premature complexe, and the subsequent usually conducted beat from the SA node. When the interval between the VPC and a regular beat is stable, it is called fixed coupling. Variable coupling is when these intervals change from beat to beat. VPCs are considered "frequent" if they occur more than 30 times per hour or greater than 20% of total heartbeats.</p>
+        <p>In addition to a resting EKG, the clinician should obtain ambulatory&#x000a0;EKG monitoring for a minimum of 24-hours with a device such as a Holter monitor. If patients are particularly symptomatic, and the initial 24-hour monitoring is unrevealing, an event recorder or loop recorder can provide prolonged monitoring. It is also&#x000a0;reasonable to evaluate for underlying electrolytes abnormality, with specific attention to serum potassium and magnesium levels. Additional laboratory evaluation with urine drug screen, TSH level,&#x000a0;cardiac biomarkers (troponin), and serum digoxin level merit consideration when indicated.&#x000a0;In most patients, especially those who are symptomatic,&#x000a0;evaluation with a transthoracic echocardiogram should be considered to evaluate for underlying structural cardiac abnormalities. Further&#x000a0;evaluation with exercise/chemical stress testing, nuclear myocardial perfusion imaging, coronary angiography, and cardiac magnetic resonance imaging (MRI), should also be considered on a case-by-case basis for each patient.</p>
+      </sec>
+      <sec id="article-31088.s8" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>Patients with ventricular premature&#x000a0;complexes in the setting of underlying structural heart disease should receive guideline-directed medical therapy (GDMT) as indicated in their specific disease process. Treatment is a consideration in patients who are symptomatic with a high burden of ectopic beats or who have frequent episodes of nonsustained ventricular tachycardia. Most notably, VPCs that transform into ventricular fibrillation (usually mediated by the R-on-T phenomenon) should receive immediate defibrillation. If treatment is indicated, beta-blockers are typically first-line therapy. Catecholamine-sensitive or exercise-induced VPCs have an excellent response to the initiation of beta-blocker therapy. VPCs&#x000a0;in the setting of CHF or myocardial infarction should be treated with beta-blockers as first-line therapy, as directed by GDMT.</p>
+        <p>Similarly, non-dihydropyridine calcium channel blockers can be a consideration in patients with a contraindication for beta-blockers. Patients can start antiarrhythmic treatment with class Ic agents (flecainide or propafenone) when their symptoms have not&#x000a0;improved after initiation of beta-blocker or calcium channel blocker therapy.&#x000a0;However, these agents are proarrhythmic, increase mortality, and are contraindicated in patients with pre-existing coronary artery disease. For this specific patient population, amiodarone has proven to be effective in suppressing VPCs; however, due to side effect profile, the administration should generally be reserved under close clinical monitoring for patients with underlying structural heart disease or coronary disease and significant symptomatology.</p>
+        <p>Patients who cannot tolerate the therapy, as mentioned earlier, should be referred to an electrophysiologist for consideration of ablation. VPC ablation is also the recommended intervention in patients who develop VPC-induced cardiomyopathy, especially in those with a significant VPC burden.<xref ref-type="bibr" rid="article-31088.r8">[8]</xref>&#x000a0;The definition of high VPC burden is greater than 10000 ectopic ventricular beats or greater than 10% of&#x000a0;all beats recorded on 24-hour ambulatory monitoring.</p>
+        <p>The accepted thinking is that cardiomyopathy is more likely in patients whose ventricular premature complexes have a very wide QRS complex, the beats arise from the epicardium, or in patients with VPC occurring higher than a quarter of all beats on 24-hour Holter monitor (VPC burden of over 25%). This cardiomyopathy is generally considered to be reversible after ablation; however, some degree of left ventricular systolic dysfunction may rarely persist after the ablation of the ectopic focus.<xref ref-type="bibr" rid="article-31088.r9">[9]</xref> Patients who have already developed cardiomyopathy due to high-frequency VPCs should also have a referral for radiofrequency ablation, as evidenced by a 2014 meta-analysis demonstrating that catheter ablation of VPCs originating from the RVOT significantly reduced ventricular ectopy burden and improved left ventricular ejection fraction. Ablation may also be indicated in patients with frequent VPCs that interfere with cardiac resynchronization therapy.<xref ref-type="bibr" rid="article-31088.r10">[10]</xref></p>
+        <p>Several cardiology societies have provided guidelines on the utilization of ablations for patients with VPCs. The 2019 AHA/ACC/HRS Guideline for Management of Patients with Ventricular Arrhythmia and the Prevention of Sudden Cardiac Death recommends that catheter ablation may be useful for patients with reduced left ventricular ejection fraction suspected to have been caused by frequent VPCs (defined as more than 15 percent of all beats) who failed to respond or could not tolerate antiarrhythmic medications.<xref ref-type="bibr" rid="article-31088.r11">[11]</xref> The 2015 European Society of Cardiology Guidelines recommends considering ablation therapy for patients with reduced left ventricular ejection fraction and frequent symptomatic VPCs or nonsustained ventricular tachycardia.<xref ref-type="bibr" rid="article-31088.r12">[12]</xref> Additionally, the European Heart Rhythm Association/Heart Failure Association recommends that patients with heart failure with reduced ejection fraction and a high burden of VPCs, defined as greater than 10000 VPCs/24 hours, should be aggressively treated with catheter ablation if they have failed, declined, or are intolerant to antiarrhythmic therapy (especially if there is a single dominant VPC morphology).<xref ref-type="bibr" rid="article-31088.r13">[13]</xref></p>
+      </sec>
+      <sec id="article-31088.s9" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <p>Differentiating VPCs from other arrhythmias can be challenging, because several arrhythmias may mimic VPCs, as listed below;</p>
+        <list list-type="order">
+          <list-item>
+            <p>Aberrant premature atrial contractions</p>
+          </list-item>
+          <list-item>
+            <p>Fusion beats</p>
+          </list-item>
+          <list-item>
+            <p>Premature junctional contractions</p>
+          </list-item>
+          <list-item>
+            <p>Idioventricular escape rhythms</p>
+          </list-item>
+          <list-item>
+            <p>Sustained and non-sustained ventricular tachycardia</p>
+          </list-item>
+          <list-item>
+            <p>Bigeminy, trigeminy, or quadrigeminy&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Supraventricular tachycardia</p>
+          </list-item>
+          <list-item>
+            <p>Atrial fibrillation</p>
+          </list-item>
+          <list-item>
+            <p>Sinus arrhythmia</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-31088.s10" sec-type="Prognosis">
+        <title>Prognosis</title>
+        <p>In almost all heart diseases, due to the high incidence and complexity, VPCs can be the major cause of mortality in coronary artery disease and dilated cardiomyopathy. According to the MRIFT and Framingham Heart Study, frequent occurrence of VPCs correlates with an increased risk of sudden cardiac death.<xref ref-type="bibr" rid="article-31088.r14">[14]</xref><xref ref-type="bibr" rid="article-31088.r15">[15]</xref>&#x000a0;As these studies lack the diligent measures taken to investigate underlying heart disease, they are under great criticism because they can halve the death outcome.&#x000a0;</p>
+        <p>The benign premature ventricular contractions that occur occasionally do not interfere with the average lifespan, but their frequent occurrence implies an ominous prognosis. The patients post-MI with frequent VPCs are prone to sudden cardiac death. However, patients treated either with medication or catheter ablation therapy can improve and recover from the LV dysfunction.<xref ref-type="bibr" rid="article-31088.r3">[3]</xref></p>
+        <p>The characteristics of VPCs that confer poor prognosis include:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>An "arrhythmic burden" with VPCs more than 500 in 24 hours on Holter monitoring</p>
+          </list-item>
+          <list-item>
+            <p>VPCs morphologies with LBBB or RBBB</p>
+          </list-item>
+          <list-item>
+            <p>VPCs with intermediate or superior axis and wide QRS complexes</p>
+          </list-item>
+          <list-item>
+            <p>Short-coupled VPCs</p>
+          </list-item>
+          <list-item>
+            <p>VPCs superimposed on preceding T-waves</p>
+          </list-item>
+          <list-item>
+            <p>VPCs induced by adrenergic stimulation</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-31088.s11" sec-type="Complications">
+        <title>Complications</title>
+        <p>Frequent VPCs are often associated with complications if remained unattended, which include;</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Left ventricular dysfunction</p>
+          </list-item>
+          <list-item>
+            <p>Dilated cardiomyopathy</p>
+          </list-item>
+          <list-item>
+            <p>Sustained ventricular tachycardia</p>
+          </list-item>
+          <list-item>
+            <p>Sudden cardiac arrest</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-31088.s12" sec-type="Postoperative and Rehabilitation Care">
+        <title>Postoperative and Rehabilitation Care</title>
+        <p>Cardiac rehabilitation is comprised of comprehensive long-term and short-term goals. The long term goals focus on medical evaluation, cardiovascular risk assessment, health education, lifestyle modification, regular exercise motivation, counseling, and behavioral therapy. These goals alter the natural history of cardiac disease associated with VPCs and stabilize and reverse the progression of LV dysfunction and reduce the risk of sudden cardiac death. The short term goals consist of controlling the cardiac symptoms, limiting the physiological and psychological effects of cardiac illness, improving functional capacity, and boosting the vocational and psychosocial status.<xref ref-type="bibr" rid="article-31088.r16">[16]</xref><xref ref-type="bibr" rid="article-31088.r17">[17]</xref>&#x000a0;</p>
+        <p>Cardiac rehabilitation improves the patients' outcome by improving the quality of life, increasing the patient's perception of physical development and motivation, altering risk factors, adjusting the interpersonal roles, and potentially advancing at work.</p>
+      </sec>
+      <sec id="article-31088.s13" sec-type="Consultations">
+        <title>Consultations</title>
+        <p>Patients with VPCs usually require consultation with a general physician, cardiologist, interventional cardiologist, and cardiac electrophysiologist.</p>
+      </sec>
+      <sec id="article-31088.s14" sec-type="Deterrence and Patient Education">
+        <title>Deterrence and Patient Education</title>
+        <p>Patients presenting to family physicians with symptoms like palpitations or skipped beats require detailed assessment.&#x000a0;Although various cardiac etiologies can cause palpitations, their association with non-cardiac causes like anemia, fever, or drug use or even anxiety in otherwise healthy individuals should also remain in view. Reassurance and lifestyle modification is the mainstay of management in benign occurring VPCs. The patients should also undergo screening for anxiety or panic disorder with the help of a questionnaire. Education of patients about when to seek advice in case of a worsening of symptoms is essential. With the help of an interdisciplinary approach, patients will have the chance to interact with multiple members of the patient care team. Relaying changes in the regimen to the patients is a vital aspect of educating the patients.&#x000a0;It should be emphasized to keep a scheduled follow-up of the appointments. If warranted, patients should receive counsel and education regarding the benefits of quitting smoking and losing weight. With the help of written pamphlets or illustrations, patient education should be to enhance the patient's learning.</p>
+      </sec>
+      <sec id="article-31088.s15" sec-type="Pearls and Other Issues">
+        <title>Pearls and Other Issues</title>
+        <p>The general population with frequent VPCs defined as the presence of at least one VPC on a 12-lead EKG or greater than 30 VPCs per hour is usually associated with increased cardiovascular risk and mortality. The cardiac MRI and methods used to suppress the VPCs aid in reversing the LV dysfunction. Therefore, differentiation of primary cardiomyopathy from VPC-mediated LV dysfunction is of prime importance.<xref ref-type="bibr" rid="article-31088.r18">[18]</xref></p>
+        <p>A detailed cardiovascular risk assessment and management is necessary for the clinical finding of VPCs on EKG of even healthy patients.<xref ref-type="bibr" rid="article-31088.r19">[19]</xref>&#x000a0;A poor prognosis associated with cardiac pathology caused by VPCs can be altered simply by early prevention and prompt treatment. The patients should be subjected to long-term follow-up by continuous monitoring, especially in cases of arrhythmia or heart failure after they have undergone specific treatment or intervention.<xref ref-type="bibr" rid="article-31088.r20">[20]</xref></p>
+      </sec>
+      <sec id="article-31088.s16" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Healthcare providers from different specialties, along with collaboration from the patient, constitute an interprofessional team that works in harmony and improves patient outcomes. It is a complex process, and it requires working together and sharing expertise, skills, and knowledge, all impacting patient care. Improvement in interprofessional teamwork tends to focus on specific activities like sharing of patient case files, meeting style, frequency, or case-conferencing approach. Collaboration among health care professionals is a crucial component with trust and respect for oneself and others.<xref ref-type="bibr" rid="article-31088.r21">[21]</xref>&#x000a0;This interprofessional team includes a general physician, primary cardiologist, interventional cardiologist, radiologist, pharmacist, and cardiac electrophysiologist who work together to help focus on specific patient considerations and expectations.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>A general physician or family physician is usually the first one to receive patients with complaints of palpitations. His role in thorough assessment and evaluation, along with a referral to a cardiologist, is of great importance.</p>
+          </list-item>
+          <list-item>
+            <p>A cardiologist's role in patient care involves cardiovascular risk assessment and evaluation of patients with VPCs. He must ensure and educate the patient about regular follow-up and compliance with medical therapy.</p>
+          </list-item>
+          <list-item>
+            <p>An interventional cardiologist is involved in helping to diagnose underlying ischemic heart disease and decision making that encompasses revascularization therapy and catheter ablation intervention.</p>
+          </list-item>
+          <list-item>
+            <p>A radiologist&#x000a0;helps in the diagnosis of the VPCs by carrying out various imaging modalities.</p>
+          </list-item>
+          <list-item>
+            <p>A cardiac electrophysiologist aids in mapping the VPCs origin before proceeding for catheter ablation therapy.</p>
+          </list-item>
+          <list-item>
+            <p>A cardiac nurse plays a pivotal role in the monitoring of the patients as first-care responders and providing immediate care with the guidance of the physician.</p>
+          </list-item>
+          <list-item>
+            <p>A clinical pharmacist specializing in cardiology offers suggestions for individual patient care through prospective or retrospective review based on pharmacological principles, and provide medication education for patients and health care providers&#x000a0;at all levels.</p>
+          </list-item>
+        </list>
+        <p>Close communication between the interprofessional team members is vital for improved patient outcomes. [Level 5]</p>
+      </sec>
+      <sec id="article-31088.s17">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=31088&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=31088">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/heart-health/ventricular-premature-complexes/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=31088">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/31088/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=31088">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <floats-group id="article-31088.s18">
+        <fig id="article-31088.image.f1" position="float" orientation="portrait">
+          <caption>
+            <p>PVCs, Premature Ventricular Contractions, [SATA] Contributed by Steve Bhmji, MS, MD, PhD</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="PVCs" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <floats-group id="article-31088.s19">
+        <fig id="article-31088.image.f2" position="float" orientation="portrait">
+          <caption>
+            <p>Premature ventricular contractions Image courtesy O.Chaigasame</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Premature__ventricular__contract" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <ref-list id="article-31088.s20">
+        <title>References</title>
+        <ref id="article-31088.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wang</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Hodges</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>The premature ventricular complex as a diagnostic aid.</article-title>
+            <source>Ann Intern Med</source>
+            <year>1992</year>
+            <month>Nov</month>
+            <day>01</day>
+            <volume>117</volume>
+            <issue>9</issue>
+            <fpage>766</fpage>
+            <page-range>766-70</page-range>
+            <pub-id pub-id-type="pmid">1384411</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31088.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chugh</surname>
+                <given-names>SS</given-names>
+              </name>
+              <name>
+                <surname>Shen</surname>
+                <given-names>WK</given-names>
+              </name>
+              <name>
+                <surname>Luria</surname>
+                <given-names>DM</given-names>
+              </name>
+              <name>
+                <surname>Smith</surname>
+                <given-names>HC</given-names>
+              </name>
+            </person-group>
+            <article-title>First evidence of premature ventricular complex-induced cardiomyopathy: a potentially reversible cause of heart failure.</article-title>
+            <source>J Cardiovasc Electrophysiol</source>
+            <year>2000</year>
+            <month>Mar</month>
+            <volume>11</volume>
+            <issue>3</issue>
+            <fpage>328</fpage>
+            <page-range>328-9</page-range>
+            <pub-id pub-id-type="pmid">10749356</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31088.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Takemoto</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Yoshimura</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Ohba</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Matsumoto</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Yamamoto</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>Mohri</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Yamamoto</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Origuchi</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Radiofrequency catheter ablation of premature ventricular complexes from right ventricular outflow tract improves left ventricular dilation and clinical status in patients without structural heart disease.</article-title>
+            <source>J Am Coll Cardiol</source>
+            <year>2005</year>
+            <month>Apr</month>
+            <day>19</day>
+            <volume>45</volume>
+            <issue>8</issue>
+            <fpage>1259</fpage>
+            <page-range>1259-65</page-range>
+            <pub-id pub-id-type="pmid">15837259</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31088.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shi</surname>
+                <given-names>LR</given-names>
+              </name>
+            </person-group>
+            <article-title>[Clinical significance of the site of origin of premature ventricular contractions (PVC)].</article-title>
+            <source>Zhonghua Xin Xue Guan Bing Za Zhi</source>
+            <year>1983</year>
+            <month>Mar</month>
+            <volume>11</volume>
+            <issue>1</issue>
+            <fpage>36</fpage>
+            <page-range>36-8</page-range>
+            <pub-id pub-id-type="pmid">6192983</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31088.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>HISS</surname>
+                <given-names>RG</given-names>
+              </name>
+              <name>
+                <surname>LAMB</surname>
+                <given-names>LE</given-names>
+              </name>
+            </person-group>
+            <article-title>Electrocardiographic findings in 122,043 individuals.</article-title>
+            <source>Circulation</source>
+            <year>1962</year>
+            <month>Jun</month>
+            <volume>25</volume>
+            <fpage>947</fpage>
+            <page-range>947-61</page-range>
+            <pub-id pub-id-type="pmid">13907778</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31088.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Morshedi-Meibodi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Evans</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Levy</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Larson</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Vasan</surname>
+                <given-names>RS</given-names>
+              </name>
+            </person-group>
+            <article-title>Clinical correlates and prognostic significance of exercise-induced ventricular premature beats in the community: the Framingham Heart Study.</article-title>
+            <source>Circulation</source>
+            <year>2004</year>
+            <month>May</month>
+            <day>25</day>
+            <volume>109</volume>
+            <issue>20</issue>
+            <fpage>2417</fpage>
+            <page-range>2417-22</page-range>
+            <pub-id pub-id-type="pmid">15148273</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31088.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Simpson</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Cascio</surname>
+                <given-names>WE</given-names>
+              </name>
+              <name>
+                <surname>Schreiner</surname>
+                <given-names>PJ</given-names>
+              </name>
+              <name>
+                <surname>Crow</surname>
+                <given-names>RS</given-names>
+              </name>
+              <name>
+                <surname>Rautaharju</surname>
+                <given-names>PM</given-names>
+              </name>
+              <name>
+                <surname>Heiss</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Prevalence of premature ventricular contractions in a population of African American and white men and women: the Atherosclerosis Risk in Communities (ARIC) study.</article-title>
+            <source>Am Heart J</source>
+            <year>2002</year>
+            <month>Mar</month>
+            <volume>143</volume>
+            <issue>3</issue>
+            <fpage>535</fpage>
+            <page-range>535-40</page-range>
+            <pub-id pub-id-type="pmid">11868062</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31088.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zhu</surname>
+                <given-names>DW</given-names>
+              </name>
+              <name>
+                <surname>Maloney</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Simmons</surname>
+                <given-names>TW</given-names>
+              </name>
+              <name>
+                <surname>Nitta</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Fitzgerald</surname>
+                <given-names>DM</given-names>
+              </name>
+              <name>
+                <surname>Trohman</surname>
+                <given-names>RG</given-names>
+              </name>
+              <name>
+                <surname>Khoury</surname>
+                <given-names>DS</given-names>
+              </name>
+              <name>
+                <surname>Saliba</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Belco</surname>
+                <given-names>KM</given-names>
+              </name>
+              <name>
+                <surname>Rizo-Patron</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Radiofrequency catheter ablation for management of symptomatic ventricular ectopic activity.</article-title>
+            <source>J Am Coll Cardiol</source>
+            <year>1995</year>
+            <month>Oct</month>
+            <volume>26</volume>
+            <issue>4</issue>
+            <fpage>843</fpage>
+            <page-range>843-9</page-range>
+            <pub-id pub-id-type="pmid">7560606</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31088.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lee</surname>
+                <given-names>AK</given-names>
+              </name>
+              <name>
+                <surname>Deyell</surname>
+                <given-names>MW</given-names>
+              </name>
+            </person-group>
+            <article-title>Premature ventricular contraction-induced cardiomyopathy.</article-title>
+            <source>Curr Opin Cardiol</source>
+            <year>2016</year>
+            <month>Jan</month>
+            <volume>31</volume>
+            <issue>1</issue>
+            <fpage>1</fpage>
+            <page-range>1-10</page-range>
+            <pub-id pub-id-type="pmid">26599061</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31088.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Noheria</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Deshmukh</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Asirvatham</surname>
+                <given-names>SJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Ablating Premature Ventricular Complexes: Justification, Techniques, and Outcomes.</article-title>
+            <source>Methodist Debakey Cardiovasc J</source>
+            <year>2015</year>
+            <season>Apr-Jun</season>
+            <volume>11</volume>
+            <issue>2</issue>
+            <fpage>109</fpage>
+            <page-range>109-20</page-range>
+            <pub-id pub-id-type="pmid">26306129</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31088.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cronin</surname>
+                <given-names>EM</given-names>
+              </name>
+              <name>
+                <surname>Bogun</surname>
+                <given-names>FM</given-names>
+              </name>
+              <name>
+                <surname>Maury</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Peichl</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Namboodiri</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Aguinaga</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Leite</surname>
+                <given-names>LR</given-names>
+              </name>
+              <name>
+                <surname>Al-Khatib</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Anter</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Berruezo</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Callans</surname>
+                <given-names>DJ</given-names>
+              </name>
+              <name>
+                <surname>Chung</surname>
+                <given-names>MK</given-names>
+              </name>
+              <name>
+                <surname>Cuculich</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>d'Avila</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Deal</surname>
+                <given-names>BJ</given-names>
+              </name>
+              <name>
+                <surname>Della Bella</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Deneke</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Dickfeld</surname>
+                <given-names>TM</given-names>
+              </name>
+              <name>
+                <surname>Hadid</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Haqqani</surname>
+                <given-names>HM</given-names>
+              </name>
+              <name>
+                <surname>Neal Kay</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Latchamsetty</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Marchlinski</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Miller</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Nogami</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Patel</surname>
+                <given-names>AR</given-names>
+              </name>
+              <name>
+                <surname>Pathak</surname>
+                <given-names>RK</given-names>
+              </name>
+              <name>
+                <surname>Saenz Morales</surname>
+                <given-names>LC</given-names>
+              </name>
+              <name>
+                <surname>Santangeli</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Sapp</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Sarkozy</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Soejima</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Stevenson</surname>
+                <given-names>WG</given-names>
+              </name>
+              <name>
+                <surname>Tedrow</surname>
+                <given-names>UB</given-names>
+              </name>
+              <name>
+                <surname>Tzou</surname>
+                <given-names>WS</given-names>
+              </name>
+              <name>
+                <surname>Varma</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Zeppenfeld</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>2019 HRS/EHRA/APHRS/LAHRS expert consensus statement on catheter ablation of ventricular arrhythmias.</article-title>
+            <source>J Arrhythm</source>
+            <year>2019</year>
+            <month>Jun</month>
+            <volume>35</volume>
+            <issue>3</issue>
+            <fpage>323</fpage>
+            <page-range>323-484</page-range>
+            <pub-id pub-id-type="pmid">31293696</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31088.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Priori</surname>
+                <given-names>SG</given-names>
+              </name>
+              <name>
+                <surname>Blomstr&#x000f6;m-Lundqvist</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>2015 European Society of Cardiology Guidelines for the management of patients with ventricular arrhythmias and the prevention of sudden cardiac death summarized by co-chairs.</article-title>
+            <source>Eur Heart J</source>
+            <year>2015</year>
+            <month>Nov</month>
+            <day>01</day>
+            <volume>36</volume>
+            <issue>41</issue>
+            <fpage>2757</fpage>
+            <page-range>2757-9</page-range>
+            <pub-id pub-id-type="pmid">26745817</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31088.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lip</surname>
+                <given-names>GY</given-names>
+              </name>
+              <name>
+                <surname>Heinzel</surname>
+                <given-names>FR</given-names>
+              </name>
+              <name>
+                <surname>Gaita</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Juanatey</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Le Heuzey</surname>
+                <given-names>JY</given-names>
+              </name>
+              <name>
+                <surname>Potpara</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Svendsen</surname>
+                <given-names>JH</given-names>
+              </name>
+              <name>
+                <surname>Vos</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Anker</surname>
+                <given-names>SD</given-names>
+              </name>
+              <name>
+                <surname>Coats</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Haverkamp</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Manolis</surname>
+                <given-names>AS</given-names>
+              </name>
+              <name>
+                <surname>Chung</surname>
+                <given-names>MK</given-names>
+              </name>
+              <name>
+                <surname>Sanders</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Pieske</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Gorenek</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Lane</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Boriani</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Linde</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Hindricks</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Tsutsui</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Homma</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Brownstein</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Nielsen</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Lainscak</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Crespo-Leiro</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Piepoli</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Seferovic</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Savelieva</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <article-title>European Heart Rhythm Association/Heart Failure Association joint consensus document on arrhythmias in heart failure, endorsed by the Heart Rhythm Society and the Asia Pacific Heart Rhythm Society.</article-title>
+            <source>Europace</source>
+            <year>2016</year>
+            <month>Jan</month>
+            <volume>18</volume>
+            <issue>1</issue>
+            <fpage>12</fpage>
+            <page-range>12-36</page-range>
+            <pub-id pub-id-type="pmid">26297713</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31088.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Abdalla</surname>
+                <given-names>IS</given-names>
+              </name>
+              <name>
+                <surname>Prineas</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Neaton</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Jacobs</surname>
+                <given-names>DR</given-names>
+              </name>
+              <name>
+                <surname>Crow</surname>
+                <given-names>RS</given-names>
+              </name>
+            </person-group>
+            <article-title>Relation between ventricular premature complexes and sudden cardiac death in apparently healthy men.</article-title>
+            <source>Am J Cardiol</source>
+            <year>1987</year>
+            <month>Nov</month>
+            <day>01</day>
+            <volume>60</volume>
+            <issue>13</issue>
+            <fpage>1036</fpage>
+            <page-range>1036-42</page-range>
+            <pub-id pub-id-type="pmid">3673904</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31088.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bikkina</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Larson</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Levy</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Prognostic implications of asymptomatic ventricular arrhythmias: the Framingham Heart Study.</article-title>
+            <source>Ann Intern Med</source>
+            <year>1992</year>
+            <month>Dec</month>
+            <day>15</day>
+            <volume>117</volume>
+            <issue>12</issue>
+            <fpage>990</fpage>
+            <page-range>990-6</page-range>
+            <pub-id pub-id-type="pmid">1280018</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31088.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Taylor</surname>
+                <given-names>RS</given-names>
+              </name>
+              <name>
+                <surname>Sagar</surname>
+                <given-names>VA</given-names>
+              </name>
+              <name>
+                <surname>Davies</surname>
+                <given-names>EJ</given-names>
+              </name>
+              <name>
+                <surname>Briscoe</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Coats</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Dalal</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Lough</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Rees</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Singh</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Exercise-based rehabilitation for heart failure.</article-title>
+            <source>Cochrane Database Syst Rev</source>
+            <year>2014</year>
+            <month>Apr</month>
+            <day>27</day>
+            <volume>2014</volume>
+            <issue>4</issue>
+            <fpage>CD003331</fpage>
+            <pub-id pub-id-type="pmid">24771460</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31088.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>B&#x000e4;ck</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>&#x000d6;berg</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Krevers</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Important aspects in relation to patients' attendance at exercise-based cardiac rehabilitation - facilitators, barriers and physiotherapist's role: a qualitative study.</article-title>
+            <source>BMC Cardiovasc Disord</source>
+            <year>2017</year>
+            <month>Mar</month>
+            <day>14</day>
+            <volume>17</volume>
+            <issue>1</issue>
+            <fpage>77</fpage>
+            <pub-id pub-id-type="pmid">28288580</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31088.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ban</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Park</surname>
+                <given-names>HC</given-names>
+              </name>
+              <name>
+                <surname>Park</surname>
+                <given-names>JS</given-names>
+              </name>
+              <name>
+                <surname>Nagamoto</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Choi</surname>
+                <given-names>JI</given-names>
+              </name>
+              <name>
+                <surname>Lim</surname>
+                <given-names>HE</given-names>
+              </name>
+              <name>
+                <surname>Park</surname>
+                <given-names>SW</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>YH</given-names>
+              </name>
+            </person-group>
+            <article-title>Electrocardiographic and electrophysiological characteristics of premature ventricular complexes associated with left ventricular dysfunction in patients without structural heart disease.</article-title>
+            <source>Europace</source>
+            <year>2013</year>
+            <month>May</month>
+            <volume>15</volume>
+            <issue>5</issue>
+            <fpage>735</fpage>
+            <page-range>735-41</page-range>
+            <pub-id pub-id-type="pmid">23194696</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31088.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Massing</surname>
+                <given-names>MW</given-names>
+              </name>
+              <name>
+                <surname>Simpson</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Rautaharju</surname>
+                <given-names>PM</given-names>
+              </name>
+              <name>
+                <surname>Schreiner</surname>
+                <given-names>PJ</given-names>
+              </name>
+              <name>
+                <surname>Crow</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Heiss</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Usefulness of ventricular premature complexes to predict coronary heart disease events and mortality (from the Atherosclerosis Risk In Communities cohort).</article-title>
+            <source>Am J Cardiol</source>
+            <year>2006</year>
+            <month>Dec</month>
+            <day>15</day>
+            <volume>98</volume>
+            <issue>12</issue>
+            <fpage>1609</fpage>
+            <page-range>1609-12</page-range>
+            <pub-id pub-id-type="pmid">17145219</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31088.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lin</surname>
+                <given-names>CY</given-names>
+              </name>
+              <name>
+                <surname>Chang</surname>
+                <given-names>SL</given-names>
+              </name>
+              <name>
+                <surname>Lin</surname>
+                <given-names>YJ</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>YY</given-names>
+              </name>
+              <name>
+                <surname>Lo</surname>
+                <given-names>LW</given-names>
+              </name>
+              <name>
+                <surname>Hu</surname>
+                <given-names>YF</given-names>
+              </name>
+              <name>
+                <surname>Tuan</surname>
+                <given-names>TC</given-names>
+              </name>
+              <name>
+                <surname>Chao</surname>
+                <given-names>TF</given-names>
+              </name>
+              <name>
+                <surname>Chung</surname>
+                <given-names>FP</given-names>
+              </name>
+              <name>
+                <surname>Liao</surname>
+                <given-names>JN</given-names>
+              </name>
+              <name>
+                <surname>Chang</surname>
+                <given-names>YT</given-names>
+              </name>
+              <name>
+                <surname>Lin</surname>
+                <given-names>CH</given-names>
+              </name>
+              <name>
+                <surname>Walia</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Te</surname>
+                <given-names>ALD</given-names>
+              </name>
+              <name>
+                <surname>Yamada</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Chiou</surname>
+                <given-names>CW</given-names>
+              </name>
+              <name>
+                <surname>Tsao</surname>
+                <given-names>HM</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>SA</given-names>
+              </name>
+            </person-group>
+            <article-title>An observational study on the effect of premature ventricular complex burden on long-term outcome.</article-title>
+            <source>Medicine (Baltimore)</source>
+            <year>2017</year>
+            <month>Jan</month>
+            <volume>96</volume>
+            <issue>1</issue>
+            <fpage>e5476</fpage>
+            <pub-id pub-id-type="pmid">28072689</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31088.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Nancarrow</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>Booth</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Ariss</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Smith</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Enderby</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Roots</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Ten principles of good interdisciplinary team work.</article-title>
+            <source>Hum Resour Health</source>
+            <year>2013</year>
+            <month>May</month>
+            <day>10</day>
+            <volume>11</volume>
+            <fpage>19</fpage>
+            <pub-id pub-id-type="pmid">23663329</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

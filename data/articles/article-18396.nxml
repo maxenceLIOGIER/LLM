@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-18396" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Blood Pressure Measurement</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Rehman</surname>
+            <given-names>Saad</given-names>
+          </name>
+          <aff>Vanderbilt University Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Hashmi</surname>
+            <given-names>Muhammad F.</given-names>
+          </name>
+          <aff>National Health Service</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Saad Rehman declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Muhammad Hashmi declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>28</day>
+          <month>12</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-18396.s1" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Blood pressure is a cardinal vital sign that guides acute and long-term clinical decision-making. Given its importance in directing care, measuring blood pressure accurately and consistently is essential.</p>
+        <p>In general,&#x000a0;2 values are recorded during the measurement of blood pressure. The first, systolic pressure, represents the peak arterial pressure during systole. The second, diastolic pressure, represents the minimum arterial pressure during diastole. Finally, a third value, mean arterial pressure, can be calculated from the systolic and diastolic pressures.&#x000a0;The formula used is as follows:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>MAP = DP + 1/3 (SP - DP) or MAP = DP + 1/3 (PP)</p>
+          </list-item>
+          <list-item>
+            <p>PP = pulse pressure</p>
+          </list-item>
+        </list>
+        <p>Another method of blood pressure measurement is in use, termed&#x000a0;automated office BP&#x000a0;(AOBP). The AOBP measurement assesses blood pressure after the patient has rested for&#x000a0;5 minutes, followed by a fully automated series of&#x000a0;5 readings over&#x000a0;5 minutes, with the patient resting quietly alone. This method helps providers get a reading that corresponds more closely with&#x000a0;ambulatory-awake blood pressure readings, alleviating the possibility of white-coat hypertension.<xref ref-type="bibr" rid="article-18396.r1">[1]</xref></p>
+      </sec>
+      <sec id="article-18396.s2" sec-type="Indications">
+        <title>Indications</title>
+        <p>Indications for measuring blood pressure include the following:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>To screen for hypertension</p>
+          </list-item>
+          <list-item>
+            <p>To monitor the effectiveness of management</p>
+          </list-item>
+          <list-item>
+            <p>To assess suitability for certain occupations or a sport&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>To estimate cardiovascular risk</p>
+          </list-item>
+          <list-item>
+            <p>Determining the risk of medical procedures</p>
+          </list-item>
+          <list-item>
+            <p>Monitoring a patient's ongoing clinical state and deterioration&#x000a0;<xref ref-type="bibr" rid="article-18396.r2">[2]</xref><xref ref-type="bibr" rid="article-18396.r3">[3]</xref></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-18396.s3" sec-type="Contraindications">
+        <title>Contraindications</title>
+        <p>The following are some relative and absolute contraindications for measuring blood pressure.</p>
+        <p>Relative contraindications for taking the blood pressure on the affected arm using a cuff are:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Lymphedema</p>
+          </list-item>
+          <list-item>
+            <p>Paresis or paralysis<xref ref-type="bibr" rid="article-18396.r4">[4]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Arterial or venous lines, such as venous catheters</p>
+          </list-item>
+        </list>
+        <p>Absolute contraindications for taking the blood pressure on the affected arm using a cuff are:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Dialysis shunt</p>
+          </list-item>
+          <list-item>
+            <p>Recent surgical wounds</p>
+          </list-item>
+          <list-item>
+            <p>Mastectomy</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-18396.s4" sec-type="Equipment">
+        <title>Equipment</title>
+        <p>
+<bold>Manual Auscultation</bold>
+</p>
+        <p>The original method of determining blood pressure via the auscultation of Korotkoff sounds continues to be a mainstay in blood pressure measurement.<xref ref-type="bibr" rid="article-18396.r5">[5]</xref> This method utilizes a sphygmomanometer, an inflatable cuff connected to a pressure gauge (generally&#x000a0;a mercury column). To measure an individual&#x02019;s blood pressure, the deflated cuff is placed around the arm and inflated sufficiently to occlude arterial flow. At this point, the cuff's pressure exceeds the systolic pressure, and auscultation over the brachial artery reveals no sound due to complete flow obstruction.</p>
+        <p>The cuff is then gradually deflated while continuing to auscultate over the brachial artery. When the pressure in the cuff falls to the systolic pressure level, pulsatile blood flow begins to re-establish. The resulting turbulence produces characteristic tapping sounds known as Korotkoff sounds. As the cuff deflates to the diastolic pressure level, pulsatile blood flow occurs smoothly, and Korotkoff sounds disappear. Thus, the systolic pressure is indicated by the origination of Korotkoff sounds, and their disappearance indicates the diastolic pressure.<xref ref-type="bibr" rid="article-18396.r6">[6]</xref><xref ref-type="bibr" rid="article-18396.r7">[7]</xref></p>
+        <p>The Korotkoff sounds&#x000a0;heard when measuring blood pressure are:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Phase&#x000a0;1 is&#x000a0;a faint but clear tapping sound that gradually increases in intensity</p>
+          </list-item>
+          <list-item>
+            <p>Phase&#x000a0;2 is the&#x000a0;dampening of this sound, which may be heard like blowing or swishing</p>
+          </list-item>
+          <list-item>
+            <p>Phase&#x000a0;3 is&#x000a0;when the sharper sounds return that does not&#x000a0;have&#x000a0;the intensity of phase&#x000a0;1</p>
+          </list-item>
+          <list-item>
+            <p>Phase&#x000a0;4 is a&#x000a0;well-defined muffled sound that progresses to become&#x000a0;soft and blowing</p>
+          </list-item>
+          <list-item>
+            <p>Phase&#x000a0;5 is the absence of sounds</p>
+          </list-item>
+        </list>
+        <p>Medical professionals should be aware of the auscultatory gap, which can result in the premature recording of diastolic pressure. In some patients, particularly those with wide pulse pressure, Korotkoff sounds can temporarily fade but reappear as the cuff deflates. Medical professionals should thus continue to auscultate over the brachial artery even when Korotkoff sounds disappear to eliminate the possibility of an auscultatory gap. Only the final disappearance of Korotkoff sounds should be used to record the diastolic pressure.<xref ref-type="bibr" rid="article-18396.r6">[6]</xref></p>
+        <p>
+<bold>Automated Devices</bold>
+</p>
+        <p>Automated devices can also be used to measure blood pressure. Rather than auscultating for Korotkoff sounds, these devices measure oscillations in blood flow as the cuff is deflated.&#x000a0;</p>
+        <p>Device-specific algorithms are then used to calculate blood pressure indirectly. An advantage of automated measurements is that they require little user knowledge and are thus suitable for use by laypersons in non-medical environments.</p>
+        <p>
+<bold>Invasive Monitoring</bold>
+</p>
+        <p>The most accurate method of obtaining blood pressure measurements is using an invasive probe inserted directly into the lumen of an artery.<xref ref-type="bibr" rid="article-18396.r8">[8]</xref> An advantage of invasive monitoring is the ability to display blood pressure variations with each heartbeat. However, given the invasive nature of this method and the associated risks, its use is limited to critical care or operative settings. As such, this review focuses on the previously mentioned blood pressure measurement methods.</p>
+      </sec>
+      <sec id="article-18396.s5" sec-type="Personnel">
+        <title>Personnel</title>
+        <p>Any healthcare provider or caregiver trained to measure blood pressure can perform this examination.</p>
+      </sec>
+      <sec id="article-18396.s6" sec-type="Preparation">
+        <title>Preparation</title>
+        <p>Following are some necessary preparatory steps to be taken when measuring blood pressure:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>The patient should be explained the need to take their blood pressure and the procedure for informed consent.</p>
+          </list-item>
+          <list-item>
+            <p>It is also&#x000a0;essential to reassure the patient and alleviate anxiety to avoid false readings.</p>
+          </list-item>
+          <list-item>
+            <p>Ensuring the correct size of the cuff is crucial, as incorrect size may&#x000a0;give inaccurate readings. Most guidelines advocate the use of a large cuff for all patients.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-18396.s7" sec-type="Technique or Treatment">
+        <title>Technique or Treatment</title>
+        <p>Blood pressure is remarkably labile. Therefore, even the most insignificant activities can result in substantial changes in blood pressure readings. Accordingly, medical professionals should always properly prepare the patient and environment before cuff inflation, regardless of whether a manual or automated method is used to measure blood pressure.</p>
+        <p>First, the patient should be questioned regarding caffeine consumption, exercise, or smoking. If any of these activities have occurred within the last 30 minutes, blood pressure measurement should be postponed until this period has passed. Next, the patient should be encouraged to empty their bladder. Upon return, the patient should be seated on a chair with back support in a quiet room. Both feet should be flat on the floor with uncrossed legs, and this seated position should be maintained for at least 5 minutes.</p>
+        <p>At this time, a properly sized cuff should be placed directly over the patient&#x02019;s arm. No clothing should be underneath the cuff, and sleeves should not be rolled above it. Once the cuff is in position, the patient&#x02019;s arm should be supported so that the middle of the cuff is at the level of the right atrium. Blood pressure measurement can now be initiated. The patient should not speak or be spoken to while taking measurements.</p>
+        <p>There is significant variation among automated devices, and users should refer to instruction guides on initiating cuff inflation and measuring blood pressure. If a manual measurement is being performed, the bell or diaphragm of a stethoscope should be placed over the medial antecubital fossa over the approximate location of the brachial artery. The blood pressure cuff should be inflated 30 mmHg beyond the point where the radial pulse is no longer palpable. Deflation of the cuff should occur in a slow and controlled manner at a rate of 2 to 3 mmHg per second. As mentioned previously, the appearance of Korotkoff sounds signifies systolic pressure, while the cessation of these sounds indicates diastolic pressure.<xref ref-type="bibr" rid="article-18396.r9">[9]</xref><xref ref-type="bibr" rid="article-18396.r6">[6]</xref><xref ref-type="bibr" rid="article-18396.r10">[10]</xref><xref ref-type="bibr" rid="article-18396.r7">[7]</xref></p>
+        <p>Invasive arterial blood pressure measurement is the gold standard in intensive therapy units. It can&#x000a0;take beat-to-beat blood pressure readings, reflecting the real-time fluctuations of blood pressure.<xref ref-type="bibr" rid="article-18396.r11">[11]</xref></p>
+      </sec>
+      <sec id="article-18396.s8" sec-type="Complications">
+        <title>Complications</title>
+        <p>The most common source of error in blood pressure measurement is a failure to adhere to the proper technique. Multiple studies have attempted to quantify the impact of common mistakes. Smoking within 30 minutes of measurement can raise the systolic blood pressure to 20 mmHg, while a distended bladder can increase systolic and diastolic measurements by 10 to 15 mmHg. Sitting in a chair lacking back support can raise systolic blood pressure to 10 mmHg, and a similar increase is observed when both legs are crossed. Cuff placement over clothing can affect measurements by an astonishing 50 mmHg. Talking/listening during measurements can increase systolic and diastolic measurements by 10 mmHg. An improperly sized cuff can affect blood pressure in either direction; a larger cuff results in falsely low measurements, while a smaller cuff results in falsely elevated measurements. Similarly, incorrect arm positioning also results in a bidirectional error; placing the arm below the level of the right atrium results in higher values, whereas placing the arm above the right atrium generates lower values. The vast range of these errors highlights the importance of adhering to the appropriate&#x000a0;technique when measuring blood pressure.<xref ref-type="bibr" rid="article-18396.r10">[10]</xref></p>
+        <p>In addition to the adjustable source of error, there are also unavoidable sources. Multiple studies have found differences between measurements obtained in clinical settings and those taken in ambulatory settings. Hypertension can be inaccurately diagnosed in patients prone to &#x0201c;white-coat hypertension,&#x0201d; a phenomenon in which the apprehension of being in the presence of a medical professional results in a transient rise in blood pressure. These patients are normotensive in ordinary settings and are hypertensive only in clinical settings. Similarly, hypertension can be inadvertently overlooked in patients who appear to be normotensive in the clinic but are hypertensive throughout other points of the day. This &#x0201c;masked hypertension&#x0201d; may be due to lifestyle changes made before medical appointments.<xref ref-type="bibr" rid="article-18396.r9">[9]</xref></p>
+      </sec>
+      <sec id="article-18396.s9" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>
+<bold>Hypertension</bold>
+</p>
+        <p>When clinically feasible,&#x000a0;2 or more measurements taken at different visits should be used to diagnose hypertension. The threshold at which high blood pressure is diagnosed is constantly evolving in response to new evidence. Previous guidelines had defined hypertension as beginning at a blood pressure of 140/90 mmHg, but the most recent updates have lowered this level based on the benefits of early intervention.<xref ref-type="bibr" rid="article-18396.r9">[9]</xref>&#x000a0;Current thresholds are listed in the table (see <bold>Image.</bold> Stages of Hypertension).</p>
+        <p>Undiagnosed hypertension places patients at increased risk of developing coronary artery disease, stroke, and end-stage renal disease, among other complications. In the United States, hypertension is the second most preventable cause of death; worldwide, it is the leading cause of death and disability-adjusted life years.<xref ref-type="bibr" rid="article-18396.r12">[12]</xref><xref ref-type="bibr" rid="article-18396.r13">[13]</xref> Thus, a timely and accurate diagnosis of hypertension is essential to initiate treatment that prevents or reduces the occurrence of these complications.</p>
+        <p>
+<bold>Hypotension</bold>
+</p>
+        <p>Hypotension is less common than hypertension and is generally&#x000a0;due to an identifiable cause, such as dehydration, illness, or medication side effects. While there is no formal threshold for the diagnosis of hypotension, medical professionals generally use a systolic pressure of less than 90 mmHg or a diastolic pressure of less than 60 mmHg.<xref ref-type="bibr" rid="article-18396.r14">[14]</xref><xref ref-type="bibr" rid="article-18396.r15">[15]</xref>&#x000a0;More commonly, the diagnosis is guided by patient symptoms, including light-headedness, dizziness, blurred vision, nausea, and weakness.</p>
+        <p>
+<bold>Orthostatic Hypotension</bold>
+</p>
+        <p>Some patients are normotensive at rest but experience symptoms of hypotension when standing. Such orthostatic hypotension is defined by a decrease in systolic blood pressure of 20 mmHg or a reduction in diastolic blood pressure of 10 mmHg after&#x000a0;3 minutes of standing from a sitting or supine position.<xref ref-type="bibr" rid="article-18396.r9">[9]</xref></p>
+      </sec>
+      <sec id="article-18396.s10" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>All healthcare workers (including nurse practitioners) who measure blood pressure should know what the numbers mean. Knowing when to treat the patient and the current guidelines is important.<xref ref-type="bibr" rid="article-18396.r16">[16]</xref><xref ref-type="bibr" rid="article-18396.r15">[15]</xref>&#x000a0;This measurement should be obtainable by clinicians, nurses, chiropractors, and other ancillary healthcare practitioners.</p>
+      </sec>
+      <sec id="article-18396.s11">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=18396&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=18396">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/18396/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=18396">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <floats-group id="article-18396.s12">
+        <fig id="article-18396.image.f1" position="float" orientation="portrait">
+          <caption>
+            <p>Stages of Hypertension. The stages of hypertension according to the 2017 ACC/AHA guidelines. Contributed by S Rehman, MD</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Untitled" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <ref-list id="article-18396.s13">
+        <title>References</title>
+        <ref id="article-18396.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Armstrong</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Matangi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Brouillard</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Myers</surname>
+                <given-names>MG</given-names>
+              </name>
+            </person-group>
+            <article-title>Automated office blood pressure - being alone and not location is what matters most.</article-title>
+            <source>Blood Press Monit</source>
+            <year>2015</year>
+            <month>Aug</month>
+            <volume>20</volume>
+            <issue>4</issue>
+            <fpage>204</fpage>
+            <page-range>204-8</page-range>
+            <pub-id pub-id-type="pmid">26154710</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18396.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>O'Brien</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Dolan</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Ambulatory Blood Pressure Monitoring for the Effective Management of Antihypertensive Drug Treatment.</article-title>
+            <source>Clin Ther</source>
+            <year>2016</year>
+            <month>Oct</month>
+            <volume>38</volume>
+            <issue>10</issue>
+            <fpage>2142</fpage>
+            <page-range>2142-2151</page-range>
+            <pub-id pub-id-type="pmid">27615192</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18396.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kjeldsen</surname>
+                <given-names>SE</given-names>
+              </name>
+            </person-group>
+            <article-title>Hypertension and cardiovascular risk: General aspects.</article-title>
+            <source>Pharmacol Res</source>
+            <year>2018</year>
+            <month>Mar</month>
+            <volume>129</volume>
+            <fpage>95</fpage>
+            <page-range>95-99</page-range>
+            <pub-id pub-id-type="pmid">29127059</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18396.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kallioinen</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Hill</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Horswill</surname>
+                <given-names>MS</given-names>
+              </name>
+              <name>
+                <surname>Ward</surname>
+                <given-names>HE</given-names>
+              </name>
+              <name>
+                <surname>Watson</surname>
+                <given-names>MO</given-names>
+              </name>
+            </person-group>
+            <article-title>Sources of inaccuracy in the measurement of adult patients' resting blood pressure in clinical settings: a systematic review.</article-title>
+            <source>J Hypertens</source>
+            <year>2017</year>
+            <month>Mar</month>
+            <volume>35</volume>
+            <issue>3</issue>
+            <fpage>421</fpage>
+            <page-range>421-441</page-range>
+            <pub-id pub-id-type="pmid">27977471</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18396.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Vischer</surname>
+                <given-names>AS</given-names>
+              </name>
+              <name>
+                <surname>Burkard</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Principles of Blood Pressure Measurement - Current Techniques, Office vs Ambulatory Blood Pressure Measurement.</article-title>
+            <source>Adv Exp Med Biol</source>
+            <year>2017</year>
+            <volume>956</volume>
+            <fpage>85</fpage>
+            <page-range>85-96</page-range>
+            <pub-id pub-id-type="pmid">27417699</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18396.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pickering</surname>
+                <given-names>TG</given-names>
+              </name>
+              <name>
+                <surname>Hall</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Appel</surname>
+                <given-names>LJ</given-names>
+              </name>
+              <name>
+                <surname>Falkner</surname>
+                <given-names>BE</given-names>
+              </name>
+              <name>
+                <surname>Graves</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Hill</surname>
+                <given-names>MN</given-names>
+              </name>
+              <name>
+                <surname>Jones</surname>
+                <given-names>DW</given-names>
+              </name>
+              <name>
+                <surname>Kurtz</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Sheps</surname>
+                <given-names>SG</given-names>
+              </name>
+              <name>
+                <surname>Roccella</surname>
+                <given-names>EJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Recommendations for blood pressure measurement in humans and experimental animals: part 1: blood pressure measurement in humans: a statement for professionals from the Subcommittee of Professional and Public Education of the American Heart Association Council on High Blood Pressure Research.</article-title>
+            <source>Circulation</source>
+            <year>2005</year>
+            <month>Feb</month>
+            <day>08</day>
+            <volume>111</volume>
+            <issue>5</issue>
+            <fpage>697</fpage>
+            <page-range>697-716</page-range>
+            <pub-id pub-id-type="pmid">15699287</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18396.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dieterle</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Blood pressure measurement--an overview.</article-title>
+            <source>Swiss Med Wkly</source>
+            <year>2012</year>
+            <volume>142</volume>
+            <fpage>w13517</fpage>
+            <pub-id pub-id-type="pmid">22287317</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18396.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Petersen</surname>
+                <given-names>NH</given-names>
+              </name>
+              <name>
+                <surname>Ortega-Gutierrez</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Reccius</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Masurkar</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Huang</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Marshall</surname>
+                <given-names>RS</given-names>
+              </name>
+            </person-group>
+            <article-title>Comparison of non-invasive and invasive arterial blood pressure measurement for assessment of dynamic cerebral autoregulation.</article-title>
+            <source>Neurocrit Care</source>
+            <year>2014</year>
+            <month>Feb</month>
+            <volume>20</volume>
+            <issue>1</issue>
+            <fpage>60</fpage>
+            <page-range>60-8</page-range>
+            <pub-id pub-id-type="pmid">24452959</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18396.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Whelton</surname>
+                <given-names>PK</given-names>
+              </name>
+              <name>
+                <surname>Carey</surname>
+                <given-names>RM</given-names>
+              </name>
+              <name>
+                <surname>Aronow</surname>
+                <given-names>WS</given-names>
+              </name>
+              <name>
+                <surname>Casey</surname>
+                <given-names>DE</given-names>
+              </name>
+              <name>
+                <surname>Collins</surname>
+                <given-names>KJ</given-names>
+              </name>
+              <name>
+                <surname>Dennison Himmelfarb</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>DePalma</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Gidding</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Jamerson</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Jones</surname>
+                <given-names>DW</given-names>
+              </name>
+              <name>
+                <surname>MacLaughlin</surname>
+                <given-names>EJ</given-names>
+              </name>
+              <name>
+                <surname>Muntner</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Ovbiagele</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Smith</surname>
+                <given-names>SC</given-names>
+              </name>
+              <name>
+                <surname>Spencer</surname>
+                <given-names>CC</given-names>
+              </name>
+              <name>
+                <surname>Stafford</surname>
+                <given-names>RS</given-names>
+              </name>
+              <name>
+                <surname>Taler</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Thomas</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Williams</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Williamson</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Wright</surname>
+                <given-names>JT</given-names>
+              </name>
+            </person-group>
+            <article-title>2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.</article-title>
+            <source>J Am Coll Cardiol</source>
+            <year>2018</year>
+            <month>May</month>
+            <day>15</day>
+            <volume>71</volume>
+            <issue>19</issue>
+            <fpage>e127</fpage>
+            <page-range>e127-e248</page-range>
+            <pub-id pub-id-type="pmid">29146535</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18396.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Handler</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>The importance of accurate blood pressure measurement.</article-title>
+            <source>Perm J</source>
+            <year>2009</year>
+            <season>Summer</season>
+            <volume>13</volume>
+            <issue>3</issue>
+            <fpage>51</fpage>
+            <page-range>51-4</page-range>
+            <pub-id pub-id-type="pmid">20740091</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18396.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pittman</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Ping</surname>
+                <given-names>JS</given-names>
+              </name>
+              <name>
+                <surname>Mark</surname>
+                <given-names>JB</given-names>
+              </name>
+            </person-group>
+            <article-title>Arterial and central venous pressure monitoring.</article-title>
+            <source>Int Anesthesiol Clin</source>
+            <year>2004</year>
+            <season>Winter</season>
+            <volume>42</volume>
+            <issue>1</issue>
+            <fpage>13</fpage>
+            <page-range>13-30</page-range>
+            <pub-id pub-id-type="pmid">14716195</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18396.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wang</surname>
+                <given-names>KM</given-names>
+              </name>
+              <name>
+                <surname>Sirich</surname>
+                <given-names>TL</given-names>
+              </name>
+              <name>
+                <surname>Chang</surname>
+                <given-names>TI</given-names>
+              </name>
+            </person-group>
+            <article-title>Timing of blood pressure medications and intradialytic hypotension.</article-title>
+            <source>Semin Dial</source>
+            <year>2019</year>
+            <month>May</month>
+            <volume>32</volume>
+            <issue>3</issue>
+            <fpage>201</fpage>
+            <page-range>201-204</page-range>
+            <pub-id pub-id-type="pmid">30836447</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18396.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>M&#x000fc;hlbauer</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Dallmeier</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Brefka</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Bollig</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Voigt-Radloff</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Denkinger</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>The Pharmacological Treatment of Arterial Hypertension in Frail, Older Patients&#x02014;a Systematic Review.</article-title>
+            <source>Dtsch Arztebl Int</source>
+            <year>2019</year>
+            <month>Jan</month>
+            <day>18</day>
+            <volume>116</volume>
+            <issue>3</issue>
+            <fpage>23</fpage>
+            <page-range>23-30</page-range>
+            <pub-id pub-id-type="pmid">30832759</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18396.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Leal</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Morrow</surname>
+                <given-names>LM</given-names>
+              </name>
+              <name>
+                <surname>Khurshid</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Pagano</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Feenstra</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Decision models of prediabetes populations: A systematic review.</article-title>
+            <source>Diabetes Obes Metab</source>
+            <year>2019</year>
+            <month>Jul</month>
+            <volume>21</volume>
+            <issue>7</issue>
+            <fpage>1558</fpage>
+            <page-range>1558-1569</page-range>
+            <pub-id pub-id-type="pmid">30828927</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18396.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Phelps</surname>
+                <given-names>PK</given-names>
+              </name>
+              <name>
+                <surname>Kelley</surname>
+                <given-names>EF</given-names>
+              </name>
+              <name>
+                <surname>Walla</surname>
+                <given-names>DM</given-names>
+              </name>
+              <name>
+                <surname>Ross</surname>
+                <given-names>JK</given-names>
+              </name>
+              <name>
+                <surname>Simmons</surname>
+                <given-names>JJ</given-names>
+              </name>
+              <name>
+                <surname>Bulock</surname>
+                <given-names>EK</given-names>
+              </name>
+              <name>
+                <surname>Ayres</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Akre</surname>
+                <given-names>MK</given-names>
+              </name>
+              <name>
+                <surname>Sprissler</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Olson</surname>
+                <given-names>TP</given-names>
+              </name>
+              <name>
+                <surname>Snyder</surname>
+                <given-names>EM</given-names>
+              </name>
+            </person-group>
+            <article-title>Relationship between a Weighted Multi-Gene Algorithm and Blood Pressure Control in Hypertension.</article-title>
+            <source>J Clin Med</source>
+            <year>2019</year>
+            <month>Feb</month>
+            <day>28</day>
+            <volume>8</volume>
+            <issue>3</issue>
+            <pub-id pub-id-type="pmid">30823438</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18396.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Di Bonito</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Valerio</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Pacifico</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Chiesa</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Invitti</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Morandi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Licenziati</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Manco</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Giudice</surname>
+                <given-names>EMD</given-names>
+              </name>
+              <name>
+                <surname>Baroni</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Loche</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Tornese</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Franco</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Maffeis</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>de Simone</surname>
+                <given-names>G</given-names>
+              </name>
+              <collab>CARITALY Study group</collab>
+              <collab>on the behalf of the Childhood Obesity Study Group of the Italian Society of Pediatric Endocrinology, Diabetology</collab>
+            </person-group>
+            <article-title>Impact of the 2017 Blood Pressure Guidelines by the American Academy of Pediatrics in overweight/obese youth.</article-title>
+            <source>J Hypertens</source>
+            <year>2019</year>
+            <month>Apr</month>
+            <volume>37</volume>
+            <issue>4</issue>
+            <fpage>732</fpage>
+            <page-range>732-738</page-range>
+            <pub-id pub-id-type="pmid">30817454</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

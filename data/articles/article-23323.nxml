@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-23323" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>I-123 Uptake</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Kim</surname>
+            <given-names>Phillip D.</given-names>
+          </name>
+          <aff>Einstein Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Tran</surname>
+            <given-names>Huyen D.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Phillip Kim declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Huyen Tran declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>31</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-23323.s1" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>The radioactive iodine uptake (RAIU) test is used to quantitate the overall metabolism and kinetics of iodine in the thyroid gland by measuring how much orally ingested iodide is concentrated in the thyroid gland. Iodine-123 (I-123) is the most commonly used isotope for RAIU.</p>
+        <p>Iodine is essential for metabolism as it is required for the intrathyroidal synthesis of triiodothyronine (T3) and thyroxine (T4). Dietary iodide (I-, the ionized form of iodine) is rapidly absorbed by the gastrointestinal tract into plasma. It enters the follicular cells of the thyroid gland through the sodium-iodide symporter (NIS). NIS utilizes a gradient created by sodium-potassium ATPase for cotransport. NIS is predominantly found in the basolateral membrane of the thyroid follicular cells, where it can increase the concentration of the iodide in the thyroid gland up to 40 times the plasma level.<xref ref-type="bibr" rid="article-23323.r1">[1]</xref> NIS is one factor affecting the concentration of iodine accumulated within the thyroid gland, and its expression is regulated by thyroid-stimulating hormone (TSH).<xref ref-type="bibr" rid="article-23323.r2">[2]</xref> Once in the thyroid gland, the iodide is processed through organification into thyroglobulin to produce T3 and T4.<xref ref-type="bibr" rid="article-23323.r2">[2]</xref></p>
+        <p>I-123, a radioisotope of iodine, is often used for RAIU together with nuclear medicine thyroid imaging, also known as thyroid scan. I-123 is produced in a cyclotron by bombarding Xenon-124 (Xe-124) or Tellurium-123 (Te-123) with protons.&#x000a0;I-123 has a gamma emission of 159 keV and half-life of 13 hours, decaying by electron capture to form Te-123.<xref ref-type="bibr" rid="article-23323.r3">[3]</xref>&#x000a0;I-123 Sodium Iodide is taken orally as a pill or liquid, where the iodide is rapidly absorbed in the upper gastrointestinal tract. The radioisotope can be seen concentrating in the thyroid gland within 20-30 minutes. RAIU with I-123 is usually performed 24 hours after administration to reduce background. An additional uptake measurement is sometimes taken at 4&#x000a0;to 6 hrs.</p>
+      </sec>
+      <sec id="article-23323.s2" sec-type="Procedures">
+        <title>Procedures</title>
+        <p>RAIU preparation begins with limiting the patients' intake of iodine and avoiding interfering medications to maximize I-123 uptake by thyroid tissue.<xref ref-type="bibr" rid="article-23323.r4">[4]</xref>&#x000a0;For RAIU alone, 3.7 MBq (100 &#x000b5;Ci) of Sodium Iodide I-123 is administered orally. An uptake probe (2-inch diameter), with non-radioactive thallium, activated sodium iodide (NaI (Tl)) crystal (approximately 2 inches thick), a flat field collimator, photomultiplier tube detector, and multi-channel analyzer are used for counting of the 159 keV gamma peak. If rapid iodine turnover is suspected in hyperthyroidism, RAIU may be done at 4-6 hours in addition to the routine 24 hours delay. The radioactive dose is initially placed in a lucite neck phantom with the same geometry as the patient's neck and counted prior to administration. A second nearly identical Standard dose, which is not administered to the patient, may also be used in the phantom when subsequent counts of the neck are taken. The patient is positioned either sitting or supine with neck extended, and the probe positioned at a constant distance of 20 cm to 30 cm. Counts are also obtained of room background and of the patient's mid-thigh away from the urinary bladder for the patient background.</p>
+        <p>If no second standard dose is used, decay corrected 24 hours (24h) RAIU is calculated:</p>
+        <p>RAIU (in %) = {(24h Neck - 24h Thigh) / ([Initial Dose in Phantom counts - Initial Room Background] x I-123 decay correction factor for 24h)} x 100%</p>
+        <p>If a second nearly identical standard dose is used, the 24h calculation RAIU is calculated factoring in the standard dose:</p>
+        <p>RAIU (in %) = {(24h Neck - 24h Thigh) / (|Correction factor to adjust for difference in activity between initial patient dose and initial Standard dose| x [24h Standard in Phantom - 24h Room Background])} x 100%</p>
+        <p>In the absence of an uptake probe, a nuclear scintillation gamma camera with a low energy parallel hole collimator can be used if validated by comparison with a reliable standard.<xref ref-type="bibr" rid="article-23323.r5">[5]</xref><xref ref-type="bibr" rid="article-23323.r6">[6]</xref>&#x000a0;For the perchlorate discharge test in neonatal hypothyroidism, RAIU is performed before and after perchlorate administration.<xref ref-type="bibr" rid="article-23323.r7">[7]</xref></p>
+        <p>For combined thyroid RAIU uptake and scan, the oral dose is 7.4&#x000a0;to 14.8 MBq (200&#x000a0;to 400 &#x000b5;Ci). RAIU is done as above, while for the scan, the thyroid is imaged using either a conventional or small field gamma camera with a pin-hole or parallel-hole collimator centered at 159 KeV after 24 hrs. Imaging is captured with the patient lying supine with the neck extended.</p>
+        <p>Thyroid radioactive uptake can also be measured using intravenous technetium-99m (Tc-99m) pertechnetate. However, Tc-99m pertechnetate is trapped, but not organified, and may not always reflect true overall thyroid function. RAIU can also be measured using I-131 sodium iodide, which, like I-123 sodium iodide, is both trapped and organified. I-131 has a half-life of 8 days and has both a beta minus emission and a principal 364 keV gamma photon emission; thus, patient ionizing radiation exposure is much higher with I-131. RAIU with I-123 sodium iodide is much more popular, if available.<xref ref-type="bibr" rid="article-23323.r6">[6]</xref><xref ref-type="bibr" rid="article-23323.r5">[5]</xref></p>
+      </sec>
+      <sec id="article-23323.s3" sec-type="Indications">
+        <title>Indications</title>
+        <p>RAIU with I-123 is used to measure overall thyroid function in hyperthyroidism, to help differentiate among differential causes, including productive thyrotoxicosis, destructive thyrotoxicosis, and factitious thyrotoxicosis. It can also be used to help calculate the dose for I-131 therapy. I-123 RAIU and scan may be helpful in the evaluation of thyroid nodules if the TSH is subnormal to low. I-123 RAIU&#x02019;s value is limited in evaluating hypothyroidism but can be used as part of the perchlorate discharge test to identify an iodine organification defect in neonatal hypothyroidism.<xref ref-type="bibr" rid="article-23323.r8">[8]</xref><xref ref-type="bibr" rid="article-23323.r9">[9]</xref><xref ref-type="bibr" rid="article-23323.r10">[10]</xref><xref ref-type="bibr" rid="article-23323.r7">[7]</xref></p>
+      </sec>
+      <sec id="article-23323.s4" sec-type="Potential Diagnosis">
+        <title>Potential Diagnosis</title>
+        <p>Normal thyroid metabolism, increased thyroid metabolism, and decreased thyroid metabolism are potential diagnoses from the RAIU I-123 test.</p>
+      </sec>
+      <sec id="article-23323.s5" sec-type="Normal and Critical Findings">
+        <title>Normal and Critical Findings</title>
+        <p>The normal reference range for RAIU will vary by laboratory, partly depending on local geographic dietary iodine intake. Sample normal RAIU ranges could be 6-18% at 4 hours and 10&#x000a0;to 35% at 24 hours.</p>
+        <p>Thyrotoxicosis can be defined as a clinical state in response to an elevated thyroid hormone, which may be due to inappropriately elevated secretion or synthesis of thyroid hormone. Many disease states can cause an abnormally elevated thyroid hormone level. Regarding nodules, hyperfunctioning nodules or nodules that have increased radiotracer uptake are rarely malignant, and no cytologic evaluation is indicated.<xref ref-type="bibr" rid="article-23323.r8">[8]</xref>&#x000a0;</p>
+        <p>
+<bold>Graves Disease</bold>
+</p>
+        <p>Graves disease classically presents as hyperthyroidism with a suppressed TSH. Graves disease is an autoimmune disease caused by an antibody targeted at the TSH receptor. This antibody mimics TSH, causing excessive stimulation of the thyroid gland. The I-123 exam would demonstrate a diffusely enlarged thyroid gland with increased RAIU.<xref ref-type="bibr" rid="article-23323.r10">[10]</xref> The pyramidal lobe, which is often not visualized, may be seen just superior to the isthmus due to diffuse increased radiotracer uptake of the thyroid in Graves disease.</p>
+        <p>Occasionally, the 24 hours radiotracer uptake of the thyroid gland will be normal in a patient with Graves disease. This finding is due to the rapid turnover of the thyroid hormone, which depletes the radiotracer taken up by the thyroid gland.&#x000a0;RAIU at 4-6 hours will demonstrate increased radiotracer, which can help diagnose Graves disease with rapid iodine turnover.<xref ref-type="bibr" rid="article-23323.r11">[11]</xref></p>
+        <p>A variant of Graves disease, termed Marine-Lenhart syndrome, can be seen when cold thyroid nodules are also present in the setting of Graves disease.<xref ref-type="bibr" rid="article-23323.r11">[11]</xref><xref ref-type="bibr" rid="article-23323.r12">[12]</xref> This presentation can also be described as Graves disease with multinodular goiter and appears as cold nodular areas in a thyroid gland with overall increased radiotracer uptake. RAIU is increased in Graves disease and Marine-Lenhart syndrome.</p>
+        <p>
+<bold>Toxic Autonomous Nodule</bold>
+</p>
+        <p>A thyroid nodule may act independently of TSH and continually excrete the thyroid hormone. This thyroid nodule will demonstrate increased radiotracer uptake, while the remaining thyroid may demonstrate normal or decreased radiotracer uptake depending on the extent of excretion from the toxic autonomous nodule. The toxic nodules are histologically adenomas and oftentimes demonstrate mutated TSH receptors, which are perpetually activated.<xref ref-type="bibr" rid="article-23323.r11">[11]</xref>&#x000a0;The toxic autonomous nodule is also referred to as Plummer disease. Overall, thyroid gland RAIU may be mildly decreased, regular, or mildly elevated in a toxic autonomous nodule.</p>
+        <p>
+<bold>Toxic Multinodular Goiter</bold>
+</p>
+        <p>Multinodular goiter is usually a diagnosis initially found on physical exam or ultrasound of an enlarged thyroid with multiple nodules. These nodules can eventually progress to hyperplasia and possibly become autonomous. There is often low to subnormal TSH, and the radiotracer uptake is heterogeneous with areas of increased uptake representing hot nodules along with areas of decreased uptake representing cold nodules. The extent of thyrotoxicosis is usually milder when compared to Graves' disease. Overall, thyroid gland RAIU may be mildly decreased, normal, or mildly elevated in toxic multinodular goiter.<xref ref-type="bibr" rid="article-23323.r11">[11]</xref><xref ref-type="bibr" rid="article-23323.r12">[12]</xref></p>
+        <p>
+<bold>Iodine-induced Hyperthyroidism</bold>
+</p>
+        <p>The body's natural mechanism to prevent excess thyroid hormone production is known as the Wolff-Chaikoff effect, which works by&#x000a0;preventing the organification of thyroglobulin to T3 or T4. The Wolff-Chaikoff effect regulates thyroid hormone production when an excess amount of iodine is administered, which can be seen with iodine-containing medications (most commonly amiodarone), iodine-containing contrast administration, or even excess dietary intake, more prominently seen in areas of iodine deficiency. Occasionally, the thyroid may develop autonomous nodules, which are able to bypass the Wolff-Chaikoff effect and induce hyperthyroidism in the setting of iodine repletion. This effect, called the Jod-Basedow phenomenon, is more commonly seen in regions of iodine deficiency. I-123 scans demonstrate uniformly low radiotracer uptake, and the RAIU is decreased.<xref ref-type="bibr" rid="article-23323.r11">[11]</xref></p>
+        <p>
+<bold>Subacute Thyroiditis</bold>
+</p>
+        <p>Subacute thyroiditis, also known as giant cell thyroiditis or de Quervain thyroiditis, is classically characterized as thyrotoxicosis with neck pain and fever, which is often preceded by a viral upper respiratory infection. The post-infectious inflammatory response leads to giant cell invasion of the thyroid tissue, causing disruption and leakage of thyroid hormone. As the thyroid hormone is no longer concentrated in the thyroid tissue, the RAIU is diminished. Clinically, the patient will have a suppressed TSH.<xref ref-type="bibr" rid="article-23323.r12">[12]</xref></p>
+        <p>
+<bold>Silent Thyroiditis</bold>
+</p>
+        <p>Silent thyroiditis, an autoimmune disease, is characterized by lymphocytes infiltrating the thyroid gland, causing disruption of the thyroid gland and subsequent release of thyroid hormone. Thyroid peroxidase (TPO) is also classically elevated in silent thyroiditis. Unlike subacute thyroiditis, silent thyroiditis is painless. Silent thyroiditis can also be seen postpartum, where symptoms may be seen 2-6 months following delivery and are usually self-limiting, lasting 2-6 weeks. The elevated released thyroid hormone causes a low TSH. The thyroid gland demonstrates reduced RAIU, similar to subacute thyroiditis.<xref ref-type="bibr" rid="article-23323.r12">[12]</xref><xref ref-type="bibr" rid="article-23323.r13">[13]</xref><xref ref-type="bibr" rid="article-23323.r11">[11]</xref></p>
+        <p>
+<bold>Hashimoto Thyroiditis</bold>
+</p>
+        <p>Hashimoto thyroiditis is an autoimmune disease in which there is lymphocytic infiltration of the thyroid tissue with autoimmunity to thyroid antigens. These antibodies may include antithyroglobulin (seen in 55-90%) and antibodies to TPO (seen in 90-95%). Lymphocytic and plasma cell infiltration eventually lead to the destruction of the thyroid follicles followed by fibrosis. The fibrosis leads to enlargement of the thyroid gland. As the disease progresses, more thyroid tissue is replaced with fibrosis, leading to depressed thyroid hormone production and a hypothyroid state. Radiotracer uptake is dependent on the phase of disease imaged. During the early disease, there is an increased release of thyroid hormone due to the destruction of the thyroid follicles, and RAIU is increased. With the progression of the disease, the body eventually becomes hypothyroid with consistent scintigraphy findings of decreased RAIU and an elevated TSH. The decreased radiotracer uptake is nonuniform as areas of fibrosis do not uptake radiotracer.<xref ref-type="bibr" rid="article-23323.r13">[13]</xref></p>
+        <p>
+<bold>Thyrotoxicosis of Extrathyroidal Origin</bold>
+</p>
+        <p>There are multiple sources of extrathyroidal thyroid hormone, including exogenous thyroid hormone ingestion seen in factitious hyperthyroidism, thyroid hormone-producing metastatic thyroid cancer, and struma ovarii, a teratomatous ovarian mass that contains functional thyroid tissue. Another extrathyroidal cause of thyrotoxicosis includes TSH-induced thyrotoxicosis, which is caused by an autonomous TSH secreting pituitary adenoma, the only extrathyroidal cause associated with an elevated RAIU. Clinically, patients can have varying levels of thyrotoxicosis, depending on the level of excretion the exogenous source releases. Factitious hyperthyroidism can often be difficult to diagnose as the patients rarely disclose exogenous thyroid ingestion. Oftentimes the ingested thyroid hormone is T4, which may yield a higher than normal T4 to T3 ratio. Thyroid hormone production from metastatic thyroid malignancy is not very common as it requires a well-differentiated metastatic malignancy, which is usually less efficient at producing and excreting thyroid hormone. These metastases are usually seen in the setting of known thyroid cancer on I-131 imaging. Similar to metastasis, struma ovarii does not efficiently excrete thyroid hormone and rarely produces significant amounts of thyroid hormone. Struma ovarii is often found incidentally when pathology of an ovarian mass returns with thyroid tissue. RAIU of the overall thyroid gland in the neck is decreased, while the lesion may have elevated RAIU.<xref ref-type="bibr" rid="article-23323.r11">[11]</xref></p>
+        <p>
+<bold>Neonatal Hypothyroidism</bold>
+</p>
+        <p>If RAIU is reduced by at least 10% after administration of sodium perchlorate, an iodine organification defect is identified as the cause of neonatal hypothyroidism.<xref ref-type="bibr" rid="article-23323.r7">[7]</xref></p>
+      </sec>
+      <sec id="article-23323.s6" sec-type="Interfering Factors">
+        <title>Interfering Factors</title>
+        <p>Iodine intake should be limited prior to an I-123 RAIU or RAIU uptake and scan. If the patient is exposed to too much iodine prior to scanning, the thyroid gland uptakes less iodine, decreasing the sensitivity of the RAIU and scan. Potential sources of iodine include iodine contrast agents, iodine-containing medications, including amiodarone, and an iodine-rich diet, including kelp and seaweed.<xref ref-type="bibr" rid="article-23323.r2">[2]</xref> Iodinated intravenous contrast should be avoided for 4-8 weeks prior to an I-123 uptake scan.<xref ref-type="bibr" rid="article-23323.r4">[4]</xref><xref ref-type="bibr" rid="article-23323.r2">[2]</xref>&#x000a0;Interestingly, iodinated contrast material acts to reduce radiotracer uptake by reducing the number of NIS symporters independent of iodinated contrast&#x02019;s free iodine.<xref ref-type="bibr" rid="article-23323.r4">[4]</xref>&#x000a0;Amiodarone should be avoided for 3-6 months prior to an I-123 RAIU or uptake and scan.<xref ref-type="bibr" rid="article-23323.r2">[2]</xref>&#x000a0;Additional medications to hold include anti-thyroid medications, including methimazole, carbimazole, propylthiouracil and thyroid hormone replacement, including levothyroxine (LT4) and liothyronine (LT3).</p>
+      </sec>
+      <sec id="article-23323.s7" sec-type="Complications">
+        <title>Complications</title>
+        <p>No serious complications are known for the I-123 exam, aside from the factors that may decrease the sensitivity of the I-123 uptake scan or the contraindications of exposing a pregnancy or newborn to radiation through the placenta or breastfeeding. Because iodide freely passes through the placenta and is concentrated and excreted by lactating breast, I-123 administration is relatively contraindicated in pregnant patients and nursing mothers. In order for the radiotracer to be administered and absorbed, the patient must be able to tolerate orally ingesting the I-123 capsule or liquid.</p>
+        <p>To avoid errors, routine nuclear medicine quality control of the uptake probe, including sensitivity and energy spectrum, constancy, background, peaking, energy resolution, efficiency, and minimum detectable activity, should be performed and documented. Other error sources include incorrect positioning of patient or phantom or patient background (which should be mid-thigh, not near urinary bladder), substernal thyroid gland, contamination of phantom, malabsorption of the dose, high background activity, recent iodinated contrast administration, and patient radioactivity from another radiopharmaceutical. Renal failure can elevate RAIU, while illness such as euthyroid sick syndrome can reduce RAIU.<xref ref-type="bibr" rid="article-23323.r2">[2]</xref><xref ref-type="bibr" rid="article-23323.r5">[5]</xref><xref ref-type="bibr" rid="article-23323.r6">[6]</xref></p>
+      </sec>
+      <sec id="article-23323.s8" sec-type="Patient Safety and Education">
+        <title>Patient Safety and Education</title>
+        <p>
+<bold>Patient Safety</bold>
+</p>
+        <p>I-123 is relatively safe as a gamma emitter except in pregnant patients and nursing mothers. The effective dose equivalent for a 3.7 MBq (100 &#x000b5;Ci) I-123 RAIU is estimated at 0.74 mSv (74 mrem).<xref ref-type="bibr" rid="article-23323.r2">[2]</xref><xref ref-type="bibr" rid="article-23323.r14">[14]</xref><xref ref-type="bibr" rid="article-23323.r15">[15]</xref>&#x000a0;Dosing of I-123 in children should be adjusted for patient weight, as low as reasonably achievable while maintaining test accuracy.</p>
+        <p>
+<bold>Patient Education</bold>
+</p>
+        <p>I-123 is a radioisotope of iodine used for a thyroid uptake scan. By measuring the amount of radiotracer uptake, the RAIU study is able to identify the activity of the overall thyroid gland. In conjunction with clinical symptoms, blood work, and other imaging findings (such as ultrasound), and I-123 RAIU, or RAIU and thyroid scan, can create a better picture of the thyroid pathology and help provide a diagnosis.</p>
+      </sec>
+      <sec id="article-23323.s9" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>RAIU with I-123 scintigraphy is a useful thyroid test, which provides overall functional information about the thyroid gland, including its activity. In conjunction with laboratory findings, such as the thyroid hormone levels and thyroid-stimulating hormone, and physical examination, and other imaging tests, I-123 RAIU can aid in diagnosing causes of thyrotoxicosis, help in the calculation of I-131 therapy doses, and detect an iodine organification defect in neonatal hypothyroidism.</p>
+      </sec>
+      <sec id="article-23323.s10">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=23323&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=23323">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/23323/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=23323">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-23323.s11">
+        <title>References</title>
+        <ref id="article-23323.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ravera</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Reyna-Neyra</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Ferrandino</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Amzel</surname>
+                <given-names>LM</given-names>
+              </name>
+              <name>
+                <surname>Carrasco</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>The Sodium/Iodide Symporter (NIS): Molecular Physiology and Preclinical and Clinical Applications.</article-title>
+            <source>Annu Rev Physiol</source>
+            <year>2017</year>
+            <month>Feb</month>
+            <day>10</day>
+            <volume>79</volume>
+            <fpage>261</fpage>
+            <page-range>261-289</page-range>
+            <pub-id pub-id-type="pmid">28192058</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23323.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Giovanella</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Avram</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Iakovou</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Kwak</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Lawson</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>Lulaj</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Luster</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Piccardo</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Schmidt</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Tulchinsky</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Verburg</surname>
+                <given-names>FA</given-names>
+              </name>
+              <name>
+                <surname>Wolin</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>EANM practice guideline/SNMMI procedure standard for RAIU and thyroid scintigraphy.</article-title>
+            <source>Eur J Nucl Med Mol Imaging</source>
+            <year>2019</year>
+            <month>Nov</month>
+            <volume>46</volume>
+            <issue>12</issue>
+            <fpage>2514</fpage>
+            <page-range>2514-2525</page-range>
+            <pub-id pub-id-type="pmid">31392371</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23323.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Synowiecki</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Perk</surname>
+                <given-names>LR</given-names>
+              </name>
+              <name>
+                <surname>Nijsen</surname>
+                <given-names>JFW</given-names>
+              </name>
+            </person-group>
+            <article-title>Production of novel diagnostic radionuclides in small medical cyclotrons.</article-title>
+            <source>EJNMMI Radiopharm Chem</source>
+            <year>2018</year>
+            <volume>3</volume>
+            <issue>1</issue>
+            <fpage>3</fpage>
+            <pub-id pub-id-type="pmid">29503860</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23323.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Vassaux</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Zwarthoed</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Signetti</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Guglielmi</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Compin</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Guigonis</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Juhel</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Humbert</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Benisvy</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Pourcher</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Cambien</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Iodinated Contrast Agents Perturb Iodide Uptake by the Thyroid Independently of Free Iodide.</article-title>
+            <source>J Nucl Med</source>
+            <year>2018</year>
+            <month>Jan</month>
+            <volume>59</volume>
+            <issue>1</issue>
+            <fpage>121</fpage>
+            <page-range>121-126</page-range>
+            <pub-id pub-id-type="pmid">29051343</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23323.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Becker</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Charkes</surname>
+                <given-names>ND</given-names>
+              </name>
+              <name>
+                <surname>Dworkin</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Hurley</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>McDougall</surname>
+                <given-names>IR</given-names>
+              </name>
+              <name>
+                <surname>Price</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Royal</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Sarkar</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Procedure guideline for thyroid uptake measurement: 1.0. Society of Nuclear Medicine.</article-title>
+            <source>J Nucl Med</source>
+            <year>1996</year>
+            <month>Jul</month>
+            <volume>37</volume>
+            <issue>7</issue>
+            <fpage>1266</fpage>
+            <page-range>1266-8</page-range>
+            <pub-id pub-id-type="pmid">8965210</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23323.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zanzonico</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Routine quality control of clinical nuclear medicine instrumentation: a brief review.</article-title>
+            <source>J Nucl Med</source>
+            <year>2008</year>
+            <month>Jul</month>
+            <volume>49</volume>
+            <issue>7</issue>
+            <fpage>1114</fpage>
+            <page-range>1114-31</page-range>
+            <pub-id pub-id-type="pmid">18587088</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23323.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>LaFranchi</surname>
+                <given-names>SH</given-names>
+              </name>
+            </person-group>
+            <article-title>Approach to the diagnosis and treatment of neonatal hypothyroidism.</article-title>
+            <source>J Clin Endocrinol Metab</source>
+            <year>2011</year>
+            <month>Oct</month>
+            <volume>96</volume>
+            <issue>10</issue>
+            <fpage>2959</fpage>
+            <page-range>2959-67</page-range>
+            <pub-id pub-id-type="pmid">21976744</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23323.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Haugen</surname>
+                <given-names>BR</given-names>
+              </name>
+              <name>
+                <surname>Alexander</surname>
+                <given-names>EK</given-names>
+              </name>
+              <name>
+                <surname>Bible</surname>
+                <given-names>KC</given-names>
+              </name>
+              <name>
+                <surname>Doherty</surname>
+                <given-names>GM</given-names>
+              </name>
+              <name>
+                <surname>Mandel</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Nikiforov</surname>
+                <given-names>YE</given-names>
+              </name>
+              <name>
+                <surname>Pacini</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Randolph</surname>
+                <given-names>GW</given-names>
+              </name>
+              <name>
+                <surname>Sawka</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Schlumberger</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Schuff</surname>
+                <given-names>KG</given-names>
+              </name>
+              <name>
+                <surname>Sherman</surname>
+                <given-names>SI</given-names>
+              </name>
+              <name>
+                <surname>Sosa</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Steward</surname>
+                <given-names>DL</given-names>
+              </name>
+              <name>
+                <surname>Tuttle</surname>
+                <given-names>RM</given-names>
+              </name>
+              <name>
+                <surname>Wartofsky</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer: The American Thyroid Association Guidelines Task Force on Thyroid Nodules and Differentiated Thyroid Cancer.</article-title>
+            <source>Thyroid</source>
+            <year>2016</year>
+            <month>Jan</month>
+            <volume>26</volume>
+            <issue>1</issue>
+            <fpage>1</fpage>
+            <page-range>1-133</page-range>
+            <pub-id pub-id-type="pmid">26462967</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23323.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gharib</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Papini</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Garber</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Duick</surname>
+                <given-names>DS</given-names>
+              </name>
+              <name>
+                <surname>Harrell</surname>
+                <given-names>RM</given-names>
+              </name>
+              <name>
+                <surname>Heged&#x000fc;s</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Paschke</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Valcavi</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Vitti</surname>
+                <given-names>P</given-names>
+              </name>
+              <collab>AACE/ACE/AME Task Force on Thyroid Nodules</collab>
+            </person-group>
+            <article-title>AMERICAN ASSOCIATION OF CLINICAL ENDOCRINOLOGISTS, AMERICAN COLLEGE OF ENDOCRINOLOGY, AND ASSOCIAZIONE MEDICI ENDOCRINOLOGI MEDICAL GUIDELINES FOR CLINICAL PRACTICE FOR THE DIAGNOSIS AND MANAGEMENT OF THYROID NODULES--2016 UPDATE.</article-title>
+            <source>Endocr Pract</source>
+            <year>2016</year>
+            <month>May</month>
+            <volume>22</volume>
+            <issue>5</issue>
+            <fpage>622</fpage>
+            <page-range>622-39</page-range>
+            <pub-id pub-id-type="pmid">27167915</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23323.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bahn</surname>
+                <given-names>RS</given-names>
+              </name>
+              <name>
+                <surname>Burch</surname>
+                <given-names>HB</given-names>
+              </name>
+              <name>
+                <surname>Cooper</surname>
+                <given-names>DS</given-names>
+              </name>
+              <name>
+                <surname>Garber</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Greenlee</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Klein</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Laurberg</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>McDougall</surname>
+                <given-names>IR</given-names>
+              </name>
+              <name>
+                <surname>Montori</surname>
+                <given-names>VM</given-names>
+              </name>
+              <name>
+                <surname>Rivkees</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>Ross</surname>
+                <given-names>DS</given-names>
+              </name>
+              <name>
+                <surname>Sosa</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Stan</surname>
+                <given-names>MN</given-names>
+              </name>
+              <collab>American Thyroid Association</collab>
+              <collab>American Association of Clinical Endocrinologists</collab>
+            </person-group>
+            <article-title>Hyperthyroidism and other causes of thyrotoxicosis: management guidelines of the American Thyroid Association and American Association of Clinical Endocrinologists.</article-title>
+            <source>Endocr Pract</source>
+            <year>2011</year>
+            <season>May-Jun</season>
+            <volume>17</volume>
+            <issue>3</issue>
+            <fpage>456</fpage>
+            <page-range>456-520</page-range>
+            <pub-id pub-id-type="pmid">21700562</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23323.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Intenzo</surname>
+                <given-names>CM</given-names>
+              </name>
+              <name>
+                <surname>dePapp</surname>
+                <given-names>AE</given-names>
+              </name>
+              <name>
+                <surname>Jabbour</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Miller</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Capuzzi</surname>
+                <given-names>DM</given-names>
+              </name>
+            </person-group>
+            <article-title>Scintigraphic manifestations of thyrotoxicosis.</article-title>
+            <source>Radiographics</source>
+            <year>2003</year>
+            <season>Jul-Aug</season>
+            <volume>23</volume>
+            <issue>4</issue>
+            <fpage>857</fpage>
+            <page-range>857-69</page-range>
+            <pub-id pub-id-type="pmid">12853661</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23323.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Intenzo</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Jabbour</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Miller</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Ahmed</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Furlong</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Kushen</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Capuzzi</surname>
+                <given-names>DM</given-names>
+              </name>
+            </person-group>
+            <article-title>Subclinical hyperthyroidism: current concepts and scintigraphic imaging.</article-title>
+            <source>Clin Nucl Med</source>
+            <year>2011</year>
+            <month>Sep</month>
+            <volume>36</volume>
+            <issue>9</issue>
+            <fpage>e107</fpage>
+            <page-range>e107-13</page-range>
+            <pub-id pub-id-type="pmid">21825836</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23323.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Intenzo</surname>
+                <given-names>CM</given-names>
+              </name>
+              <name>
+                <surname>Capuzzi</surname>
+                <given-names>DM</given-names>
+              </name>
+              <name>
+                <surname>Jabbour</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>dePapp</surname>
+                <given-names>AE</given-names>
+              </name>
+            </person-group>
+            <article-title>Scintigraphic features of autoimmune thyroiditis.</article-title>
+            <source>Radiographics</source>
+            <year>2001</year>
+            <season>Jul-Aug</season>
+            <volume>21</volume>
+            <issue>4</issue>
+            <fpage>957</fpage>
+            <page-range>957-64</page-range>
+            <pub-id pub-id-type="pmid">11452070</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23323.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Rosenberg</surname>
+                <given-names>RD</given-names>
+              </name>
+              <name>
+                <surname>Mettler</surname>
+                <given-names>FA</given-names>
+              </name>
+              <name>
+                <surname>Moseley</surname>
+                <given-names>RD</given-names>
+              </name>
+              <name>
+                <surname>Parker</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Williams</surname>
+                <given-names>AG</given-names>
+              </name>
+              <name>
+                <surname>Christie</surname>
+                <given-names>JH</given-names>
+              </name>
+              <name>
+                <surname>Kelsey</surname>
+                <given-names>CA</given-names>
+              </name>
+            </person-group>
+            <article-title>Thyroid radiation absorbed dose from diagnostic procedures in U.S. population.</article-title>
+            <source>Radiology</source>
+            <year>1985</year>
+            <month>Jul</month>
+            <volume>156</volume>
+            <issue>1</issue>
+            <fpage>183</fpage>
+            <page-range>183-5</page-range>
+            <pub-id pub-id-type="pmid">2988011</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23323.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <article-title>Summary of current radiation dose estimates to humans from 123I, 124I, 125I, 126I, 130I, 131I, and 132I as sodium iodide.</article-title>
+            <source>J Nucl Med</source>
+            <year>1975</year>
+            <month>Sep</month>
+            <volume>16</volume>
+            <issue>9</issue>
+            <fpage>857</fpage>
+            <page-range>857-60</page-range>
+            <pub-id pub-id-type="pmid">1159517</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

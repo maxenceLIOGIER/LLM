@@ -1,0 +1,1978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-148333" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Neonatal MIS-C</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Krishnan</surname>
+            <given-names>Parvathy</given-names>
+          </name>
+          <aff>Maria Fareri Children&#x02019;s Hospital at Westchester Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Susan George</surname>
+            <given-names>Greshma</given-names>
+          </name>
+          <aff>Parkview Huntington Hospital</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Parvathy Krishnan declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Greshma Susan George declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>5</day>
+          <month>1</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-148333.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Multisystem inflammatory syndrome associated with COVID-19 (MIS-C) in children is defined as persistent fever, evidence of inflammation, and signs of multi-organ dysfunction with or without confirmation of previous COVID-19 infection. Other infectious and inflammatory causes that present with similar signs and symptoms must be excluded before diagnosing MIS-C. MIS-C is considered an immune sequela of COVID-19 and has evolving symptomatology and severity. Early recognition depends on high suspicion in the susceptible population. The mainstay of treatment involves IVIG and corticosteroids. Due to rapid mutations and the contagious nature of the viral infection, covid-19 infection and associated sequelae remain a threat, and better preventative strategies are needed. This activity reviews the incidence, pathophysiology, management, and outcomes of MIS-C in neonates and highlights the importance of timely diagnosis and prompt management of infants with MIS-C.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Describe the etiology and pathophysiology of neonatal MIS-C.</p></list-item><list-item><p>Review the clinical presentation and diagnostic criteria for MIS-C.</p></list-item><list-item><p>Outline current management practices of neonatal MIS-C.</p></list-item><list-item><p>Summarize the outcomes of neonatal MIS-C.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=148333&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=148333">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-148333.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>World Health Organization declared a COVID-19 pandemic in March 2020. SARS-CoV-2 causes COVID-19 infection. It presents as acute respiratory distress syndrome and infects all age groups. In adults, COVID-19 causes acute respiratory failure. In children, COVID-19 usually has a milder clinical course and more favorable outcome than in adults. In contrast to adults and older children, covid-19 infection is uncommon in neonates.<xref ref-type="bibr" rid="article-148333.r1">[1]</xref>&#x000a0;</p>
+        <p>The low incidence of COVID-19 infection in neonates is attributed to the low availability of angiotensin-converting enzyme two receptors in the nasal epithelium, which is thought to be the principal point of access for COVID-19 in the human body. However, hyperinflammatory shock and organ failure cases were reported in neonates and older children with previous COVID-19 and positive antibodies. Following this, a different disease entity associated with COVID-19 in children was described as a multisystem inflammatory syndrome associated with covid-19 (MIS-C).</p>
+        <p>This condition has also been referred to as pediatric multisystem inflammatory syndrome&#x000a0;(PMIS) or pediatric inflammatory,y multisystem syndrome (PIMS). Multisystem inflammatory syndrome associated with COVID-19 (MIS-C) in children is defined as persistent fever, evidence of inflammation, and signs of multiorgan dysfunction with or without confirmation of previous COVID-19 infection.<xref ref-type="bibr" rid="article-148333.r2">[2]</xref>&#x000a0;</p>
+        <p>Other infectious and inflammatory causes with similar signs and symptoms must be excluded before diagnosing MIS-C. MIS-C is considered an immune sequela of COVID-19. MIS-C is typically known to occur after a latency period of 4&#x000a0;to 5 weeks following COVID-19 exposure. MIS-C has broad evolving symptomatology and severity, ranging from asymptomatic to a life-threatening multiorgan failure. Although rare, MISC is known to affect neonates and infants as well.<xref ref-type="bibr" rid="article-148333.r3">[3]</xref></p>
+      </sec>
+      <sec id="article-148333.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p>Neonatal cases of COVID-19 infection are mostly due to horizontal transmission. Vertical transmissions have been reported.<xref ref-type="bibr" rid="article-148333.r4">[4]</xref>&#x000a0;However, recent evidence suggests that vertical transmission is infrequent, which is thought to be due to low placental expression of the canonical receptors required for the entry of the virus.<xref ref-type="bibr" rid="article-148333.r5">[5]</xref></p>
+        <p>Even though the exact etiology of MIS-C is speculative, it is postulated that MIS-C occurs due to a hyperinflammatory response after symptomatic or asymptomatic COVID-19 infection rather than direct cell injury from the virus. Hence, there are a few possible etiologies:</p>
+        <list list-type="order">
+          <list-item>
+            <p>Maternal covid-19 infection and transplacental transfer of maternal antibodies</p>
+          </list-item>
+          <list-item>
+            <p>Transplacental transfer of maternal infection and endogenous production of antibodies</p>
+          </list-item>
+          <list-item>
+            <p>Neonatal COVID-19 infection and post-infectious immune response.<xref ref-type="bibr" rid="article-148333.r6">[6]</xref></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-148333.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p>There is a paucity of data on the incidence of COVID-19 and MIS-C in neonates. MIS-C is estimated to occur only in less than 1 percent of children exposed to COVID-19 infection. Associated risk factors included a history of asthma and obesity. However, the exact incidence of MIS-C in neonates is unknown.</p>
+        <p>According to the reported data from CDC, only 4% of the total MIS-C cases occurred in infants &#x0003c; 1 year.<xref ref-type="bibr" rid="article-148333.r7">[7]</xref> Most neonatal MIS-C data are from case reports and case series.<xref ref-type="bibr" rid="article-148333.r8">[8]</xref><xref ref-type="bibr" rid="article-148333.r9">[9]</xref>&#x000a0;Overall, neonates seem to have a lesser incidence of COVID-19 infection and MIS-C than older children.<xref ref-type="bibr" rid="article-148333.r10">[10]</xref></p>
+      </sec>
+      <sec id="article-148333.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>The exact pathophysiology of MIS-C is unknown.&#x000a0;It is speculated that MIS-C occurs due to an immune-mediated mechanism leading to a cytokine storm and oxidative stress. The cause of immune dysregulation and cytokine storm after COVID-19 infection in children and neonates remains unclear.</p>
+        <p>Maternal COVID-19 infection during pregnancy can impact the developing fetal immune system. Evidence from case reports shows increased inflammatory markers and cytokine functionality in fetuses of mothers with active COVID-19 infection during pregnancy.&#x000a0;Less is known regarding the impact of the timing of the exposure and if these inflammatory responses are transient.<xref ref-type="bibr" rid="article-148333.r11">[11]</xref>&#x000a0;</p>
+        <p>Evidence from the placental studies of the mothers exposed to covid-19 infection during the pregnancy reveals thrombotic and vascular changes,<xref ref-type="bibr" rid="article-148333.r12">[12]</xref>which suggests fetal inflammatory risk even in the absence of an active viral infection in the fetus or neonate.<xref ref-type="bibr" rid="article-148333.r13">[13]</xref></p>
+        <p>During maternal COVID-19 infection, protective maternal IgG antibodies are transferred to the fetus via the transplacental route. In some neonates, this may cause an autoantibody reaction that binds to neutrophil and macrophage receptors and cause cytokine response which leads to MIS-C.<xref ref-type="bibr" rid="article-148333.r14">[14]</xref><xref ref-type="bibr" rid="article-148333.r15">[15]</xref>&#x000a0;</p>
+        <p>Depending on the timing of COVID-19 exposure in the mother, this reaction can occur prenatally or postnatally. Thus, neonates exposed to the covid-19 infection in the mother during the antenatal period can also trigger an inflammatory response postnatally, leading to the development of MIS-C.</p>
+        <p>Thus, MIS-C in neonates can develop due to immune-mediated multisystem injury either due to transplacental transfer of antibodies or antibodies from a neonatal covid-19 infection.<xref ref-type="bibr" rid="article-148333.r14">[14]</xref><xref ref-type="bibr" rid="article-148333.r16">[16]</xref></p>
+      </sec>
+      <sec id="article-148333.s6" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>Signs and symptoms of MIS-C are highly variable. The time&#x000a0;of onset of the symptom of COVID-19 exposure is essential. Since MIS-C is a post-infectious&#x000a0;immune sequela of COVID-19, there usually&#x000a0;is a latency period of 4&#x000a0;or 5 weeks following the COVID-19 exposure to the development&#x000a0;of MIS-C symptoms. It is important to note that infants with a maternal history of COVID-19 exposure may present earlier than 4&#x000a0;to 6 weeks of life due to the placental transfer of antibodies in fetal life. The presentation can range from asymptomatic infection to multiorgan failure. Infants can present with or without fever. Signs of inflammation and multiorgan dysfunction aid the diagnosis.<xref ref-type="bibr" rid="article-148333.r17">[17]</xref>&#x000a0;</p>
+        <p>Symptoms may include fever, rash, conjunctivitis, gastrointestinal symptoms such as emesis, diarrhea, and abdominal tenderness. It is important to note that fever may be absent in infants even with the signs of inflammation and multiorgan dysfunction.<xref ref-type="bibr" rid="article-148333.r6">[6]</xref>&#x000a0;In neonates, symptoms&#x000a0;can vary from older children due to the developmentally immature immune system.&#x000a0;The clinical presentation in neonates can be predominantly gastrointestinal and poor feeding.<xref ref-type="bibr" rid="article-148333.r17">[17]</xref></p>
+        <p>Other clinical signs and symptoms include:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Bilateral non-suppurative rash, conjunctivitis, or mucocutaneous involvement</p>
+          </list-item>
+          <list-item>
+            <p>Hypotension, shock, or signs of cardiovascular dysfunction</p>
+          </list-item>
+          <list-item>
+            <p>Gastrointestinal involvement such as emesis, diarrhea, abdominal tenderness</p>
+          </list-item>
+          <list-item>
+            <p>Respiratory distress or pneumonia</p>
+          </list-item>
+          <list-item>
+            <p>Neurological impairment, seizures, signs of meningitis</p>
+          </list-item>
+          <list-item>
+            <p>Signs of acute kidney injury</p>
+          </list-item>
+          <list-item>
+            <p>Signs of coagulopathy<xref ref-type="bibr" rid="article-148333.r18">[18]</xref></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-148333.s7" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>Diagnosis of MIS-C is based on the characteristic clinical presentation, history of exposure to COVID-19, and characteristic&#x000a0;laboratory abnormalities. Exclusion of other diagnoses with similar presentation and evidence of COVID-19 exposure (prior maternal SARS-CoV-2 exposure, positive neonatal RT-PCR, or positive serology) is also essential while diagnosing MIS-C. The CDC and WHO have published criteria for diagnosing MIS-C in children. However, these criteria may not always be ideal for the neonatal population. Currently, there is no widely agreed definition for diagnosing MIS-C exclusively in neonates.<xref ref-type="bibr" rid="article-148333.r16">[16]</xref></p>
+        <p>Laboratory findings may include the following:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Leukocytosis or leukopenia, neutrophilia, anemia, thrombocytopenia</p>
+          </list-item>
+          <list-item>
+            <p>Elevation of inflammatory markers including C- reactive protein (CRP), erythrocyte sedimentation rate (ESR), procalcitonin, interleukin-6 (IL-6)</p>
+          </list-item>
+          <list-item>
+            <p>Elevation of cardiac markers such as troponin or Pro-BNP</p>
+          </list-item>
+          <list-item>
+            <p>Coagulopathy as evidenced by prolonged prothrombin time, D-dimer elevation</p>
+          </list-item>
+          <list-item>
+            <p>Hypoalbuminemia and hyponatremia</p>
+          </list-item>
+          <list-item>
+            <p>Elevated liver and renal function tests</p>
+          </list-item>
+          <list-item>
+            <p>Metabolic acidosis and elevated lactate</p>
+          </list-item>
+        </list>
+        <p>Laboratory findings are variable, especially in the neonatal population. Therefore, high suspicion is required for the diagnosis of MIS-C in neonates. Laboratory work-up must be done in cases of suspected MIS-C to evaluate the degree of inflammation and end-organ&#x000a0;dysfunction. Positive neonatal real-time&#x000a0;polymerase chain reaction (RT-PCR) or positive serology for SARS-CoV-2 can be considered evidence of prior COVID-19 exposure. A history of maternal SARS-CoV-2 exposure should be obtained in infants with negative testing.</p>
+        <p>To rule out cardiac dysfunction, an electrocardiogram and echocardiographic evaluation must be obtained in all neonates with suspected MIS-C.<xref ref-type="bibr" rid="article-148333.r18">[18]</xref>&#x000a0;Infants with elevated troponins, pro-BNP, or signs of cardiac dysfunction such as hypotension, shock, or need for inotropic support are at a higher risk for myocardial involvement.<xref ref-type="bibr" rid="article-148333.r19">[19]</xref>&#x000a0;Myocardial dysfunction, pericarditis, pericardial effusion, valvulitis, and coronary arterial abnormalities have been reported in children and neonates with MIS-C.<xref ref-type="bibr" rid="article-148333.r20">[20]</xref>&#x000a0;</p>
+        <p>A Chest X-ray&#x000a0;or computed tomography (CT) of the chest may show findings of pulmonary involvement, including interstitial pneumonia, pleural effusion, etc. The abdominal ultrasound should be done in infants with gastrointestinal symptoms to look for organomegaly and gall bladder hydrops and rule out other possible differential diagnoses&#x02014;cases of neurological impairment warrants a brain ultrasound or magnetic resonance imaging (MRI) of the brain.</p>
+      </sec>
+      <sec id="article-148333.s8" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>Treatment for neonatal MIS-C is largely extrapolated from the evidence from the treatment of adults and older children.<xref ref-type="bibr" rid="article-148333.r21">[21]</xref>&#x000a0;Intravenous immunoglobulin and corticosteroids are used to manage MIS-C to improve symptoms related to the increased inflammatory response.<xref ref-type="bibr" rid="article-148333.r18">[18]</xref>&#x000a0;</p>
+        <p>Studies have shown that the combination of IVIG and steroids is more effective than IVIG alone. Inotropic support may be required in cases of cardiovascular dysfunction. Biological agents such as tocilizumab, infliximab, anakinra, and interferons have been used for children and neonates with refractory disease unresponsive to corticosteroids and IVIG. However, data supporting the use of such medications is sparse.<xref ref-type="bibr" rid="article-148333.r1">[1]</xref>&#x000a0;</p>
+        <p>Broad-spectrum antibiotics are mostly used during presentation due to the clinical presentation mimicking sepsis. Antibiotic treatment should be discontinued once the diagnosis is confirmed and the blood cultures are resulted to be negative. Thromboprophylaxis is indicated in cases of high pro-thrombotic risk factors.<xref ref-type="bibr" rid="article-148333.r22">[22]</xref><xref ref-type="bibr" rid="article-148333.r23">[23]</xref></p>
+        <p>The ideal treatment approach must be tailored based on the clinical presentation. More clinical trials are necessary to study the efficacy of various treatment modalities. Long-term follow-up is necessary to elucidate potential sequelae.</p>
+      </sec>
+      <sec id="article-148333.s9" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <p>The signs and symptoms of MIS-C can mimic several other conditions. Important differential diagnoses&#x000a0;to consider include:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Toxic shock syndrome</p>
+          </list-item>
+          <list-item>
+            <p>Macrophage activation syndrome</p>
+          </list-item>
+          <list-item>
+            <p>Kawasaki disease</p>
+          </list-item>
+          <list-item>
+            <p>Hemophagocytic lymphohistiocytosis<xref ref-type="bibr" rid="article-148333.r24">[24]</xref></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-148333.s10" sec-type="Prognosis">
+        <title>Prognosis</title>
+        <p>Short-term outcomes of MIS-C depend on the severity and extent of cardiovascular and respiratory involvement.<xref ref-type="bibr" rid="article-148333.r25">[25]</xref>&#x000a0;Various studies have reported mortality ranging from 1 to 11%.<xref ref-type="bibr" rid="article-148333.r26">[26]</xref><xref ref-type="bibr" rid="article-148333.r27">[27]</xref><xref ref-type="bibr" rid="article-148333.r28">[28]</xref>&#x000a0;With timely diagnosis and management, outcomes are favorable. Long-term follow-up in infants exposed to COVID-19 antenatally or in the neonatal period is necessary to elucidate potential sequelae.</p>
+      </sec>
+      <sec id="article-148333.s11" sec-type="Complications">
+        <title>Complications</title>
+        <p>The most common complications of MIS-C include respiratory distress and cardiovascular dysfunction. Infants with MIS-C also have an increased risk for prothrombotic coagulopathy and thromboembolic complications, including pulmonary thromboembolism.<xref ref-type="bibr" rid="article-148333.r29">[29]</xref>&#x000a0;</p>
+        <p>Case reports have described complications such as deep vein thrombosis, limb ischemia, and intracranial hemorrhage.<xref ref-type="bibr" rid="article-148333.r30">[30]</xref>Other complications, such as pericardial effusion and acute renal failure, have been reported.<xref ref-type="bibr" rid="article-148333.r31">[31]</xref></p>
+      </sec>
+      <sec id="article-148333.s12" sec-type="Consultations">
+        <title>Consultations</title>
+        <p>Often, these infants are managed in the neonatal or pediatric ICUs, and the following consultations may be utilized:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Pediatric rheumatology for the recommendations regarding the use of biological medications</p>
+          </list-item>
+          <list-item>
+            <p>Pediatric hematology for the anticoagulation recommendations</p>
+          </list-item>
+          <list-item>
+            <p>Pediatric infectious diseases to rule out infectious etiology</p>
+          </list-item>
+          <list-item>
+            <p>Pediatric cardiology in cases with cardiovascular involvement and/or requiring inotropic support</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-148333.s13" sec-type="Deterrence and Patient Education">
+        <title>Deterrence and Patient Education</title>
+        <p>MIS-C is a disease entity associated with COVID-19 and has evolving symptomatology and severity. A deeper understanding of the pathophysiology of MIS-C may lead to better treatment strategies. Due to rapid mutations and the contagious nature of the viral infection, covid-19 infection and associated sequelae remain a threat, and better preventative strategies are needed.</p>
+      </sec>
+      <sec id="article-148333.s14" sec-type="Pearls and Other Issues">
+        <title>Pearls and Other Issues</title>
+        <p>MIS-C in neonates, although rare, is associated with morbidity and mortality. MIS-C in neonates may present with a wide variety of signs and symptoms. Early recognition is paramount. The mainstay of treatment involves IVIG and corticosteroids. More clinical trials are necessary to study the efficacy of various treatment modalities. Long-term follow-up is necessary to elucidate potential sequelae.</p>
+      </sec>
+      <sec id="article-148333.s15" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>The diagnosis and management of MIS-C require an interprofessional team approach. Diagnosis is based on clinical presentation and is often a diagnosis of exclusion in patients with known COVID-19 exposure. Neonatal intensivists need to consider the possibility of MIS-C in neonates with in-utero exposure to COVID-19.</p>
+        <p>The initial evaluation is often by a neonatologist or pediatric intensivist. Once the diagnosis is made, a multidisciplinary approach involving pediatric or neonatal intensivist, pediatric cardiology, pediatric infectious disease, pediatric rheumatology, and pediatric hematology is essential for the management of the presentation as well as the potential complications. The interprofessional team approach is vital to improve the outcomes for patients.</p>
+        <p>Current evidence on the pathophysiology of neonatal MIS-C is scarce and contradicting. Therefore, well-structured diagnostic criteria and management approaches are needed. A deeper understanding of pathophysiology may lead to better treatment strategies. Data sharing is crucial to formulate optimal treatment approaches.</p>
+      </sec>
+      <sec id="article-148333.s16">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=148333&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=148333">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/infectious-disease/neonatal-mis-c-pediatric-multisystem-inflammatory-syndrome/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=148333">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/148333/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=148333">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-148333.s17">
+        <title>References</title>
+        <ref id="article-148333.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>De Rose</surname>
+                <given-names>DU</given-names>
+              </name>
+              <name>
+                <surname>Piersigilli</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Ronchetti</surname>
+                <given-names>MP</given-names>
+              </name>
+              <name>
+                <surname>Santisi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Bersani</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Dotta</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Danhaive</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Auriti</surname>
+                <given-names>C</given-names>
+              </name>
+              <collab>Study Group of Neonatal Infectious Diseases of The Italian Society of Neonatology (SIN)</collab>
+            </person-group>
+            <article-title>Novel Coronavirus disease (COVID-19) in newborns and infants: what we know so far.</article-title>
+            <source>Ital J Pediatr</source>
+            <year>2020</year>
+            <month>Apr</month>
+            <day>29</day>
+            <volume>46</volume>
+            <issue>1</issue>
+            <fpage>56</fpage>
+            <pub-id pub-id-type="pmid">32349772</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Godfred-Cato</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Bryant</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Leung</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Oster</surname>
+                <given-names>ME</given-names>
+              </name>
+              <name>
+                <surname>Conklin</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Abrams</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Roguski</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Wallace</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Prezzato</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Koumans</surname>
+                <given-names>EH</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>EH</given-names>
+              </name>
+              <name>
+                <surname>Geevarughese</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Lash</surname>
+                <given-names>MK</given-names>
+              </name>
+              <name>
+                <surname>Reilly</surname>
+                <given-names>KH</given-names>
+              </name>
+              <name>
+                <surname>Pulver</surname>
+                <given-names>WP</given-names>
+              </name>
+              <name>
+                <surname>Thomas</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Feder</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Hsu</surname>
+                <given-names>KK</given-names>
+              </name>
+              <name>
+                <surname>Plipat</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Richardson</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Reid</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Lim</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Schmitz</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Pierce</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Hrapcak</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Datta</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Morris</surname>
+                <given-names>SB</given-names>
+              </name>
+              <name>
+                <surname>Clarke</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Belay</surname>
+                <given-names>E</given-names>
+              </name>
+              <collab>California MIS-C Response Team</collab>
+            </person-group>
+            <article-title>COVID-19-Associated Multisystem Inflammatory Syndrome in Children - United States, March-July 2020.</article-title>
+            <source>MMWR Morb Mortal Wkly Rep</source>
+            <year>2020</year>
+            <month>Aug</month>
+            <day>14</day>
+            <volume>69</volume>
+            <issue>32</issue>
+            <fpage>1074</fpage>
+            <page-range>1074-1080</page-range>
+            <pub-id pub-id-type="pmid">32790663</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>McCarty</surname>
+                <given-names>KL</given-names>
+              </name>
+              <name>
+                <surname>Tucker</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Pandey</surname>
+                <given-names>V</given-names>
+              </name>
+            </person-group>
+            <article-title>Fetal Inflammatory Response Syndrome Associated With Maternal SARS-CoV-2 Infection.</article-title>
+            <source>Pediatrics</source>
+            <year>2021</year>
+            <month>Apr</month>
+            <volume>147</volume>
+            <issue>4</issue>
+            <pub-id pub-id-type="pmid">33122348</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kotlyar</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Grechukhina</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Popkhadze</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Grimshaw</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Tal</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Taylor</surname>
+                <given-names>HS</given-names>
+              </name>
+              <name>
+                <surname>Tal</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Vertical transmission of coronavirus disease 2019: a systematic review and meta-analysis.</article-title>
+            <source>Am J Obstet Gynecol</source>
+            <year>2021</year>
+            <month>Jan</month>
+            <volume>224</volume>
+            <issue>1</issue>
+            <fpage>35</fpage>
+            <page-range>35-53.e3</page-range>
+            <pub-id pub-id-type="pmid">32739398</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pique-Regi</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Romero</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Tarca</surname>
+                <given-names>AL</given-names>
+              </name>
+              <name>
+                <surname>Luca</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Xu</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Alazizi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Leng</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Hsu</surname>
+                <given-names>CD</given-names>
+              </name>
+              <name>
+                <surname>Gomez-Lopez</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Does the human placenta express the canonical cell entry mediators for SARS-CoV-2?</article-title>
+            <source>Elife</source>
+            <year>2020</year>
+            <month>Jul</month>
+            <day>14</day>
+            <volume>9</volume>
+            <pub-id pub-id-type="pmid">32662421</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shaiba</surname>
+                <given-names>LA</given-names>
+              </name>
+              <name>
+                <surname>More</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Hadid</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Almaghrabi</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Al Marri</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Alnamnakani</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Shah</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Multisystemic Inflammatory Syndrome in Neonates: A Systematic Review.</article-title>
+            <source>Neonatology</source>
+            <year>2022</year>
+            <volume>119</volume>
+            <issue>4</issue>
+            <fpage>405</fpage>
+            <page-range>405-417</page-range>
+            <pub-id pub-id-type="pmid">35512651</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Raschetti</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Vivanti</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Vauloup-Fellous</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Loi</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Benachi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>De Luca</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Synthesis and systematic review of reported neonatal SARS-CoV-2 infections.</article-title>
+            <source>Nat Commun</source>
+            <year>2020</year>
+            <month>Oct</month>
+            <day>15</day>
+            <volume>11</volume>
+            <issue>1</issue>
+            <fpage>5164</fpage>
+            <pub-id pub-id-type="pmid">33060565</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Molloy</surname>
+                <given-names>EJ</given-names>
+              </name>
+              <name>
+                <surname>Bearer</surname>
+                <given-names>CF</given-names>
+              </name>
+            </person-group>
+            <article-title>COVID-19 in children and altered inflammatory responses.</article-title>
+            <source>Pediatr Res</source>
+            <year>2020</year>
+            <month>Sep</month>
+            <volume>88</volume>
+            <issue>3</issue>
+            <fpage>340</fpage>
+            <page-range>340-341</page-range>
+            <pub-id pub-id-type="pmid">32244248</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Patil</surname>
+                <given-names>UP</given-names>
+              </name>
+              <name>
+                <surname>Krishnan</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Abudinen-Vasquez</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Maru</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Noble</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Positive Newborns of COVID-19 Mothers After Dyad-Care: A Case Series.</article-title>
+            <source>Cureus</source>
+            <year>2021</year>
+            <month>Jan</month>
+            <day>06</day>
+            <volume>13</volume>
+            <issue>1</issue>
+            <fpage>e12528</fpage>
+            <pub-id pub-id-type="pmid">33569259</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Patil</surname>
+                <given-names>UP</given-names>
+              </name>
+              <name>
+                <surname>Maru</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Krishnan</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Carroll-Bennett</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Sanchez</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Noble</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Wasserman</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Newborns of COVID-19 mothers: short-term outcomes of colocating and breastfeeding from the pandemic's epicenter.</article-title>
+            <source>J Perinatol</source>
+            <year>2020</year>
+            <month>Oct</month>
+            <volume>40</volume>
+            <issue>10</issue>
+            <fpage>1455</fpage>
+            <page-range>1455-1458</page-range>
+            <pub-id pub-id-type="pmid">32778684</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ryan</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Pl&#x000f6;tz</surname>
+                <given-names>FB</given-names>
+              </name>
+              <name>
+                <surname>van den Hoogen</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Latour</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Degtyareva</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Keuning</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Klingenberg</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Reiss</surname>
+                <given-names>IKM</given-names>
+              </name>
+              <name>
+                <surname>Giannoni</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Roehr</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Gale</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Molloy</surname>
+                <given-names>EJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Neonates and COVID-19: state of the art : Neonatal Sepsis series.</article-title>
+            <source>Pediatr Res</source>
+            <year>2022</year>
+            <month>Jan</month>
+            <volume>91</volume>
+            <issue>2</issue>
+            <fpage>432</fpage>
+            <page-range>432-439</page-range>
+            <pub-id pub-id-type="pmid">34961785</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hosier</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Farhadian</surname>
+                <given-names>SF</given-names>
+              </name>
+              <name>
+                <surname>Morotti</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Deshmukh</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>Lu-Culligan</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Campbell</surname>
+                <given-names>KH</given-names>
+              </name>
+              <name>
+                <surname>Yasumoto</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Vogels</surname>
+                <given-names>CB</given-names>
+              </name>
+              <name>
+                <surname>Casanovas-Massana</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Vijayakumar</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Geng</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Odio</surname>
+                <given-names>CD</given-names>
+              </name>
+              <name>
+                <surname>Fournier</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Brito</surname>
+                <given-names>AF</given-names>
+              </name>
+              <name>
+                <surname>Fauver</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Alpert</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Tal</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Szigeti-Buck</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Perincheri</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Larsen</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Gariepy</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Aguilar</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Fardelmann</surname>
+                <given-names>KL</given-names>
+              </name>
+              <name>
+                <surname>Harigopal</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Taylor</surname>
+                <given-names>HS</given-names>
+              </name>
+              <name>
+                <surname>Pettker</surname>
+                <given-names>CM</given-names>
+              </name>
+              <name>
+                <surname>Wyllie</surname>
+                <given-names>AL</given-names>
+              </name>
+              <name>
+                <surname>Cruz</surname>
+                <given-names>CD</given-names>
+              </name>
+              <name>
+                <surname>Ring</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Grubaugh</surname>
+                <given-names>ND</given-names>
+              </name>
+              <name>
+                <surname>Ko</surname>
+                <given-names>AI</given-names>
+              </name>
+              <name>
+                <surname>Horvath</surname>
+                <given-names>TL</given-names>
+              </name>
+              <name>
+                <surname>Iwasaki</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Reddy</surname>
+                <given-names>UM</given-names>
+              </name>
+              <name>
+                <surname>Lipkind</surname>
+                <given-names>HS</given-names>
+              </name>
+            </person-group>
+            <article-title>SARS-CoV-2 infection of the placenta.</article-title>
+            <source>J Clin Invest</source>
+            <year>2020</year>
+            <month>Sep</month>
+            <day>01</day>
+            <volume>130</volume>
+            <issue>9</issue>
+            <fpage>4947</fpage>
+            <page-range>4947-4953</page-range>
+            <pub-id pub-id-type="pmid">32573498</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Prochaska</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Jang</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Burd</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <article-title>COVID-19 in pregnancy: Placental and neonatal involvement.</article-title>
+            <source>Am J Reprod Immunol</source>
+            <year>2020</year>
+            <month>Nov</month>
+            <volume>84</volume>
+            <issue>5</issue>
+            <fpage>e13306</fpage>
+            <pub-id pub-id-type="pmid">32779810</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gee</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Chandiramani</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Seow</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Pollock</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Modestini</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Das</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Tree</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Doores</surname>
+                <given-names>KJ</given-names>
+              </name>
+              <name>
+                <surname>Tribe</surname>
+                <given-names>RM</given-names>
+              </name>
+              <name>
+                <surname>Gibbons</surname>
+                <given-names>DL</given-names>
+              </name>
+            </person-group>
+            <article-title>The legacy of maternal SARS-CoV-2 infection on the immunology of the neonate.</article-title>
+            <source>Nat Immunol</source>
+            <year>2021</year>
+            <month>Dec</month>
+            <volume>22</volume>
+            <issue>12</issue>
+            <fpage>1490</fpage>
+            <page-range>1490-1502</page-range>
+            <pub-id pub-id-type="pmid">34616036</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Nakra</surname>
+                <given-names>NA</given-names>
+              </name>
+              <name>
+                <surname>Blumberg</surname>
+                <given-names>DA</given-names>
+              </name>
+              <name>
+                <surname>Herrera-Guerra</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Lakshminrusimha</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Multi-System Inflammatory Syndrome in Children (MIS-C) Following SARS-CoV-2 Infection: Review of Clinical Presentation, Hypothetical Pathogenesis, and Proposed Management.</article-title>
+            <source>Children (Basel)</source>
+            <year>2020</year>
+            <month>Jul</month>
+            <day>01</day>
+            <volume>7</volume>
+            <issue>7</issue>
+            <pub-id pub-id-type="pmid">32630212</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lakshminrusimha</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hudak</surname>
+                <given-names>ML</given-names>
+              </name>
+              <name>
+                <surname>Dimitriades</surname>
+                <given-names>VR</given-names>
+              </name>
+              <name>
+                <surname>Higgins</surname>
+                <given-names>RD</given-names>
+              </name>
+            </person-group>
+            <article-title>Multisystem Inflammatory Syndrome in Neonates following Maternal SARS-CoV-2 COVID-19 Infection.</article-title>
+            <source>Am J Perinatol</source>
+            <year>2022</year>
+            <month>Aug</month>
+            <volume>39</volume>
+            <issue>11</issue>
+            <fpage>1166</fpage>
+            <page-range>1166-1171</page-range>
+            <pub-id pub-id-type="pmid">34710939</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pawar</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Gavade</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Patil</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Mali</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Girwalkar</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Tarkasband</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Loya</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Chavan</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Nanivadekar</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Shinde</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Patil</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>Lakshminrusimha</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Neonatal Multisystem Inflammatory Syndrome (MIS-N) Associated with Prenatal Maternal SARS-CoV-2: A Case Series.</article-title>
+            <source>Children (Basel)</source>
+            <year>2021</year>
+            <month>Jul</month>
+            <day>02</day>
+            <volume>8</volume>
+            <issue>7</issue>
+            <pub-id pub-id-type="pmid">34356552</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>De Rose</surname>
+                <given-names>DU</given-names>
+              </name>
+              <name>
+                <surname>Pugnaloni</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Cal&#x000ec;</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Ronci</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Caoci</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Maddaloni</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Martini</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Santisi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Dotta</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Auriti</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Multisystem Inflammatory Syndrome in Neonates Born to Mothers with SARS-CoV-2 Infection (MIS-N) and in Neonates and Infants Younger Than 6 Months with Acquired COVID-19 (MIS-C): A Systematic Review.</article-title>
+            <source>Viruses</source>
+            <year>2022</year>
+            <month>Apr</month>
+            <day>02</day>
+            <volume>14</volume>
+            <issue>4</issue>
+            <pub-id pub-id-type="pmid">35458480</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Khaund Borkotoky</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Banerjee Barua</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Paul</surname>
+                <given-names>SP</given-names>
+              </name>
+              <name>
+                <surname>Heaton</surname>
+                <given-names>PA</given-names>
+              </name>
+            </person-group>
+            <article-title>COVID-19-Related Potential Multisystem Inflammatory Syndrome in Childhood in a Neonate Presenting as Persistent Pulmonary Hypertension of the Newborn.</article-title>
+            <source>Pediatr Infect Dis J</source>
+            <year>2021</year>
+            <month>Apr</month>
+            <day>01</day>
+            <volume>40</volume>
+            <issue>4</issue>
+            <fpage>e162</fpage>
+            <page-range>e162-e164</page-range>
+            <pub-id pub-id-type="pmid">33464010</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Saha</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Pal</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Mukherjee</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Neonatal MIS-C: Managing the Cytokine Storm.</article-title>
+            <source>Pediatrics</source>
+            <year>2021</year>
+            <month>Nov</month>
+            <volume>148</volume>
+            <issue>5</issue>
+            <pub-id pub-id-type="pmid">34433686</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <collab>RECOVERY Collaborative Group</collab>
+              <name>
+                <surname>Horby</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Lim</surname>
+                <given-names>WS</given-names>
+              </name>
+              <name>
+                <surname>Emberson</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Mafham</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Bell</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Linsell</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Staplin</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Brightling</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Ustianowski</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Elmahi</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Prudon</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Green</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Felton</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Chadwick</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Rege</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Fegan</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Chappell</surname>
+                <given-names>LC</given-names>
+              </name>
+              <name>
+                <surname>Faust</surname>
+                <given-names>SN</given-names>
+              </name>
+              <name>
+                <surname>Jaki</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Jeffery</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Montgomery</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Rowan</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Juszczak</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Baillie</surname>
+                <given-names>JK</given-names>
+              </name>
+              <name>
+                <surname>Haynes</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Landray</surname>
+                <given-names>MJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Dexamethasone in Hospitalized Patients with Covid-19.</article-title>
+            <source>N Engl J Med</source>
+            <year>2021</year>
+            <month>Feb</month>
+            <day>25</day>
+            <volume>384</volume>
+            <issue>8</issue>
+            <fpage>693</fpage>
+            <page-range>693-704</page-range>
+            <pub-id pub-id-type="pmid">32678530</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Carneiro</surname>
+                <given-names>JDA</given-names>
+              </name>
+              <name>
+                <surname>Ramos</surname>
+                <given-names>GF</given-names>
+              </name>
+              <name>
+                <surname>de Carvalho</surname>
+                <given-names>WB</given-names>
+              </name>
+              <name>
+                <surname>Johnston</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Delgado</surname>
+                <given-names>AF</given-names>
+              </name>
+            </person-group>
+            <article-title>Proposed recommendations for antithrombotic prophylaxis for children and adolescents with severe infection and/or multisystem inflammatory syndrome caused by SARS-CoV-2.</article-title>
+            <source>Clinics (Sao Paulo)</source>
+            <year>2020</year>
+            <month>Dec</month>
+            <day>09</day>
+            <volume>75</volume>
+            <fpage>e2252</fpage>
+            <pub-id pub-id-type="pmid">33331400</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Whitworth</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Sartain</surname>
+                <given-names>SE</given-names>
+              </name>
+              <name>
+                <surname>Kumar</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Armstrong</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Ballester</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Betensky</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Cohen</surname>
+                <given-names>CT</given-names>
+              </name>
+              <name>
+                <surname>Diaz</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Diorio</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Goldenberg</surname>
+                <given-names>NA</given-names>
+              </name>
+              <name>
+                <surname>Jaffray</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Keegan</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Malone</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Randolph</surname>
+                <given-names>AG</given-names>
+              </name>
+              <name>
+                <surname>Rifkin-Zenenberg</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Leung</surname>
+                <given-names>WS</given-names>
+              </name>
+              <name>
+                <surname>Sochet</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Srivaths</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Zia</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Raffini</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>Rate of thrombosis in children and adolescents hospitalized with COVID-19 or MIS-C.</article-title>
+            <source>Blood</source>
+            <year>2021</year>
+            <month>Jul</month>
+            <day>15</day>
+            <volume>138</volume>
+            <issue>2</issue>
+            <fpage>190</fpage>
+            <page-range>190-198</page-range>
+            <pub-id pub-id-type="pmid">33895804</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Buonsenso</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Riitano</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Valentini</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Pediatric Inflammatory Multisystem Syndrome Temporally Related With SARS-CoV-2: Immunological Similarities With Acute Rheumatic Fever and Toxic Shock Syndrome.</article-title>
+            <source>Front Pediatr</source>
+            <year>2020</year>
+            <volume>8</volume>
+            <fpage>574</fpage>
+            <pub-id pub-id-type="pmid">33042918</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Schoenmakers</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Snijder</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Verdijk</surname>
+                <given-names>RM</given-names>
+              </name>
+              <name>
+                <surname>Kuiken</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Kamphuis</surname>
+                <given-names>SSM</given-names>
+              </name>
+              <name>
+                <surname>Koopman</surname>
+                <given-names>LP</given-names>
+              </name>
+              <name>
+                <surname>Krasemann</surname>
+                <given-names>TB</given-names>
+              </name>
+              <name>
+                <surname>Rousian</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Broekhuizen</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Steegers</surname>
+                <given-names>EAP</given-names>
+              </name>
+              <name>
+                <surname>Koopmans</surname>
+                <given-names>MPG</given-names>
+              </name>
+              <name>
+                <surname>Fraaij</surname>
+                <given-names>PLA</given-names>
+              </name>
+              <name>
+                <surname>Reiss</surname>
+                <given-names>IKM</given-names>
+              </name>
+            </person-group>
+            <article-title>Severe Acute Respiratory Syndrome Coronavirus 2 Placental Infection and Inflammation Leading to Fetal Distress and Neonatal Multi-Organ Failure in an Asymptomatic Woman.</article-title>
+            <source>J Pediatric Infect Dis Soc</source>
+            <year>2021</year>
+            <month>May</month>
+            <day>28</day>
+            <volume>10</volume>
+            <issue>5</issue>
+            <fpage>556</fpage>
+            <page-range>556-561</page-range>
+            <pub-id pub-id-type="pmid">33367801</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r26">
+          <label>26</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Radia</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Williams</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Agrawal</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Harman</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Weale</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Cook</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Gupta</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Multi-system inflammatory syndrome in children &#x00026; adolescents (MIS-C): A systematic review of clinical features and presentation.</article-title>
+            <source>Paediatr Respir Rev</source>
+            <year>2021</year>
+            <month>Jun</month>
+            <volume>38</volume>
+            <fpage>51</fpage>
+            <page-range>51-57</page-range>
+            <pub-id pub-id-type="pmid">32891582</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r27">
+          <label>27</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kaushik</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Gupta</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Sood</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Sharma</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Verma</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>A Systematic Review of Multisystem Inflammatory Syndrome in Children Associated With SARS-CoV-2 Infection.</article-title>
+            <source>Pediatr Infect Dis J</source>
+            <year>2020</year>
+            <month>Nov</month>
+            <volume>39</volume>
+            <issue>11</issue>
+            <fpage>e340</fpage>
+            <page-range>e340-e346</page-range>
+            <pub-id pub-id-type="pmid">32925547</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r28">
+          <label>28</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yasuhara</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Watanabe</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Takagi</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Sumitomo</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Kuno</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>COVID-19 and multisystem inflammatory syndrome in children: A systematic review and meta-analysis.</article-title>
+            <source>Pediatr Pulmonol</source>
+            <year>2021</year>
+            <month>May</month>
+            <volume>56</volume>
+            <issue>5</issue>
+            <fpage>837</fpage>
+            <page-range>837-848</page-range>
+            <pub-id pub-id-type="pmid">33428826</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r29">
+          <label>29</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Winant</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Blumfield</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Liszewski</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Kurian</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Foust</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>EY</given-names>
+              </name>
+            </person-group>
+            <article-title>Thoracic Imaging Findings of Multisystem Inflammatory Syndrome in Children Associated with COVID-19: What Radiologists Need to Know Now.</article-title>
+            <source>Radiol Cardiothorac Imaging</source>
+            <year>2020</year>
+            <month>Aug</month>
+            <volume>2</volume>
+            <issue>4</issue>
+            <fpage>e200346</fpage>
+            <pub-id pub-id-type="pmid">33778614</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r30">
+          <label>30</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Engert</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Siauw</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Stock</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Rehn</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>W&#x000f6;ckel</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>H&#x000e4;rtel</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Wirbelauer</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Severe Brain Damage in a Moderate Preterm Infant as Complication of Post-COVID-19 Response during Pregnancy.</article-title>
+            <source>Neonatology</source>
+            <year>2021</year>
+            <volume>118</volume>
+            <issue>4</issue>
+            <fpage>505</fpage>
+            <page-range>505-508</page-range>
+            <pub-id pub-id-type="pmid">34126613</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-148333.r31">
+          <label>31</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lima</surname>
+                <given-names>ARO</given-names>
+              </name>
+              <name>
+                <surname>Cardoso</surname>
+                <given-names>CC</given-names>
+              </name>
+              <name>
+                <surname>Bentim</surname>
+                <given-names>PRB</given-names>
+              </name>
+              <name>
+                <surname>Voloch</surname>
+                <given-names>CM</given-names>
+              </name>
+              <name>
+                <surname>Rossi</surname>
+                <given-names>&#x000c1;D</given-names>
+              </name>
+              <name>
+                <surname>da Costa</surname>
+                <given-names>RMMSC</given-names>
+              </name>
+              <name>
+                <surname>da Paz</surname>
+                <given-names>JAS</given-names>
+              </name>
+              <name>
+                <surname>Agostinho</surname>
+                <given-names>RF</given-names>
+              </name>
+              <name>
+                <surname>Figueiredo</surname>
+                <given-names>VRFS</given-names>
+              </name>
+              <name>
+                <surname>J&#x000fa;nior</surname>
+                <given-names>JSS</given-names>
+              </name>
+              <name>
+                <surname>de Almeida</surname>
+                <given-names>LGP</given-names>
+              </name>
+              <name>
+                <surname>Gerber</surname>
+                <given-names>AL</given-names>
+              </name>
+              <name>
+                <surname>Abuassi</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>Rodrigues</surname>
+                <given-names>NF</given-names>
+              </name>
+              <name>
+                <surname>Tanuri</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Bozza</surname>
+                <given-names>PT</given-names>
+              </name>
+              <name>
+                <surname>Bastos</surname>
+                <given-names>CS</given-names>
+              </name>
+              <name>
+                <surname>de Vasconcelos</surname>
+                <given-names>ATR</given-names>
+              </name>
+              <name>
+                <surname>Kruger</surname>
+                <given-names>SB</given-names>
+              </name>
+              <name>
+                <surname>Vallim</surname>
+                <given-names>GGPCA</given-names>
+              </name>
+              <name>
+                <surname>Nishihara</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Barroso</surname>
+                <given-names>SPC</given-names>
+              </name>
+              <name>
+                <surname>Morrot</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Maternal SARS-CoV-2 Infection Associated to Systemic Inflammatory Response and Pericardial Effusion in the Newborn: A Case Report.</article-title>
+            <source>J Pediatric Infect Dis Soc</source>
+            <year>2021</year>
+            <month>Apr</month>
+            <day>30</day>
+            <volume>10</volume>
+            <issue>4</issue>
+            <fpage>536</fpage>
+            <page-range>536-539</page-range>
+            <pub-id pub-id-type="pmid">33125068</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

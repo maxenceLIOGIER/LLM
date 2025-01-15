@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-31464" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Physiology, Zero and First Order Kinetics</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Borowy</surname>
+            <given-names>Christopher S.</given-names>
+          </name>
+          <aff>Midwestern University</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Ashurst</surname>
+            <given-names>John V.</given-names>
+          </name>
+          <aff>Kingman Regional Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Christopher Borowy declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>John Ashurst declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>19</day>
+          <month>9</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-31464.s1" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>As the human body ingests substances and medications, it utilizes a variety of metabolism and elimination processes. The second focus of this&#x000a0;topic&#x000a0;is zero and first-order kinetic elimination, which is clinically useful in achieving a therapeutic level of medication and prognostically assessing toxicity levels and implementing treatment. For simplicity, the following discussion is specific to a one-compartment model, which views the human body as a homogeneous unit. Lastly, while most drugs undergo elimination via first-order kinetics, a firm understanding of both zero and first-order kinetics is crucial in a clinical setting, as there can be fluidity between&#x000a0;the&#x000a0;2 types of elimination with the same specific substance (see <bold>Graph.</bold>&#x000a0;Zero- and First-Order Elimination and Equations).<xref ref-type="bibr" rid="article-31464.r1">[1]</xref>&#x000a0;</p>
+      </sec>
+      <sec id="article-31464.s2" sec-type="Issues of Concern">
+        <title>Issues of Concern</title>
+        <p>Determination and understanding of how a particular substance is eliminated are important when administering medications to achieve a therapeutic level and when assessing a patient who ingested a toxic substance. Specifically, regarding toxicology, if the ingested substance is unknown to the patient and practitioner, routine blood/plasma testing of the substance and analysis of the decline in concentration aids in identifying the ingested substance. For example, suppose the substance follows a zero-order elimination. In that case, the amount eliminated depends on time and not the amount ingested, in contrast to first-order kinetics, in which the amount eliminated depends on the maximum blood/plasma concentration and not on time. Furthermore, once the substance and its properties are understood, proper treatment may be given to a patient who ingested a toxic substance.</p>
+        <p>To achieve&#x000a0;the desired therapeutic level of a medication, a clinician must understand&#x000a0;the elimination order and utilize the information in subsequent dosing to maintain the therapeutic concentration over a set period. Misunderstanding of kinetic elimination may lead to patients experiencing toxic symptoms and could lead to other iatrogenic adverse effects up to and including death.</p>
+      </sec>
+      <sec id="article-31464.s3" sec-type="Organ Systems Involved">
+        <title>Organ Systems Involved</title>
+        <p>The kidneys are the primary excretory system, whereas the hepatic system is the main site involved in drug metabolism. Other sites of metabolism include the gastrointestinal tract, pulmonary system, kidneys, and skin. An important concept to understand is any impairment of the described systems may alter how a therapeutic level of medication is&#x000a0;achieved and can predispose patients to toxicity symptoms with a dose that would otherwise be well-tolerated in a healthy individual. Both metabolism and excretion are combined to form the rate constant of elimination, which is useful in determining the order of elimination. This equation appears in "Equation&#x000a0; No. 2", where "k" represents the rate constant of elimination, and "km" and "ke" represent the rate constant for metabolism and the rate constant for excretion, respectively.</p>
+      </sec>
+      <sec id="article-31464.s4" sec-type="Function">
+        <title>Function</title>
+        <p>The fundamental difference between zero and first-order kinetics is their elimination rate compared to total plasma concentration. Zero-order kinetics undergo constant elimination regardless of the plasma concentration, following a linear elimination phase as the system becomes saturated. A simple analogy would be an athlete signing an autograph on a picture. Regardless of the number of photographs that must be signed, the athlete can only sign&#x000a0;1 autograph every 15 seconds. The rate-limiting factor of this analogy and zero-order kinetics is time.</p>
+        <p>First-order kinetics proportionally increases elimination as the plasma concentration increases, following an exponential elimination phase as the system never achieves saturation. Furthermore, when attempting to obtain a therapeutic level of plasma concentration or regarding drug toxicity, one must utilize their knowledge of a particular drug elimination kinetic. The entire team can sign the photographs to utilize the same analogy. The more photographs there are to sign, the more athletes can sign. The initial concentration is the rate-limiting factor of this analogy and in first-order kinetics.</p>
+        <p>In the case of autographs, if the number of needed autographed photos exceeds the number of available athletes, the first-order elimination becomes zero-order. As described above, the system of first-order kinetic elimination can become saturated, forcing a zero-order kinetic model to take place. Once the concentration falls below a certain level, a first-order kinetic elimination&#x000a0;is again seen as the system is no longer saturated.<xref ref-type="bibr" rid="article-31464.r2">[2]</xref><xref ref-type="bibr" rid="article-31464.r3">[3]</xref><xref ref-type="bibr" rid="article-31464.r4">[4]</xref></p>
+      </sec>
+      <sec id="article-31464.s5" sec-type="Mechanism">
+        <title>Mechanism</title>
+        <p>Both zero and first-order kinetics derive from the same equation. As seen in "Equation&#x000a0; No. 1 "Kinetic order elimination equation," where delta [drug] represents the change in plasma concentration of the drug divided by time, "n" represents either first or zero-order elimination with 1 or 0, respectively, and "-Kc" represents a constant. For example, when n = 1, the change in drug plasma concentration divided by time is proportional to the amount of drug initially given, showing the rate-limiting factor being the initial concentration. In contrast, when n = 0, [Drug]<sup>0</sup> = 1, the change of drug plasma concentration is equal to the constant, -Kc. Thus demonstrating how the rate-limiting factor is time.</p>
+        <p>The same principles with zero and first-order kinetics are demonstrable on a graph. As seen in "Graph 1: Zero-order kinetics", regardless of the plasma concentration of a substance, the same amount is limited over 2 hours. Thus, the graph demonstrates a linear slope. Compared to "Graph 2: First-order kinetics," the exponential curve of the graph illustrates how a larger plasma concentration implies a larger amount eliminated in 2 hours.<xref ref-type="bibr" rid="article-31464.r5">[5]</xref><xref ref-type="bibr" rid="article-31464.r6">[6]</xref></p>
+      </sec>
+      <sec id="article-31464.s6" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>When administering medications, one must fully understand the mechanism of action and elimination to reduce unwanted adverse effects. Furthermore, when assessing a patient who may have either intentionally or accidentally ingested a toxic quantity of a substance, knowing that the substance's elimination properties aid treatment and the disease course.</p>
+        <p>For example, in the case of methanol ingestion, urgent treatment is necessary. Methanol itself results in sedation but is generally nontoxic. The toxicity of methanol is a function of its metabolites. As methanol follows zero-order kinetic elimination, a clinician can understand that the actual danger lies in the time from the ingestion, not the total amount. In contrast to methanol, other specific medications that show zero-order elimination are salicylates, omeprazole, fluoxetine, phenytoin, and cisplatin, which, when ingested at toxic levels, achieves a higher concentration&#x000a0;of the&#x000a0;substance within the body over time versus the same amount of the&#x000a0;substance that uses first-order elimination.<xref ref-type="bibr" rid="article-31464.r7">[7]</xref>&#x000a0;A firm understanding of the above-described concepts helps reduce the adverse effects of medications on patients and leads the practitioner&#x000a0;to choose better treatments for patients experiencing toxicity symptoms.</p>
+      </sec>
+      <sec id="article-31464.s7">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=31464&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=31464">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/31464/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=31464">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <floats-group id="article-31464.s8">
+        <fig id="article-31464.image.f1" position="float" orientation="portrait">
+          <caption>
+            <p>Zero- and First-Order Elimination and Equations. The graph depicts zero- and first-order elimination and equations. Contributed by C Borowy</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Zero__and__First__Order__Kinetics__Media__File" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <ref-list id="article-31464.s9">
+        <title>References</title>
+        <ref id="article-31464.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Maafi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Maafi</surname>
+                <given-names>W</given-names>
+              </name>
+            </person-group>
+            <article-title>&#x00424;-order kinetics of photoreversible-drug reactions.</article-title>
+            <source>Int J Pharm</source>
+            <year>2014</year>
+            <month>Aug</month>
+            <day>25</day>
+            <volume>471</volume>
+            <issue>1-2</issue>
+            <fpage>536</fpage>
+            <page-range>536-43</page-range>
+            <pub-id pub-id-type="pmid">24857881</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31464.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>McMartin</surname>
+                <given-names>KE</given-names>
+              </name>
+              <name>
+                <surname>Sebastian</surname>
+                <given-names>CS</given-names>
+              </name>
+              <name>
+                <surname>Dies</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Jacobsen</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Kinetics and metabolism of fomepizole in healthy humans.</article-title>
+            <source>Clin Toxicol (Phila)</source>
+            <year>2012</year>
+            <month>Jun</month>
+            <volume>50</volume>
+            <issue>5</issue>
+            <fpage>375</fpage>
+            <page-range>375-83</page-range>
+            <pub-id pub-id-type="pmid">22554311</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31464.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pedersen</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Bersani</surname>
+                <given-names>AM</given-names>
+              </name>
+            </person-group>
+            <article-title>Introducing total substrates simplifies theoretical analysis at non-negligible enzyme concentrations: pseudo first-order kinetics and the loss of zero-order ultrasensitivity.</article-title>
+            <source>J Math Biol</source>
+            <year>2010</year>
+            <month>Feb</month>
+            <volume>60</volume>
+            <issue>2</issue>
+            <fpage>267</fpage>
+            <page-range>267-83</page-range>
+            <pub-id pub-id-type="pmid">19333602</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31464.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Guy</surname>
+                <given-names>RH</given-names>
+              </name>
+              <name>
+                <surname>Hadgraft</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Bucks</surname>
+                <given-names>DA</given-names>
+              </name>
+            </person-group>
+            <article-title>Transdermal drug delivery and cutaneous metabolism.</article-title>
+            <source>Xenobiotica</source>
+            <year>1987</year>
+            <month>Mar</month>
+            <volume>17</volume>
+            <issue>3</issue>
+            <fpage>325</fpage>
+            <page-range>325-43</page-range>
+            <pub-id pub-id-type="pmid">3107225</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31464.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lakota</surname>
+                <given-names>EA</given-names>
+              </name>
+              <name>
+                <surname>Ong</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Flanagan</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Rubino</surname>
+                <given-names>CM</given-names>
+              </name>
+            </person-group>
+            <article-title>Population Pharmacokinetic Analyses for Rezafungin (CD101) Efficacy Using Phase 1 Data.</article-title>
+            <source>Antimicrob Agents Chemother</source>
+            <year>2018</year>
+            <month>Jun</month>
+            <volume>62</volume>
+            <issue>6</issue>
+            <pub-id pub-id-type="pmid">29555631</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31464.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wang</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Huang</surname>
+                <given-names>ZX</given-names>
+              </name>
+              <name>
+                <surname>Miao</surname>
+                <given-names>HF</given-names>
+              </name>
+              <name>
+                <surname>Ruan</surname>
+                <given-names>WQ</given-names>
+              </name>
+              <name>
+                <surname>Ji</surname>
+                <given-names>XP</given-names>
+              </name>
+              <name>
+                <surname>Sun</surname>
+                <given-names>FB</given-names>
+              </name>
+              <name>
+                <surname>Zhao</surname>
+                <given-names>MX</given-names>
+              </name>
+              <name>
+                <surname>Ren</surname>
+                <given-names>HY</given-names>
+              </name>
+            </person-group>
+            <article-title>Insights into influencing factor, degradation mechanism and potential toxicity involved in aqueous ozonation of oxcarbazepine (CHEM46939R1).</article-title>
+            <source>Chemosphere</source>
+            <year>2018</year>
+            <month>Jun</month>
+            <volume>201</volume>
+            <fpage>189</fpage>
+            <page-range>189-196</page-range>
+            <pub-id pub-id-type="pmid">29524819</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31464.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Holt</surname>
+                <given-names>NR</given-names>
+              </name>
+              <name>
+                <surname>Nickson</surname>
+                <given-names>CP</given-names>
+              </name>
+            </person-group>
+            <article-title>Severe methanol poisoning with neurological sequelae: implications for diagnosis and management.</article-title>
+            <source>Intern Med J</source>
+            <year>2018</year>
+            <month>Mar</month>
+            <volume>48</volume>
+            <issue>3</issue>
+            <fpage>335</fpage>
+            <page-range>335-339</page-range>
+            <pub-id pub-id-type="pmid">29512320</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-17034" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Chest and Mediastinal Imaging</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Parekh</surname>
+            <given-names>Maansi</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Balasubramanya</surname>
+            <given-names>Rashmi</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Maansi Parekh declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Rashmi Balasubramanya declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>3</day>
+          <month>10</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-17034.s1" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>The mediastinum is a complex anatomic space within the central thoracic cavity,&#x000a0;surrounded by the lungs. It extends from the thoracic inlet superiorly to the diaphragm inferiorly. The mediastinum contains multiple vital organs and anatomical structures. Understanding anatomy helps narrow the differential while evaluating mediastinal masses, which helps recommend the right imaging modality. Mediastinal pathology ranges from congenital abnormalities and vascular, traumatic, and infective etiologies to benign and malignant neoplasms. While computed tomography (CT) is considered the imaging modality of choice, magnetic resonance imaging (MRI), positron emission tomography-computed tomography (PET-CT), and ultrasonography are also helpful in narrowing the differential. Chest radiography is the most common initial imaging modality for evaluating the mediastinum.</p>
+      </sec>
+      <sec id="article-17034.s2" sec-type="Anatomy">
+        <title>Anatomy</title>
+        <p>There are multiple classification&#x000a0;systems for dividing the mediastinum into various compartments, which radiologists, surgeons, and anatomists use. While clinically, the Shield system is the most popular; the Felson classification is more common among radiologists.<xref ref-type="bibr" rid="article-17034.r1">[1]</xref>&#x000a0;According to the Felson classification, the mediastinum is&#x000a0;classified&#x000a0;into anterior, middle, and posterior compartments. A line drawn from the anterior tracheal wall to the posterior inferior vena cava on a lateral chest radiograph separates the anterior mediastinum from the middle mediastinum. The middle and posterior mediastinal compartments are separated by drawing another line passing 1 cm posterior to the anterior margin of the vertebral bodies.&#x000a0;The newer classification systems include the ITMIG (International Thymic Malignancy Interest Group) classification of mediastinal compartments, which allows boundaries based on anatomic structures that can be seen on cross-sectional imaging.<xref ref-type="bibr" rid="article-17034.r1">[1]</xref>&#x000a0;This classification is more inclusive and divides the mediastinum into:</p>
+        <list list-type="order">
+          <list-item>
+            <p>Prevascular or the anterior compartment</p>
+          </list-item>
+          <list-item>
+            <p>Visceral or the middle compartment&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Paravertebral or the posterior compartment.</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Anterior Compartment</bold>
+</p>
+        <p>This extends from the posterior surface of the sternum to the anterior aspect of the great vessels and pericardium. Its contents include lymph nodes, fat, thymus, and internal mammary arteries. Approximately 50% of all mediastinal masses are located in the anterior mediastinum. Most common masses include thymic tumors, lymphoma, thyroid tumors, and tumors arising from the germ cell rests, such as teratomas. Thyroid tumors are usually a substernal extension of masses arising from the thyroid gland in the neck.</p>
+        <p>
+<bold>Middle Compartment</bold>
+</p>
+        <p>This extends from the pericardium to the anterior aspect of the thoracic spine. Its contents include the heart, pericardium, aorta and its branches, the vena cava, the trachea, and the esophagus. The most common masses include lymphoma and metastatic lymphadenopathy. Other lesions include aneurysms of the aorta, pericardial and cardiogenic tumors, foregut inclusion cysts, and esophageal and tracheal tumors.</p>
+        <p>
+<bold>Posterior Compartment</bold>
+</p>
+        <p>This extends from the anterior aspect of the thoracic spine to include the spine and vertebral bodies.&#x000a0;Contents include the spinal cord, thoracic spine, neurovascular bundle, and sympathetic chain.&#x000a0;Accordingly, neurogenic tumors are the most common posterior mediastinal masses. These include meningiomas, schwannomas, meningocele. Other lesions include bony metastasis and paravertebral abscess. The posterior mediastinum is also the site of extramedullary hematopoiesis, which can present as soft tissue masses.</p>
+      </sec>
+      <sec id="article-17034.s3" sec-type="Plain Films">
+        <title>Plain Films</title>
+        <p>Chest X-rays are the initial modality of choice for imaging the mediastinum. Typically, an outpatient X-ray consists of a 2-view PA (posterior-anterior) and lateral views of the chest. It can be used to diagnose emergent conditions such as aortic dissection, pneumomediastinum, pneumoperitoneum, and pneumothorax, as well as infections or masses such as cancer. Single-view portable AP (anteroposterior) x-rays are performed in the ICU, in patients with mechanical ventilation, after placement of lines and tubes, or in those who cannot tolerate obtaining PA views.</p>
+        <p>Mediastinal widening refers to the width of the mediastinum being more than 8 cm on a PA chest radiograph.<xref ref-type="bibr" rid="article-17034.r2">[2]</xref>&#x000a0;This is a red flag, especially in patients with trauma, as the most common causes include aortic dissection or mediastinal hematoma. Other causes include aortic aneurysms or mediastinal tumors.&#x000a0;Multiple other signs are used to evaluate the mediastinum on chest X-rays.</p>
+        <p>The hilum overlay sign is useful for evaluating mediastinal masses on a plain radiograph. When the normal hilar structures are seen through the mass, it suggests that the mass is either anterior or posterior to the hila, allowing it to be seen.<xref ref-type="bibr" rid="article-17034.r3">[3]</xref> The right paratracheal stripe is a subtle line projecting through the superior vena cava. Thickened right paratracheal stripe of more than 4 mm suggests lesions in this region, most commonly lymphadenopathy. The aorticopulmonary window extends from the aortic knob to the left pulmonary artery. This is usually concave or straight. A convex contour is considered abnormal and suggests mediastinal lymphadenopathy or aortic aneurysm. The paraspinal lines are seen due to the opposition between the pleural reflection and the vertebral bodies. The paraspinal lines are obscured by posterior mediastinal masses such as neurogenic tumors and metastasis.</p>
+        <p>Chest fluoroscopy&#x000a0;is continuous real-time imaging using X-rays. It is used to detect diaphragmatic paralysis. A special study performed under fluoroscopy includes a barium swallow, which can help diagnose esophageal diseases such as ulcers, hiatal hernia, achalasia, or esophageal cancer.&#x000a0;</p>
+      </sec>
+      <sec id="article-17034.s4" sec-type="Computed Tomography">
+        <title>Computed Tomography</title>
+        <p>CT is the modality of choice in evaluating mediastinal pathology. Multidetector CT chest is commonly used in the emergency department and inpatient settings. The sagittal and coronal reformats are widely used and extremely helpful in evaluating mediastinal masses. 3-D reconstructions, including multiplanar reformation or reconstruction (MPR) and maximum intensity projections (MIPS) sequences, are also helpful in evaluating mediastinal lesions such as aneurysms. However, the associated radiation dose is a disadvantage with this modality.</p>
+        <p>A contrast-enhanced CT chest is usually performed when evaluating mediastinal masses. This allows for delineation between the vasculature and the adjacent structures, such as lymph nodes and esophagus. CT allows for the evaluation of masses based on the anatomic location. The attenuation coefficient of the mass also helps in narrowing the differential. The presence of air within the mediastinum is consistent with pneumomediastinum. Pneumomediastinum can be spontaneous or secondary to trauma or non-traumatic causes. Nontraumatic causes include asthma and chronic obstructive pulmonary disease (COPD). Iatrogenic causes like endoscopy procedures and central vascular access procedures are frequent causes of pneumomediastinum.</p>
+        <p>Mediastinal masses, on the other hand, can be fluid, fat, or soft tissue in attenuation.&#x000a0;In the anterior mediastinum, a fat-containing lesion highly suggests a teratoma. The differential would, however, also include lipoma and thymolipoma. Thymolipoma is a well-encapsulated thymic tumor and can be seen in the cardiophrenic angle.<xref ref-type="bibr" rid="article-17034.r4">[4]</xref>&#x000a0;Most teratomas can, however, have different tissue attenuation depending on the ectodermal, mesodermal, and endodermal components. Hence, these are usually solid cystic lesions with fat, soft tissue, and calcifications. Thymic cysts are also seen in the anterior mediastinum and are typically unilocular. Cystic lesions in the middle mediastinum are usually bronchogenic cysts, foregut duplication cysts, and enteric cysts and are common benign etiologies.<xref ref-type="bibr" rid="article-17034.r5">[5]</xref> Pericardial cysts are generally seen in the cardiophrenic angles and are unilocular. Cystic lesions in the posterior mediastinum are usually meningoceles. Meningocele is a cerebrospinal fluid (CSF) filled protrusion of the leptomeninges through defects in the vertebral body or along the intervertebral foramina.</p>
+        <p>Soft tissue masses include the substernal extension of goiter in the anterior mediastinum, thymic hyperplasia, thymoma, thymic carcinoma, lymphoma, nonnecrotic metastatic lymph nodes, soft tissue masses arising from the trachea, esophagus, and neurogenic tumors. Thymic hyperplasia or thymic rebound occurs as a result of contrast chemotherapy. Thymic hyperplasia can be differentiated from thymic tumors as the triangular contour of the thymus is maintained. Thymoma accounts for 47% of tumors in the anterior mediastinum.<xref ref-type="bibr" rid="article-17034.r6">[6]</xref> They can invade adjacent thoracic structures. Metastasis is rare. Thymic carcinoma, on the other hand, shows local invasion along with distant metastasis. Calcifications can be seen in both thymoma and thymic carcinoma. Soft tissue tumors in the posterior mediastinum include neurogenic tumors such as schwannomas and neurofibromas. Schwannomas grow through the intervertebral foramina, producing a dumbbell configuration.&#x000a0;</p>
+        <p><bold>Imaging for Acute Aortic Syndrome and Pulmonary Embolism</bold>&#x000a0;</p>
+        <p>An increase in aortic diameter greater than 4 cm in the ascending aorta is considered pathologic. An aortic aneurysm with an increase in the size of greater than 10 mm per year is considered unstable, along with associated intramural hematoma or eccentric lumen.<xref ref-type="bibr" rid="article-17034.r7">[7]</xref>&#x000a0;Aortic aneurysms can be traumatic, degenerative, or due to congenital defects such as Marfan syndrome. Aortic dissection is identified on CT angiograms as a thin intraluminal flap within the aorta. The Stanford classification classifies as sections into Stanford type A, which involves the ascending aorta and is a surgical emergency, and Stanford type B, which involves the descending aorta without the involvement of the ascending aorta. CT angiograms performed for aortic dissection incorporated an unenhanced phase, arterial phase, and venous phase sequences. The unenhanced phase is important for evaluating intramural hematoma and hemopericardium. Intramural hematoma is curvilinear hyperdense lesions on the unenhanced CT within the aortic lumen. The studies are usually EKG-gated to reduce motion artifacts. 3-D volume-rendered reformats are particularly helpful in evaluating the extent of dissection and involvement of the branch vessels. Penetrating ulcers are atherosclerotic plaques that disrupt the intima.&#x000a0;</p>
+        <p>Congenital vasculature abnormalities include a right-sided aortic arch, a double aortic arch, an aberrant right subclavian artery, and a left superior vena cava. While these are uncommon, they have important clinical significance.</p>
+        <p>Pulmonary embolism, another life-threatening condition, can be assessed using CT pulmonary angiograms. Based on imaging features, pulmonary embolism can be further classified as acute or chronic based on the age of the embolus. The difference between CT pulmonary angiograms and CT angiograms for dissection is that the region of interest, which triggers the scan in bolus dose triggering, is placed on the pulmonary artery in case of a CT pulmonary angiogram and usually in the ascending aorta on a CT angiogram for aortic dissection.<xref ref-type="bibr" rid="article-17034.r8">[8]</xref><xref ref-type="bibr" rid="article-17034.r9">[9]</xref></p>
+        <p>The advantage of a CT pulmonary angiogram over the ventilation/perfusion (V/Q) scan is that it simultaneously evaluates the lungs for pulmonary infarction and assesses right heart strain. However, CT is associated with higher radiation exposure. Dual-energy CT is a more recent technique used to detect pulmonary emboli better. Triple rule-out studies that evaluate for aortic dissection, pulmonary embolism, and coronary artery CT angiograms have been used in the emergency room to rule out all&#x000a0;3 causes of acute chest pain.</p>
+      </sec>
+      <sec id="article-17034.s5" sec-type="Magnetic Resonance">
+        <title>Magnetic Resonance</title>
+        <p>Patients with contraindications for contrast-enhanced CT, such as severe contrast allergy or renal failure, are candidates for MRI.&#x000a0;This modality does not use ionizing radiation and can be safely used in young and female patients. The disadvantages of MRI include increased&#x000a0;cost,&#x000a0;longer scan time than CT, and is dependent on patient cooperation because of the higher chances of motion-related artifacts.&#x000a0;Standard sequences include T2-weighted sequences in the axial and coronal planes, axial STIR sequence, in and opposed phase T1-weighted sequences in the axial plane, diffusion-weighted sequence Precontrast T1-weighted sequence and postcontrast T1-weighted sequences in early arterial phase, portal venous phase, and 5-minute delay.<xref ref-type="bibr" rid="article-17034.r10">[10]</xref></p>
+        <p>MRI is used due to its superior resolution of soft tissue structures over CT for&#x000a0;distinguishing&#x000a0;thymic&#x000a0;and other malignant tumors from benign lesions and detecting invasion of the surrounding structures.&#x000a0;The normal thymus and thymic&#x000a0;hyperplasia contain a small amount of fat. Microscopic fat is difficult to evaluate on CT. However,&#x000a0;MRI&#x000a0;can distinguish&#x000a0;thymic&#x000a0;hyperplasia from a&#x000a0;thymoma&#x000a0;because of the T1-weighted in-phase&#x000a0;and out-of-phase images&#x000a0;that detect&#x000a0;microscopic fat. Decreased signal intensity on T1-weighted out-phase images compared to in-phase images&#x000a0;is noted in&#x000a0;thymic&#x000a0;hyperplasia. This finding&#x000a0;is absent in&#x000a0;thymoma.</p>
+        <p>Additionally,&#x000a0;MRI can be used to assess congenital cardiac diseases and for those who require annual surveillance for aneurysms, which may be seen in patients with connective tissue disorders such as&#x000a0;Marfan's&#x000a0;syndrome.&#x000a0;Gated cardiac MRI is&#x000a0;used to assess cardiomyopathy and&#x000a0;valvular&#x000a0;heart diseases.</p>
+      </sec>
+      <sec id="article-17034.s6" sec-type="Ultrasonography">
+        <title>Ultrasonography</title>
+        <p>Ultrasonography (USG) is commonly used to assess heart function and structure through echocardiography. USG is a non-ionizing modality that can be performed at the bedside to evaluate and quantitate pleural effusions. Conventional ultrasound-guided biopsy and&#x000a0;endobronchial&#x000a0;ultrasonography (EBUS) are&#x000a0;used to detect and obtain tissue from&#x000a0;mediastinal&#x000a0;masses and lymphadenopathy.<xref ref-type="bibr" rid="article-17034.r11">[11]</xref>&#x000a0;</p>
+        <p>Ultrasound of the testis: If a male patient has an anterior mediastinal mass suspected or proven to be a germ cell tumor, an&#x000a0;ultrasound of&#x000a0;the testis should be performed to exclude a primary gonadal tumor.&#x000a0;</p>
+      </sec>
+      <sec id="article-17034.s7" sec-type="Nuclear Medicine">
+        <title>Nuclear Medicine</title>
+        <p>Various studies in nuclear medicine have been used to assess mediastinal masses, and they are listed below.</p>
+        <p>
+<bold>PET-CT </bold>
+</p>
+        <p>PET CT utilizes 18-F-fluorodeoxyglucose, a&#x000a0;radiopharmaceutical agent, for&#x000a0;diagnosis and staging of treatment for neoplasms. There are 2 separate acquisitions, PET and CT, during the study. The CT is used for attenuation correction and anatomic localization. Typically, the CT is performed without intravenous contrast. However, the study may be performed with intravenous and oral contrast based on the indication of the examination. PET-CT is useful in most malignant lesions, and concerning mediastinal masses, it is typically used for lymphoma, esophageal, and lung malignancies. Lymphomas are avid FDGs, and&#x000a0;PET-CTs are helpful in staging and restaging the disease. Thymic tumors can also demonstrate FDG uptake.<xref ref-type="bibr" rid="article-17034.r12">[12]</xref>&#x000a0;It is a very useful modality to assess the treatment response of neoplasms.&#x000a0;</p>
+        <p><bold>I-131</bold><bold>&#x000a0;M</bold><bold>eta-</bold><bold>iodobenzylguanidine</bold>&#x000a0;<bold>(MIBG)&#x000a0;Study&#x000a0;</bold></p>
+        <p>I-131 MIBG study is used to confirm the presence of a mediastinal pheochromocytoma.<xref ref-type="bibr" rid="article-17034.r13">[13]</xref></p>
+      </sec>
+      <sec id="article-17034.s8" sec-type="Angiography">
+        <title>Angiography</title>
+        <p>This invasive technique for assessing vascular abnormalities was performed more commonly in the past, before the advent of CT. The downside is the high dose of ionizing radiation and intravenous contrast. An added advantage of this technique&#x000a0;is that it can also be used for treatment. Bronchial artery embolization for hemoptysis is&#x000a0;1 of the most common indications for this study.<xref ref-type="bibr" rid="article-17034.r14">[14]</xref></p>
+      </sec>
+      <sec id="article-17034.s9" sec-type="Patient Positioning">
+        <title>Patient Positioning</title>
+        <p>The patient's positioning depends on the modality.&#x000a0;For example, PA or posteroanterior film is obtained with the patient facing the cassette and an x-ray beam projecting from the posterior aspect of the patient to the anterior aspect. In an anteroposterior (AP) view, the cassette is along the posterior aspect of the patient. Portable radiographs are obtained in the ICU when the patient cannot erect. CT chest is performed with the patient supine. The arms are usually above the level of the head. MRI and PET scans are also obtained with the patient in the supine position. Ultrasound is also obtained with the patient, who is usually supine. However, this being a dynamic procedure, the patient can move during the procedure.</p>
+      </sec>
+      <sec id="article-17034.s10" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>In conclusion,&#x000a0;given the numerous structures and extensive differential diagnosis of mediastinal lesions, accurate diagnosis is important and dependent on appropriate imaging and assessment. While plain radiographs and CT chest are the most common modalities, MRI and PET-CT provide additional value in evaluating these lesions.</p>
+      </sec>
+      <sec id="article-17034.s11">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=17034&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=17034">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/17034/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=17034">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-17034.s12">
+        <title>References</title>
+        <ref id="article-17034.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Carter</surname>
+                <given-names>BW</given-names>
+              </name>
+              <name>
+                <surname>Betancourt</surname>
+                <given-names>SL</given-names>
+              </name>
+              <name>
+                <surname>Benveniste</surname>
+                <given-names>MF</given-names>
+              </name>
+            </person-group>
+            <article-title>MR Imaging of Mediastinal Masses.</article-title>
+            <source>Top Magn Reson Imaging</source>
+            <year>2017</year>
+            <month>Aug</month>
+            <volume>26</volume>
+            <issue>4</issue>
+            <fpage>153</fpage>
+            <page-range>153-165</page-range>
+            <pub-id pub-id-type="pmid">28777164</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17034.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dua</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Singhal</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>A cause of mediastinal widening.</article-title>
+            <source>Lung India</source>
+            <year>2016</year>
+            <season>Jul-Aug</season>
+            <volume>33</volume>
+            <issue>4</issue>
+            <fpage>453</fpage>
+            <page-range>453-4</page-range>
+            <pub-id pub-id-type="pmid">27578946</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17034.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Whitten</surname>
+                <given-names>CR</given-names>
+              </name>
+              <name>
+                <surname>Khan</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Munneke</surname>
+                <given-names>GJ</given-names>
+              </name>
+              <name>
+                <surname>Grubnic</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>A diagnostic approach to mediastinal abnormalities.</article-title>
+            <source>Radiographics</source>
+            <year>2007</year>
+            <season>May-Jun</season>
+            <volume>27</volume>
+            <issue>3</issue>
+            <fpage>657</fpage>
+            <page-range>657-71</page-range>
+            <pub-id pub-id-type="pmid">17495284</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17034.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Juanpere</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Ca&#x000f1;ete</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Ortu&#x000f1;o</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Mart&#x000ed;nez</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Sanchez</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Bernado</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>A diagnostic approach to the mediastinal masses.</article-title>
+            <source>Insights Imaging</source>
+            <year>2013</year>
+            <month>Feb</month>
+            <volume>4</volume>
+            <issue>1</issue>
+            <fpage>29</fpage>
+            <page-range>29-52</page-range>
+            <pub-id pub-id-type="pmid">23225215</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17034.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Odev</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Ar&#x00131;ba&#x0015f;</surname>
+                <given-names>BK</given-names>
+              </name>
+              <name>
+                <surname>Nayman</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Ar&#x00131;ba&#x0015f;</surname>
+                <given-names>OK</given-names>
+              </name>
+              <name>
+                <surname>Alt&#x00131;nok</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>K&#x000fc;&#x000e7;&#x000fc;kapan</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Imaging of Cystic and Cyst-like Lesions of the Mediastinum with Pathologic Correlation.</article-title>
+            <source>J Clin Imaging Sci</source>
+            <year>2012</year>
+            <volume>2</volume>
+            <fpage>33</fpage>
+            <pub-id pub-id-type="pmid">22919547</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17034.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gentili</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Pelini</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Lucii</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Luzzi</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Mazzei</surname>
+                <given-names>FG</given-names>
+              </name>
+              <name>
+                <surname>Fausto</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Volterrani</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Mazzei</surname>
+                <given-names>MA</given-names>
+              </name>
+            </person-group>
+            <article-title>Update in diagnostic imaging of the thymus and anterior mediastinal masses.</article-title>
+            <source>Gland Surg</source>
+            <year>2019</year>
+            <month>Sep</month>
+            <volume>8</volume>
+            <issue>Suppl 3</issue>
+            <fpage>S188</fpage>
+            <page-range>S188-S207</page-range>
+            <pub-id pub-id-type="pmid">31559186</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17034.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Valente</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Rossi</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Lassandro</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Rea</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Marino</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Muto</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Molino</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Scaglione</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>MDCT evaluation of acute aortic syndrome (AAS).</article-title>
+            <source>Br J Radiol</source>
+            <year>2016</year>
+            <volume>89</volume>
+            <issue>1061</issue>
+            <fpage>20150825</fpage>
+            <pub-id pub-id-type="pmid">27033344</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17034.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Vardhanabhuti</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Nicol</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Morgan-Hughes</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Roobottom</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>Roditi</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Hamilton</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Bull</surname>
+                <given-names>RK</given-names>
+              </name>
+              <name>
+                <surname>Pugliese</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Williams</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Stirrup</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Padley</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Taylor</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Davies</surname>
+                <given-names>LC</given-names>
+              </name>
+              <name>
+                <surname>Bury</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Harden</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Recommendations for accurate CT diagnosis of suspected acute aortic syndrome (AAS)--on behalf of the British Society of Cardiovascular Imaging (BSCI)/British Society of Cardiovascular CT (BSCCT).</article-title>
+            <source>Br J Radiol</source>
+            <year>2016</year>
+            <volume>89</volume>
+            <issue>1061</issue>
+            <fpage>20150705</fpage>
+            <pub-id pub-id-type="pmid">26916280</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17034.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Moore</surname>
+                <given-names>AJE</given-names>
+              </name>
+              <name>
+                <surname>Wachsmann</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Chamarthy</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Panjikaran</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Tanabe</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Rajiah</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Imaging of acute pulmonary embolism: an update.</article-title>
+            <source>Cardiovasc Diagn Ther</source>
+            <year>2018</year>
+            <month>Jun</month>
+            <volume>8</volume>
+            <issue>3</issue>
+            <fpage>225</fpage>
+            <page-range>225-243</page-range>
+            <pub-id pub-id-type="pmid">30057872</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17034.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Raptis</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>McWilliams</surname>
+                <given-names>SR</given-names>
+              </name>
+              <name>
+                <surname>Ratkowski</surname>
+                <given-names>KL</given-names>
+              </name>
+              <name>
+                <surname>Broncano</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Green</surname>
+                <given-names>DB</given-names>
+              </name>
+              <name>
+                <surname>Bhalla</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Mediastinal and Pleural MR Imaging: Practical Approach for Daily Practice.</article-title>
+            <source>Radiographics</source>
+            <year>2018</year>
+            <season>Jan-Feb</season>
+            <volume>38</volume>
+            <issue>1</issue>
+            <fpage>37</fpage>
+            <page-range>37-55</page-range>
+            <pub-id pub-id-type="pmid">29320326</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17034.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Naur</surname>
+                <given-names>TMH</given-names>
+              </name>
+              <name>
+                <surname>Konge</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Clementsen</surname>
+                <given-names>PF</given-names>
+              </name>
+            </person-group>
+            <article-title>Endobronchial Ultrasound-Guided Transbronchial Needle Aspiration for Staging of Patients with Non-Small Cell Lung Cancer without Mediastinal Involvement at Positron Emission Tomography-Computed Tomography.</article-title>
+            <source>Respiration</source>
+            <year>2017</year>
+            <volume>94</volume>
+            <issue>3</issue>
+            <fpage>279</fpage>
+            <page-range>279-284</page-range>
+            <pub-id pub-id-type="pmid">28683462</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17034.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kubota</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Yamada</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kondo</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Yamada</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Fukuda</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Fujiwara</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Ito</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Ido</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>PET imaging of primary mediastinal tumours.</article-title>
+            <source>Br J Cancer</source>
+            <year>1996</year>
+            <month>Apr</month>
+            <volume>73</volume>
+            <issue>7</issue>
+            <fpage>882</fpage>
+            <page-range>882-6</page-range>
+            <pub-id pub-id-type="pmid">8611400</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17034.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lee</surname>
+                <given-names>JH</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>SS</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>MS</given-names>
+              </name>
+              <name>
+                <surname>Choi</surname>
+                <given-names>JH</given-names>
+              </name>
+            </person-group>
+            <article-title>Functional mediastinal pheochromocytoma.</article-title>
+            <source>Korean J Thorac Cardiovasc Surg</source>
+            <year>2013</year>
+            <month>Feb</month>
+            <volume>46</volume>
+            <issue>1</issue>
+            <fpage>88</fpage>
+            <page-range>88-91</page-range>
+            <pub-id pub-id-type="pmid">23423879</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17034.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kathuria</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Hollingsworth</surname>
+                <given-names>HM</given-names>
+              </name>
+              <name>
+                <surname>Vilvendhan</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Reardon</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Management of life-threatening hemoptysis.</article-title>
+            <source>J Intensive Care</source>
+            <year>2020</year>
+            <volume>8</volume>
+            <fpage>23</fpage>
+            <pub-id pub-id-type="pmid">32280479</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

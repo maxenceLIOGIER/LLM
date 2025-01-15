@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-17204" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Adenosine SPECT Thallium Imaging</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Alzahrani</surname>
+            <given-names>Talal</given-names>
+          </name>
+          <aff>Taibah University</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Khiyani</surname>
+            <given-names>Neeraj</given-names>
+          </name>
+          <aff>Thomas Jefferson University Hospital</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Zeltser</surname>
+            <given-names>Roman</given-names>
+          </name>
+          <aff>Hofstra Northwell School of Medicine</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Talal Alzahrani declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Neeraj Khiyani declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Roman Zeltser declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>12</day>
+          <month>9</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-17204.s1" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Adenosine single-photon emission computed tomography (SPECT) thallium (Tl-201) imaging is a non-invasive myocardial perfusion imaging (MPI) test.<xref ref-type="bibr" rid="article-17204.r1">[1]</xref></p>
+        <p>The underlying principle of the test is that when the myocardium is under stress, the diseased ventricle receives less blood flow than the normal heart muscle. SPECT scan performed after the stress event will reveal the distribution of thallium and therefore the relative blood flow to the different parts of the ventricle. Images are also obtained at rest and compared. The thallium is injected and taken up by the myocardial cells so that the initial distribution of the tracer reflects viable myocardium. Images are then taken during stress (induced by adenosine) and at rest reflect myocardial perfusion and viability.</p>
+        <p>Currently, SPECT Tl-201 is used mainly for myocardial viability assessment when positron emission tomography (PET) or magnetic resonance imaging viability assessment is not feasible. American Society of Nuclear Cardiology (ASNC) recommend against using adenosine SPECT Tl-201/technetium 99m, dual-isotope (rest-stress), imaging for detecting myocardial ischemia because this protocol has high radiation exposure (up to 23 mSv) compared to other isotopes.<xref ref-type="bibr" rid="article-17204.r2">[2]</xref> Tl-201 is a potassium analog, a radioactive isotope of thallium with a half-life of 73 hours, which is up-taken by myocardial cells and detects an area with hypo-perfusion and myocardial infarction as a cold spot. It has many other medical applications such as renal medullary imaging and tumor detection.<xref ref-type="bibr" rid="article-17204.r3">[3]</xref> In clinical practice, technetium 99m agents (Tc-99m sestamibi and Tc-99m tetrofosmin) are more commonly used with SPECT imaging to detect myocardial ischemia because of low radiation exposure (4.2&#x02013;6.3 mSv) compared to Tl-201.<xref ref-type="bibr" rid="article-17204.r2">[2]</xref></p>
+        <p>Adenosine is a nucleoside that is composed of adenine and d-ribose, a potent coronary vasodilator through activation of A2A receptors in smooth muscles and endothelium.<xref ref-type="bibr" rid="article-17204.r4">[4]</xref> It is used as a continuous infusion in pharmacological SPECT stress test for patients who can not exercise to increase coronary blood flow and radioisotopes uptake by myocardial cells with normal coronary perfusion. Adenosine has several side effects that correlate with the activation of other receptors such as A1AR, A2B, and A3AR. These sides effects are hypotension, tachycardia, atrioventricular block, bronchospasm, peripheral vasodilatation, and gastrointestinal symptoms.<xref ref-type="bibr" rid="article-17204.r5">[5]</xref> Other vasodilator agents that are also usable for pharmacological SPECT stress test are dipyridamole and regadenoson. Regadenoson is an adenosine derivative and selective A2A receptor agonist. Compared to adenosine, regadenoson dosing is as one injection because of long half-life, and it has a more favorable side effect profile because of its selectivity to the A2A receptor.<xref ref-type="bibr" rid="article-17204.r6">[6]</xref> Therefore, regadenoson is the most common pharmacologic vasodilator that is currently used in pharmacological SPECT stress test (83%).<xref ref-type="bibr" rid="article-17204.r7">[7]</xref></p>
+      </sec>
+      <sec id="article-17204.s2" sec-type="Indications">
+        <title>Indications</title>
+        <p>Indications for pharmacological SPECT stress test include patients who are&#x000a0;unable to exercise or have disabling comorbidity for the following purposes<xref ref-type="bibr" rid="article-17204.r8">[8]</xref>:</p>
+        <list list-type="order">
+          <list-item>
+            <p>To diagnose obstructive coronary artery disease (CAD) in patients with intermediate to high pretest probability of ischemic heart disease (IHD) (Class I)</p>
+          </list-item>
+          <list-item>
+            <p>For risk assessment in patients who are known to&#x000a0;have stable IHD, especially with LBBB (Class I)</p>
+          </list-item>
+          <list-item>
+            <p>To evaluate coronary stenosis with uncertain physiological significance before revascularization (Class I)</p>
+          </list-item>
+          <list-item>
+            <p>To evaluate new or worsening symptoms not consistent with an&#x000a0;acute coronary syndrome (ACS) in patients who have stable IHD (Class I)</p>
+          </list-item>
+          <list-item>
+            <p>For follow-up assessment at 2-year or longer intervals in patients who have stable IHD with previous evidence of silent ischemia or with elevated risk for a recurrent cardiac event, who have a history of incomplete coronary revascularization with an uninterpretable EKG (Class IIa)</p>
+          </list-item>
+        </list>
+        <p>Pharmacological SPECT stress test is appropriate for patients who are&#x000a0;unable to exercise or have disabling comorbidity for the following purposes<xref ref-type="bibr" rid="article-17204.r9">[9]</xref>:</p>
+        <list list-type="order">
+          <list-item>
+            <p>For new-onset or newly diagnosed heart failure with LV systolic dysfunction</p>
+          </list-item>
+          <list-item>
+            <p>For ventricular tachycardia regardless of the risk for CAD</p>
+          </list-item>
+          <list-item>
+            <p>For syncope in patients with intermediate or high risk for CAD</p>
+          </list-item>
+          <list-item>
+            <p>For elevated troponin in patients without additional evidence of ACS</p>
+          </list-item>
+          <list-item>
+            <p>For patients with possible ACS with no evidence of ischemia in EKG and negative or minimally elevated troponin</p>
+          </list-item>
+          <list-item>
+            <p>For patients with intermediate or high-risk Duke treadmill score</p>
+          </list-item>
+          <list-item>
+            <p>For follow-up assessment at five years after CABG</p>
+          </list-item>
+          <list-item>
+            <p>For asymptomatic patients with high IHD risk (ATP III risk criteria)</p>
+          </list-item>
+          <list-item>
+            <p>If prior noninvasive evaluation equivocal, borderline, or discordant stress testing</p>
+          </list-item>
+          <list-item>
+            <p>For coronary calcium Agatston score greater than 400 or greater than 100 with high risk for IHD</p>
+          </list-item>
+          <list-item>
+            <p>Pre-operative risk assessment in intermediate-risk surgery or vascular surgery for patients with one or greater clinical risk factor and poor functional capacity (&#x0003c; 4 METs)</p>
+          </list-item>
+          <list-item>
+            <p>Viability test for patients with severe LV systolic dysfunction before revascularization</p>
+          </list-item>
+          <list-item>
+            <p>To evaluate for inducible ischemia within three months of an acute coronary syndrome in patients who are hemodynamically stable without recurrent symptoms or signs of heart failure</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-17204.s3" sec-type="Contraindications">
+        <title>Contraindications</title>
+        <p>
+<bold>Absolute Contraindications</bold>
+</p>
+        <p>The pharmacological vasodilators are contraindicated in the following cases<xref ref-type="bibr" rid="article-17204.r2">[2]</xref>:</p>
+        <list list-type="order">
+          <list-item>
+            <p>Obstructive lung disease with ongoing wheezing or a history of reactive airway disease</p>
+          </list-item>
+          <list-item>
+            <p>Second- or third-degree AV block without a pacemaker</p>
+          </list-item>
+          <list-item>
+            <p>Sinus node disease without a pacemaker</p>
+          </list-item>
+          <list-item>
+            <p>Systolic BP &#x0003c; 90 mmHg, especially in the following scenarios:</p>
+          </list-item>
+          <list-item>
+            <list list-type="order">
+              <list-item>
+                <p>Autonomic dysfunction</p>
+              </list-item>
+              <list-item>
+                <p>Hypovolemia</p>
+              </list-item>
+              <list-item>
+                <p>Left main coronary artery stenosis</p>
+              </list-item>
+              <list-item>
+                <p>Stenotic valvular heart disease</p>
+              </list-item>
+              <list-item>
+                <p>Pericarditis or pericardial effusions</p>
+              </list-item>
+              <list-item>
+                <p>Stenotic carotid artery disease with cerebrovascular insufficiency</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Uncontrolled hypertension (systolic BP greater than 200 mmHg or diastolic BP greater than 110 mmHg)</p>
+          </list-item>
+          <list-item>
+            <p>Recent (less than48 hours) use of dipyridamole or acetylsalicylic acid/dipyridamole</p>
+          </list-item>
+          <list-item>
+            <p>Known hypersensitivity to pharmacological vasodilators</p>
+          </list-item>
+          <list-item>
+            <p>Acute coronary syndromes</p>
+          </list-item>
+          <list-item>
+            <p>Recent (2 to 4 days) after acute myocardial infarction</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Relative Contraindications</bold>
+</p>
+        <list list-type="order">
+          <list-item>
+            <p>Sinus bradycardia with heart rates less than 40 beats per minute</p>
+          </list-item>
+          <list-item>
+            <p>Mobitz Type 1 second-degree AV block</p>
+          </list-item>
+          <list-item>
+            <p>Ingestion of caffeinated foods/beverages within the last 12 hours</p>
+          </list-item>
+          <list-item>
+            <p>Severe aortic stenosis</p>
+          </list-item>
+          <list-item>
+            <p>Seizure disorder</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-17204.s4" sec-type="Personnel">
+        <title>Personnel</title>
+        <p>The study should take place under the&#x000a0;supervision of a board-certified nuclear cardiologist or nuclear radiologist.&#x000a0;</p>
+      </sec>
+      <sec id="article-17204.s5" sec-type="Preparation">
+        <title>Preparation</title>
+        <p>Patients should avoid oral intake for three hours prior to the test except for medications with sips of water. Patients should avoid any medications that contain methylxanthines or caffeine and, food/beverages with caffeine for 12 hours because these products interfere with the action of pharmacological vasodilators and lead to poor image quality.<xref ref-type="bibr" rid="article-17204.r10">[10]</xref> Dipyridamole should also be avoided for 48 hours prior to the test because it can lead to severe hypotension. Patients should avoid wearing any metals or other potential attenuators (e.g., bras with under-wire) because these objects may lead to attenuation artifacts and poor image quality.</p>
+      </sec>
+      <sec id="article-17204.s6" sec-type="Technique or Treatment">
+        <title>Technique or Treatment</title>
+        <p>There are many protocols for pharmacological SPECT study. The following protocols are the two most common protocols that are used in the clinical practice<xref ref-type="bibr" rid="article-17204.r2">[2]</xref>:</p>
+        <p>
+<bold>1. Tl-201 Stress/Redistribution Rest</bold>
+</p>
+        <p>This test is a perfusion test and a viability test. The following are the steps of this protocol:</p>
+        <list list-type="order">
+          <list-item>
+            <p>A patient is injected with pharmacological vasodilator (adenosine (140 mcg/kg/min continuous infusion for six minutes) or regadenoson (one dose of 0.4 mg injection)) and a Tl-201 radio-tracer</p>
+          </list-item>
+          <list-item>
+            <p>Stress cardiac images are then taken after 15 minutes with gamma cameras</p>
+          </list-item>
+          <list-item>
+            <p>Rest cardiac images are then taken after 2.5 to 4 hours with gamma cameras. (This step is optional based on the stress cardiac images)</p>
+          </list-item>
+          <list-item>
+            <p>Redistribution cardiac images are then taken after 24 hours from the initial injection with gamma cameras. (This step is optional based on the stress and resting cardiac images)</p>
+          </list-item>
+        </list>
+        <p>
+<bold>2. Tl-201 Rest/Redistribution</bold>
+</p>
+        <p>This protocol used for a viability test only. The following are the steps of this protocol:</p>
+        <list list-type="order">
+          <list-item>
+            <p>A patient&#x000a0;is&#x000a0;injected with a Tl-201 radio-tracer at rest</p>
+          </list-item>
+          <list-item>
+            <p>Rest cardiac images are then taken after 15 minutes with gamma cameras</p>
+          </list-item>
+          <list-item>
+            <p>Redistribution cardiac images are then taken after 3 to 4 hours or 24 hours from the initial injection with gamma cameras. (This step is optional based on the stress and rest cardiac images)</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-17204.s7" sec-type="Complications">
+        <title>Complications</title>
+        <p>Most of the side effects of this test are related to pharmacological vasodilators and are usually self-limited. However, these drugs have correlations with a severe side effect such as myocardial infarction.<xref ref-type="bibr" rid="article-17204.r11">[11]</xref><xref ref-type="bibr" rid="article-17204.r12">[12]</xref> The common side effects of these drugs are flushing, headache, chest discomfort, dyspnea, gastrointestinal discomfort, lightheadedness/dizziness, AV block, paresthesia, hypotension, nervousness, and arrhythmias. Aminophylline (50 to 250 mg) or caffeine should be used to&#x000a0;reverse the effects of pharmacological vasodilator if a patient develops severe side effects such as hypotension with SBP less than 80 mmHg, 2nd or 3rd degree AV block, arrhythmia, wheezing, severe chest pain with ST-segment depression, or signs of poor perfusion.<xref ref-type="bibr" rid="article-17204.r2">[2]</xref></p>
+        <p>All patients should be informed that myocardial perfusion imaging also increases exposure to significant radiation (more than a CT scan).&#x000a0;</p>
+        <p>There is also a small risk of an allergic reaction to the radiocontrast.</p>
+        <p>All patients stressed with adenosine must abstain from caffeinated foods, cola beverages, and medications for at least 12 hours before the procedure. In addition, both theophylline and aminophylline mist be discontinued 24 hours prior to the test.</p>
+      </sec>
+      <sec id="article-17204.s8" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>SPECT stress test&#x000a0;has&#x000a0;been shown to have excellent diagnostic and prognostic values for IHD. The sensitivity, specificity, and accuracy of SPECT stress test for the diagnosis of coronary artery disease are 82%, 76%, and 83%, respectively.<xref ref-type="bibr" rid="article-17204.r13">[13]</xref> The risk of cardiac events (cardiac death or myocardial infarction) in patients with normal SPECT scan is less than 1% per year. The rate of cardiac events increases significantly with worsening in cardiac images scan findings.<xref ref-type="bibr" rid="article-17204.r14">[14]</xref><xref ref-type="bibr" rid="article-17204.r15">[15]</xref></p>
+      </sec>
+      <sec id="article-17204.s9" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Healthcare workers in clinical practice should be familiar with the SPECT thallium imaging study. It is a tool to assess myocardial viability when other tests are not available. A nuclear-cardiologist usually performs the test with a team of nurses and radiology technicians. One nurse is dedicated to the monitoring of the patient during the test and is responsible for ensuring that resuscitative equipment is present in the suite before the test is started. A pharmacist specializing in nuclear medicine should assist with proper dosing. At all times during the test, vital signs and oxygenation must be recorded every few minutes. If abnormalities are detected, the team should be apprised of the abnormality immediately. A team approach is vital to prevent complications from the SPECT thallium test.</p>
+        <p>The SPECT stress test&#x000a0;has&#x000a0;been shown to have excellent diagnostic and prognostic values for IHD. The sensitivity, specificity, and accuracy of SPECT stress test for the diagnosis of coronary artery disease are 82%, 76%, and 83%, respectively.<xref ref-type="bibr" rid="article-17204.r13">[13]</xref></p>
+      </sec>
+      <sec id="article-17204.s10" sec-type="Nursing, Allied Health, and Interprofessional Team Interventions">
+        <title>Nursing, Allied Health, and Interprofessional Team Interventions</title>
+        <p>The nurse should ensure that the patient has not ingested any caffeinated beverages or colas for at least 12 hours prior to the procedure. In addition, the nurse must ensure that the patient did not take theophylline for 24 hours prior to the test. The labs should be checked for renal function and any allergy to the contrast dye should be documented.</p>
+      </sec>
+      <sec id="article-17204.s11" sec-type="Nursing, Allied Health, and Interprofessional Team Monitoring">
+        <title>Nursing, Allied Health, and Interprofessional Team Monitoring</title>
+        <p>Prior to injecting adenosine, the patient must be on a cardiac monitor and have an intravenous line. The vitals should be measured at baseline and every 2 minutes thereafter. A dedicated nurse must monitor the patient during the procedure. After the procedure, the patient's vitals are assessed for the next 45-90 minutes.</p>
+      </sec>
+      <sec id="article-17204.s12">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=17204&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=17204">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/17204/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=17204">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-17204.s13">
+        <title>References</title>
+        <ref id="article-17204.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Iskandrian</surname>
+                <given-names>AS</given-names>
+              </name>
+            </person-group>
+            <article-title>Single-photon emission computed tomographic thallium imaging with adenosine, dipyridamole, and exercise.</article-title>
+            <source>Am Heart J</source>
+            <year>1991</year>
+            <month>Jul</month>
+            <volume>122</volume>
+            <issue>1 Pt 1</issue>
+            <fpage>279</fpage>
+            <page-range>279-84; discussion 302-6</page-range>
+            <pub-id pub-id-type="pmid">2063758</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17204.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Henzlova</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Duvall</surname>
+                <given-names>WL</given-names>
+              </name>
+              <name>
+                <surname>Einstein</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Travin</surname>
+                <given-names>MI</given-names>
+              </name>
+              <name>
+                <surname>Verberne</surname>
+                <given-names>HJ</given-names>
+              </name>
+            </person-group>
+            <article-title>ASNC imaging guidelines for SPECT nuclear cardiology procedures: Stress, protocols, and tracers.</article-title>
+            <source>J Nucl Cardiol</source>
+            <year>2016</year>
+            <month>Jun</month>
+            <volume>23</volume>
+            <issue>3</issue>
+            <fpage>606</fpage>
+            <page-range>606-39</page-range>
+            <pub-id pub-id-type="pmid">26914678</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17204.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lebowitz</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Greene</surname>
+                <given-names>MW</given-names>
+              </name>
+              <name>
+                <surname>Fairchild</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Bradley-Moore</surname>
+                <given-names>PR</given-names>
+              </name>
+              <name>
+                <surname>Atkins</surname>
+                <given-names>HL</given-names>
+              </name>
+              <name>
+                <surname>Ansari</surname>
+                <given-names>AN</given-names>
+              </name>
+              <name>
+                <surname>Richards</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Belgrave</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Thallium-201 for medical use. I.</article-title>
+            <source>J Nucl Med</source>
+            <year>1975</year>
+            <month>Feb</month>
+            <volume>16</volume>
+            <issue>2</issue>
+            <fpage>151</fpage>
+            <page-range>151-5</page-range>
+            <pub-id pub-id-type="pmid">1110421</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17204.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Borea</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Gessi</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Merighi</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Vincenzi</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Varani</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Pharmacology of Adenosine Receptors: The State of the Art.</article-title>
+            <source>Physiol Rev</source>
+            <year>2018</year>
+            <month>Jul</month>
+            <day>01</day>
+            <volume>98</volume>
+            <issue>3</issue>
+            <fpage>1591</fpage>
+            <page-range>1591-1625</page-range>
+            <pub-id pub-id-type="pmid">29848236</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17204.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Verani</surname>
+                <given-names>MS</given-names>
+              </name>
+            </person-group>
+            <article-title>Pharmacological stress with adenosine for myocardial perfusion imaging.</article-title>
+            <source>Semin Nucl Med</source>
+            <year>1991</year>
+            <month>Jul</month>
+            <volume>21</volume>
+            <issue>3</issue>
+            <fpage>266</fpage>
+            <page-range>266-72</page-range>
+            <pub-id pub-id-type="pmid">1948115</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17204.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Garnock-Jones</surname>
+                <given-names>KP</given-names>
+              </name>
+              <name>
+                <surname>Curran</surname>
+                <given-names>MP</given-names>
+              </name>
+            </person-group>
+            <article-title>Regadenoson.</article-title>
+            <source>Am J Cardiovasc Drugs</source>
+            <year>2010</year>
+            <volume>10</volume>
+            <issue>1</issue>
+            <fpage>65</fpage>
+            <page-range>65-71</page-range>
+            <pub-id pub-id-type="pmid">20063904</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17204.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <article-title>2013 American Society of Nuclear Cardiology / MedAxiom Nuclear Survey.</article-title>
+            <source>J Nucl Cardiol</source>
+            <year>2014</year>
+            <month>Apr</month>
+            <volume>21 Suppl 1</volume>
+            <fpage>5</fpage>
+            <page-range>5-88</page-range>
+            <pub-id pub-id-type="pmid">24619286</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17204.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Fihn</surname>
+                <given-names>SD</given-names>
+              </name>
+              <name>
+                <surname>Gardin</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Abrams</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Berra</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Blankenship</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Dallas</surname>
+                <given-names>AP</given-names>
+              </name>
+              <name>
+                <surname>Douglas</surname>
+                <given-names>PS</given-names>
+              </name>
+              <name>
+                <surname>Foody</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Gerber</surname>
+                <given-names>TC</given-names>
+              </name>
+              <name>
+                <surname>Hinderliter</surname>
+                <given-names>AL</given-names>
+              </name>
+              <name>
+                <surname>King</surname>
+                <given-names>SB</given-names>
+              </name>
+              <name>
+                <surname>Kligfield</surname>
+                <given-names>PD</given-names>
+              </name>
+              <name>
+                <surname>Krumholz</surname>
+                <given-names>HM</given-names>
+              </name>
+              <name>
+                <surname>Kwong</surname>
+                <given-names>RY</given-names>
+              </name>
+              <name>
+                <surname>Lim</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Linderbaum</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Mack</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Munger</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Prager</surname>
+                <given-names>RL</given-names>
+              </name>
+              <name>
+                <surname>Sabik</surname>
+                <given-names>JF</given-names>
+              </name>
+              <name>
+                <surname>Shaw</surname>
+                <given-names>LJ</given-names>
+              </name>
+              <name>
+                <surname>Sikkema</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Smith</surname>
+                <given-names>CR</given-names>
+              </name>
+              <name>
+                <surname>Smith</surname>
+                <given-names>SC</given-names>
+              </name>
+              <name>
+                <surname>Spertus</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Williams</surname>
+                <given-names>SV</given-names>
+              </name>
+              <collab>American College of Cardiology Foundation</collab>
+              <collab>American Heart Association Task Force on Practice Guidelines</collab>
+              <collab>American College of Physicians</collab>
+              <collab>American Association for Thoracic Surgery</collab>
+              <collab>Preventive Cardiovascular Nurses Association</collab>
+              <collab>Society for Cardiovascular Angiography and Interventions</collab>
+              <collab>Society of Thoracic Surgeons</collab>
+            </person-group>
+            <article-title>2012 ACCF/AHA/ACP/AATS/PCNA/SCAI/STS Guideline for the diagnosis and management of patients with stable ischemic heart disease: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines, and the American College of Physicians, American Association for Thoracic Surgery, Preventive Cardiovascular Nurses Association, Society for Cardiovascular Angiography and Interventions, and Society of Thoracic Surgeons.</article-title>
+            <source>J Am Coll Cardiol</source>
+            <year>2012</year>
+            <month>Dec</month>
+            <day>18</day>
+            <volume>60</volume>
+            <issue>24</issue>
+            <fpage>e44</fpage>
+            <page-range>e44-e164</page-range>
+            <pub-id pub-id-type="pmid">23182125</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17204.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hendel</surname>
+                <given-names>RC</given-names>
+              </name>
+              <name>
+                <surname>Berman</surname>
+                <given-names>DS</given-names>
+              </name>
+              <name>
+                <surname>Di Carli</surname>
+                <given-names>MF</given-names>
+              </name>
+              <name>
+                <surname>Heidenreich</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Henkin</surname>
+                <given-names>RE</given-names>
+              </name>
+              <name>
+                <surname>Pellikka</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Pohost</surname>
+                <given-names>GM</given-names>
+              </name>
+              <name>
+                <surname>Williams</surname>
+                <given-names>KA</given-names>
+              </name>
+              <collab>American College of Cardiology Foundation Appropriate Use Criteria Task Force</collab>
+              <collab>American Society of Nuclear Cardiology</collab>
+              <collab>American College of Radiology</collab>
+              <collab>American Heart Association</collab>
+              <collab>American Society of Echocardiology</collab>
+              <collab>Society of Cardiovascular Computed Tomography</collab>
+              <collab>Society for Cardiovascular Magnetic Resonance</collab>
+              <collab>Society of Nuclear Medicine</collab>
+            </person-group>
+            <article-title>ACCF/ASNC/ACR/AHA/ASE/SCCT/SCMR/SNM 2009 Appropriate Use Criteria for Cardiac Radionuclide Imaging: A Report of the American College of Cardiology Foundation Appropriate Use Criteria Task Force, the American Society of Nuclear Cardiology, the American College of Radiology, the American Heart Association, the American Society of Echocardiography, the Society of Cardiovascular Computed Tomography, the Society for Cardiovascular Magnetic Resonance, and the Society of Nuclear Medicine.</article-title>
+            <source>J Am Coll Cardiol</source>
+            <year>2009</year>
+            <month>Jun</month>
+            <day>09</day>
+            <volume>53</volume>
+            <issue>23</issue>
+            <fpage>2201</fpage>
+            <page-range>2201-29</page-range>
+            <pub-id pub-id-type="pmid">19497454</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17204.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tejani</surname>
+                <given-names>FH</given-names>
+              </name>
+              <name>
+                <surname>Thompson</surname>
+                <given-names>RC</given-names>
+              </name>
+              <name>
+                <surname>Kristy</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Bukofzer</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Effect of caffeine on SPECT myocardial perfusion imaging during regadenoson pharmacologic stress: a prospective, randomized, multicenter study.</article-title>
+            <source>Int J Cardiovasc Imaging</source>
+            <year>2014</year>
+            <month>Jun</month>
+            <volume>30</volume>
+            <issue>5</issue>
+            <fpage>979</fpage>
+            <page-range>979-89</page-range>
+            <pub-id pub-id-type="pmid">24737255</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17204.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hsi</surname>
+                <given-names>DH</given-names>
+              </name>
+              <name>
+                <surname>Marreddy</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Moshiyakhov</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Luft</surname>
+                <given-names>U</given-names>
+              </name>
+            </person-group>
+            <article-title>Regadenoson induced acute ST-segment elevation myocardial infarction and multivessel coronary thrombosis.</article-title>
+            <source>J Nucl Cardiol</source>
+            <year>2013</year>
+            <month>Jun</month>
+            <volume>20</volume>
+            <issue>3</issue>
+            <fpage>481</fpage>
+            <page-range>481-4</page-range>
+            <pub-id pub-id-type="pmid">23460076</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17204.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shah</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Parra</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Rosenstein</surname>
+                <given-names>RS</given-names>
+              </name>
+            </person-group>
+            <article-title>Acute myocardial infarction during regadenoson myocardial perfusion imaging.</article-title>
+            <source>Pharmacotherapy</source>
+            <year>2013</year>
+            <month>Jun</month>
+            <volume>33</volume>
+            <issue>6</issue>
+            <fpage>e90</fpage>
+            <page-range>e90-5</page-range>
+            <pub-id pub-id-type="pmid">23471769</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17204.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Al Moudi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Sun</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Lenzo</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Diagnostic value of SPECT, PET and PET/CT in the diagnosis of coronary artery disease: A systematic review.</article-title>
+            <source>Biomed Imaging Interv J</source>
+            <year>2011</year>
+            <month>Apr</month>
+            <volume>7</volume>
+            <issue>2</issue>
+            <fpage>e9</fpage>
+            <pub-id pub-id-type="pmid">22287989</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17204.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Machecourt</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Long&#x000e8;re</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Fagret</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Vanzetto</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Wolf</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Polidori</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Comet</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Denis</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Prognostic value of thallium-201 single-photon emission computed tomographic myocardial perfusion imaging according to extent of myocardial defect. Study in 1,926 patients with follow-up at 33 months.</article-title>
+            <source>J Am Coll Cardiol</source>
+            <year>1994</year>
+            <month>Apr</month>
+            <volume>23</volume>
+            <issue>5</issue>
+            <fpage>1096</fpage>
+            <page-range>1096-106</page-range>
+            <pub-id pub-id-type="pmid">8144775</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17204.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Johnson</surname>
+                <given-names>NP</given-names>
+              </name>
+              <name>
+                <surname>Schimmel</surname>
+                <given-names>DR</given-names>
+              </name>
+              <name>
+                <surname>Dyer</surname>
+                <given-names>SP</given-names>
+              </name>
+              <name>
+                <surname>Leonard</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Holly</surname>
+                <given-names>TA</given-names>
+              </name>
+            </person-group>
+            <article-title>Survival by stress modality in patients with a normal myocardial perfusion study.</article-title>
+            <source>Am J Cardiol</source>
+            <year>2011</year>
+            <month>Apr</month>
+            <day>01</day>
+            <volume>107</volume>
+            <issue>7</issue>
+            <fpage>986</fpage>
+            <page-range>986-9</page-range>
+            <pub-id pub-id-type="pmid">21256467</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

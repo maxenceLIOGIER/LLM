@@ -1,0 +1,1877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-17070" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>ACE Inhibitors</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Goyal</surname>
+            <given-names>Amandeep</given-names>
+          </name>
+          <aff>University of Kansas Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Cusick</surname>
+            <given-names>Austin S.</given-names>
+          </name>
+          <aff>OhioHealth Riverside Methodist Hospital</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Thielemier</surname>
+            <given-names>Blair</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Amandeep Goyal declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Austin Cusick declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Blair Thielemier declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>26</day>
+          <month>6</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-17070.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p content-type="pubmed-excerpt">ACE inhibitors are a medication class used to treat and manage hypertension, a significant risk factor for coronary disease, heart failure, stroke, and a number of other cardiovascular conditions. Most cases are primary and not attributable to any specific etiology. This activity reviews the indications, contraindications, mechanism of action, adverse events, and other key elements of ACE inhibitor therapy in the clinical setting related to the essential points needed by members of an interprofessional team managing the care of patients with hypertension and its related conditions and sequelae.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Identify the mechanism of action of ACE inhibitors.</p></list-item><list-item><p>Summarize the adverse effects of ACE inhibitors.</p></list-item><list-item><p>Outline the classic indications for initiating ACE inhibitor therapy.</p></list-item><list-item><p>Review interprofessional team approach using evidence-based medicine and patient-centered approach to improve patient outcomes.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=17070&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=17070">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-17070.s2" sec-type="Indications">
+        <title>Indications</title>
+        <p>
+<bold>FDA Approved Uses</bold>
+</p>
+        <p>1. Angiotensin-converting enzyme (ACE) inhibitors are useful as&#x000a0;adjunctive therapy in systolic heart failure (HF). HF guidelines recommend ACE inhibitors to help prevent HF in patients with a reduced ejection fraction (EF) who also have a history of myocardial infarction (MI), and to prevent HF in any patient with a reduced ejection fraction (EF), or to treat patients with heart failure&#x000a0;and reduced EF.</p>
+        <p>2. ACE inhibitors can be used to treat hypertension (HTN) either alone or in conjunction&#x000a0;with other antihypertensives in adults or children over six years old. Hypertension guidelines recommend initiating ACE inhibitors to manage HTN to lower blood pressure (BP). According to the American College of Cardiology, treatment recommendations exist based on various patient populations.<xref ref-type="bibr" rid="article-17070.r1">[1]</xref>&#x000a0;These are:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Patients with daytime BP out of the office at greater than 135 mmHg systolic or greater than 85 mmHg diastolic; this is substitutable with office blood pressure readings of over 140/90 mmHg</p>
+          </list-item>
+          <list-item>
+            <p>Patients with an in-office or out-of-office BP exceeding 130 mmHg systolic or over 80 mmHg diastolic and the addition of the following factors:</p>
+          </list-item>
+          <list-item>
+            <list list-type="bullet">
+              <list-item>
+                <p>History of cardiovascular disease</p>
+              </list-item>
+              <list-item>
+                <p>Type 2 diabetes mellitus</p>
+              </list-item>
+              <list-item>
+                <p>Chronic kidney disease</p>
+              </list-item>
+              <list-item>
+                <p>Age 65 or older</p>
+              </list-item>
+            </list>
+          </list-item>
+        </list>
+        <p>3. Patients with chronic kidney disease (CKD) and HTN:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Regardless of race or diabetes mellitus status, ACE inhibitors are recommended as initial therapy to improve kidney outcomes.</p>
+          </list-item>
+          <list-item>
+            <p>In the non-Black population with diabetes mellitus and without CKD, initial antihypertensive therapy should include either thiazide diuretic, calcium channel blocker (CCB), ACE inhibitor, or angiotensin receptor blocker (ARB).</p>
+          </list-item>
+          <list-item>
+            <p>In the Black population with diabetes mellitus and without CKD, initial antihypertensive therapy should include a thiazide diuretic or CCB instead of an ACE inhibitor or ARB.</p>
+          </list-item>
+        </list>
+        <p>4. Patients with coronary artery disease (CAD) and HTN:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>ACE inhibitors are recommended as part of a regimen in patients with HTN and chronic stable angina if there is a history of left ventricular dysfunction, diabetes mellitus, or CKD.</p>
+          </list-item>
+        </list>
+        <p>5. Patients with ST-elevated myocardial infarction (STEMI):</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>ACE inhibitors should be initiated within 24 hours of all STEMI, specifically in patients with anterior MI, heart failure, or left ventricular (LV) ejection fraction (EF) of 40% or less.</p>
+          </list-item>
+          <list-item>
+            <p>ACE inhibitors show efficacy in treatment due to the overall reduction of mortality in multiple disease states. There is evidence of mortality benefits in patients with hypertension, heart failure, Acute MI, and diabetes mellitus.<xref ref-type="bibr" rid="article-17070.r2">[2]</xref><xref ref-type="bibr" rid="article-17070.r3">[3]</xref><xref ref-type="bibr" rid="article-17070.r4">[4]</xref></p>
+          </list-item>
+        </list>
+        <p>
+<bold>Non-FDA Uses</bold>
+</p>
+        <p>ACE inhibitors may delay the progression of nephropathy and reduce the risks of cardiovascular events in hypertensive patients with diabetes mellitus type I and type II. The addition of an ACE inhibitor has shown a significant reduction in serum creatinine in hypertensive and normotensive patients with albuminuria. ACE inhibitor therapy has shown a significant decrease in the progression of diabetic nephropathy.<xref ref-type="bibr" rid="article-17070.r5">[5]</xref><xref ref-type="bibr" rid="article-17070.r6">[6]</xref>&#x000a0;</p>
+        <p>Krecak I. et al. found evidence that ACE inhibitors might have renoprotective properties in patients with polycythemia vera.<xref ref-type="bibr" rid="article-17070.r7">[7]</xref></p>
+        <p>Yao J.et al. discovered that ACE inhibitors improve insulin sensitivity in hypertensive patients with diabetes mellitus compared to angiotensin II receptor blockers.<xref ref-type="bibr" rid="article-17070.r8">[8]</xref></p>
+        <p>Salmenkari H. et al. found evidence that ACE inhibitors and angiotensin II receptor blockers use in patients with inflammatory bowel disease have fewer hospitalizations, glucocorticoid use, and a milder disease course.<xref ref-type="bibr" rid="article-17070.r9">[9]</xref></p>
+      </sec>
+      <sec id="article-17070.s3" sec-type="Mechanism of Action">
+        <title>Mechanism of Action</title>
+        <p>The angiotensin-converting-enzyme (ACE) is involved in the renin-angiotensin-aldosterone system (RAAS; media item 1) and stimulates the conversion of angiotensin I to angiotensin II. ACE inhibitors are competitive inhibitors of ACE, which prevent the conversion of angiotensin I to angiotensin II. Angiotensin II acts as a potent vasoconstrictor that, when inhibited, can reduce blood pressure by dilating vessels and decreasing aldosterone secretion.<xref ref-type="bibr" rid="article-17070.r10">[10]</xref><xref ref-type="bibr" rid="article-17070.r2">[2]</xref><xref ref-type="bibr" rid="article-17070.r3">[3]</xref></p>
+        <p>It is essential to understand the role of the RAAS hormonal system in depth to appreciate the therapeutic effects of ACE inhibitors and understand why this is a target for hypertensive therapy. Initially, afferent arteriole juxtaglomerular cells synthesize prorenin, which is actively cleaved to renin. Angiotensinogen produced from the liver is then cleaved by renin to form angiotensin I. The angiotensin I molecule is converted to angiotensin II by ACE. Angiotensin II is a molecule that has significant actions on various systems. Initially, angiotensin II induces vasoconstriction, which ultimately increases systemic blood pressure.<xref ref-type="bibr" rid="article-17070.r11">[11]</xref>&#x000a0;Angiotensin&#x000a0;II stimulates the adrenal cortex to produce aldosterone and the pituitary&#x000a0;to produce antidiuretic hormone. Aldosterone induces sodium reabsorption and, in turn, water reabsorption through internal mineralocorticoid receptor activity.<xref ref-type="bibr" rid="article-17070.r12">[12]</xref>&#x000a0;</p>
+        <p>Antidiuretic hormone&#x000a0;increases the synthesis of aquaporin-2 channels in the collecting duct inducing selective reabsorption of water. Actions of angiotensin-II and aldosterone lead to adverse cardiac remodeling. ACE inhibitors prevent adverse cardiac remodeling by reducing the concentrations&#x000a0;of angiotensin-II and aldosterone.<xref ref-type="bibr" rid="article-17070.r13">[13]</xref></p>
+      </sec>
+      <sec id="article-17070.s4" sec-type="Administration">
+        <title>Administration</title>
+        <p>ACE inhibitors are most commonly administered as oral agents, but intravenous forms are available. These medications most commonly end with the suffix '-pril.' Examples include lisinopril, ramipril, and captopril.</p>
+        <p>
+<bold>ACE Inhibitors are Classified into Three Groups According to Chemical Structure</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Sulfhydryl-containing ACE inhibitor.&#x000a0;Captopril &#x02013;&#x000a0;&#x000a0;Hypertension therapy is 25 mg, either BID or TID, with a maximum of 450 mg. Heart failure therapy is 6.25 mg TID, with a maximum of 450 mg.</p>
+          </list-item>
+          <list-item>
+            <p>Phosphorus-containing ACE inhibitor.&#x000a0;Fosinopril &#x02013;&#x000a0;Hypertension therapy dosing is 10 mg, increasing to a maximum dose of 80 mg. May split into two equal doses during the day to control blood pressure. Heart failure therapy is 5 to 10 mg daily to a maximum dose of 40 mg.</p>
+          </list-item>
+          <list-item>
+            <p>Dicarboxylic-containing ACE inhibitors: see table</p>
+          </list-item>
+        </list>
+        <table-wrap id="article-17070.table0" position="float" orientation="portrait">
+          <table style="height: 418px;" border="1" cellspacing="1" cellpadding="20">
+            <tbody>
+              <tr style="height: 26px;">
+                <td style="width: 133.547px; height: 26px;" rowspan="1" colspan="1">ACE inhibitor</td>
+                <td style="width: 138.812px; height: 26px;" rowspan="1" colspan="1">Initial dose per day for hypertension</td>
+                <td style="width: 137.938px; height: 26px;" rowspan="1" colspan="1">The maximum dose per day for hypertension</td>
+                <td style="width: 116.453px; height: 26px;" rowspan="1" colspan="1">Initial dose per day for Heart Failure</td>
+                <td style="width: 145.25px; height: 26px;" rowspan="1" colspan="1">The maximum dose per day for heart failure</td>
+              </tr>
+              <tr style="height: 13px;">
+                <td style="width: 133.547px; height: 13px;" rowspan="1" colspan="1">Benazepril</td>
+                <td style="width: 138.812px; height: 13px;" rowspan="1" colspan="1">10 mg</td>
+                <td style="width: 137.938px; height: 13px;" rowspan="1" colspan="1">80 mg</td>
+                <td style="width: 116.453px; height: 13px;" rowspan="1" colspan="1">-</td>
+                <td style="width: 145.25px; height: 13px;" rowspan="1" colspan="1">-</td>
+              </tr>
+              <tr style="height: 13px;">
+                <td style="width: 133.547px; height: 13px;" rowspan="1" colspan="1">Enalapril</td>
+                <td style="width: 138.812px; height: 13px;" rowspan="1" colspan="1">5 mg</td>
+                <td style="width: 137.938px; height: 13px;" rowspan="1" colspan="1">40 mg</td>
+                <td style="width: 116.453px; height: 13px;" rowspan="1" colspan="1">2.5 mg</td>
+                <td style="width: 145.25px; height: 13px;" rowspan="1" colspan="1">40 mg</td>
+              </tr>
+              <tr style="height: 13px;">
+                <td style="width: 133.547px; height: 13px;" rowspan="1" colspan="1">Lisinopril</td>
+                <td style="width: 138.812px; height: 13px;" rowspan="1" colspan="1">10 mg</td>
+                <td style="width: 137.938px; height: 13px;" rowspan="1" colspan="1">80 mg</td>
+                <td style="width: 116.453px; height: 13px;" rowspan="1" colspan="1">2.5-5 mg</td>
+                <td style="width: 145.25px; height: 13px;" rowspan="1" colspan="1">40 mg</td>
+              </tr>
+              <tr style="height: 13px;">
+                <td style="width: 133.547px; height: 13px;" rowspan="1" colspan="1">Moexipril</td>
+                <td style="width: 138.812px; height: 13px;" rowspan="1" colspan="1">7.5 mg</td>
+                <td style="width: 137.938px; height: 13px;" rowspan="1" colspan="1">30 mg</td>
+                <td style="width: 116.453px; height: 13px;" rowspan="1" colspan="1">-</td>
+                <td style="width: 145.25px; height: 13px;" rowspan="1" colspan="1">-</td>
+              </tr>
+              <tr style="height: 13px;">
+                <td style="width: 133.547px; height: 13px;" rowspan="1" colspan="1">Perindopril</td>
+                <td style="width: 138.812px; height: 13px;" rowspan="1" colspan="1">4 mg</td>
+                <td style="width: 137.938px; height: 13px;" rowspan="1" colspan="1">16 mg</td>
+                <td style="width: 116.453px; height: 13px;" rowspan="1" colspan="1">2 mg</td>
+                <td style="width: 145.25px; height: 13px;" rowspan="1" colspan="1">16 mg</td>
+              </tr>
+              <tr style="height: 13px;">
+                <td style="width: 133.547px; height: 13px;" rowspan="1" colspan="1">Quinapril</td>
+                <td style="width: 138.812px; height: 13px;" rowspan="1" colspan="1">10-2 0mg</td>
+                <td style="width: 137.938px; height: 13px;" rowspan="1" colspan="1">80 mg</td>
+                <td style="width: 116.453px; height: 13px;" rowspan="1" colspan="1">5 mg BID</td>
+                <td style="width: 145.25px; height: 13px;" rowspan="1" colspan="1">40 mg</td>
+              </tr>
+              <tr style="height: 13px;">
+                <td style="width: 133.547px; height: 13px;" rowspan="1" colspan="1">Ramipril</td>
+                <td style="width: 138.812px; height: 13px;" rowspan="1" colspan="1">2.5 mg</td>
+                <td style="width: 137.938px; height: 13px;" rowspan="1" colspan="1">20 mg</td>
+                <td style="width: 116.453px; height: 13px;" rowspan="1" colspan="1">1.25-2.5 mg</td>
+                <td style="width: 145.25px; height: 13px;" rowspan="1" colspan="1">10 mg</td>
+              </tr>
+              <tr>
+                <td style="width: 133.547px;" rowspan="1" colspan="1">Trandolapril</td>
+                <td style="width: 138.812px;" rowspan="1" colspan="1">1-2 mg</td>
+                <td style="width: 137.938px;" rowspan="1" colspan="1">8 mg</td>
+                <td style="width: 116.453px;" rowspan="1" colspan="1">1 mg</td>
+                <td style="width: 145.25px;" rowspan="1" colspan="1">4 mg</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>
+<bold>General Dosing Information</bold>
+</p>
+        <p>All ACE inhibitors are prescribed orally, except for enalapril, which can be given intravenously. Enalapril's IV dosage is&#x000a0;initially 0.625 to 1.25 mg every 6 hours. Dosage titration up can be to 5 mg IV every 6 hours. Geriatric dosing should be initiated at the lower end of the adult dosing regimen.</p>
+        <p>There should be a dosage decrease in patients with heart failure, salt-depleted patients, and/or renal impairment.&#x000a0;</p>
+        <p>Lisinopril and captopril are the only ACE inhibitors that do not have to be activated in the body to be effective. All the other ACE inhibitors are prodrugs and require activation. Most reach peak serum levels within 1 hour after ingestion. Since most of the activation occurs in the liver, a non-prodrug form is preferable in patients with underlying liver issues.<xref ref-type="bibr" rid="article-17070.r14">[14]</xref></p>
+      </sec>
+      <sec id="article-17070.s5" sec-type="Adverse Effects">
+        <title>Adverse Effects</title>
+        <p>
+<bold>Most Common</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Dry Cough (10% to 20%)</p>
+          </list-item>
+          <list-item>
+            <p>Dizziness (12% to 19%)</p>
+          </list-item>
+          <list-item>
+            <p>Hypotension (7% to&#x000a0;11%)</p>
+          </list-item>
+          <list-item>
+            <p>Increased BUN and creatinine (2% to&#x000a0;11%)</p>
+          </list-item>
+          <list-item>
+            <p>Syncope (5% to&#x000a0;7%)</p>
+          </list-item>
+          <list-item>
+            <p>Hyperkalemia (2% to&#x000a0;6%)</p>
+          </list-item>
+        </list>
+        <p><bold>Dry Cough: </bold>Commonly, patients on ACE inhibitors have reported dry cough between the one week of initiation and up to six months. Some sources cite up to one year after initiation. Discontinuing therapy usually resolves the cough 1 to 4 days after, but it can be prolonged for up to a month.<xref ref-type="bibr" rid="article-17070.r15">[15]</xref>&#x000a0;The concern for dry cough with therapy initiation is a decrease in the patient's medication adherence. Additionally, there is an increased propensity to develop bronchospasm in these patients.<xref ref-type="bibr" rid="article-17070.r16">[16]</xref>&#x000a0;</p>
+        <p>ACE metabolizes bradykinin and other local molecules. Inhibiting ACE in the lung increases the concentration of kinins, causing bronchial irritation.<xref ref-type="bibr" rid="article-17070.r17">[17]</xref>&#x000a0;After discontinuation of ACE inhibitor therapy, an angiotensin receptor blocker (ARB) can be initiated as an alternate therapy. ARBs have a lower incidence of cough recurrence than reinitiating ACE inhibitor therapy.<xref ref-type="bibr" rid="article-17070.r18">[18]</xref>&#x000a0;If cough recurs on ARB therapy, switch to a different drug class entirely.</p>
+        <p><bold>Angioedema:</bold>&#x000a0;Angioedema is a rare but potentially life-threatening side effect of ACE inhibitor use. Angioedema is an adverse drug reaction&#x000a0;characterized by swelling of the face, lips, and upper airway in an episodic nature. The inflammation creates difficulty in the patient's ability to maintain an airway; therefore, endotracheal intubation is necessary to secure the airway. The mechanism of angioedema is thought to be through an extensive accumulation of bradykinins in select individuals. Bradykinin induces prominent vasodilation and plasma extravasation into the local tissue. Therefore, the primary treatment of ACE inhibitor-induced angioedema is the discontinuation of ACE inhibitor therapy. It is also suggested to avoid ACE inhibitor therapy in individuals with hereditary angioedema or a history of angioedema episodes. Ghouse J. et al. conducted a genome-wide association study on patients who developed ACE inhibitor-related angioedema.<xref ref-type="bibr" rid="article-17070.r19">[19]</xref> The investigators found variants located near the bradykinin receptor B2 gene.</p>
+        <p><bold>Hyperkalemia:</bold>&#x000a0;Hyperkalemia from ACE inhibitors directly results from its mechanism of action. The blockade of angiotensin II prevents the downstream secretion of aldosterone. Aldosterone causes reabsorption of sodium and, subsequently, water. Consequently, protons and potassium get secreted into the urine. Without potassium secretion through aldosterone, potassium can easily increase in patients on ACE inhibitors.<xref ref-type="bibr" rid="article-17070.r20">[20]</xref>&#x000a0;Co-morbidities that decrease kidney function or medications that cause potassium retention can increase the risk of hyperkalemia.</p>
+        <p><bold>Increased BUN and creatinine:&#x000a0;</bold>A slight reduction of glomerular filtration rate (GFR) is common when initiating therapy. Patients with heart failure, chronic kidney disease, and bilateral renal artery stenosis with poor&#x000a0;renal perfusion can further reduce GFR, which mandates discontinuation of ACE-Inhibitor therapy.<xref ref-type="bibr" rid="article-17070.r21">[21]</xref></p>
+        <p><bold>Hypotension:</bold>&#x000a0;Hypotension can cause intolerance to therapy leading to discontinuation in a small population of patients, which is more common in patients with increased renin baseline concentrations. Allowing the repletion of fluids and discontinuing diuretic medication before therapy can minimize hypotensive episodes.<xref ref-type="bibr" rid="article-17070.r22">[22]</xref></p>
+        <p><bold>Dizziness:&#x000a0;</bold>Dizziness is a common adverse drug reaction of ACE inhibitor therapy that can be&#x000a0;mitigated&#x000a0;by adequate volume status and avoiding concomitant diuretic therapy.<xref ref-type="bibr" rid="article-17070.r4">[4]</xref><xref ref-type="bibr" rid="article-17070.r23">[23]</xref></p>
+        <p><bold>Post-marketing surveillance:&#x000a0;</bold>Significant adverse events are reported in less than one percent population in post-marketing surveillance. These adverse drug reactions include anaphylactoid reactions, cardiac arrest, cutaneous pseudolymphoma, eosinophilic pneumonitis, hepatic necrosis, hyponatremia, intestinal angioedema, malignant neoplasm of the lung, pulmonary embolism, systemic lupus erythematosus, Steven-Johnson Syndrome, toxic epidermal necrolysis, and transient ischemic attack.</p>
+        <p>Khera R. et al. found no association between ACE inhibitors and angiotensin II receptor blockers in COVID-19 hospitalization and mortality.<xref ref-type="bibr" rid="article-17070.r24">[24]</xref></p>
+      </sec>
+      <sec id="article-17070.s6" sec-type="Contraindications">
+        <title>Contraindications</title>
+        <p>
+<bold>Absolute Contraindications</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Hypersensitivity reactions-</bold> ACE inhibitors are contraindicated in a patient with a history of hypersensitivity to any ACE inhibitor or component of the formulation, angioedema related to previous treatment with ACE inhibitor, idiopathic or hereditary angioedema, or current use of aliskiren in a&#x000a0;patient with diabetes mellitus. Also, consider drugs with cross-reactivity with ACE inhibitors.<xref ref-type="bibr" rid="article-17070.r25">[25]</xref><xref ref-type="bibr" rid="article-17070.r26">[26]</xref></p>
+          </list-item>
+          <list-item>
+            <p><bold>Pregnancy -</bold>The use of drugs that inhibit the renin-angiotensin system correlates with teratogenic effects such as oligohydramnios, decreased fetal renal function, anuria, renal failure, skull hypoplasia, and death. The proposed mechanism behind oligohydramnios is evident at the level of the fetal kidney. The low-pressure hemodynamics of the fetus becomes easily disrupted with a decreased amount of angiotensin II. Fetal renal pressure becomes lower, reducing the ability to maintain GFR, leading to oligohydramnios and anuria.<xref ref-type="bibr" rid="article-17070.r27">[27]</xref></p>
+          </list-item>
+        </list>
+        <p>
+<bold>Relative Contraindications</bold>
+</p>
+        <p>Use with great caution in the following situations:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Patients with abnormal renal function:</bold>&#x000a0;ACE inhibitors can cause elevation of potassium and worsen renal function in patients already on ACE inhibitors. If the patient has an abnormal but stable renal function, close monitoring is required on&#x000a0;an ACE inhibitor. If the renal function starts to decline, the clinician should discontinue the ACE inhibitor immediately.</p>
+          </list-item>
+          <list-item>
+            <p><bold>Patients with aortic valve stenosis:&#x000a0;</bold>ACE inhibitors reduce afterload and lead to severe hypotension, so these patients should not receive ACE inhibitors.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p><bold>Patient with hypovolemia</bold>: ACE inhibitors can worsen dehydration and hypovolemia, so these patients should not receive treatment with ACE inhibitors.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-17070.s7" sec-type="Monitoring">
+        <title>Monitoring</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>Typical parameters to monitor are renal function, i.e., Blood Urea Nitrogen (BUN), serum creatinine, and electrolytes such as potassium.<xref ref-type="bibr" rid="article-17070.r28">[28]</xref></p>
+          </list-item>
+          <list-item>
+            <p>If a patient has collagen vascular disease and/or renal impairment, periodically monitor complete blood count with differential to evaluate kidney erythropoietin production.</p>
+          </list-item>
+          <list-item>
+            <p>In patients with hypotensive effects within 1 to 3 hours of initial dose or increased dosages or preexisting hepatic impairment, consider baseline hepatic function tests.</p>
+          </list-item>
+          <list-item>
+            <p>White and red blood cell counts are necessary to evaluate for rare side effects of anemia, neutropenia, agranulocytosis, and thrombocytopenia.<xref ref-type="bibr" rid="article-17070.r29">[29]</xref></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-17070.s8" sec-type="Toxicity">
+        <title>Toxicity</title>
+        <p>When used at therapeutic doses, the risk of toxicity is rare.&#x000a0;Toxicity is more likely when the drug is used in combination with other antihypertensive drugs or at supratherapeutic doses.&#x000a0;Captopril is the only ACE inhibitor to penetrate the blood-brain barrier and potentially cause confusion and lethargy.<xref ref-type="bibr" rid="article-17070.r30">[30]</xref>&#x000a0;Combining ACE inhibitors with other antihypertensive drugs can increase side effects like hyperkalemia, hypotension, and renal failure. Precaution is required when the patient is given an ACE inhibitor and already receives a potassium-sparing diuretic, NSAIDs, cyclosporine,&#x000a0;and anticoagulants.</p>
+        <p>For the majority of patients, the effects of poisoning are mild, and close observation is required. Hospital admission is indicated when symptoms and signs are more severe.&#x000a0;Derranged hemodynamic parameters may require supportive therapy with intravenous fluids and inotropic support.<xref ref-type="bibr" rid="article-17070.r30">[30]</xref></p>
+      </sec>
+      <sec id="article-17070.s9" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Clinicians widely use ACE inhibitors in medicine to treat hypertension, heart failure, and patients with chronic kidney disease. While effective, healthcare workers (nurse practitioners, physicians, and pharmacists) who prescribe these agents should be aware of their&#x000a0;adverse drug reactions and contraindications. Patients must also be regularly monitored for their renal function and electrolyte concentrations. Healthcare&#x000a0;providers should be aware that these agents can produce a chronic dry cough. The clinician should try another class of antihypertensive medication if the patient experiences a dry cough.<xref ref-type="bibr" rid="article-17070.r10">[10]</xref><xref ref-type="bibr" rid="article-17070.r31">[31]</xref><xref ref-type="bibr" rid="article-17070.r32">[32]</xref><xref ref-type="bibr" rid="article-17070.r33">[33]</xref>&#x000a0;</p>
+        <p>Even though ACE inhibitors are among the oldest drug classes available, there is a threat that familiarity can lead to carelessness. That is why, like any other drug, these agents require the oversight and coordination of an interprofessional team. Pharmacists need to verify that dosing is appropriate and check for potential drug interactions.<xref ref-type="bibr" rid="article-17070.r34">[34]</xref>&#x000a0;Nurses should take blood pressure at every visit and chart it accurately, so the&#x000a0;clinician can determine if dosing or other changes are required. Nurses can monitor&#x000a0;for potential signs of pregnancy and promptly inform the clinician if the patient is pregnant, as ACE inhibitors are absolutely contraindicated in pregnancy.<xref ref-type="bibr" rid="article-17070.r35">[35]</xref>&#x000a0;</p>
+        <p>The clinician must remain informed&#x000a0;of these findings from the other interprofessional healthcare team members to take corrective action if necessary. All team members must keep meticulous records of their observations and interventions in the patient's medical record. In summary, the interprofessional team approach&#x000a0;using evidence-based medicine and patient-centered care&#x000a0;correlates with&#x000a0;reduced morbidity and mortality&#x000a0;in patients receiving ACE inhibitor therapy.<xref ref-type="bibr" rid="article-17070.r36">[36]</xref>&#x000a0;[Level 5]</p>
+      </sec>
+      <sec id="article-17070.s10">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=17070&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=17070">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/17070/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=17070">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <floats-group id="article-17070.s11">
+        <fig id="article-17070.image.f1" position="float" orientation="portrait">
+          <caption>
+            <p>Illustration of Renin-Angiotensin Aldosterone system (RAAS) pathway Contribute Austin Cusick and Amandeep Goyal, MD</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="RAAS_pathway" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <ref-list id="article-17070.s12">
+        <title>References</title>
+        <ref id="article-17070.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Whelton</surname>
+                <given-names>PK</given-names>
+              </name>
+              <name>
+                <surname>Carey</surname>
+                <given-names>RM</given-names>
+              </name>
+              <name>
+                <surname>Aronow</surname>
+                <given-names>WS</given-names>
+              </name>
+              <name>
+                <surname>Casey</surname>
+                <given-names>DE</given-names>
+              </name>
+              <name>
+                <surname>Collins</surname>
+                <given-names>KJ</given-names>
+              </name>
+              <name>
+                <surname>Dennison Himmelfarb</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>DePalma</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Gidding</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Jamerson</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Jones</surname>
+                <given-names>DW</given-names>
+              </name>
+              <name>
+                <surname>MacLaughlin</surname>
+                <given-names>EJ</given-names>
+              </name>
+              <name>
+                <surname>Muntner</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Ovbiagele</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Smith</surname>
+                <given-names>SC</given-names>
+              </name>
+              <name>
+                <surname>Spencer</surname>
+                <given-names>CC</given-names>
+              </name>
+              <name>
+                <surname>Stafford</surname>
+                <given-names>RS</given-names>
+              </name>
+              <name>
+                <surname>Taler</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Thomas</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Williams</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Williamson</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Wright</surname>
+                <given-names>JT</given-names>
+              </name>
+            </person-group>
+            <article-title>2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.</article-title>
+            <source>Hypertension</source>
+            <year>2018</year>
+            <month>Jun</month>
+            <volume>71</volume>
+            <issue>6</issue>
+            <fpage>e13</fpage>
+            <page-range>e13-e115</page-range>
+            <pub-id pub-id-type="pmid">29133356</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kne&#x0017e;evi&#x00107;</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Gellineo</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Jelakovi&#x00107;</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Premu&#x0017e;i&#x00107;</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Dika</surname>
+                <given-names>&#x0017d;</given-names>
+              </name>
+              <name>
+                <surname>Laganovi&#x00107;</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Jelakovi&#x00107;</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Treatment of Hypertension Induced Albuminuria.</article-title>
+            <source>Curr Pharm Des</source>
+            <year>2018</year>
+            <volume>24</volume>
+            <issue>37</issue>
+            <fpage>4404</fpage>
+            <page-range>4404-4412</page-range>
+            <pub-id pub-id-type="pmid">30479206</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hradec</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Pharmacological therapy for chronic heart failure.</article-title>
+            <source>Vnitr Lek</source>
+            <year>2018</year>
+            <season>Fall</season>
+            <volume>64</volume>
+            <issue>9</issue>
+            <fpage>853</fpage>
+            <page-range>853-859</page-range>
+            <pub-id pub-id-type="pmid">30441998</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Leru</surname>
+                <given-names>PM</given-names>
+              </name>
+              <name>
+                <surname>Anton</surname>
+                <given-names>VF</given-names>
+              </name>
+              <name>
+                <surname>Bumbea</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Nine year follow-up of a rare case of angioedema due to acquired C1-inhibitor deficiency with late onset and good response to attenuated androgen.</article-title>
+            <source>Allergy Asthma Clin Immunol</source>
+            <year>2018</year>
+            <volume>14</volume>
+            <fpage>69</fpage>
+            <pub-id pub-id-type="pmid">30386386</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Viberti</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Mogensen</surname>
+                <given-names>CE</given-names>
+              </name>
+              <name>
+                <surname>Groop</surname>
+                <given-names>LC</given-names>
+              </name>
+              <name>
+                <surname>Pauls</surname>
+                <given-names>JF</given-names>
+              </name>
+            </person-group>
+            <article-title>Effect of captopril on progression to clinical proteinuria in patients with insulin-dependent diabetes mellitus and microalbuminuria. European Microalbuminuria Captopril Study Group.</article-title>
+            <source>JAMA</source>
+            <year>1994</year>
+            <month>Jan</month>
+            <day>26</day>
+            <volume>271</volume>
+            <issue>4</issue>
+            <fpage>275</fpage>
+            <page-range>275-9</page-range>
+            <pub-id pub-id-type="pmid">8295285</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lewis</surname>
+                <given-names>EJ</given-names>
+              </name>
+              <name>
+                <surname>Hunsicker</surname>
+                <given-names>LG</given-names>
+              </name>
+              <name>
+                <surname>Bain</surname>
+                <given-names>RP</given-names>
+              </name>
+              <name>
+                <surname>Rohde</surname>
+                <given-names>RD</given-names>
+              </name>
+            </person-group>
+            <article-title>The effect of angiotensin-converting-enzyme inhibition on diabetic nephropathy. The Collaborative Study Group.</article-title>
+            <source>N Engl J Med</source>
+            <year>1993</year>
+            <month>Nov</month>
+            <day>11</day>
+            <volume>329</volume>
+            <issue>20</issue>
+            <fpage>1456</fpage>
+            <page-range>1456-62</page-range>
+            <pub-id pub-id-type="pmid">8413456</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kre&#x0010d;ak</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Mori&#x00107; Peri&#x00107;</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Zekanovi&#x00107;</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Holik</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Coha</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Gveri&#x00107;-Kre&#x0010d;ak</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Lucijani&#x00107;</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Beneficial effect of ACE inhibitors on kidney function in polycythemia vera.</article-title>
+            <source>Wien Klin Wochenschr</source>
+            <year>2021</year>
+            <month>Aug</month>
+            <volume>133</volume>
+            <issue>15-16</issue>
+            <fpage>808</fpage>
+            <page-range>808-815</page-range>
+            <pub-id pub-id-type="pmid">33555393</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yao</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Fan</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Shi</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Gong</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Zhao</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Fan</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Angiotensin-converting enzyme inhibitors versus angiotensin II receptor blockers on insulin sensitivity in hypertensive patients: A meta-analysis of randomized controlled trials.</article-title>
+            <source>PLoS One</source>
+            <year>2021</year>
+            <volume>16</volume>
+            <issue>7</issue>
+            <fpage>e0253492</fpage>
+            <pub-id pub-id-type="pmid">34234365</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Salmenkari</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Korpela</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Vapaatalo</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Renin-angiotensin system in intestinal inflammation-Angiotensin inhibitors to treat inflammatory bowel diseases?</article-title>
+            <source>Basic Clin Pharmacol Toxicol</source>
+            <year>2021</year>
+            <month>Sep</month>
+            <volume>129</volume>
+            <issue>3</issue>
+            <fpage>161</fpage>
+            <page-range>161-172</page-range>
+            <pub-id pub-id-type="pmid">34128327</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chen</surname>
+                <given-names>YJ</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>LJ</given-names>
+              </name>
+              <name>
+                <surname>Tang</surname>
+                <given-names>WL</given-names>
+              </name>
+              <name>
+                <surname>Song</surname>
+                <given-names>JY</given-names>
+              </name>
+              <name>
+                <surname>Qiu</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>Q</given-names>
+              </name>
+              <name>
+                <surname>Xue</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Wright</surname>
+                <given-names>JM</given-names>
+              </name>
+            </person-group>
+            <article-title>First-line drugs inhibiting the renin angiotensin system versus other first-line antihypertensive drug classes for hypertension.</article-title>
+            <source>Cochrane Database Syst Rev</source>
+            <year>2018</year>
+            <month>Nov</month>
+            <day>14</day>
+            <volume>11</volume>
+            <issue>11</issue>
+            <fpage>CD008170</fpage>
+            <pub-id pub-id-type="pmid">30480768</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Patel</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Rauf</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Khan</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Abu-Izneid</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Renin-angiotensin-aldosterone (RAAS): The ubiquitous system for homeostasis and pathologies.</article-title>
+            <source>Biomed Pharmacother</source>
+            <year>2017</year>
+            <month>Oct</month>
+            <volume>94</volume>
+            <fpage>317</fpage>
+            <page-range>317-325</page-range>
+            <pub-id pub-id-type="pmid">28772209</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Silva</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Brown</surname>
+                <given-names>RS</given-names>
+              </name>
+              <name>
+                <surname>Epstein</surname>
+                <given-names>FH</given-names>
+              </name>
+            </person-group>
+            <article-title>Adaptation to potassium.</article-title>
+            <source>Kidney Int</source>
+            <year>1977</year>
+            <month>Jun</month>
+            <volume>11</volume>
+            <issue>6</issue>
+            <fpage>466</fpage>
+            <page-range>466-75</page-range>
+            <pub-id pub-id-type="pmid">327141</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yee</surname>
+                <given-names>AH</given-names>
+              </name>
+              <name>
+                <surname>Burns</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Wijdicks</surname>
+                <given-names>EF</given-names>
+              </name>
+            </person-group>
+            <article-title>Cerebral salt wasting: pathophysiology, diagnosis, and treatment.</article-title>
+            <source>Neurosurg Clin N Am</source>
+            <year>2010</year>
+            <month>Apr</month>
+            <volume>21</volume>
+            <issue>2</issue>
+            <fpage>339</fpage>
+            <page-range>339-52</page-range>
+            <pub-id pub-id-type="pmid">20380974</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Williams</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Drug discovery in renin-angiotensin system intervention: past and future.</article-title>
+            <source>Ther Adv Cardiovasc Dis</source>
+            <year>2016</year>
+            <month>Jun</month>
+            <volume>10</volume>
+            <issue>3</issue>
+            <fpage>118</fpage>
+            <page-range>118-25</page-range>
+            <pub-id pub-id-type="pmid">27126389</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yeo</surname>
+                <given-names>WW</given-names>
+              </name>
+              <name>
+                <surname>Chadwick</surname>
+                <given-names>IG</given-names>
+              </name>
+              <name>
+                <surname>Kraskiewicz</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Jackson</surname>
+                <given-names>PR</given-names>
+              </name>
+              <name>
+                <surname>Ramsay</surname>
+                <given-names>LE</given-names>
+              </name>
+            </person-group>
+            <article-title>Resolution of ACE inhibitor cough: changes in subjective cough and responses to inhaled capsaicin, intradermal bradykinin and substance-P.</article-title>
+            <source>Br J Clin Pharmacol</source>
+            <year>1995</year>
+            <month>Nov</month>
+            <volume>40</volume>
+            <issue>5</issue>
+            <fpage>423</fpage>
+            <page-range>423-9</page-range>
+            <pub-id pub-id-type="pmid">8703645</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lunde</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Hedner</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Samuelsson</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>L&#x000f6;tvall</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Andr&#x000e9;n</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Lindholm</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Wiholm</surname>
+                <given-names>BE</given-names>
+              </name>
+            </person-group>
+            <article-title>Dyspnoea, asthma, and bronchospasm in relation to treatment with angiotensin converting enzyme inhibitors.</article-title>
+            <source>BMJ</source>
+            <year>1994</year>
+            <month>Jan</month>
+            <day>01</day>
+            <volume>308</volume>
+            <issue>6920</issue>
+            <fpage>18</fpage>
+            <page-range>18-21</page-range>
+            <pub-id pub-id-type="pmid">8298346</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Malini</surname>
+                <given-names>PL</given-names>
+              </name>
+              <name>
+                <surname>Strocchi</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Zanardi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Milani</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Ambrosioni</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Thromboxane antagonism and cough induced by angiotensin-converting-enzyme inhibitor.</article-title>
+            <source>Lancet</source>
+            <year>1997</year>
+            <month>Jul</month>
+            <day>05</day>
+            <volume>350</volume>
+            <issue>9070</issue>
+            <fpage>15</fpage>
+            <page-range>15-8</page-range>
+            <pub-id pub-id-type="pmid">9217714</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Matchar</surname>
+                <given-names>DB</given-names>
+              </name>
+              <name>
+                <surname>McCrory</surname>
+                <given-names>DC</given-names>
+              </name>
+              <name>
+                <surname>Orlando</surname>
+                <given-names>LA</given-names>
+              </name>
+              <name>
+                <surname>Patel</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Patel</surname>
+                <given-names>UD</given-names>
+              </name>
+              <name>
+                <surname>Patwardhan</surname>
+                <given-names>MB</given-names>
+              </name>
+              <name>
+                <surname>Powers</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Samsa</surname>
+                <given-names>GP</given-names>
+              </name>
+              <name>
+                <surname>Gray</surname>
+                <given-names>RN</given-names>
+              </name>
+            </person-group>
+            <article-title>Systematic review: comparative effectiveness of angiotensin-converting enzyme inhibitors and angiotensin II receptor blockers for treating essential hypertension.</article-title>
+            <source>Ann Intern Med</source>
+            <year>2008</year>
+            <month>Jan</month>
+            <day>01</day>
+            <volume>148</volume>
+            <issue>1</issue>
+            <fpage>16</fpage>
+            <page-range>16-29</page-range>
+            <pub-id pub-id-type="pmid">17984484</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ghouse</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ahlberg</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Andreasen</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Banasik</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Brunak</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Schwinn</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Larsen</surname>
+                <given-names>IH</given-names>
+              </name>
+              <name>
+                <surname>Petersen</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>S&#x000f8;rensen</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Ullum</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Rasmussen</surname>
+                <given-names>ER</given-names>
+              </name>
+              <name>
+                <surname>Eriksson</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Hallberg</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Wadelius</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Bundgaard</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Olesen</surname>
+                <given-names>MS</given-names>
+              </name>
+            </person-group>
+            <article-title>Association of Variants Near the Bradykinin Receptor B<sub>2</sub> Gene With Angioedema in Patients Taking ACE&#x000a0;Inhibitors.</article-title>
+            <source>J Am Coll Cardiol</source>
+            <year>2021</year>
+            <month>Aug</month>
+            <day>17</day>
+            <volume>78</volume>
+            <issue>7</issue>
+            <fpage>696</fpage>
+            <page-range>696-709</page-range>
+            <pub-id pub-id-type="pmid">34384552</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kifor</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Moore</surname>
+                <given-names>TJ</given-names>
+              </name>
+              <name>
+                <surname>Fallo</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Sperling</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Chiou</surname>
+                <given-names>CY</given-names>
+              </name>
+              <name>
+                <surname>Menachery</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Williams</surname>
+                <given-names>GH</given-names>
+              </name>
+            </person-group>
+            <article-title>Potassium-stimulated angiotensin release from superfused adrenal capsules and enzymatically dispersed cells of the zona glomerulosa.</article-title>
+            <source>Endocrinology</source>
+            <year>1991</year>
+            <month>Aug</month>
+            <volume>129</volume>
+            <issue>2</issue>
+            <fpage>823</fpage>
+            <page-range>823-31</page-range>
+            <pub-id pub-id-type="pmid">1855477</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bakris</surname>
+                <given-names>GL</given-names>
+              </name>
+              <name>
+                <surname>Weir</surname>
+                <given-names>MR</given-names>
+              </name>
+            </person-group>
+            <article-title>Angiotensin-converting enzyme inhibitor-associated elevations in serum creatinine: is this a cause for concern?</article-title>
+            <source>Arch Intern Med</source>
+            <year>2000</year>
+            <month>Mar</month>
+            <day>13</day>
+            <volume>160</volume>
+            <issue>5</issue>
+            <fpage>685</fpage>
+            <page-range>685-93</page-range>
+            <pub-id pub-id-type="pmid">10724055</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kostis</surname>
+                <given-names>JB</given-names>
+              </name>
+              <name>
+                <surname>Shelton</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Gosselin</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Goulet</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Hood</surname>
+                <given-names>WB</given-names>
+              </name>
+              <name>
+                <surname>Kohn</surname>
+                <given-names>RM</given-names>
+              </name>
+              <name>
+                <surname>Kubo</surname>
+                <given-names>SH</given-names>
+              </name>
+              <name>
+                <surname>Schron</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Weiss</surname>
+                <given-names>MB</given-names>
+              </name>
+              <name>
+                <surname>Willis</surname>
+                <given-names>PW</given-names>
+              </name>
+              <name>
+                <surname>Young</surname>
+                <given-names>JB</given-names>
+              </name>
+              <name>
+                <surname>Probstfield</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Adverse effects of enalapril in the Studies of Left Ventricular Dysfunction (SOLVD). SOLVD Investigators.</article-title>
+            <source>Am Heart J</source>
+            <year>1996</year>
+            <month>Feb</month>
+            <volume>131</volume>
+            <issue>2</issue>
+            <fpage>350</fpage>
+            <page-range>350-5</page-range>
+            <pub-id pub-id-type="pmid">8579032</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sachs</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Meier</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>N&#x000f6;then</surname>
+                <given-names>MM</given-names>
+              </name>
+              <name>
+                <surname>Stieber</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Stingl</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>[Drug-induced angioedema : Focus on bradykinin].</article-title>
+            <source>Hautarzt</source>
+            <year>2018</year>
+            <month>Apr</month>
+            <volume>69</volume>
+            <issue>4</issue>
+            <fpage>298</fpage>
+            <page-range>298-305</page-range>
+            <pub-id pub-id-type="pmid">29392343</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Khera</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Clark</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Lu</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Guo</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Ren</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Truax</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Spatz</surname>
+                <given-names>ES</given-names>
+              </name>
+              <name>
+                <surname>Murugiah</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Lin</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Omer</surname>
+                <given-names>SB</given-names>
+              </name>
+              <name>
+                <surname>Vojta</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Krumholz</surname>
+                <given-names>HM</given-names>
+              </name>
+            </person-group>
+            <article-title>Association of Angiotensin-Converting Enzyme Inhibitors and Angiotensin Receptor Blockers With the Risk of Hospitalization and Death in Hypertensive Patients With COVID-19.</article-title>
+            <source>J Am Heart Assoc</source>
+            <year>2021</year>
+            <month>Jul</month>
+            <day>06</day>
+            <volume>10</volume>
+            <issue>13</issue>
+            <fpage>e018086</fpage>
+            <pub-id pub-id-type="pmid">33624516</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wilkins</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Hullikunte</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Simmonds</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Sasse</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Larsen</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Harding</surname>
+                <given-names>SA</given-names>
+              </name>
+            </person-group>
+            <article-title>Improving the Prescribing Gap For Guideline Recommended Medications Post Myocardial Infarction.</article-title>
+            <source>Heart Lung Circ</source>
+            <year>2019</year>
+            <month>Feb</month>
+            <volume>28</volume>
+            <issue>2</issue>
+            <fpage>257</fpage>
+            <page-range>257-262</page-range>
+            <pub-id pub-id-type="pmid">29523466</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r26">
+          <label>26</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shaikh</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>A Practical Approach to Hypertension Management in Diabetes.</article-title>
+            <source>Diabetes Ther</source>
+            <year>2017</year>
+            <month>Oct</month>
+            <volume>8</volume>
+            <issue>5</issue>
+            <fpage>981</fpage>
+            <page-range>981-989</page-range>
+            <pub-id pub-id-type="pmid">28929319</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r27">
+          <label>27</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gubler</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Antignac</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Renin-angiotensin system in kidney development: renal tubular dysgenesis.</article-title>
+            <source>Kidney Int</source>
+            <year>2010</year>
+            <month>Mar</month>
+            <volume>77</volume>
+            <issue>5</issue>
+            <fpage>400</fpage>
+            <page-range>400-6</page-range>
+            <pub-id pub-id-type="pmid">19924102</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r28">
+          <label>28</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Raebel</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>McClure</surname>
+                <given-names>DL</given-names>
+              </name>
+              <name>
+                <surname>Simon</surname>
+                <given-names>SR</given-names>
+              </name>
+              <name>
+                <surname>Chan</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Feldstein</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Andrade</surname>
+                <given-names>SE</given-names>
+              </name>
+              <name>
+                <surname>Lafata</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Roblin</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Davis</surname>
+                <given-names>RL</given-names>
+              </name>
+              <name>
+                <surname>Gunter</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Platt</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Laboratory monitoring of potassium and creatinine in ambulatory patients receiving angiotensin converting enzyme inhibitors and angiotensin receptor blockers.</article-title>
+            <source>Pharmacoepidemiol Drug Saf</source>
+            <year>2007</year>
+            <month>Jan</month>
+            <volume>16</volume>
+            <issue>1</issue>
+            <fpage>55</fpage>
+            <page-range>55-64</page-range>
+            <pub-id pub-id-type="pmid">16470693</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r29">
+          <label>29</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>DiBianco</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Adverse reactions with angiotensin converting enzyme (ACE) inhibitors.</article-title>
+            <source>Med Toxicol</source>
+            <year>1986</year>
+            <season>Mar-Apr</season>
+            <volume>1</volume>
+            <issue>2</issue>
+            <fpage>122</fpage>
+            <page-range>122-41</page-range>
+            <pub-id pub-id-type="pmid">3023783</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r30">
+          <label>30</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lip</surname>
+                <given-names>GY</given-names>
+              </name>
+              <name>
+                <surname>Ferner</surname>
+                <given-names>RE</given-names>
+              </name>
+            </person-group>
+            <article-title>Poisoning with anti-hypertensive drugs: angiotensin converting enzyme inhibitors.</article-title>
+            <source>J Hum Hypertens</source>
+            <year>1995</year>
+            <month>Sep</month>
+            <volume>9</volume>
+            <issue>9</issue>
+            <fpage>711</fpage>
+            <page-range>711-5</page-range>
+            <pub-id pub-id-type="pmid">8551483</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r31">
+          <label>31</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Alzahrani</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Tiu</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Panjrath</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Solomon</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>The effect of angiotensin-converting enzyme inhibitors on clinical outcomes in patients with ischemic cardiomyopathy and midrange ejection fraction: a post hoc subgroup analysis from the PEACE trial.</article-title>
+            <source>Ther Adv Cardiovasc Dis</source>
+            <year>2018</year>
+            <month>Dec</month>
+            <volume>12</volume>
+            <issue>12</issue>
+            <fpage>351</fpage>
+            <page-range>351-359</page-range>
+            <pub-id pub-id-type="pmid">30442080</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r32">
+          <label>32</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Brar</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Ye</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>James</surname>
+                <given-names>MT</given-names>
+              </name>
+              <name>
+                <surname>Hemmelgarn</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Klarenbach</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Pannu</surname>
+                <given-names>N</given-names>
+              </name>
+              <collab>Interdisciplinary Chronic Disease Collaboration</collab>
+            </person-group>
+            <article-title>Association of Angiotensin-Converting Enzyme Inhibitor or Angiotensin Receptor Blocker Use With Outcomes After Acute Kidney Injury.</article-title>
+            <source>JAMA Intern Med</source>
+            <year>2018</year>
+            <month>Dec</month>
+            <day>01</day>
+            <volume>178</volume>
+            <issue>12</issue>
+            <fpage>1681</fpage>
+            <page-range>1681-1690</page-range>
+            <pub-id pub-id-type="pmid">30422153</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r33">
+          <label>33</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Saglimbene</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Palmer</surname>
+                <given-names>SC</given-names>
+              </name>
+              <name>
+                <surname>Ruospo</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Natale</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Maione</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Nicolucci</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Vecchio</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Tognoni</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Craig</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Pellegrini</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Lucisano</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Hegbrant</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ariano</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Lamacchia</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Sasso</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Morano</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Filardi</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>De Cosmo</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Pugliese</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Procaccini</surname>
+                <given-names>DA</given-names>
+              </name>
+              <name>
+                <surname>Gesualdo</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Palasciano</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Johnson</surname>
+                <given-names>DW</given-names>
+              </name>
+              <name>
+                <surname>Tonelli</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Strippoli</surname>
+                <given-names>GFM</given-names>
+              </name>
+              <collab>Long-Term Impact of RAS Inhibition on Cardiorenal Outcomes (LIRICO) Investigators</collab>
+            </person-group>
+            <article-title>The Long-Term Impact of Renin-Angiotensin System (RAS) Inhibition on Cardiorenal Outcomes (LIRICO): A Randomized, Controlled Trial.</article-title>
+            <source>J Am Soc Nephrol</source>
+            <year>2018</year>
+            <month>Dec</month>
+            <volume>29</volume>
+            <issue>12</issue>
+            <fpage>2890</fpage>
+            <page-range>2890-2899</page-range>
+            <pub-id pub-id-type="pmid">30420421</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r34">
+          <label>34</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mansur</surname>
+                <given-names>JM</given-names>
+              </name>
+            </person-group>
+            <article-title>Medication Safety Systems and the Important Role of Pharmacists.</article-title>
+            <source>Drugs Aging</source>
+            <year>2016</year>
+            <month>Mar</month>
+            <volume>33</volume>
+            <issue>3</issue>
+            <fpage>213</fpage>
+            <page-range>213-21</page-range>
+            <pub-id pub-id-type="pmid">26932714</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r35">
+          <label>35</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Simonetti</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Comparcini</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Tomietto</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Pavone</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Flacco</surname>
+                <given-names>ME</given-names>
+              </name>
+              <name>
+                <surname>Cicolini</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Effectiveness of a family nurse-led programme on accuracy of blood pressure self-measurement: A randomised controlled trial.</article-title>
+            <source>J Clin Nurs</source>
+            <year>2021</year>
+            <month>Aug</month>
+            <volume>30</volume>
+            <issue>15-16</issue>
+            <fpage>2409</fpage>
+            <page-range>2409-2419</page-range>
+            <pub-id pub-id-type="pmid">33872417</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17070.r36">
+          <label>36</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mao</surname>
+                <given-names>CT</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>MH</given-names>
+              </name>
+              <name>
+                <surname>Hsu</surname>
+                <given-names>KH</given-names>
+              </name>
+              <name>
+                <surname>Fu</surname>
+                <given-names>TC</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>JS</given-names>
+              </name>
+              <name>
+                <surname>Huang</surname>
+                <given-names>YY</given-names>
+              </name>
+              <name>
+                <surname>Yang</surname>
+                <given-names>NI</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>CH</given-names>
+              </name>
+            </person-group>
+            <article-title>Effect of multidisciplinary disease management for hospitalized heart failure under a national health insurance programme.</article-title>
+            <source>J Cardiovasc Med (Hagerstown)</source>
+            <year>2015</year>
+            <month>Sep</month>
+            <volume>16</volume>
+            <issue>9</issue>
+            <fpage>616</fpage>
+            <page-range>616-24</page-range>
+            <pub-id pub-id-type="pmid">25105284</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

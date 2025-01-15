@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-25815" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Physiology, Neuromuscular Junction</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Omar</surname>
+            <given-names>Abdillahi</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Marwaha</surname>
+            <given-names>Komal</given-names>
+          </name>
+          <aff>Paul L Foster School of Medicine, TTUHSC, El Paso,TX, USA</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Bollu</surname>
+            <given-names>Pradeep C.</given-names>
+          </name>
+          <aff>University of Missouri</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Abdillahi Omar declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Komal Marwaha declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Pradeep Bollu declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>1</day>
+          <month>5</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-25815.s1" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>The neuromuscular junction (NMJ) is a synaptic connection between the terminal end of a motor nerve and a muscle (skeletal/ smooth/ cardiac). It is the site for the transmission of action potential from nerve to the muscle. It is also a site for many diseases and a site of action for many pharmacological drugs.<xref ref-type="bibr" rid="article-25815.r1">[1]</xref><xref ref-type="bibr" rid="article-25815.r2">[2]</xref><xref ref-type="bibr" rid="article-25815.r3">[3]</xref><xref ref-type="bibr" rid="article-25815.r4">[4]</xref>&#x000a0;In this article, the NMJ of skeletal muscle will be discussed.</p>
+      </sec>
+      <sec id="article-25815.s2" sec-type="Issues of Concern">
+        <title>Issues of Concern</title>
+        <p>Diseases of the NMJ produce muscle weakness through different mechanisms that may affect presynaptic, synaptic, or postsynaptic portions of the NMJ. Three main diseases that involve NMJ are Myasthenia Gravis (MG), Lambert-Eaton syndrome (LES), and Botulism.</p>
+      </sec>
+      <sec id="article-25815.s3" sec-type="Cellular Level&#x0000d;&#x0000a;">
+        <title>Cellular Level
+</title>
+        <p>
+<bold>Physiological Anatomy of Neuromuscular Junction </bold>
+</p>
+        <p>For convenience and understanding, the structure of NMJ can be divided into three main parts: a presynaptic part (nerve terminal), the postsynaptic part (motor endplate), and an area between the nerve terminal and motor endplate (synaptic cleft).</p>
+        <p><bold>Nerve Terminal:</bold> A myelinated motor neuron, on reaching the target muscle, loses its myelin sheath to form a complex of 100-200 branching nerve endings. These nerve endings are called nerve terminals or terminal boutons. The nerve terminal membrane has areas of membrane thickening called active zones. Active zones have a family of SNAP proteins (syntaxins and synaptosomal-associated protein 25) and rows of voltage-gated calcium (Ca) channels. A nerve terminal also has potassium channels on its membrane and contains mitochondria, endoplasmic reticulum, and synaptic vesicles (SVs).&#x000a0; Each SV stores around 5000-10000 molecules of acetylcholine (ACh), the neurotransmitter at NMJ. The SVs are concentrated around the active zone. The membrane of SVs has synaptotagmin and synaptobrevin proteins. These proteins are essential for fusion and docking of SVs at active zones. On arrival of an action potential at the nerve terminal, Ca channels open to cause influx. Increased Ca inside the nerve terminal causes a series of events leading to docking of SVs at active zones and exocytosis of the ACh from the synaptic vesicles into the synaptic cleft.<xref ref-type="bibr" rid="article-25815.r2">[2]</xref><xref ref-type="bibr" rid="article-25815.r3">[3]</xref><xref ref-type="bibr" rid="article-25815.r2">[2]</xref><xref ref-type="bibr" rid="article-25815.r4">[4]</xref></p>
+        <p><bold>Synaptic Cleft / Junctional Cleft</bold>: The space between the nerve terminal and the plasma membrane of muscle is called synaptic/junctional cleft and measures &#x0223c;50 nm. It is the site where presynaptic neurotransmitters, ACh is released before it interacts with nicotinic ACh receptors on the motor endplate. Synaptic cleft of NMJ contains acetylcholinesterase enzyme, responsible for the catabolism of released ACh so that its effect on the post-synaptic receptors is not prolonged.<xref ref-type="bibr" rid="article-25815.r2">[2]</xref><xref ref-type="bibr" rid="article-25815.r3">[3]</xref><xref ref-type="bibr" rid="article-25815.r2">[2]</xref><xref ref-type="bibr" rid="article-25815.r4">[4]</xref></p>
+        <p><bold>Motor End Plate</bold> forms the postsynaptic part of NMJ. It is the thickened portion of the muscle plasma membrane (sarcolemma) that is folded to form depressions called junctional folds. The terminal nerve endings do not penetrate the motor endplate but fit into the junctional folds. Junctional folds have nicotinic ACh receptors concentrated at the top. These receptors are ACh gated ion channels. Binding of ACh to these receptors opens the channels allowing the influx of sodium ions from the extracellular fluid into the muscle membrane. This creates endplate potential and generates and transmits AP to the muscle membrane.<xref ref-type="bibr" rid="article-25815.r2">[2]</xref><xref ref-type="bibr" rid="article-25815.r3">[3]</xref><xref ref-type="bibr" rid="article-25815.r4">[4]</xref></p>
+      </sec>
+      <sec id="article-25815.s4" sec-type="Mechanism">
+        <title>Mechanism</title>
+        <p>ACh is synthesized in the pre-synaptic terminal using choline and acetyl-CoA and the enzyme choline acetyltransferase. It subsequently goes through a series of modifications before being packaged in vesicles. Upon depolarization, an action potential travels down the axon, causing voltage-gated calcium channels to open, resulting in an influx of calcium ions into the nerve terminal.&#x000a0; This causes the vesicles to migrate towards the nerve terminal membrane and fuse with the active zones.</p>
+        <p>Different vesicular (SNAP-25, syntaxin) and nerve terminal membrane proteins (synaptobrevin and synaptotagmin) play a role in the fusion of SVs to active zones and exocytosis of ACh into the synaptic cleft. The released ACh subsequently binds to nicotinic ACh receptors on the junctional folds of the motor endplate. The binding of ACh to receptors triggers the opening of ACh gated ion channels that allow the influx of sodium ions into the muscle. The sodium influx changes the postsynaptic membrane potential from -90 mV to -45 mV. This decrease in membrane potential is called endplate potential. In the NMJ, endplate potential is strong enough to propagate action potential over the surface of the skeletal muscle membrane that ultimately results in muscle contraction. To prevent sustained depolarization and muscle contraction, as well as to allow for repolarization, ACh is metabolized by acetylcholinesterase into its subunits, choline, and acetate. Choline can then be re-used for the synthesis of ACh.<xref ref-type="bibr" rid="article-25815.r1">[1]</xref><xref ref-type="bibr" rid="article-25815.r2">[2]</xref></p>
+      </sec>
+      <sec id="article-25815.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>Myasthenia Gravis is an auto-immune condition (type II hypersensitivity reaction), resulting in the production of auto-antibodies against ACh receptors, at the neuromuscular junction. The antibodies against ACh receptors decrease the availability of &#x000a0;ACh receptors to endogenous ACh. This prevents endplate potential and muscle contraction. As a result, symptoms such as muscle weakness come as no surprise, especially in the extra-ocular muscle, as these muscles are in constant use and have a lower density of ACh receptors. Patients may also experience difficulty chewing and limb weakness. These symptoms worsen with use and progress throughout the day as the ACh in the pre-synaptic cleft gets depleted and insufficient to compete with the ACh receptor antibodies. MG is diagnosed by looking for the ACh receptor antibodies (80% to 90% sensitivity), or in cases&#x000a0;where clinical suspicion is high but the ACh receptor antibodies are negative (seronegative MG), the anti-muscle specific kinase (MuSK) can help make the diagnosis.</p>
+        <p>Neurophysiological studies like supramaximal repetitive nerve stimulation (RNS) of the peripheral nerve at 3Hz and single nerve electromyography may also be used for diagnosis, but they are not specific for MG. However, a 10% decrement on RNS is considered consistent with MG. Approximately 10% of patients with autoimmune MG have a thymoma. Treatment in MG is directed at increasing the levels of ACh in the synaptic cleft using ACh esterase inhibitors which prevent the breakdown of ACh in the synaptic cleft and out-compete the antibodies. Examples of ACh esterase inhibitors include neostigmine or pyridostigmine, edrophonium, and physostigmine.&#x000a0; Edrophonium is not used clinically for treating MG, because it is a very&#x000a0;short-acting ACh esterase inhibitor, but it may be used to&#x000a0;aid in the diagnosis of MG if the symptom of muscle and extra-ocular weakness abate upon administration. Physostigmine is also not used because it is a lipid-soluble tertiary amine that crosses the blood-brain barrier. Other medical management of MG includes the use of steroids (prednisone) and steroid-sparing agents (azathioprine, cyclophosphamide, tacrolimus, or mycophenolate). Rituximab, an anti-CD20 B cell monoclonal antibody may be used in refractory patients, especially with MuSK. Complications of MG include acute flare-ups of myasthenic crises wherein the patient develops acute muscle weakness and respiratory involvement. These patients are managed with IV immunoglobulins, which bind up the auto-antibodies, or plasmapheresis, which remove the autoantibodies from the blood. Patients with a respiratory crisis may also require ventilatory support.<xref ref-type="bibr" rid="article-25815.r3">[3]</xref><xref ref-type="bibr" rid="article-25815.r4">[4]</xref><xref ref-type="bibr" rid="article-25815.r5">[5]</xref></p>
+        <p>LES is an auto-immune condition caused by antibodies against voltage-gated calcium channels on the pre-synaptic membrane. This prevents Ca from entering the nerve terminal and triggering the fusion of ACh vesicles with the synaptic membrane. Therefore, it essentially&#x000a0;prevents the release of ACh into the synaptic cleft and ultimately prevents muscle contraction. About 50% of LES patients have small cell lung carcinoma. &#x000a0;Smoking markedly increases this risk. LES is subclassified into two main subgroups: LES with small cell lung carcinoma and LES with no small cell lung carcinoma. LES without small cell lung carcinoma is significantly associated with HLA-B8 (HLA- class I), and HLA -DR3 and -DQ2 (HLA-class II). These patients may have an increased incidence of other autoimmune disorders. LES with lung carcinoma has no relation to HLA. The symptoms of LES are similar to MG. However, in LES, proximal limb muscles are involved and tendon reflexes are depressed. The weakness improves with use. This is because, with repeated attempts at muscle contraction, a calcium gradient builds up outside the presynaptic Ca channel, which eventually allows the endogenous calcium to outcompete the auto-antibodies, and this triggers the release of ACh in the synaptic cleft. Eighty percent of LES patients complain of proximal muscle weakness in both arms and legs.&#x000a0;&#x000a0;Oropharyngeal and ocular muscles are mildly affected, so eyelid ptosis and mild diplopia may also be present. Autonomic symptoms such as dry mouth, constipation, impotence in males, and postural hypotension may be seen. The triad of proximal muscle weakness, depressed reflexes, and autonomic dysfunction help in making the diagnosis.</p>
+        <p>Similar to MG, LES can be diagnosed by looking for the antibodies. However, when LES is diagnosed, the more pressing issue is that it is a paraneoplastic syndrome and may be a sign of an underlying malignancy, most commonly small-cell lung cancer (50% to 70%). Treatment of LES includes addressing the underlying cause. Unfortunately, because it is associated with small-cell lung cancer, the cure is highly unlikely. For the symptomatic treatment guanidine, aminopyridines, or acetylcholinesterase inhibitors may be used. Amifampridine (3,4-diaminopyridine) is used to significantly improve muscle strength. Aminopyridines blocks the presynaptic voltage-gated potassium channels and thus extends the duration of the presynaptic action potential. Other therapies like plasma exchange may be used to deplete the serum autoantibodies.&#x000a0; Immune suppression with steroids or steroid-sparing agents (azathioprine, mycophenolate mofetil) or methotrexate may also be used.<xref ref-type="bibr" rid="article-25815.r3">[3]</xref><xref ref-type="bibr" rid="article-25815.r4">[4]</xref></p>
+        <p>Botulism is a potentially fatal syndrome of diffuse, flaccid paralysis caused by Clostridium botulinum, an anaerobic gram-positive, spore-forming bacterium. Clostridium botulinum produces seven types of antigenically distinct neurotoxins, A through G. Botulinum toxins B, D, F, and G act on synaptobrevin, and botulinum toxin C acts on syntaxin. Botulinum toxins A and B act on SNAP-25. These toxins attack synaptobrevin, SNAP-25, and syntaxin proteins essential for docking and fusion of SVs to the active zones and thus the release of ACh into the synaptic cleft, resulting in reversible flaccid paralysis. Botulism can occur due to the ingestion of food contaminated with spores or toxins (home-canned food) of C.botulinum. It results in nausea, vomiting, blurred vision, diplopia, and descending flaccid paralysis. In severe cases, bulbar paralysis and respiratory failure may occur rapidly. In infants, botulism can occur due to the ingestion of honey contaminated with spores of C. botulinum. Toxins are produced within the GI tract of infants and infants present with constipation, weak feeding, weak crying, and flaccid paralysis. Botulism can also occur due to contamination of a wound with dust containing C. botulinum spores. History, clinical presentation, and the detection of botulinum toxin and the presence of C. botulinum spores in serum, stool, gastrointestinal content, or wound exudates form the basis of diagnosis. Treatment is done by administering antitoxin. Early administration of antitoxin decreases mortality and shortens the disease course. Patients may require prolonged periods of ventilation.<xref ref-type="bibr" rid="article-25815.r3">[3]</xref><xref ref-type="bibr" rid="article-25815.r4">[4]</xref><xref ref-type="bibr" rid="article-25815.r6">[6]</xref><xref ref-type="bibr" rid="article-25815.r7">[7]</xref></p>
+      </sec>
+      <sec id="article-25815.s6" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>Some of the pharmacology regarding the NMJ had been previously mentioned in the pathophysiology section. The rest will be covered here. There are some chemicals that cause irreversible inhibition of the ACh esterase, the enzyme responsible for degrading ACh into choline and acetic acid in the synaptic cleft. &#x000a0;This results in the accumulation of ACh throughout the nervous system, resulting in overstimulation of muscarinic and nicotinic receptors.&#x000a0; Irreversible inhibitors of ACh esterase include the They are commonly used as an insecticide, such as malathion and parathion. The effects of organophosphates are reversed using a competitive inhibitor such as atropine and/or pralidoxime, which regenerates ACh esterase if given early enough before enzyme aging occurs via hydrolysis of the R group.<xref ref-type="bibr" rid="article-25815.r8">[8]</xref></p>
+        <p>Others include the centrally acting type such as rivastigmine, galantamine, tacrine, and donepezil. These are used to treat Alzheimer dementia. Another pharmacologic significance involves the use of NMJ blockers to induce muscle paralysis in anesthesiology. Neuromuscular blockers can be categorized into depolarizing (succinylcholine) and non-depolarizing (tubocurarine, atracurium, mivacurium, pancuronium, vecuronium, rocuronium). Depolarizing agents work&#x000a0;as an ACh receptor agonist at the NMJ and produce sustained depolarization that prevents repolarization of the motor endplate, resulting in ACh receptors becoming desensitized and inactivated. Non-depolarizing agents behave as competitive antagonists and compete with ACh for receptors. Also, non-depolarizing neuromuscular blocking agents are the alternative when the patient is a slow metabolizer of pseudocholinesterase (the enzyme that degrades succinylcholine) or has a mutation in the ryanodine receptor, both of which prolong the action of succinylcholine and can lead to the deadly complication of malignant hyperthermia due to sustained muscle contraction.<xref ref-type="bibr" rid="article-25815.r9">[9]</xref></p>
+        <p>The direct agonist of ACh that directly binds to the ACh receptors includes bethanechol (which is used to treat post-operative ileus, urinary retention), carbachol, and pilocarpine (both used to treat glaucoma by constriction of the pupillary muscle), and methacholine (used for a challenge test to diagnose asthma in a patient who presents asymptomatically).<xref ref-type="bibr" rid="article-25815.r10">[10]</xref>&#x000a0;Lastly, botulinum toxin can be given medically to relieve sustained muscle contraction in cases of blepharospasm, dystonia, and achalasia.</p>
+      </sec>
+      <sec id="article-25815.s7">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=25815&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=25815">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/25815/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=25815">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <floats-group id="article-25815.s8">
+        <fig id="article-25815.image.f1" position="float" orientation="portrait">
+          <caption>
+            <p>Anatomy of Neurons. A. Two connected neurons. Neurons have a soma that contains&#x000a0;a nucleus, an axon, and a dendritic tree. A single synapse (red circle) is formed at the point where&#x000a0;an&#x000a0;axon's neuron (black) connects to another neuron's dendrite, soma,&#x000a0;or axon (blue). B. A magnified view of a single synapse. On the arrival of an action potential at the presynaptic terminal, calcium&#x000a0;triggers the release of neurotransmitters from the synaptic vesicles into the synaptic cleft. Neurotransmitters diffuse across the synaptic cleft to activate postsynaptic receptors. Contributed by K Aubrey, MD</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Aubrey__Synapse__Figure__1" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <floats-group id="article-25815.s9">
+        <fig id="article-25815.image.f2" position="float" orientation="portrait">
+          <caption>
+            <p>NMT monitor for measuring neuromuscular blockade Contributed by Wikimedia Commons, Ignis (CC by 2.0) https://creativecommons.org/licenses/by/2.0/</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NMT" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <ref-list id="article-25815.s10">
+        <title>References</title>
+        <ref id="article-25815.r1">
+          <label>1</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Jimsheleishvili</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Marwaha</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Sherman</surname>
+                <given-names>AL</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Physiology, Neuromuscular Transmission</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>3</month>
+            <day>6</day>
+            <pub-id pub-id-type="pmid">31082177</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-25815.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ratliff</surname>
+                <given-names>WA</given-names>
+              </name>
+              <name>
+                <surname>Saykally</surname>
+                <given-names>JN</given-names>
+              </name>
+              <name>
+                <surname>Kane</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Citron</surname>
+                <given-names>BA</given-names>
+              </name>
+            </person-group>
+            <article-title>Neuromuscular Junction Morphology and Gene Dysregulation in the Wobbler Model of Spinal Neurodegeneration.</article-title>
+            <source>J Mol Neurosci</source>
+            <year>2018</year>
+            <month>Sep</month>
+            <volume>66</volume>
+            <issue>1</issue>
+            <fpage>114</fpage>
+            <page-range>114-120</page-range>
+            <pub-id pub-id-type="pmid">30105628</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-25815.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hirsch</surname>
+                <given-names>NP</given-names>
+              </name>
+            </person-group>
+            <article-title>Neuromuscular junction in health and disease.</article-title>
+            <source>Br J Anaesth</source>
+            <year>2007</year>
+            <month>Jul</month>
+            <volume>99</volume>
+            <issue>1</issue>
+            <fpage>132</fpage>
+            <page-range>132-8</page-range>
+            <pub-id pub-id-type="pmid">17573397</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-25815.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Slater</surname>
+                <given-names>CR</given-names>
+              </name>
+            </person-group>
+            <article-title>The Structure of Human Neuromuscular Junctions: Some Unanswered Molecular Questions.</article-title>
+            <source>Int J Mol Sci</source>
+            <year>2017</year>
+            <month>Oct</month>
+            <day>19</day>
+            <volume>18</volume>
+            <issue>10</issue>
+            <pub-id pub-id-type="pmid">29048368</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-25815.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Behin</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Le Panse</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>New Pathways and Therapeutic Targets in Autoimmune Myasthenia Gravis.</article-title>
+            <source>J Neuromuscul Dis</source>
+            <year>2018</year>
+            <volume>5</volume>
+            <issue>3</issue>
+            <fpage>265</fpage>
+            <page-range>265-277</page-range>
+            <pub-id pub-id-type="pmid">30010142</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-25815.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Young</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Leavitt</surname>
+                <given-names>JA</given-names>
+              </name>
+            </person-group>
+            <article-title>Lambert-Eaton Myasthenic Syndrome: Ocular Signs and Symptoms.</article-title>
+            <source>J Neuroophthalmol</source>
+            <year>2016</year>
+            <month>Mar</month>
+            <volume>36</volume>
+            <issue>1</issue>
+            <fpage>20</fpage>
+            <page-range>20-2</page-range>
+            <pub-id pub-id-type="pmid">25993122</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-25815.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lacomis</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Puwanant</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>What is in the Neuromuscular Junction Literature?</article-title>
+            <source>J Clin Neuromuscul Dis</source>
+            <year>2018</year>
+            <month>Dec</month>
+            <volume>20</volume>
+            <issue>2</issue>
+            <fpage>76</fpage>
+            <page-range>76-84</page-range>
+            <pub-id pub-id-type="pmid">30439753</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-25815.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hulse</surname>
+                <given-names>EJ</given-names>
+              </name>
+              <name>
+                <surname>Haslam</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Emmett</surname>
+                <given-names>SR</given-names>
+              </name>
+              <name>
+                <surname>Woolley</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Organophosphorus nerve agent poisoning: managing the poisoned patient.</article-title>
+            <source>Br J Anaesth</source>
+            <year>2019</year>
+            <month>Oct</month>
+            <volume>123</volume>
+            <issue>4</issue>
+            <fpage>457</fpage>
+            <page-range>457-463</page-range>
+            <pub-id pub-id-type="pmid">31248646</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-25815.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zafirova</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Dalton</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Neuromuscular blockers and reversal agents and their impact on anesthesia practice.</article-title>
+            <source>Best Pract Res Clin Anaesthesiol</source>
+            <year>2018</year>
+            <month>Jun</month>
+            <volume>32</volume>
+            <issue>2</issue>
+            <fpage>203</fpage>
+            <page-range>203-211</page-range>
+            <pub-id pub-id-type="pmid">30322460</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-25815.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ghosh</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Jana</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Ganguly</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Revealing the mechanistic pathway of cholinergic inhibition of Alzheimer's disease by donepezil: a metadynamics simulation study.</article-title>
+            <source>Phys Chem Chem Phys</source>
+            <year>2019</year>
+            <month>Jul</month>
+            <day>07</day>
+            <volume>21</volume>
+            <issue>25</issue>
+            <fpage>13578</fpage>
+            <page-range>13578-13589</page-range>
+            <pub-id pub-id-type="pmid">31173012</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

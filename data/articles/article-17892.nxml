@@ -1,0 +1,3425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-17892" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Aspergillosis</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Fosses Vuong</surname>
+            <given-names>Michaelia</given-names>
+          </name>
+          <aff>Southern Illinois University</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Hollingshead</surname>
+            <given-names>Caitlyn M.</given-names>
+          </name>
+          <aff>The University of Toledo</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Waymack</surname>
+            <given-names>James R.</given-names>
+          </name>
+          <aff>Southern Illinois University</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Michaelia Fosses Vuong declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Caitlyn Hollingshead declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>James Waymack declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>22</day>
+          <month>2</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-17892.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Aspergillosis is a spectrum of infections caused by fungi from the Aspergillus genus. The species most involved include A. fumigatus, A. terreus, A. flavus, and A. niger. Clinical syndromes depend on the host's immune status, with invasive syndromes predominantly affecting immunodeficient individuals. Pulmonary aspergillosis and rhinosinusitis are the most prominent examples of invasive diseases. Other more indolent forms, such as chronic pulmonary aspergillosis (CPA), aspergilloma, and allergic bronchopulmonary aspergillosis (ABPA), often occur in patients with underlying lung disease. Finally, cutaneous aspergillosis is often seen when wounds in immunocompromised patients are inoculated with Aspergillus. This activity reviews the evaluation and management of aspergillosis, which varies significantly depending on the clinical syndrome and highlights the role of the interprofessional team in managing patients with this spectrum of conditions.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Identify&#x000a0;the role of aspergillus in the etiology of aspergillosis.</p></list-item><list-item><p>Assess&#x000a0;the use of a fungal sputum stain in the evaluation of aspergillosis.</p></list-item><list-item><p>Evaluate&#x000a0;the use of voriconazole as the first-line treatment of aspergillosis.</p></list-item><list-item><p>Communicate&#x000a0;the importance of improving care coordination among interprofessional team members to improve outcomes for patients affected by aspergillosis.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=17892&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=17892">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-17892.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p><italic toggle="yes">Aspergillus</italic> is a ubiquitous, filamentous fungus that primarily causes infection in immunocompromised hosts and individuals with underlying pulmonary disease.<xref ref-type="bibr" rid="article-17892.r1">[1]</xref><xref ref-type="bibr" rid="article-17892.r2">[2]</xref> In the environment, <italic toggle="yes">Aspergillus</italic> species obtain nutrients from dead material and reproduce asexually via conidia.<xref ref-type="bibr" rid="article-17892.r3">[3]</xref><xref ref-type="bibr" rid="article-17892.r1">[1]</xref> Over&#x000a0;24 species of <italic toggle="yes">Aspergillus</italic> are capable of causing human disease, but <italic toggle="yes">A. fumigatus</italic>, followed by <italic toggle="yes">A. terreus</italic> and <italic toggle="yes">A. flavus</italic>, is the most implicated as a pathogen.<xref ref-type="bibr" rid="article-17892.r4">[4]</xref> Although caused by the same genus of fungi, aspergillosis should be thought of as a spectrum of processes that vary widely depending on the host's immune status. Thus, the implications can vary from life-threatening, as is noted in invasive pulmonary aspergillosis and invasive rhinosinusitis seen in the severely immunocompromised,&#x000a0;to non-urgent in the case of small aspergillomas in the immunocompetent, where monitoring with serial imaging is appropriate in most cases.<xref ref-type="bibr" rid="article-17892.r5">[5]</xref><xref ref-type="bibr" rid="article-17892.r6">[6]</xref></p>
+        <p>There are&#x000a0;3 major types of bronchopulmonary aspergillosis: invasive aspergillosis, chronic aspergillosis, and allergic aspergillosis.<xref ref-type="bibr" rid="article-17892.r5">[5]</xref> Although transmission is via aspiration of conidia, most people inhaling conidia do not contract aspergillosis due to immune response.<xref ref-type="bibr" rid="article-17892.r5">[5]</xref><xref ref-type="bibr" rid="article-17892.r7">[7]</xref> Neutrophils are noted as the most important immune cell in the immune response against <italic toggle="yes">Aspergillus</italic> species.<xref ref-type="bibr" rid="article-17892.r7">[7]</xref> If left untreated, invasive aspergillosis has mortality approaching 100%.<xref ref-type="bibr" rid="article-17892.r8">[8]</xref> In cases of suspected invasive aspergillosis, an extensive diagnostic workup is necessary, but treatment should be initiated as soon as possible to reduce morbidity and mortality.<xref ref-type="bibr" rid="article-17892.r9">[9]</xref><xref ref-type="bibr" rid="article-17892.r10">[10]</xref></p>
+      </sec>
+      <sec id="article-17892.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p>The primary route of infection and cause depends on the clinical syndrome.</p>
+        <p>
+<bold>Pulmonary</bold>
+</p>
+        <p>Pulmonary aspergillosis is contracted via inhalation of <italic toggle="yes">Aspergillus</italic> conidia.<xref ref-type="bibr" rid="article-17892.r5">[5]</xref>
+<italic toggle="yes">Aspergillus</italic> is ubiquitous in the environment, present in concentrations between 1 and 100 m, depending on whether the location is indoors or outdoors. It can be higher in certain areas, such as where the soil is disturbed.<xref ref-type="bibr" rid="article-17892.r11">[11]</xref> In invasive pulmonary aspergillosis and invasive bronchial aspergillosis, the root cause is an inadequate immune response, allowing for the fungus's growth and invasion.<xref ref-type="bibr" rid="article-17892.r1">[1]</xref> In chronic pulmonary aspergillosis, the cause is colonization in the setting of structural lung disease, such as prior cavitary disease from another process, such as tuberculosis.<xref ref-type="bibr" rid="article-17892.r1">[1]</xref> In allergic bronchopulmonary aspergillosis (ABPA) and severe asthma with fungal sensitization, the root cause is an allergic reaction to the inhaled fungal elements.<xref ref-type="bibr" rid="article-17892.r1">[1]</xref> The allergen involved in ABPA is almost always <italic toggle="yes">A. fumigatus</italic>.<xref ref-type="bibr" rid="article-17892.r1">[1]</xref></p>
+        <p>
+<bold>Rhinosinusitis</bold>
+</p>
+        <p>Rhinosinusitis is contracted via the inhalation of conidia via the nasal route and predominantly occurs in severely immunocompromised hosts.<xref ref-type="bibr" rid="article-17892.r7">[7]</xref> However, chronic granulomatous invasive rhinosinusitis occurs in immunocompetent patients.<xref ref-type="bibr" rid="article-17892.r6">[6]</xref> The most common organism associated with this is <italic toggle="yes">A. flavus.</italic><xref ref-type="bibr" rid="article-17892.r6">[6]</xref></p>
+        <p>
+<bold>Cerebral</bold>
+</p>
+        <p><italic toggle="yes">Aspergillus</italic> species reach the brain either hematogenous in the case of disseminated infection or via direct extension from contiguous areas, such as the mastoid, middle ear, or paranasal sinuses.<xref ref-type="bibr" rid="article-17892.r12">[12]</xref></p>
+        <p>
+<bold>Endophthalmitis</bold>
+</p>
+        <p>Cataract surgery can serve as the entry point for <italic toggle="yes">Aspergillus</italic> species, causing fungal endophthalmitis.<xref ref-type="bibr" rid="article-17892.r13">[13]</xref> Keratitis caused by Aspergillus species is often associated with contact lenses or other substances that damage the corneal epithelium, which increases the risk of infection.<xref ref-type="bibr" rid="article-17892.r14">[14]</xref><xref ref-type="bibr" rid="article-17892.r15">[15]</xref></p>
+        <p>
+<bold>Osteomyelitis</bold>
+</p>
+        <p><italic toggle="yes">Aspergillus</italic> enters the bone via disseminated infection in severe immunocompromise or direct inoculation, such as intravenous drug use&#x000a0;<xref ref-type="bibr" rid="article-17892.r16">[16]</xref> or surgical site infection.<xref ref-type="bibr" rid="article-17892.r17">[17]</xref></p>
+        <p>
+<bold>Cutaneous</bold>
+</p>
+        <p>An entry into the skin via venous catheters, predisposing chronic inflammatory skin condition, or trauma is necessary.<xref ref-type="bibr" rid="article-17892.r18">[18]</xref> Burns allow for an ample portal of entry for <italic toggle="yes">Aspergillus</italic> species.<xref ref-type="bibr" rid="article-17892.r19">[19]</xref>
+<italic toggle="yes">Aspergillus</italic> species have been increasingly recognized as a cause of onychomycosis, with nail trauma, immunodeficiency, and exposure of the nails to the soil as gateways to procuring this infection.<xref ref-type="bibr" rid="article-17892.r20">[20]</xref></p>
+        <p>
+<bold>Disseminated and Other Sites</bold>
+</p>
+        <p>Disseminated infections often originate from&#x000a0;1 of the sites above in the immunocompromised host, but dissemination from the pulmonary route is common.<xref ref-type="bibr" rid="article-17892.r21">[21]</xref> Growing hyphae gain access to the bloodstream by breaking through the endothelium of blood vessels.<xref ref-type="bibr" rid="article-17892.r21">[21]</xref> Endocarditis is rarely observed; most patients have had recent cardiac surgery or are severely immunosuppressed with disseminated disease.<xref ref-type="bibr" rid="article-17892.r22">[22]</xref> Rarely, gastrointestinal aspergillosis has also been observed, in which fungal conidia are ingested.<xref ref-type="bibr" rid="article-17892.r23">[23]</xref> Profound immunosuppression and the presence of underlying mucositis are thought to contribute.<xref ref-type="bibr" rid="article-17892.r23">[23]</xref>&#x000a0;In the past, it has been challenging to identify the exact species causing disease in many cases, leading to reporting the isolates as part of a complex. However, molecular diagnostics have helped aid in identification.<xref ref-type="bibr" rid="article-17892.r24">[24]</xref>
+<italic toggle="yes">Aspergillus fumigatus</italic> has previously been thought to be the cause of around 90% of invasive aspergillosis.<xref ref-type="bibr" rid="article-17892.r25">[25]</xref> However, more recent studies have reported that they comprise a smaller proportion, although they remain predominant.<xref ref-type="bibr" rid="article-17892.r26">[26]</xref></p>
+      </sec>
+      <sec id="article-17892.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p>Invasive aspergillosis overwhelmingly affects the immunocompromised population, composed of patients with AIDS,&#x000a0;those with hematologic malignancies,&#x000a0;prolonged neutropenia,&#x000a0;long-term corticosteroids,&#x000a0;and recipients of transplants on anti-rejection medications.<xref ref-type="bibr" rid="article-17892.r27">[27]</xref><xref ref-type="bibr" rid="article-17892.r28">[28]</xref><xref ref-type="bibr" rid="article-17892.r29">[29]</xref><xref ref-type="bibr" rid="article-17892.r28">[28]</xref><xref ref-type="bibr" rid="article-17892.r27">[27]</xref><xref ref-type="bibr" rid="article-17892.r30">[30]</xref> Incidence after a hematopoietic stem-cell transplant ranges from 0.5% after an autologous stem-cell transplant to up to 3.9% after a transplant from an unrelated donor.<xref ref-type="bibr" rid="article-17892.r31">[31]</xref> Invasive aspergillosis can also be seen in critically ill intensive care patients with an&#x000a0;underlying pulmonary condition such as chronic obstructive pulmonary disease or asthma (see <bold>Image.</bold> Chronic Obstructive Pulmonary Disease, Allergic&#x000a0;Bronchopulmonary&#x000a0;Aspergillosis).<xref ref-type="bibr" rid="article-17892.r30">[30]</xref> Around 250,000 cases of invasive aspergillosis are estimated to occur globally yearly.<xref ref-type="bibr" rid="article-17892.r32">[32]</xref> Invasive aspergillosis has affected those with severe influenza&#x000a0;and, more recently, severe COVID-19.<xref ref-type="bibr" rid="article-17892.r33">[33]</xref><xref ref-type="bibr" rid="article-17892.r34">[34]</xref> The incidence of invasive aspergillosis in hospitalized patients rose by 44% between 2004 and 2013.<xref ref-type="bibr" rid="article-17892.r35">[35]</xref> The increase in incidence is seen as transplantation is becoming more accessible and is utilized more often.<xref ref-type="bibr" rid="article-17892.r36">[36]</xref></p>
+        <p>Patients with underlying lung diseases such as chronic obstructive lung disease, tuberculosis, asthma, lung cancer, and sarcoidosis are at risk for developing the chronic form of aspergillosis.<xref ref-type="bibr" rid="article-17892.r5">[5]</xref> ABPA is almost exclusively found in asthma and cystic fibrosis patients (see <bold>Image.</bold> Chronic Obstructive Pulmonary Disease,&#x000a0;Allergy Bronchopulmonary Aspergillosis, Close-Up View).<xref ref-type="bibr" rid="article-17892.r37">[37]</xref> Those working in the construction, farming industries, and wastewater treatment plants may be at increased risk of <italic toggle="yes">Aspergillus</italic> infection due to chronic exposure in their work environments.<xref ref-type="bibr" rid="article-17892.r38">[38]</xref> Smoking marijuana contaminated with the fungus may also place an individual at risk for infection.<xref ref-type="bibr" rid="article-17892.r39">[39]</xref> Nosocomial <italic toggle="yes">Aspergillus</italic> infections have been reported from hospital showers and healthcare facilities undergoing construction.<xref ref-type="bibr" rid="article-17892.r40">[40]</xref></p>
+      </sec>
+      <sec id="article-17892.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>In an immunocompetent person, <italic toggle="yes">Aspergillus</italic> conidia are inhaled and taken up by phagocytes in the lungs.<xref ref-type="bibr" rid="article-17892.r1">[1]</xref> Neutrophils, pulmonary macrophages, and pulmonary epithelial cells play a crucial role.<xref ref-type="bibr" rid="article-17892.r1">[1]</xref> The conidia germinate into hyphae at body temperature. Phagocytes are attracted when proteins from the fungal cell wall, such as beta-1,3-glucan, activate major immune effector pathways, which activate alveolar macrophages.<xref ref-type="bibr" rid="article-17892.r1">[1]</xref> Neutrophils are attracted via released cytokines and kill the invasive hyphae via the release of&#x000a0;NADPH-dependent reactive oxygen species,<xref ref-type="bibr" rid="article-17892.r7">[7]</xref> and the <italic toggle="yes">Aspergillus</italic> infection is kept at bay.<xref ref-type="bibr" rid="article-17892.r41">[41]</xref> If any of these mechanisms are impaired in an immunocompromised patient, the infection may be allowed to spread.<xref ref-type="bibr" rid="article-17892.r42">[42]</xref>&#x000a0;<italic toggle="yes">Aspergillus</italic> is notable for angioinvasion, with thrombosis of blood vessels causing tissue necrosis and allowing spread to distant sites.<xref ref-type="bibr" rid="article-17892.r5">[5]</xref>&#x000a0;In patients with underlying pulmonary disease, colonization of <italic toggle="yes">Aspergillus</italic> in a preexisting cavity allows a large mass of fungal hyphae, fibrin, and other debris to form an aspergilloma.<xref ref-type="bibr" rid="article-17892.r5">[5]</xref>&#x000a0;In the case of ABPA, <italic toggle="yes">Aspergillus</italic> conidia do not trigger the typical immune response and instead activate TH2 CD4 T-cells.<xref ref-type="bibr" rid="article-17892.r5">[5]</xref></p>
+      </sec>
+      <sec id="article-17892.s6" sec-type="Histopathology">
+        <title>Histopathology</title>
+        <p>Correctly sending appropriate specimens is paramount for accurate and timely diagnosis.<xref ref-type="bibr" rid="article-17892.r43">[43]</xref> Tissue, aspirates, and fluids (such as bronchoalveolar lavage) obtained from the affected organs or area of concern are ideal specimens.<xref ref-type="bibr" rid="article-17892.r43">[43]</xref> Additionally, although fungal features are readily apparent in formalin-fixed tissue, it is essential to consider that formalin fixation sterilizes the biopsy. Therefore, culture and susceptibility data and exact species identification are not available. Sending tissue for culture in a sterile tube or container along with a formalin-fixed specimen speed diagnosis and the receipt of crucial information.</p>
+        <p>Stains often employed while examining <italic toggle="yes">Aspergillus</italic> species include Periodic acid-Schiff and Gomori's methenamine silver stain.<xref ref-type="bibr" rid="article-17892.r43">[43]</xref> Fluorescent dyes such as Calicoflor white are often used as well.<xref ref-type="bibr" rid="article-17892.r43">[43]</xref> Non-septate hyphae that exhibit dichotomous branching are observed.<xref ref-type="bibr" rid="article-17892.r43">[43]</xref> Several species of <italic toggle="yes">Aspergillus</italic> have characteristic features. <italic toggle="yes">Aspergillus fumigatus&#x000a0;</italic>is notable for having a uniseriate conidiophore with phialides sporulating from the upper two-thirds of the vesicle.<xref ref-type="bibr" rid="article-17892.r44">[44]</xref>
+<italic toggle="yes">A. niger</italic> is notable for having larger conidia (see <bold>Image.</bold>
+<italic toggle="yes">Aspergillus Fumigatus</italic>)<italic toggle="yes">.</italic><xref ref-type="bibr" rid="article-17892.r44">[44]</xref> Patients with hematological malignancies with invasive aspergillosis with bronchoalveolar lavages with positive Gomori's methenamine silver stain were noted with a higher rate of cavitary disease or culture positivity of more than&#x000a0;1 species of <italic toggle="yes">Aspergillus </italic>than those that did not stain positive.<xref ref-type="bibr" rid="article-17892.r45">[45]</xref>&#x000a0;Tissue pathology from patients with invasive fungal sinusitis reveals pale and necrotic mucosa, as infarction occurs due to angioinvasion of the fungi.<xref ref-type="bibr" rid="article-17892.r6">[6]</xref> Evaluation of vessel walls reveals occlusion and evidence of invading fungal hyphae.<xref ref-type="bibr" rid="article-17892.r6">[6]</xref></p>
+      </sec>
+      <sec id="article-17892.s7" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>A thorough history and physical exam should be performed on every patient suspected of having an <italic toggle="yes">Aspergillus</italic> infection. Care should be taken to understand a patient&#x02019;s risk factors for invasive disease and focus on eliciting all history related to immunosuppression. A careful history of any chemotherapy, glucocorticoids, and immunosuppressants received should be elicited. Attention should be paid to any history of malignancy with a detailed treatment history, including a history of ibrutinib, fludarabine, venetoclax use, or&#x000a0;history of CAR-T therapy.<xref ref-type="bibr" rid="article-17892.r7">[7]</xref></p>
+        <p>Transplant history should be noted with a careful review of the post-transplant course, including the history of graft versus host disease and length and depth of any neutropenia. A history of lung disease and any environmental exposures, such as construction work, gardening, or work in wastewater treatment, should be noted carefully. History should also delve into recent pulmonary infections like COVID-19 or influenza. Finally, the clinician should investigate in-depth current and past medical problems to assess the potential for an immunocompromised state, including taking a detailed sexual history to assess the likelihood of HIV and carefully reviewing the history for frequent infections that could raise concern for immunodeficiency, such as chronic granulomatous disease.</p>
+        <p>The invasive aspergillosis patient often be critically ill with immunocompromised status. This condition should also be considered in critically ill patients with underlying lung disease. The most common initial symptoms of pulmonary infection include fever, worsening dyspnea, increased sputum production, hemoptysis, and pleuritic chest pain. Fever may not manifest in the severely immunocompromised; therefore, fever can be absent despite progressive infection.<xref ref-type="bibr" rid="article-17892.r5">[5]</xref> Invasive fungal sinusitis often presents with vague symptoms, but facial pain, retro-orbital pain, exophthalmos, visual impairment, nasal congestion, and fever can be noted.<xref ref-type="bibr" rid="article-17892.r46">[46]</xref> Invasive aspergillosis rapidly progresses, and symptoms often manifest once the disease is advanced.</p>
+        <p>Chronic pulmonary aspergillosis most commonly presents with a cough.<xref ref-type="bibr" rid="article-17892.r5">[5]</xref> Due to lung vascularity, hemoptysis is seen around half the time due to encroachment on the involved vessels.<xref ref-type="bibr" rid="article-17892.r5">[5]</xref> Hemoptysis may be the first presenting symptom. Systemic symptoms, including fever, night sweats, and weight loss, are commonly seen in the disease&#x02019;s cavitary, fibrosing, and necrotizing forms.<xref ref-type="bibr" rid="article-17892.r5">[5]</xref> In contrast, patients with small aspergillomas or nodules may be asymptomatic and have normal physical examinations.<xref ref-type="bibr" rid="article-17892.r5">[5]</xref>&#x000a0;ABPA presents with recurrent asthma exacerbations, with the most prominent finding being dyspnea and wheezing, along with coughing up large amounts of sputum with brown plugs.<xref ref-type="bibr" rid="article-17892.r37">[37]</xref></p>
+        <p>Physical examination findings vary depending on the infected area. There may be sinus tenderness, nasal discharge, pallor or necrosis of the oral or nasal mucosa or conjunctiva, new mobility or hypesthesia of teeth, proptosis, or cranial nerve abnormalities in invasive fungal rhinosinusitis.<xref ref-type="bibr" rid="article-17892.r47">[47]</xref> Rales, rhonchi, dullness to percussion, and bloody sputum or endotracheal tube secretions may be seen in invasive pulmonary aspergillosis. Wheezing is often noted with ABPA.<xref ref-type="bibr" rid="article-17892.r5">[5]</xref> Dermatologic changes such as purpuric lesions, eschar, or meningeal signs can signal disseminated infection. However, a normal physical examination does not rule out invasive infection. The physical examination in chronic pulmonary aspergillosis depends on the extent of the infection and underlying pulmonary disease.&#x000a0;</p>
+      </sec>
+      <sec id="article-17892.s8" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>A strong clinical suspicion for aspergillosis should prompt the evaluation due to the ubiquitous nature of <italic toggle="yes">Aspergillus</italic> conidia in the environment. The presence of <italic toggle="yes">Aspergillus</italic> in a sputum sample in and of itself does not indicate infection unless other signs, symptoms, and host risk factors are present. Alternatively, invasive aspergillosis can present with subtle symptoms.<xref ref-type="bibr" rid="article-17892.r7">[7]</xref> Evaluation should proceed based on the suspected clinical syndrome.</p>
+        <p>
+<bold>Invasive Fungal Rhinosinusitis</bold>
+</p>
+        <p>Suspicions of invasive fungal rhinosinusitis should prompt emergent evaluation by an otolaryngologist so that nasal endoscopy with culture collection or other surgery can be performed urgently. These patients should be managed by infectious disease clinicians, otolaryngologists, and transplant physicians (if appropriate). Adjunctive imaging, such as&#x000a0;computed tomography of the maxillofacial sinuses and MRI of the brain, helps to evaluate for bone abnormalities and characterize the extent of sinus disease. However, one should note that computed tomography can underestimate the extent of the infection, and MRI may better characterize disease progression.<xref ref-type="bibr" rid="article-17892.r48">[48]</xref></p>
+        <p>
+<bold>Invasive Pulmonary Aspergillosis</bold>
+</p>
+        <p>Patients with suspicions of invasive pulmonary aspergillosis should undergo chest&#x000a0;computed tomography to evaluate the presence or extent of the disease as well as to direct further efforts, such as bronchoscopy.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref> If lesions are amenable to this approach and there are no contraindications, patients should undergo bronchoscopy. The procedure allows for the inspection of the airways and collection of tissue for fungal culture and cytopathology, as well as the collection of deep lower respiratory fungal cultures and galactomannan.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref> Alternatively, they should have sputum cultures collected for fungal culture and stain if bronchoscopy cannot be performed. These patients should be managed with the help of infectious disease clinicians, pulmonologists, and transplant physicians (if appropriate). Culture of the <italic toggle="yes">Aspergillus</italic> species in the sputum or by bronchoalveolar lavage supports the diagnosis of aspergillosis, but tissue sampling revealing invasive <italic toggle="yes">Aspergillus</italic> hyphae finalizes the diagnosis.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref>&#x000a0;Patients within the first&#x000a0;3 months of lung transplant are at risk of invasive fungal infection at the anastomosis of the transplant.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref> This risk is the highest in the first 3-4 weeks post-transplantation.<xref ref-type="bibr" rid="article-17892.r50">[50]</xref> Anastomotic infections can be noted upon routine screening bronchoscopy and generally require debridement at the anastomotic site.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref></p>
+        <p>
+<bold>Biomarkers and Other Laboratory Investigations</bold>
+</p>
+        <p>Serum biomarkers such as galactomannan are helpful in the right population. It has the best-studied utility in patients with hematologic malignancy and hematopoietic stem cell transplant recipients, with an approximate 70% sensitivity.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref> Sensitivity decreases in other patient populations and is noted to be as low as 20% in the solid organ transplant population.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref> For this reason, serum galactomannan is recommended as a biomarker in patients with hematologic malignancy and hematopoietic stem cell transplant recipients not receiving mold prophylaxis.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref><xref ref-type="bibr" rid="article-17892.r51">[51]</xref> When an optical density of 0.5 is used, galactomannan is noted to have a sensitivity of 97.4% in detecting invasive aspergillosis or probable invasive aspergillosis.<xref ref-type="bibr" rid="article-17892.r52">[52]</xref></p>
+        <p>Galactomannan can also be measured from bronchoalveolar lavage samples and has a sensitivity of 93.2% when an&#x000a0;optical density of 0.5 is used.<xref ref-type="bibr" rid="article-17892.r53">[53]</xref> Causes of false-positive galactomannan include blood transfusion,&#x000a0;use of certain crystalloids in collecting bronchoalveolar lavage samples, and intravenous amoxicillin formulations, and it has been reported after eating ice pops.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref><xref ref-type="bibr" rid="article-17892.r54">[54]</xref><xref ref-type="bibr" rid="article-17892.r51">[51]</xref> There is also cross-reactivity with Fusarium, Histoplasma, Blastomyces, and Talaromyces species.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref><xref ref-type="bibr" rid="article-17892.r51">[51]</xref>&#x000a0;1,3-beta-D-glucan tests are very sensitive but are nonspecific as this is a component of the fungal cell wall and is not specific to <italic toggle="yes">Aspergillus</italic> species.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref> There are also many causes of false-positive tests, including membrane filters used for blood processing such as dialysis, drugs such as beta-lactams and beta-asparaginase, and contamination of blood collection tubes with glucan.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref>&#x000a0;It should be noted that blood cultures are very rarely positive for <italic toggle="yes">Aspergillus</italic> species, even with a severe disease burden of disseminated disease.<xref ref-type="bibr" rid="article-17892.r55">[55]</xref> PCR is not widely available, but further work is being done in this area.<xref ref-type="bibr" rid="article-17892.r55">[55]</xref><xref ref-type="bibr" rid="article-17892.r49">[49]</xref></p>
+        <p>
+<bold>Chronic Pulmonary Aspergillosis</bold>
+</p>
+        <p>Several criteria must be met to diagnose chronic pulmonary aspergillosis. At least&#x000a0;3 months of pulmonary symptoms, systemic symptoms, or progressive characteristic radiologic findings must be noted along with microbiology or serology confirming <italic toggle="yes">Aspergillus </italic>involvement.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref> Furthermore, this must be accompanied by a compatible underlying pulmonary condition in the setting of immunocompetency to make the diagnosis.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref> A positive <italic toggle="yes">Aspergillus </italic>IgG can also help diagnose chronic aspergillosis.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref><xref ref-type="bibr" rid="article-17892.r56">[56]</xref> A tissue biopsy of an aspergilloma may help confirm the diagnosis and exclude alternative conditions that may cause lung masses.<xref ref-type="bibr" rid="article-17892.r2">[2]</xref><xref ref-type="bibr" rid="article-17892.r57">[57]</xref></p>
+        <p>
+<bold>ABPA</bold>
+</p>
+        <p>Patients with cystic fibrosis or asthma suspected of ABPA should undergo <italic toggle="yes">Aspergillus</italic> skin testing or IgE against <italic toggle="yes">A. fumigatus,</italic> chest imaging, a measurement of total IgE level, <italic toggle="yes">A. fumigatus</italic> specific IgG, serum precipitins, and blood eosinophil count. Patients noted to have positive <italic toggle="yes">Aspergillus</italic> skin testing or IgE, total IgE greater than 1000 IU/mL, and at least&#x000a0;2 of the&#x000a0;3 other criteria meet diagnostic criteria for ABPA (see <bold>Image.</bold> Allergic&#x000a0;Bronchopulmonary&#x000a0;Aspergillosis).<xref ref-type="bibr" rid="article-17892.r5">[5]</xref> Other criteria include positive <italic toggle="yes">A. fumigatus</italic> specific IgG or serum precipitins, blood eosinophil count greater than 500 cells/L without systemic corticosteroids use, and chest imaging consistent with ABPA.<xref ref-type="bibr" rid="article-17892.r5">[5]</xref></p>
+        <p>
+<bold>Rare Manifestations</bold>
+</p>
+        <p>Rarely is a thoracentesis required for pleural effusion. A rare manifestation of aspergillosis includes black pleural effusion, rarely reported with <italic toggle="yes">Aspergillus niger</italic> infection.<xref ref-type="bibr" rid="article-17892.r58">[58]</xref></p>
+        <p>
+<bold>Radiology</bold>
+</p>
+        <p>Radiology is a critical adjunct for the diagnosis of aspergillosis.<xref ref-type="bibr" rid="article-17892.r59">[59]</xref> Aspergillomas can be seen on chest radiographs and&#x000a0;computed tomography of the chest as a well-defined mass within a pre-existing cavity.<xref ref-type="bibr" rid="article-17892.r60">[60]</xref>&#x000a0;See <bold>Image.</bold>&#x000a0;Chronic Obstructive Pulmonary Disease, ABPA, computed tomography&#x000a0;Scan. Characteristic findings of invasive pulmonary aspergillosis include the halo sign, which consists of a central nodule surrounded by ground-glass changes.<xref ref-type="bibr" rid="article-17892.r60">[60]</xref> The nodule consists of the invasive <italic toggle="yes">Aspergillus,&#x000a0;</italic>and the ground-glass opacities are observed due to the surrounding thrombosis and hemorrhage.<xref ref-type="bibr" rid="article-17892.r60">[60]</xref> Although the halo sign is the most characteristic sign of invasive aspergillosis, nodules without the surrounding ground-glass changes are seen more commonly.<xref ref-type="bibr" rid="article-17892.r60">[60]</xref> The air crescent sign is often seen later in invasive aspergillosis and consists of a crescent of air around a macronodule.<xref ref-type="bibr" rid="article-17892.r60">[60]</xref> This sign is seen much later in the course of the infection after recovery of neutrophils.<xref ref-type="bibr" rid="article-17892.r60">[60]</xref></p>
+        <p>In chronic necrotizing aspergillosis, consolidation can be seen, which generally starts in the upper lobes with bronchiectasis and evolves into cavitation.<xref ref-type="bibr" rid="article-17892.r61">[61]</xref> Pleural thickening can be noted by lung cavities, which is concerning for locally invasive diseases.<xref ref-type="bibr" rid="article-17892.r60">[60]</xref>&#x000a0; In APBA, dilation of central airways with mucoid impaction is observed, and branching "finger-in-glove" opacities are often noted due to the prevalence of mucoid impaction.<xref ref-type="bibr" rid="article-17892.r60">[60]</xref><xref ref-type="bibr" rid="article-17892.r61">[61]</xref> Additionally, "toothpaste shadows" can transiently be seen, caused by mucus plugging.<xref ref-type="bibr" rid="article-17892.r5">[5]</xref></p>
+      </sec>
+      <sec id="article-17892.s9" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>Treatment of suspected invasive aspergillosis should be promptly initiated while investigations are ongoing due to the rapidly progressive nature of the infection. When selecting an antifungal, one must consider the general resistance profiles of <italic toggle="yes">Aspergillus</italic> species in the area of practice, the history of anti-mold prophylaxis used (if any), the species of <italic toggle="yes">Aspergillus</italic> involved, if known, and the patient's comorbidities, such as QT prolongation.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref> It should be noted that <italic toggle="yes">A. terreus</italic> and&#x000a0;<italic toggle="yes">A. alliaceus</italic> are intrinsically resistant to amphotericin B, and <italic toggle="yes">A. calidoustus</italic> is intrinsically resistant to azoles.<xref ref-type="bibr" rid="article-17892.r51">[51]</xref></p>
+        <p>In most instances, the drug of choice is voriconazole.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref> Voriconazole troughs should be monitored&#x000a0;4 to&#x000a0;7 days into therapy and after dosage changes or changes in other medications that could affect levels to ensure therapeutic levels.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref> Additionally, clinicians should counsel patients regarding the side effects of voriconazole, including photosensitivity. Although there have been previous concerns regarding an increased risk of squamous cell carcinoma of the skin in patients receiving voriconazole, prior studies may have been confounded by the patient's transplant status. A large study of patients treated with voriconazole for chronic aspergillosis did not reveal an increased rate of skin squamous cell carcinoma.<xref ref-type="bibr" rid="article-17892.r62">[62]</xref> Alternatives therapies for invasive aspergillosis include liposomal amphotericin B or isuvaconazole.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref></p>
+        <p>For patients receiving mold prophylaxis with voriconazole, liposomal amphotericin B is recommended to be used until susceptibility testing is available.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref> When, if ever, a combination of azole and echinocandin therapy is needed is somewhat controversial but has been used for extremely ill patients.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref><xref ref-type="bibr" rid="article-17892.r51">[51]</xref> It is also vital to decrease immunosuppression to the furthest extent possible if it is medication-induced or improve immunosuppression via treatment in the case of HIV or primary immunodeficiency.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref> Therapy should continue at least a&#x000a0;6 to 12-week course but may need to be continued longer based on the extent of the disease and immunosuppression.<xref ref-type="bibr" rid="article-17892.r63">[63]</xref><xref ref-type="bibr" rid="article-17892.r64">[64]</xref> Repeat chest&#x000a0;computed tomography is recommended after&#x000a0;2 weeks of therapy to monitor for improvement. This interval may need to be shorter if nodules or other signs of invasive disease are noted sufficiently proximal to major blood vessels. In these cases, surgery may also be considered to avoid pulmonary hemorrhage.</p>
+        <p>Treatment of patients with chronic pulmonary aspergillosis exhibiting pulmonary symptoms and loss of pulmonary function is accomplished with oral therapy with itraconazole or voriconazole.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref> A minimum of&#x000a0;6 months of therapy for all patients is recommended, though lifelong therapy may be necessary for patients with chronic progressive disease.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref> In the case of azole resistance, micafungin, caspofungin, or liposomal amphotericin B should be considered.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref> Tranexamic acid can manage hemoptysis, but surgical resection is considered for severe cases.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref> Treatment response is measured through evaluation of symptoms, pulmonary function testing, and following <italic toggle="yes">Aspergillus</italic> IgE.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref> Repeat imaging (computed tomography) may show the decreased size of aspergillomas and cavitary lesions. Repeat imaging should be done after a minimum of&#x000a0;2 weeks of therapy.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref></p>
+        <p>Surgery may be required to remove an aspergilloma and should be considered in cases of hemoptysis.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref> Surgery is most effective in patients with a single lesion and not diffuse disease. Therapeutic embolization to control hemoptysis is another way to manage symptoms, though it is not curative of the disease.<xref ref-type="bibr" rid="article-17892.r65">[65]</xref> In cases of small aspergillomas not encroaching on blood vessels, watchful waiting is appropriate without antifungal therapy if there is no increase in cavity size over&#x000a0;6 to&#x000a0;24 months.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref>&#x000a0;APBA exacerbations are typically treated with corticosteroids to control the immune response and itraconazole to decrease the fungal burden.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref></p>
+      </sec>
+      <sec id="article-17892.s10" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <p>Differential diagnosis for aspergillosis includes:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Asthma</p>
+          </list-item>
+          <list-item>
+            <p>Atypical mycobacterial infection</p>
+          </list-item>
+          <list-item>
+            <p>Bacterial pneumonia</p>
+          </list-item>
+          <list-item>
+            <p>Bacterial sinusitis with abscess</p>
+          </list-item>
+          <list-item>
+            <p>Blastomycosis</p>
+          </list-item>
+          <list-item>
+            <p>Bronchiectasis</p>
+          </list-item>
+          <list-item>
+            <p>Cavitary lung cancer</p>
+          </list-item>
+          <list-item>
+            <p>Cavitary polyangiitis with granulomatosis</p>
+          </list-item>
+          <list-item>
+            <p>Coccidioidomycosis</p>
+          </list-item>
+          <list-item>
+            <p>Cystic fibrosis</p>
+          </list-item>
+          <list-item>
+            <p>Eosinophilia</p>
+          </list-item>
+          <list-item>
+            <p>Eosinophilic pneumonia</p>
+          </list-item>
+          <list-item>
+            <p>Histoplasmosis</p>
+          </list-item>
+          <list-item>
+            <p>Hypersensitivity pneumonitis</p>
+          </list-item>
+          <list-item>
+            <p>Interstitial lung disease</p>
+          </list-item>
+          <list-item>
+            <p>Nocardiosis</p>
+          </list-item>
+          <list-item>
+            <p>Pulmonary sarcoidosis</p>
+          </list-item>
+          <list-item>
+            <p>Tuberculosis</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-17892.s11" sec-type="Pertinent Studies and Ongoing Trials">
+        <title>Pertinent Studies and Ongoing Trials</title>
+        <p>A landmark trial in 2002 noted decreased mortality in invasive pulmonary aspergillosis patients treated with voriconazole (survival rate at&#x000a0;12 weeks: 70.8%) versus amphotericin B deoxycholate (survival rate: 57.9%).<xref ref-type="bibr" rid="article-17892.r66">[66]</xref> There was also a noted increased rate of remission in the voriconazole group.<xref ref-type="bibr" rid="article-17892.r66">[66]</xref></p>
+      </sec>
+      <sec id="article-17892.s12" sec-type="Prognosis">
+        <title>Prognosis</title>
+        <p>The prognosis of allergic bronchopulmonary pulmonary aspergillosis is good in patients with mild alterations in function.<xref ref-type="bibr" rid="article-17892.r37">[37]</xref> However, many patients may require steroids for a prolonged time if the diagnosis is delayed.<xref ref-type="bibr" rid="article-17892.r37">[37]</xref> Delays in diagnosis may lead to steroid resistance and the development of lung fibrosis.<xref ref-type="bibr" rid="article-17892.r67">[67]</xref>&#x000a0;For patients with invasive aspergillosis, the prognosis is poor.<xref ref-type="bibr" rid="article-17892.r68">[68]</xref> Despite appropriate antifungal therapy, the mortality rate of invasive pulmonary aspergillosis is around 20%&#x000a0;6 weeks from diagnosis.<xref ref-type="bibr" rid="article-17892.r7">[7]</xref> Once the infection has spread to the central nervous system, the mortality is close to 100%.<xref ref-type="bibr" rid="article-17892.r69">[69]</xref></p>
+      </sec>
+      <sec id="article-17892.s13" sec-type="Complications">
+        <title>Complications</title>
+        <p>Complications that can manifest with this condition include:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Continued wheezing</p>
+          </list-item>
+          <list-item>
+            <p>Lung fibrosis</p>
+          </list-item>
+          <list-item>
+            <p>Hemoptysis</p>
+          </list-item>
+          <list-item>
+            <p>Respiratory failure</p>
+          </list-item>
+          <list-item>
+            <p>Central nervous system&#x000a0;infection</p>
+          </list-item>
+          <list-item>
+            <p>Endocarditis</p>
+          </list-item>
+          <list-item>
+            <p>Death</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-17892.s14" sec-type="Postoperative and Rehabilitation Care">
+        <title>Postoperative and Rehabilitation Care</title>
+        <p>Patients with invasive aspergillosis often require prolonged hospitalizations due to their critical illness.<xref ref-type="bibr" rid="article-17892.r70">[70]</xref></p>
+      </sec>
+      <sec id="article-17892.s15" sec-type="Consultations">
+        <title>Consultations</title>
+        <p>Consultations that are typically requested for patients with aspergillosis include:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>An infectious disease consultation is imperative in invasive aspergillosis and can be helpful in other forms of aspergillosis to manage antifungal therapy.</p>
+          </list-item>
+          <list-item>
+            <p>Pulmonology evaluation is highly recommended for patients with pulmonary forms of aspergillosis.</p>
+          </list-item>
+          <list-item>
+            <p>Otolaryngology evaluation is imperative when invasive fungal rhinosinusitis is suspected.</p>
+          </list-item>
+          <list-item>
+            <p>Those with allergic aspergillosis may also need a referral to an allergist.</p>
+          </list-item>
+          <list-item>
+            <p>A thoracic surgeon should be consulted to evaluate patients who do not respond as expected to antifungal therapies or have hemoptysis.</p>
+          </list-item>
+          <list-item>
+            <p>An interventional radiologist may be very helpful for embolization therapy&#x000a0;in patients with acute hemoptysis.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-17892.s16" sec-type="Deterrence and Patient Education">
+        <title>Deterrence and Patient Education</title>
+        <p>The best way to decrease morbidity and mortality from aspergillosis is to place hospitalized patients at risk of invasive aspergillosis in private rooms with HEPA filtration, lowering fungi concentration.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref> Additionally, patients at high risk for invasive aspergillosis should be directed to avoid environmental exposures that expose them to high fungal burdens, such as gardening, time in construction areas, or high-risk jobs such as wastewater treatment.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref>&#x000a0;In select patients, prophylactic antifungal therapy decreases the risk of fungal infections. Antifungal prophylaxis with voriconazole or posaconazole is recommended for patients with several risk factors. These include prolonged periods of neutropenia from chemotherapy, allogeneic hematopoietic stem cell transplant recipients, severe or prolonged graft-versus-host disease, lung transplant within the first 3-4 months post-transplantation, and some other solid organ transplant recipients.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref> Additionally, for lung transplant patients with <italic toggle="yes">Aspergillus</italic> airway colonization within the first&#x000a0;6 months of transplant or that have received increased immunosuppression for rejection within the last&#x000a0;3 months, it is recommended that they preemptively receive a course of antifungal therapy.<xref ref-type="bibr" rid="article-17892.r49">[49]</xref></p>
+      </sec>
+      <sec id="article-17892.s17" sec-type="Pearls and Other Issues">
+        <title>Pearls and Other Issues</title>
+        <p>When aspergillosis is suspected, remembering the following pearls is helpful:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Send all tissue and fluid for cytology, culture, and histopathology.</p>
+          </list-item>
+          <list-item>
+            <p>If invasive pulmonary aspergillosis is suspected, anti-fungal therapy and&#x000a0;computed tomography chest should be ordered. Bronchoscopy should be considered if possible.
+<list list-type="bullet"><list-item><p>Galactomannan is a valuable adjunct in diagnosing invasive aspergillosis in patients with hematological malignancies and those with a history of hematopoietic stem cell transplant.</p></list-item><list-item><p>Fungal rhinosinusitis is a medical emergency, and the patient should be evaluated by otolaryngology urgently for consideration of surgical management.</p></list-item><list-item><p>The halo and air crescent signs are radiographic signs of invasive aspergillosis.</p></list-item></list>
+</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-17892.s18" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Aspergillosis has a better prognosis in immunocompetent individuals but is very guarded in transplant and immunocompromised patients. Evidence-based guidelines are recommended for managing all cases of invasive fungal disease. An interprofessional team should include healthcare professionals from various disciplines to assist with care, including infectious diseases clinicians, pulmonologists, otolaryngologists, transplant physicians, pathologists, microbiology laboratory personnel, nurses, pharmacists, and infectious diseases pharmacists. Open communication among consultants and adherence to clinical pathways are critical to expediting care and decreasing mortality. Integrated diagnostic measures for aspergillosis, including appropriate imaging, galactomannan, and bronchoscopy in appropriate patients, are critical to expedite the diagnosis. When there is clinical suspicion of invasive aspergillosis, the patient must be immediately started on targeted antifungal agents.<xref ref-type="bibr" rid="article-17892.r71">[71]</xref></p>
+      </sec>
+      <sec id="article-17892.s19">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=17892&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=17892">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/infectious-disease/aspergillosis/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=17892">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/17892/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=17892">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <floats-group id="article-17892.s20">
+        <fig id="article-17892.image.f1" position="float" orientation="portrait">
+          <caption>
+            <p>Chronic Obstructive Pulmonary Disease, Allergic Bronchopulmonary Aspergillosis. This image shows a posterior-anterior&#x000a0;view of a patient with COPD and ABPA. Contributed by H Shulman, MD</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="abpa1pajpg" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <floats-group id="article-17892.s21">
+        <fig id="article-17892.image.f2" position="float" orientation="portrait">
+          <caption>
+            <p>Chronic Obstructive Pulmonary Disease, Allergy Bronchopulmonary Aspergillosis, Close-Up View Contributed by H Shulman, MD</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="abpa1pajcu" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <floats-group id="article-17892.s22">
+        <fig id="article-17892.image.f3" position="float" orientation="portrait">
+          <caption>
+            <p>Chronic Obstructive Pulmonary Disease, Allergic Bronchopulmonary Aspergillosis, CT Scan Contributed by H Shulman, MD</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="abpa1ct" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <floats-group id="article-17892.s23">
+        <fig id="article-17892.image.f4" position="float" orientation="portrait">
+          <caption>
+            <p>Allergic Bronchopulmonary Aspergillosis Contributed by S Bhimji, MD</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="allergic__bronchopulmonary__asp" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <floats-group id="article-17892.s24">
+        <fig id="article-17892.image.f5" position="float" orientation="portrait">
+          <caption>
+            <p><italic toggle="yes">Aspergillus Fumigatus</italic> Centers for Disease Control and Prevention</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="800px-Aspergillus_fumigatus_01" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <ref-list id="article-17892.s25">
+        <title>References</title>
+        <ref id="article-17892.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Latg&#x000e9;</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Chamilos</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Aspergillus fumigatus and Aspergillosis in 2019.</article-title>
+            <source>Clin Microbiol Rev</source>
+            <year>2019</year>
+            <month>Dec</month>
+            <day>18</day>
+            <volume>33</volume>
+            <issue>1</issue>
+            <pub-id pub-id-type="pmid">31722890</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jenks</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Hoenigl</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Treatment of Aspergillosis.</article-title>
+            <source>J Fungi (Basel)</source>
+            <year>2018</year>
+            <month>Aug</month>
+            <day>19</day>
+            <volume>4</volume>
+            <issue>3</issue>
+            <pub-id pub-id-type="pmid">30126229</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hen&#x000df;</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Kleinemeier</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Strobel</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Brock</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>L&#x000f6;ffler</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ebel</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>Characterization of <italic>Aspergillus terreus</italic> Accessory Conidia and Their Interactions With Murine Macrophages.</article-title>
+            <source>Front Microbiol</source>
+            <year>2022</year>
+            <volume>13</volume>
+            <fpage>896145</fpage>
+            <pub-id pub-id-type="pmid">35783442</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gibbons</surname>
+                <given-names>JG</given-names>
+              </name>
+              <name>
+                <surname>Rokas</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>The function and evolution of the Aspergillus genome.</article-title>
+            <source>Trends Microbiol</source>
+            <year>2013</year>
+            <month>Jan</month>
+            <volume>21</volume>
+            <issue>1</issue>
+            <fpage>14</fpage>
+            <page-range>14-22</page-range>
+            <pub-id pub-id-type="pmid">23084572</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kanj</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Abdallah</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Soubani</surname>
+                <given-names>AO</given-names>
+              </name>
+            </person-group>
+            <article-title>The spectrum of pulmonary aspergillosis.</article-title>
+            <source>Respir Med</source>
+            <year>2018</year>
+            <month>Aug</month>
+            <volume>141</volume>
+            <fpage>121</fpage>
+            <page-range>121-131</page-range>
+            <pub-id pub-id-type="pmid">30053957</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Montone</surname>
+                <given-names>KT</given-names>
+              </name>
+            </person-group>
+            <article-title>Pathology of Fungal Rhinosinusitis: A Review.</article-title>
+            <source>Head Neck Pathol</source>
+            <year>2016</year>
+            <month>Mar</month>
+            <volume>10</volume>
+            <issue>1</issue>
+            <fpage>40</fpage>
+            <page-range>40-46</page-range>
+            <pub-id pub-id-type="pmid">26830404</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Thompson</surname>
+                <given-names>GR</given-names>
+              </name>
+              <name>
+                <surname>Young</surname>
+                <given-names>JH</given-names>
+              </name>
+            </person-group>
+            <article-title>Aspergillus Infections.</article-title>
+            <source>N Engl J Med</source>
+            <year>2021</year>
+            <month>Oct</month>
+            <day>14</day>
+            <volume>385</volume>
+            <issue>16</issue>
+            <fpage>1496</fpage>
+            <page-range>1496-1509</page-range>
+            <pub-id pub-id-type="pmid">34644473</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Denning</surname>
+                <given-names>DW</given-names>
+              </name>
+            </person-group>
+            <article-title>Aspergillosis: diagnosis and treatment.</article-title>
+            <source>Int J Antimicrob Agents</source>
+            <year>1996</year>
+            <month>Feb</month>
+            <volume>6</volume>
+            <issue>3</issue>
+            <fpage>161</fpage>
+            <page-range>161-8</page-range>
+            <pub-id pub-id-type="pmid">18611704</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lamoth</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Calandra</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Let's add invasive aspergillosis to the list of influenza complications.</article-title>
+            <source>Lancet Respir Med</source>
+            <year>2018</year>
+            <month>Oct</month>
+            <volume>6</volume>
+            <issue>10</issue>
+            <fpage>733</fpage>
+            <page-range>733-735</page-range>
+            <pub-id pub-id-type="pmid">30076120</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hoenigl</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Gangneux</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Segal</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Alanio</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Chakrabarti</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>SC</given-names>
+              </name>
+              <name>
+                <surname>Govender</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Hagen</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Klimko</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Meis</surname>
+                <given-names>JF</given-names>
+              </name>
+              <name>
+                <surname>Pasqualotto</surname>
+                <given-names>AC</given-names>
+              </name>
+              <name>
+                <surname>Seidel</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Walsh</surname>
+                <given-names>TJ</given-names>
+              </name>
+              <name>
+                <surname>Lagrou</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Lass-Fl&#x000f6;rl</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Cornely</surname>
+                <given-names>OA</given-names>
+              </name>
+              <collab>European Confederation of Medical Mycology (ECMM)</collab>
+            </person-group>
+            <article-title>Global guidelines and initiatives from the European Confederation of Medical Mycology to improve patient care and research worldwide: New leadership is about working together.</article-title>
+            <source>Mycoses</source>
+            <year>2018</year>
+            <month>Nov</month>
+            <volume>61</volume>
+            <issue>11</issue>
+            <fpage>885</fpage>
+            <page-range>885-894</page-range>
+            <pub-id pub-id-type="pmid">30086186</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>W&#x000e9;ry</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Bioaerosols from composting facilities--a review.</article-title>
+            <source>Front Cell Infect Microbiol</source>
+            <year>2014</year>
+            <volume>4</volume>
+            <fpage>42</fpage>
+            <pub-id pub-id-type="pmid">24772393</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chakrabarti</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Chatterjee</surname>
+                <given-names>SS</given-names>
+              </name>
+              <name>
+                <surname>Das</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Shivaprakash</surname>
+                <given-names>MR</given-names>
+              </name>
+            </person-group>
+            <article-title>Invasive aspergillosis in developing countries.</article-title>
+            <source>Med Mycol</source>
+            <year>2011</year>
+            <month>Apr</month>
+            <volume>49 Suppl 1</volume>
+            <fpage>S35</fpage>
+            <page-range>S35-47</page-range>
+            <pub-id pub-id-type="pmid">20718613</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Smith</surname>
+                <given-names>TC</given-names>
+              </name>
+              <name>
+                <surname>Benefield</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>JH</given-names>
+              </name>
+            </person-group>
+            <article-title>Risk of Fungal Endophthalmitis Associated with Cataract Surgery: A Mini-Review.</article-title>
+            <source>Mycopathologia</source>
+            <year>2015</year>
+            <month>Dec</month>
+            <volume>180</volume>
+            <issue>5-6</issue>
+            <fpage>291</fpage>
+            <page-range>291-7</page-range>
+            <pub-id pub-id-type="pmid">26318595</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sionov</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Sandovsky-Losica</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Gov</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Segal</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Adherence of Aspergillus species to soft contact lenses and attempts to inhibit the adherence.</article-title>
+            <source>Mycoses</source>
+            <year>2001</year>
+            <month>Dec</month>
+            <volume>44</volume>
+            <issue>11-12</issue>
+            <fpage>464</fpage>
+            <page-range>464-71</page-range>
+            <pub-id pub-id-type="pmid">11820259</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Manikandan</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Abdel-Hadi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Randhir Babu Singh</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Revathi</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Anita</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Banawas</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Bin Dukhyil</surname>
+                <given-names>AA</given-names>
+              </name>
+              <name>
+                <surname>Alshehri</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Shobana</surname>
+                <given-names>CS</given-names>
+              </name>
+              <name>
+                <surname>Panneer Selvam</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Narendran</surname>
+                <given-names>V</given-names>
+              </name>
+            </person-group>
+            <article-title>Fungal Keratitis: Epidemiology, Rapid Detection, and Antifungal Susceptibilities of <italic>Fusarium</italic> and <italic>Aspergillus</italic> Isolates from Corneal Scrapings.</article-title>
+            <source>Biomed Res Int</source>
+            <year>2019</year>
+            <volume>2019</volume>
+            <fpage>6395840</fpage>
+            <pub-id pub-id-type="pmid">30800674</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Koutserimpas</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Chamakioti</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Raptis</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Alpantaki</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Vrioni</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Samonis</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Osseous Infections Caused by <italic>Aspergillus</italic> Species.</article-title>
+            <source>Diagnostics (Basel)</source>
+            <year>2022</year>
+            <month>Jan</month>
+            <day>14</day>
+            <volume>12</volume>
+            <issue>1</issue>
+            <pub-id pub-id-type="pmid">35054368</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Routray</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Nwaigwe</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Sternal osteomyelitis secondary to <italic>Aspergillus fumigatus</italic> after cardiothoracic surgery.</article-title>
+            <source>Med Mycol Case Rep</source>
+            <year>2020</year>
+            <month>Jun</month>
+            <volume>28</volume>
+            <fpage>16</fpage>
+            <page-range>16-19</page-range>
+            <pub-id pub-id-type="pmid">32274324</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Darr-Foit</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Schliemann</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Scholl</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hipler</surname>
+                <given-names>UC</given-names>
+              </name>
+              <name>
+                <surname>Elsner</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Primary cutaneous aspergillosis - an uncommon opportunistic infection Review of the literature and case presentation.</article-title>
+            <source>J Dtsch Dermatol Ges</source>
+            <year>2017</year>
+            <month>Aug</month>
+            <volume>15</volume>
+            <issue>8</issue>
+            <fpage>839</fpage>
+            <page-range>839-841</page-range>
+            <pub-id pub-id-type="pmid">28763605</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Norbury</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Herndon</surname>
+                <given-names>DN</given-names>
+              </name>
+              <name>
+                <surname>Tanksley</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Jeschke</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Finnerty</surname>
+                <given-names>CC</given-names>
+              </name>
+            </person-group>
+            <article-title>Infection in Burns.</article-title>
+            <source>Surg Infect (Larchmt)</source>
+            <year>2016</year>
+            <month>Apr</month>
+            <volume>17</volume>
+            <issue>2</issue>
+            <fpage>250</fpage>
+            <page-range>250-5</page-range>
+            <pub-id pub-id-type="pmid">26978531</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bongomin</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Batac</surname>
+                <given-names>CR</given-names>
+              </name>
+              <name>
+                <surname>Richardson</surname>
+                <given-names>MD</given-names>
+              </name>
+              <name>
+                <surname>Denning</surname>
+                <given-names>DW</given-names>
+              </name>
+            </person-group>
+            <article-title>A Review of Onychomycosis Due to Aspergillus Species.</article-title>
+            <source>Mycopathologia</source>
+            <year>2018</year>
+            <month>Jun</month>
+            <volume>183</volume>
+            <issue>3</issue>
+            <fpage>485</fpage>
+            <page-range>485-493</page-range>
+            <pub-id pub-id-type="pmid">29147866</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Strickland</surname>
+                <given-names>AB</given-names>
+              </name>
+              <name>
+                <surname>Shi</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Mechanisms of fungal dissemination.</article-title>
+            <source>Cell Mol Life Sci</source>
+            <year>2021</year>
+            <month>Apr</month>
+            <volume>78</volume>
+            <issue>7</issue>
+            <fpage>3219</fpage>
+            <page-range>3219-3238</page-range>
+            <pub-id pub-id-type="pmid">33449153</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Valerio</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Camici</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Machado</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Galar</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Olmedo</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Sousa</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Antorrena-Miranda</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Fari&#x000f1;as</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Hidalgo-Tenorio</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Montejo</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Vena</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Guinea</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Bouza</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Mu&#x000f1;oz</surname>
+                <given-names>P</given-names>
+              </name>
+              <collab>GAMES Study Group</collab>
+            </person-group>
+            <article-title>Aspergillus endocarditis in the recent years, report of cases of a multicentric national cohort and literature review.</article-title>
+            <source>Mycoses</source>
+            <year>2022</year>
+            <month>Mar</month>
+            <volume>65</volume>
+            <issue>3</issue>
+            <fpage>362</fpage>
+            <page-range>362-373</page-range>
+            <pub-id pub-id-type="pmid">34931375</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ceylan</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Yilmaz</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Bek&#x000f6;z</surname>
+                <given-names>HS</given-names>
+              </name>
+              <name>
+                <surname>Ramadan</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Ertan Akan</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Mert</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Primary gastrointestinal aspergillosis: a case report and literature review.</article-title>
+            <source>Infez Med</source>
+            <year>2019</year>
+            <month>Mar</month>
+            <day>01</day>
+            <volume>27</volume>
+            <issue>1</issue>
+            <fpage>85</fpage>
+            <page-range>85-92</page-range>
+            <pub-id pub-id-type="pmid">30882385</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kidd</surname>
+                <given-names>SE</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>SC</given-names>
+              </name>
+              <name>
+                <surname>Meyer</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Halliday</surname>
+                <given-names>CL</given-names>
+              </name>
+            </person-group>
+            <article-title>A New Age in Molecular Diagnostics for Invasive Fungal Disease: Are We Ready?</article-title>
+            <source>Front Microbiol</source>
+            <year>2019</year>
+            <volume>10</volume>
+            <fpage>2903</fpage>
+            <pub-id pub-id-type="pmid">31993022</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Abad</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Fern&#x000e1;ndez-Molina</surname>
+                <given-names>JV</given-names>
+              </name>
+              <name>
+                <surname>Bikandi</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ram&#x000ed;rez</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Margareto</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Sendino</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Hernando</surname>
+                <given-names>FL</given-names>
+              </name>
+              <name>
+                <surname>Pont&#x000f3;n</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Garaizar</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Rementeria</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>What makes Aspergillus fumigatus a successful pathogen? Genes and molecules involved in invasive aspergillosis.</article-title>
+            <source>Rev Iberoam Micol</source>
+            <year>2010</year>
+            <season>Oct-Dec</season>
+            <volume>27</volume>
+            <issue>4</issue>
+            <fpage>155</fpage>
+            <page-range>155-82</page-range>
+            <pub-id pub-id-type="pmid">20974273</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r26">
+          <label>26</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wang</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Zhou</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Xu</surname>
+                <given-names>Y</given-names>
+              </name>
+            </person-group>
+            <article-title>Epidemiology, Drug Susceptibility, and Clinical Risk Factors in Patients With Invasive Aspergillosis.</article-title>
+            <source>Front Public Health</source>
+            <year>2022</year>
+            <volume>10</volume>
+            <fpage>835092</fpage>
+            <pub-id pub-id-type="pmid">35493371</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r27">
+          <label>27</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Khoo</surname>
+                <given-names>SH</given-names>
+              </name>
+              <name>
+                <surname>Denning</surname>
+                <given-names>DW</given-names>
+              </name>
+            </person-group>
+            <article-title>Invasive aspergillosis in patients with AIDS.</article-title>
+            <source>Clin Infect Dis</source>
+            <year>1994</year>
+            <month>Aug</month>
+            <volume>19 Suppl 1</volume>
+            <fpage>S41</fpage>
+            <page-range>S41-8</page-range>
+            <pub-id pub-id-type="pmid">7948570</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r28">
+          <label>28</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>van de Peppel</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Visser</surname>
+                <given-names>LG</given-names>
+              </name>
+              <name>
+                <surname>Dekkers</surname>
+                <given-names>OM</given-names>
+              </name>
+              <name>
+                <surname>de Boer</surname>
+                <given-names>MGJ</given-names>
+              </name>
+            </person-group>
+            <article-title>The burden of Invasive Aspergillosis in patients with haematological malignancy: A meta-analysis and systematic review.</article-title>
+            <source>J Infect</source>
+            <year>2018</year>
+            <month>Jun</month>
+            <volume>76</volume>
+            <issue>6</issue>
+            <fpage>550</fpage>
+            <page-range>550-562</page-range>
+            <pub-id pub-id-type="pmid">29727605</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r29">
+          <label>29</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Abers</surname>
+                <given-names>MS</given-names>
+              </name>
+              <name>
+                <surname>Ghebremichael</surname>
+                <given-names>MS</given-names>
+              </name>
+              <name>
+                <surname>Timmons</surname>
+                <given-names>AK</given-names>
+              </name>
+              <name>
+                <surname>Warren</surname>
+                <given-names>HS</given-names>
+              </name>
+              <name>
+                <surname>Poznansky</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Vyas</surname>
+                <given-names>JM</given-names>
+              </name>
+            </person-group>
+            <article-title>A Critical Reappraisal of Prolonged Neutropenia as a Risk Factor for Invasive Pulmonary Aspergillosis.</article-title>
+            <source>Open Forum Infect Dis</source>
+            <year>2016</year>
+            <month>Jan</month>
+            <volume>3</volume>
+            <issue>1</issue>
+            <fpage>ofw036</fpage>
+            <pub-id pub-id-type="pmid">27006961</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r30">
+          <label>30</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bassetti</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Bouza</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Invasive mould infections in the ICU setting: complexities and solutions.</article-title>
+            <source>J Antimicrob Chemother</source>
+            <year>2017</year>
+            <month>Mar</month>
+            <day>01</day>
+            <volume>72</volume>
+            <issue>suppl_1</issue>
+            <fpage>i39</fpage>
+            <page-range>i39-i47</page-range>
+            <pub-id pub-id-type="pmid">28355466</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r31">
+          <label>31</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Morgan</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Wannemuehler</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Marr</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Hadley</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kontoyiannis</surname>
+                <given-names>DP</given-names>
+              </name>
+              <name>
+                <surname>Walsh</surname>
+                <given-names>TJ</given-names>
+              </name>
+              <name>
+                <surname>Fridkin</surname>
+                <given-names>SK</given-names>
+              </name>
+              <name>
+                <surname>Pappas</surname>
+                <given-names>PG</given-names>
+              </name>
+              <name>
+                <surname>Warnock</surname>
+                <given-names>DW</given-names>
+              </name>
+            </person-group>
+            <article-title>Incidence of invasive aspergillosis following hematopoietic stem cell and solid organ transplantation: interim results of a prospective multicenter surveillance program.</article-title>
+            <source>Med Mycol</source>
+            <year>2005</year>
+            <month>May</month>
+            <volume>43 Suppl 1</volume>
+            <fpage>S49</fpage>
+            <page-range>S49-58</page-range>
+            <pub-id pub-id-type="pmid">16110792</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r32">
+          <label>32</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jenks</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Nam</surname>
+                <given-names>HH</given-names>
+              </name>
+              <name>
+                <surname>Hoenigl</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Invasive aspergillosis in critically ill patients: Review of definitions and diagnostic approaches.</article-title>
+            <source>Mycoses</source>
+            <year>2021</year>
+            <month>Sep</month>
+            <volume>64</volume>
+            <issue>9</issue>
+            <fpage>1002</fpage>
+            <page-range>1002-1014</page-range>
+            <pub-id pub-id-type="pmid">33760284</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r33">
+          <label>33</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Robinson</surname>
+                <given-names>KM</given-names>
+              </name>
+            </person-group>
+            <article-title>Mechanistic Basis of Super-Infection: Influenza-Associated Invasive Pulmonary Aspergillosis.</article-title>
+            <source>J Fungi (Basel)</source>
+            <year>2022</year>
+            <month>Apr</month>
+            <day>22</day>
+            <volume>8</volume>
+            <issue>5</issue>
+            <pub-id pub-id-type="pmid">35628684</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r34">
+          <label>34</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bartoletti</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Pascale</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Cricca</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Rinaldi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Maccaro</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Bussini</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Fornaro</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Tonetti</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Pizzilli</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Francalanci</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Giuntoli</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Rubin</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Moroni</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Ambretti</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Trapani</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Vatamanu</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Ranieri</surname>
+                <given-names>VM</given-names>
+              </name>
+              <name>
+                <surname>Castelli</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Baiocchi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Lewis</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Giannella</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Viale</surname>
+                <given-names>P</given-names>
+              </name>
+              <collab>PREDICO Study Group</collab>
+            </person-group>
+            <article-title>Epidemiology of Invasive Pulmonary Aspergillosis Among Intubated Patients With COVID-19: A Prospective Study.</article-title>
+            <source>Clin Infect Dis</source>
+            <year>2021</year>
+            <month>Dec</month>
+            <day>06</day>
+            <volume>73</volume>
+            <issue>11</issue>
+            <fpage>e3606</fpage>
+            <page-range>e3606-e3614</page-range>
+            <pub-id pub-id-type="pmid">32719848</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r35">
+          <label>35</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zilberberg</surname>
+                <given-names>MD</given-names>
+              </name>
+              <name>
+                <surname>Harrington</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Spalding</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Shorr</surname>
+                <given-names>AF</given-names>
+              </name>
+            </person-group>
+            <article-title>Burden of hospitalizations over time with invasive aspergillosis in the United States, 2004-2013.</article-title>
+            <source>BMC Public Health</source>
+            <year>2019</year>
+            <month>May</month>
+            <day>17</day>
+            <volume>19</volume>
+            <issue>1</issue>
+            <fpage>591</fpage>
+            <pub-id pub-id-type="pmid">31101036</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r36">
+          <label>36</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Niederwieser</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Baldomero</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Bazuaye</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Bupp</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Chaudhri</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Corbacioglu</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Elhaddad</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Frutos</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Galeano</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hamad</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Hamidieh</surname>
+                <given-names>AA</given-names>
+              </name>
+              <name>
+                <surname>Hashmi</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Ho</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Horowitz</surname>
+                <given-names>MM</given-names>
+              </name>
+              <name>
+                <surname>Iida</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Jaimovich</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Karduss</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Kodera</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Kr&#x000f6;ger</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>P&#x000e9;ffault de Latour</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>JW</given-names>
+              </name>
+              <name>
+                <surname>Mart&#x000ed;nez-Rol&#x000f3;n</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Pasquini</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Passweg</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Paulson</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Seber</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Snowden</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Srivastava</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Szer</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Weisdorf</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Worel</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Koh</surname>
+                <given-names>MBC</given-names>
+              </name>
+              <name>
+                <surname>Aljurf</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Greinix</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Atsuta</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Saber</surname>
+                <given-names>W</given-names>
+              </name>
+            </person-group>
+            <article-title>One and a half million hematopoietic stem cell transplants: continuous and differential improvement in worldwide access with the use of non-identical family donors.</article-title>
+            <source>Haematologica</source>
+            <year>2022</year>
+            <month>May</month>
+            <day>01</day>
+            <volume>107</volume>
+            <issue>5</issue>
+            <fpage>1045</fpage>
+            <page-range>1045-1053</page-range>
+            <pub-id pub-id-type="pmid">34382386</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r37">
+          <label>37</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Agarwal</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Sehgal</surname>
+                <given-names>IS</given-names>
+              </name>
+              <name>
+                <surname>Dhooria</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Muthu</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Prasad</surname>
+                <given-names>KT</given-names>
+              </name>
+              <name>
+                <surname>Bal</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Aggarwal</surname>
+                <given-names>AN</given-names>
+              </name>
+              <name>
+                <surname>Chakrabarti</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Allergic bronchopulmonary aspergillosis.</article-title>
+            <source>Indian J Med Res</source>
+            <year>2020</year>
+            <month>Jun</month>
+            <volume>151</volume>
+            <issue>6</issue>
+            <fpage>529</fpage>
+            <page-range>529-549</page-range>
+            <pub-id pub-id-type="pmid">32719226</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r38">
+          <label>38</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sabino</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Ver&#x000ed;ssimo</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Viegas</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Viegas</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Brand&#x000e3;o</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Alves-Correia</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Borrego</surname>
+                <given-names>LM</given-names>
+              </name>
+              <name>
+                <surname>Clemons</surname>
+                <given-names>KV</given-names>
+              </name>
+              <name>
+                <surname>Stevens</surname>
+                <given-names>DA</given-names>
+              </name>
+              <name>
+                <surname>Richardson</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>The role of occupational Aspergillus exposure in the development of diseases.</article-title>
+            <source>Med Mycol</source>
+            <year>2019</year>
+            <month>Apr</month>
+            <day>01</day>
+            <volume>57</volume>
+            <issue>Supplement_2</issue>
+            <fpage>S196</fpage>
+            <page-range>S196-S205</page-range>
+            <pub-id pub-id-type="pmid">30816970</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r39">
+          <label>39</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Benedict</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Thompson</surname>
+                <given-names>GR</given-names>
+              </name>
+              <name>
+                <surname>Jackson</surname>
+                <given-names>BR</given-names>
+              </name>
+            </person-group>
+            <article-title>Cannabis Use and Fungal Infections in a Commercially Insured Population, United States, 2016.</article-title>
+            <source>Emerg Infect Dis</source>
+            <year>2020</year>
+            <month>Jun</month>
+            <volume>26</volume>
+            <issue>6</issue>
+            <fpage>1308</fpage>
+            <page-range>1308-1310</page-range>
+            <pub-id pub-id-type="pmid">32441624</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r40">
+          <label>40</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zilberberg</surname>
+                <given-names>MD</given-names>
+              </name>
+              <name>
+                <surname>Nathanson</surname>
+                <given-names>BH</given-names>
+              </name>
+              <name>
+                <surname>Harrington</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Spalding</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Shorr</surname>
+                <given-names>AF</given-names>
+              </name>
+            </person-group>
+            <article-title>Epidemiology and Outcomes of Hospitalizations With Invasive Aspergillosis in the United States, 2009-2013.</article-title>
+            <source>Clin Infect Dis</source>
+            <year>2018</year>
+            <month>Aug</month>
+            <day>16</day>
+            <volume>67</volume>
+            <issue>5</issue>
+            <fpage>727</fpage>
+            <page-range>727-735</page-range>
+            <pub-id pub-id-type="pmid">29718296</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r41">
+          <label>41</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Feldmesser</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Role of neutrophils in invasive aspergillosis.</article-title>
+            <source>Infect Immun</source>
+            <year>2006</year>
+            <month>Dec</month>
+            <volume>74</volume>
+            <issue>12</issue>
+            <fpage>6514</fpage>
+            <page-range>6514-6</page-range>
+            <pub-id pub-id-type="pmid">17030575</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r42">
+          <label>42</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Alanio</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Bretagne</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Challenges in microbiological diagnosis of invasive <italic>Aspergillus</italic> infections.</article-title>
+            <source>F1000Res</source>
+            <year>2017</year>
+            <volume>6</volume>
+            <pub-id pub-id-type="pmid">28299183</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r43">
+          <label>43</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lass-Fl&#x000f6;rl</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>How to make a fast diagnosis in invasive aspergillosis.</article-title>
+            <source>Med Mycol</source>
+            <year>2019</year>
+            <month>Apr</month>
+            <day>01</day>
+            <volume>57</volume>
+            <issue>Supplement_2</issue>
+            <fpage>S155</fpage>
+            <page-range>S155-S160</page-range>
+            <pub-id pub-id-type="pmid">30816965</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r44">
+          <label>44</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sugui</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Kwon-Chung</surname>
+                <given-names>KJ</given-names>
+              </name>
+              <name>
+                <surname>Juvvadi</surname>
+                <given-names>PR</given-names>
+              </name>
+              <name>
+                <surname>Latg&#x000e9;</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Steinbach</surname>
+                <given-names>WJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Aspergillus fumigatus and related species.</article-title>
+            <source>Cold Spring Harb Perspect Med</source>
+            <year>2014</year>
+            <month>Nov</month>
+            <day>06</day>
+            <volume>5</volume>
+            <issue>2</issue>
+            <fpage>a019786</fpage>
+            <pub-id pub-id-type="pmid">25377144</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r45">
+          <label>45</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Fern&#x000e1;ndez-Cruz</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Magira</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Heo</surname>
+                <given-names>ST</given-names>
+              </name>
+              <name>
+                <surname>Evans</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Tarrand</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Kontoyiannis</surname>
+                <given-names>DP</given-names>
+              </name>
+            </person-group>
+            <article-title>Bronchoalveolar Lavage Fluid Cytology in Culture-Documented Invasive Pulmonary Aspergillosis in Patients with Hematologic Diseases: Analysis of 67 Episodes.</article-title>
+            <source>J Clin Microbiol</source>
+            <year>2018</year>
+            <month>Oct</month>
+            <volume>56</volume>
+            <issue>10</issue>
+            <pub-id pub-id-type="pmid">30021823</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r46">
+          <label>46</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gletsou</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Ioannou</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Liakopoulos</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Tsiambas</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Ragos</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Stefanidis</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <article-title>Aspergillosis in immunocompromised patients with haematological malignancies.</article-title>
+            <source>J BUON</source>
+            <year>2018</year>
+            <month>Dec</month>
+            <volume>23</volume>
+            <issue>7</issue>
+            <fpage>7</fpage>
+            <page-range>7-10</page-range>
+            <pub-id pub-id-type="pmid">30722105</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r47">
+          <label>47</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Fung</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Babik</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Humphreys</surname>
+                <given-names>IM</given-names>
+              </name>
+              <name>
+                <surname>Davis</surname>
+                <given-names>GE</given-names>
+              </name>
+            </person-group>
+            <article-title>Diagnosis and Treatment of Acute Invasive Fungal Sinusitis in Cancer and Transplant Patients.</article-title>
+            <source>Curr Infect Dis Rep</source>
+            <year>2019</year>
+            <month>Nov</month>
+            <day>26</day>
+            <volume>21</volume>
+            <issue>12</issue>
+            <fpage>53</fpage>
+            <pub-id pub-id-type="pmid">31773398</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r48">
+          <label>48</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Howells</surname>
+                <given-names>RC</given-names>
+              </name>
+              <name>
+                <surname>Ramadan</surname>
+                <given-names>HH</given-names>
+              </name>
+            </person-group>
+            <article-title>Usefulness of computed tomography and magnetic resonance in fulminant invasive fungal rhinosinusitis.</article-title>
+            <source>Am J Rhinol</source>
+            <year>2001</year>
+            <season>Jul-Aug</season>
+            <volume>15</volume>
+            <issue>4</issue>
+            <fpage>255</fpage>
+            <page-range>255-61</page-range>
+            <pub-id pub-id-type="pmid">11554658</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r49">
+          <label>49</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Patterson</surname>
+                <given-names>TF</given-names>
+              </name>
+              <name>
+                <surname>Thompson</surname>
+                <given-names>GR</given-names>
+              </name>
+              <name>
+                <surname>Denning</surname>
+                <given-names>DW</given-names>
+              </name>
+              <name>
+                <surname>Fishman</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Hadley</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Herbrecht</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Kontoyiannis</surname>
+                <given-names>DP</given-names>
+              </name>
+              <name>
+                <surname>Marr</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Morrison</surname>
+                <given-names>VA</given-names>
+              </name>
+              <name>
+                <surname>Nguyen</surname>
+                <given-names>MH</given-names>
+              </name>
+              <name>
+                <surname>Segal</surname>
+                <given-names>BH</given-names>
+              </name>
+              <name>
+                <surname>Steinbach</surname>
+                <given-names>WJ</given-names>
+              </name>
+              <name>
+                <surname>Stevens</surname>
+                <given-names>DA</given-names>
+              </name>
+              <name>
+                <surname>Walsh</surname>
+                <given-names>TJ</given-names>
+              </name>
+              <name>
+                <surname>Wingard</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Young</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Bennett</surname>
+                <given-names>JE</given-names>
+              </name>
+            </person-group>
+            <article-title>Practice Guidelines for the Diagnosis and Management of Aspergillosis: 2016 Update by the Infectious Diseases Society of America.</article-title>
+            <source>Clin Infect Dis</source>
+            <year>2016</year>
+            <month>Aug</month>
+            <day>15</day>
+            <volume>63</volume>
+            <issue>4</issue>
+            <fpage>e1</fpage>
+            <page-range>e1-e60</page-range>
+            <pub-id pub-id-type="pmid">27365388</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r50">
+          <label>50</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Samanta</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Clancy</surname>
+                <given-names>CJ</given-names>
+              </name>
+              <name>
+                <surname>Nguyen</surname>
+                <given-names>MH</given-names>
+              </name>
+            </person-group>
+            <article-title>Fungal infections in lung transplantation.</article-title>
+            <source>J Thorac Dis</source>
+            <year>2021</year>
+            <month>Nov</month>
+            <volume>13</volume>
+            <issue>11</issue>
+            <fpage>6695</fpage>
+            <page-range>6695-6707</page-range>
+            <pub-id pub-id-type="pmid">34992845</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r51">
+          <label>51</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ullmann</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Aguado</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Arikan-Akdagli</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Denning</surname>
+                <given-names>DW</given-names>
+              </name>
+              <name>
+                <surname>Groll</surname>
+                <given-names>AH</given-names>
+              </name>
+              <name>
+                <surname>Lagrou</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Lass-Fl&#x000f6;rl</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Lewis</surname>
+                <given-names>RE</given-names>
+              </name>
+              <name>
+                <surname>Munoz</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Verweij</surname>
+                <given-names>PE</given-names>
+              </name>
+              <name>
+                <surname>Warris</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Ader</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Akova</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Arendrup</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Barnes</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Beigelman-Aubry</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Blot</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Bouza</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Br&#x000fc;ggemann</surname>
+                <given-names>RJM</given-names>
+              </name>
+              <name>
+                <surname>Buchheidt</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Cadranel</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Castagnola</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Chakrabarti</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Cuenca-Estrella</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Dimopoulos</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Fortun</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Gangneux</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Garbino</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Heinz</surname>
+                <given-names>WJ</given-names>
+              </name>
+              <name>
+                <surname>Herbrecht</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Heussel</surname>
+                <given-names>CP</given-names>
+              </name>
+              <name>
+                <surname>Kibbler</surname>
+                <given-names>CC</given-names>
+              </name>
+              <name>
+                <surname>Klimko</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Kullberg</surname>
+                <given-names>BJ</given-names>
+              </name>
+              <name>
+                <surname>Lange</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Lehrnbecher</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>L&#x000f6;ffler</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Lortholary</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Maertens</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Marchetti</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Meis</surname>
+                <given-names>JF</given-names>
+              </name>
+              <name>
+                <surname>Pagano</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Ribaud</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Richardson</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Roilides</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Ruhnke</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Sanguinetti</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Sheppard</surname>
+                <given-names>DC</given-names>
+              </name>
+              <name>
+                <surname>Sink&#x000f3;</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Skiada</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Vehreschild</surname>
+                <given-names>MJGT</given-names>
+              </name>
+              <name>
+                <surname>Viscoli</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Cornely</surname>
+                <given-names>OA</given-names>
+              </name>
+            </person-group>
+            <article-title>Diagnosis and management of Aspergillus diseases: executive summary of the 2017 ESCMID-ECMM-ERS guideline.</article-title>
+            <source>Clin Microbiol Infect</source>
+            <year>2018</year>
+            <month>May</month>
+            <volume>24 Suppl 1</volume>
+            <fpage>e1</fpage>
+            <page-range>e1-e38</page-range>
+            <pub-id pub-id-type="pmid">29544767</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r52">
+          <label>52</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Maertens</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Klont</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Masson</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Theunissen</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Meersseman</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Lagrou</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Heinen</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Cr&#x000e9;pin</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Van Eldere</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Tabouret</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Donnelly</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Verweij</surname>
+                <given-names>PE</given-names>
+              </name>
+            </person-group>
+            <article-title>Optimization of the cutoff value for the Aspergillus double-sandwich enzyme immunoassay.</article-title>
+            <source>Clin Infect Dis</source>
+            <year>2007</year>
+            <month>May</month>
+            <day>15</day>
+            <volume>44</volume>
+            <issue>10</issue>
+            <fpage>1329</fpage>
+            <page-range>1329-36</page-range>
+            <pub-id pub-id-type="pmid">17443470</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r53">
+          <label>53</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>D'Haese</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Theunissen</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Vermeulen</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Schoemans</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>De Vlieger</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Lammertijn</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Meersseman</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Meersseman</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Lagrou</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Maertens</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Detection of galactomannan in bronchoalveolar lavage fluid samples of patients at risk for invasive pulmonary aspergillosis: analytical and clinical validity.</article-title>
+            <source>J Clin Microbiol</source>
+            <year>2012</year>
+            <month>Apr</month>
+            <volume>50</volume>
+            <issue>4</issue>
+            <fpage>1258</fpage>
+            <page-range>1258-63</page-range>
+            <pub-id pub-id-type="pmid">22301025</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r54">
+          <label>54</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Otting</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Stover</surname>
+                <given-names>KR</given-names>
+              </name>
+              <name>
+                <surname>Cleary</surname>
+                <given-names>JD</given-names>
+              </name>
+            </person-group>
+            <article-title>Drug-laboratory interaction between beta-lactam antibiotics and the galactomannan antigen test used to detect mould infections.</article-title>
+            <source>Braz J Infect Dis</source>
+            <year>2014</year>
+            <season>Sep-Oct</season>
+            <volume>18</volume>
+            <issue>5</issue>
+            <fpage>544</fpage>
+            <page-range>544-7</page-range>
+            <pub-id pub-id-type="pmid">24833197</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r55">
+          <label>55</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Klingspor</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Loeffler</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Aspergillus PCR formidable challenges and progress.</article-title>
+            <source>Med Mycol</source>
+            <year>2009</year>
+            <volume>47 Suppl 1</volume>
+            <fpage>S241</fpage>
+            <page-range>S241-7</page-range>
+            <pub-id pub-id-type="pmid">19253138</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r56">
+          <label>56</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Guo</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Bai</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Yang</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Gu</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>Evaluation of Aspergillus IgG, IgM antibody for diagnosing in chronic pulmonary aspergillosis: A prospective study from a single center in China.</article-title>
+            <source>Medicine (Baltimore)</source>
+            <year>2019</year>
+            <month>Apr</month>
+            <volume>98</volume>
+            <issue>16</issue>
+            <fpage>e15021</fpage>
+            <pub-id pub-id-type="pmid">31008929</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r57">
+          <label>57</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mohedano Del Pozo</surname>
+                <given-names>RB</given-names>
+              </name>
+              <name>
+                <surname>Rubio Alonso</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Cu&#x000e9;tara Garc&#x000ed;a</surname>
+                <given-names>MS</given-names>
+              </name>
+            </person-group>
+            <article-title>Diagnosis of invasive fungal disease in hospitalized patients with chronic obstructive pulmonary disease.</article-title>
+            <source>Rev Iberoam Micol</source>
+            <year>2018</year>
+            <season>Jul-Sep</season>
+            <volume>35</volume>
+            <issue>3</issue>
+            <fpage>117</fpage>
+            <page-range>117-122</page-range>
+            <pub-id pub-id-type="pmid">30078525</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r58">
+          <label>58</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kamal</surname>
+                <given-names>YA</given-names>
+              </name>
+            </person-group>
+            <article-title>Black pleural effusion: etiology, diagnosis, and treatment.</article-title>
+            <source>Indian J Thorac Cardiovasc Surg</source>
+            <year>2019</year>
+            <month>Jul</month>
+            <volume>35</volume>
+            <issue>3</issue>
+            <fpage>485</fpage>
+            <page-range>485-492</page-range>
+            <pub-id pub-id-type="pmid">33061034</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r59">
+          <label>59</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Davda</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kowa</surname>
+                <given-names>XY</given-names>
+              </name>
+              <name>
+                <surname>Aziz</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Ellis</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Cheasty</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Cappocci</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Balan</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>The development of pulmonary aspergillosis and its histologic, clinical, and radiologic manifestations.</article-title>
+            <source>Clin Radiol</source>
+            <year>2018</year>
+            <month>Nov</month>
+            <volume>73</volume>
+            <issue>11</issue>
+            <fpage>913</fpage>
+            <page-range>913-921</page-range>
+            <pub-id pub-id-type="pmid">30075854</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r60">
+          <label>60</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Greene</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>The radiological spectrum of pulmonary aspergillosis.</article-title>
+            <source>Med Mycol</source>
+            <year>2005</year>
+            <month>May</month>
+            <volume>43 Suppl 1</volume>
+            <fpage>S147</fpage>
+            <page-range>S147-54</page-range>
+            <pub-id pub-id-type="pmid">16110807</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r61">
+          <label>61</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chabi</surname>
+                <given-names>ML</given-names>
+              </name>
+              <name>
+                <surname>Goracci</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Roche</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Paugam</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Lupo</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Revel</surname>
+                <given-names>MP</given-names>
+              </name>
+            </person-group>
+            <article-title>Pulmonary aspergillosis.</article-title>
+            <source>Diagn Interv Imaging</source>
+            <year>2015</year>
+            <month>May</month>
+            <volume>96</volume>
+            <issue>5</issue>
+            <fpage>435</fpage>
+            <page-range>435-42</page-range>
+            <pub-id pub-id-type="pmid">25753544</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r62">
+          <label>62</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kosmidis</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Mackenzie</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Harris</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Hashad</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Lynch</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Denning</surname>
+                <given-names>DW</given-names>
+              </name>
+            </person-group>
+            <article-title>The incidence of cutaneous squamous cell carcinoma in patients receiving voriconazole therapy for chronic pulmonary aspergillosis.</article-title>
+            <source>Naunyn Schmiedebergs Arch Pharmacol</source>
+            <year>2020</year>
+            <month>Nov</month>
+            <volume>393</volume>
+            <issue>11</issue>
+            <fpage>2233</fpage>
+            <page-range>2233-2237</page-range>
+            <pub-id pub-id-type="pmid">32820348</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r63">
+          <label>63</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Alastruey-Izquierdo</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Cadranel</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Flick</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Godet</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Hennequin</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Hoenigl</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Kosmidis</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Lange</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Munteanu</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Page</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Salzer</surname>
+                <given-names>HJF</given-names>
+              </name>
+              <collab>on&#x000a0;behalf&#x000a0;of&#x000a0;CPAnet</collab>
+            </person-group>
+            <article-title>Treatment of Chronic Pulmonary Aspergillosis: Current Standards and Future Perspectives.</article-title>
+            <source>Respiration</source>
+            <year>2018</year>
+            <volume>96</volume>
+            <issue>2</issue>
+            <fpage>159</fpage>
+            <page-range>159-170</page-range>
+            <pub-id pub-id-type="pmid">29982245</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r64">
+          <label>64</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cornely</surname>
+                <given-names>OA</given-names>
+              </name>
+              <name>
+                <surname>Koehler</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Arenz</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>C Mellinghoff</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>EQUAL Aspergillosis Score 2018: An ECMM score derived from current guidelines to measure QUALity of the clinical management of invasive pulmonary aspergillosis.</article-title>
+            <source>Mycoses</source>
+            <year>2018</year>
+            <month>Nov</month>
+            <volume>61</volume>
+            <issue>11</issue>
+            <fpage>833</fpage>
+            <page-range>833-836</page-range>
+            <pub-id pub-id-type="pmid">29944740</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r65">
+          <label>65</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yun</surname>
+                <given-names>CH</given-names>
+              </name>
+              <name>
+                <surname>Zhou</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Rui</surname>
+                <given-names>YW</given-names>
+              </name>
+            </person-group>
+            <article-title>[Classification and surgery of chronic pulmonary aspergillosis].</article-title>
+            <source>Zhonghua Jie He He Hu Xi Za Zhi</source>
+            <year>2017</year>
+            <month>Oct</month>
+            <day>12</day>
+            <volume>40</volume>
+            <issue>10</issue>
+            <fpage>780</fpage>
+            <page-range>780-782</page-range>
+            <pub-id pub-id-type="pmid">29050136</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r66">
+          <label>66</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Herbrecht</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Denning</surname>
+                <given-names>DW</given-names>
+              </name>
+              <name>
+                <surname>Patterson</surname>
+                <given-names>TF</given-names>
+              </name>
+              <name>
+                <surname>Bennett</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Greene</surname>
+                <given-names>RE</given-names>
+              </name>
+              <name>
+                <surname>Oestmann</surname>
+                <given-names>JW</given-names>
+              </name>
+              <name>
+                <surname>Kern</surname>
+                <given-names>WV</given-names>
+              </name>
+              <name>
+                <surname>Marr</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Ribaud</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Lortholary</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Sylvester</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Rubin</surname>
+                <given-names>RH</given-names>
+              </name>
+              <name>
+                <surname>Wingard</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Stark</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Durand</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Caillot</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Thiel</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Chandrasekar</surname>
+                <given-names>PH</given-names>
+              </name>
+              <name>
+                <surname>Hodges</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Schlamm</surname>
+                <given-names>HT</given-names>
+              </name>
+              <name>
+                <surname>Troke</surname>
+                <given-names>PF</given-names>
+              </name>
+              <name>
+                <surname>de Pauw</surname>
+                <given-names>B</given-names>
+              </name>
+              <collab>Invasive Fungal Infections Group of the European Organisation for Research and Treatment of Cancer and the Global Aspergillus Study Group</collab>
+            </person-group>
+            <article-title>Voriconazole versus amphotericin B for primary therapy of invasive aspergillosis.</article-title>
+            <source>N Engl J Med</source>
+            <year>2002</year>
+            <month>Aug</month>
+            <day>08</day>
+            <volume>347</volume>
+            <issue>6</issue>
+            <fpage>408</fpage>
+            <page-range>408-15</page-range>
+            <pub-id pub-id-type="pmid">12167683</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r67">
+          <label>67</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sam</surname>
+                <given-names>QH</given-names>
+              </name>
+              <name>
+                <surname>Yew</surname>
+                <given-names>WS</given-names>
+              </name>
+              <name>
+                <surname>Seneviratne</surname>
+                <given-names>CJ</given-names>
+              </name>
+              <name>
+                <surname>Chang</surname>
+                <given-names>MW</given-names>
+              </name>
+              <name>
+                <surname>Chai</surname>
+                <given-names>LYA</given-names>
+              </name>
+            </person-group>
+            <article-title>Immunomodulation as Therapy for Fungal Infection: Are We Closer?</article-title>
+            <source>Front Microbiol</source>
+            <year>2018</year>
+            <volume>9</volume>
+            <fpage>1612</fpage>
+            <pub-id pub-id-type="pmid">30090091</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r68">
+          <label>68</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kwon</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>SH</given-names>
+              </name>
+              <name>
+                <surname>Park</surname>
+                <given-names>SH</given-names>
+              </name>
+              <name>
+                <surname>Choi</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>DG</given-names>
+              </name>
+              <name>
+                <surname>Choi</surname>
+                <given-names>JH</given-names>
+              </name>
+              <name>
+                <surname>Yoo</surname>
+                <given-names>JH</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>YJ</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>HJ</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>JW</given-names>
+              </name>
+              <name>
+                <surname>Min</surname>
+                <given-names>WS</given-names>
+              </name>
+            </person-group>
+            <article-title>Prognosis of invasive pulmonary aspergillosis in patients with hematologic diseases in Korea.</article-title>
+            <source>Tuberc Respir Dis (Seoul)</source>
+            <year>2012</year>
+            <month>Mar</month>
+            <volume>72</volume>
+            <issue>3</issue>
+            <fpage>284</fpage>
+            <page-range>284-92</page-range>
+            <pub-id pub-id-type="pmid">23227068</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r69">
+          <label>69</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ruhnke</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Kofla</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Otto</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Schwartz</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>CNS aspergillosis: recognition, diagnosis and management.</article-title>
+            <source>CNS Drugs</source>
+            <year>2007</year>
+            <volume>21</volume>
+            <issue>8</issue>
+            <fpage>659</fpage>
+            <page-range>659-76</page-range>
+            <pub-id pub-id-type="pmid">17630818</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r70">
+          <label>70</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Baddley</surname>
+                <given-names>JW</given-names>
+              </name>
+              <name>
+                <surname>Andes</surname>
+                <given-names>DR</given-names>
+              </name>
+              <name>
+                <surname>Marr</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Kauffman</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>Kontoyiannis</surname>
+                <given-names>DP</given-names>
+              </name>
+              <name>
+                <surname>Ito</surname>
+                <given-names>JI</given-names>
+              </name>
+              <name>
+                <surname>Schuster</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Brizendine</surname>
+                <given-names>KD</given-names>
+              </name>
+              <name>
+                <surname>Patterson</surname>
+                <given-names>TF</given-names>
+              </name>
+              <name>
+                <surname>Lyon</surname>
+                <given-names>GM</given-names>
+              </name>
+              <name>
+                <surname>Boeckh</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Oster</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Chiller</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Pappas</surname>
+                <given-names>PG</given-names>
+              </name>
+            </person-group>
+            <article-title>Antifungal therapy and length of hospitalization in transplant patients with invasive aspergillosis.</article-title>
+            <source>Med Mycol</source>
+            <year>2013</year>
+            <month>Feb</month>
+            <volume>51</volume>
+            <issue>2</issue>
+            <fpage>128</fpage>
+            <page-range>128-35</page-range>
+            <pub-id pub-id-type="pmid">22680976</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17892.r71">
+          <label>71</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ben-Ami</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Halaburda</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Klyasova</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Metan</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Torosian</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Akova</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>A multidisciplinary team approach to the management of patients with suspected or diagnosed invasive fungal disease.</article-title>
+            <source>J Antimicrob Chemother</source>
+            <year>2013</year>
+            <month>Nov</month>
+            <volume>68 Suppl 3</volume>
+            <fpage>iii25</fpage>
+            <page-range>iii25-33</page-range>
+            <pub-id pub-id-type="pmid">24155143</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

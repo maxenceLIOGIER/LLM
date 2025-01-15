@@ -1,0 +1,3208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-131263" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Responsible Controlled Substance and Opioid Prescribing</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Horn</surname>
+            <given-names>Danielle B.</given-names>
+          </name>
+          <aff>University of Miami</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Vu</surname>
+            <given-names>Ly</given-names>
+          </name>
+          <aff>University of Miami, Jackson Memorial Hospital</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Porter</surname>
+            <given-names>Burdett R.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Sarantopoulos</surname>
+            <given-names>Konstantinos</given-names>
+          </name>
+          <aff>University of Miami Miller School of Medicine</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Danielle Horn declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Ly Vu declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Burdett Porter declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Konstantinos Sarantopoulos declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>22</day>
+          <month>10</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-131263.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Responsible controlled substance and opioid prescribing is critical to ensure the safe and ethical use of these medications.&#x000a0;Responsible prescribing&#x000a0;involves the judicious evaluation of patients' medical conditions, pain management needs, and the consideration of nonopioid alternatives before prescribing opioids. Healthcare providers must adhere to strict guidelines and regulations to mitigate&#x000a0;the risk of their misuse.&#x000a0;Understanding federal regulations regarding these substances, recent changes outlined by the Mainstreaming Addiction Treatment Act, and the recommended standards of practice when prescribing controlled substances can deter prescription drug misuse.</p>
+        <p>This activity bridges potential practice gaps when educating patients&#x000a0;on the risks and benefits of opioid therapy, monitoring for signs of misuse or addiction, and implementing strategies to prevent overdose and diversion. This activity presents&#x000a0;best practices when prescribing controlled substances for legitimate medical reasons and helps interprofessional healthcare&#x000a0;team members understand their roles in safe prescribing and preventing the misuse of these medications.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Differentiate schedule I, II, III, IV, and V substances as defined by the Controlled Substance Act.</p></list-item><list-item><p>Implement evidence-based strategies to minimize the risk of opioid misuse, including the use of prescription drug monitoring programs, informed consent, and treatment agreements.</p></list-item><list-item><p>Apply appropriate dosage adjustments, alternative nonopioid therapies, or tapering plans when necessary to optimize pain management and minimize long-term opioid use.</p></list-item><list-item><p>Collaborate with interdisciplinary teams, including pain specialists, addiction medicine specialists, mental health professionals, and pharmacists, to optimize patient care and coordinate comprehensive treatment approaches.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=131263&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=131263">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-131263.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>According to the United States Drug Enforcement Administration (DEA), drugs, substances, and certain chemicals used to make drugs are classified into 5 categories or schedules depending on the drug&#x02019;s acceptable medical use and abuse or dependency potential. The Controlled Substance Act (CSA)&#x000a0; lists factors considered when determining which schedule a drug or other substance should be placed. These factors are as follows:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Its actual or relative potential for abuse</p>
+          </list-item>
+          <list-item>
+            <p>Scientific evidence of its pharmacological effect, if known</p>
+          </list-item>
+          <list-item>
+            <p>State of current scientific knowledge regarding the drug or other substance</p>
+          </list-item>
+          <list-item>
+            <p>Its history and current pattern of abuse</p>
+          </list-item>
+          <list-item>
+            <p>Scope, duration, and significance of abuse</p>
+          </list-item>
+          <list-item>
+            <p>What, if any, risk to the public health</p>
+          </list-item>
+          <list-item>
+            <p>Its psychic or physiological dependence liability</p>
+          </list-item>
+          <list-item>
+            <p>Whether the substance is an immediate precursor of a substance already controlled</p>
+          </list-item>
+        </list>
+        <p>Therefore, controlled substances include all opioid analgesics, sedatives, hypnotics, and stimulants. Federal regulation in the United States of America (US) restricts when and how they may be prescribed to curb these substances' potential misuse and abuse.</p>
+        <p>In 2020, 91,799 drug overdose deaths&#x000a0;were reported in the US; opioids were involved in 68,630 deaths&#x02014;approximately 75% of all drug overdose deaths involved opioids. Synthetic opioids are involved in 82.3% of opioid-involved deaths.[<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.cdc.gov/drugoverdose/deaths/index.html">CDC. Drug Overdose. June 2022</ext-link>]&#x000a0;The age-adjusted rate of overdose deaths increased by 31% from 2019 to 2020.[<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://wonder.cdc.gov/">CDC Wonder. 2021</ext-link>]&#x000a0;Among controlled substances, opioids have become a significant problem, resulting in rampant abuse in the community. In&#x000a0;2021, 80,411 deaths were due to opioid overdose.[<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://nida.nih.gov/research-topics/trends-statistics/overdose-death-rates">NCHS. Drug Overdose Death Rates, 2023</ext-link>] In 2022, of the 107,081 reported drug overdose deaths in the USA, provisional data indicated that 68% were due to synthetic opioids, primarily illegally manufactured fentanyl.[<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.cdc.gov/mmwr/volumes/72/wr/mm7226a4.htm">MMWR. Mbabazi et al. 2023</ext-link>] The prevalence&#x000a0;of opioid misuse, addiction, and overdose has increased in the US.&#x000a0;</p>
+        <p>According to the Substance Abuse and Mental Health Services Administration (SAMHSA), in 2020,&#x000a0;approximately 2.7 million people aged 12 or older in the&#x000a0;US had an opioid use disorder (OUD), including 2.3 million people with a prescription opioid use disorder.[<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.samhsa.gov/data/sites/default/files/reports/slides-2020-nsduh/2020NSDUHNationalSlides072522.pdf">SAMSHA, 2020 National Survey on Drug Use and Health</ext-link>]</p>
+        <p>In light of these staggering statistics, all clinical prescribers, dispensers, and manufacturers are charged with reducing the number of opioids dispensed and effectively disposing of unused medications. Moreover, prescribers must proactively prescribe opioid reversal agents to those who are prescribed opioids and those who are at risk for opioid use disorder.&#x000a0;Prescribers&#x000a0;must also strictly follow the federally mandated clinical guidelines for responsible prescribing controlled substances and opioids to prevent violations.&#x000a0;These actions are required to&#x000a0;help curb the opioid crisis and the rising tide of substance use disorders in the US.</p>
+        <p>Prescription opioids have emerged as a gateway to substance use disorders, contributing to the ongoing opioid crisis in the US. According to one review, leftover or unconsumed opioid medications that were appropriately prescribed, when left unused or unattended, become susceptible to&#x000a0;misuse and abuse, particularly among&#x000a0;vulnerable adolescents.<xref ref-type="bibr" rid="article-131263.r1">[1]</xref>&#x000a0;This concerning trend further exacerbates the severity of the crisis, amplifying its impact on individuals and communities nationwide.</p>
+        <p>Prescription opioid medications are essential to manage acute and chronic pain effectively. In the US, over a quarter of the population&#x000a0;experiences chronic pain.<xref ref-type="bibr" rid="article-131263.r2">[2]</xref>&#x000a0;As a country, the US&#x000a0;surpasses&#x000a0;100 billion dollars annually in healthcare costs related to pain management and opioid dependence.<xref ref-type="bibr" rid="article-131263.r3">[3]</xref>&#x000a0;Pain-related expenses exceed the combined costs of cancer, diabetes, and heart disease.<xref ref-type="bibr" rid="article-131263.r4">[4]</xref>&#x000a0;</p>
+        <p>Chronic pain management is pivotal in shaping a patient's quality of life, emphasizing the critical need to use best practices when prescribing opioids. The impact of pain management decisions can have far-reaching and enduring consequences, underscoring the importance of a thoughtful and responsible approach to opioid prescribing.<xref ref-type="bibr" rid="article-131263.r5">[5]</xref></p>
+        <p>Appropriate opioid prescribing encompasses a comprehensive approach that involves regular assessment, treatment planning, and monitoring. The aim is to ensure clinicians prescribe sufficient opioid medication for&#x000a0;adequate pain control while minimizing the potential for addiction, abuse, overdose, diversion, and misuse. Clinicians must understand that inappropriate opioid prescribing includes under-prescribing, overprescribing, or continuing to prescribe opioids when they are no longer effective. These concerns are particularly prominent in patients with chronic pain. Compounding the existing challenges, individuals with chronic pain often develop opioid tolerance and significant psychological, behavioral, and emotional problems, including anxiety and depression, related to under or overprescribed opioids.<xref ref-type="bibr" rid="article-131263.r5">[5]</xref></p>
+        <p>
+<bold>Provider Knowledge Deficit&#x000a0;</bold>
+</p>
+        <p>Current evidence shows substantial knowledge gaps regarding&#x000a0;appropriate and inappropriate prescribing of controlled substances, highlighting&#x000a0;deficits in understanding recent research, legislation, and best&#x000a0;prescribing practices. A&#x000a0;practice gap persists between the recommended best practices for preventing prescription drug abuse and current clinical practice.<xref ref-type="bibr" rid="article-131263.r6">[6]</xref>&#x000a0;</p>
+        <p>Providers may lack understanding of the pathophysiology of addiction, populations at risk for opioid addiction, and the differences in prescription versus nonprescription opioid addiction. The fallacious belief that addiction and dependence on opioids are synonymous needs to be addressed.&#x000a0;The idea that opioid addiction is&#x000a0;solely a psychological problem needs to be changed; in reality, it is likely a complex psychological and physiological issue that may be related to a chronic painful disease.</p>
+        <p>Despite efforts to incorporate education on&#x000a0;substance use disorders (SUDs) in medical school curricula, a pervasive practice gap remains&#x000a0;in appropriately managing these conditions and implementing&#x000a0;responsible&#x000a0;prescribing practices for controlled substances.<xref ref-type="bibr" rid="article-131263.r6">[6]</xref>&#x000a0;</p>
+        <p>
+<bold>Definitions</bold>
+</p>
+        <p>Clinicians should&#x000a0;be familiar with commonly used terms associated with addiction and substance use disorders as they are frequently used in the literature. The definition of addiction and substance use disorders helps outline diagnostic criteria, which can be used to identify those needing treatment.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Addiction:</bold>&#x000a0;According to the American Society of Addiction Medicine (ASAM), addiction is "a treatable, chronic medical disease involving complex interactions among brain circuits, genetics, the environment, and an individual's life experiences."[<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.asam.org/quality-care/definition-of-addiction/glossary-of-addiction">ASAM Glossary of Addiction</ext-link>]&#x000a0;People with addiction engage in behaviors that become compulsive and are continued despite adverse consequences. However, the ASAM states that addiction prevention strategies and treatment regimens are "as successful as those for other chronic diseases." They identify these 5 characteristics of addiction:
+<list list-type="bullet"><list-item><p>Craving for drug or positive reward</p></list-item><list-item><p>Dysfunctional emotional response</p></list-item><list-item><p>Failure to recognize significant problems affecting behavior and relationships</p></list-item><list-item><p>Inability to consistently abstain</p></list-item><list-item><p>Impairment in control of behavior</p></list-item></list>
+</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Substance use disorder:</bold>&#x000a0; The Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR), abolishes the previous categorization of substance-related addictions into "abuse" and "dependence." The DSM-5-TR combines these terms into substance use disorders, categorized as mild, moderate, or severe based on severity. This helps clarify diagnoses and prevents confusion for clinicians and patients.<xref ref-type="bibr" rid="article-131263.r7">[7]</xref>&#x000a0;</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Abuse:</bold>&#x000a0;Use of an illegal substance or maladaptive pattern of&#x000a0;substance use for a nonmedical purpose other than pain relief, ie, to alter one's state of consciousness.<xref ref-type="bibr" rid="article-131263.r8">[8]</xref></p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Dependence:</bold>&#x000a0;Physiologic reliance on&#x000a0;a&#x000a0;drug resulting in a withdrawal syndrome with cessation or reduction in the amount of&#x000a0;drug&#x000a0;administered.<xref ref-type="bibr" rid="article-131263.r9">[9]</xref></p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Diversion:</bold>&#x000a0;Transferring a controlled substance from an authorized person's use to an unauthorized person's use for distribution or possession.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Misuse:</bold>&#x000a0;Use of a medication in a manner different than how it was prescribed.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Pseudoaddiction:</bold>&#x000a0;Pursuit of additional medication due to poor pain control, with the cessation of drug-seeking behavior upon achievement of appropriate pain control.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Tolerance:</bold>&#x000a0;The lessened effect of a substance after being exposed to that substance or the need to escalate doses to achieve the same result.<xref ref-type="bibr" rid="article-131263.r10">[10]</xref></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-131263.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p>The risk factors for substance use disorders, particularly prescription use disorder, vary according to the type of drug prescribed. An understanding of the Drug Enforcement Administration (DEA) schedules under the Controlled Substance Act is mandatory for providers, particularly if they prescribe or dispense these agents to people&#x000a0;with known risk factors for addiction. The DEA classification of controlled substances includes&#x000a0;5&#x000a0;schedules. These are outlined below:</p>
+        <p><bold>Schedule I: </bold>Drugs or substances with&#x000a0;high potential for abuse and no&#x000a0;currently accepted medical use in the United States. Examples include heroin, lysergic acid diethylamide (LSD), marijuana (cannabis), 3,4-methylenedioxymethamphetamine (ecstasy), methaqualone, and peyote.</p>
+        <p><bold>Schedule II: </bold>Drugs or substances with&#x000a0;high potential for abuse; however, they also have a currently accepted medical use in the United States. Examples include cocaine, morphine, methamphetamine, methadone, hydromorphone, meperidine, oxycodone, fentanyl, amphetamine, dextroamphetamine, phencyclidine, and methylphenidate.&#x000a0;</p>
+        <p><bold>Schedule III: </bold>Drugs or substances with&#x000a0;less potential&#x000a0;for abuse than agents listed in&#x000a0;Schedules I and II and have a currently accepted medical use in the US. Examples include codeine products in combination with acetaminophen or aspirin, ketamine, anabolic corticosteroids, and testosterone.</p>
+        <p><bold>Schedule IV: </bold>Drugs or substances with low potential for&#x000a0;abuse relative to the agents listed in&#x000a0;Schedule III and have a&#x000a0;currently accepted&#x000a0;medical use in the United States. Benzodiazepines, including alprazolam, clonazepam, lorazepam, and diazepam, carisoprodol, pentazocine, zolpidem, tramadol, and dextropropoxyphene, are included in this category. The benzodiazepine&#x000a0;flunitrazepam is classified as Schedule IV but carries Schedule I trafficking penalties because of its role in drug-facilitated sexual assault.</p>
+        <p><bold>Schedule V:</bold> Drugs or substances with&#x000a0;lower potential for abuse relative to agents listed in Schedule IV and have&#x000a0;currently accepted&#x000a0;medical use in the United States. Examples include cough preparations containing codeine, diphenoxylate/atropine, difenoxin HCl/atropine, pregabalin, and&#x000a0;attapulgite.&#x000a0;</p>
+        <p>
+<bold>Risk Factors For Prescription Drug Use Disorder</bold>
+</p>
+        <p>The greatest risk factor for prescription drug use is the number or amount of controlled substances prescribed for legitimate medical reasons.&#x000a0;Prescription drug use is directly associated with an increase in the number of controlled substances being prescribed for accepted medical use. Studies have shown that an increase in the identification and treatment of&#x000a0;attention deficit hyperactivity disorder (ADHD) has contributed to a rapid growth in medication misuse of agents used to treat this disease.<xref ref-type="bibr" rid="article-131263.r11">[11]</xref>&#x000a0;Similarly, a rise in the use of opiates for the treatment of various conditions was concordant with a surge in their abuse,&#x000a0;and an increase in the number of benzodiazepines filled was associated with an increased risk of death from benzodiazepine overdose for the same period.<xref ref-type="bibr" rid="article-131263.r12">[12]</xref><xref ref-type="bibr" rid="article-131263.r13">[13]</xref></p>
+        <p>Prior history of another substance use disorder, including nicotine use disorder, is also associated with an increased risk of prescription misuse when controlled substances are prescribed for appropriate reasons.<xref ref-type="bibr" rid="article-131263.r14">[14]</xref><xref ref-type="bibr" rid="article-131263.r15">[15]</xref>&#x000a0;Mental health disorders, especially pain-related anxiety and post-traumatic stress disorder, increase the risk of prescription opioid use&#x000a0;and sedative/hypnotic use disorders.<xref ref-type="bibr" rid="article-131263.r16">[16]</xref><xref ref-type="bibr" rid="article-131263.r15">[15]</xref><xref ref-type="bibr" rid="article-131263.r17">[17]</xref>&#x000a0;Similarly, a family history of substance use disorders increases patients' prescription misuse risk.<xref ref-type="bibr" rid="article-131263.r15">[15]</xref></p>
+        <p>Chronic pain is highly associated with prescription opiate misuse. A combination of chronic pain and coexisting substance use disorder or a mental health illness significantly increases the risk of prescription medication use disorder.<xref ref-type="bibr" rid="article-131263.r18">[18]</xref><xref ref-type="bibr" rid="article-131263.r19">[19]</xref>&#x000a0;Adult ADHD frequently coexists with substance use disorders and has been associated with higher severity of SUDs.<xref ref-type="bibr" rid="article-131263.r20">[20]</xref></p>
+      </sec>
+      <sec id="article-131263.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p>The rate of opiate prescription misuse among patients receiving treatment for chronic pain ranges between 21% to 29%, and the rate of addiction ranges between 8% to 12%.<xref ref-type="bibr" rid="article-131263.r21">[21]</xref>&#x000a0;The&#x000a0;US Department of Health and Human Services&#x000a0;branch, the SAMSHA, published a report summarizing findings from the&#x000a0;2021&#x000a0;National Survey on Drug Use and Health (NSDUH) to illustrate the prevalence of substance use disorders and the frequency of prescription misuse/abuse in the US population. (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.samhsa.gov/data/sites/default/files/2022-12/2021NSDUHFFRHighlights092722.pdf">SAMSHA 2021 National Survey on Drug Use and Health (NSDUH)</ext-link>) The findings&#x000a0;of this report, among&#x000a0;people aged 12 years and older who are noninstitutionalized in the US, are as follows:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>40.0&#x000a0;million people reported using an illicit drug, extrapolating to more than 1 in 10 Americans (14.3%).</p>
+          </list-item>
+          <list-item>
+            <p>Prescription pain medication misuse&#x000a0;continued to be&#x000a0;second only to marijuana for illicit drug use.</p>
+          </list-item>
+          <list-item>
+            <p>9.2&#x000a0;million people misused opioids in the preceding year, with&#x000a0;8.7&#x000a0;million using prescription pain&#x000a0;medications and&#x000a0;1.1 million&#x000a0;using heroin; this includes 547,000 who used both prescription pain relievers and heroin.</p>
+          </list-item>
+          <list-item>
+            <p>46.3&#x000a0;million people aged 12 and older reported a current substance use disorder (SUD) diagnosis. The breakout is as follows:
+<list list-type="bullet"><list-item><p>Adults 18 to 25 (8.6 million people, or 25.6%)</p></list-item><list-item><p>Adults aged 26 and older (35.5 million people or 16.1%)</p></list-item><list-item><p>Adolescents aged 12 to 17 (2.2 million people or 8.5%)</p></list-item></list>
+</p>
+          </list-item>
+        </list>
+        <p>In the past, providers in the&#x000a0;US predominately reserved&#x000a0;opioid prescriptions for chronic cancer pain. This&#x000a0;approach began to shift&#x000a0;in the 1990s when Dr. James Campbell addressed the American Pain Society in 1995&#x000a0;and urged healthcare providers to treat pain as the fifth vital "sign."<xref ref-type="bibr" rid="article-131263.r22">[22]</xref>&#x000a0;Simultaneously, drug companies aggressively marketed and promoted these medications while grossly downplaying the risks, particularly addiction.<xref ref-type="bibr" rid="article-131263.r23">[23]</xref>&#x000a0;</p>
+        <p>By 2004, the&#x000a0;most commonly abused drug in the US was the extended-release form of oxycodone.<xref ref-type="bibr" rid="article-131263.r24">[24]</xref>&#x000a0;The&#x000a0;US currently consumes over 80% of all opioids produced worldwide.<xref ref-type="bibr" rid="article-131263.r25">[25]</xref><xref ref-type="bibr" rid="article-131263.r26">[26]</xref>&#x000a0;With increased use, concomitant problems have developed, and the&#x000a0;number of individuals abusing opioid analgesics has increased dramatically.<xref ref-type="bibr" rid="article-131263.r27">[27]</xref><xref ref-type="bibr" rid="article-131263.r28">[28]</xref></p>
+      </sec>
+      <sec id="article-131263.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>Dopamine plays a central role in the physiology of drug reward. Substances that have the potential for&#x000a0;addiction work by increasing the&#x000a0;dopamine levels&#x000a0;in our system.<xref ref-type="bibr" rid="article-131263.r29">[29]</xref>&#x000a0;However, studies on mice have demonstrated that&#x000a0;dopamine-deficient mice can still develop an addiction, indicating the involvement of&#x000a0;other neurotransmitters, such as serotonin. Similarly, some animal studies have revealed that the mu-opioid receptor is targeted by multiple agents, which include heroin, other opioid drugs, alcohol, cocaine, and nicotine.<xref ref-type="bibr" rid="article-131263.r29">[29]</xref>&#x000a0;</p>
+        <p>The agonistic efficacy of substances, especially different opioid formulations, determines how "rewarding" they are for the mu-opioid receptor. Opioid drugs with full agonist effects at these receptors result in higher rewarding effects than partial agonists such as buprenorphine.<xref ref-type="bibr" rid="article-131263.r30">[30]</xref></p>
+        <p>Drugs of addiction trigger dopamine release&#x000a0;in the nucleus accumbens (NAc) and may increase endogenous opioid and cannabinoid levels. This rapid release of&#x000a0;dopamine and subsequent binding to D1 receptors (D1R) in the NAc and dorsal striatum stimulates cyclic AMP (cAMP) signaling, associated with euphoria and pleasure. Repeated exposures trigger conditioning for this response. Once SUD develops, a decrease in baseline dopamine release in the NAc becomes evident. This leads to a diminished dopamine level increase and reduces the drug's rewarding effects (tolerance).<xref ref-type="bibr" rid="article-131263.r30">[30]</xref></p>
+        <p>Genetics also plays a vital role in addiction and the development of substance use disorders. Studies have shown a strong heritable component to addiction vulnerability. Still,&#x000a0;there have been challenges in identifying specific genetic foci for SUDs, suggesting that these disorders, like other psychiatric disorders, are likely polygenic.<xref ref-type="bibr" rid="article-131263.r30">[30]</xref>&#x000a0;Genes that have been shown to increase the vulnerability to substance use disorders, particularly opioid use disorder, include the following:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p><italic toggle="yes">OPRM1 </italic>mutations&#x000a0;result in altered mu-opioid receptor expression.</p>
+          </list-item>
+          <list-item>
+            <p><italic toggle="yes">CNIH3&#x000a0;</italic>appears to alter or influence control over opioid use.</p>
+          </list-item>
+          <list-item>
+            <p><italic toggle="yes">BDNF&#x000a0;</italic>is thought to moderate propensity to drug-seeking behavior.</p>
+          </list-item>
+          <list-item>
+            <p><italic toggle="yes">MAOA</italic> alters the propensity to externalizing behaviors.</p>
+          </list-item>
+          <list-item>
+            <p><italic toggle="yes">COMT</italic> modulates the prefrontal cortex, amygdala activity, and reward circuitry.</p>
+          </list-item>
+          <list-item>
+            <p><italic toggle="yes">FKBP5</italic> moderates responsivity to stress.</p>
+          </list-item>
+          <list-item>
+            <p><italic toggle="yes">Homer1, Homer 2, and Homer3 i</italic>nfluence response to rewards.</p>
+          </list-item>
+          <list-item>
+            <p><bold>MMP9</bold> moderates the propensity to drug-seeking.</p>
+          </list-item>
+        </list>
+        <p>Environmental factors play a more significant role in adolescents and during earlier stages of substance use.<xref ref-type="bibr" rid="article-131263.r31">[31]</xref>&#x000a0;These environmental factors include early drug exposure with peers and family and a history of adverse childhood events. According to one study, adolescents who experienced&#x000a0;adverse childhood events had a higher odds ratio of opioid misuse. The population-attributable&#x000a0;percentage&#x000a0;of opioid misuse&#x000a0;related to adverse childhood events was estimated to be&#x000a0;71.6%.<xref ref-type="bibr" rid="article-131263.r32">[32]</xref></p>
+        <p>Moreover, research&#x000a0;has demonstrated that following repeated exposures, the transition from drug experimentation to addiction is associated with disruptions in several brain circuits. These circuits encompass those involved&#x000a0;in conditioning, reward sensitivity, self-regulation, and mood.<xref ref-type="bibr" rid="article-131263.r29">[29]</xref>&#x000a0;</p>
+        <p>Genetic and environmental factors influence the neuroadaptations resulting from repeated drug exposure. Animal studies have revealed&#x000a0;that these substances affect epigenetic markers, causing post-translational histone modifications and DNA methylation/hydroxymethylation.<xref ref-type="bibr" rid="article-131263.r33">[33]</xref>&#x000a0;These alterations are associated with&#x000a0;long-term neuroadaptations to long-lasting behavioral effects of drug abuse in animal models.<xref ref-type="bibr" rid="article-131263.r33">[33]</xref></p>
+        <p>The interplay&#x000a0;between positive reinforcement, characterized by increased reward, and negative reinforcement, aimed at avoiding&#x000a0;pain and withdrawal, leads to learned associations or conditioning. Neuroadaptation resulting from&#x000a0;repeated drug use involves the&#x000a0;desensitization and internalization of receptors and impaired signaling with modulation of intracellular effectors.<xref ref-type="bibr" rid="article-131263.r30">[30]</xref></p>
+      </sec>
+      <sec id="article-131263.s6" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>The United States Preventive Services Task Force (USPSTF) recommends screening all adults for unhealthy alcohol use.<xref ref-type="bibr" rid="article-131263.r34">[34]</xref>&#x000a0;In addition,&#x000a0;the USPSTF also recommends screening for unhealthy use of other substances.<xref ref-type="bibr" rid="article-131263.r35">[35]</xref>&#x000a0;Although screening and brief interventions have not been shown to reduce drug use effectively, they are critically important for responsible prescribing practices of controlled substances.&#x000a0;</p>
+        <p>Screening with any validated screening tool is acceptable. According to the USPSTF report, the structured diagnostic interview is widely regarded as the reference standard for assessment.<xref ref-type="bibr" rid="article-131263.r35">[35]</xref>&#x000a0;The Structured Clinical Interview for DSM-5 (SCID-5) is a semistructured interview guide provided by the American Psychiatric Association that aids in identifying DSM-5 diagnoses.</p>
+        <p>
+<bold>Addiction Risk Assessment and Recommended Screening Tools</bold>
+</p>
+        <p>The clinician should consider information from the history and physical, family members, prescription monitoring programs, and screening tools to assess the risk of developing an untoward behavioral response to prescription opioids and other controlled substances. Patients can be stratified into&#x000a0;3&#x000a0;risk levels based on responses to screening tools:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Low risk: Standard monitoring, vigilance, and care are required.<xref ref-type="bibr" rid="article-131263.r27">[27]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Moderate risk: Additional monitoring and more frequent provider contact are needed.<xref ref-type="bibr" rid="article-131263.r36">[36]</xref></p>
+          </list-item>
+          <list-item>
+            <p>High risk: Intensive and structured monitoring, frequent follow-up contact, consultation with an addiction psychiatrist, and limited monthly prescription of short-acting opioids are recommended.<xref ref-type="bibr" rid="article-131263.r37">[37]</xref></p>
+          </list-item>
+        </list>
+        <p>Single-item screening is a reasonable approach as it is less time-consuming and easily administered. The question&#x000a0;for&#x000a0;patients is, "How many times in the past year have you used an illegal drug or a prescription medication for nonmedical reasons?" The validating study reported that this single-item screening tool was&#x000a0;100% sensitive and 73.5% specific for detecting a drug use disorder.<xref ref-type="bibr" rid="article-131263.r38">[38]</xref>&#x000a0;This tool showed similar&#x000a0;sensitivity and specificity for drug use compared to the 10-item Drug Abuse Screening Test (DAST).<xref ref-type="bibr" rid="article-131263.r38">[38]</xref></p>
+        <p>The 10-item DAST screening tool consists of 10 yes or no questions evaluating the consequences of drug use and its severity in 12 months.<xref ref-type="bibr" rid="article-131263.r39">[39]</xref>&#x000a0;This tool has been validated in multiple studies and translated into many different languages, with most studies reporting excellent validity and reliability. Worldwide application of this screening tool has shown&#x000a0;high internal consistency and is reportedly 0.86 to 0.94.<xref ref-type="bibr" rid="article-131263.r39">[39]</xref></p>
+        <p>The Alcohol, Smoking, and Substance Involvement Screening Test (ASSIST) is another validated screening tool frequently used in clinical studies.&#x000a0;This test has the advantage of identifying individuals who use multiple psychoactive substances and providing insights into the severity of their substance involvement.<xref ref-type="bibr" rid="article-131263.r40">[40]</xref>&#x000a0;However, one potential disadvantage in the clinical setting is that the ASSIST&#x000a0;may have over 80 items when assessing&#x000a0;individuals who use multiple substances, which may be too time-consuming to administer.</p>
+        <p>Aside from screening tools and assessing the personal history of substance use, the clinician should obtain information regarding family history of substance use, current social support system, family or social environments that lend themselves to misuse, and comorbid untreated psychiatric diseases before prescribing any controlled substances to minimize the risk of prescription drug use.<xref ref-type="bibr" rid="article-131263.r41">[41]</xref></p>
+        <p>Identifying those who meet the criteria for SUD is paramount so they may be provided with proper treatment for their disorders. According to the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR), a&#x000a0;problematic pattern of use with clinically significant impairment&#x000a0;is diagnostic of a substance use disorder if&#x000a0;2 or more of the following can be demonstrated within 12 months:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>The substance is taken in more significant amounts or over an extended period than intended.</p>
+          </list-item>
+          <list-item>
+            <p>There is a persistent desire with unsuccessful efforts to cut down use.</p>
+          </list-item>
+          <list-item>
+            <p>Much time is spent to obtain, use, or recover from the substance's effects.</p>
+          </list-item>
+          <list-item>
+            <p>There is an intense desire or craving to use the substance.</p>
+          </list-item>
+          <list-item>
+            <p>Persistent use leads to failure in other obligations at work, school, or home.</p>
+          </list-item>
+          <list-item>
+            <p>There is continued use despite recurrent social or interpersonal problems.</p>
+          </list-item>
+          <list-item>
+            <p>Due to continued use, social, occupational, or recreational activities are given up.</p>
+          </list-item>
+          <list-item>
+            <p>There is persistent use despite physically hazardous effects.</p>
+          </list-item>
+          <list-item>
+            <p>Continued use despite knowing that it is causing recurrent physical or psychological problems.</p>
+          </list-item>
+          <list-item>
+            <p>There is evidence of tolerance to the substance used.</p>
+          </list-item>
+          <list-item>
+            <p>There is evidence of withdrawal from the substance used.</p>
+          </list-item>
+        </list>
+        <p>The DSM-5-TR further classifies SUDs by severity based on the number of criteria the individual meets. The condition is considered mild if 2 to 3 criteria are met, moderate if 4 to 5 criteria are met, and severe if 6 or more criteria are met.&#x000a0;</p>
+      </sec>
+      <sec id="article-131263.s7" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>Aside from obtaining a thorough history and completing a comprehensive physical examination to detect underlying uncontrolled psychiatric illnesses and substance use, drug testing is essential before prescribing controlled substances. Drug testing also provides objective data to confirm that the patient takes their prescribed medication. Random&#x000a0;drug testing is preferable to scheduled testing as it is more likely to detect underlying substance use.<xref ref-type="bibr" rid="article-131263.r42">[42]</xref>&#x000a0;Patient consent should be obtained before testing and is generally part of the treatment contract for prescribing controlled substances.</p>
+        <p>Urine is the most commonly used biological sample for this purpose.&#x000a0;Alternative specimens such as blood/serum, hair, sweat, and oral fluids may also be obtained.<xref ref-type="bibr" rid="article-131263.r43">[43]</xref> These alternative samples offer advantages such as being less prone to adulteration and providing extended windows for drug analysis. However, a significant disadvantage is that these samples require high-sensitivity techniques to detect the drugs as they are often present in very low concentrations.<xref ref-type="bibr" rid="article-131263.r44">[44]</xref>&#x000a0;Therefore, urine testing is most commonly utilized and recommended as it allows for&#x000a0;easy collection and has&#x000a0;adequate&#x000a0;sensitivity and specificity to detect widely used drugs.<xref ref-type="bibr" rid="article-131263.r45">[45]</xref><xref ref-type="bibr" rid="article-131263.r46">[46]</xref></p>
+        <p>Urine testing also allows for longer windows of detection than serum. Clinicians must remember that urine&#x000a0;drug concentrations do not reflect&#x000a0;serum concentrations. They are a measure of drug metabolites and reflect&#x000a0;how rapidly a person&#x000a0;metabolizes and eliminates the drug. Consequently, urine drug testing can vary drastically based on hydration status.<xref ref-type="bibr" rid="article-131263.r46">[46]</xref></p>
+        <p>In addition to standard laboratory testing,&#x000a0;point-of-care (POC) testing is an alternative option. POC testing offers advantages such as simplicity and rapid result turnaround; however,&#x000a0;this type of testing&#x000a0;can be easily mishandled, especially when non-laboratory staff is involved, which may lead to erroneous results. Specific training is necessary to properly collect and interpret the tests to ensure reliable and accurate interpretation of POC testing results.<xref ref-type="bibr" rid="article-131263.r47">[47]</xref></p>
+        <p>
+<bold>Commonly Ordered Drug Tests with Windows of Detection On Urinary Testing</bold>
+</p>
+        <p>This list summarizes some commonly ordered drug tests and their windows of detection.<xref ref-type="bibr" rid="article-131263.r45">[45]</xref></p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Amphetamines: 2 to 3 days</p>
+          </list-item>
+          <list-item>
+            <p>Benzodiazepines short acting: 3 to 5 days</p>
+          </list-item>
+          <list-item>
+            <p>Benzodiazepines long acting: Up to 30 days</p>
+          </list-item>
+          <list-item>
+            <p>Buprenorphine: Up to 11 days</p>
+          </list-item>
+          <list-item>
+            <p>Cannabis daily use: 2 to 4 weeks</p>
+          </list-item>
+          <list-item>
+            <p>Cannabis heavy use: Up to&#x000a0;12 weeks</p>
+          </list-item>
+          <list-item>
+            <p>Cocaine: 1 to 5 hours (for metabolites, 2 to 4 days)</p>
+          </list-item>
+          <list-item>
+            <p>Codeine: 1 to 2 days</p>
+          </list-item>
+          <list-item>
+            <p>Fentanyl: 2 to 3 days</p>
+          </list-item>
+          <list-item>
+            <p>Heroin and morphine: 3 days</p>
+          </list-item>
+          <list-item>
+            <p>Hydromorphone: 1 to 2 days</p>
+          </list-item>
+          <list-item>
+            <p>Methadone: 3 to 4 days and up to 14 days</p>
+          </list-item>
+          <list-item>
+            <p>Oxycodone&#x000a0;immediate release: 1 to 1.5 days</p>
+          </list-item>
+          <list-item>
+            <p>Oxycodone controlled release: 1.5 to 3 days</p>
+          </list-item>
+          <list-item>
+            <p>Oxymorphone immediate release: 1.5 to 2.5 days</p>
+          </list-item>
+          <list-item>
+            <p>Oxymorphone controlled release: 1 to 4 days</p>
+          </list-item>
+          <list-item>
+            <p>Phencyclidine: 1.5 to 10 days</p>
+          </list-item>
+          <list-item>
+            <p>Tapentadol: 1 to 5 days</p>
+          </list-item>
+          <list-item>
+            <p>Tramadol: 2 to 4 days</p>
+          </list-item>
+          <list-item>
+            <p>Zolpidem: 1 to 5 days&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>It is essential to remember patients may have positive test&#x000a0;results for opioids and benzodiazepines due to the presence of various other drugs. For example,&#x000a0;the presence of morphine may indicate the ingestion of morphine, codeine,&#x000a0;or heroin, and the presence of hydromorphone may indicate the use of hydromorphone, hydrocodone, or morphine.<xref ref-type="bibr" rid="article-131263.r45">[45]</xref>&#x000a0;A negative test result may mean that the patient is not taking the substance or medication prescribed or that the drug is rapidly metabolized to undetectable levels. Ideally, confirmatory testing would differentiate true negative results (when the patient is not taking the substance or the prescribed medication) from false negative results (rapid metabolism to undetectable levels on urinary testing). Confirmatory tests include&#x000a0;gas or high-performance liquid&#x000a0;chromatography&#x000a0;and mass spectrometry to detect these agents. Unfortunately, these are not readily available in most laboratories.<xref ref-type="bibr" rid="article-131263.r45">[45]</xref></p>
+        <p><bold>False Positive Results:</bold>&#x000a0;False-positive results occur when other medications or ingested substances cross-react with the immunoassays used to detect drugs of abuse and yield a positive result.<xref ref-type="bibr" rid="article-131263.r45">[45]</xref>&#x000a0;Commonly prescribed medications that may cause false positive results on urine drug testing include:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Amphetamines:</bold>&#x000a0;Amantadine, bupropion, chlorpromazine,&#x000a0;desipramine, dextroamphetamine,&#x000a0;labetalol, methylphenidate,&#x000a0;pseudoephedrine, ranitidine, selegiline, thioridazine, trazodone</p>
+          </list-item>
+          <list-item>
+            <p><bold>Benzodiazepines:</bold>&#x000a0;Oxaprozin, sertraline</p>
+          </list-item>
+          <list-item>
+            <p><bold>Cannabinoids:</bold>&#x000a0;Dronabinol, efavirenz, proton pump&#x000a0;inhibitors, and&#x000a0;some nonsteroidal anti-inflammatory drugs</p>
+          </list-item>
+          <list-item>
+            <p><bold>Opioids:</bold>&#x000a0;Dextromethorphan, quinine, quinolones, rifampin, verapamil. Dietary consumption of poppy seeds may yield cross-reactivity and false-positive test results for opioids.</p>
+          </list-item>
+          <list-item>
+            <p><bold>Phencyclidine:</bold>&#x000a0;Dextromethorphan, diphenhydramine, ibuprofen, ketamine,&#x000a0;meperidine, thioridazine, tramadol, venlafaxine</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-131263.s8" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>Before prescribing controlled substances or initiating opioid therapy for chronic pain, the clinician and patient should agree on practical goals regarding pain relief, functionality with activities of daily living, and management of coexisting conditions such as anxiety and depression. In addition, the plan should include therapy selection, progress measures, and involvement of other specialty providers if needed. When developing a pain management plan that involves opioids, the clinician should:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Start at the lowest possible dose and titrate to effect</p>
+          </list-item>
+          <list-item>
+            <p>Start with short-acting opioid formulations</p>
+          </list-item>
+          <list-item>
+            <p>Discuss the need for frequent risk and benefit assessments</p>
+          </list-item>
+          <list-item>
+            <p>Instruct the patient (and include family members if possible) of the signs and symptoms of respiratory depression</p>
+          </list-item>
+          <list-item>
+            <p>Reassess risks and benefits with each dose increase</p>
+          </list-item>
+          <list-item>
+            <p>Exercise precaution and be able to justify reason when prescribing 50 or more morphine milligram equivalents (MME) per day&#x000a0;<xref ref-type="bibr" rid="article-131263.r48">[48]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Be knowledgeable of federal and state opioid prescribing regulations</p>
+          </list-item>
+          <list-item>
+            <p>Be knowledgeable of patient monitoring, equianalgesic dosing, and cross-tolerance with opioid conversion</p>
+          </list-item>
+          <list-item>
+            <p>Augment treatment with nonopioid or, if necessary, immediate-release opioids over long-acting opioids</p>
+          </list-item>
+          <list-item>
+            <p>Taper opioid dose whenever possible</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Consent and Treatment</bold>
+</p>
+        <p>According to the American Medical Association, a physician can proceed with informed consent after assessing the patient's ability to understand the medical information to make an independent decision.<xref ref-type="bibr" rid="article-131263.r49">[49]</xref>&#x000a0;The informed consent should include a discussion of the following:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Patient diagnosis</p>
+          </list-item>
+          <list-item>
+            <p>Purpose of recommended treatment</p>
+          </list-item>
+          <list-item>
+            <p>Risks and benefits of treatment</p>
+          </list-item>
+          <list-item>
+            <p>Alternative treatment or no treatment and their associated risks and benefits&#x000a0;&#x000a0;&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Informed Consent for Controlled Substances and Opioids Should Include the Following Potential Risks</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Physical side effects/complications such as constipation, QT prolongation, etc</p>
+          </list-item>
+          <list-item>
+            <p>Addiction risk</p>
+          </list-item>
+          <list-item>
+            <p>Physical dependence</p>
+          </list-item>
+          <list-item>
+            <p>Cognitive effects</p>
+          </list-item>
+          <list-item>
+            <p>Psychological dependence</p>
+          </list-item>
+          <list-item>
+            <p>Tolerance</p>
+          </list-item>
+          <list-item>
+            <p>Hyperalgesia</p>
+          </list-item>
+          <list-item>
+            <p>Patient victimization&#x000a0;<xref ref-type="bibr" rid="article-131263.r49">[49]</xref><bold>&#x000a0;</bold></p>
+          </list-item>
+        </list>
+        <p>Prescribing policies should be clearly described, including guidelines regarding the number and frequency of refills and procedures for lost or stolen medications.</p>
+        <p>
+<bold>Patient and Physician Treatment Agreement</bold>
+</p>
+        <p>While there is no standardized agreement or contract for controlled substance or opioid use, such agreements must facilitate an&#x000a0;open discussion of information, treatment adherence, and an understanding of treatment goals.<xref ref-type="bibr" rid="article-131263.r49">[49]</xref></p>
+        <p>Clinicians often include provisions&#x000a0;in the agreement that outline&#x000a0;the patient's commitment&#x000a0;to refrain from&#x000a0;"doctor shopping" and provide consent for&#x000a0;drug testing. The clinician also assumes an active role in the agreement by&#x000a0;addressing treatment plan concerns and scheduling follow-up visits to evaluate&#x000a0;the effectiveness&#x000a0;of the interventions.&#x000a0;&#x000a0;</p>
+        <p>Reasons for potential changes or discontinuation of opioid therapy should be included in the treatment agreement. Also, agreements can include monitoring strategies and establish mechanisms for safely storing and disposing of unused medications.&#x000a0;</p>
+        <p>Prescribers should consider ending opioid treatment when pain is minimal or resolved, side effects develop, inadequate analgesia, quality of life has not improved, the function has deteriorated, or evidence of aberrant medication use is present. Opioids should be tapered slowly to minimize withdrawal symptoms. An addiction specialist may need to be involved in cases of aberrant behavior or when tapering is difficult to tolerate.<xref ref-type="bibr" rid="article-131263.r50">[50]</xref><xref ref-type="bibr" rid="article-131263.r51">[51]</xref></p>
+        <p>
+<bold>Recommended Guidelines for Responsible Opioid Prescribing</bold>
+</p>
+        <p>Among the controlled substances prescribed for medical use, opioids carry&#x000a0;the highest risk&#x000a0;for misuse and addiction, causing significant societal harm. In response to this issue, the United States Centers for Disease Control and Prevention (CDC) published&#x000a0;a Clinical Practice Guideline for Prescribing&#x000a0;Opioids in 2022.<xref ref-type="bibr" rid="article-131263.r52">[52]</xref>&#x000a0;These guidelines primarily address the use of opioids for pain management. A summary of the recommendations made in this clinical practice guideline is provided below:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Nonopioid therapies should be maximized as first-line and adjunct therapy if no contraindications exist.</p>
+          </list-item>
+          <list-item>
+            <p>Before prescribing&#x000a0;opioids for acute pain, the realistic benefits of opioid therapy and the risks of opioid therapy should be thoroughly discussed with the patient.</p>
+          </list-item>
+          <list-item>
+            <p>Nonopioid therapies are preferred for subacute and&#x000a0;chronic pain.</p>
+          </list-item>
+          <list-item>
+            <p>If opioid therapy is prescribed for acute, subacute, or&#x000a0;chronic pain, immediate-release formulations are preferred over extended-release and long-acting formulations.</p>
+          </list-item>
+          <list-item>
+            <p>In&#x000a0;opioid-na&#x000ef;ve patients, the lowest effective dose should be prescribed.&#x000a0;The recommended starting dose for opioid-na&#x000ef;ve patients is&#x000a0;5 to 10 morphine milligram equivalents (MME) per dose or&#x000a0;a daily dosage of 20 to 30 MME/day.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Unless there are signs of impending&#x000a0;overdose,&#x000a0;opioid therapy should not be discontinued abruptly.</p>
+          </list-item>
+          <list-item>
+            <p>When opioids are discontinued, they should be gradually tapered off. For patients taking opioids for extended durations (&#x02265;1 year), the recommended taper rate is&#x000a0;10% per month or slower, as this rate is&#x000a0;better tolerated than more rapid tapers.</p>
+          </list-item>
+          <list-item>
+            <p>For acute pain, the prescribed quantity of opioid medications should not exceed the expected duration of pain.</p>
+          </list-item>
+          <list-item>
+            <p>For subacute and chronic pain, the&#x000a0;benefits and risks of continued opioid therapy should be discussed with&#x000a0;patients within 1 to 4 weeks of initiation.</p>
+          </list-item>
+          <list-item>
+            <p>The risk of opioid therapy should be discussed periodically during the treatment, with a clear discussion on ways to mitigate harm, including using naloxone.</p>
+          </list-item>
+          <list-item>
+            <p>Before prescribing opioid therapy for acute, subacute, or chronic pain, and periodically during opioid therapy, the prescriber should review the patient's controlled substance prescription history using prescription drug monitoring program (PDMP) data.</p>
+          </list-item>
+          <list-item>
+            <p>Extreme caution is advised when prescribing opioid pain medication and benzodiazepines (or other central nervous system depressants) concurrently due to the risk of respiratory compromise.</p>
+          </list-item>
+          <list-item>
+            <p>If opioid use disorder is suspected or diagnosed, treatment should be offered. Detoxification without medications for opioid use disorder is not recommended.</p>
+          </list-item>
+        </list>
+        <p>According to the CDC, nonopioid therapies are at least as effective as opioids for managing acute pain.<xref ref-type="bibr" rid="article-131263.r52">[52]</xref>&#x000a0;Acute causes of pain for which nonopioid therapies are preferred include&#x000a0;low back&#x000a0;pain, neck pain, sprains, strains, tendonitis, bursitis,&#x000a0;dental pain, kidney stone pain,&#x000a0;and headaches.<xref ref-type="bibr" rid="article-131263.r52">[52]</xref>&#x000a0;Nonpharmacologic options such as ice, heat, elevation, and mobility restriction or therapy should be offered and maximized.</p>
+        <p>When managing patients with chronic pain, recommendations are to prioritize nonpharmacologic strategies as the initial approach. These may include exercise, physical therapy,&#x000a0;psychological and stress reduction therapy, spinal manipulation, laser therapy,&#x000a0;massage therapy,&#x000a0;acupuncture, and yoga, among others, and should be maximized.<xref ref-type="bibr" rid="article-131263.r52">[52]</xref>&#x000a0;If there is an insufficient response to these therapies, nonsteroidal anti-inflammatory drugs&#x000a0;(NSAIDs) or&#x000a0;duloxetine should be considered as the first-line options. In cases where&#x000a0;neuropathic pain is present, tricyclic antidepressants, serotonin and norepinephrine reuptake inhibitors (SNRIs), and anticonvulsants (such as pregabalin, gabapentin, and&#x000a0;oxcarbazepine) should be explored&#x000a0;before opioid therapy.<xref ref-type="bibr" rid="article-131263.r52">[52]</xref>&#x000a0;</p>
+        <p>The CDC guideline repeatedly emphasizes reevaluation of ongoing opioid therapy to determine if the expected benefit is achieved. If&#x000a0;opioid therapy for subacute or chronic pain has exceeded 4 weeks, a dose escalation beyond the lowest dose can be considered. This should occur following a discussion between the provider and the patient regarding the risks and benefits of escalating therapy. However, the CDC guideline states that in most cases, there is no further benefit (in pain relief or&#x000a0;function) from escalating opioid therapy to greater than or equal to 50 MME/day.<xref ref-type="bibr" rid="article-131263.r52">[52]</xref>&#x000a0;Increasing opioids beyond 50 MME/day exposes the patient to a progressively higher risk of misuse/addiction and physical complications of therapy without further clinical benefit.</p>
+        <p>A list of commonly prescribed opioids with their morphine equivalence conversion factors is provided below:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Codeine, 0.15</p>
+          </list-item>
+          <list-item>
+            <p>Fentanyl transdermal (in mcg/h), 2.4</p>
+          </list-item>
+          <list-item>
+            <p>Hydrocodone, 1.0</p>
+          </list-item>
+          <list-item>
+            <p>Hydromorphone, 5.0</p>
+          </list-item>
+          <list-item>
+            <p>Methadone, 4.7</p>
+          </list-item>
+          <list-item>
+            <p>Morphine, 1.0</p>
+          </list-item>
+          <list-item>
+            <p>Oxycodone, 1.5</p>
+          </list-item>
+          <list-item>
+            <p>Oxymorphone, 3.0</p>
+          </list-item>
+          <list-item>
+            <p>Tapentadol, 0.4</p>
+          </list-item>
+          <list-item>
+            <p>Tramadol, 0.2</p>
+          </list-item>
+        </list>
+        <p>Using&#x000a0;the conversion factor provided, a prescription for oxycodone 10 mg taken twice daily (20 mg of oxycodone daily) would be equivalent to 30 morphine MME daily. The MME serves&#x000a0;as a reference to indicate&#x000a0;the potency&#x000a0;of the prescribed opioid therapy; it should not be used to determine the dosage&#x000a0;of an opioid when switching therapies. Patients usually have incomplete tolerance between opioid medications, and individual opioid pharmacokinetics vary substantially. Therefore, when converting between opioids, the new opioid medication should be dosed at a substantially lower dose than the calculated MME dose.<xref ref-type="bibr" rid="article-131263.r52">[52]</xref><xref ref-type="bibr" rid="article-131263.r53">[53]</xref></p>
+        <p>When opioid therapy is discontinued or tapered, clinicians must repeatedly emphasize and educate the patients regarding the risk of overdose if they return to the previous dose of the medication.<xref ref-type="bibr" rid="article-131263.r52">[52]</xref>&#x000a0;Opioid&#x000a0;overdose education should be provided at every visit during this process, and naloxone should be co-prescribed. During this period, clinician vigilance regarding the emergence of&#x000a0;anxiety, depression, and opioid use&#x000a0;disorder is mandatory so that these conditions are identified early and treated appropriately.</p>
+        <p>
+<bold>Recommended Guidelines for Responsible Sedatives/Benzodiazepine Prescribing</bold>
+</p>
+        <p>According to the Agency for Healthcare Research and Quality, there is no accepted prescription guideline for benzodiazepines and other prescription sedatives/hypnotics. The general practice in the US is to follow the federal regulations outlined in the Controlled Substance Act.</p>
+        <p>The current practice standard in the US follows practice guidelines published by the American Psychiatric Association (APA) for anxiety disorders and insomnia. Benzodiazepines are approved in the US for treating generalized anxiety disorder, insomnia, seizures, panic disorders, social phobia, and certain other conditions, with the recommended duration to be short-term, ie, no more than 4&#x02009;weeks.<xref ref-type="bibr" rid="article-131263.r54">[54]</xref>&#x000a0;They are not the recommended first-line therapy for any of these diagnoses and are not recommended for long-term use by the APA.</p>
+        <p>The National Health Service of the United Kingdom, however, has put forth the following guidelines for the use of prescription benzodiazepines:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Benzodiazepines should only be used for short-term treatment for 2 to 4 weeks.</p>
+          </list-item>
+          <list-item>
+            <p>They should only be used for the treatment of anxiety and insomnia that is severe, disabling, or causing extreme distress.</p>
+          </list-item>
+          <list-item>
+            <p>The health record should clearly document the discussion between the healthcare provider and the patient, outlining the risks of physical and psychological dependence, which can occur at therapeutic doses.</p>
+          </list-item>
+          <list-item>
+            <p>Alternative nonpharmacologic and pharmacologic measures should be emphasized and maximized.</p>
+          </list-item>
+        </list>
+        <p>In cases where&#x000a0;patients have been using&#x000a0;benzodiazepines for more than 4 weeks, taking the medication on most days of the week, a slow taper is required to mitigate the risk of withdrawal.</p>
+        <p>
+<bold>Prescription Requirements</bold>
+</p>
+        <p>Clinicians and dispensing pharmacists must ensure that controlled substance prescriptions meet the federally mandated guidelines. As outlined in&#x000a0;the Controlled Substance Act information available&#x000a0;by the DEA's website, a controlled substance prescription&#x000a0;must be "issued for a legitimate medical purpose by a registered practitioner acting in the usual course of sound professional practice." Pharmacists must ensure the prescription contains all of the following:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Name and address of the patient</p>
+          </list-item>
+          <list-item>
+            <p>Date of issue</p>
+          </list-item>
+          <list-item>
+            <p>Name, practice address, and DEA registration number of the prescribing practitioner</p>
+          </list-item>
+          <list-item>
+            <p>Drug name, strength, dosage form, and specific directions of use</p>
+          </list-item>
+          <list-item>
+            <p>Quantity prescribed</p>
+          </list-item>
+          <list-item>
+            <p>Signature of the prescriber</p>
+          </list-item>
+        </list>
+        <p>Notably,&#x000a0;there are no federal time limits on when a Schedule II prescription must be filled. According to the US Code of Federal Regulations Title 21 Chapter II&#x000a0;Part 1306, calling in a&#x000a0;Schedule II medication may be done only in emergencies. If this&#x000a0;action is taken, the prescriber must follow up the phone prescription with a written and signed prescription sent to the pharmacy within 7 days.</p>
+        <p>The US Code of Federal Regulations specifies that "refilling a prescription for a controlled substance listed in Schedule II is prohibited." Patients receiving Schedule II substances for chronic therapy may be prescribed a 90-day supply with multiple scripts (each with&#x000a0;0 refills). The prescriptions should indicate the earliest date they can&#x000a0;be filled. Schedule III or IV substances may have up to 5 refills within 6 months, and Schedule V medications may be refilled as authorized by the prescriber.</p>
+      </sec>
+      <sec id="article-131263.s9" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <p>Developing a differential diagnosis for a patient's chronic pain is based on assessing the possible etiologies of the patient's pain. Identifying the disease process allows the clinician to develop an appropriate treatment plan. For example, a patient's chronic hip and leg pain could manifest osteoarthritis of the hip, lumbar radiculopathy, or sacroiliac joint dysfunction. These underlying pathologies may require very different management options.</p>
+        <p>Certain diagnoses may be more responsive to using an NSAID versus a neuropathic pain medication. The clinician must also consider the available&#x000a0;interventions to address a particular diagnosis, including surgical interventions, intra-articular steroid injections, epidural steroid injections, nerve blocks, or radiofrequency ablation procedures.<xref ref-type="bibr" rid="article-131263.r55">[55]</xref></p>
+        <p>The clinician should also consider the possibility of overlapping diagnoses in patients with chronic disease. For instance, individuals receiving opioid therapy for chronic pain may develop opioid-induced hyperalgesia in conjunction with their original presenting pain syndrome.<xref ref-type="bibr" rid="article-131263.r56">[56]</xref></p>
+        <p>Chronic pain is also frequently accompanied by major depression and sleep disorders.<xref ref-type="bibr" rid="article-131263.r57">[57]</xref> Acknowledging these coexisting conditions can&#x000a0;enable a clinician to&#x000a0;consider an appropriate pharmacologic option, such as&#x000a0;utilizing an SNRI or TCA to address neuropathic pain and depression symptoms. Furthermore, autoimmune diseases, such as systemic lupus erythematosus or psoriasis, fibromyalgia, and central pain syndromes, should be considered in&#x000a0;regions involving widespread chronic pain. Thus,&#x000a0;clinicians must remember that chronic pain can be a symptom of one or multiple diagnoses.</p>
+      </sec>
+      <sec id="article-131263.s10" sec-type="Prognosis">
+        <title>Prognosis</title>
+        <p>According to the CDC Morbidity and Mortality Report from 2016,&#x000a0;the escalated utilization&#x000a0;of opioid analgesics for pain management has markedly increased morbidity and mortality rates in the US. In 2016 alone, more than 63,600 deaths were due to drug overdose in the US. Among these fatalities, approximately 66% were directly linked to opioids,&#x000a0;while nearly&#x000a0;30% were due to concurrent use of benzodiazepines&#x000a0;with opioids.<xref ref-type="bibr" rid="article-131263.r58">[58]</xref>&#x000a0;In 2021, based on National Institute on Drug Abuse (NIDA) data, the number of overdose-related deaths had increased to over 106,000, with synthetic opioids involved in over 70,000 of those deaths, and of those, over 16,000 involved prescription opioids.[<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://nida.nih.gov/research-topics/trends-statistics/overdose-death-rates">NIDA Overdose Death Rates</ext-link>]&#x000a0;One of the significant predictors of future heroin use is prescription drug use and illicit oral opioid use.<xref ref-type="bibr" rid="article-131263.r59">[59]</xref></p>
+        <p>As a result of the upward trends during the past 2 decades, the FDA issued a mandatory labeling change in 2016&#x000a0;to help inform healthcare providers and patients of the risk of misuse, addiction, and overdose with opioid medications, especially when combined with benzodiazepines. In an effort to reverse the opioid epidemic, the FDA issued a warning to the public and healthcare professionals about the serious risk of respiratory depression, coma, and death when these agents are used in combination with each other or with alcohol.</p>
+        <p>In 2020, the FDA further addressed the concerns surrounding benzodiazepines by issuing a black box warning. This warning emphasized insufficient prescribing information and guidelines for these agents.&#x000a0;The warning outlined the&#x000a0;severe risks of physiological dependence associated with these agents, primarily when used for a long duration and at higher daily doses.<xref ref-type="bibr" rid="article-131263.r54">[54]</xref></p>
+      </sec>
+      <sec id="article-131263.s11" sec-type="Complications">
+        <title>Complications</title>
+        <p>Misuse, addiction, and overdose are the most dreaded complications&#x000a0;associated with prescribing controlled substances. Identifying individuals with signs of substance use disorder is emphasized by all regulatory and guiding entities to ensure they are diagnosed early and receive the treatment they need. According to SAMHSA, approximately 16.5% of individuals over 12 years have a diagnosis of SUD.[<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.samhsa.gov/newsroom/press-announcements/20230104/samhsa-announces-nsduh-results-detailing-mental-illness-substance-use-levels-2021">SAMHSA Announcement. Jan 2023</ext-link>]</p>
+        <p>According to the CDC, 106,699 overdose deaths in the US were reported in 2021.[<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.cdc.gov/nchs/products/databriefs/db457.htm">NCHS Data Brief No. 457, Dec 2022</ext-link>]&#x000a0;In an effort to expedite and expand treatment for these individuals, the US government passed a new bill regarding individuals with these disorders. This is known as the&#x000a0;Mainstreaming Addiction Treatment Act of 2021.</p>
+        <p>
+<bold>Mainstreaming Addiction Treatment (MAT) Act of 2021</bold>
+</p>
+        <p>The Mainstreaming Addiction Treatment (MAT) Act provision updates federal guidelines to expand the availability of evidence-based treatment to address the opioid epidemic. Previously, federal regulations required healthcare practitioners to apply for a separate waiver through the DEA to dispense buprenorphine and methadone for maintenance or detoxification treatment. The MAT Act empowers all healthcare providers with a standard controlled substance license to prescribe buprenorphine for opioid use disorder (OUD), just as they prescribe other essential medications. The MAT Act is intended to help destigmatize a standard of care for OUD and integrate substance use disorder treatment across healthcare settings.<xref ref-type="bibr" rid="article-131263.r60">[60]</xref>&#x000a0;</p>
+        <p>As of December 2022, the MAT Act has eliminated the DATA-Waiver (X-Waiver) program. All DEA-registered practitioners with Schedule III authority may now prescribe buprenorphine for OUD in their practice if applicable state law permits, and SAMHSA encourages them to do so. Prescribers registered as DATA-Waiver prescribers will receive a new DEA registration certificate reflecting this change; no action is needed from registrants.</p>
+        <p>There are no longer limits on the number of patients with OUD that a practitioner may treat with buprenorphine. Separate tracking of patients treated with buprenorphine or prescriptions written is no longer required.&#x000a0;</p>
+        <p>Pharmacy staff can now fill buprenorphine prescriptions using the prescribing authority's DEA number and&#x000a0;do not need a DATA 2000 waiver from the prescriber. However, depending on the pharmacy, the dispensing software may still require the X-Waiver information to proceed. Practitioners must still comply with applicable state limits regarding treating patients with OUD. SAMHSA has contact information for state opioid treatment authorities, which can be found here:&#x000a0;<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.samhsa.gov/medications-substance-use-disorders/sota">SAMHSA. State Opioid Treatment Authorities</ext-link>.</p>
+        <p>The bill also encourages healthcare practitioners' education regarding the treatment of OUD and encourages providers to integrate substance use disorder treatment into their practices.</p>
+        <p>
+<bold>Opiate Use Disorder Treatment</bold>
+</p>
+        <p>Treatment for OUD requires pharmacologic therapies.<xref ref-type="bibr" rid="article-131263.r30">[30]</xref>&#x000a0;OUD should be treated as a chronic condition and treated with medication for&#x000a0;opioid use disorder, known as&#x000a0;MOUD therapy. In patients with acute withdrawal, additional medication may alleviate withdrawal symptoms. These include&#x000a0;&#x003b1;2-agonists such as lofexidine and clonidine that can&#x000a0;diminish withdrawal symptoms.<xref ref-type="bibr" rid="article-131263.r30">[30]</xref>&#x000a0;The previous practice of "detoxification" and medically supervised withdrawal is no longer recommended as isolated therapy, as most patients treated in this manner relapse quickly. Moreover, they are subsequently at a much higher risk of overdose due to loss of tolerance.<xref ref-type="bibr" rid="article-131263.r30">[30]</xref></p>
+        <p>Long-term MOUD therapy is the standard of care for most patients with OUD.<xref ref-type="bibr" rid="article-131263.r30">[30]</xref>&#x000a0;Approved therapies for this treatment include&#x000a0;methadone, buprenorphine, and naltrexone. Methadone up to 100 mg/day is associated with higher&#x000a0;retention in treatment, less heroin use during treatment, and fewer withdrawal symptoms. Beyond this dose, the evidence supporting this therapy is less convincing.<xref ref-type="bibr" rid="article-131263.r30">[30]</xref>&#x000a0;Another&#x000a0;benefit of methadone over buprenorphine is that it does not have a ceiling effect. However, high doses of methadone can&#x000a0;pose a risk of overdose if used beyond an individual's tolerance or&#x000a0;when&#x000a0;combined with alcohol, sedatives, or heroin. The recommended approach for methadone as MOUD therapy is to start at a low dose and titrate up.</p>
+        <p>Buprenorphine&#x000a0;carries a lower risk of overdose than methadone&#x000a0;due to its partial agonist properties.<xref ref-type="bibr" rid="article-131263.r30">[30]</xref>&#x000a0;Buprenorphine should be combined with naloxone to discourage its abuse as an intravenous injection.&#x000a0;Naltrexone, a mu-opioid receptor antagonist in an extended-release injectable formulation, is&#x000a0;an alternative option for patients who have completed medically supervised withdrawal therapy.<xref ref-type="bibr" rid="article-131263.r30">[30]</xref></p>
+        <p>Transmucosal buprenorphine formulations combined with naloxone are the most common mode of MOUD therapy. Before starting buprenorphine induction, the patient must be abstinent from opioid use. The timing of induction is determined&#x000a0;based on the patient's symptoms, which must be equivalent to a mild withdrawal state to&#x000a0;initiate&#x000a0;therapy. The&#x000a0;Clinical Opiate Withdrawal Scale (COWS) should be used to assess these symptoms, with a score of 12 or more used as objective evidence of mild to moderate withdrawal. At this stage, induction can begin, which may be done in the office or home setting.<xref ref-type="bibr" rid="article-131263.r61">[61]</xref></p>
+        <p>Buprenorphine is used to treat the withdrawal, and if tolerated, the patient may receive a prescription for the agent to self-administer at home.<xref ref-type="bibr" rid="article-131263.r30">[30]</xref><xref ref-type="bibr" rid="article-131263.r62">[62]</xref>&#x000a0;The recommendation is to start at the lowest dose. However, a higher dose may be needed if the patient continues to experience withdrawal symptoms. According to the SAMHSA, the maximum recommended dose for the first day is 8 mg of buprenorphine. However, exceptions may be necessary for patients using high-potency opioids, such as fentanyl, at high doses. On day 2 of induction, a similar approach should be followed, initially giving the same dose as the first day and then adding 4 mg buprenorphine doses if the patient does not have adequate control of their withdrawal symptoms. The recommended maximum dose for day 2, as advised by SAMHSA, is 16 mg.&#x000a0;Most patients stabilize at doses between 8 and 16 mg, which is then continued as maintenance therapy.<xref ref-type="bibr" rid="article-131263.r63">[63]</xref>&#x000a0;The induction dose should not be escalated further for several weeks.&#x000a0;</p>
+        <p>The typical initial dose of methadone is 20 to 30 mg in a single dose, and the maximum initial dose recommended by regulatory guidelines is 30 mg.<xref ref-type="bibr" rid="article-131263.r64">[64]</xref>&#x000a0;Methadone should be titrated slowly, typically in 5 to 10 mg increments every few days over several weeks. A typical dose is between 60 to 80 mg once daily. If titration beyond 80 mg is required, it should not be any faster than 10 mg per week.&#x000a0;</p>
+        <p>
+<bold>Benzodiazepine Use Disorder Treatment</bold>
+</p>
+        <p>Benzodiazepine use disorder is treated with a benzodiazepine taper, preferably using a long-acting formulation such as diazepam. The taper should be slow and needs individual adjustment based on the type of benzodiazepine used and the amount used daily. Nonpharmacologic therapy is essential in treating this disease to prevent relapse after completion of the taper. Ideally,&#x000a0;cognitive-behavioral therapy (CBT) should be initiated while the patient is undergoing a medically supervised taper of benzodiazepines as it has shown higher rates of benzodiazepine discontinuation (short term) compared with taper alone.<xref ref-type="bibr" rid="article-131263.r65">[65]</xref>&#x000a0;No other effective pharmacologic therapies are available to prevent relapse after successful treatment&#x000a0;with&#x000a0;a medically supervised benzodiazepine taper.&#x000a0;</p>
+      </sec>
+      <sec id="article-131263.s12" sec-type="Deterrence and Patient Education">
+        <title>Deterrence and Patient Education</title>
+        <p>
+<bold>Involvement of Patient and Family</bold>
+</p>
+        <p>The patient and family can assist in informed decision-making regarding continuing or discontinuing controlled substances and opioid therapy. For example, family members often know when a patient is depressed and less functional. If the patient agrees or does not object to discussing information with their family members, clinicians may ask the family members using some of the following probing questions:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Is the patient's day focused on taking opioid pain medication?&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>What is the frequency of pain medication dosing?</p>
+          </list-item>
+          <list-item>
+            <p>Does the patient have any other alcohol or drug use problems?</p>
+          </list-item>
+          <list-item>
+            <p>Does the patient avoid activity?</p>
+          </list-item>
+          <list-item>
+            <p>Is the patient depressed?</p>
+          </list-item>
+          <list-item>
+            <p>Is the patient able to function in daily life?<bold>&#x000a0;</bold></p>
+          </list-item>
+        </list>
+        <p>
+<bold>Education for&#x000a0;Patients Taking Controlled Substances and Opioids</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Avoid driving or operating power equipment/heavy machinery</p>
+          </list-item>
+          <list-item>
+            <p>Avoid stopping these agents&#x000a0;abruptly</p>
+          </list-item>
+          <list-item>
+            <p>Avoid taking other drugs that depress the respiratory system, such as alcohol, non-prescribed sedatives, and anxiolytics</p>
+          </list-item>
+          <list-item>
+            <p>Follow up with the prescriber if medication is not adequate for relieving symptoms</p>
+          </list-item>
+          <list-item>
+            <p>Dispose of extra or remaining opioids appropriately</p>
+          </list-item>
+          <list-item>
+            <p>Do not share opioids with friends or family</p>
+          </list-item>
+          <list-item>
+            <p>Follow the prescribed dosing regimen</p>
+          </list-item>
+          <list-item>
+            <p>Provide product-specific information</p>
+          </list-item>
+          <list-item>
+            <p>Set appropriate therapeutic expectations</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Interprofessional Approach To Preventing Opioid Abuse</bold>
+</p>
+        <p>Clinicians, pharmacists, and allied health professionals must collaborate as an interprofessional team to provide safe and appropriate controlled substance prescriptions and administration. While clinicians initially evaluate and prescribe, pharmacists play a crucial role by evaluating the appropriateness and legitimacy of prescriptions received. Failure to assess possible abuse, misuse, or diversion results in adverse outcomes for the patient and the entire community.<xref ref-type="bibr" rid="article-131263.r66">[66]</xref></p>
+      </sec>
+      <sec id="article-131263.s13" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>According to the National Institute on Drug Abuse (NIDA) US Department of Health and Human Services Report from 2020, validated screening tools for "nonmedical use of prescription drugs" should be incorporated into routine practice to help identify patients at risk for misuse, addiction, and overdose. Clinicians play a crucial role in determining at-risk individuals before they develop deep physiologic and psychologic dependence on these drugs. Moreover, prescribers must join the federal initiative to incorporate responsible prescribing of controlled substances, particularly opioids, to help curb the overdose crisis.</p>
+        <p>Following these guidelines does not imply ending the use of&#x000a0;these drugs&#x000a0;in clinical practice. Indeed, some patients benefit most keenly from prescription&#x000a0;stimulants, sedatives, and opioids. Instead, the federal government and current practice standards ask clinicians to diligently balance the legitimate medical needs of patients with the potential risk of misuse&#x000a0;of these drugs.</p>
+        <p>Clinicians must&#x000a0;exercise vigilance regarding the potential misuse of medications and periodically discuss the risk of addiction and overdose with patients prescribed these agents. Whenever a controlled substance is prescribed, a provider-patient agreement detailing the expected treatment plan, regulation, follow-ups, urine drug testing, the quantity of medication, and the expected duration of treatment should be signed and thoroughly discussed.&#x000a0;</p>
+        <p>Nurses assist the clinical team by emphasizing the harms discussed by the provider and further educating patients regarding the potential risk of misuse of prescription drugs.&#x000a0;Pharmacists play a pivotal role in helping patients understand the prescription instructions and ensuring that the patients are not misusing these agents. Pharmacists are often first to recognize problematic patterns in prescription drug&#x000a0;use, such as consistent early refills and "doc shopping. They can help alert the prescribers about possible adverse effects of therapy.</p>
+        <p>A well-integrated interprofessional team of physicians, advanced practice practitioners, nurses, and pharmacists can significantly decrease the prevalence of prescription drug misuse in&#x000a0;the US and help improve clinical outcomes for countless individuals.</p>
+      </sec>
+      <sec id="article-131263.s14">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=131263&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=131263">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/addiction/responsible-controlled-substance-and-opioid-prescribing/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=131263">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/131263/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=131263">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-131263.s15">
+        <title>References</title>
+        <ref id="article-131263.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yaster</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>McNaull</surname>
+                <given-names>PP</given-names>
+              </name>
+              <name>
+                <surname>Davis</surname>
+                <given-names>PJ</given-names>
+              </name>
+            </person-group>
+            <article-title>The opioid epidemic in pediatrics: a 2020 update.</article-title>
+            <source>Curr Opin Anaesthesiol</source>
+            <year>2020</year>
+            <month>Jun</month>
+            <volume>33</volume>
+            <issue>3</issue>
+            <fpage>327</fpage>
+            <page-range>327-334</page-range>
+            <pub-id pub-id-type="pmid">32371640</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Nahin</surname>
+                <given-names>RL</given-names>
+              </name>
+            </person-group>
+            <article-title>Estimates of pain prevalence and severity in adults: United States, 2012.</article-title>
+            <source>J Pain</source>
+            <year>2015</year>
+            <month>Aug</month>
+            <volume>16</volume>
+            <issue>8</issue>
+            <fpage>769</fpage>
+            <page-range>769-80</page-range>
+            <pub-id pub-id-type="pmid">26028573</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Alford</surname>
+                <given-names>DP</given-names>
+              </name>
+              <name>
+                <surname>Krebs</surname>
+                <given-names>EE</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>IA</given-names>
+              </name>
+              <name>
+                <surname>Nicolaidis</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Bair</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Liebschutz</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Update in pain medicine.</article-title>
+            <source>J Gen Intern Med</source>
+            <year>2010</year>
+            <month>Nov</month>
+            <volume>25</volume>
+            <issue>11</issue>
+            <fpage>1222</fpage>
+            <page-range>1222-6</page-range>
+            <pub-id pub-id-type="pmid">20632120</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pizzo</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Clark</surname>
+                <given-names>NM</given-names>
+              </name>
+            </person-group>
+            <article-title>Alleviating suffering 101--pain relief in the United States.</article-title>
+            <source>N Engl J Med</source>
+            <year>2012</year>
+            <month>Jan</month>
+            <day>19</day>
+            <volume>366</volume>
+            <issue>3</issue>
+            <fpage>197</fpage>
+            <page-range>197-9</page-range>
+            <pub-id pub-id-type="pmid">22256802</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gharibo</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Drewes</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Breve</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Rekatsina</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Narvaez Tamayo</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Varrassi</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Paladini</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Iatrogenic Side Effects of Pain Therapies.</article-title>
+            <source>Cureus</source>
+            <year>2023</year>
+            <month>Sep</month>
+            <volume>15</volume>
+            <issue>9</issue>
+            <fpage>e44583</fpage>
+            <pub-id pub-id-type="pmid">37790027</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Klimas</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>McCracken</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Robertson</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Cullen</surname>
+                <given-names>W</given-names>
+              </name>
+            </person-group>
+            <article-title>Towards a framework for implementing physician education in substance use disorders.</article-title>
+            <source>Drug Alcohol Depend Rep</source>
+            <year>2021</year>
+            <month>Dec</month>
+            <volume>1</volume>
+            <fpage>100001</fpage>
+            <pub-id pub-id-type="pmid">36843913</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hasin</surname>
+                <given-names>DS</given-names>
+              </name>
+              <name>
+                <surname>O'Brien</surname>
+                <given-names>CP</given-names>
+              </name>
+              <name>
+                <surname>Auriacombe</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Borges</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Bucholz</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Budney</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Compton</surname>
+                <given-names>WM</given-names>
+              </name>
+              <name>
+                <surname>Crowley</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Ling</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Petry</surname>
+                <given-names>NM</given-names>
+              </name>
+              <name>
+                <surname>Schuckit</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Grant</surname>
+                <given-names>BF</given-names>
+              </name>
+            </person-group>
+            <article-title>DSM-5 criteria for substance use disorders: recommendations and rationale.</article-title>
+            <source>Am J Psychiatry</source>
+            <year>2013</year>
+            <month>Aug</month>
+            <volume>170</volume>
+            <issue>8</issue>
+            <fpage>834</fpage>
+            <page-range>834-51</page-range>
+            <pub-id pub-id-type="pmid">23903334</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Singier</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Noize</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Berda&#x000ef;</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Daveluy</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Arnaud</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Molimard</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>B&#x000e9;gaud</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Salvo</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>Medicine misuse: A systematic review and proposed hierarchical terminology.</article-title>
+            <source>Br J Clin Pharmacol</source>
+            <year>2021</year>
+            <month>Apr</month>
+            <volume>87</volume>
+            <issue>4</issue>
+            <fpage>1695</fpage>
+            <page-range>1695-1704</page-range>
+            <pub-id pub-id-type="pmid">33295072</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Alenezi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Yahyouche</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Paudyal</surname>
+                <given-names>V</given-names>
+              </name>
+            </person-group>
+            <article-title>Interventions to optimize prescribed medicines and reduce their misuse in chronic non-malignant pain: a systematic review.</article-title>
+            <source>Eur J Clin Pharmacol</source>
+            <year>2021</year>
+            <month>Apr</month>
+            <volume>77</volume>
+            <issue>4</issue>
+            <fpage>467</fpage>
+            <page-range>467-490</page-range>
+            <pub-id pub-id-type="pmid">33123784</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Karmali</surname>
+                <given-names>RN</given-names>
+              </name>
+              <name>
+                <surname>Bush</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Raman</surname>
+                <given-names>SR</given-names>
+              </name>
+              <name>
+                <surname>Campbell</surname>
+                <given-names>CI</given-names>
+              </name>
+              <name>
+                <surname>Skinner</surname>
+                <given-names>AC</given-names>
+              </name>
+              <name>
+                <surname>Roberts</surname>
+                <given-names>AW</given-names>
+              </name>
+            </person-group>
+            <article-title>Long-term opioid therapy definitions and predictors: A systematic review.</article-title>
+            <source>Pharmacoepidemiol Drug Saf</source>
+            <year>2020</year>
+            <month>Mar</month>
+            <volume>29</volume>
+            <issue>3</issue>
+            <fpage>252</fpage>
+            <page-range>252-269</page-range>
+            <pub-id pub-id-type="pmid">31851773</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Castle</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Aubert</surname>
+                <given-names>RE</given-names>
+              </name>
+              <name>
+                <surname>Verbrugge</surname>
+                <given-names>RR</given-names>
+              </name>
+              <name>
+                <surname>Khalid</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Epstein</surname>
+                <given-names>RS</given-names>
+              </name>
+            </person-group>
+            <article-title>Trends in medication treatment for ADHD.</article-title>
+            <source>J Atten Disord</source>
+            <year>2007</year>
+            <month>May</month>
+            <volume>10</volume>
+            <issue>4</issue>
+            <fpage>335</fpage>
+            <page-range>335-42</page-range>
+            <pub-id pub-id-type="pmid">17449832</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kuehn</surname>
+                <given-names>BM</given-names>
+              </name>
+            </person-group>
+            <article-title>Opioid prescriptions soar: increase in legitimate use as well as abuse.</article-title>
+            <source>JAMA</source>
+            <year>2007</year>
+            <month>Jan</month>
+            <day>17</day>
+            <volume>297</volume>
+            <issue>3</issue>
+            <fpage>249</fpage>
+            <page-range>249-51</page-range>
+            <pub-id pub-id-type="pmid">17227967</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bachhuber</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Hennessy</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Cunningham</surname>
+                <given-names>CO</given-names>
+              </name>
+              <name>
+                <surname>Starrels</surname>
+                <given-names>JL</given-names>
+              </name>
+            </person-group>
+            <article-title>Increasing Benzodiazepine Prescriptions and Overdose Mortality in the United States, 1996-2013.</article-title>
+            <source>Am J Public Health</source>
+            <year>2016</year>
+            <month>Apr</month>
+            <volume>106</volume>
+            <issue>4</issue>
+            <fpage>686</fpage>
+            <page-range>686-8</page-range>
+            <pub-id pub-id-type="pmid">26890165</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Riva</surname>
+                <given-names>JJ</given-names>
+              </name>
+              <name>
+                <surname>Noor</surname>
+                <given-names>ST</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Ashoorion</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Foroutan</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Sadeghirad</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Couban</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Busse</surname>
+                <given-names>JW</given-names>
+              </name>
+            </person-group>
+            <article-title>Predictors of Prolonged Opioid Use After Initial Prescription for Acute Musculoskeletal Injuries in Adults : A Systematic Review and Meta-analysis of Observational Studies.</article-title>
+            <source>Ann Intern Med</source>
+            <year>2020</year>
+            <month>Nov</month>
+            <day>03</day>
+            <volume>173</volume>
+            <issue>9</issue>
+            <fpage>721</fpage>
+            <page-range>721-729</page-range>
+            <pub-id pub-id-type="pmid">32805130</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Liebschutz</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Saitz</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Weiss</surname>
+                <given-names>RD</given-names>
+              </name>
+              <name>
+                <surname>Averbuch</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Schwartz</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Meltzer</surname>
+                <given-names>EC</given-names>
+              </name>
+              <name>
+                <surname>Claggett-Borne</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Cabral</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Samet</surname>
+                <given-names>JH</given-names>
+              </name>
+            </person-group>
+            <article-title>Clinical factors associated with prescription drug use disorder in urban primary care patients with chronic pain.</article-title>
+            <source>J Pain</source>
+            <year>2010</year>
+            <month>Nov</month>
+            <volume>11</volume>
+            <issue>11</issue>
+            <fpage>1047</fpage>
+            <page-range>1047-55</page-range>
+            <pub-id pub-id-type="pmid">20338815</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Becker</surname>
+                <given-names>WC</given-names>
+              </name>
+              <name>
+                <surname>Fiellin</surname>
+                <given-names>DA</given-names>
+              </name>
+              <name>
+                <surname>Desai</surname>
+                <given-names>RA</given-names>
+              </name>
+            </person-group>
+            <article-title>Non-medical use, abuse and dependence on sedatives and tranquilizers among U.S. adults: psychiatric and socio-demographic correlates.</article-title>
+            <source>Drug Alcohol Depend</source>
+            <year>2007</year>
+            <month>Oct</month>
+            <day>08</day>
+            <volume>90</volume>
+            <issue>2-3</issue>
+            <fpage>280</fpage>
+            <page-range>280-7</page-range>
+            <pub-id pub-id-type="pmid">17544227</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>LaRowe</surname>
+                <given-names>LR</given-names>
+              </name>
+              <name>
+                <surname>Powers</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Garey</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Rogers</surname>
+                <given-names>AH</given-names>
+              </name>
+              <name>
+                <surname>Zvolensky</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Ditre</surname>
+                <given-names>JW</given-names>
+              </name>
+            </person-group>
+            <article-title>Pain-related anxiety, sex, and co-use of alcohol and prescription opioids among adults with chronic low back pain.</article-title>
+            <source>Drug Alcohol Depend</source>
+            <year>2020</year>
+            <month>Sep</month>
+            <day>01</day>
+            <volume>214</volume>
+            <fpage>108171</fpage>
+            <pub-id pub-id-type="pmid">32679522</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kaye</surname>
+                <given-names>AD</given-names>
+              </name>
+              <name>
+                <surname>Jones</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Kaye</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Ripoll</surname>
+                <given-names>JG</given-names>
+              </name>
+              <name>
+                <surname>Galan</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Beakley</surname>
+                <given-names>BD</given-names>
+              </name>
+              <name>
+                <surname>Calixto</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Bolden</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Urman</surname>
+                <given-names>RD</given-names>
+              </name>
+              <name>
+                <surname>Manchikanti</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>Prescription Opioid Abuse in Chronic Pain: An Updated Review of Opioid Abuse Predictors and Strategies to Curb Opioid Abuse: Part 1.</article-title>
+            <source>Pain Physician</source>
+            <year>2017</year>
+            <month>Feb</month>
+            <volume>20</volume>
+            <issue>2S</issue>
+            <fpage>S93</fpage>
+            <page-range>S93-S109</page-range>
+            <pub-id pub-id-type="pmid">28226333</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Becker</surname>
+                <given-names>WC</given-names>
+              </name>
+              <name>
+                <surname>Frank</surname>
+                <given-names>JW</given-names>
+              </name>
+              <name>
+                <surname>Edmond</surname>
+                <given-names>SN</given-names>
+              </name>
+              <name>
+                <surname>Starrels</surname>
+                <given-names>JL</given-names>
+              </name>
+            </person-group>
+            <article-title>When harms outweigh benefits of long-term opioid therapy for pain: Need for a new diagnostic entity, research and improved treatments.</article-title>
+            <source>Addiction</source>
+            <year>2024</year>
+            <month>Jan</month>
+            <volume>119</volume>
+            <issue>1</issue>
+            <fpage>4</fpage>
+            <page-range>4-5</page-range>
+            <pub-id pub-id-type="pmid">37766414</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Crunelle</surname>
+                <given-names>CL</given-names>
+              </name>
+              <name>
+                <surname>van den Brink</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Moggi</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Konstenius</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Franck</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Levin</surname>
+                <given-names>FR</given-names>
+              </name>
+              <name>
+                <surname>van de Glind</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Demetrovics</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Coetzee</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Luderer</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Schellekens</surname>
+                <given-names>A</given-names>
+              </name>
+              <collab>ICASA&#x000a0;consensus&#x000a0;group</collab>
+              <name>
+                <surname>Matthys</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>International Consensus Statement on Screening, Diagnosis and Treatment of Substance Use Disorder Patients with Comorbid Attention Deficit/Hyperactivity Disorder.</article-title>
+            <source>Eur Addict Res</source>
+            <year>2018</year>
+            <volume>24</volume>
+            <issue>1</issue>
+            <fpage>43</fpage>
+            <page-range>43-51</page-range>
+            <pub-id pub-id-type="pmid">29510390</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Vowles</surname>
+                <given-names>KE</given-names>
+              </name>
+              <name>
+                <surname>McEntee</surname>
+                <given-names>ML</given-names>
+              </name>
+              <name>
+                <surname>Julnes</surname>
+                <given-names>PS</given-names>
+              </name>
+              <name>
+                <surname>Frohe</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Ney</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>van der Goes</surname>
+                <given-names>DN</given-names>
+              </name>
+            </person-group>
+            <article-title>Rates of opioid misuse, abuse, and addiction in chronic pain: a systematic review and data synthesis.</article-title>
+            <source>Pain</source>
+            <year>2015</year>
+            <month>Apr</month>
+            <volume>156</volume>
+            <issue>4</issue>
+            <fpage>569</fpage>
+            <page-range>569-576</page-range>
+            <pub-id pub-id-type="pmid">25785523</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Scher</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Meador</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Van Cleave</surname>
+                <given-names>JH</given-names>
+              </name>
+              <name>
+                <surname>Reid</surname>
+                <given-names>MC</given-names>
+              </name>
+            </person-group>
+            <article-title>Moving Beyond Pain as the Fifth Vital Sign and Patient Satisfaction Scores to Improve Pain Care in the 21st Century.</article-title>
+            <source>Pain Manag Nurs</source>
+            <year>2018</year>
+            <month>Apr</month>
+            <volume>19</volume>
+            <issue>2</issue>
+            <fpage>125</fpage>
+            <page-range>125-129</page-range>
+            <pub-id pub-id-type="pmid">29249620</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Van Zee</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>The promotion and marketing of oxycontin: commercial triumph, public health tragedy.</article-title>
+            <source>Am J Public Health</source>
+            <year>2009</year>
+            <month>Feb</month>
+            <volume>99</volume>
+            <issue>2</issue>
+            <fpage>221</fpage>
+            <page-range>221-7</page-range>
+            <pub-id pub-id-type="pmid">18799767</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cicero</surname>
+                <given-names>TJ</given-names>
+              </name>
+              <name>
+                <surname>Inciardi</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Mu&#x000f1;oz</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Trends in abuse of Oxycontin and other opioid analgesics in the United States: 2002-2004.</article-title>
+            <source>J Pain</source>
+            <year>2005</year>
+            <month>Oct</month>
+            <volume>6</volume>
+            <issue>10</issue>
+            <fpage>662</fpage>
+            <page-range>662-72</page-range>
+            <pub-id pub-id-type="pmid">16202959</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Manchikanti</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Singh</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Therapeutic opioids: a ten-year perspective on the complexities and complications of the escalating use, abuse, and nonmedical use of opioids.</article-title>
+            <source>Pain Physician</source>
+            <year>2008</year>
+            <month>Mar</month>
+            <volume>11</volume>
+            <issue>2 Suppl</issue>
+            <fpage>S63</fpage>
+            <page-range>S63-88</page-range>
+            <pub-id pub-id-type="pmid">18443641</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r26">
+          <label>26</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wang</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Christo</surname>
+                <given-names>PJ</given-names>
+              </name>
+            </person-group>
+            <article-title>The influence of prescription monitoring programs on chronic pain management.</article-title>
+            <source>Pain Physician</source>
+            <year>2009</year>
+            <season>May-Jun</season>
+            <volume>12</volume>
+            <issue>3</issue>
+            <fpage>507</fpage>
+            <page-range>507-15</page-range>
+            <pub-id pub-id-type="pmid">19461820</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r27">
+          <label>27</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Kopitnik</surname>
+                <given-names>NL</given-names>
+              </name>
+              <name>
+                <surname>Huecker</surname>
+                <given-names>MR</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Opioid Prescribing</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>7</month>
+            <day>21</day>
+            <pub-id pub-id-type="pmid">31869184</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r28">
+          <label>28</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Schiller</surname>
+                <given-names>EY</given-names>
+              </name>
+              <name>
+                <surname>Goyal</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Mechanic</surname>
+                <given-names>OJ</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Opioid Overdose</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>7</month>
+            <day>21</day>
+            <pub-id pub-id-type="pmid">29262202</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r29">
+          <label>29</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Volkow</surname>
+                <given-names>ND</given-names>
+              </name>
+              <name>
+                <surname>Michaelides</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Baler</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>The Neuroscience of Drug Reward and Addiction.</article-title>
+            <source>Physiol Rev</source>
+            <year>2019</year>
+            <month>Oct</month>
+            <day>01</day>
+            <volume>99</volume>
+            <issue>4</issue>
+            <fpage>2115</fpage>
+            <page-range>2115-2140</page-range>
+            <pub-id pub-id-type="pmid">31507244</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r30">
+          <label>30</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Volkow</surname>
+                <given-names>ND</given-names>
+              </name>
+              <name>
+                <surname>Blanco</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>The changing opioid crisis: development, challenges and opportunities.</article-title>
+            <source>Mol Psychiatry</source>
+            <year>2021</year>
+            <month>Jan</month>
+            <volume>26</volume>
+            <issue>1</issue>
+            <fpage>218</fpage>
+            <page-range>218-233</page-range>
+            <pub-id pub-id-type="pmid">32020048</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r31">
+          <label>31</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lynskey</surname>
+                <given-names>MT</given-names>
+              </name>
+              <name>
+                <surname>Agrawal</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Heath</surname>
+                <given-names>AC</given-names>
+              </name>
+            </person-group>
+            <article-title>Genetically informative research on adolescent substance use: methods, findings, and challenges.</article-title>
+            <source>J Am Acad Child Adolesc Psychiatry</source>
+            <year>2010</year>
+            <month>Dec</month>
+            <volume>49</volume>
+            <issue>12</issue>
+            <fpage>1202</fpage>
+            <page-range>1202-14</page-range>
+            <pub-id pub-id-type="pmid">21093770</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r32">
+          <label>32</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Swedo</surname>
+                <given-names>EA</given-names>
+              </name>
+              <name>
+                <surname>Sumner</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>de Fijter</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Werhan</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Norris</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Beauregard</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Montgomery</surname>
+                <given-names>MP</given-names>
+              </name>
+              <name>
+                <surname>Rose</surname>
+                <given-names>EB</given-names>
+              </name>
+              <name>
+                <surname>Hillis</surname>
+                <given-names>SD</given-names>
+              </name>
+              <name>
+                <surname>Massetti</surname>
+                <given-names>GM</given-names>
+              </name>
+            </person-group>
+            <article-title>Adolescent Opioid Misuse Attributable to Adverse Childhood Experiences.</article-title>
+            <source>J Pediatr</source>
+            <year>2020</year>
+            <month>Sep</month>
+            <volume>224</volume>
+            <fpage>102</fpage>
+            <page-range>102-109.e3</page-range>
+            <pub-id pub-id-type="pmid">32437756</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r33">
+          <label>33</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cadet</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Jayanthi</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Epigenetics of addiction.</article-title>
+            <source>Neurochem Int</source>
+            <year>2021</year>
+            <month>Jul</month>
+            <volume>147</volume>
+            <fpage>105069</fpage>
+            <pub-id pub-id-type="pmid">33992741</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r34">
+          <label>34</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <collab>US Preventive Services Task Force</collab>
+              <name>
+                <surname>Curry</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Krist</surname>
+                <given-names>AH</given-names>
+              </name>
+              <name>
+                <surname>Owens</surname>
+                <given-names>DK</given-names>
+              </name>
+              <name>
+                <surname>Barry</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Caughey</surname>
+                <given-names>AB</given-names>
+              </name>
+              <name>
+                <surname>Davidson</surname>
+                <given-names>KW</given-names>
+              </name>
+              <name>
+                <surname>Doubeni</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>Epling</surname>
+                <given-names>JW</given-names>
+              </name>
+              <name>
+                <surname>Kemper</surname>
+                <given-names>AR</given-names>
+              </name>
+              <name>
+                <surname>Kubik</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Landefeld</surname>
+                <given-names>CS</given-names>
+              </name>
+              <name>
+                <surname>Mangione</surname>
+                <given-names>CM</given-names>
+              </name>
+              <name>
+                <surname>Silverstein</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Simon</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Tseng</surname>
+                <given-names>CW</given-names>
+              </name>
+              <name>
+                <surname>Wong</surname>
+                <given-names>JB</given-names>
+              </name>
+            </person-group>
+            <article-title>Screening and Behavioral Counseling Interventions to Reduce Unhealthy Alcohol Use in Adolescents and Adults: US Preventive Services Task Force Recommendation Statement.</article-title>
+            <source>JAMA</source>
+            <year>2018</year>
+            <month>Nov</month>
+            <day>13</day>
+            <volume>320</volume>
+            <issue>18</issue>
+            <fpage>1899</fpage>
+            <page-range>1899-1909</page-range>
+            <pub-id pub-id-type="pmid">30422199</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r35">
+          <label>35</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Patnode</surname>
+                <given-names>CD</given-names>
+              </name>
+              <name>
+                <surname>Perdue</surname>
+                <given-names>LA</given-names>
+              </name>
+              <name>
+                <surname>Rushkin</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Dana</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Blazina</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Bougatsos</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Grusing</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>O'Connor</surname>
+                <given-names>EA</given-names>
+              </name>
+              <name>
+                <surname>Fu</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Chou</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Screening for Unhealthy Drug Use: Updated Evidence Report and Systematic Review for the US Preventive Services Task Force.</article-title>
+            <source>JAMA</source>
+            <year>2020</year>
+            <month>Jun</month>
+            <day>09</day>
+            <volume>323</volume>
+            <issue>22</issue>
+            <fpage>2310</fpage>
+            <page-range>2310-2328</page-range>
+            <pub-id pub-id-type="pmid">32515820</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r36">
+          <label>36</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Azadfard</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Huecker</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Leaming</surname>
+                <given-names>JM</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Opioid Addiction (Archived)</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>7</month>
+            <day>21</day>
+            <pub-id pub-id-type="pmid">28846246</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r37">
+          <label>37</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Brott</surname>
+                <given-names>NR</given-names>
+              </name>
+              <name>
+                <surname>Peterson</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Cascella</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Opioid, Risk Tool</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2022</year>
+            <month>11</month>
+            <day>25</day>
+            <pub-id pub-id-type="pmid">31985940</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r38">
+          <label>38</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Smith</surname>
+                <given-names>PC</given-names>
+              </name>
+              <name>
+                <surname>Schmidt</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Allensworth-Davies</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Saitz</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>A single-question screening test for drug use in primary care.</article-title>
+            <source>Arch Intern Med</source>
+            <year>2010</year>
+            <month>Jul</month>
+            <day>12</day>
+            <volume>170</volume>
+            <issue>13</issue>
+            <fpage>1155</fpage>
+            <page-range>1155-60</page-range>
+            <pub-id pub-id-type="pmid">20625025</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r39">
+          <label>39</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shirinbayan</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Salavati</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Soleimani</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Saeedi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Asghari-Jafarabadi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Hemmati-Garakani</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Vameghi</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>The Psychometric Properties of the Drug Abuse Screening Test.</article-title>
+            <source>Addict Health</source>
+            <year>2020</year>
+            <month>Jan</month>
+            <volume>12</volume>
+            <issue>1</issue>
+            <fpage>25</fpage>
+            <page-range>25-33</page-range>
+            <pub-id pub-id-type="pmid">32582412</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r40">
+          <label>40</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Humeniuk</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Ali</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Babor</surname>
+                <given-names>TF</given-names>
+              </name>
+              <name>
+                <surname>Farrell</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Formigoni</surname>
+                <given-names>ML</given-names>
+              </name>
+              <name>
+                <surname>Jittiwutikarn</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>de Lacerda</surname>
+                <given-names>RB</given-names>
+              </name>
+              <name>
+                <surname>Ling</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Marsden</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Monteiro</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Nhiwatiwa</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Pal</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Poznyak</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Simon</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Validation of the Alcohol, Smoking And Substance Involvement Screening Test (ASSIST).</article-title>
+            <source>Addiction</source>
+            <year>2008</year>
+            <month>Jun</month>
+            <volume>103</volume>
+            <issue>6</issue>
+            <fpage>1039</fpage>
+            <page-range>1039-47</page-range>
+            <pub-id pub-id-type="pmid">18373724</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r41">
+          <label>41</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Webster</surname>
+                <given-names>LR</given-names>
+              </name>
+            </person-group>
+            <article-title>Risk Factors for Opioid-Use Disorder and Overdose.</article-title>
+            <source>Anesth Analg</source>
+            <year>2017</year>
+            <month>Nov</month>
+            <volume>125</volume>
+            <issue>5</issue>
+            <fpage>1741</fpage>
+            <page-range>1741-1748</page-range>
+            <pub-id pub-id-type="pmid">29049118</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r42">
+          <label>42</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Starrels</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Becker</surname>
+                <given-names>WC</given-names>
+              </name>
+              <name>
+                <surname>Alford</surname>
+                <given-names>DP</given-names>
+              </name>
+              <name>
+                <surname>Kapoor</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Williams</surname>
+                <given-names>AR</given-names>
+              </name>
+              <name>
+                <surname>Turner</surname>
+                <given-names>BJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Systematic review: treatment agreements and urine drug testing to reduce opioid misuse in patients with chronic pain.</article-title>
+            <source>Ann Intern Med</source>
+            <year>2010</year>
+            <month>Jun</month>
+            <day>01</day>
+            <volume>152</volume>
+            <issue>11</issue>
+            <fpage>712</fpage>
+            <page-range>712-20</page-range>
+            <pub-id pub-id-type="pmid">20513829</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r43">
+          <label>43</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Johnson-Ferguson</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Shanahan</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Bechtiger</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Steinhoff</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Zimmermann</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Baumgartner</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Binz</surname>
+                <given-names>TM</given-names>
+              </name>
+              <name>
+                <surname>Eisner</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Ribeaud</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Quednow</surname>
+                <given-names>BB</given-names>
+              </name>
+            </person-group>
+            <article-title>Associations of psychoactive substances and steroid hormones in hair: Findings relevant to stress research from a large cohort of young adults.</article-title>
+            <source>Psychoneuroendocrinology</source>
+            <year>2023</year>
+            <month>Nov</month>
+            <volume>157</volume>
+            <fpage>106369</fpage>
+            <pub-id pub-id-type="pmid">37639800</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r44">
+          <label>44</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gallardo</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Queiroz</surname>
+                <given-names>JA</given-names>
+              </name>
+            </person-group>
+            <article-title>The role of alternative specimens in toxicological analysis.</article-title>
+            <source>Biomed Chromatogr</source>
+            <year>2008</year>
+            <month>Aug</month>
+            <volume>22</volume>
+            <issue>8</issue>
+            <fpage>795</fpage>
+            <page-range>795-821</page-range>
+            <pub-id pub-id-type="pmid">18506679</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r45">
+          <label>45</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kale</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Urine Drug Tests: Ordering and Interpreting Results.</article-title>
+            <source>Am Fam Physician</source>
+            <year>2019</year>
+            <month>Jan</month>
+            <day>01</day>
+            <volume>99</volume>
+            <issue>1</issue>
+            <fpage>33</fpage>
+            <page-range>33-39</page-range>
+            <pub-id pub-id-type="pmid">30600984</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r46">
+          <label>46</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Patel</surname>
+                <given-names>JN</given-names>
+              </name>
+              <name>
+                <surname>Jandrisevits</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Boselli</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Michalowski</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Parala-Metz</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Walsh</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Opioid Monitoring Using Urine Toxicology Screens in Outpatient Oncology Palliative Medicine.</article-title>
+            <source>JCO Oncol Pract</source>
+            <year>2023</year>
+            <month>Nov</month>
+            <volume>19</volume>
+            <issue>11</issue>
+            <fpage>990</fpage>
+            <page-range>990-999</page-range>
+            <pub-id pub-id-type="pmid">37722086</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r47">
+          <label>47</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bush</surname>
+                <given-names>DM</given-names>
+              </name>
+            </person-group>
+            <article-title>The U.S. Mandatory Guidelines for Federal Workplace Drug Testing Programs: current status and future considerations.</article-title>
+            <source>Forensic Sci Int</source>
+            <year>2008</year>
+            <month>Jan</month>
+            <day>30</day>
+            <volume>174</volume>
+            <issue>2-3</issue>
+            <fpage>111</fpage>
+            <page-range>111-9</page-range>
+            <pub-id pub-id-type="pmid">17434274</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r48">
+          <label>48</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dowell</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Haegerich</surname>
+                <given-names>TM</given-names>
+              </name>
+              <name>
+                <surname>Chou</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>CDC Guideline for Prescribing Opioids for Chronic Pain--United States, 2016.</article-title>
+            <source>JAMA</source>
+            <year>2016</year>
+            <month>Apr</month>
+            <day>19</day>
+            <volume>315</volume>
+            <issue>15</issue>
+            <fpage>1624</fpage>
+            <page-range>1624-45</page-range>
+            <pub-id pub-id-type="pmid">26977696</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r49">
+          <label>49</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cheatle</surname>
+                <given-names>MD</given-names>
+              </name>
+              <name>
+                <surname>Savage</surname>
+                <given-names>SR</given-names>
+              </name>
+            </person-group>
+            <article-title>Informed consent in opioid therapy: a potential obligation and opportunity.</article-title>
+            <source>J Pain Symptom Manage</source>
+            <year>2012</year>
+            <month>Jul</month>
+            <volume>44</volume>
+            <issue>1</issue>
+            <fpage>105</fpage>
+            <page-range>105-16</page-range>
+            <pub-id pub-id-type="pmid">22445273</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r50">
+          <label>50</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Baumann</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Bello</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Georg</surname>
+                <given-names>FM</given-names>
+              </name>
+              <name>
+                <surname>Urman</surname>
+                <given-names>RD</given-names>
+              </name>
+              <name>
+                <surname>Luedi</surname>
+                <given-names>MM</given-names>
+              </name>
+              <name>
+                <surname>Andereggen</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>Acute Pain and Development of Opioid Use Disorder: Patient Risk Factors.</article-title>
+            <source>Curr Pain Headache Rep</source>
+            <year>2023</year>
+            <month>Sep</month>
+            <volume>27</volume>
+            <issue>9</issue>
+            <fpage>437</fpage>
+            <page-range>437-444</page-range>
+            <pub-id pub-id-type="pmid">37392334</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r51">
+          <label>51</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Henry</surname>
+                <given-names>SG</given-names>
+              </name>
+              <name>
+                <surname>Fang</surname>
+                <given-names>SY</given-names>
+              </name>
+              <name>
+                <surname>Crawford</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Wintemute</surname>
+                <given-names>GJ</given-names>
+              </name>
+              <name>
+                <surname>Tseregounis</surname>
+                <given-names>IE</given-names>
+              </name>
+              <name>
+                <surname>Gasper</surname>
+                <given-names>JJ</given-names>
+              </name>
+              <name>
+                <surname>Shev</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Cartus</surname>
+                <given-names>AR</given-names>
+              </name>
+              <name>
+                <surname>Marshall</surname>
+                <given-names>BDL</given-names>
+              </name>
+              <name>
+                <surname>Tancredi</surname>
+                <given-names>DJ</given-names>
+              </name>
+              <name>
+                <surname>Cerd&#x000e1;</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Stewart</surname>
+                <given-names>SL</given-names>
+              </name>
+            </person-group>
+            <article-title>Impact of 30-day prescribed opioid dose trajectory on fatal overdose risk: A population-based, statewide cohort study.</article-title>
+            <source>J Gen Intern Med</source>
+            <year>2024</year>
+            <month>Feb</month>
+            <volume>39</volume>
+            <issue>3</issue>
+            <fpage>393</fpage>
+            <page-range>393-402</page-range>
+            <pub-id pub-id-type="pmid">37794260</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r52">
+          <label>52</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dowell</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Ragan</surname>
+                <given-names>KR</given-names>
+              </name>
+              <name>
+                <surname>Jones</surname>
+                <given-names>CM</given-names>
+              </name>
+              <name>
+                <surname>Baldwin</surname>
+                <given-names>GT</given-names>
+              </name>
+              <name>
+                <surname>Chou</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>CDC Clinical Practice Guideline for Prescribing Opioids for Pain - United States, 2022.</article-title>
+            <source>MMWR Recomm Rep</source>
+            <year>2022</year>
+            <month>Nov</month>
+            <day>04</day>
+            <volume>71</volume>
+            <issue>3</issue>
+            <fpage>1</fpage>
+            <page-range>1-95</page-range>
+            <pub-id pub-id-type="pmid">36327391</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r53">
+          <label>53</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lossio-Ventura</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Song</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Sainlaire</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Dykes</surname>
+                <given-names>PC</given-names>
+              </name>
+              <name>
+                <surname>Hernandez-Boussard</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Opioid2MME: Standardizing opioid prescriptions to morphine milligram equivalents from electronic health records.</article-title>
+            <source>Int J Med Inform</source>
+            <year>2022</year>
+            <month>Mar</month>
+            <day>16</day>
+            <volume>162</volume>
+            <fpage>104739</fpage>
+            <pub-id pub-id-type="pmid">35325663</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r54">
+          <label>54</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Reid Finlayson</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Macoubrie</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Huff</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Foster</surname>
+                <given-names>DE</given-names>
+              </name>
+              <name>
+                <surname>Martin</surname>
+                <given-names>PR</given-names>
+              </name>
+            </person-group>
+            <article-title>Experiences with benzodiazepine use, tapering, and discontinuation: an Internet survey.</article-title>
+            <source>Ther Adv Psychopharmacol</source>
+            <year>2022</year>
+            <volume>12</volume>
+            <fpage>20451253221082386</fpage>
+            <pub-id pub-id-type="pmid">35499041</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r55">
+          <label>55</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ruoff</surname>
+                <given-names>GM</given-names>
+              </name>
+            </person-group>
+            <article-title>OTC Analgesics vs Opioids for Pain Management.</article-title>
+            <source>J Fam Pract</source>
+            <year>2022</year>
+            <month>Jul</month>
+            <volume>71</volume>
+            <issue>6 Suppl</issue>
+            <fpage>S29</fpage>
+            <page-range>S29-S33</page-range>
+            <pub-id pub-id-type="pmid">35960948</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r56">
+          <label>56</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Compton</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Fakhar</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Secreto</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Arnold</surname>
+                <given-names>OH</given-names>
+              </name>
+              <name>
+                <surname>Ford</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Hersh</surname>
+                <given-names>EV</given-names>
+              </name>
+            </person-group>
+            <article-title>Preoperative and Postoperative Hyperalgesia in Dental Patients on Chronic Opioid Therapy: A Pilot Study.</article-title>
+            <source>Anesth Prog</source>
+            <year>2023</year>
+            <month>Mar</month>
+            <day>01</day>
+            <volume>70</volume>
+            <issue>1</issue>
+            <fpage>9</fpage>
+            <page-range>9-16</page-range>
+            <pub-id pub-id-type="pmid">36995960</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r57">
+          <label>57</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sachau</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Kersebaum</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>H&#x000fc;llemann</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Adolf</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Kabelitz</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Keller</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Freynhagen</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>T&#x000f6;lle</surname>
+                <given-names>TR</given-names>
+              </name>
+              <name>
+                <surname>Binder</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Baron</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>The association of self-reported symptoms of central sensitization and sleep disturbances in neuropathic pain.</article-title>
+            <source>Pain Rep</source>
+            <year>2023</year>
+            <month>Sep</month>
+            <volume>8</volume>
+            <issue>5</issue>
+            <fpage>e1098</fpage>
+            <pub-id pub-id-type="pmid">37772033</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r58">
+          <label>58</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kandel</surname>
+                <given-names>DB</given-names>
+              </name>
+              <name>
+                <surname>Hu</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Griesler</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Wall</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Increases from 2002 to 2015 in prescription opioid overdose deaths in combination with other substances.</article-title>
+            <source>Drug Alcohol Depend</source>
+            <year>2017</year>
+            <month>Sep</month>
+            <day>01</day>
+            <volume>178</volume>
+            <fpage>501</fpage>
+            <page-range>501-511</page-range>
+            <pub-id pub-id-type="pmid">28719884</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r59">
+          <label>59</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Carlson</surname>
+                <given-names>RG</given-names>
+              </name>
+              <name>
+                <surname>Nahhas</surname>
+                <given-names>RW</given-names>
+              </name>
+              <name>
+                <surname>Martins</surname>
+                <given-names>SS</given-names>
+              </name>
+              <name>
+                <surname>Daniulaityte</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Predictors of transition to heroin use among initially non-opioid dependent illicit pharmaceutical opioid users: A natural history study.</article-title>
+            <source>Drug Alcohol Depend</source>
+            <year>2016</year>
+            <month>Mar</month>
+            <day>01</day>
+            <volume>160</volume>
+            <fpage>127</fpage>
+            <page-range>127-34</page-range>
+            <pub-id pub-id-type="pmid">26785634</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r60">
+          <label>60</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Varisco</surname>
+                <given-names>TJ</given-names>
+              </name>
+              <name>
+                <surname>Wanat</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Hill</surname>
+                <given-names>LG</given-names>
+              </name>
+              <name>
+                <surname>Thornton</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>The impact of the mainstreaming addiction treatment act and associated legislative action on pharmacy practice.</article-title>
+            <source>J Am Pharm Assoc (2003)</source>
+            <year>2023</year>
+            <season>Jul-Aug</season>
+            <volume>63</volume>
+            <issue>4</issue>
+            <fpage>1039</fpage>
+            <page-range>1039-1043</page-range>
+            <pub-id pub-id-type="pmid">37088366</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r61">
+          <label>61</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Austin</surname>
+                <given-names>EJ</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Briggs</surname>
+                <given-names>ES</given-names>
+              </name>
+              <name>
+                <surname>Ferro</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Barry</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Heald</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Merrill</surname>
+                <given-names>JO</given-names>
+              </name>
+              <name>
+                <surname>Curran</surname>
+                <given-names>GM</given-names>
+              </name>
+              <name>
+                <surname>Saxon</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Fortney</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Ratzliff</surname>
+                <given-names>AD</given-names>
+              </name>
+              <name>
+                <surname>Williams</surname>
+                <given-names>EC</given-names>
+              </name>
+            </person-group>
+            <article-title>Integrating Opioid Use Disorder Treatment Into Primary Care Settings.</article-title>
+            <source>JAMA Netw Open</source>
+            <year>2023</year>
+            <month>Aug</month>
+            <day>01</day>
+            <volume>6</volume>
+            <issue>8</issue>
+            <fpage>e2328627</fpage>
+            <pub-id pub-id-type="pmid">37566414</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r62">
+          <label>62</label>
+          <element-citation publication-type="journal">
+            <article-title>Buprenorphine: an alternative to methadone.</article-title>
+            <source>Med Lett Drugs Ther</source>
+            <year>2003</year>
+            <month>Feb</month>
+            <day>17</day>
+            <volume>45</volume>
+            <issue>1150</issue>
+            <fpage>13</fpage>
+            <page-range>13-5</page-range>
+            <pub-id pub-id-type="pmid">12592214</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r63">
+          <label>63</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Soeffing</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Martin</surname>
+                <given-names>LD</given-names>
+              </name>
+              <name>
+                <surname>Fingerhood</surname>
+                <given-names>MI</given-names>
+              </name>
+              <name>
+                <surname>Jasinski</surname>
+                <given-names>DR</given-names>
+              </name>
+              <name>
+                <surname>Rastegar</surname>
+                <given-names>DA</given-names>
+              </name>
+            </person-group>
+            <article-title>Buprenorphine maintenance treatment in a primary care setting: outcomes at 1 year.</article-title>
+            <source>J Subst Abuse Treat</source>
+            <year>2009</year>
+            <month>Dec</month>
+            <volume>37</volume>
+            <issue>4</issue>
+            <fpage>426</fpage>
+            <page-range>426-30</page-range>
+            <pub-id pub-id-type="pmid">19553061</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r64">
+          <label>64</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bruneau</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ahamad</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Goyer</surname>
+                <given-names>M&#x000c8;</given-names>
+              </name>
+              <name>
+                <surname>Poulin</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Selby</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Fischer</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Wild</surname>
+                <given-names>TC</given-names>
+              </name>
+              <name>
+                <surname>Wood</surname>
+                <given-names>E</given-names>
+              </name>
+              <collab>CIHR Canadian Research Initiative in Substance Misuse</collab>
+            </person-group>
+            <article-title>Management of opioid use disorders: a national clinical practice guideline.</article-title>
+            <source>CMAJ</source>
+            <year>2018</year>
+            <month>Mar</month>
+            <day>05</day>
+            <volume>190</volume>
+            <issue>9</issue>
+            <fpage>E247</fpage>
+            <page-range>E247-E257</page-range>
+            <pub-id pub-id-type="pmid">29507156</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r65">
+          <label>65</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Darker</surname>
+                <given-names>CD</given-names>
+              </name>
+              <name>
+                <surname>Sweeney</surname>
+                <given-names>BP</given-names>
+              </name>
+              <name>
+                <surname>Barry</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Farrell</surname>
+                <given-names>MF</given-names>
+              </name>
+              <name>
+                <surname>Donnelly-Swift</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Psychosocial interventions for benzodiazepine harmful use, abuse or dependence.</article-title>
+            <source>Cochrane Database Syst Rev</source>
+            <year>2015</year>
+            <volume>2015</volume>
+            <issue>5</issue>
+            <fpage>CD009652</fpage>
+            <pub-id pub-id-type="pmid">26106751</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131263.r66">
+          <label>66</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Judy</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Sams</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Poulton</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Maximizing patient safety when prescribing opioids for pain management.</article-title>
+            <source>JAAPA</source>
+            <year>2023</year>
+            <month>Sep</month>
+            <day>01</day>
+            <volume>36</volume>
+            <issue>9</issue>
+            <fpage>1</fpage>
+            <page-range>1-6</page-range>
+            <pub-id pub-id-type="pmid">37668489</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

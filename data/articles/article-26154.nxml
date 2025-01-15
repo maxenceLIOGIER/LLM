@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-26154" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Oligohydramnios</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Keilman</surname>
+            <given-names>Courtney</given-names>
+          </name>
+          <aff>Indiana University School of Medicine</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Shanks</surname>
+            <given-names>Anthony L.</given-names>
+          </name>
+          <aff>Indiana University School of Medicine</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Courtney Keilman declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Anthony Shanks declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>12</day>
+          <month>9</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-26154.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Oligohydramnios is a condition characterized by decreased amniotic fluid volume for gestational age, often arising from maternal, fetal, or placental complications. This condition can be associated with poor fetal outcomes, including impaired lung development, growth restriction, and increased risk of labor complications. Causes may include premature rupture of membranes, placental insufficiency, and fetal renal abnormalities. Proper diagnosis typically involves ultrasound assessment, and management varies depending on the underlying cause, gestational age, and severity of fluid depletion.</p>
+        <p>In this course, participants learn how to evaluate oligohydramnios by understanding its pathophysiology, generating a differential diagnosis, and selecting appropriate management strategies. The course emphasizes the importance of interprofessional collaboration&#x02014;engaging obstetricians, maternal-fetal medicine specialists, nurses, and sonographers&#x02014;to ensure comprehensive care. This teamwork enhances the ability to tailor interventions to the specific etiology of oligohydramnios, improving both maternal and fetal outcomes through timely diagnosis and effective management plans.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Identify the clinical signs and symptoms associated with oligohydramnios, including potential maternal and fetal complications.</p></list-item><list-item><p>Apply knowledge of&#x000a0;the pathophysiology of amniotic fluid production resulting in disorders of amniotic fluid.</p></list-item><list-item><p>Assess&#x000a0;the differential diagnosis for both maternal and fetal causes of oligohydramnios.</p></list-item><list-item><p>Collaborate with interprofessional teams, including obstetricians, maternal-fetal medicine specialists, and nurses, to ensure comprehensive care.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=26154&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=26154">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-26154.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Oligohydramnios is defined as decreased amniotic fluid volume (AFV) for gestational age. The volume of amniotic fluid changes over gestation, increasing linearly until 34&#x000a0;to 36 weeks gestation, at which point the AFV levels off (approximately 400 mL) and remains constant until term.<xref ref-type="bibr" rid="article-26154.r1">[1]</xref>&#x000a0;The&#x000a0;AFV then begins to decrease steadily after 40 weeks gestation, leading to reduced volume in post-term gestations. This pattern allows for clinical assessment of AFV throughout pregnancy using fundal height measurements and ultrasound evaluation.<xref ref-type="bibr" rid="article-26154.r2">[2]</xref>&#x000a0;Amniotic fluid disorders should be included in the differential diagnosis whenever there is a discrepancy between the fundal height measurement and gestational age. Discrepancies should prompt an amniotic fluid assessment by ultrasound.&#x000a0;</p>
+        <p>Transabdominal ultrasound evaluation of AFV includes the use of either the maximum vertical pocket (MVP) or the amniotic fluid index (AFI) depending on the institution. The sonographer systematically scans the abdomen and obtains an image that demonstrates the maximum vertical pocket&#x02014;the deepest pocket of amniotic fluid that does not include the fetal umbilical cord or body parts. The measurement should be made from the 12 o&#x02019;clock position to the 6 o&#x02019;clock position. The normal range for MVP is 2 to 8 cm: a pocket less than 2 cm is considered oligohydramnios in both single and multifetal gestations.<xref ref-type="bibr" rid="article-26154.r3">[3]</xref><xref ref-type="bibr" rid="article-26154.r4">[4]</xref>&#x000a0;An MVP greater than 8 cm is considered polyhydramnios. The amniotic fluid index (AFI) is an alternative assessment of AFV. The AFI can be determined after 20 weeks of gestation by dividing the uterus into&#x000a0;4 quadrants through the umbilicus and determining the MVP in each quadrant. The sum of the 4 maximum vertical pockets is equal to the AFI. An AFI less than 5 cm is consistent with oligohydramnios.<xref ref-type="bibr" rid="article-26154.r5">[5]</xref></p>
+        <p>The use of the maximum vertical pocket tends to overly diagnose cases of polyhydramnios, while the use of the AFI tends to underdiagnose cases of oligohydramnios. With this in mind, some institutions opt to use the MVP in gestations with low AFV and use the AFI in cases of high AFV. The MVP should serve to evaluate oligohydramnios in multifetal pregnancies, as you are not&#x000a0;able to measure all&#x000a0;4 quadrants for each fetus.<xref ref-type="bibr" rid="article-26154.r2">[2]</xref><xref ref-type="bibr" rid="article-26154.r3">[3]</xref></p>
+      </sec>
+      <sec id="article-26154.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p>The volume of amniotic fluid in the gestational sac is a result of a balance between fluid production and fluid movement out of the sac. In the first 20 weeks, lung secretions, along with hydrostatic and osmotic transport of maternal plasma through the fetal membranes, make up the majority of amniotic fluid production. At around week 16, the fetal kidneys begin to function, and the production of fetal urine steadily increases, taking over the majority of amniotic fluid production until the gestation is at term.<xref ref-type="bibr" rid="article-26154.r6">[6]</xref>&#x000a0;</p>
+        <p>Fetal genitourinary abnormalities can, therefore, result in a diagnosis of oligohydramnios after 16&#x000a0;to 20 weeks gestation. Examples include bladder outlet obstruction, dysplastic kidneys, and renal agenesis. Fetal swallowing and intramembranous absorption, thought to occur by osmotic absorption of fluid directly across the amnion and into fetal blood vessels, are the primary routes of amniotic resorption. Therefore, fetal gastrointestinal anomalies, such as tracheoesophageal fistula (incidence rate of approximately 1 in 3500 live births), can result in excess fluid volume, or polyhydramnios.<xref ref-type="bibr" rid="article-26154.r4">[4]</xref></p>
+      </sec>
+      <sec id="article-26154.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p>Oligohydramnios&#x000a0;complicates 4.4% of all pregnancies at term. The incidence of oligohydramnios is less than 1% in preterm pregnancies.<xref ref-type="bibr" rid="article-26154.r7">[7]</xref></p>
+      </sec>
+      <sec id="article-26154.s5" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>Following ultrasound diagnosis by amniotic fluid assessment, clinical assessment should be focused on the following to determine the etiology:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>History: A thorough maternal and family history is necessary to screen for conditions associated with oligohydramnios: medication use, past medical history, and rupture of membranes.<xref ref-type="bibr" rid="article-26154.r4">[4]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Physical Exam: Target physical exam to determine etiology: measure fundal height, speculum examination, tests for ruptured membranes (pH, nitrazine test, rupture of fetal membranes test).<xref ref-type="bibr" rid="article-26154.r8">[8]</xref></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-26154.s6" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>The evaluation of oligohydramnios includes the following:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Ultrasound: Perform a targeted ultrasound assessment for structural abnormalities in the genitourinary tract, assess for fetal growth restriction and markers of aneuploidy, umbilical artery Doppler to assess placental insufficiency.<xref ref-type="bibr" rid="article-26154.r5">[5]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Nonstress Tests: Performed at least once per week until delivery.<xref ref-type="bibr" rid="article-26154.r9">[9]</xref></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-26154.s7" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>In addition to managing the underlying cause, prenatal management includes weekly maximum vertical pocket measurements and nonstress tests, which have been demonstrated to decrease the occurrence of unexplained fetal death. Fetal growth should undergo serial assessment. Maternal hydration status also plays a vital role in management, particularly in cases of isolated oligohydramnios in the third trimester.<xref ref-type="bibr" rid="article-26154.r10">[10]</xref>&#x000a0;Although there is some controversy surrounding the timing of delivery in cases of isolated oligohydramnios, the current recommendations support delivery at 37 weeks gestation, assuming membranes remain intact.<xref ref-type="bibr" rid="article-26154.r11">[11]</xref></p>
+      </sec>
+      <sec id="article-26154.s8" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <p>Oligohydramnios is associated with many conditions/complications of pregnancy, and the differential breaks down into the following categories: maternal, fetal, placental, and idiopathic.<xref ref-type="bibr" rid="article-26154.r4">[4]</xref></p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Maternal causes: Oligohydramnios has correlations with any medical or obstetric condition leading to uteroplacental insufficiency (8% of all gestations). Possible causes include chronic hypertension, vascular disease, thrombophilia, and preeclampsia. This also correlates with certain drugs (angiotensin-converting enzyme inhibitors, nonsteroidal anti-inflammatory drugs, and cocaine use) and maternal diabetes.<xref ref-type="bibr" rid="article-26154.r4">[4]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Fetal causes: Rupture of membranes is the most common cause. Preterm premature rupture of membranes alone accounts for greater than 37% of oligohydramnios cases diagnosed in the second and third trimesters. Genitourinary tract abnormalities (renal agenesis, obstructive nephropathy) are associated with oligohydramnios and occur at an incidence of 3&#x000a0;to 7 per 1000 live births. Post-term pregnancies, fetal growth restriction (5% of the second trimester and 20.5% of third-trimester diagnoses), chromosomal abnormalities (10% of oligohydramnios cases in the second trimester), and fetal demise are also associated with oligohydramnios.<xref ref-type="bibr" rid="article-26154.r12">[12]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Placental causes: Placental causes of oligohydramnios include abruption (8.6% of all oligohydramnios cases) and twin-twin transfusion syndrome (oligohydramnios-polyhydramnios sequence).<xref ref-type="bibr" rid="article-26154.r12">[12]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Idiopathic/unexplained: The majority of oligohydramnios cases, 50.7% diagnosed in the third trimester, are of unexplained etiology and typically associated with better outcomes.<xref ref-type="bibr" rid="article-26154.r12">[12]</xref></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-26154.s9" sec-type="Prognosis">
+        <title>Prognosis</title>
+        <p>The management and prognosis of oligohydramnios vary greatly depending on the underlying etiology, the gestational age at diagnosis, and the severity of oligohydramnios. Diagnosis of oligohydramnios during the second trimester is more likely to be associated with fetal or maternal anomalies, whereas diagnosis in the third trimester is more likely to be of unexplained origin. In one study, the etiology of oligohydramnios was unexplained in just 4% of second-trimester gestations, whereas 52% of those diagnosed in the third trimester were idiopathic. Only 10.2% of fetuses diagnosed in the second trimester survived, while the survival rate was 85.3% in those diagnosed in the third trimester.<xref ref-type="bibr" rid="article-26154.r12">[12]</xref></p>
+        <p>In cases of oligohydramnios diagnosed in the second trimester, pulmonary hypoplasia is the most significant predictor of fetal mortality. The mortality rate of second-trimester oligohydramnios can be as high as 90%, with pulmonary hypoplasia accounting for 87% of those deaths. The most severe pulmonary hypoplasia occurs with oligohydramnios before or during 16 to 24 weeks of gestational age when the terminal sacs of the fetal lung are developing. Low AFV during the second and early third trimester also increases the likelihood of limb contractures and birth defects due to compression of fetal parts.<xref ref-type="bibr" rid="article-26154.r12">[12]</xref></p>
+      </sec>
+      <sec id="article-26154.s10" sec-type="Complications">
+        <title>Complications</title>
+        <p>There are several additional complications to be aware of during the labor course of a gestation complicated by oligohydramnios. These include an increased risk of umbilical cord compression, meconium aspiration, cesarean delivery, fetal heart rate decelerations, and nonreactive fetal tracings.<xref ref-type="bibr" rid="article-26154.r1">[1]</xref>&#x000a0;Administration of 1&#x000a0;to 2&#x000a0;liters of&#x000a0;oral or intravenous fluids during labor shown to transiently increase AFV and decrease cord compression over the labor course.<xref ref-type="bibr" rid="article-26154.r10">[10]</xref></p>
+      </sec>
+      <sec id="article-26154.s11" sec-type="Deterrence and Patient Education">
+        <title>Deterrence and Patient Education</title>
+        <p>Patient education regarding&#x000a0;oligohydramnios should focus on the importance of receiving routine prenatal care throughout&#x000a0;the course of pregnancy.&#x000a0;Regular prenatal care allows the health care team to recognize and diagnose gestational complications, such as oligohydramnios.&#x000a0;The clinical care team can then formulate an appropriate follow-up plan to minimize&#x000a0;the risk of both the fetal and maternal complications associated with oligohydramnios.&#x000a0;</p>
+      </sec>
+      <sec id="article-26154.s12" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>The care and management of patients with amniotic fluid disorders rely on interprofessional&#x000a0;communication among several providers to ensure adequate screening, diagnosis, and management of these conditions in the antepartum, partum, and postpartum periods.&#x000a0;Obstetricians or clinically trained midwives often detect oligohydramnios during routine prenatal care visits. Following diagnosis, it is often necessary to consult maternal-fetal&#x000a0;medicine specialists&#x000a0;and neonatologists who can help develop an optimal care plan to limit the risk of complications for both the mother and the fetus. The care plans include antepartum management, the timing of delivery, and postpartum care, which are each catered to the underlying etiology of oligohydramnios.<xref ref-type="bibr" rid="article-26154.r13">[13]</xref></p>
+      </sec>
+      <sec id="article-26154.s13">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=26154&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=26154">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/child-health/oligohydramnios/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=26154">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/26154/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=26154">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-26154.s14">
+        <title>References</title>
+        <ref id="article-26154.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Rabie</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Magann</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Steelman</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Ounpraseuth</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Oligohydramnios in complicated and uncomplicated pregnancy: a systematic review and meta-analysis.</article-title>
+            <source>Ultrasound Obstet Gynecol</source>
+            <year>2017</year>
+            <month>Apr</month>
+            <volume>49</volume>
+            <issue>4</issue>
+            <fpage>442</fpage>
+            <page-range>442-449</page-range>
+            <pub-id pub-id-type="pmid">27062200</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26154.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Magann</surname>
+                <given-names>EF</given-names>
+              </name>
+              <name>
+                <surname>Bass</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Chauhan</surname>
+                <given-names>SP</given-names>
+              </name>
+              <name>
+                <surname>Young</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Whitworth</surname>
+                <given-names>NS</given-names>
+              </name>
+              <name>
+                <surname>Morrison</surname>
+                <given-names>JC</given-names>
+              </name>
+            </person-group>
+            <article-title>Amniotic fluid volume in normal singleton pregnancies.</article-title>
+            <source>Obstet Gynecol</source>
+            <year>1997</year>
+            <month>Oct</month>
+            <volume>90</volume>
+            <issue>4 Pt 1</issue>
+            <fpage>524</fpage>
+            <page-range>524-8</page-range>
+            <pub-id pub-id-type="pmid">9380309</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26154.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ippolito</surname>
+                <given-names>DL</given-names>
+              </name>
+              <name>
+                <surname>Bergstrom</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Lutgendorf</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Flood-Nichols</surname>
+                <given-names>SK</given-names>
+              </name>
+              <name>
+                <surname>Magann</surname>
+                <given-names>EF</given-names>
+              </name>
+            </person-group>
+            <article-title>A systematic review of amniotic fluid assessments in twin pregnancies.</article-title>
+            <source>J Ultrasound Med</source>
+            <year>2014</year>
+            <month>Aug</month>
+            <volume>33</volume>
+            <issue>8</issue>
+            <fpage>1353</fpage>
+            <page-range>1353-64</page-range>
+            <pub-id pub-id-type="pmid">25063400</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26154.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Peipert</surname>
+                <given-names>JF</given-names>
+              </name>
+              <name>
+                <surname>Donnenfeld</surname>
+                <given-names>AE</given-names>
+              </name>
+            </person-group>
+            <article-title>Oligohydramnios: a review.</article-title>
+            <source>Obstet Gynecol Surv</source>
+            <year>1991</year>
+            <month>Jun</month>
+            <volume>46</volume>
+            <issue>6</issue>
+            <fpage>325</fpage>
+            <page-range>325-39</page-range>
+            <pub-id pub-id-type="pmid">2067755</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26154.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hughes</surname>
+                <given-names>DS</given-names>
+              </name>
+              <name>
+                <surname>Magann</surname>
+                <given-names>EF</given-names>
+              </name>
+              <name>
+                <surname>Whittington</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Wendel</surname>
+                <given-names>MP</given-names>
+              </name>
+              <name>
+                <surname>Sandlin</surname>
+                <given-names>AT</given-names>
+              </name>
+              <name>
+                <surname>Ounpraseuth</surname>
+                <given-names>ST</given-names>
+              </name>
+            </person-group>
+            <article-title>Accuracy of the Ultrasound Estimate of the Amniotic Fluid Volume (Amniotic Fluid Index and Single Deepest Pocket) to Identify Actual Low, Normal, and High Amniotic Fluid Volumes as Determined by Quantile Regression.</article-title>
+            <source>J Ultrasound Med</source>
+            <year>2020</year>
+            <month>Feb</month>
+            <volume>39</volume>
+            <issue>2</issue>
+            <fpage>373</fpage>
+            <page-range>373-378</page-range>
+            <pub-id pub-id-type="pmid">31423632</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26154.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Brace</surname>
+                <given-names>RA</given-names>
+              </name>
+            </person-group>
+            <article-title>Physiology of amniotic fluid volume regulation.</article-title>
+            <source>Clin Obstet Gynecol</source>
+            <year>1997</year>
+            <month>Jun</month>
+            <volume>40</volume>
+            <issue>2</issue>
+            <fpage>280</fpage>
+            <page-range>280-9</page-range>
+            <pub-id pub-id-type="pmid">9199840</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26154.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hou</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Hellerstein</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Zou</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Ruan</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>W</given-names>
+              </name>
+            </person-group>
+            <article-title>Delivery mode and perinatal outcomes after diagnosis of oligohydramnios at term in China.</article-title>
+            <source>J Matern Fetal Neonatal Med</source>
+            <year>2020</year>
+            <month>Jul</month>
+            <volume>33</volume>
+            <issue>14</issue>
+            <fpage>2408</fpage>
+            <page-range>2408-2414</page-range>
+            <pub-id pub-id-type="pmid">30486718</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26154.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hesson</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Langen</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Outcomes in oligohydramnios: the role of etiology in predicting pulmonary morbidity/mortality.</article-title>
+            <source>J Perinat Med</source>
+            <year>2018</year>
+            <month>Oct</month>
+            <day>25</day>
+            <volume>46</volume>
+            <issue>8</issue>
+            <fpage>948</fpage>
+            <page-range>948-950</page-range>
+            <pub-id pub-id-type="pmid">29924737</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26154.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Clark</surname>
+                <given-names>SL</given-names>
+              </name>
+              <name>
+                <surname>Sabey</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Jolley</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Nonstress testing with acoustic stimulation and amniotic fluid volume assessment: 5973 tests without unexpected fetal death.</article-title>
+            <source>Am J Obstet Gynecol</source>
+            <year>1989</year>
+            <month>Mar</month>
+            <volume>160</volume>
+            <issue>3</issue>
+            <fpage>694</fpage>
+            <page-range>694-7</page-range>
+            <pub-id pub-id-type="pmid">2929695</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26154.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Patrelli</surname>
+                <given-names>TS</given-names>
+              </name>
+              <name>
+                <surname>Gizzo</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Cosmi</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Carpano</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Di Gangi</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Pedrazzi</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Piantelli</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Modena</surname>
+                <given-names>AB</given-names>
+              </name>
+            </person-group>
+            <article-title>Maternal hydration therapy improves the quantity of amniotic fluid and the pregnancy outcome in third-trimester isolated oligohydramnios: a controlled randomized institutional trial.</article-title>
+            <source>J Ultrasound Med</source>
+            <year>2012</year>
+            <month>Feb</month>
+            <volume>31</volume>
+            <issue>2</issue>
+            <fpage>239</fpage>
+            <page-range>239-44</page-range>
+            <pub-id pub-id-type="pmid">22298867</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26154.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <article-title>ACOG Committee Opinion No. 764: Medically Indicated Late-Preterm and Early-Term Deliveries.</article-title>
+            <source>Obstet Gynecol</source>
+            <year>2019</year>
+            <month>Feb</month>
+            <volume>133</volume>
+            <issue>2</issue>
+            <fpage>e151</fpage>
+            <page-range>e151-e155</page-range>
+            <pub-id pub-id-type="pmid">30681545</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26154.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shipp</surname>
+                <given-names>TD</given-names>
+              </name>
+              <name>
+                <surname>Bromley</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Pauker</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Frigoletto</surname>
+                <given-names>FD</given-names>
+              </name>
+              <name>
+                <surname>Benacerraf</surname>
+                <given-names>BR</given-names>
+              </name>
+            </person-group>
+            <article-title>Outcome of singleton pregnancies with severe oligohydramnios in the second and third trimesters.</article-title>
+            <source>Ultrasound Obstet Gynecol</source>
+            <year>1996</year>
+            <month>Feb</month>
+            <volume>7</volume>
+            <issue>2</issue>
+            <fpage>108</fpage>
+            <page-range>108-13</page-range>
+            <pub-id pub-id-type="pmid">8776235</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26154.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <article-title>Committee opinion no. 501: Maternal-fetal intervention and fetal care centers.</article-title>
+            <source>Obstet Gynecol</source>
+            <year>2011</year>
+            <month>Aug</month>
+            <volume>118</volume>
+            <issue>2 Pt 1</issue>
+            <fpage>405</fpage>
+            <page-range>405-410</page-range>
+            <pub-id pub-id-type="pmid">21775875</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-20195" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Biochemistry, Cyclic GMP</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Pasmanter</surname>
+            <given-names>Nathaniel</given-names>
+          </name>
+          <aff>Michigan State University</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Iheanacho</surname>
+            <given-names>Franklin</given-names>
+          </name>
+          <aff>Warren Alpert Medical School of Brown University</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Hashmi</surname>
+            <given-names>Muhammad F.</given-names>
+          </name>
+          <aff>National Health Service</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Nathaniel Pasmanter declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Franklin Iheanacho declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Muhammad Hashmi declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>26</day>
+          <month>9</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-20195.s1" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Guanosine 3&#x02019;,5&#x02019;-cyclic monophosphate (cyclic GMP or cGMP) is a second messenger molecule that modulates various downstream effects, including vasodilation, retinal phototransduction, calcium homeostasis, and neurotransmission. cGMP mediates these effects via activation and alteration of specific ion channels, association with cGMP-dependent protein kinases, and interaction with phosphodiesterases (PDEs).&#x000a0;This topic&#x000a0;discusses the activation and regulation of cGMP, its downstream effects, and potential clinical significance.</p>
+      </sec>
+      <sec id="article-20195.s2" sec-type="Fundamentals">
+        <title>Fundamentals</title>
+        <p>Guanylate cyclase (GC) is a lyase enzyme that catalyzes the synthesis of cGMP. Guanylate cyclase usually interacts with the G protein cascade, which is activated by low levels of calcium levels. In response to calcium, GC converts Guanosine-5'-triphosphate (GTP) into cGMP.<xref ref-type="bibr" rid="article-20195.r1">[1]</xref></p>
+      </sec>
+      <sec id="article-20195.s3" sec-type="Issues of Concern">
+        <title>Issues of Concern</title>
+        <p>cGMP involves diverse physiological processes in many cell types in the cardiovascular system. Dysfunction in cGMP signaling at most steps can lead to many cardiovascular diseases.<xref ref-type="bibr" rid="article-20195.r2">[2]</xref>&#x000a0;Overactivated cGMP is also associated with enterotoxigenic Escherichia coli, leading to decreased resorption of sodium chloride and water in the gut.<xref ref-type="bibr" rid="article-20195.r3">[3]</xref></p>
+      </sec>
+      <sec id="article-20195.s4" sec-type="Cellular Level&#x0000d;&#x0000a;">
+        <title>Cellular Level
+</title>
+        <p>Cyclic nucleotide-gated ion (CNG) channels are ion channels that become directly activated via the binding of cyclic nucleotides. CNG channels are nonselective cation channels that mainly promote sodium and calcium ions current and have been best characterized in retinal photoreceptors. However, researchers have also identified them in olfactory sensory neurons and the pineal gland. Rod and cone CNG channels are selective for cGMP, while cAMP can activate others.<xref ref-type="bibr" rid="article-20195.r4">[4]</xref>&#x000a0;Furthermore, cGMP is associated with atrial natriuretic peptide, which aids vasodilation and decreased sodium reabsorption at the renal collecting tubules.<xref ref-type="bibr" rid="article-20195.r5">[5]</xref></p>
+      </sec>
+      <sec id="article-20195.s5" sec-type="Molecular Level&#x0000d;&#x0000a;">
+        <title>Molecular Level
+</title>
+        <p>cGMP levels get balanced by the opposing actions of guanylate cyclase, which synthesizes cGMP from GTP, and phosphodiesterases (PDEs), which convert cGMP to 5&#x02019;-GMP, ending its activity. Nitric oxide (NO) binds to soluble guanylate cyclase (sGC) and greatly increases its catalytic activity, increasing the conversion of GTP to cGMP. The other mechanism of cGMP conversion is receptor-mediated, typically activated through natriuretic peptide (NP) ligand binding to particulate guanylate cyclase (pGC).<xref ref-type="bibr" rid="article-20195.r6">[6]</xref>&#x000a0;cGMP is the only second messenger activated by gas.<xref ref-type="bibr" rid="article-20195.r2">[2]</xref></p>
+        <p>cGMP mediates its effects through&#x000a0;3 main pathways. cGMP-dependent serine/threonine protein kinases (PKGs) are enzymes primarily activated through ligand binding by cGMP. There are&#x000a0;2 identified subclasses, PKGI and PKGII, which differ in tissue distribution and phosphorylation targets. cGMP also activates protein kinase A (PKA), though it is a weaker agonist than cAMP.<xref ref-type="bibr" rid="article-20195.r7">[7]</xref></p>
+        <p>The PDE superfamily consists of 11 members differentiated by cAMP/cGMP substrate specificity, kinetics, activation, and inhibition. cGMP is the sole substrate of PDEs 5, 6, and 9 and is a dual substrate (with cAMP) of PDEs 1, 2, 3, 10, and 11. The dual-specificity of PDE enzymes allows cGMP to effect changes by regulating cAMP levels. By binding to PDE, cGMP can block sites that would normally catalyze cAMP conversion to AMP, resulting in elevated cAMP levels and the downstream effects that this mediates.<xref ref-type="bibr" rid="article-20195.r8">[8]</xref></p>
+      </sec>
+      <sec id="article-20195.s6" sec-type="Function">
+        <title>Function</title>
+        <p>Nitric oxide&#x000a0;(NO) upregulation of intracellular cGMP has been tied to many effects, mainly mediated by PKGI. These include gastrointestinal (GI) and vascular smooth muscle relaxation, platelet aggregation inhibition, cognitive function improvement, and cardioprotection (hypertrophy and reperfusion injury).<xref ref-type="bibr" rid="article-20195.r6">[6]</xref> PKGI likely modulates smooth muscle function in the gut and vasculature. Mice lacking this protein demonstrated markedly slowed gut motility and elevated blood pressure (hypothesized due to lack of response to NO).<xref ref-type="bibr" rid="article-20195.r7">[7]</xref> Further, PKGI likely modulates neuronal plasticity, erectile function, lower urinary tract function, and endothelial permeability.<xref ref-type="bibr" rid="article-20195.r6">[6]</xref> Additional PKG-mediated functions may include decreasing intracellular calcium&#x000a0;levels, regulation of bone metabolism (osteoclast activity), alteration of renal absorption, production of melanocytes in response to&#x000a0;ultraviolet radiation, and reducing cGMP levels through activation of PDE.<xref ref-type="bibr" rid="article-20195.r7">[7]</xref></p>
+        <p>cGMP direct ligand binding to CNG channels is required to open and fully promote maximal current flow. In photoreceptors and olfactory sensory neurons, cGMP amplification of light stimulation contributes to high visual and olfactory discrimination in humans. cGMP and CNG channels are also involved in&#x000a0;calcium homeostasis; low intracellular&#x000a0;calcium levels can activate GC-activating proteins, leading to increased cGMP and&#x000a0;calcium influx through open CNG channels. Hyperpolarization-activated and cyclic nucleotide-gated (HCN) channels, a subset of CNG channels, can be activated by cGMP, although mainly regulated by cAMP. Found mostly in the heart and brain, they often act as pacemaker channels, establishing rhythmically coordinated cardiologic (heartbeat) and neurologic (eg, movement) activity.<xref ref-type="bibr" rid="article-20195.r4">[4]</xref></p>
+        <p>The PDE superfamily is expressed heterogeneously throughout the body, and members with an affinity for cGMP merit a brief mention here.<xref ref-type="bibr" rid="article-20195.r8">[8]</xref></p>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>PDE1:</bold>&#x000a0;Mainly present in neurons and mediates brain function and activity through synaptic modulation</p>
+          </list-item>
+          <list-item>
+            <p><bold>PDE2:</bold>&#x000a0;Appears to mediate vascular changes and function</p>
+          </list-item>
+          <list-item>
+            <p><bold>PDE3:</bold>&#x000a0;May be required for functional meiosis in oocytes; has implications for insulin sensitivity and metabolic activity</p>
+          </list-item>
+          <list-item>
+            <p><bold>PDE5:</bold>&#x000a0;Helps regulate vasomotor tone and blood pressure; has been a primary target of pharmacologic therapies to treat hypertension and erectile dysfunction</p>
+          </list-item>
+          <list-item>
+            <p><bold>PDE6:</bold>&#x000a0;Identified as the key phosphodiesterase involved in visual transduction and localizes to the retina</p>
+          </list-item>
+          <list-item>
+            <p><bold>PDE9:</bold>&#x000a0;Widely expressed throughout the brain; may modulate behavior and learning</p>
+          </list-item>
+          <list-item>
+            <p><bold>PDE10:</bold>&#x000a0;Associated with brain activity; may play a role in neurodegenerative diseases such as Huntington disease</p>
+          </list-item>
+          <list-item>
+            <p><bold>PDE11:</bold>&#x000a0;Highly expressed in prostate and testicular cells; may play a role in reproductive function</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-20195.s7" sec-type="Mechanism">
+        <title>Mechanism</title>
+        <p>Most cGMP action on vascular function is mediated through the activation of PKGs, balanced by the inactivating PDEs. The effects of cGMP on vascular proliferation are unclear, with studies suggesting both pro- and antiproliferative effects depending on activation (pGC vs sGC), location, and quantity of intracellular cGMP. cGMP has different but complementary effects on inflammatory modulators depending on the activating source. NP induction of pGC appears to reduce immune cell activation and chemokine release, while NO stimulation of sGC inhibits P-selectin expression, reducing leukocyte recruitment and thrombosis.<xref ref-type="bibr" rid="article-20195.r9">[9]</xref></p>
+        <p>Metabolic homeostasis is another potential area of interest for cGMP research. Generally, cGMP induces positive changes in energy expenditure. In brown adipose tissue, where NO induces cGMP, it increases mitochondria's quantity, size, and activity. Thus, it increases energy expenditure in the brown fat cells. cGMP may also induce the browning of white adipose cells and exert similar effects on mitochondria in other cells throughout the body. cGMP potentially improves insulin sensitivity in white adipose cells, regulates glucagon release in the endocrine pancreas, exerts antioxidant and anti-inflammatory effects in the liver, and regulates food and water intake through hypothalamic interactions.<xref ref-type="bibr" rid="article-20195.r10">[10]</xref></p>
+        <p>cGMP also plays a role in neurological function, notably regarding synaptic plasticity and memory formation and retrieval. In hippocampal synapses, stimulation of postsynaptic NMDA receptors can lead to NO release into the synaptic cleft, with subsequent binding to the presynaptic neuron and production of cGMP. cGMP appears to increase the presynaptic neuron activity of PKGI, which enhances the synapse's long-term potentiation (LTP). Supporting this finding, direct injection of cGMP into presynaptic neurons enhances LTP,&#x000a0;wheras injection of a PKG inhibitor blocks LTP. Overall, cGMP may help to facilitate both memory formation and retrieval through its effects on LTP in the hippocampus.<xref ref-type="bibr" rid="article-20195.r11">[11]</xref></p>
+        <p>cGMP activity has also shown links to synaptic changes in other brain regions. In the amygdala, cGMP-mediated activity may aid in the LTP of fear-associated memory formation. Conversely, in Purkinje cells of the cerebellum, cGMP has been implicated in synaptic long-term depression (LTD), which underlies motor learning. Less understood are the effects of cGMP on other brain regions. cGMP may mediate cognition, psychosis, depression, and neurodegeneration, likely through PDE activity. Through presynaptic and postsynaptic modulations and effects on neuronal gene expression, cGMP potentially modulates multiple behavioral and learning functions in the CNS.<xref ref-type="bibr" rid="article-20195.r11">[11]</xref></p>
+      </sec>
+      <sec id="article-20195.s8" sec-type="Testing">
+        <title>Testing</title>
+        <p>Measuring urinary cGMP might prove to be a diagnostic tool for kidney function. When examining the kidney, iodine-based radiocontrast agents are used for angiographic procedures. Using such agents has drawn criticism for the potential risk of&#x000a0;contrast-induced nephropathy (CIN). New biomarkers are under investigation to protect patients from this risk. Renal functions influence cGMP concentration in the urine, so studies have been done investigating the use of cGMP as an additional biomarker for renal function to predict major renal events. Research has found that urine cGMP/creatinine ratio greater than or equal to 120 micromoles/millimole before receiving contrast medium is an encouraging biomarker for dialysis, along with all-cause mortality 90 days after contrast medium exposure in patients with preexisting diabetes or renal impairments.<xref ref-type="bibr" rid="article-20195.r12">[12]</xref><xref ref-type="bibr" rid="article-20195.r13">[13]</xref>&#x000a0;Phosphorylated-vasodilator-stimulated phosphoprotein (P-VASP) is the established marker for&#x000a0;physiological cyclic guanosine monophosphate (cGMP) signaling; this is because cGMP-dependent kinases primarily phosphorylate VASP.<xref ref-type="bibr" rid="article-20195.r14">[14]</xref></p>
+      </sec>
+      <sec id="article-20195.s9" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>Various systems can regulate cGMP signaling, which leads to vascular smooth muscle (VSM) relaxation in pulmonary arteries. In VSM, cGMP activates type 1 and 2 PKGs. PKG activation promotes calcium-gated potassium channel openings, causing relaxation and hyperpolarization. PKG also activates the sarcoplasmic and endoplasmic calcium ATPase pump on the sarcoplasmic reticulum (SR), leading to calcium pumping into the SR. As&#x000a0;calcium fills, SR extracellular&#x000a0;calcium is low. The cumulation of these events means PKG signaling leads to decreased intracellular calcium, thus smooth muscle relaxation. PKG also inhibits Rho-kinase. Rho-kinase inhibits myosin light chain phosphatase. Thus, inhibiting Rho-kinase leads to VSM relaxation.</p>
+        <p>Based on this signaling model, different signaling nodes might lead to pulmonary hypertension, the opposite of pulmonary relaxation. Free radicals can inhibit NO binding to sGC, preventing cGMP production and PKG from causing relaxation. PDE5 can also degrade cGMP.<xref ref-type="bibr" rid="article-20195.r15">[15]</xref></p>
+      </sec>
+      <sec id="article-20195.s10" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>Drug targets for cGMP include GC stimulation and PDE inhibition, which increase intracellular cGMP levels in targeted cells. sGC stimulators are being studied as a potential therapy to treat pulmonary hypertension due to their ability to increase the synthesis of cGMP even in the absence of NO. Although better known for its ability to treat erectile dysfunction, PDE5 inhibitor sildenafil is being studied for cardioprotective effects. Elevation of myocardial cGMP is associated with improved pulmonary vascular tone and right ventricular function in diastolic heart failure.<xref ref-type="bibr" rid="article-20195.r16">[16]</xref></p>
+        <p>Therapies targeting cGMP levels to address visceral pain have demonstrated promising results. In irritable bowel syndrome with constipation (IBS-C), abdominal pain and discomfort are a significant factor in patient quality of life. Guanylate cyclase agonists appear to reduce visceral pain by reducing the hypersensitivity of chronically stimulated nociceptors and by raising extracellular cGMP in the colon.<xref ref-type="bibr" rid="article-20195.r17">[17]</xref></p>
+        <p>Through activation of PKG1, targeting cGMP levels may be an effective treatment of kidney disease. PDE5 inhibitors have demonstrated improvement in kidney function, specifically respective to inhibition of renal fibrosis, countering thrombosis through regulation of platelet aggregation, and antitumorigenic properties via promoting apoptosis of tumor cells and inhibiting tumor cell survival signals.<xref ref-type="bibr" rid="article-20195.r18">[18]</xref></p>
+        <p>Although associated with many positive outcomes, increased cGMP levels may also have a cytotoxic effect in some instances. Elevated cGMP levels correlate with accelerated retinal degeneration in retinal dystrophy models. Uncontrolled&#x000a0;calcium influx through constitutively open CNG channels and overactivation of PKGI may be partially responsible for retinal cell death.<xref ref-type="bibr" rid="article-20195.r19">[19]</xref></p>
+        <p>Hydralazine is a medication commonly used to treat severe hypertension and heart failure. It works by increasing cGMP activity, leading to smooth muscle relaxation.<xref ref-type="bibr" rid="article-20195.r20">[20]</xref> Other medications used to treat hypertension that utilize the cGMP pathway are nitroprusside and other nitrates.<xref ref-type="bibr" rid="article-20195.r21">[21]</xref><xref ref-type="bibr" rid="article-20195.r22">[22]</xref></p>
+      </sec>
+      <sec id="article-20195.s11">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=20195&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=20195">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/20195/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=20195">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-20195.s12">
+        <title>References</title>
+        <ref id="article-20195.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kobia&#x00142;ka</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Gorczyca</surname>
+                <given-names>WA</given-names>
+              </name>
+            </person-group>
+            <article-title>Particulate guanylyl cyclases: multiple mechanisms of activation.</article-title>
+            <source>Acta Biochim Pol</source>
+            <year>2000</year>
+            <volume>47</volume>
+            <issue>3</issue>
+            <fpage>517</fpage>
+            <page-range>517-28</page-range>
+            <pub-id pub-id-type="pmid">11310956</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20195.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tsai</surname>
+                <given-names>EJ</given-names>
+              </name>
+              <name>
+                <surname>Kass</surname>
+                <given-names>DA</given-names>
+              </name>
+            </person-group>
+            <article-title>Cyclic GMP signaling in cardiovascular pathophysiology and therapeutics.</article-title>
+            <source>Pharmacol Ther</source>
+            <year>2009</year>
+            <month>Jun</month>
+            <volume>122</volume>
+            <issue>3</issue>
+            <fpage>216</fpage>
+            <page-range>216-38</page-range>
+            <pub-id pub-id-type="pmid">19306895</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20195.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zhu</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Luo</surname>
+                <given-names>Q</given-names>
+              </name>
+              <name>
+                <surname>Davis</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Westra</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Vickers</surname>
+                <given-names>TJ</given-names>
+              </name>
+              <name>
+                <surname>Fleckenstein</surname>
+                <given-names>JM</given-names>
+              </name>
+            </person-group>
+            <article-title>Molecular Determinants of Enterotoxigenic Escherichia coli Heat-Stable Toxin Secretion and Delivery.</article-title>
+            <source>Infect Immun</source>
+            <year>2018</year>
+            <month>Nov</month>
+            <volume>86</volume>
+            <issue>11</issue>
+            <pub-id pub-id-type="pmid">30126899</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20195.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kaupp</surname>
+                <given-names>UB</given-names>
+              </name>
+              <name>
+                <surname>Seifert</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Cyclic nucleotide-gated ion channels.</article-title>
+            <source>Physiol Rev</source>
+            <year>2002</year>
+            <month>Jul</month>
+            <volume>82</volume>
+            <issue>3</issue>
+            <fpage>769</fpage>
+            <page-range>769-824</page-range>
+            <pub-id pub-id-type="pmid">12087135</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20195.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cannone</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Cabassi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Volpi</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Burnett</surname>
+                <given-names>JC</given-names>
+              </name>
+              <collab>Jr</collab>
+            </person-group>
+            <article-title>Atrial Natriuretic Peptide: A Molecular Target of Novel Therapeutic Approaches to Cardio-Metabolic Disease.</article-title>
+            <source>Int J Mol Sci</source>
+            <year>2019</year>
+            <month>Jul</month>
+            <day>02</day>
+            <volume>20</volume>
+            <issue>13</issue>
+            <pub-id pub-id-type="pmid">31269783</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20195.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Francis</surname>
+                <given-names>SH</given-names>
+              </name>
+              <name>
+                <surname>Busch</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Corbin</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Sibley</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>cGMP-dependent protein kinases and cGMP phosphodiesterases in nitric oxide and cGMP action.</article-title>
+            <source>Pharmacol Rev</source>
+            <year>2010</year>
+            <month>Sep</month>
+            <volume>62</volume>
+            <issue>3</issue>
+            <fpage>525</fpage>
+            <page-range>525-63</page-range>
+            <pub-id pub-id-type="pmid">20716671</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20195.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Francis</surname>
+                <given-names>SH</given-names>
+              </name>
+              <name>
+                <surname>Corbin</surname>
+                <given-names>JD</given-names>
+              </name>
+            </person-group>
+            <article-title>Cyclic nucleotide-dependent protein kinases: intracellular receptors for cAMP and cGMP action.</article-title>
+            <source>Crit Rev Clin Lab Sci</source>
+            <year>1999</year>
+            <month>Aug</month>
+            <volume>36</volume>
+            <issue>4</issue>
+            <fpage>275</fpage>
+            <page-range>275-328</page-range>
+            <pub-id pub-id-type="pmid">10486703</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20195.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lugnier</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Cyclic nucleotide phosphodiesterase (PDE) superfamily: a new target for the development of specific therapeutic agents.</article-title>
+            <source>Pharmacol Ther</source>
+            <year>2006</year>
+            <month>Mar</month>
+            <volume>109</volume>
+            <issue>3</issue>
+            <fpage>366</fpage>
+            <page-range>366-98</page-range>
+            <pub-id pub-id-type="pmid">16102838</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20195.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kemp-Harper</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Schmidt</surname>
+                <given-names>HH</given-names>
+              </name>
+            </person-group>
+            <article-title>cGMP in the vasculature.</article-title>
+            <source>Handb Exp Pharmacol</source>
+            <year>2009</year>
+            <issue>191</issue>
+            <fpage>447</fpage>
+            <page-range>447-67</page-range>
+            <pub-id pub-id-type="pmid">19089340</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20195.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pfeifer</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Kili&#x00107;</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Hoffmann</surname>
+                <given-names>LS</given-names>
+              </name>
+            </person-group>
+            <article-title>Regulation of metabolism by cGMP.</article-title>
+            <source>Pharmacol Ther</source>
+            <year>2013</year>
+            <month>Oct</month>
+            <volume>140</volume>
+            <issue>1</issue>
+            <fpage>81</fpage>
+            <page-range>81-91</page-range>
+            <pub-id pub-id-type="pmid">23756133</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20195.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kleppisch</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Feil</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>cGMP signalling in the mammalian brain: role in synaptic plasticity and behaviour.</article-title>
+            <source>Handb Exp Pharmacol</source>
+            <year>2009</year>
+            <issue>191</issue>
+            <fpage>549</fpage>
+            <page-range>549-79</page-range>
+            <pub-id pub-id-type="pmid">19089345</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20195.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chaykovska</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Heunisch</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>von Einem</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Hocher</surname>
+                <given-names>CF</given-names>
+              </name>
+              <name>
+                <surname>Tsuprykov</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Pavkovic</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Sandner</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Kretschmer</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Chu</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Elitok</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Stasch</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Hocher</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Urinary cGMP predicts major adverse renal events in patients with mild renal impairment and/or diabetes mellitus before exposure to contrast medium.</article-title>
+            <source>PLoS One</source>
+            <year>2018</year>
+            <volume>13</volume>
+            <issue>4</issue>
+            <fpage>e0195828</fpage>
+            <pub-id pub-id-type="pmid">29649334</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20195.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mohammed</surname>
+                <given-names>NM</given-names>
+              </name>
+              <name>
+                <surname>Mahfouz</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Achkar</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Rafie</surname>
+                <given-names>IM</given-names>
+              </name>
+              <name>
+                <surname>Hajar</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Contrast-induced Nephropathy.</article-title>
+            <source>Heart Views</source>
+            <year>2013</year>
+            <month>Jul</month>
+            <volume>14</volume>
+            <issue>3</issue>
+            <fpage>106</fpage>
+            <page-range>106-16</page-range>
+            <pub-id pub-id-type="pmid">24696755</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20195.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Liguori</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Russo</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Curcio</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Bulli</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Aran</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Della-Morte</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Gargiulo</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Testa</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Cacciatore</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Bonaduce</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Abete</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Oxidative stress, aging, and diseases.</article-title>
+            <source>Clin Interv Aging</source>
+            <year>2018</year>
+            <volume>13</volume>
+            <fpage>757</fpage>
+            <page-range>757-772</page-range>
+            <pub-id pub-id-type="pmid">29731617</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20195.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Patel</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Lakhkar</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Wolin</surname>
+                <given-names>MS</given-names>
+              </name>
+            </person-group>
+            <article-title>Redox Mechanisms Influencing cGMP Signaling in Pulmonary Vascular Physiology and Pathophysiology.</article-title>
+            <source>Adv Exp Med Biol</source>
+            <year>2017</year>
+            <volume>967</volume>
+            <fpage>227</fpage>
+            <page-range>227-240</page-range>
+            <pub-id pub-id-type="pmid">29047089</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20195.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Schlossmann</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Schinner</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>cGMP becomes a drug target.</article-title>
+            <source>Naunyn Schmiedebergs Arch Pharmacol</source>
+            <year>2012</year>
+            <month>Mar</month>
+            <volume>385</volume>
+            <issue>3</issue>
+            <fpage>243</fpage>
+            <page-range>243-52</page-range>
+            <pub-id pub-id-type="pmid">22297800</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20195.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hannig</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Tchernychev</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Kurtz</surname>
+                <given-names>CB</given-names>
+              </name>
+              <name>
+                <surname>Bryant</surname>
+                <given-names>AP</given-names>
+              </name>
+              <name>
+                <surname>Currie</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Silos-Santiago</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <article-title>Guanylate cyclase-C/cGMP: an emerging pathway in the regulation of visceral pain.</article-title>
+            <source>Front Mol Neurosci</source>
+            <year>2014</year>
+            <volume>7</volume>
+            <fpage>31</fpage>
+            <pub-id pub-id-type="pmid">24795564</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20195.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shen</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Johnson</surname>
+                <given-names>DW</given-names>
+              </name>
+              <name>
+                <surname>Gobe</surname>
+                <given-names>GC</given-names>
+              </name>
+            </person-group>
+            <article-title>The role of cGMP and its signaling pathways in kidney disease.</article-title>
+            <source>Am J Physiol Renal Physiol</source>
+            <year>2016</year>
+            <month>Oct</month>
+            <day>01</day>
+            <volume>311</volume>
+            <issue>4</issue>
+            <fpage>F671</fpage>
+            <page-range>F671-F681</page-range>
+            <pub-id pub-id-type="pmid">27413196</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20195.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wang</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Tsang</surname>
+                <given-names>SH</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Two pathways of rod photoreceptor cell death induced by elevated cGMP.</article-title>
+            <source>Hum Mol Genet</source>
+            <year>2017</year>
+            <month>Jun</month>
+            <day>15</day>
+            <volume>26</volume>
+            <issue>12</issue>
+            <fpage>2299</fpage>
+            <page-range>2299-2306</page-range>
+            <pub-id pub-id-type="pmid">28379353</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20195.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dulce</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Yiginer</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Gonzalez</surname>
+                <given-names>DR</given-names>
+              </name>
+              <name>
+                <surname>Goss</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Feng</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Zheng</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Hare</surname>
+                <given-names>JM</given-names>
+              </name>
+            </person-group>
+            <article-title>Hydralazine and organic nitrates restore impaired excitation-contraction coupling by reducing calcium leak associated with nitroso-redox imbalance.</article-title>
+            <source>J Biol Chem</source>
+            <year>2013</year>
+            <month>Mar</month>
+            <day>01</day>
+            <volume>288</volume>
+            <issue>9</issue>
+            <fpage>6522</fpage>
+            <page-range>6522-33</page-range>
+            <pub-id pub-id-type="pmid">23319593</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20195.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zhao</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Vanhoutte</surname>
+                <given-names>PM</given-names>
+              </name>
+              <name>
+                <surname>Leung</surname>
+                <given-names>SW</given-names>
+              </name>
+            </person-group>
+            <article-title>Vascular nitric oxide: Beyond eNOS.</article-title>
+            <source>J Pharmacol Sci</source>
+            <year>2015</year>
+            <month>Oct</month>
+            <volume>129</volume>
+            <issue>2</issue>
+            <fpage>83</fpage>
+            <page-range>83-94</page-range>
+            <pub-id pub-id-type="pmid">26499181</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20195.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Medina</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Segarra</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Mart&#x000ed;nez-Le&#x000f3;n</surname>
+                <given-names>JB</given-names>
+              </name>
+              <name>
+                <surname>Vila</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Otero</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Lluch</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Relaxation and cGMP formation in response to sildenafil and sodium nitroprusside in saphenous veins from normotensive and hypertensive patients.</article-title>
+            <source>Am J Hypertens</source>
+            <year>2002</year>
+            <month>Sep</month>
+            <volume>15</volume>
+            <issue>9</issue>
+            <fpage>798</fpage>
+            <page-range>798-802</page-range>
+            <pub-id pub-id-type="pmid">12219875</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

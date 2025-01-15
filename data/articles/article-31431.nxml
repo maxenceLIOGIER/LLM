@@ -1,0 +1,2807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-31431" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>X-Linked Immunodeficiency</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Aytekin</surname>
+            <given-names>G&#x000f6;khan</given-names>
+          </name>
+          <aff>Konya Education and Training Hospital, Meram, Konya, Turkey</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Vaqar</surname>
+            <given-names>Sarosh</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>G&#x000f6;khan Aytekin declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Sarosh Vaqar declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>8</day>
+          <month>5</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-31431.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Primary immunodeficiencies (PID) are a heterogeneous group of diseases, mostly inherited, caused by more than 400 intrinsic disorders of the immune system. Seven different immune deficiency states, which are transmitted with the X chromosome, have been described. Those are X-linked chronic granulomatous disease (X-CGD), X-linked immunodeficiency with Hyper-IgM, X-linked lymphoproliferative syndrome, Wiskott-Aldrich syndrome, X-linked severe combined immunodeficiency (X-SCID), X-linked agammaglobulinemia (XLA), and IPEX. This activity reviews the evaluation and treatment of X-linked immunodeficiency and highlights the role of the interprofessional team in evaluating and treating patients with this condition.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Describe the pathophysiology of X linked immunodeficiencies.</p></list-item><list-item><p>Outline the evaluation of X linked immunodeficiencies.</p></list-item><list-item><p>Review the management of X linked immunodeficiencies.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=31431&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=31431">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-31431.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Primary immunodeficiencies (PID) are a heterogeneous group of diseases, mostly inherited, caused by more than 400 intrinsic disorders of the immune system.<xref ref-type="bibr" rid="article-31431.r1">[1]</xref> Patients suffer from frequent and recurrent infections as well as the symptoms of immune dysregulation such as autoimmunity, lymphoproliferation, granulomas, chronic lung diseases, and susceptibility to malignancies.<xref ref-type="bibr" rid="article-31431.r1">[1]</xref><xref ref-type="bibr" rid="article-31431.r2">[2]</xref>&#x000a0;</p>
+        <p>Seven different immune deficiency states, which are transmitted with the X chromosome, have been described. Those are X-linked chronic granulomatous disease (X-CGD), X-linked immunodeficiency with hyper-IgM, X-linked lymphoproliferative syndrome, Wiskott-Aldrich syndrome, X-linked severe combined immunodeficiency (X-SCID), X-linked agammaglobulinemia (XLA), and IPEX (immune deficiency, polyendocrinopathy, enteropathy, and X-linked expressions).</p>
+        <p>Although these diseases are rarely seen as diseases, they are associated with serious infections and increased morbidity and mortality from the early stages of life, as they cause cellular and/or humoral immune deficiency. Revealing these gene defects over the X chromosome ensures the identification of the carriers, however, this identification is quite difficult in the absence of family history.</p>
+      </sec>
+      <sec id="article-31431.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p><bold>Chronic granulomatous disease (CGD)</bold> is a genetically heterogeneous disease progressing with frequent and recurrent life-threatening bacterial and fungal infections and granuloma formation.&#x000a0;</p>
+        <p><bold>Hyper immunoglobulin M syndrome</bold> is a heterogeneous syndrome that resulted from a defect in class switch recombination (CSR) and characterized by normal or high IgM levels, low IgG, and IgA levels. The most prevalent form of the disease is the X-linked form resulting in mutation in the CD40LG gene coding the CD40 ligand.&#x000a0;</p>
+        <p><bold>X-linked lymphoproliferative syndrome</bold> typically indicates an irregular response of the immune system to Epstein Barr virus infection. Dysgammaglobulinemia, lymphoma, and fulminant mononucleosis are the 3 cardinal symptoms. Also, lymphocytic vasculitis, aplastic anemia, and lymphoid granulomatosis can be seen.</p>
+        <p><bold>Wiskott-Aldrich syndrome</bold> is an X-linked disorder occurring as a result of a mutation in the gene coding Wiskott-Aldrich syndrome protein (WASp). The disease is characterized by susceptibility to infections (due to both adaptive and innate immune disorders), microthrombocytopenia, and eczema. The course of the disease can both be severe depending on the mutations in the WAS gene (classical form) and relatively be in mild forms such as X-linked thrombocytopenia and X-linked neutropenia.&#x000a0;</p>
+        <p><bold>X-linked severe combined immunodeficiency (X-SCID)</bold> is the most prevalent and severe immunodeficiency occurring as a result of a defect in the common gamma chain IL-2 receptor gamma and causing mortality within the first 2 years if not treated.<xref ref-type="bibr" rid="article-31431.r3">[3]</xref></p>
+        <p><bold>X-linked agammaglobulinemia (XLA)</bold> is a primary immunodeficiency characterized by profound hypogammaglobulinemia, antibody deficiency, and susceptibility to infections.<xref ref-type="bibr" rid="article-31431.r4">[4]</xref> Clinical symptoms usually occur in male children when they are 3-18 months old.<xref ref-type="bibr" rid="article-31431.r5">[5]</xref> XLA is associated with a disorder/absence of the signal transduction molecule named Bruton tyrosine kinase (BTK).&#x000a0;</p>
+        <p><bold>IPEX</bold> is an abbreviation established by using the initials of immune deficiency, polyendocrinopathy, enteropathy, and X-linked expressions. IPEX is a rare but fatal X-linked disorder.</p>
+      </sec>
+      <sec id="article-31431.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p>The prevalence of X-linked CGD is 1 in about 200,000 live births, and since more than half of the mutations are X-linked, the disease is more common in men. X-linked CGD may occur at any age from infancy to late adolescence, however, cases are diagnosed usually below 5 years of age.</p>
+        <p>Males affected by hyper IgM syndrome start getting symptomatic by one year of age, and the majority develop symptoms by four years.</p>
+        <p>It has been estimated that XLP affects 1-3 patients in the birth of 1 million males. However, since many patients with fatal fulminant infectious mononucleosis cannot be considered XLP, the actual number of cases is considered to be higher than this.<xref ref-type="bibr" rid="article-31431.r6">[6]</xref> Clinical symptoms occur at an average age of 2.5.</p>
+        <p>WAS is a rare disease and the estimated prevalence is one in 100,000 live birth.<xref ref-type="bibr" rid="article-31431.r7">[7]</xref> The disease is prevalent in males due to being X-linked.</p>
+        <p>X-SCID is the most common SCID form.</p>
+        <p>It is highly difficult to predict the definitive incidence and prevalence of XLA disease with the absence of population screening, but it is presumed to be 1 in every birth of 190000 males based on the data acquired from the United States registry system.<xref ref-type="bibr" rid="article-31431.r8">[8]</xref></p>
+        <p>Prevalence and incidence of IPEX thereof remain clearly unknown. However, retrospective analyses suggest that IPEX disease has been diagnosed or reported less than expected.</p>
+      </sec>
+      <sec id="article-31431.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>Phagocytes, for the purpose of forming reactive oxygen radicals, use nicotinamide adenine dinucleotide phosphate (NADPH) oxidase system. A deficiency in the nicotinamide adenine dinucleotide phosphate (NADPH) oxidase complex causes a functional defect leading to insufficiency in phagocytes killing pathogenic microorganisms. This system is comprised of 6 different proteins, however, a functional loss or inactivation in any of these proteins may cause the disease. Gp91phox gene mutation is observed in 65% to 70% of the cases and this gene defect is associated with the X-linked CGD.</p>
+        <p>The main problem in X-linked hyper IgM syndrome is in CSR (class-switch recombination). CSR is the transformation of the immunoglobulin mu chain into other immunoglobulin chain isotypes with different properties. Costimulatory signals on the T-cell surface serve an important function in CSR. Activated CD4 (+) follicular helper T cells express CD40 ligand and secrete various cytokines to recognize the antigen. Cytokines secreted by activated CD4+ T cells bind on the cognate receptors expressed on B-cells and direct the CSR to specific immunoglobulin isotypes. CD40L binds on CD40 expressed by B-cells.<xref ref-type="bibr" rid="article-31431.r9">[9]</xref></p>
+        <p>Sixty percent of the XLP cases occur as a result of a mutation in the gene coding the SLAM-related (signaling lymphocyte activation molecule) protein.<xref ref-type="bibr" rid="article-31431.r10">[10]</xref> XLP is an X-linked disorder and de novo mutation is quite rare. EBV infections are the predominant infection in patients with XLP due to the possible B-cell tropism of EBV. Although clinical symptoms are generally triggered by EBV infections, many immunological disorders occur prior to EBV exposure.&#x000a0;</p>
+        <p>WASp is synthesized in the cytoplasm of hematopoietic cells and critical in the actin remodeling of the cytoskeleton. Immunological synapses cannot occur between T-cells and antigen-presenting cells such as dendritic cells.<xref ref-type="bibr" rid="article-31431.r11">[11]</xref> Thus, insufficient migration and adhesion as well as an insufficient synapse between other cells occur accordingly. Disorder in T cells also disrupts the functions of B-cells.</p>
+        <p>The defect in cytokine receptor subunit gamma-c gene on the X-chromosome causes the X-SCID. This receptor subunit is common in IL-2, 4,7, 9, 15, and 21.<xref ref-type="bibr" rid="article-31431.r12">[12]</xref> The mutation in this gene leads to serious issues in many cytokine pathways within the immune system and disrupting the development and functions of lymphocyte. This condition results in the absence of T and NK-cell and non-functional B-cells.<xref ref-type="bibr" rid="article-31431.r13">[13]</xref></p>
+        <p>XLA disease caused by a mutation in the BTK gene has been named the Bruton gene to honor the clinician who diagnosed the first case. Approximately half of the patients are born in families previously diagnosed with XLA and this condition refers to the fact that the other half of the patients are contracted with the disease as a result of spontaneous mutations. B-cell development defect occurring in the patients as a result of BTK mutation results in decreased B-cell count in tissue and blood and reduced differentiation in plasma cell and ultimately in decreased levels of immunoglobulin along with the decreased specific antibody responses.<xref ref-type="bibr" rid="article-31431.r4">[4]</xref>&#x000a0;The absence of immunoglobulin involved in opsonization and neutralization of the encapsulated bacterias leads to susceptibility for infections caused by the encapsulated bacterias in particular.<xref ref-type="bibr" rid="article-31431.r14">[14]</xref></p>
+        <p>IPEX occurs as a result of a mutation in the FOXP3 transcription factor. FOXP3 is crucial for the function of Treg cells also known as regulatory T lymphocyte. Treg cells have a strong immune suppressive effect and serve a function in establishing immune balance. Moreover, they are involved in transplantation tolerance as well as in the regulation of autoimmune and allergic events.</p>
+      </sec>
+      <sec id="article-31431.s6" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>Infections in X-linked CGD have often been caused by catalase-positive microorganisms. Infections most prevalently occur in the lungs, skin, lymph nodes, and liver. Granuloma formation, which is a complication of inflammation, often causes problems for the lungs, gastrointestinal tract, and urinary system. CGD associated colitis have been observed in 30% to 40% of the patients (6). Hepatomegaly, splenomegaly, and lymphadenopathy can be observed in the patients depending on granulomas.<xref ref-type="bibr" rid="article-31431.r15">[15]</xref></p>
+        <p>The characteristics of X-linked Hyper IgM syndrome vary depending on the nature of the genetic defect. CD40 ligand and CD40 deficiency are within the combined immunodeficiency class. CD40 ligand or CD40 deficiency is X-linked and is the most prevalent form of the disease. CD40L or CD40 deficiency reveal similar clinical characteristics because in both cases, the interaction between the CD4 (+) T cells and antigen-presenting cells are disrupted. Patients are presented with frequent and recurrent upper respiratory tract infections with encapsulated microorganisms. Furthermore, opportunistic infections such as pneumocystis, cryptosporidium, and Histoplasma can be observed. Forty percent of the patients have been reported Pneumocystis jirovecii pneumonia.<xref ref-type="bibr" rid="article-31431.r16">[16]</xref> X-linked Hyper IgM further includes increased risk of hepatocarcinoma, cholangiocarcinoma, lymphoma, and peripheral neuroectodermal tumor.&#x000a0;</p>
+        <p>The most prevalent phenotypes of XLP are fulminant infectious mononucleosis, dysgammaglobulinemia, and B-cell lymphoproliferative disease. Patients develop an apparent cytotoxic cellular response during EBV infection. B and T-cell counts are normal or increased, but functions thereof are abnormal. IgG levels are low and lgM levels are often increased. NK cell activity is reduced.</p>
+        <p>Mutations in the WAS gene result in various clinical phenotypes. The clinical phenotype may vary over time, and the clinical profile may not be established fully under 2 years of age.&#x000a0; In the classic WAS, male children typically suffer from bleeding disorder due to thrombocytopenia, recurrent bacterial, viral, and fungal infections, and common eczema. Lymphadenopathy and hepatosplenomegaly can also be detected. However, adenoid tissue is not prevalently encountered. Patients with WAS are prone to autoimmune complications and lymphoma or other malignancies, and this causes premature mortality.<xref ref-type="bibr" rid="article-31431.r17">[17]</xref></p>
+        <p>Patients with X-SCID who have not been diagnosed with the neonatal screening program are suffered from recurrent opportunistic infections, chronic diarrhea, oral candidiasis, otitis media, and growth retardation as of the first year of life. X-SCID patients are diagnosed by the scantiness or absence of the T-cell receptor excision circles in the neonatal screening program (Trecs). T-B+NK- phenotype is available in the majority of the patients. T-cells are either absent or in few numbers (less than 300 cells/microL). The naive CD4+ T-cell rate is less than 20%. B-cells are mostly normal but non-functional. NK cells are either less in number or absent.<xref ref-type="bibr" rid="article-31431.r18">[18]</xref></p>
+        <p>The only characteristic physical examination finding of XLA is the absence of secondary lymphoid tissues rich in B cells, such as tonsils and adenoids. Also, palpable lymphoid tissue is not available in certain patients. However, peripheral nodes can be observed depending on the hypertrophy of the T-cell areas. Although it is diagnosed at an early stage due to the existence of a previously affected individual in the family, many patients are presented with recurrent infections. Diagnosis is established at the age of 2.6 in male children with family history, it is the age of 5.4 years in male children with no family history. Term neonates are under a passive control due to immunoglobulin transferred from mother in the last trimester and thus, the clinical symptoms in the patients may not be observed in up to 3 months.<xref ref-type="bibr" rid="article-31431.r19">[19]</xref></p>
+        <p>The clinical symptoms of the IPEX in a male patient are autoimmune-induced life-threatening chronic diarrhea, autoimmune endocrinopathy (neonatal type 1 diabetes mellitus or thyroiditis), and often eczematous dermatitis, respectively. Growth retardation is quite prevalent in children. Besides, autoimmune-induced cytopenias and food allergies can be encountered accordingly.</p>
+      </sec>
+      <sec id="article-31431.s7" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>In X-linked CGD, increased sedimentation rate, C-reagent protein, and hypergammaglobulinemia are expected due to chronic inflammation in the laboratory investigation. Furthermore, chronic disease anemia and hypoalbuminemia, especially in patients with gastrointestinal involvement, can be experienced.&#x000a0;Reduced memory B-cells and CD4 (+) T cell lymphopenia are frequently observed in the flow cytometry analysis. Male patients with a history of frequent and recurrent infections, especially in cases of abscesses and infections with CGD-related pathogens, X-linked CGD should be suspected and patients should be tested for neutrophil function.<xref ref-type="bibr" rid="article-31431.r20">[20]</xref> In case a disorder is identified in the neutrophil function test, a rapid functional and genetic screening by genotyping is required accordingly.<xref ref-type="bibr" rid="article-31431.r21">[21]</xref> In families with a history of CGD, it is extremely important to identify potential patients with prenatal or neonatal screening programs.</p>
+        <p>B-cell defect is experienced in the entire X-linked Hyper IgM syndromes. CD40 ligand deficiency is also coexistent with T-cell defect and dendritic cell/monocyte defect. Levels of IgG, IgM, and IgE are distinctively lower. IgM levels are normal or high. Antibody response to protein and polysaccharide antigens is insufficient. B-cell count is normal, however, memory B-cell count is low and significantly lower for switched memory B-cell count.<xref ref-type="bibr" rid="article-31431.r22">[22]</xref> Hyper IgM syndrome is required to be suspected in the patients with appropriate clinical complaints and with low levels of lgG and lgA or increased levels of IgM. A definitive diagnosis requires mutation analysis.</p>
+        <p>T-cells with reduced count and function, insufficient antibody response to vaccines, abnormal immunoglobulin isotypes, normal or increased NK cell count but decreased NK cell function have been observed in the laboratory examination. Treg functions can also be reduced accordingly.<xref ref-type="bibr" rid="article-31431.r23">[23]</xref> WAS is required to be suspected in male children with petechiae, ecchymosis, and congenital or early-onset thrombocytopenia. Deletion mutation is required to be demonstrated in the WAS gene for the diagnosis to be confirmed.<xref ref-type="bibr" rid="article-31431.r17">[17]</xref>&#x000a0;The existence or absence of WAS protein is able to be demonstrated on lymphocytes using anti-WASp antibodies in flow cytometry.<xref ref-type="bibr" rid="article-31431.r24">[24]</xref></p>
+        <p>X-SCID should be suspected in all male patients with the T-B + NK-SCID phenotype. The diagnosis is confirmed by the demonstration of a heterozygous mutation in the IL2RG gene by means of next-generation sequencing. X-SCID can also be diagnosed by demonstration of the absence of a common gamma chain (CD132) on the lymphocytes by flow cytometry. This method can yield faster results based on genetic analysis.</p>
+        <p>In XLA, hypogammaglobulinemia/agammaglobulinemia, insufficiency of antibody response to vaccines, lower or absence of B-cell count in peripheral blood is available in the laboratory examination. The entire antibodies are reduced in XLA and the mature B-cell rate is below 2%.<xref ref-type="bibr" rid="article-31431.r25">[25]</xref> Likewise, no plasma cell is observed in lymphoid tissues, bone marrow, and lamina propria of rectal mucosa.<xref ref-type="bibr" rid="article-31431.r25">[25]</xref></p>
+        <p>IPEX is required to be regarded in the entire male patients with chronic persistent diarrhea, growth retardation, and/or infantile-onset type 1 diabetes mellitus. The existence of dermatitis, autoimmune cytopenia, or thyroiditis support the diagnosis, however, are not a requirement for the diagnosis. The definitive diagnosis in patients suspected to be with IPEX is ensured by the mutation analysis of the FOXP3 gene.</p>
+      </sec>
+      <sec id="article-31431.s8" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>Antimicrobial and immunomodulatory treatments, early diagnosis of infections, and aggressive treatment of complications of infections establish the basis of the treatment in X-linked CGD.<xref ref-type="bibr" rid="article-31431.r26">[26]</xref> These patients have been recommended with life-time antibacterial and antifungal prophylaxis. Immunomodulatory therapy can be added based on the clinical profile of the patients. Trimethoprim-sulfamethoxazole can be preferred as antibacterial prophylaxis and itraconazole can be preferred as an anti-fungal treatment. Interferon-gamma treatment can serve as an add-on for this treatment.<xref ref-type="bibr" rid="article-31431.r27">[27]</xref> Oral glucocorticoids are commonly used to control inflammatory complications of the disease. Anti-inflammatory agents such as azathioprine and sulfasalazine can be required to avoid long-term adverse effects of the steroid. The definitive treatment of X-linked CGD is HCT.<xref ref-type="bibr" rid="article-31431.r20">[20]</xref></p>
+        <p>The entire patients with X-linked Hyper IgM syndrome are required to be treated with immunoglobulin replacement. Moreover, these patients are required to be assessed in terms of liver function at a frequency of 6 months and the existence of cryptosporidium and microsporidium is required to be investigated accordingly. The patients with infection identified with these organisms are required to be treated with azithromycin or nitazoxanide.<xref ref-type="bibr" rid="article-31431.r28">[28]</xref> The sole curative treatment of the disease is HCT.</p>
+        <p>Treatment of XLP is trilateral as to be the treatment of acute disease symptoms, prevention from possible sequelae, and curative treatment. Anti-viral agents and immunoglobulin therapy are beneficial in the acute treatment of the disease. Another alternative treatment is ablative B-cell treatment with rituximab.<xref ref-type="bibr" rid="article-31431.r29">[29]</xref> Immunoglobulin treatment is also able to be used to prevent primary infections and EBV reactivation, however, the efficacy of IGRT in this regard remains unclear.<xref ref-type="bibr" rid="article-31431.r30">[30]</xref> Although gene therapy is promising, the sole curative treatment of XLP is HCT.&#x000a0;</p>
+        <p>General precautions and protective approaches, intravenous immunoglobulin therapy, low dose IL-2 treatment are involved for the purpose of protection against infections in the treatment of WAS.<xref ref-type="bibr" rid="article-31431.r31">[31]</xref> Moreover, splenectomy along with stem cell transplantation with immunosuppressive therapy can be required for the management of autoimmune complications.<xref ref-type="bibr" rid="article-31431.r32">[32]</xref> Gene therapy is a promising treatment approach in this regard.<xref ref-type="bibr" rid="article-31431.r17">[17]</xref></p>
+        <p>The definitive treatment of X-SCID is allogeneic hematopoietic cell transplantation (HCT). Gene therapy is currently at the stage of clinical research. The formation of T, B, and NK engraftment is required to ensure complete immune functions with HCT. In the case of engraftment of only T-cell, the patients are required to be administered with IGRT due to abnormal B-cell function.<xref ref-type="bibr" rid="article-31431.r3">[3]</xref></p>
+        <p>The basis of the treatment is comprised of immunoglobulin replacement therapy. Moreover, general protective precautions such as avoidance from infections and immunization by inactive vaccines are recommended accordingly. Immunoglobulin treatment reduces the incidence of infection and hospitalization rates. Immunoglobulin treatment further prevents the development of long-term pulmonary insufficiency and reduces the risk of a systemic enteroviral infection.</p>
+        <p>IPEX treatment or management is subdivided into acute and long-term treatment. The patients may present with serious dehydration or metabolic disorders due to infant-onset diabetes mellitus or diarrhea associated with enteropathy prior to or after the diagnosis. Also, the disease may flare up due to infections, vaccination, dietary changes, or other unknown triggers. Management of acute complications requires a multi-disciplinary endeavor. Long-term disease management includes dietary modifications and nutritional optimization for the purpose of avoiding intense immunosuppression and food allergens. HCT is the sole curative treatment of the disease. Although the disorder is recovered after the transplantation, endocrinopathies are persistent due to end-organ damage.</p>
+      </sec>
+      <sec id="article-31431.s9" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <p>In X-linked CGD; Cystic fibrosis, hyper IgE syndrome, glucose-6-phosphate dehydrogenase (G6PD) deficiency, glutathione synthetase deficiency, and Crohn disease are required to come to mind in the differential diagnosis.</p>
+        <p>In X-linked hyper IgM; PI3K- delta syndrome, ataxia telangiectasis, Nijmegen breakage syndrome, and CVID (common variable immune deficiency) are required to be considered in the differential diagnosis. Moreover, congenital rubella, use of phenytoin, T-cell leukemia, lymphoma, and nephrotic syndrome can also mimic X-linked hyper IgM syndrome.</p>
+        <p>In XLP; Hemophagocytic lymphohistiocytosis, CVID, Chediak-Higashi syndrome, Griscelli syndrome ve X-linked inhibitor of apoptosis (XIAP) deficiency are required to be considered in the differential diagnosis. Moreover, the entire male patients with severe infectious mononucleosis or lymphoma are required to be tested in terms of XLP.</p>
+        <p>In WAS; Eczema such as Omenn syndrome, IPEX, Netherton syndrome, hyper IgE syndrome, DOCK8 deficiency, and atopic dermatitis are required to be considered in the differential diagnosis.&#x000a0;</p>
+        <p>In X-SCID, Janus kinase 3 (JAK3) deficiency with autosomal recessive transition causing other T-B + NK- SCID phenotype is required to be considered in the differential diagnosis. The differentiation of both diseases can be performed only by genetic tests.</p>
+        <p>In XLA; Transient hypogammaglobulinemia of infants, CVID, autosomal recessive agammaglobulinemia, and combined agammaglobulinemia with T and B-cell failure should be considered in the differential diagnosis.</p>
+        <p>In IPEX; IPEX-like syndromes, neonatal enteropathy, eosinophilic enteropathies, severe combined immune deficiencies are required to be considered in the differential diagnosis.</p>
+      </sec>
+      <sec id="article-31431.s10" sec-type="Prognosis">
+        <title>Prognosis</title>
+        <p>Survival rates in patients of a young age are much better in X-linked CGD. Although the disease is named fatal granulomatous of childhood when it was first described, the disease-related mortality and morbidity rates have been increased apparently with the use of prophylactic antimicrobial and immunomodulatory treatments.<xref ref-type="bibr" rid="article-31431.r33">[33]</xref> Nowadays, patients' life expectancy has exceeded 40 years of age.</p>
+        <p>Severe and opportunistic infections, liver/biliary tract diseases, and malignancies are considered to be the most prevalent cause of mortality in patients with X-linked hyper IgM syndrome. Survival rates have been increased with HCT and the life expectancy of 20 years has reached 90%.<xref ref-type="bibr" rid="article-31431.r34">[34]</xref> Early transplantation also prevents development of the liver failure.<xref ref-type="bibr" rid="article-31431.r34">[34]</xref><xref ref-type="bibr" rid="article-31431.r35">[35]</xref></p>
+        <p>In XLP, the mortality has been reported as 70% for 10 years of age prior to HCT while as 100% for 40 years of age. Rituximab and intravenous immunoglobulin administration and HCT reversed the mortality rates in the patients with EBV naive. Long-term mortality rates have been reduced below 30%.<xref ref-type="bibr" rid="article-31431.r36">[36]</xref></p>
+        <p>In WAS, life expectancy in the patients not received treatments of hematopoietic cell transplantation or gene therapy has decreased due to infections, bleeding, autoimmune diseases, and malignancies. Bleeding is the principal cause of mortality.<xref ref-type="bibr" rid="article-31431.r37">[37]</xref>&#x000a0;</p>
+        <p>The average diagnosis age of XLA has been significantly reduced within the last 50 years.<xref ref-type="bibr" rid="article-31431.r8">[8]</xref> In addition to this, there have been developments in the immunoglobulin treatment. Therefore, in the last few decades, patients with XLA achieving optimal treatment have no difficulties to reach to adult ages.</p>
+        <p>In case the patients with IPEX are not treated, they generally experience death in the infancy period.<xref ref-type="bibr" rid="article-31431.r38">[38]</xref>&#x000a0; Regardless of the fact that the disease is endeavored to be controlled by HCT and immunosuppressive treatments and even though the improvements in prognosis have been reported in the studies released over the years, the prognosis of the disease is still not good enough.</p>
+      </sec>
+      <sec id="article-31431.s11" sec-type="Complications">
+        <title>Complications</title>
+        <p>In chronic granulomatous disease, infections affect the lung, skin, lymph node, and liver. If it is not recognized or treated on time, it can be complicated by abscesses (skin, lung, organ abscesses), suppurative adenitis, osteomyelitis, pneumonia, and superficial skin infections.</p>
+        <p>X-linked hyper IgM syndrome may be complicated by bronchiectasis due to recurrent lung infections, biliary tract diseases, and CMV-related cirrhosis, and cholangiocarcinoma, if not diagnosed early and treated appropriately.</p>
+        <p>XLP patients can be complicated by fulminant infectious mononucleosis and lymphoma, as well as lymphocytic vasculitis, aplastic anemia.</p>
+        <p>The classic WAS, may be complicated by EBV-associated lymphoma. Autoimmune events have also been reported in about half of the cases.</p>
+      </sec>
+      <sec id="article-31431.s12" sec-type="Deterrence and Patient Education">
+        <title>Deterrence and Patient Education</title>
+        <p>Revealing these gene defects over the X chromosome ensures the identification of the carriers, however, this identification is quite difficult in the absence of family history. Therefore, screening based on diagnosed cases is very important for the detection of unborn or asymptomatic individuals.</p>
+      </sec>
+      <sec id="article-31431.s13" sec-type="Pearls and Other Issues">
+        <title>Pearls and Other Issues</title>
+        <p>The diagnosis of few X-linked immunodeficiencies require high end diagnostic studies and clinical finding do not suffice for the determination of the changes in the organ system affected.<xref ref-type="bibr" rid="article-31431.r39">[39]</xref></p>
+        <p>Wiskott-Aldrich syndrome should be considered in all males with very early age of onset of symptoms, decreased MPV, high eosinophil count and high IgE elevated along with low CD+8 T lymphocyte count and high NK cell count and different it from ITP related illness.<xref ref-type="bibr" rid="article-31431.r40">[40]</xref></p>
+      </sec>
+      <sec id="article-31431.s14" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>X-linked immunodeficiencies are relatively rare diseases and affect males to a higher extent. Diagnosis, treatment, and management of these diseases require endeavors of a dedicated multi-disciplinary team. The team consists of primary medical care, immunologists, biochemists, pathologists, infectious disease specialists, nurse practitioners, and counselors.<xref ref-type="bibr" rid="article-31431.r4">[4]</xref>&#x000a0;Genetic tests are required most of the time to verify the diagnosis. Many options such as antibiotics, immunosuppressives, immunoglobulin replacement, gene therapy, and bone marrow transplantation are required to be used appropriately and sufficiently in the treatment.<xref ref-type="bibr" rid="article-31431.r41">[41]</xref>&#x000a0;The screenings aiming for the identification of the carriers with no symptoms, increased awareness on immunodeficiencies, chances of early diagnosis of patients by neonatal screening programs, and increased options for diagnosis, visualization, and treatment of primary immunodeficiencies have successfully contributed to the increase in life expectancy of these patients.</p>
+      </sec>
+      <sec id="article-31431.s15">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=31431&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=31431">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/genetic-disorders/x-linked-immunodeficiency/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=31431">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/31431/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=31431">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-31431.s16">
+        <title>References</title>
+        <ref id="article-31431.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bousfiha</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Jeddane</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Picard</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Ailal</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Bobby Gaspar</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Al-Herz</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Chatila</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Crow</surname>
+                <given-names>YJ</given-names>
+              </name>
+              <name>
+                <surname>Cunningham-Rundles</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Etzioni</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Franco</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Holland</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Klein</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Morio</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Ochs</surname>
+                <given-names>HD</given-names>
+              </name>
+              <name>
+                <surname>Oksenhendler</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Puck</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Tang</surname>
+                <given-names>MLK</given-names>
+              </name>
+              <name>
+                <surname>Tangye</surname>
+                <given-names>SG</given-names>
+              </name>
+              <name>
+                <surname>Torgerson</surname>
+                <given-names>TR</given-names>
+              </name>
+              <name>
+                <surname>Casanova</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Sullivan</surname>
+                <given-names>KE</given-names>
+              </name>
+            </person-group>
+            <article-title>The 2017 IUIS Phenotypic Classification for Primary Immunodeficiencies.</article-title>
+            <source>J Clin Immunol</source>
+            <year>2018</year>
+            <month>Jan</month>
+            <volume>38</volume>
+            <issue>1</issue>
+            <fpage>129</fpage>
+            <page-range>129-143</page-range>
+            <pub-id pub-id-type="pmid">29226301</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Walter</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Farmer</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Foldvari</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Torgerson</surname>
+                <given-names>TR</given-names>
+              </name>
+              <name>
+                <surname>Cooper</surname>
+                <given-names>MA</given-names>
+              </name>
+            </person-group>
+            <article-title>Mechanism-Based Strategies for the Management of Autoimmunity and Immune Dysregulation in Primary Immunodeficiencies.</article-title>
+            <source>J Allergy Clin Immunol Pract</source>
+            <year>2016</year>
+            <season>Nov-Dec</season>
+            <volume>4</volume>
+            <issue>6</issue>
+            <fpage>1089</fpage>
+            <page-range>1089-1100</page-range>
+            <pub-id pub-id-type="pmid">27836058</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pai</surname>
+                <given-names>SY</given-names>
+              </name>
+              <name>
+                <surname>Logan</surname>
+                <given-names>BR</given-names>
+              </name>
+              <name>
+                <surname>Griffith</surname>
+                <given-names>LM</given-names>
+              </name>
+              <name>
+                <surname>Buckley</surname>
+                <given-names>RH</given-names>
+              </name>
+              <name>
+                <surname>Parrott</surname>
+                <given-names>RE</given-names>
+              </name>
+              <name>
+                <surname>Dvorak</surname>
+                <given-names>CC</given-names>
+              </name>
+              <name>
+                <surname>Kapoor</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Hanson</surname>
+                <given-names>IC</given-names>
+              </name>
+              <name>
+                <surname>Filipovich</surname>
+                <given-names>AH</given-names>
+              </name>
+              <name>
+                <surname>Jyonouchi</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Sullivan</surname>
+                <given-names>KE</given-names>
+              </name>
+              <name>
+                <surname>Small</surname>
+                <given-names>TN</given-names>
+              </name>
+              <name>
+                <surname>Burroughs</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Skoda-Smith</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Haight</surname>
+                <given-names>AE</given-names>
+              </name>
+              <name>
+                <surname>Grizzle</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Pulsipher</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Chan</surname>
+                <given-names>KW</given-names>
+              </name>
+              <name>
+                <surname>Fuleihan</surname>
+                <given-names>RL</given-names>
+              </name>
+              <name>
+                <surname>Haddad</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Loechelt</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Aquino</surname>
+                <given-names>VM</given-names>
+              </name>
+              <name>
+                <surname>Gillio</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Davis</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Knutsen</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Smith</surname>
+                <given-names>AR</given-names>
+              </name>
+              <name>
+                <surname>Moore</surname>
+                <given-names>TB</given-names>
+              </name>
+              <name>
+                <surname>Schroeder</surname>
+                <given-names>ML</given-names>
+              </name>
+              <name>
+                <surname>Goldman</surname>
+                <given-names>FD</given-names>
+              </name>
+              <name>
+                <surname>Connelly</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Porteus</surname>
+                <given-names>MH</given-names>
+              </name>
+              <name>
+                <surname>Xiang</surname>
+                <given-names>Q</given-names>
+              </name>
+              <name>
+                <surname>Shearer</surname>
+                <given-names>WT</given-names>
+              </name>
+              <name>
+                <surname>Fleisher</surname>
+                <given-names>TA</given-names>
+              </name>
+              <name>
+                <surname>Kohn</surname>
+                <given-names>DB</given-names>
+              </name>
+              <name>
+                <surname>Puck</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Notarangelo</surname>
+                <given-names>LD</given-names>
+              </name>
+              <name>
+                <surname>Cowan</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>O'Reilly</surname>
+                <given-names>RJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Transplantation outcomes for severe combined immunodeficiency, 2000-2009.</article-title>
+            <source>N Engl J Med</source>
+            <year>2014</year>
+            <month>Jul</month>
+            <day>31</day>
+            <volume>371</volume>
+            <issue>5</issue>
+            <fpage>434</fpage>
+            <page-range>434-46</page-range>
+            <pub-id pub-id-type="pmid">25075835</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Alizadeh</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Dashti</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Mazinani</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Nourizadeh</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Shakerian</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Tajik</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Movahedi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Mamishi</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Pourpak</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Fazlollahi</surname>
+                <given-names>MR</given-names>
+              </name>
+            </person-group>
+            <article-title>Clinical and Genetic Study of X-linked Agammaglobulinemia Patients (The Benefit of Early Diagnosis).</article-title>
+            <source>Iran J Allergy Asthma Immunol</source>
+            <year>2020</year>
+            <month>Jun</month>
+            <day>23</day>
+            <volume>19</volume>
+            <issue>3</issue>
+            <fpage>305</fpage>
+            <page-range>305-309</page-range>
+            <pub-id pub-id-type="pmid">32615664</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Suri</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Rawat</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Singh</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>X-linked Agammaglobulinemia.</article-title>
+            <source>Indian J Pediatr</source>
+            <year>2016</year>
+            <month>Apr</month>
+            <volume>83</volume>
+            <issue>4</issue>
+            <fpage>331</fpage>
+            <page-range>331-7</page-range>
+            <pub-id pub-id-type="pmid">26909497</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Panchal</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Booth</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Cannons</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Schwartzberg</surname>
+                <given-names>PL</given-names>
+              </name>
+            </person-group>
+            <article-title>X-Linked Lymphoproliferative Disease Type 1: A Clinical and Molecular Perspective.</article-title>
+            <source>Front Immunol</source>
+            <year>2018</year>
+            <volume>9</volume>
+            <fpage>666</fpage>
+            <pub-id pub-id-type="pmid">29670631</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Stray-Pedersen</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Abrahamsen</surname>
+                <given-names>TG</given-names>
+              </name>
+              <name>
+                <surname>Fr&#x000f8;land</surname>
+                <given-names>SS</given-names>
+              </name>
+            </person-group>
+            <article-title>Primary immunodeficiency diseases in Norway.</article-title>
+            <source>J Clin Immunol</source>
+            <year>2000</year>
+            <month>Nov</month>
+            <volume>20</volume>
+            <issue>6</issue>
+            <fpage>477</fpage>
+            <page-range>477-85</page-range>
+            <pub-id pub-id-type="pmid">11202238</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Winkelstein</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Marino</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Lederman</surname>
+                <given-names>HM</given-names>
+              </name>
+              <name>
+                <surname>Jones</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Sullivan</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Burks</surname>
+                <given-names>AW</given-names>
+              </name>
+              <name>
+                <surname>Conley</surname>
+                <given-names>ME</given-names>
+              </name>
+              <name>
+                <surname>Cunningham-Rundles</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Ochs</surname>
+                <given-names>HD</given-names>
+              </name>
+            </person-group>
+            <article-title>X-linked agammaglobulinemia: report on a United States registry of 201 patients.</article-title>
+            <source>Medicine (Baltimore)</source>
+            <year>2006</year>
+            <month>Jul</month>
+            <volume>85</volume>
+            <issue>4</issue>
+            <fpage>193</fpage>
+            <page-range>193-202</page-range>
+            <pub-id pub-id-type="pmid">16862044</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lee</surname>
+                <given-names>PP</given-names>
+              </name>
+              <name>
+                <surname>Lao-Araya</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Yang</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Chan</surname>
+                <given-names>KW</given-names>
+              </name>
+              <name>
+                <surname>Ma</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Pei</surname>
+                <given-names>LC</given-names>
+              </name>
+              <name>
+                <surname>Kui</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Mao</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Yang</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Zhao</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Trakultivakorn</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Lau</surname>
+                <given-names>YL</given-names>
+              </name>
+            </person-group>
+            <article-title>Application of Flow Cytometry in the Diagnostics Pipeline of Primary Immunodeficiencies Underlying Disseminated <italic>Talaromyces marneffei</italic> Infection in HIV-Negative Children.</article-title>
+            <source>Front Immunol</source>
+            <year>2019</year>
+            <volume>10</volume>
+            <fpage>2189</fpage>
+            <pub-id pub-id-type="pmid">31572394</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gilmour</surname>
+                <given-names>KC</given-names>
+              </name>
+              <name>
+                <surname>Cranston</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Jones</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Davies</surname>
+                <given-names>EG</given-names>
+              </name>
+              <name>
+                <surname>Goldblatt</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Thrasher</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Kinnon</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Nichols</surname>
+                <given-names>KE</given-names>
+              </name>
+              <name>
+                <surname>Gaspar</surname>
+                <given-names>HB</given-names>
+              </name>
+            </person-group>
+            <article-title>Diagnosis of X-linked lymphoproliferative disease by analysis of SLAM-associated protein expression.</article-title>
+            <source>Eur J Immunol</source>
+            <year>2000</year>
+            <month>Jun</month>
+            <volume>30</volume>
+            <issue>6</issue>
+            <fpage>1691</fpage>
+            <page-range>1691-7</page-range>
+            <pub-id pub-id-type="pmid">10898506</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Liu</surname>
+                <given-names>Q</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Shu</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Yu</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Zhou</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Song</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Zhao</surname>
+                <given-names>X</given-names>
+              </name>
+            </person-group>
+            <article-title>WASp Is Essential for Effector-to-Memory conversion and for Maintenance of CD8<sup>+</sup>T Cell Memory.</article-title>
+            <source>Front Immunol</source>
+            <year>2019</year>
+            <volume>10</volume>
+            <fpage>2262</fpage>
+            <pub-id pub-id-type="pmid">31608063</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Rochman</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Spolski</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Leonard</surname>
+                <given-names>WJ</given-names>
+              </name>
+            </person-group>
+            <article-title>New insights into the regulation of T cells by gamma(c) family cytokines.</article-title>
+            <source>Nat Rev Immunol</source>
+            <year>2009</year>
+            <month>Jul</month>
+            <volume>9</volume>
+            <issue>7</issue>
+            <fpage>480</fpage>
+            <page-range>480-90</page-range>
+            <pub-id pub-id-type="pmid">19543225</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Li</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Ying</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Spencer</surname>
+                <given-names>JF</given-names>
+              </name>
+              <name>
+                <surname>Miao</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Tollefson</surname>
+                <given-names>AE</given-names>
+              </name>
+              <name>
+                <surname>Brien</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Wold</surname>
+                <given-names>WSM</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Toth</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Generation and characterization of an <italic>I</italic><italic>l2rg</italic> knockout Syrian hamster model for XSCID and HAdV-C6 infection in immunocompromised patients.</article-title>
+            <source>Dis Model Mech</source>
+            <year>2020</year>
+            <month>Aug</month>
+            <day>27</day>
+            <volume>13</volume>
+            <issue>8</issue>
+            <pub-id pub-id-type="pmid">32651192</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Arroyo-Martinez</surname>
+                <given-names>YM</given-names>
+              </name>
+              <name>
+                <surname>Saindon</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Raina</surname>
+                <given-names>JS</given-names>
+              </name>
+            </person-group>
+            <article-title>X-linked Agammaglobulinemia Presenting with Multiviral Pneumonia.</article-title>
+            <source>Cureus</source>
+            <year>2020</year>
+            <month>Apr</month>
+            <day>29</day>
+            <volume>12</volume>
+            <issue>4</issue>
+            <fpage>e7884</fpage>
+            <pub-id pub-id-type="pmid">32489738</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Esfandbod</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Kabootari</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Images in clinical medicine. Chronic granulomatous disease.</article-title>
+            <source>N Engl J Med</source>
+            <year>2012</year>
+            <month>Aug</month>
+            <day>23</day>
+            <volume>367</volume>
+            <issue>8</issue>
+            <fpage>753</fpage>
+            <pub-id pub-id-type="pmid">22913685</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Aghamohammadi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Parvaneh</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Rezaei</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Moazzami</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Kashef</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Abolhassani</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Imanzadeh</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Mohammadi</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Hammarstr&#x000f6;m</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>Clinical and laboratory findings in hyper-IgM syndrome with novel CD40L and AICDA mutations.</article-title>
+            <source>J Clin Immunol</source>
+            <year>2009</year>
+            <month>Nov</month>
+            <volume>29</volume>
+            <issue>6</issue>
+            <fpage>769</fpage>
+            <page-range>769-76</page-range>
+            <pub-id pub-id-type="pmid">19575287</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Li</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Ding</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Zhao</surname>
+                <given-names>X</given-names>
+              </name>
+            </person-group>
+            <article-title>[Clinical features and genotype analysis of 132 patients with Wiskott-Aldrich syndrome].</article-title>
+            <source>Zhonghua Er Ke Za Zhi</source>
+            <year>2015</year>
+            <month>Dec</month>
+            <volume>53</volume>
+            <issue>12</issue>
+            <fpage>925</fpage>
+            <page-range>925-30</page-range>
+            <pub-id pub-id-type="pmid">26887548</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Amatuni</surname>
+                <given-names>GS</given-names>
+              </name>
+              <name>
+                <surname>Currier</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Church</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Bishop</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Grimbacher</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Nguyen</surname>
+                <given-names>AA</given-names>
+              </name>
+              <name>
+                <surname>Agarwal-Hashmi</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Aznar</surname>
+                <given-names>CP</given-names>
+              </name>
+              <name>
+                <surname>Butte</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Cowan</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Dorsey</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Dvorak</surname>
+                <given-names>CC</given-names>
+              </name>
+              <name>
+                <surname>Kapoor</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Kohn</surname>
+                <given-names>DB</given-names>
+              </name>
+              <name>
+                <surname>Markert</surname>
+                <given-names>ML</given-names>
+              </name>
+              <name>
+                <surname>Moore</surname>
+                <given-names>TB</given-names>
+              </name>
+              <name>
+                <surname>Naides</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Sciortino</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Feuchtbaum</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Koupaei</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Puck</surname>
+                <given-names>JM</given-names>
+              </name>
+            </person-group>
+            <article-title>Newborn Screening for Severe Combined Immunodeficiency and T-cell Lymphopenia in California, 2010-2017.</article-title>
+            <source>Pediatrics</source>
+            <year>2019</year>
+            <month>Feb</month>
+            <volume>143</volume>
+            <issue>2</issue>
+            <pub-id pub-id-type="pmid">30683812</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Conley</surname>
+                <given-names>ME</given-names>
+              </name>
+              <name>
+                <surname>Rohrer</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Minegishi</surname>
+                <given-names>Y</given-names>
+              </name>
+            </person-group>
+            <article-title>X-linked agammaglobulinemia.</article-title>
+            <source>Clin Rev Allergy Immunol</source>
+            <year>2000</year>
+            <month>Oct</month>
+            <volume>19</volume>
+            <issue>2</issue>
+            <fpage>183</fpage>
+            <page-range>183-204</page-range>
+            <pub-id pub-id-type="pmid">11107501</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yu</surname>
+                <given-names>HH</given-names>
+              </name>
+              <name>
+                <surname>Yang</surname>
+                <given-names>YH</given-names>
+              </name>
+              <name>
+                <surname>Chiang</surname>
+                <given-names>BL</given-names>
+              </name>
+            </person-group>
+            <article-title>Chronic Granulomatous Disease: a Comprehensive Review.</article-title>
+            <source>Clin Rev Allergy Immunol</source>
+            <year>2021</year>
+            <month>Oct</month>
+            <volume>61</volume>
+            <issue>2</issue>
+            <fpage>101</fpage>
+            <page-range>101-113</page-range>
+            <pub-id pub-id-type="pmid">32524254</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kuhns</surname>
+                <given-names>DB</given-names>
+              </name>
+              <name>
+                <surname>Alvord</surname>
+                <given-names>WG</given-names>
+              </name>
+              <name>
+                <surname>Heller</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Feld</surname>
+                <given-names>JJ</given-names>
+              </name>
+              <name>
+                <surname>Pike</surname>
+                <given-names>KM</given-names>
+              </name>
+              <name>
+                <surname>Marciano</surname>
+                <given-names>BE</given-names>
+              </name>
+              <name>
+                <surname>Uzel</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>DeRavin</surname>
+                <given-names>SS</given-names>
+              </name>
+              <name>
+                <surname>Priel</surname>
+                <given-names>DA</given-names>
+              </name>
+              <name>
+                <surname>Soule</surname>
+                <given-names>BP</given-names>
+              </name>
+              <name>
+                <surname>Zarember</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Malech</surname>
+                <given-names>HL</given-names>
+              </name>
+              <name>
+                <surname>Holland</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Gallin</surname>
+                <given-names>JI</given-names>
+              </name>
+            </person-group>
+            <article-title>Residual NADPH oxidase and survival in chronic granulomatous disease.</article-title>
+            <source>N Engl J Med</source>
+            <year>2010</year>
+            <month>Dec</month>
+            <day>30</day>
+            <volume>363</volume>
+            <issue>27</issue>
+            <fpage>2600</fpage>
+            <page-range>2600-10</page-range>
+            <pub-id pub-id-type="pmid">21190454</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Agematsu</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Nagumo</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Shinozaki</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Hokibara</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Yasui</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Terada</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Kawamura</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Toba</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Nonoyama</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Ochs</surname>
+                <given-names>HD</given-names>
+              </name>
+              <name>
+                <surname>Komiyama</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Absence of IgD-CD27(+) memory B cell population in X-linked hyper-IgM syndrome.</article-title>
+            <source>J Clin Invest</source>
+            <year>1998</year>
+            <month>Aug</month>
+            <day>15</day>
+            <volume>102</volume>
+            <issue>4</issue>
+            <fpage>853</fpage>
+            <page-range>853-60</page-range>
+            <pub-id pub-id-type="pmid">9710455</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sun</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Wei</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>PP</given-names>
+              </name>
+              <name>
+                <surname>Ren</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>The role of WASp in T cells and B cells.</article-title>
+            <source>Cell Immunol</source>
+            <year>2019</year>
+            <month>Jul</month>
+            <volume>341</volume>
+            <fpage>103919</fpage>
+            <pub-id pub-id-type="pmid">31047647</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chiang</surname>
+                <given-names>SCC</given-names>
+              </name>
+              <name>
+                <surname>Vergamini</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Husami</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Neumeier</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Quinn</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Ellerhorst</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Sheppard</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Gifford</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Buchbinder</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Joshi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Ifversen</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Kleiner</surname>
+                <given-names>GI</given-names>
+              </name>
+              <name>
+                <surname>Bussel</surname>
+                <given-names>JB</given-names>
+              </name>
+              <name>
+                <surname>Chandrakasan</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Pesek</surname>
+                <given-names>RD</given-names>
+              </name>
+              <name>
+                <surname>Pozos</surname>
+                <given-names>TC</given-names>
+              </name>
+              <name>
+                <surname>Rose</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Scurlock</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Bryceson</surname>
+                <given-names>YT</given-names>
+              </name>
+              <name>
+                <surname>Bleesing</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Marsh</surname>
+                <given-names>RA</given-names>
+              </name>
+            </person-group>
+            <article-title>Screening for Wiskott-Aldrich syndrome by flow cytometry.</article-title>
+            <source>J Allergy Clin Immunol</source>
+            <year>2018</year>
+            <month>Jul</month>
+            <volume>142</volume>
+            <issue>1</issue>
+            <fpage>333</fpage>
+            <page-range>333-335.e8</page-range>
+            <pub-id pub-id-type="pmid">29729304</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gaspar</surname>
+                <given-names>HB</given-names>
+              </name>
+              <name>
+                <surname>Conley</surname>
+                <given-names>ME</given-names>
+              </name>
+            </person-group>
+            <article-title>Early B cell defects.</article-title>
+            <source>Clin Exp Immunol</source>
+            <year>2000</year>
+            <month>Mar</month>
+            <volume>119</volume>
+            <issue>3</issue>
+            <fpage>383</fpage>
+            <page-range>383-9</page-range>
+            <pub-id pub-id-type="pmid">10691907</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r26">
+          <label>26</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Seger</surname>
+                <given-names>RA</given-names>
+              </name>
+            </person-group>
+            <article-title>Modern management of chronic granulomatous disease.</article-title>
+            <source>Br J Haematol</source>
+            <year>2008</year>
+            <month>Feb</month>
+            <volume>140</volume>
+            <issue>3</issue>
+            <fpage>255</fpage>
+            <page-range>255-66</page-range>
+            <pub-id pub-id-type="pmid">18217895</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r27">
+          <label>27</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Liese</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Kloos</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Jendrossek</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Petropoulou</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Wintergerst</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>Notheis</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Gahr</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Belohradsky</surname>
+                <given-names>BH</given-names>
+              </name>
+            </person-group>
+            <article-title>Long-term follow-up and outcome of 39 patients with chronic granulomatous disease.</article-title>
+            <source>J Pediatr</source>
+            <year>2000</year>
+            <month>Nov</month>
+            <volume>137</volume>
+            <issue>5</issue>
+            <fpage>687</fpage>
+            <page-range>687-93</page-range>
+            <pub-id pub-id-type="pmid">11060536</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r28">
+          <label>28</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cabral-Marques</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Schimke</surname>
+                <given-names>LF</given-names>
+              </name>
+              <name>
+                <surname>Pereira</surname>
+                <given-names>PV</given-names>
+              </name>
+              <name>
+                <surname>Falcai</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>de Oliveira</surname>
+                <given-names>JB</given-names>
+              </name>
+              <name>
+                <surname>Hackett</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Errante</surname>
+                <given-names>PR</given-names>
+              </name>
+              <name>
+                <surname>Weber</surname>
+                <given-names>CW</given-names>
+              </name>
+              <name>
+                <surname>Ferreira</surname>
+                <given-names>JF</given-names>
+              </name>
+              <name>
+                <surname>Kuntze</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Ros&#x000e1;rio-Filho</surname>
+                <given-names>NA</given-names>
+              </name>
+              <name>
+                <surname>Ochs</surname>
+                <given-names>HD</given-names>
+              </name>
+              <name>
+                <surname>Torgerson</surname>
+                <given-names>TR</given-names>
+              </name>
+              <name>
+                <surname>Carvalho</surname>
+                <given-names>BT</given-names>
+              </name>
+              <name>
+                <surname>Condino-Neto</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Expanding the clinical and genetic spectrum of human CD40L deficiency: the occurrence of paracoccidioidomycosis and other unusual infections in Brazilian patients.</article-title>
+            <source>J Clin Immunol</source>
+            <year>2012</year>
+            <month>Apr</month>
+            <volume>32</volume>
+            <issue>2</issue>
+            <fpage>212</fpage>
+            <page-range>212-20</page-range>
+            <pub-id pub-id-type="pmid">22193914</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r29">
+          <label>29</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chellapandian</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Das</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Zelley</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Wiener</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Zhao</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Teachey</surname>
+                <given-names>DT</given-names>
+              </name>
+              <name>
+                <surname>Nichols</surname>
+                <given-names>KE</given-names>
+              </name>
+              <collab>EBV-HLH Rituximab Study Group</collab>
+            </person-group>
+            <article-title>Treatment of Epstein Barr virus-induced haemophagocytic lymphohistiocytosis with rituximab-containing chemo-immunotherapeutic regimens.</article-title>
+            <source>Br J Haematol</source>
+            <year>2013</year>
+            <month>Aug</month>
+            <volume>162</volume>
+            <issue>3</issue>
+            <fpage>376</fpage>
+            <page-range>376-82</page-range>
+            <pub-id pub-id-type="pmid">23692048</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r30">
+          <label>30</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tamura</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Uemura</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Yamamoto</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Saito</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Kozaki</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Kishimoto</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Ishida</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Hasegawa</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Hiroki</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Okano</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Imai</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Morio</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Kanegane</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Kosaka</surname>
+                <given-names>Y</given-names>
+              </name>
+            </person-group>
+            <article-title>Hematopoietic cell transplantation for asymptomatic X-linked lymphoproliferative syndrome type 1.</article-title>
+            <source>Allergy Asthma Clin Immunol</source>
+            <year>2018</year>
+            <volume>14</volume>
+            <fpage>82</fpage>
+            <pub-id pub-id-type="pmid">30459818</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r31">
+          <label>31</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jyonouchi</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Gwafila</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Gwalani</surname>
+                <given-names>LA</given-names>
+              </name>
+              <name>
+                <surname>Ahmad</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Moertel</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Holbert</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>JY</given-names>
+              </name>
+              <name>
+                <surname>Kobrinsky</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Roy-Ghanta</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Orange</surname>
+                <given-names>JS</given-names>
+              </name>
+            </person-group>
+            <article-title>Phase I trial of low-dose interleukin 2 therapy in patients with Wiskott-Aldrich syndrome.</article-title>
+            <source>Clin Immunol</source>
+            <year>2017</year>
+            <month>Jun</month>
+            <volume>179</volume>
+            <fpage>47</fpage>
+            <page-range>47-53</page-range>
+            <pub-id pub-id-type="pmid">28232030</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r32">
+          <label>32</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Filipovich</surname>
+                <given-names>AH</given-names>
+              </name>
+              <name>
+                <surname>Stone</surname>
+                <given-names>JV</given-names>
+              </name>
+              <name>
+                <surname>Tomany</surname>
+                <given-names>SC</given-names>
+              </name>
+              <name>
+                <surname>Ireland</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Kollman</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Pelz</surname>
+                <given-names>CJ</given-names>
+              </name>
+              <name>
+                <surname>Casper</surname>
+                <given-names>JT</given-names>
+              </name>
+              <name>
+                <surname>Cowan</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Edwards</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Fasth</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Gale</surname>
+                <given-names>RP</given-names>
+              </name>
+              <name>
+                <surname>Junker</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Kamani</surname>
+                <given-names>NR</given-names>
+              </name>
+              <name>
+                <surname>Loechelt</surname>
+                <given-names>BJ</given-names>
+              </name>
+              <name>
+                <surname>Pietryga</surname>
+                <given-names>DW</given-names>
+              </name>
+              <name>
+                <surname>Ringd&#x000e9;n</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Vowels</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Hegland</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Williams</surname>
+                <given-names>AV</given-names>
+              </name>
+              <name>
+                <surname>Klein</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Sobocinski</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Rowlings</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Horowitz</surname>
+                <given-names>MM</given-names>
+              </name>
+            </person-group>
+            <article-title>Impact of donor type on outcome of bone marrow transplantation for Wiskott-Aldrich syndrome: collaborative study of the International Bone Marrow Transplant Registry and the National Marrow Donor Program.</article-title>
+            <source>Blood</source>
+            <year>2001</year>
+            <month>Mar</month>
+            <day>15</day>
+            <volume>97</volume>
+            <issue>6</issue>
+            <fpage>1598</fpage>
+            <page-range>1598-603</page-range>
+            <pub-id pub-id-type="pmid">11238097</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r33">
+          <label>33</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Marciano</surname>
+                <given-names>BE</given-names>
+              </name>
+              <name>
+                <surname>Spalding</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Fitzgerald</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Mann</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Brown</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Osgood</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Yockey</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Darnell</surname>
+                <given-names>DN</given-names>
+              </name>
+              <name>
+                <surname>Barnhart</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Daub</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Boris</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Rump</surname>
+                <given-names>AP</given-names>
+              </name>
+              <name>
+                <surname>Anderson</surname>
+                <given-names>VL</given-names>
+              </name>
+              <name>
+                <surname>Haney</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Kuhns</surname>
+                <given-names>DB</given-names>
+              </name>
+              <name>
+                <surname>Rosenzweig</surname>
+                <given-names>SD</given-names>
+              </name>
+              <name>
+                <surname>Kelly</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Zelazny</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Mason</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>DeRavin</surname>
+                <given-names>SS</given-names>
+              </name>
+              <name>
+                <surname>Kang</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Gallin</surname>
+                <given-names>JI</given-names>
+              </name>
+              <name>
+                <surname>Malech</surname>
+                <given-names>HL</given-names>
+              </name>
+              <name>
+                <surname>Olivier</surname>
+                <given-names>KN</given-names>
+              </name>
+              <name>
+                <surname>Uzel</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Freeman</surname>
+                <given-names>AF</given-names>
+              </name>
+              <name>
+                <surname>Heller</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Zerbe</surname>
+                <given-names>CS</given-names>
+              </name>
+              <name>
+                <surname>Holland</surname>
+                <given-names>SM</given-names>
+              </name>
+            </person-group>
+            <article-title>Common severe infections in chronic granulomatous disease.</article-title>
+            <source>Clin Infect Dis</source>
+            <year>2015</year>
+            <month>Apr</month>
+            <day>15</day>
+            <volume>60</volume>
+            <issue>8</issue>
+            <fpage>1176</fpage>
+            <page-range>1176-83</page-range>
+            <pub-id pub-id-type="pmid">25537876</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r34">
+          <label>34</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>de la Morena</surname>
+                <given-names>MT</given-names>
+              </name>
+              <name>
+                <surname>Leonard</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Torgerson</surname>
+                <given-names>TR</given-names>
+              </name>
+              <name>
+                <surname>Cabral-Marques</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Slatter</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Aghamohammadi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Chandra</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Murguia-Favela</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Bonilla</surname>
+                <given-names>FA</given-names>
+              </name>
+              <name>
+                <surname>Kanariou</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Damrongwatanasuk</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Kuo</surname>
+                <given-names>CY</given-names>
+              </name>
+              <name>
+                <surname>Dvorak</surname>
+                <given-names>CC</given-names>
+              </name>
+              <name>
+                <surname>Meyts</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Kobrynski</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Kapoor</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Richter</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>DiGiovanni</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Dhalla</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Farmaki</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Speckmann</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Espa&#x000f1;ol</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Shcherbina</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Hanson</surname>
+                <given-names>IC</given-names>
+              </name>
+              <name>
+                <surname>Litzman</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Routes</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Wong</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Fuleihan</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Seneviratne</surname>
+                <given-names>SL</given-names>
+              </name>
+              <name>
+                <surname>Small</surname>
+                <given-names>TN</given-names>
+              </name>
+              <name>
+                <surname>Janda</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Bezrodnik</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Seger</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Raccio</surname>
+                <given-names>AG</given-names>
+              </name>
+              <name>
+                <surname>Edgar</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Chou</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Abbott</surname>
+                <given-names>JK</given-names>
+              </name>
+              <name>
+                <surname>van Montfrans</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Gonz&#x000e1;lez-Granado</surname>
+                <given-names>LI</given-names>
+              </name>
+              <name>
+                <surname>Bunin</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Kutukculer</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Gray</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Seminario</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Pasic</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Aquino</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Wysocki</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Abolhassani</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Dorsey</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Cunningham-Rundles</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Knutsen</surname>
+                <given-names>AP</given-names>
+              </name>
+              <name>
+                <surname>Sleasman</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Costa Carvalho</surname>
+                <given-names>BT</given-names>
+              </name>
+              <name>
+                <surname>Condino-Neto</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Grunebaum</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Chapel</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Ochs</surname>
+                <given-names>HD</given-names>
+              </name>
+              <name>
+                <surname>Filipovich</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Cowan</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Gennery</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Cant</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Notarangelo</surname>
+                <given-names>LD</given-names>
+              </name>
+              <name>
+                <surname>Roifman</surname>
+                <given-names>CM</given-names>
+              </name>
+            </person-group>
+            <article-title>Long-term outcomes of 176 patients with X-linked hyper-IgM syndrome treated with or without hematopoietic cell transplantation.</article-title>
+            <source>J Allergy Clin Immunol</source>
+            <year>2017</year>
+            <month>Apr</month>
+            <volume>139</volume>
+            <issue>4</issue>
+            <fpage>1282</fpage>
+            <page-range>1282-1292</page-range>
+            <pub-id pub-id-type="pmid">27697500</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r35">
+          <label>35</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Azzu</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Kennard</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Morillo-Gutierrez</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Slatter</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Edgar</surname>
+                <given-names>JDM</given-names>
+              </name>
+              <name>
+                <surname>Kumararatne</surname>
+                <given-names>DS</given-names>
+              </name>
+              <name>
+                <surname>Griffiths</surname>
+                <given-names>WJH</given-names>
+              </name>
+            </person-group>
+            <article-title>Liver disease predicts mortality in patients with X-linked immunodeficiency with hyper-IgM but can be prevented by early hematopoietic stem cell transplantation.</article-title>
+            <source>J Allergy Clin Immunol</source>
+            <year>2018</year>
+            <month>Jan</month>
+            <volume>141</volume>
+            <issue>1</issue>
+            <fpage>405</fpage>
+            <page-range>405-408.e7</page-range>
+            <pub-id pub-id-type="pmid">28756297</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r36">
+          <label>36</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Booth</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Gilmour</surname>
+                <given-names>KC</given-names>
+              </name>
+              <name>
+                <surname>Veys</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Gennery</surname>
+                <given-names>AR</given-names>
+              </name>
+              <name>
+                <surname>Slatter</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Chapel</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Heath</surname>
+                <given-names>PT</given-names>
+              </name>
+              <name>
+                <surname>Steward</surname>
+                <given-names>CG</given-names>
+              </name>
+              <name>
+                <surname>Smith</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>O'Meara</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Kerrigan</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Mahlaoui</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Cavazzana-Calvo</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Fischer</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Moshous</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Blanche</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Pachlopnik Schmid</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Latour</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>de Saint-Basile</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Albert</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Notheis</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Rieber</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Strahm</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Ritterbusch</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Lankester</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Hartwig</surname>
+                <given-names>NG</given-names>
+              </name>
+              <name>
+                <surname>Meyts</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Plebani</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Soresina</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Finocchi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Pignata</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Cirillo</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Bonanomi</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Peters</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Kalwak</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Pasic</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Sedlacek</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Jazbec</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Kanegane</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Nichols</surname>
+                <given-names>KE</given-names>
+              </name>
+              <name>
+                <surname>Hanson</surname>
+                <given-names>IC</given-names>
+              </name>
+              <name>
+                <surname>Kapoor</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Haddad</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Cowan</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Choo</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Smart</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Arkwright</surname>
+                <given-names>PD</given-names>
+              </name>
+              <name>
+                <surname>Gaspar</surname>
+                <given-names>HB</given-names>
+              </name>
+            </person-group>
+            <article-title>X-linked lymphoproliferative disease due to SAP/SH2D1A deficiency: a multicenter study on the manifestations, management and outcome of the disease.</article-title>
+            <source>Blood</source>
+            <year>2011</year>
+            <month>Jan</month>
+            <day>06</day>
+            <volume>117</volume>
+            <issue>1</issue>
+            <fpage>53</fpage>
+            <page-range>53-62</page-range>
+            <pub-id pub-id-type="pmid">20926771</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r37">
+          <label>37</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sullivan</surname>
+                <given-names>KE</given-names>
+              </name>
+              <name>
+                <surname>Mullen</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>Blaese</surname>
+                <given-names>RM</given-names>
+              </name>
+              <name>
+                <surname>Winkelstein</surname>
+                <given-names>JA</given-names>
+              </name>
+            </person-group>
+            <article-title>A multiinstitutional survey of the Wiskott-Aldrich syndrome.</article-title>
+            <source>J Pediatr</source>
+            <year>1994</year>
+            <month>Dec</month>
+            <volume>125</volume>
+            <issue>6 Pt 1</issue>
+            <fpage>876</fpage>
+            <page-range>876-85</page-range>
+            <pub-id pub-id-type="pmid">7996359</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r38">
+          <label>38</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Alassaf</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Odeh</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>IPEX syndrome: an easily-missed diagnosis of a life threatening condition.</article-title>
+            <source>Turk J Pediatr</source>
+            <year>2019</year>
+            <volume>61</volume>
+            <issue>3</issue>
+            <fpage>424</fpage>
+            <page-range>424-427</page-range>
+            <pub-id pub-id-type="pmid">31916722</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r39">
+          <label>39</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Karal&#x00131;</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Karal&#x00131;</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>&#x000c7;eki&#x000e7;</surname>
+                <given-names>&#x0015e;</given-names>
+              </name>
+              <name>
+                <surname>Yaz&#x00131;c&#x00131;</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Can&#x00131;tez</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Sapan</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>G&#x000fc;ltekin</surname>
+                <given-names>S&#x0015e;K</given-names>
+              </name>
+            </person-group>
+            <article-title>Evaluation of pulmonary findings in patients with humoral immunodeficiency.</article-title>
+            <source>Turk Pediatri Ars</source>
+            <year>2020</year>
+            <volume>55</volume>
+            <issue>2</issue>
+            <fpage>174</fpage>
+            <page-range>174-183</page-range>
+            <pub-id pub-id-type="pmid">32684763</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r40">
+          <label>40</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jin</surname>
+                <given-names>YY</given-names>
+              </name>
+              <name>
+                <surname>Wu</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>TX</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>When <italic>WAS</italic> Gene Diagnosis Is Needed: Seeking Clues Through Comparison Between Patients With Wiskott-Aldrich Syndrome and Idiopathic Thrombocytopenic Purpura.</article-title>
+            <source>Front Immunol</source>
+            <year>2019</year>
+            <volume>10</volume>
+            <fpage>1549</fpage>
+            <pub-id pub-id-type="pmid">31354712</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31431.r41">
+          <label>41</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yang</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Zhu</surname>
+                <given-names>GH</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Jia</surname>
+                <given-names>CG</given-names>
+              </name>
+              <name>
+                <surname>Yan</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Ma</surname>
+                <given-names>HH</given-names>
+              </name>
+              <name>
+                <surname>Qin</surname>
+                <given-names>MQ</given-names>
+              </name>
+            </person-group>
+            <article-title>Haploidentical Hematopoietic Stem Cell Transplantation for XIAP Deficiency: a Single-Center Report.</article-title>
+            <source>J Clin Immunol</source>
+            <year>2020</year>
+            <month>Aug</month>
+            <volume>40</volume>
+            <issue>6</issue>
+            <fpage>893</fpage>
+            <page-range>893-900</page-range>
+            <pub-id pub-id-type="pmid">32627096</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

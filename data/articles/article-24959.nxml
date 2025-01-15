@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-24959" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Optic Nerve Sheath Meningioma</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Patel</surname>
+            <given-names>Bhupendra C.</given-names>
+          </name>
+          <aff>University of Utah</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>De Jesus</surname>
+            <given-names>Orlando</given-names>
+          </name>
+          <aff>University of Puerto Rico, Medical Sciences Campus, Neurosurgery Section</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Margolin</surname>
+            <given-names>Edward</given-names>
+          </name>
+          <aff>University of Toronto</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Bhupendra Patel declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Orlando De Jesus declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Edward Margolin declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>23</day>
+          <month>8</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-24959.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Optic nerve sheath meningiomas are rare benign tumors of the central nervous system. Although they are slow-growing, their location directly affects the anterior visual pathway and can lead to severe visual loss. Treatment of this condition is controversial, as the proximity of the tumor to the optic nerve makes it difficult to completely remove it without causing secondary complications. This activity describes the pathophysiology, presentation, and management of optic nerve sheath meningiomas and highlights the role of the interprofessional team in caring for affected patients.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Describe the pathophysiology of optic nerve sheath meningiomas.</p></list-item><list-item><p>Describe the presentation of optic nerve sheath meningiomas.</p></list-item><list-item><p>Summarize the treatment options for optic nerve sheath meningiomas.</p></list-item><list-item><p>Explain the importance of enhancing care coordination amongst interprofessional team members to improve outcomes for patients affected by optic nerve sheath meningiomas.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=24959&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=24959">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-24959.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Optic nerve sheath meningiomas (ONSM) are rare benign tumors of the central nervous system. Although their growth is slow but progressive, their location is critical as it directly affects the anterior visual pathway and can lead to a severe visual loss. Treatment of this condition is still considered controversial, as the proximity of the tumor to the optic nerve makes it difficult to completely remove without secondary complications and sequelae.<xref ref-type="bibr" rid="article-24959.r1">[1]</xref><xref ref-type="bibr" rid="article-24959.r2">[2]</xref><xref ref-type="bibr" rid="article-24959.r3">[3]</xref><xref ref-type="bibr" rid="article-24959.r4">[4]</xref></p>
+      </sec>
+      <sec id="article-24959.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p>ONSM is usually localized in the intraorbital or intracanalicular portions of the optic nerve sheath and originates from the&#x000a0;cap cells of the arachnoid surrounding the nerve. The intraorbital portion is the most common site of origin (92%). About 95% of ONSM is unilateral. Rare bilateral tumors tend to occur in patients with neurofibromatosis type 2.<xref ref-type="bibr" rid="article-24959.r5">[5]</xref><xref ref-type="bibr" rid="article-24959.r6">[6]</xref></p>
+        <p>Most tumors do not have a clear etiology, but they probably have a genetic influence. Meningiomas in particular can have an association with ionizing radiation and hormonal influences, although, there is not a clear association in ONSM.</p>
+      </sec>
+      <sec id="article-24959.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p>ONSM constitute about 2% of all orbital tumors and 1% of all meningiomas.<xref ref-type="bibr" rid="article-24959.r6">[6]</xref><xref ref-type="bibr" rid="article-24959.r7">[7]</xref>&#x000a0;These tumors, like their intracranial counterpart, are predominant in middle-aged females. The mean age of presentation is usually less than for intracranial meningiomas because the visual problems make patients seek examination earlier. Although rare, they may be found in children but tend to be more aggressive.<xref ref-type="bibr" rid="article-24959.r8">[8]</xref>&#x000a0;Pediatric ONSM has an overall prevalence of between 1:95,000 and 1:525,000.<xref ref-type="bibr" rid="article-24959.r9">[9]</xref>&#x000a0; Approximately 5-6% of the cases are bilateral and associated with&#x000a0;neurofibromatosis type 2.<xref ref-type="bibr" rid="article-24959.r6">[6]</xref>&#x000a0;Of those meningiomas that involve the orbit, only 10% are of primary orbital origin, while the remainders are of intracranial origin extending into the orbit.<xref ref-type="bibr" rid="article-24959.r6">[6]</xref></p>
+      </sec>
+      <sec id="article-24959.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>These tumors arise from the meningeal cells (arachnoid cap cells) lining the optic nerve sheath. They typically grow circumferentially around the optic nerve and can significantly compress its pial vascular supply. These tumors tend to follow the path of least resistance, and as a result of that, they can invade the entire path of the optic nerve, from the optic canal posteriorly to the globe anteriorly.<xref ref-type="bibr" rid="article-24959.r7">[7]</xref><xref ref-type="bibr" rid="article-24959.r10">[10]</xref><xref ref-type="bibr" rid="article-24959.r11">[11]</xref></p>
+        <p>Secondary ONSM is an extension of an intracranial meningioma growing into the orbit. A secondary ONSM is more common than primary ONSM, but it is not a true ONSM as it do not grow from the cells surrounding the nerve. Some meningiomas can grow as an en-plaque meningioma along the temporal dura and can easily extend into the orbit through the optic canal or the superior orbital fissure.</p>
+      </sec>
+      <sec id="article-24959.s6" sec-type="Histopathology">
+        <title>Histopathology</title>
+        <p>ONSMs arise from the arachnoid cap cells of the optic nerve sheath, and as such are on the inside of the dura. The tumor typically has a smooth lobulated contour. The optic nerve, which is usually circumferentially encased, gradually atrophies due to compression. The tumor may grow and extend into the chiasm through the optic foramen. Malignant transformation is rare.</p>
+      </sec>
+      <sec id="article-24959.s7" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>The natural history of ONSM is characterized by slowly painless and progressive visual loss in the affected eye. If left untreated, this tumor can lead to complete blindness. Visual loss, optic atrophy, and optociliary shunt vessels is the&#x000a0;classic triad in patients with an ONSM but most patients do not present the three components.<xref ref-type="bibr" rid="article-24959.r6">[6]</xref><xref ref-type="bibr" rid="article-24959.r12">[12]</xref>&#x000a0;Proptosis and resistance to retropulsion are also other signs seen on examination, albeit not always present. Patients can also complain of transient visual loss associated with eye movement, or what is referred to as gaze-evoked amaurosis.</p>
+        <p>In the early stages, patients can present with chronic optic nerve edema. This occurs because the tumor compresses the intraorbital portion of the optic nerve. Eventually, the edema subsides, and optic pallor develops. Optociliary shunt vessels can develop in about 30% of patients as the optic disc edema resolves. These represent venous collaterals that are connected to the choroidal circulation. They appear after chronic central retinal vein obstruction, such as in ONSM, but can also be found in other conditions such as central retinal vein occlusion, optic nerve glioma, and sphenoid wing meningioma.&#x000a0;When vision is affected, there is a relative afferent pupillary deficit in the involved eye.&#x000a0;Visual field defects can be present in the affected eye and are not specific; these can be seen as altitudinal defects, generalized constriction, or enlarged blind spots.</p>
+      </sec>
+      <sec id="article-24959.s8" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>The diagnosis of ONSM is confirmed with magnetic resonance imaging (MRI), especially with gadolinium-enhanced fat-suppression sequences. The MRI has become the gold standard for the diagnosis and has obviated the need for tissue biopsy. On MRI, they appear isointense to grey matter on both T1 and T2 weighted imaging. ONSM is a sensitive lesion to gadolinium contrast, demonstrating vivid enhancement which contrasts with the non-enhancing optic nerve. On MRI axial images, it will present with the characteristic "tram-track" sign, which corresponds to the enhancing outer ONSM encircling the inner non-enhancing optic nerve. On the coronal images, this will be seen as a "doughnut" or "non-enhancing dot" sign.&#x000a0;Typical appearances of ONSMs on imaging&#x000a0;are tubular expansion of the meninges surrounding the optic nerve (62%), globular (23%), fusiform (11%), and focal enlargement of the optic nerve (4%).<xref ref-type="bibr" rid="article-24959.r13">[13]</xref>&#x000a0;An optic nerve glioma will demonstrate uniform enhancement of the optic nerve and will not have the classic tram track sign.</p>
+        <p>A computed tomographic (CT) scan of the orbit and head can show the bony anatomy and hyperostosis produced in secondary tumors. Calcifications can also be seen in the ONSM.&#x000a0;CT scans can also demonstrate the classic tram track sign.</p>
+      </sec>
+      <sec id="article-24959.s9" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>Observation is the acceptable management in cases where the visual function is intact or remains stable, especially in patients who maintain a central visual acuity of 20/50 or better. Neuro-ophthalmologists will closely follow these patients with a thorough examination, including serial visual fields and peripapillary retinal nerve fiber layer optical coherence tomography.<xref ref-type="bibr" rid="article-24959.r14">[14]</xref><xref ref-type="bibr" rid="article-24959.r15">[15]</xref>&#x000a0;Repeat MRI every year is recommended.<xref ref-type="bibr" rid="article-24959.r4">[4]</xref><xref ref-type="bibr" rid="article-24959.r16">[16]</xref></p>
+        <p>Tumor resection is almost impossible without incurring a severe visual loss, due to the intimal relationship of the ONSM to the optic nerve. However, surgical resection can be justified in cases of disfiguring proptosis where the visual function has significantly decreased or in cases of intracranial extension.&#x000a0;If the eye with the ONSM is blind and the tumor is confined to the orbit the patient should be observed as they grow very slowly, although, some surgeons advocate surgically resecting the tumor to avoid extension to other areas. If the eye is blind and intracranial extension is present, the tumor and the nerve should be removed. Some authors favor surgical intervention as a primary treatment not only stop disease progression and reduce the risk of subsequent vision loss, but also, to some extent, reverse visual deficits that have already occurred.<xref ref-type="bibr" rid="article-24959.r7">[7]</xref>&#x000a0;</p>
+        <p>Transnasal endoscopic optic nerve decompression has been recently proposed and has showed stabilization of the disease and in some cases improvement from the baseline visual deficit.<xref ref-type="bibr" rid="article-24959.r17">[17]</xref><xref ref-type="bibr" rid="article-24959.r18">[18]</xref></p>
+        <p>Conventional radiotherapy has been used both pre-operatively and postoperatively for many years.<xref ref-type="bibr" rid="article-24959.r3">[3]</xref><xref ref-type="bibr" rid="article-24959.r19">[19]</xref>&#x000a0;More recently&#x000a0;stereotactic radiotherapy (STR) has been employed as an alternative to surgery, and may well be superior. In cases where visual function decreases, SRT has become the modality of choice since it delivers the appropriate amount of radiation to the tumor in a localized fashion. Risks of radiation-induced retinopathy or optic neuropathy are prevalent.<xref ref-type="bibr" rid="article-24959.r20">[20]</xref><xref ref-type="bibr" rid="article-24959.r21">[21]</xref>&#x000a0;</p>
+      </sec>
+      <sec id="article-24959.s10" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <p>Differential diagnoses include:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Adult optic neuritis</p>
+          </list-item>
+          <list-item>
+            <p>Optic nerve glioma</p>
+          </list-item>
+          <list-item>
+            <p>Orbital lymphoma</p>
+          </list-item>
+          <list-item>
+            <p>Orbital metastases</p>
+          </list-item>
+          <list-item>
+            <p>Sarcoidosis<xref ref-type="bibr" rid="article-24959.r22">[22]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Idiopathic orbital inflammatory disease (orbital pseudotumor)</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-24959.s11" sec-type="Prognosis">
+        <title>Prognosis</title>
+        <p>The mortality risk from ONSM is practically null. If the tumor is left untreated, progressive vision loss will occur. The tumor produces direct compression of the optic nerve and compromises its vascular supply, and in some cases infiltrates the optic nerve.<xref ref-type="bibr" rid="article-24959.r7">[7]</xref> Most patients will progress to blindness in the eye. At that point a decision regarding surgery is assessed. For those cases where expert surgery is performed, there is approximately 33% - 50% chance for worsening the vision.<xref ref-type="bibr" rid="article-24959.r7">[7]</xref></p>
+      </sec>
+      <sec id="article-24959.s12" sec-type="Complications">
+        <title>Complications</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>Permanent vision loss</p>
+          </list-item>
+          <list-item>
+            <p>Proptosis</p>
+          </list-item>
+          <list-item>
+            <p>Intracranial injury after surgery</p>
+          </list-item>
+          <list-item>
+            <p>Cerebrospinal fluid leakage</p>
+          </list-item>
+          <list-item>
+            <p>Extension of the tumor into chiasm</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-24959.s13" sec-type="Postoperative and Rehabilitation Care">
+        <title>Postoperative and Rehabilitation Care</title>
+        <p>Neuro-ophthalmology follow up with regular visual acuity examination and visual field testing are recommended.</p>
+        <p>An MRI with contrast should be performed every 12 months to assess for growth or recurrence of the disease.</p>
+      </sec>
+      <sec id="article-24959.s14" sec-type="Consultations">
+        <title>Consultations</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>Neurosurgeon</p>
+          </list-item>
+          <list-item>
+            <p>Neuro-opthalmologist</p>
+          </list-item>
+          <list-item>
+            <p>Radiation Oncologist</p>
+          </list-item>
+          <list-item>
+            <p>Neurology</p>
+          </list-item>
+          <list-item>
+            <p>Neuroradiologist</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-24959.s15" sec-type="Deterrence and Patient Education">
+        <title>Deterrence and Patient Education</title>
+        <p>The patient should be educated about the management and prognosis of ONSMs as they are slowly progressive. Patients need to have clear information so they can make informed decisions about their tumors.&#x000a0;Some patients demonstrate clinical stability despite tumor growth, and some patients have rapid vision loss even without an increase in tumor size. All patients should be encouraged to have clinical follow-up evaluations.</p>
+      </sec>
+      <sec id="article-24959.s16" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Optic nerve sheath meningiomas are best managed by an interprofessional team of neurosurgeons, neuro-ophthalmologists, radiation oncologists, and neurologists. The treatment depends on size, mass effect, and symptoms. Unfortunately despite optimal treatment, vision loss may be unavoidable in most patients. To improve outcomes, prompt consultation with an interprofessional group of specialists is recommended.</p>
+      </sec>
+      <sec id="article-24959.s17">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=24959&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=24959">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/eye-health/optic-nerve-sheath-meningioma/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=24959">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/24959/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=24959">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <floats-group id="article-24959.s18">
+        <fig id="article-24959.image.f1" position="float" orientation="portrait">
+          <caption>
+            <p>Psammamo bodies in meningioma Image courtesy S Bhimji MD</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="psammamo__menin" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <floats-group id="article-24959.s19">
+        <fig id="article-24959.image.f2" position="float" orientation="portrait">
+          <caption>
+            <p>Optic Nerve Sheath Meningioma. Upper axial contrast-enhanced MRI reveals a "tram-track" sign in a patient with optic nerve sheath meningioma, where the thickened optic nerve sheath enhances, creating a tram-track appearance. The lower coronal MRI displays the "bull's eye" appearance of the optic nerve, characterized by a hyperintense ring due to the thickened enhancing optic nerve sheath meningioma. Contributed by BCK Patel, MD, FRCS</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Tram__tracking__meningioma-BCK__Patel__MD" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <ref-list id="article-24959.s20">
+        <title>References</title>
+        <ref id="article-24959.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hong</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Usami</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Hirokawa</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Ogiwara</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Pediatric meningiomas: a report of 5 cases and review of literature.</article-title>
+            <source>Childs Nerv Syst</source>
+            <year>2019</year>
+            <month>Nov</month>
+            <volume>35</volume>
+            <issue>11</issue>
+            <fpage>2219</fpage>
+            <page-range>2219-2225</page-range>
+            <pub-id pub-id-type="pmid">31001646</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24959.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shaikh</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Khera</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Yadav</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Garg</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Dural Ectasia of the Optic Nerve: A Rare Presentation in Neurofibromatosis Type I.</article-title>
+            <source>J Neurosci Rural Pract</source>
+            <year>2019</year>
+            <season>Apr-Jun</season>
+            <volume>10</volume>
+            <issue>2</issue>
+            <fpage>349</fpage>
+            <page-range>349-351</page-range>
+            <pub-id pub-id-type="pmid">31001034</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24959.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kheir</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Faouzi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Borruat</surname>
+                <given-names>FX</given-names>
+              </name>
+            </person-group>
+            <article-title>Visual Outcomes of Fractionated Radiotherapy in Optic Nerve Sheath Meningioma: A Retrospective Study.</article-title>
+            <source>Klin Monbl Augenheilkd</source>
+            <year>2019</year>
+            <month>Apr</month>
+            <volume>236</volume>
+            <issue>4</issue>
+            <fpage>526</fpage>
+            <page-range>526-529</page-range>
+            <pub-id pub-id-type="pmid">30812038</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24959.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pandit</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Paris</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Rudich</surname>
+                <given-names>DS</given-names>
+              </name>
+              <name>
+                <surname>Lesser</surname>
+                <given-names>RL</given-names>
+              </name>
+              <name>
+                <surname>Kupersmith</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Miller</surname>
+                <given-names>NR</given-names>
+              </name>
+            </person-group>
+            <article-title>Long-term efficacy of fractionated conformal radiotherapy for the management of primary optic nerve sheath meningioma.</article-title>
+            <source>Br J Ophthalmol</source>
+            <year>2019</year>
+            <month>Oct</month>
+            <volume>103</volume>
+            <issue>10</issue>
+            <fpage>1436</fpage>
+            <page-range>1436-1440</page-range>
+            <pub-id pub-id-type="pmid">30573496</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24959.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Furdov&#x000e1;</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Bab&#x000e1;l</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Kobzov&#x000e1;</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Optic nerve orbital meningioma.</article-title>
+            <source>Cesk Slov Oftalmol</source>
+            <year>2018</year>
+            <season>Spring</season>
+            <volume>74</volume>
+            <issue>1</issue>
+            <fpage>23</fpage>
+            <page-range>23-30</page-range>
+            <pub-id pub-id-type="pmid">30541293</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24959.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Parker</surname>
+                <given-names>RT</given-names>
+              </name>
+              <name>
+                <surname>Ovens</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>Fraser</surname>
+                <given-names>CL</given-names>
+              </name>
+              <name>
+                <surname>Samarawickrama</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Optic nerve sheath meningiomas: prevalence, impact, and management strategies.</article-title>
+            <source>Eye Brain</source>
+            <year>2018</year>
+            <volume>10</volume>
+            <fpage>85</fpage>
+            <page-range>85-99</page-range>
+            <pub-id pub-id-type="pmid">30498385</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24959.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Rassi</surname>
+                <given-names>MS</given-names>
+              </name>
+              <name>
+                <surname>Prasad</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Can</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Pravdenkova</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Almefty</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Al-Mefty</surname>
+                <given-names>O</given-names>
+              </name>
+            </person-group>
+            <article-title>Prognostic factors in the surgical treatment of intracanalicular primary optic nerve sheath meningiomas.</article-title>
+            <source>J Neurosurg</source>
+            <year>2019</year>
+            <month>Aug</month>
+            <day>01</day>
+            <volume>131</volume>
+            <issue>2</issue>
+            <fpage>481</fpage>
+            <page-range>481-488</page-range>
+            <pub-id pub-id-type="pmid">30239315</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24959.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Narayan</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Rajak</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Patel</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Selva</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Cystic change in primary paediatric optic nerve sheath meningioma.</article-title>
+            <source>Orbit</source>
+            <year>2016</year>
+            <month>Aug</month>
+            <volume>35</volume>
+            <issue>4</issue>
+            <fpage>236</fpage>
+            <page-range>236-8</page-range>
+            <pub-id pub-id-type="pmid">27310300</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24959.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Levin</surname>
+                <given-names>LA</given-names>
+              </name>
+              <name>
+                <surname>Jakobiec</surname>
+                <given-names>FA</given-names>
+              </name>
+            </person-group>
+            <article-title>Optic nerve tumors of childhood: a decision-analytical approach to their diagnosis.</article-title>
+            <source>Int Ophthalmol Clin</source>
+            <year>1992</year>
+            <season>Winter</season>
+            <volume>32</volume>
+            <issue>1</issue>
+            <fpage>223</fpage>
+            <page-range>223-40</page-range>
+            <pub-id pub-id-type="pmid">1537660</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24959.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lekovic</surname>
+                <given-names>GP</given-names>
+              </name>
+              <name>
+                <surname>Schwartz</surname>
+                <given-names>MS</given-names>
+              </name>
+              <name>
+                <surname>Hanna</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Go</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Intra-Orbital Meningioma Causing Loss of Vision in Neurofibromatosis Type 2: Case Series and Management Considerations.</article-title>
+            <source>Front Surg</source>
+            <year>2018</year>
+            <volume>5</volume>
+            <fpage>60</fpage>
+            <pub-id pub-id-type="pmid">30356733</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24959.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jacobi</surname>
+                <given-names>DM</given-names>
+              </name>
+            </person-group>
+            <article-title>Optic nerve sheath meningioma.</article-title>
+            <source>Clin Exp Optom</source>
+            <year>2019</year>
+            <month>Mar</month>
+            <volume>102</volume>
+            <issue>2</issue>
+            <fpage>188</fpage>
+            <page-range>188-190</page-range>
+            <pub-id pub-id-type="pmid">30054955</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24959.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Fris&#x000e8;n</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Royt</surname>
+                <given-names>WF</given-names>
+              </name>
+              <name>
+                <surname>Tengroth</surname>
+                <given-names>BM</given-names>
+              </name>
+            </person-group>
+            <article-title>Optociliary veins, disc pallor and visual loss. A triad of signs indicating spheno-orbital meningioma.</article-title>
+            <source>Acta Ophthalmol (Copenh)</source>
+            <year>1973</year>
+            <volume>51</volume>
+            <issue>2</issue>
+            <fpage>241</fpage>
+            <page-range>241-9</page-range>
+            <pub-id pub-id-type="pmid">4801582</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24959.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Saeed</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Rootman</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Nugent</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>White</surname>
+                <given-names>VA</given-names>
+              </name>
+              <name>
+                <surname>Mackenzie</surname>
+                <given-names>IR</given-names>
+              </name>
+              <name>
+                <surname>Koornneef</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>Optic nerve sheath meningiomas.</article-title>
+            <source>Ophthalmology</source>
+            <year>2003</year>
+            <month>Oct</month>
+            <volume>110</volume>
+            <issue>10</issue>
+            <fpage>2019</fpage>
+            <page-range>2019-30</page-range>
+            <pub-id pub-id-type="pmid">14522782</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24959.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sibony</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Strachovsky</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Honkanen</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Kupersmith</surname>
+                <given-names>MJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Optical coherence tomography shape analysis of the peripapillary retinal pigment epithelium layer in presumed optic nerve sheath meningiomas.</article-title>
+            <source>J Neuroophthalmol</source>
+            <year>2014</year>
+            <month>Jun</month>
+            <volume>34</volume>
+            <issue>2</issue>
+            <fpage>130</fpage>
+            <page-range>130-6</page-range>
+            <pub-id pub-id-type="pmid">24625774</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24959.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Loo</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Tian</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Miller</surname>
+                <given-names>NR</given-names>
+              </name>
+              <name>
+                <surname>Subramanian</surname>
+                <given-names>PS</given-names>
+              </name>
+            </person-group>
+            <article-title>Use of optical coherence tomography in predicting post-treatment visual outcome in anterior visual pathway meningiomas.</article-title>
+            <source>Br J Ophthalmol</source>
+            <year>2013</year>
+            <month>Nov</month>
+            <volume>97</volume>
+            <issue>11</issue>
+            <fpage>1455</fpage>
+            <page-range>1455-8</page-range>
+            <pub-id pub-id-type="pmid">23966371</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24959.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>H&#x000e9;naux</surname>
+                <given-names>PL</given-names>
+              </name>
+              <name>
+                <surname>Bretonnier</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Le Reste</surname>
+                <given-names>PJ</given-names>
+              </name>
+              <name>
+                <surname>Morandi</surname>
+                <given-names>X</given-names>
+              </name>
+            </person-group>
+            <article-title>Modern Management of Meningiomas Compressing the Optic Nerve: A Systematic&#x000a0;Review.</article-title>
+            <source>World Neurosurg</source>
+            <year>2018</year>
+            <month>Oct</month>
+            <volume>118</volume>
+            <fpage>e677</fpage>
+            <page-range>e677-e686</page-range>
+            <pub-id pub-id-type="pmid">30010062</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24959.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Maza</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Subramaniam</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Yanez-Siller</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Otto</surname>
+                <given-names>BA</given-names>
+              </name>
+              <name>
+                <surname>Prevedello</surname>
+                <given-names>DM</given-names>
+              </name>
+              <name>
+                <surname>Carrau</surname>
+                <given-names>RL</given-names>
+              </name>
+            </person-group>
+            <article-title>The Role of Endonasal Endoscopic Optic Nerve Decompression as the Initial Management of Primary Optic Nerve Sheath Meningiomas.</article-title>
+            <source>J Neurol Surg B Skull Base</source>
+            <year>2019</year>
+            <month>Dec</month>
+            <volume>80</volume>
+            <issue>6</issue>
+            <fpage>568</fpage>
+            <page-range>568-576</page-range>
+            <pub-id pub-id-type="pmid">31750042</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24959.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hunt</surname>
+                <given-names>PJ</given-names>
+              </name>
+              <name>
+                <surname>DeMonte</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Tang</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Su</surname>
+                <given-names>SY</given-names>
+              </name>
+              <name>
+                <surname>Raza</surname>
+                <given-names>SM</given-names>
+              </name>
+            </person-group>
+            <article-title>Surgical Resection of an Optic Nerve Sheath Meningioma: Relevance of Endoscopic Endonasal Approaches to the Optic Canal.</article-title>
+            <source>J Neurol Surg Rep</source>
+            <year>2017</year>
+            <month>Apr</month>
+            <volume>78</volume>
+            <issue>2</issue>
+            <fpage>e81</fpage>
+            <page-range>e81-e85</page-range>
+            <pub-id pub-id-type="pmid">28413768</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24959.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sasano</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Shikishima</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Aoki</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Sakai</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Tsutsumi</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Nakano</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Efficacy of intensity-modulated radiation therapy for optic nerve sheath meningioma.</article-title>
+            <source>Graefes Arch Clin Exp Ophthalmol</source>
+            <year>2019</year>
+            <month>Oct</month>
+            <volume>257</volume>
+            <issue>10</issue>
+            <fpage>2297</fpage>
+            <page-range>2297-2306</page-range>
+            <pub-id pub-id-type="pmid">31377848</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24959.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Liu</surname>
+                <given-names>JK</given-names>
+              </name>
+              <name>
+                <surname>Forman</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hershewe</surname>
+                <given-names>GL</given-names>
+              </name>
+              <name>
+                <surname>Moorthy</surname>
+                <given-names>CR</given-names>
+              </name>
+              <name>
+                <surname>Benzil</surname>
+                <given-names>DL</given-names>
+              </name>
+            </person-group>
+            <article-title>Optic nerve sheath meningiomas: visual improvement after stereotactic radiotherapy.</article-title>
+            <source>Neurosurgery</source>
+            <year>2002</year>
+            <month>May</month>
+            <volume>50</volume>
+            <issue>5</issue>
+            <fpage>950</fpage>
+            <page-range>950-5; discussion 955-7</page-range>
+            <pub-id pub-id-type="pmid">11950397</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24959.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ratnayake</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Oh</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Mehta</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Hardy</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Woodford</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Haward</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Ruben</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Dally</surname>
+                <given-names>MJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Long-term treatment outcomes of patients with primary optic nerve sheath meningioma treated with stereotactic radiotherapy.</article-title>
+            <source>J Clin Neurosci</source>
+            <year>2019</year>
+            <month>Oct</month>
+            <volume>68</volume>
+            <fpage>162</fpage>
+            <page-range>162-167</page-range>
+            <pub-id pub-id-type="pmid">31401001</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-24959.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Micieli</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Streutker</surname>
+                <given-names>CJ</given-names>
+              </name>
+              <name>
+                <surname>McIntyre</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Isolated Optic Perineuritis as the Presenting Sign of Sarcoidosis.</article-title>
+            <source>J Neuroophthalmol</source>
+            <year>2020</year>
+            <month>Jun</month>
+            <volume>40</volume>
+            <issue>2</issue>
+            <fpage>255</fpage>
+            <page-range>255-257</page-range>
+            <pub-id pub-id-type="pmid">31490345</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

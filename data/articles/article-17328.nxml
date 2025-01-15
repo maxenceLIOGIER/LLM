@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-17328" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Physiology, Albumin</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Moman</surname>
+            <given-names>Rajat N.</given-names>
+          </name>
+          <aff>Mayo Clinic GME</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Gupta</surname>
+            <given-names>Nishant</given-names>
+          </name>
+          <aff>Columbia University at Bassett Medical Center, NY, USA</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Varacallo</surname>
+            <given-names>Matthew</given-names>
+          </name>
+          <aff>Penn Highlands Healthcare System</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Rajat Moman declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Nishant Gupta declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Matthew Varacallo declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>26</day>
+          <month>12</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-17328.s1" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Albumin is the most abundant circulating protein found in plasma. It represents&#x000a0;half of the plasma's total protein content (3.5 g/dL to 5 g/dL) in healthy human patients. Liver hepatocytes synthesize albumin and rapidly excrete it into the bloodstream at about 10g to 15g per day. Very little albumin is stored in the liver, and most of it gets rapidly excreted into the bloodstream. In humans, serum albumin is a significant modulator of plasma oncotic pressure and transporter of endogenous and exogenous (ie, drugs) ligands. In clinical medicine, serum albumin can be measured&#x000a0;via standard serum laboratory testing, and this measure has been advocated as a marker for an individual patient's nutritional status.<xref ref-type="bibr" rid="article-17328.r1">[1]</xref>&#x000a0;</p>
+        <p>Albumin is also a colloid fluid administered to patients in need of fluid resuscitation, especially in the setting of trauma (ie, hypovolemic shock) or in the setting of large-volume paracentesis. As a laboratory value, serum albumin can also aid clinicians in providing insight into patients' liver function or the ability to biosynthesize proteins and factors vital to total body homeostasis.<xref ref-type="bibr" rid="article-17328.r2">[2]</xref><xref ref-type="bibr" rid="article-17328.r3">[3]</xref><xref ref-type="bibr" rid="article-17328.r4">[4]</xref></p>
+      </sec>
+      <sec id="article-17328.s2" sec-type="Issues of Concern">
+        <title>Issues of Concern</title>
+        <p>A 2017 meta-analysis&#x000a0;investigating low serum albumin levels in orthopedic patients suggested a 2.5-fold increased risk of surgical site infections (SSI) following various procedures. Procedures investigated included:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Femur fracture patients (trauma patients, including femoral neck fractures)</p>
+          </list-item>
+          <list-item>
+            <p>Total Knee Arthroplasty (TKA) and Total Hip Arthroplasty (THA) patients</p>
+          </list-item>
+          <list-item>
+            <p>Spinal procedures (fusion, decompression, metastases cases, and&#x000a0;spondylectomy&#x000a0;studied groups)</p>
+          </list-item>
+        </list>
+        <p>Albumin levels &#x0003c;3.5 g/dL conferred this aforementioned risk.<xref ref-type="bibr" rid="article-17328.r1">[1]</xref></p>
+      </sec>
+      <sec id="article-17328.s3" sec-type="Cellular Level&#x0000d;&#x0000a;">
+        <title>Cellular Level
+</title>
+        <p>Human albumin is a small globular protein with a molecular weight of 66.5 kilodaltons (kDa). It consists of 585 amino acids organized into&#x000a0;3 repeated homologous domains, each with 2 separate sub-domains, A and B.</p>
+      </sec>
+      <sec id="article-17328.s4" sec-type="Organ Systems Involved">
+        <title>Organ Systems Involved</title>
+        <p>Albumin is synthesized in the liver and excreted into the bloodstream. It can be found in the bloodstream, interstitial space, and other fluids. When albumin is found in large concentrations in other fluids, such as ascites or urine, it is often an indication of underlying pathology.</p>
+      </sec>
+      <sec id="article-17328.s5" sec-type="Function">
+        <title>Function</title>
+        <p>Human albumin is the most significant modulator of plasma oncotic pressure and transports various substances called ligands.</p>
+        <p>Those ligands transported by serum albumin include endogenous ligands such as bilirubin, ions, fatty acids, and exogenous ligands such as drugs. The list of drugs transported by albumin includes methadone, propranolol, thiopental, furosemide, warfarin, methotrexate, alfentanil, and many others. Severe liver disease can result in hypoalbuminemia, which leads&#x000a0;to fewer available binding sites for exogenous drugs. This results in larger amounts of unbound exogenous drugs, which can lead to increased drug sensitivity.&#x000a0;This&#x000a0;sensitivity manifests when patients have serum albumin concentrations lower than 2.5 g/dL.</p>
+        <p>Once albumin enters the circulation, about 30% to 40% stays in the bloodstream, and the remainder enters the interstitial space. Most protein that leaves the circulation then returns to circulation via the lymphatic system. The circulatory half-life of albumin is 16 hours. The majority of albumin&#x02019;s osmotic effect is attributed to its large molecular weight, while the rest is thought to stem from its negative charge. The latter allows albumin to attract positively charged molecules and water into the intravascular compartment. By influencing oncotic pressure, albumin has a major influence on capillary membrane pressure, which is represented by the equation:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>CP = (HP - HP) - r(OP - OP)</p>
+          </list-item>
+        </list>
+        <p>CP is capillary membrane pressure, HP is capillary hydrostatic pressure, HP is interstitial hydrostatic pressure, r is the reflection coefficient, OP is the capillary oncotic pressure, and OP is the interstitial oncotic pressure.</p>
+      </sec>
+      <sec id="article-17328.s6" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>Hepatic albumin synthesis is not a high priority, and synthesis occurs when the body is nourished adequately. A poor nutritional state, inflammation, exposure to hepatotoxins, and exposure to high colloid osmotic pressure inhibit synthesis.</p>
+      </sec>
+      <sec id="article-17328.s7" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>Human serum albumin is a basic laboratory measurement in clinical medicine and is transfused as a colloid fluid. In the laboratory, bovine serum albumin is used as a laboratory standard.<xref ref-type="bibr" rid="article-17328.r5">[5]</xref><xref ref-type="bibr" rid="article-17328.r6">[6]</xref><xref ref-type="bibr" rid="article-17328.r7">[7]</xref></p>
+        <p>
+<bold>Serum Albumin as a Laboratory Test</bold>
+</p>
+        <p>The liver&#x02019;s biosynthetic capacity or, in other words, a patient&#x02019;s liver functioning can be measured by drawing their serum albumin. Albumin is often coupled with a prothrombin time or international normalized ratio to more fully assess liver biosynthesis. However, serum albumin values can be normal in states of chronic liver disease and abnormal in cases of normal liver function. A review of patients undergoing evaluation for gastric bypass, liver pathology, and liver function tests correlated poorly. Further, hypoalbuminemia can reflect decreased albumin synthesis or a decrease in concentration relative to the free fluid. The latter state of hypoalbuminemia can be seen in cases of hepatic failure with ascites, as well as renal or congestive heart failure. Thus, the patient&#x02019;s clinical context must be considered during the evaluation and diagnostic workup.</p>
+        <p>Some patients who are malnourished have hypoalbuminemia or low serum albumin levels. The effects of fasting can have a rapid onset, leading to a one-third decrease in albumin within 24 to 48 hours of fasting onset. However, this reverses quickly with replenishment, restoring the liver&#x02019;s ability to synthesize albumin within 15 to 30 minutes. Since malnourishment has been associated with adverse events in the post-surgical period, it is commonly used as a clinical measure for nutritional optimization and readiness for surgery. Albumin is&#x000a0;1 of many laboratory measurements utilized to evaluate a patient's nutritional status. Other laboratory measurements include pre-albumin, transferrin, and retinol-binding protein. However, none of these laboratory measurements stand alone and must be combined with a physical examination of the patient. Hypoalbuminemia is also useful for the diagnosis and monitoring of patients with anasarca and malabsorption.</p>
+        <p>Albumin levels can fall in patients with inflammatory disorders and other conditions. This may be due to the liver's downregulated production of albumin mRNA, leading to reduced synthesis, increased albumin catabolism, and increased vascular permeability.<xref ref-type="bibr" rid="article-17328.r8">[8]</xref></p>
+        <p>Albumin has additional utility in diagnosing patients with fluid accumulation in the peritoneum or ascites. Ascites can occur for a wide variety of reasons, including congestive heart failure, liver failure, and malignancy. A clinician can perform a diagnostic paracentesis to drain ascitic fluid, compare the albumin in this fluid to serum albumin levels, and calculate a serum ascites-albumin gradient (SAAG).</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>SAAG = serum albumin - ascitic fluid albumin.</p>
+          </list-item>
+        </list>
+        <p>A SAAG of 1.1 or greater suggests ascites secondary to a portal hypertensive etiology such as congestive heart failure, hepatic cirrhosis, and alcoholic hepatitis. A SAAG of less than 1.1 indicates ascites of a non-portal hypertensive etiology, such as peritoneal carcinomatosis, Mycobacterium tuberculosis, nephrotic syndrome, pancreatitis, and serositis.</p>
+        <p>
+<bold>Serum Albumin as a Colloid Fluid</bold>
+</p>
+        <p>The clinical use of the colloid fluid, albumin, in critically ill patients is a topic of debate. Some clinicians advocate using albumin because it remains intravascular for longer than crystalloids and theoretically leads to less pulmonary edema. However, the benefits of albumin over crystalloids, such as lactated ringers and normal saline, have not been proven in trials. Furthermore, the clinician must consider the relatively higher cost of albumin than crystalloids. When treating hypovolemic shock, the first consideration is, "What is the patient losing?" If they are in shock secondary to hemorrhage from a gunshot wound, for example, packed red blood cells are of greatest importance. However, albumin is theoretically advantageous over crystalloids for its potential to increase a patient&#x02019;s oncotic pressure. Its short half-life limits the effects of albumin.</p>
+        <p>As mentioned above, the strength of albumin over crystalloids is that it increases intravascular oncotic pressure. There are some&#x000a0;situations where a patient needs improved oncotic pressure, which can be advantageous. In cirrhotic patients receiving large volumes (more than&#x000a0;5 liters) of paracenteses, giving the patient 6g to 8g of albumin for each liter of ascetic fluid drained could lead to less incidence of hemodynamic compromise. However, a recent systematic review concluded that in cirrhotic patients without hepatocellular carcinoma, there is no mortality benefit to administering albumin after large-volume paracentesis. More studies are needed to confirm or refute this finding.</p>
+        <p>
+<bold>Serum Albumin and Wound Complications in Orthopedic Surgery</bold>
+</p>
+        <p>Surgical site infection (SSI) is an unfortunately common postoperative complication encountered throughout the entire field of orthopedic surgery (eg, orthopedic spine surgery, elective total joint replacement, orthopedic trauma cases). Serum albumin &#x0003c;3.5 g/dL&#x000a0;has been demonstrated&#x000a0;to confer an increased risk of SSI following these procedures. Especially in elective THA and TKA procedures, which demonstrate a wide range of reproducibility and success regarding positive short- and long-term outcomes in appropriately selected patients, patient malnutrition status is often considered&#x000a0;when performing these procedures.<xref ref-type="bibr" rid="article-17328.r9">[9]</xref><xref ref-type="bibr" rid="article-17328.r10">[10]</xref><xref ref-type="bibr" rid="article-17328.r11">[11]</xref><xref ref-type="bibr" rid="article-17328.r12">[12]</xref></p>
+      </sec>
+      <sec id="article-17328.s8">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=17328&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=17328">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/17328/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=17328">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-17328.s9">
+        <title>References</title>
+        <ref id="article-17328.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yuwen</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Lv</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Feng</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Hu</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Guo</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Tian</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Sun</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>Y</given-names>
+              </name>
+            </person-group>
+            <article-title>Albumin and surgical site infection risk in orthopaedics: a meta-analysis.</article-title>
+            <source>BMC Surg</source>
+            <year>2017</year>
+            <month>Jan</month>
+            <day>16</day>
+            <volume>17</volume>
+            <issue>1</issue>
+            <fpage>7</fpage>
+            <pub-id pub-id-type="pmid">28093079</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17328.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chang</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Holcomb</surname>
+                <given-names>JB</given-names>
+              </name>
+            </person-group>
+            <article-title>Choice of Fluid Therapy in the Initial Management of Sepsis, Severe Sepsis, and Septic Shock.</article-title>
+            <source>Shock</source>
+            <year>2016</year>
+            <month>Jul</month>
+            <volume>46</volume>
+            <issue>1</issue>
+            <fpage>17</fpage>
+            <page-range>17-26</page-range>
+            <pub-id pub-id-type="pmid">26844975</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17328.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Rothschild</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Oratz</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Schreiber</surname>
+                <given-names>SS</given-names>
+              </name>
+            </person-group>
+            <article-title>Serum albumin.</article-title>
+            <source>Hepatology</source>
+            <year>1988</year>
+            <season>Mar-Apr</season>
+            <volume>8</volume>
+            <issue>2</issue>
+            <fpage>385</fpage>
+            <page-range>385-401</page-range>
+            <pub-id pub-id-type="pmid">3281888</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17328.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Annane</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Siami</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Jaber</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Martin</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Elatrous</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Decl&#x000e8;re</surname>
+                <given-names>AD</given-names>
+              </name>
+              <name>
+                <surname>Preiser</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Outin</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Troch&#x000e9;</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Charpentier</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Trouillet</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Kimmoun</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Forceville</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Darmon</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Lesur</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Reignier</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Abroug</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Berger</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Clec'h</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Cousson</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Thibault</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Chevret</surname>
+                <given-names>S</given-names>
+              </name>
+              <collab>CRISTAL Investigators</collab>
+            </person-group>
+            <article-title>Effects of fluid resuscitation with colloids vs crystalloids on mortality in critically ill patients presenting with hypovolemic shock: the CRISTAL randomized trial.</article-title>
+            <source>JAMA</source>
+            <year>2013</year>
+            <month>Nov</month>
+            <day>06</day>
+            <volume>310</volume>
+            <issue>17</issue>
+            <fpage>1809</fpage>
+            <page-range>1809-17</page-range>
+            <pub-id pub-id-type="pmid">24108515</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17328.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Galambos</surname>
+                <given-names>JT</given-names>
+              </name>
+              <name>
+                <surname>Wills</surname>
+                <given-names>CE</given-names>
+              </name>
+            </person-group>
+            <article-title>Relationship between 505 paired liver tests and biopsies in 242 obese patients.</article-title>
+            <source>Gastroenterology</source>
+            <year>1978</year>
+            <month>Jun</month>
+            <volume>74</volume>
+            <issue>6</issue>
+            <fpage>1191</fpage>
+            <page-range>1191-5</page-range>
+            <pub-id pub-id-type="pmid">648808</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17328.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Finfer</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Bellomo</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Boyce</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>French</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Myburgh</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Norton</surname>
+                <given-names>R</given-names>
+              </name>
+              <collab>SAFE Study Investigators</collab>
+            </person-group>
+            <article-title>A comparison of albumin and saline for fluid resuscitation in the intensive care unit.</article-title>
+            <source>N Engl J Med</source>
+            <year>2004</year>
+            <month>May</month>
+            <day>27</day>
+            <volume>350</volume>
+            <issue>22</issue>
+            <fpage>2247</fpage>
+            <page-range>2247-56</page-range>
+            <pub-id pub-id-type="pmid">15163774</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17328.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>K&#x000fc;tting</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Schubert</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Franklin</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Bowe</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Hoffmann</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Demir</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Pelc</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Nierhoff</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>T&#x000f6;x</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>Steffen</surname>
+                <given-names>HM</given-names>
+              </name>
+            </person-group>
+            <article-title>Insufficient evidence of benefit regarding mortality due to albumin substitution in HCC-free cirrhotic patients undergoing large volume paracentesis.</article-title>
+            <source>J Gastroenterol Hepatol</source>
+            <year>2017</year>
+            <month>Feb</month>
+            <volume>32</volume>
+            <issue>2</issue>
+            <fpage>327</fpage>
+            <page-range>327-338</page-range>
+            <pub-id pub-id-type="pmid">27149296</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17328.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Friedman</surname>
+                <given-names>AN</given-names>
+              </name>
+              <name>
+                <surname>Fadem</surname>
+                <given-names>SZ</given-names>
+              </name>
+            </person-group>
+            <article-title>Reassessment of albumin as a nutritional marker in kidney disease.</article-title>
+            <source>J Am Soc Nephrol</source>
+            <year>2010</year>
+            <month>Feb</month>
+            <volume>21</volume>
+            <issue>2</issue>
+            <fpage>223</fpage>
+            <page-range>223-30</page-range>
+            <pub-id pub-id-type="pmid">20075063</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17328.r9">
+          <label>9</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Varacallo</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Luo</surname>
+                <given-names>TD</given-names>
+              </name>
+              <name>
+                <surname>Johanson</surname>
+                <given-names>NA</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Total Hip Arthroplasty Techniques</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>8</month>
+            <day>4</day>
+            <pub-id pub-id-type="pmid">29939641</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17328.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Varacallo</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Chakravarty</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Denehy</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Star</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Joint perception and patient perceived satisfaction after total hip and knee arthroplasty in the American population.</article-title>
+            <source>J Orthop</source>
+            <year>2018</year>
+            <month>Jun</month>
+            <volume>15</volume>
+            <issue>2</issue>
+            <fpage>495</fpage>
+            <page-range>495-499</page-range>
+            <pub-id pub-id-type="pmid">29643693</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17328.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Varacallo</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Herzog</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Toossi</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Johanson</surname>
+                <given-names>NA</given-names>
+              </name>
+            </person-group>
+            <article-title>Ten-Year Trends and Independent Risk Factors for Unplanned Readmission Following Elective Total Joint Arthroplasty at a Large Urban Academic Hospital.</article-title>
+            <source>J Arthroplasty</source>
+            <year>2017</year>
+            <month>Jun</month>
+            <volume>32</volume>
+            <issue>6</issue>
+            <fpage>1739</fpage>
+            <page-range>1739-1746</page-range>
+            <pub-id pub-id-type="pmid">28153458</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17328.r12">
+          <label>12</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Varacallo</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Luo</surname>
+                <given-names>TD</given-names>
+              </name>
+              <name>
+                <surname>Mabrouk</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Johanson</surname>
+                <given-names>NA</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Total Knee Arthroplasty Techniques</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2024</year>
+            <month>5</month>
+            <day>6</day>
+            <pub-id pub-id-type="pmid">29763071</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

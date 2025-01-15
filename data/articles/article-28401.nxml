@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-28401" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Human Subjects Research Design</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Bayot</surname>
+            <given-names>Marlon L.</given-names>
+          </name>
+          <aff>Adventist University of the Philippines-College of Medicine; Coach MLB Consulting</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Brannan</surname>
+            <given-names>Grace D.</given-names>
+          </name>
+          <aff>GDB Research and Statistical Consulting/McLaren Macomb Hospital</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Brannan</surname>
+            <given-names>Janelle M.</given-names>
+          </name>
+          <aff>GDB Research and Statistical Consulting</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Tenny</surname>
+            <given-names>Steven</given-names>
+          </name>
+          <aff>University of Nebraska Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Marlon Bayot declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Grace Brannan declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Janelle Brannan declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Steven Tenny declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>14</day>
+          <month>8</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-28401.s1" sec-type="Definition/Introduction">
+        <title>Definition/Introduction</title>
+        <p content-type="pubmed-excerpt">Human subjects research is a heavily regulated type of research, hence this paper will start with two critical definitions. The US Department of Health and Human Services (HHS) Code of Federal Regulations, 45 CFR 46, provides the following definitions:<xref ref-type="bibr" rid="article-28401.r1">[1]</xref>&#x000a0;&#x0201c;A living individual about whom an investigator (whether professional or student) conducting research:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Obtains information or biospecimens through intervention or interaction with the individual, and uses, studies, or analyzes the information or biospecimens; or</p>
+          </list-item>
+          <list-item>
+            <p>Obtains, uses, studies, analyzes, or generates identifiable private information or identifiable biospecimens."</p>
+          </list-item>
+        </list>
+        <p>Research means &#x0201c;a systematic investigation, including research development, testing and evaluation, designed to develop or contribute to generalizable knowledge.&#x0201d; Human subjects research is at the intersection of these two federal definitions and must obtain Institutional Review Board approval before starting, regardless of the type of design involved. The topic of a human research study varies and can include building a theory or&#x000a0;hypothesis, determining patient satisfaction, or testing a medication, tool, device, process, or health intervention, to name a few.&#x000a0;</p>
+        <p>Research studies are classified into a qualitative study, a quantitative study, or a combination of both, called a mixed-methods study.<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/NBK537270/">[2]</ext-link><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/NBK537270/">[3]</ext-link>&#x000a0;Qualitative studies gather non-numerical data,&#x000a0;whereas quantitative research&#x000a0;involves collecting numerical data. Other classifications of research studies exist depending on the purpose and utility of the study,<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/NBK537270/">[4]</ext-link>&#x000a0;examples include health systems research and operational research.<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/NBK537270/">[5]</ext-link> This review will be limited to the most common quantitative and qualitative research designs.</p>
+        <p>
+<bold>Quantitative Research</bold>
+</p>
+        <p>A&#x000a0;research study can&#x000a0;be done to describe variables and/or to determine the association of test and outcome variables regarding the research topic.<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/NBK537270/">[1]</ext-link> Quantitative research studies also subdivide into either interventional studies or non-interventional (observational)&#x000a0;studies.&#x000a0; For interventional research studies, the researcher performs some&#x000a0;intervention or manipulation of one or more groups in the research study and compares the outcomes to the other groups to help analyze the variables of interest.&#x000a0;It may or may not be randomized, although a randomized controlled trial is considered a gold standard, as randomization of patients into the treatment groups reduce bias. Interventional studies apply to medical drugs, biologics, and devices.</p>
+        <p>For observational or non-interventional research studies, the investigator gathers data for identified variables of interest without any intervention or outside influence by the investigator on the groups under study. Cohort, cross-sectional, and case-control are the common types.<xref ref-type="bibr" rid="article-28401.r2">[2]</xref></p>
+        <p>A cohort study involves longitudinally following a group or groups of population with certain known exposures to determine who develops certain diseases or illnesses. This type of study could establish causal relationships between exposure and outcomes such as illness.<xref ref-type="bibr" rid="article-28401.r2">[2]</xref> A cross-sectional study deals with a population at a given point in time as opposed to longitudinally and could provide information such as prevalence. Case-control studies compare populations with and without the exposure to determine if an illness will develop and at what rate in either group. A classic example is comparing smokers and non-smokers to determine which group develops lung cancer.</p>
+        <p>
+<bold>Qualitative Research</bold>
+</p>
+        <p>Qualitative research aims to answer the more open-ended questions that arise during the research process. Rather than trying to answer quantitative &#x02018;how much&#x02019; or &#x02018;how many&#x02019;-type questions, qualitative research seeks to answer &#x02018;how&#x02019; and &#x02018;why&#x02019; questions.<xref ref-type="bibr" rid="article-28401.r3">[3]</xref> Qualitative research often aims to understand and explain why or how a phenomenon is the way it is in order to provide insights and explanations of real-life problems and experiences.<xref ref-type="bibr" rid="article-28401.r4">[4]</xref> Qualitative research can be used alone, in conjunction with quantitative research in mixed methods research, or as a way to explain the findings of a quantitative study because a quantitative study might show that there is a correlation between two things, but a qualitative study could then tell why that correlation exists, and not just that it does indeed exist.</p>
+        <p>There are many approaches used for qualitative research. Some of the most common are ethnography, grounded theory, phenomenology, and narrative research.<xref ref-type="bibr" rid="article-28401.r3">[3]</xref> Ethnography is an approach that involves the researcher to be immersed in their participant&#x02019;s environment, and through this immersion, collect insight into the actions, behaviors, and events that could aid them in their research.<xref ref-type="bibr" rid="article-28401.r4">[4]</xref>&#x000a0;Grounded theory is an approach where the researcher observes the population of interest in order to develop a theory that explains the topic of interest.<xref ref-type="bibr" rid="article-28401.r3">[3]</xref> Phenomenology as an approach emphasizes the importance of the &#x02018;lived experience&#x02019; for explaining phenomena.<xref ref-type="bibr" rid="article-28401.r4">[4]</xref> Grounded theory and phenomenology are similar, but grounded theory focuses on observation as a whole to create a theory, whereas phenomenology focuses on the perspective of participants themselves to explain why or how something happens. Lastly, narrative research showcases one of qualitative research&#x02019;s strengths, the ability to tell a story. When research includes the perspective of the individuals involved, it can create robust theory-building because it takes into account the real-life implications and impacts of phenomena in a way that quantitative research often lacks. Data for qualitative research is collected in many ways, including interviews, focus groups, case studies, and medical record reviews.</p>
+        <p>
+<bold>Mixed Methods Research</bold>
+</p>
+        <p>In some cases, a combination of both qualitative and quantitative methods, or what is called a mixed-methods research is performed. Mixed methods approaches that combine qualitative and quantitative research can allow for hypothesis generation and hypothesis testing to help try to answer questions in a more well-rounded way. This is usually done to get the benefits of both numerical and non-numerical information to answer the research questions on hand. For example, a cross-sectional study found that young teens are vaping at a high rate. For further elucidation of the reasons why these teens vape, a subsequent focus group could be performed.&#x000a0;</p>
+      </sec>
+      <sec id="article-28401.s2" sec-type="Issues of Concern">
+        <title>Issues of Concern</title>
+        <p>One of the primary concerns in doing research is the identification and formulation of the research problem (i.e., research question).<xref ref-type="bibr" rid="article-28401.r5">[5]</xref>&#x000a0;The research problem should be ethical, researchable, significant, and feasible. In medicine, the goal of the research is not only to add relevant findings to the scientific body of knowledge but also to provide a beneficial,&#x000a0;useful&#x000a0;contribution to stakeholders, particularly the patients.</p>
+        <p>The second area of concern for research studies is selecting the correct research study to perform.&#x000a0; Many times descriptive and qualitative&#x000a0;research must first take place to produce a robust, significant, and feasible&#x000a0;research hypothesis for later quantitative research methods.<xref ref-type="bibr" rid="article-28401.r6">[6]</xref>&#x000a0; Additionally, different&#x000a0;research study types have different levels of strength and risk of bias as delineated in the hierarchy of research study designs.<xref ref-type="bibr" rid="article-28401.r7">[7]</xref>&#x000a0;</p>
+      </sec>
+      <sec id="article-28401.s3" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>The significance of research studies and its findings collectively support both clinical and public health needs. The discovery of new medicines and new treatment modalities for specific diseases is possible using randomized clinical (control) trials, more commonly termed as RCTs.<xref ref-type="bibr" rid="article-28401.r8">[8]</xref> Public health, both as medical and social science, can choose from a wide range of qualitative studies, descriptive, analytic, community-based trials<xref ref-type="bibr" rid="article-28401.r9">[9]</xref>, and operations researches, among others, to explore and describe the characteristics of certain groups of populations and its associations to the disease process or a particular health intervention, yielding findings that will inform policymakers and stakeholders.</p>
+        <p>In clinical settings, case studies and case series can be used by clinicians, surgeons,&#x000a0;and&#x000a0;other clinical&#x000a0;specialists to scientifically document and describe the occurrence of rare diseases.<xref ref-type="bibr" rid="article-28401.r10">[10]</xref>&#x000a0;Researchers can perform&#x000a0;studies to determine the association of exposure variables or risk factors in rare diseases or cohort studies to investigate rare exposure variables present in the study population. Meanwhile, studies such as meta-analysis and systematic review are good choices for researchers who want to summarize the results of previous research findings, in quantitative and qualitative means, respectively.<xref ref-type="bibr" rid="article-28401.r11">[11]</xref><xref ref-type="bibr" rid="article-28401.r12">[12]</xref> Mixed methods are employed to combine and exhaust the utility of the research type or study design combinations (e.g., quantitative and qualitative studies).<xref ref-type="bibr" rid="article-28401.r13">[13]</xref></p>
+        <p>Research studies can be both simple and complex; thus, they can be performed in several ways, which&#x000a0;must be consistently systematic and scientific. The acquisition of new research findings will eventually find utility in the application of evidence-based medicine (EBM).<xref ref-type="bibr" rid="article-28401.r14">[14]</xref> Research studies must be carried out within the walls of medical ethics, free of bias, and primarily geared towards the welfare of our patients rather than just merely the expedition of science.<xref ref-type="bibr" rid="article-28401.r15">[15]</xref></p>
+      </sec>
+      <sec id="article-28401.s4">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=28401&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=28401">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/28401/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=28401">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-28401.s5">
+        <title>References</title>
+        <ref id="article-28401.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bass</surname>
+                <given-names>PF</given-names>
+              </name>
+              <name>
+                <surname>Maloy</surname>
+                <given-names>JW</given-names>
+              </name>
+            </person-group>
+            <article-title>How to Determine if a Project Is Human Subjects Research, a Quality Improvement Project, or Both.</article-title>
+            <source>Ochsner J</source>
+            <year>2020</year>
+            <season>Spring</season>
+            <volume>20</volume>
+            <issue>1</issue>
+            <fpage>56</fpage>
+            <page-range>56-61</page-range>
+            <pub-id pub-id-type="pmid">32284684</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28401.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>R&#x000f6;hrig</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>du Prel</surname>
+                <given-names>JB</given-names>
+              </name>
+              <name>
+                <surname>Wachtlin</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Blettner</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Types of study in medical research: part 3 of a series on evaluation of scientific publications.</article-title>
+            <source>Dtsch Arztebl Int</source>
+            <year>2009</year>
+            <month>Apr</month>
+            <volume>106</volume>
+            <issue>15</issue>
+            <fpage>262</fpage>
+            <page-range>262-8</page-range>
+            <pub-id pub-id-type="pmid">19547627</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28401.r3">
+          <label>3</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Tenny</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Brannan</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Brannan</surname>
+                <given-names>GD</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Qualitative Study</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2022</year>
+            <month>9</month>
+            <day>18</day>
+            <pub-id pub-id-type="pmid">29262162</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28401.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cleland</surname>
+                <given-names>JA</given-names>
+              </name>
+            </person-group>
+            <article-title>The qualitative orientation in medical education research.</article-title>
+            <source>Korean J Med Educ</source>
+            <year>2017</year>
+            <month>Jun</month>
+            <volume>29</volume>
+            <issue>2</issue>
+            <fpage>61</fpage>
+            <page-range>61-71</page-range>
+            <pub-id pub-id-type="pmid">28597869</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28401.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Farrugia</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Petrisor</surname>
+                <given-names>BA</given-names>
+              </name>
+              <name>
+                <surname>Farrokhyar</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Bhandari</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Practical tips for surgical research: Research questions, hypotheses and objectives.</article-title>
+            <source>Can J Surg</source>
+            <year>2010</year>
+            <month>Aug</month>
+            <volume>53</volume>
+            <issue>4</issue>
+            <fpage>278</fpage>
+            <page-range>278-81</page-range>
+            <pub-id pub-id-type="pmid">20646403</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28401.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Grimes</surname>
+                <given-names>DA</given-names>
+              </name>
+              <name>
+                <surname>Schulz</surname>
+                <given-names>KF</given-names>
+              </name>
+            </person-group>
+            <article-title>Descriptive studies: what they can and cannot do.</article-title>
+            <source>Lancet</source>
+            <year>2002</year>
+            <month>Jan</month>
+            <day>12</day>
+            <volume>359</volume>
+            <issue>9301</issue>
+            <fpage>145</fpage>
+            <page-range>145-9</page-range>
+            <pub-id pub-id-type="pmid">11809274</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28401.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Burns</surname>
+                <given-names>PB</given-names>
+              </name>
+              <name>
+                <surname>Rohrich</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Chung</surname>
+                <given-names>KC</given-names>
+              </name>
+            </person-group>
+            <article-title>The levels of evidence and their role in evidence-based medicine.</article-title>
+            <source>Plast Reconstr Surg</source>
+            <year>2011</year>
+            <month>Jul</month>
+            <volume>128</volume>
+            <issue>1</issue>
+            <fpage>305</fpage>
+            <page-range>305-310</page-range>
+            <pub-id pub-id-type="pmid">21701348</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28401.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Spieth</surname>
+                <given-names>PM</given-names>
+              </name>
+              <name>
+                <surname>Kubasch</surname>
+                <given-names>AS</given-names>
+              </name>
+              <name>
+                <surname>Penzlin</surname>
+                <given-names>AI</given-names>
+              </name>
+              <name>
+                <surname>Illigens</surname>
+                <given-names>BM</given-names>
+              </name>
+              <name>
+                <surname>Barlinn</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Siepmann</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Randomized controlled trials - a matter of design.</article-title>
+            <source>Neuropsychiatr Dis Treat</source>
+            <year>2016</year>
+            <volume>12</volume>
+            <fpage>1341</fpage>
+            <page-range>1341-9</page-range>
+            <pub-id pub-id-type="pmid">27354804</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28401.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>McLeroy</surname>
+                <given-names>KR</given-names>
+              </name>
+              <name>
+                <surname>Norton</surname>
+                <given-names>BL</given-names>
+              </name>
+              <name>
+                <surname>Kegler</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Burdine</surname>
+                <given-names>JN</given-names>
+              </name>
+              <name>
+                <surname>Sumaya</surname>
+                <given-names>CV</given-names>
+              </name>
+            </person-group>
+            <article-title>Community-based interventions.</article-title>
+            <source>Am J Public Health</source>
+            <year>2003</year>
+            <month>Apr</month>
+            <volume>93</volume>
+            <issue>4</issue>
+            <fpage>529</fpage>
+            <page-range>529-33</page-range>
+            <pub-id pub-id-type="pmid">12660190</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28401.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Budgell</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Guidelines to the writing of case studies.</article-title>
+            <source>J Can Chiropr Assoc</source>
+            <year>2008</year>
+            <month>Dec</month>
+            <volume>52</volume>
+            <issue>4</issue>
+            <fpage>199</fpage>
+            <page-range>199-204</page-range>
+            <pub-id pub-id-type="pmid">19066690</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28401.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Haidich</surname>
+                <given-names>AB</given-names>
+              </name>
+            </person-group>
+            <article-title>Meta-analysis in medical research.</article-title>
+            <source>Hippokratia</source>
+            <year>2010</year>
+            <month>Dec</month>
+            <volume>14</volume>
+            <issue>Suppl 1</issue>
+            <fpage>29</fpage>
+            <page-range>29-37</page-range>
+            <pub-id pub-id-type="pmid">21487488</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28401.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Charrois</surname>
+                <given-names>TL</given-names>
+              </name>
+            </person-group>
+            <article-title>Systematic reviews: what do you need to know to get started?</article-title>
+            <source>Can J Hosp Pharm</source>
+            <year>2015</year>
+            <season>Mar-Apr</season>
+            <volume>68</volume>
+            <issue>2</issue>
+            <fpage>144</fpage>
+            <page-range>144-8</page-range>
+            <pub-id pub-id-type="pmid">25964686</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28401.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hansen</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>O'Brien</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Meckler</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Chang</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Guise</surname>
+                <given-names>JM</given-names>
+              </name>
+            </person-group>
+            <article-title>Understanding the value of mixed methods research: the Children's Safety Initiative-Emergency Medical Services.</article-title>
+            <source>Emerg Med J</source>
+            <year>2016</year>
+            <month>Jul</month>
+            <volume>33</volume>
+            <issue>7</issue>
+            <fpage>489</fpage>
+            <page-range>489-94</page-range>
+            <pub-id pub-id-type="pmid">26949970</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28401.r14">
+          <label>14</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Tenny</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Varacallo</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Evidence-Based Medicine</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2024</year>
+            <month>9</month>
+            <day>10</day>
+            <pub-id pub-id-type="pmid">29262040</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28401.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Simundi&#x00107;</surname>
+                <given-names>AM</given-names>
+              </name>
+            </person-group>
+            <article-title>Bias in research.</article-title>
+            <source>Biochem Med (Zagreb)</source>
+            <year>2013</year>
+            <volume>23</volume>
+            <issue>1</issue>
+            <fpage>12</fpage>
+            <page-range>12-5</page-range>
+            <pub-id pub-id-type="pmid">23457761</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

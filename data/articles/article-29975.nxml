@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-29975" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Biochemistry, Tertiary Protein Structure</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Rehman</surname>
+            <given-names>Ibraheem</given-names>
+          </name>
+          <aff>Cornell University</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Kerndt</surname>
+            <given-names>Connor C.</given-names>
+          </name>
+          <aff>Spectrum Health/Michigan State University College of Human Medicine</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Botelho</surname>
+            <given-names>Salome</given-names>
+          </name>
+          <aff>Stanford University</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Ibraheem Rehman declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Connor Kerndt declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Salome Botelho declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>25</day>
+          <month>5</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-29975.s1" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Proteins are often referred to as the workhorses of the cell because of their numerous crucial roles, including providing structural stability, acting as motors for movement, carrying out metabolic activities, participating in the expression of genetic information, and mediating communication between the cell and its environment. Although proteins are synthesized in various shapes and sizes, they share a common building block.</p>
+        <p>Twenty amino acids are commonly found in proteins. An amino acid is a small molecule containing an amino group (NH<sub>3</sub>+), a carboxylate group (COO&#x02212;), and a variable side chain called the R group. These amino acids are formally called alpha-amino acids because both amino and carboxylate (acid) groups are attached to a central carbon atom known as the &#x003b1; carbon (C alpha). At physiological pH, the carboxyl group is unprotonated (negatively charged), and the amino group is protonated (positively charged). Therefore, an isolated amino acid bears both negative and positive charges.</p>
+        <p>Amino acids are grouped into&#x000a0;3 major groups&#x02014;amino acids with hydrophobic R groups, amino acids with polar (hydrophilic) R groups, and amino acids with charged R groups. Within proteins, amino acids are linked together through peptide bonds. The chemical and physical properties of proteins depend on their constituent amino acids. The sequence of amino acids in a polypeptide chain is called the protein-protein structure. The conformation of the polypeptide backbone, excluding the R groups, is known as the secondary structure. The complete 3-dimensional conformation of the protein, including its backbone atoms and all its side chains, is called tertiary structure.</p>
+        <p>In proteins with more than&#x000a0;1 polypeptide chain, the spatial arrangement of all the chains is referred to as the quaternary structure.<xref ref-type="bibr" rid="article-29975.r1">[1]</xref><xref ref-type="bibr" rid="article-29975.r2">[2]</xref><xref ref-type="bibr" rid="article-29975.r3">[3]</xref><xref ref-type="bibr" rid="article-29975.r4">[4]</xref>&#x000a0;The quaternary structure is essential for maintaining the function and stability of multi-chain proteins.</p>
+      </sec>
+      <sec id="article-29975.s2" sec-type="Fundamentals">
+        <title>Fundamentals</title>
+        <p>The structure of proteins is fundamental to their diverse functions in living organisms. This structure encompasses four levels&#x02014;primary, secondary, tertiary, and quaternary, each contributing to the overall shape and function of the protein.</p>
+        <p>
+<bold>Primary Structure of Proteins</bold>
+</p>
+        <p>A protein's primary structure, defined by&#x000a0;its unique sequence of amino acids, is essential to its function. For example, a single mutation in hemoglobin that replaces glutamic acid at residue 6 in &#x003b2;-globin with valine (&#x003b2;6Glu&#x02192;Val) results in sickle-cell anemia.<xref ref-type="bibr" rid="article-29975.r5">[5]</xref>&#x000a0;This primary structure&#x000a0;forms the foundation for&#x000a0;higher levels of protein structure, including secondary, tertiary, and quaternary.</p>
+        <p>
+<bold>Secondary Structure of Proteins </bold>
+</p>
+        <p>The secondary structure of proteins is&#x000a0;formed by&#x000a0;interactions between functional groups in the peptide-bonded backbone. These structures are distinctively shaped segments stabilized mainly by hydrogen bonding between the oxygen on the C=O group of one amino acid residue and the hydrogen on the N-H groups of another amino acid.</p>
+        <p>In most proteins, these polar groups form hydrogen bonds&#x000a0;when&#x000a0;the backbone bends, resulting in either an &#x003b1;-helix, where the&#x000a0;polypeptide's backbone is coiled, or a &#x003b2;-pleated sheet,&#x000a0;where segments of a peptide chain bend 180&#x000b0; and then fold in the same plane. In both &#x003b1;-helix and &#x003b2;-pleated sheet structures, hydrogen bond residues are often located close together in the linear sequence of a polypeptide's primary structure.</p>
+        <p>In an &#x003b1;-helix, hydrogen bonds are formed between residues,&#x000a0;which are only 4 linear positions apart. The distance between residues that form a &#x003b2;-pleated sheet can be more significant as folds in the chain bring them close enough to bond in a 3-dimensional space.</p>
+        <p>The primary structure of a protein determines whether a segment forms &#x003b1;-helix or &#x003b2;-pleated sheet structures. Certain amino acids are more likely involved in &#x003b1;-helices than&#x000a0;in &#x003b2;-pleated&#x000a0;sheets,&#x000a0;and vice versa. For instance, proline&#x000a0;is rarely found&#x000a0;in &#x003b1;-helices due to its unusual R-group, which forms bonds with the alpha carbon and the nitrogen of the core amino group.</p>
+        <p>
+<bold>Tertiary Structure of Proteins </bold>
+</p>
+        <p>A protein's distinctive 3-dimensional configuration, or tertiary structure, arises from interactions between residues as the chain bends and folds in a 3-dimensional space. These interacting residues&#x000a0;are often distant from&#x000a0;each other in the linear sequence.</p>
+        <p>Unlike secondary structures, which involve only hydrogen bonds between backbone components, tertiary structures result from diverse bonds and interactions between R-groups or between R-groups and the backbone. The&#x000a0;key chemical bonds involved include hydrogen bonding, which occurs&#x000a0;between polar side chains and opposite partial charges either in the peptide backbone or other R-groups; hydrophobic interactions in an aqueous solution, where water molecules interact with the hydrophilic polar side chains of a polypeptide, forcing the hydrophobic nonpolar side chains to merge into globular masses; and van der Waals interactions. Once hydrophobic side chains are close, their association is further stabilized by electrical attractions known as van der Waals interactions.<xref ref-type="bibr" rid="article-29975.r6">[6]</xref><xref ref-type="bibr" rid="article-29975.r7">[7]</xref><xref ref-type="bibr" rid="article-29975.r8">[8]</xref></p>
+        <p>Covalent bonding can&#x000a0;occur&#x000a0;between the side chains of&#x000a0;2 cysteines through a reaction involving their&#x000a0;sulfhydryl groups. These disulfide bonds are often&#x000a0;called&#x000a0;bridges because they create strong links between distinct regions of the same polypeptide or 2 separate polypeptides. Ionic bonding, on the other hand,&#x000a0;forms between groups&#x000a0;with full&#x000a0;and opposing charges, such as the ionized acidic and basic R groups.</p>
+        <p>As a polypeptide folds into its correct shape, amino acids with nonpolar side chains typically cluster at the core of the protein,&#x000a0;avoiding contact&#x000a0;with water. Once these nonpolar amino acids have formed the core, weak van der Waals forces stabilize the protein. In addition, hydrogen bonds and ionic interactions between polar, charged amino acids contribute to the tertiary structure. Although individually&#x000a0;weak in the cellular environment,&#x000a0;their&#x000a0;cumulative effect&#x000a0;is crucial in determining the protein's distinctive shape.<xref ref-type="bibr" rid="article-29975.r9">[9]</xref></p>
+        <p>The primary&#x000a0;structure plays a critical role in determining the tertiary structure and the protein's overall function. Experiments have convincingly demonstrated that protein denaturation is a reversible process. Proteins denatured by heat, extreme pH, or denaturing reagents regain their native structure and original biological function when&#x000a0;returned&#x000a0;to conditions favoring the native conformation.</p>
+        <p>For example, ribonuclease undergoes denaturation in the presence of urea and mercaptoethanol, where disulfide bridges break apart in the reducing environment. However, after removing urea and mercaptoethanol, ribonuclease regains its native conformation. This example&#x000a0;underscores how the primary structure determines the tertiary structure.</p>
+        <p>Most proteins&#x000a0;likely&#x000a0;undergo several intermediate structures as they progress toward achieving their most stable conformation. However, these intermediates are not visible in the final folded protein. Chaperonins, protein molecules that assist in proper protein folding, are crucial in this process. These molecules&#x000a0;keep proteins away from disruptive chemical conditions in the cytoplasmic environment and allow&#x000a0;polypeptides to fold spontaneously. Defects in protein folding provide the molecular basis for several genetic disorders.</p>
+        <p>
+<bold>Quaternary Structure of Proteins</bold>
+</p>
+        <p>The primary, secondary, and tertiary structures of proteins involve single polypeptides. However, some proteins contain multiple polypeptides that interact to form a single functional structure. These combinations of polypeptides, called subunits, give some proteins a quaternary structure, where individual polypeptides are held together by the same types of bonds and interactions found in the tertiary level of structure.</p>
+      </sec>
+      <sec id="article-29975.s3" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>The structure of proteins determines their function. Therefore, incorrectly folded proteins in the human body can have catastrophic effects. Misfolding or alterations in a protein's primary structure can affect its tertiary structure. Protein misfolding can lead to conditions such as type 2 diabetes, Alzheimer's disease, Huntington's disease, and Parkinson's disease. In these conditions, a normally soluble protein is misfolded and secreted as an insoluble form called an amyloid fiber,&#x000a0;collectively known as&#x000a0;amyloidoses.</p>
+        <p>Mutations in the gene encoding a specific protein can lead to incorrect tertiary structure of the protein.&#x000a0;One example of a disease resulting from this mechanism is cystic fibrosis, an inherited disorder&#x000a0;characterized by thick and sticky&#x000a0;mucus. Typically, the mucus secreted by epithelial cells is watery and serves as a lubricant to protect tissues. However, the thick and sticky mucus&#x000a0;associated with cystic fibrosis does&#x000a0;not move easily, leading to infections, difficulty absorbing nutrients&#x000a0;in children, and infertility&#x000a0;in men. All these issues stem from a single misfolded protein.</p>
+        <p>Cystic fibrosis&#x000a0;arises from&#x000a0;mutations in the gene that codes for a protein called cystic fibrosis transmembrane regulator.&#x000a0;Individuals with cystic fibrosis produce abnormal cystic fibrosis transmembrane regulator protein&#x000a0;or sometimes none at all. Consequently, the body produces thick, sticky mucus instead of the thin, watery type.<xref ref-type="bibr" rid="article-29975.r10">[10]</xref><xref ref-type="bibr" rid="article-29975.r11">[11]</xref></p>
+        <p>The primary structure of a protein determines its secondary and tertiary structure. Mutations in the gene encoding a protein can occur due to environmental factors such as ultraviolet radiation or errors in DNA replication. Furthermore, the primary structure can be&#x000a0;altered if the translation process on the ribosome does not&#x000a0;occur entirely accurately. Understanding that a protein's&#x000a0;entire&#x000a0;structure and function rely on its primary structure is essential; if incorrect, it can potentially devastate&#x000a0;the human body.</p>
+      </sec>
+      <sec id="article-29975.s4">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=29975&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=29975">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/29975/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=29975">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-29975.s5">
+        <title>References</title>
+        <ref id="article-29975.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Aprahamian</surname>
+                <given-names>ML</given-names>
+              </name>
+              <name>
+                <surname>Lindert</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Utility of Covalent Labeling Mass Spectrometry Data in Protein Structure Prediction with Rosetta.</article-title>
+            <source>J Chem Theory Comput</source>
+            <year>2019</year>
+            <month>May</month>
+            <day>14</day>
+            <volume>15</volume>
+            <issue>5</issue>
+            <fpage>3410</fpage>
+            <page-range>3410-3424</page-range>
+            <pub-id pub-id-type="pmid">30946594</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29975.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Banach</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Konieczny</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Roterman</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <article-title>Secondary and Supersecondary Structure of Proteins in Light of the Structure of Hydrophobic Cores.</article-title>
+            <source>Methods Mol Biol</source>
+            <year>2019</year>
+            <volume>1958</volume>
+            <fpage>347</fpage>
+            <page-range>347-378</page-range>
+            <pub-id pub-id-type="pmid">30945229</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29975.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bayse</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>Pollard</surname>
+                <given-names>DB</given-names>
+              </name>
+            </person-group>
+            <article-title>Conformation dynamics of cyclic disulfides and selenosulfides in CXXC(U) (X&#x000a0;=&#x000a0;Gly, Ala) tetrapeptide redox motifs.</article-title>
+            <source>J Pept Sci</source>
+            <year>2019</year>
+            <month>Jun</month>
+            <volume>25</volume>
+            <issue>6</issue>
+            <fpage>e3160</fpage>
+            <pub-id pub-id-type="pmid">30873692</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29975.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bleiholder</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>FC</given-names>
+              </name>
+            </person-group>
+            <article-title>Structure Relaxation Approximation (SRA) for Elucidation of Protein Structures from Ion Mobility Measurements.</article-title>
+            <source>J Phys Chem B</source>
+            <year>2019</year>
+            <month>Apr</month>
+            <day>04</day>
+            <volume>123</volume>
+            <issue>13</issue>
+            <fpage>2756</fpage>
+            <page-range>2756-2769</page-range>
+            <pub-id pub-id-type="pmid">30866623</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29975.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gambari</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Waziri</surname>
+                <given-names>AD</given-names>
+              </name>
+              <name>
+                <surname>Goonasekera</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Peprah</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Pharmacogenomics of Drugs Used in &#x003b2;-Thalassemia and Sickle-Cell Disease: From Basic Research to Clinical Applications.</article-title>
+            <source>Int J Mol Sci</source>
+            <year>2024</year>
+            <month>Apr</month>
+            <day>12</day>
+            <volume>25</volume>
+            <issue>8</issue>
+            <pub-id pub-id-type="pmid">38673849</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29975.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Rittle</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Field</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Green</surname>
+                <given-names>MT</given-names>
+              </name>
+              <name>
+                <surname>Tezcan</surname>
+                <given-names>FA</given-names>
+              </name>
+            </person-group>
+            <article-title>An efficient, step-economical strategy for the design of functional metalloproteins.</article-title>
+            <source>Nat Chem</source>
+            <year>2019</year>
+            <month>May</month>
+            <volume>11</volume>
+            <issue>5</issue>
+            <fpage>434</fpage>
+            <page-range>434-441</page-range>
+            <pub-id pub-id-type="pmid">30778140</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29975.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Snead</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Eliezer</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Intrinsically disordered proteins in synaptic vesicle trafficking and release.</article-title>
+            <source>J Biol Chem</source>
+            <year>2019</year>
+            <month>Mar</month>
+            <day>08</day>
+            <volume>294</volume>
+            <issue>10</issue>
+            <fpage>3325</fpage>
+            <page-range>3325-3342</page-range>
+            <pub-id pub-id-type="pmid">30700558</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29975.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gligorijevi&#x00107;</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Mini&#x00107;</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Robajac</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Nikoli&#x00107;</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>&#x00106;irkovi&#x00107; Veli&#x0010d;kovi&#x00107;</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Nedi&#x00107;</surname>
+                <given-names>O</given-names>
+              </name>
+            </person-group>
+            <article-title>Characterisation and the effects of bilirubin binding to human fibrinogen.</article-title>
+            <source>Int J Biol Macromol</source>
+            <year>2019</year>
+            <month>May</month>
+            <day>01</day>
+            <volume>128</volume>
+            <fpage>74</fpage>
+            <page-range>74-79</page-range>
+            <pub-id pub-id-type="pmid">30684573</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29975.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Scholten</surname>
+                <given-names>NR</given-names>
+              </name>
+              <name>
+                <surname>Haandrikman</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Tolhuis</surname>
+                <given-names>JO</given-names>
+              </name>
+              <name>
+                <surname>Morandi</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Incarnato</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>SHAPEwarp-web: sequence-agnostic search for structurally homologous RNA regions across databases of chemical probing data.</article-title>
+            <source>Nucleic Acids Res</source>
+            <year>2024</year>
+            <month>May</month>
+            <day>06</day>
+            <pub-id pub-id-type="pmid">38709889</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29975.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Molinski</surname>
+                <given-names>SV</given-names>
+              </name>
+              <name>
+                <surname>Shahani</surname>
+                <given-names>VM</given-names>
+              </name>
+              <name>
+                <surname>Subramanian</surname>
+                <given-names>AS</given-names>
+              </name>
+              <name>
+                <surname>MacKinnon</surname>
+                <given-names>SS</given-names>
+              </name>
+              <name>
+                <surname>Woollard</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Laforet</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Laselva</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Morayniss</surname>
+                <given-names>LD</given-names>
+              </name>
+              <name>
+                <surname>Bear</surname>
+                <given-names>CE</given-names>
+              </name>
+              <name>
+                <surname>Windemuth</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Comprehensive mapping of cystic fibrosis mutations to CFTR protein identifies mutation clusters and molecular docking predicts corrector binding site.</article-title>
+            <source>Proteins</source>
+            <year>2018</year>
+            <month>Aug</month>
+            <volume>86</volume>
+            <issue>8</issue>
+            <fpage>833</fpage>
+            <page-range>833-843</page-range>
+            <pub-id pub-id-type="pmid">29569753</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29975.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bulcaen</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Kortleven</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>RB</given-names>
+              </name>
+              <name>
+                <surname>Maule</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Dreano</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Kelly</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Ensinck</surname>
+                <given-names>MM</given-names>
+              </name>
+              <name>
+                <surname>Thierie</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Smits</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Ciciani</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Hatton</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Chevalier</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Ramalho</surname>
+                <given-names>AS</given-names>
+              </name>
+              <name>
+                <surname>Casadevall I Solvas</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Debyser</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Vermeulen</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Gijsbers</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Sermet-Gaudelus</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Cereseto</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Carlon</surname>
+                <given-names>MS</given-names>
+              </name>
+            </person-group>
+            <article-title>Prime editing functionally corrects cystic fibrosis-causing CFTR mutations in human organoids and airway epithelial cells.</article-title>
+            <source>Cell Rep Med</source>
+            <year>2024</year>
+            <month>May</month>
+            <day>21</day>
+            <volume>5</volume>
+            <issue>5</issue>
+            <fpage>101544</fpage>
+            <pub-id pub-id-type="pmid">38697102</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,2413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-26349" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Orthostatic Hypotension</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Ringer</surname>
+            <given-names>Matthew</given-names>
+          </name>
+          <aff>SUNY Upstate Medical University</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Lappin</surname>
+            <given-names>Sarah L.</given-names>
+          </name>
+          <aff>Upstate University Hospital</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Matthew Ringer declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Sarah Lappin declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>16</day>
+          <month>5</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-26349.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Orthostatic hypotension is defined as a sudden drop in blood pressure upon standing from a sitting or supine position. Clinically, this is diagnosed by a sustained reduction in systolic blood pressure of at least 20 mmHg or diastolic blood pressure of 10 mmHg within three minutes of standing after being supine for five minutes or at a 60-degree angle on the tilt table. This sudden drop in blood pressure is usually secondary to failure of the autonomic reflex, volume depletion, or adverse reaction to a medication. Symptoms on presentation are commonly related to cerebral hypoperfusion, but patients can also be asymptomatic. There is also a high rate of morbidity and mortality related to this disease process due to frequent falls, leading to multiple hospital admissions. This activity reviews the etiology, presentation, evaluation, and management of orthostatic hypotension and reviews the role of the interprofessional team in evaluating, diagnosing, and managing the condition.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Identify the various etiologies of orthostatic hypotension, both extrinsic and intrinsic.</p></list-item><list-item><p>Summarize the evaluation of a patient presenting with possible orthostatic hypotension.</p></list-item><list-item><p>Review management options available for orthostatic hypotension based on the specific etiology.</p></list-item><list-item><p>Outline interprofessional team strategies for improving care coordination and communication to improve outcomes in patients with orthostatic hypotension.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=26349&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=26349">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-26349.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Orthostatic hypotension, also called&#x000a0;postural hypotension, is a drop in blood pressure on standing to a certain extent. It hampers the quality of life and increases the risk of falls, cardiovascular diseases, dementia, depression, and death.<xref ref-type="bibr" rid="article-26349.r1">[1]</xref><xref ref-type="bibr" rid="article-26349.r2">[2]</xref><xref ref-type="bibr" rid="article-26349.r3">[3]</xref><xref ref-type="bibr" rid="article-26349.r4">[4]</xref> Orthostatic hypotension is defined as a sudden drop in blood pressure&#x000a0;upon standing from a sitting or supine position. Clinically, this is diagnosed by a sustained reduction in systolic blood pressure of at least 20 mmHg or diastolic blood pressure of 10 mmHg within three minutes of standing after being supine for five minutes or at a 60-degree angle on the tilt table. This sudden drop in blood pressure is usually secondary to failure of the autonomic reflex, volume depletion, or adverse reaction to a medication.<xref ref-type="bibr" rid="article-26349.r5">[5]</xref><xref ref-type="bibr" rid="article-26349.r6">[6]</xref> Symptoms on presentation are commonly related to cerebral hypoperfusion, but patients can also be asymptomatic. There is also a&#x000a0;high rate of morbidity and mortality related to this disease process due to frequent falls, leading to multiple hospital admissions.<xref ref-type="bibr" rid="article-26349.r7">[7]</xref><xref ref-type="bibr" rid="article-26349.r8">[8]</xref><xref ref-type="bibr" rid="article-26349.r9">[9]</xref></p>
+        <p>Early detection in patients with certain risk factors or symptoms may provide better outcomes and prevent some complications. Current guidance for detecting and managing orthostatic hypotension is varied and based on inadequate evidence. Primary care providers could play a crucial role in screening and detecting orthostatic hypotension. Also, they could help patients make shared management decisions in improving symptoms and reducing risk.</p>
+        <p>Orthostatic hypotension results from an insufficient physiologic reaction to&#x000a0;orthostatic changes in blood pressure. It may be symptomatic or asymptomatic, as well as acute or chronic.&#x000a0;In the absence of volume depletion, chronic autonomic failure is generally the cause of orthostatic hypotension in younger patients. A related problem called postprandial hypotension is common in elderly patients and those with autonomic failure. In this disorder, systolic blood pressure drops by at least 20 mm Hg within 75 minutes of&#x000a0;having&#x000a0;a meal.<xref ref-type="bibr" rid="article-26349.r10">[10]</xref></p>
+      </sec>
+      <sec id="article-26349.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p>Orthostatic hypotension can be caused by both neurogenic and non-neurogenic etiologies and can also be related to medications. Neurogenic orthostatic hypotension is characterized by autonomic instability secondary to neuropathic disease, neurodegenerative disease, or aging. Neuropathic conditions include diabetes, cholinergic receptor autoantibodies, and familial dysautonomia. Neurodegenerative&#x000a0;diseases include Parkinson disease, multiple-system atrophy, and pure autonomic failure. Non-neurogenic orthostatic hypotension is most commonly due to volume depletion. One must also consider medication-induced orthostatic hypotension, particularly in the&#x000a0;case of polypharmacy in the elderly.</p>
+        <p>Orthostatic&#x000a0;hypotension occurs with an&#x000a0;abnormal or delayed response to shifts in the body's fluid balance on standing. This&#x000a0;causes an exaggerated drop in systolic blood pressure (more than or equal to 20&#x02009;mmHg) and/or diastolic blood pressure (more than or equal to 10&#x02009;mm&#x02009;Hg) on standing.&#x000a0;There can be two types of responses:</p>
+        <list list-type="order">
+          <list-item>
+            <p>"Classic" orthostatic&#x000a0;hypotension - within three minutes of standing</p>
+          </list-item>
+          <list-item>
+            <p>"Delayed" orthostatic&#x000a0;hypotension - after three minutes.</p>
+          </list-item>
+        </list>
+        <p>Most studies have investigated classic orthostatic&#x000a0;hypotension, and less is known about the delayed type.<xref ref-type="bibr" rid="article-26349.r11">[11]</xref></p>
+        <p>Following is the list of causes of orthostatic hypotension:<xref ref-type="bibr" rid="article-26349.r12">[12]</xref><xref ref-type="bibr" rid="article-26349.r13">[13]</xref></p>
+        <p>
+<bold>Neurogenic Causes</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Neurodegenerative diseases - Parkinson disease, Parkinson-plus syndromes<xref ref-type="bibr" rid="article-26349.r14">[14]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Peripheral neuropathy - Diabetes, vitamin B12 deficiency, amyloidosis, renal failure, autoimmune, rheumatological, and paraneoplastic conditions<xref ref-type="bibr" rid="article-26349.r15">[15]</xref></p>
+          </list-item>
+        </list>
+        <p>
+<bold>Non-neurogenic Causes</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Volume depletion - Anemia, dehydration, hemorrhage, hyperglycemia</p>
+          </list-item>
+          <list-item>
+            <p>Cardiovascular diseases - Aortic stenosis, hypertension, atherosclerosis, heart failure, vascular stiffening, or arrhythmias</p>
+          </list-item>
+          <list-item>
+            <p>Other - Adrenal insufficiency, physical deconditioning, aging</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Either Mechanism</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Medications - alpha-blockers, antihypertensives, diuretics, nitrates, tricyclic antidepressants, selective serotonin reuptake inhibitors, antipsychotics, beta-blockers</p>
+          </list-item>
+          <list-item>
+            <p>Alcohol consumption
+<list list-type="bullet"><list-item><p>Short term: diuretic effect, impairment of vasoconstriction<xref ref-type="bibr" rid="article-26349.r16">[16]</xref></p></list-item><list-item><p>Long term or chronic: neurotoxic effects</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Idiopathic</p>
+          </list-item>
+        </list>
+        <p>Medications may cause orthostatic&#x000a0;hypotension as an adverse effect. Individual susceptibility, comorbidities, age, and polypharmacy define whether patients develop orthostatic hypotension.<xref ref-type="bibr" rid="article-26349.r17">[17]</xref>&#x000a0;The number of antihypertensive&#x000a0;medications prescribed could be a better predictor of orthostatic hypotension than one class of drugs.<xref ref-type="bibr" rid="article-26349.r18">[18]</xref><xref ref-type="bibr" rid="article-26349.r1">[1]</xref></p>
+      </sec>
+      <sec id="article-26349.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p>The prevalence of&#x000a0;orthostatic hypotension increases with age. According to the literature, orthostatic hypotension is most prevalent in patients aged 65&#x000a0;years or older, partly due to impaired baroreceptor sensitivity. The prevalence can be as high as 18.2% within that age range. A systematic review and meta-analysis (26 studies, &#x0003e;25&#x02009;000 people) reported that one in five adults over 60 years old based in the community and four people in long-term residential&#x000a0;homes have orthostatic hypotension.<xref ref-type="bibr" rid="article-26349.r19">[19]</xref>&#x000a0;Two large population-based studies carried out in the US suggest that orthostatic hypotension is found in less than 5% of people aged 45-49 years, around 15% in those aged between 65 and 69 years, and over 25% in those aged more than 85 years.<xref ref-type="bibr" rid="article-26349.r20">[20]</xref></p>
+        <p>Orthostatic hypotension is more likely to be&#x000a0;prevalent in geriatric inpatients.<xref ref-type="bibr" rid="article-26349.r18">[18]</xref><xref ref-type="bibr" rid="article-26349.r21">[21]</xref>&#x000a0;Clinical settings, frequency of testing, and encouragement to mobilize may affect prevalence in hospitals.<xref ref-type="bibr" rid="article-26349.r22">[22]</xref><xref ref-type="bibr" rid="article-26349.r23">[23]</xref></p>
+        <p>Patients with cardiovascular diseases, such as aortic stenosis, pericarditis/myocarditis, or arrhythmias, are also at increased risk for&#x000a0;orthostatic hypotension. It can also occur in younger and middle-aged patients, who, in the absence of volume depletion, usually have a chronic autonomic failure.</p>
+      </sec>
+      <sec id="article-26349.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>There is a pooling of approximately 300 mL to 800 mL of blood in the lower extremities secondary to gravitational forces immediately upon standing from a supine position. This results in decreased venous return to the heart, and as a result, there is a decrease in cardiac output, as defined by the Frank-Starling Curve. The human body normally compensates with an increase in sympathetic tone and a decrease in vagal tone, known as the&#x000a0;baroreceptor reflex. This increase in sympathetic outflow raises peripheral vascular resistance, which subsequently increases venous return and cardiac output, thereby limiting the fall in blood pressure. When patients lack this compensatory mechanism, they present with symptoms of orthostatic hypotension.</p>
+      </sec>
+      <sec id="article-26349.s6" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>The diagnosis of orthostatic hypotension is based entirely on a detailed history and physical exam. The physical exam must include orthostatic vital signs. All patients should be screened with orthostatic vitals, particularly in the case of the elderly. This simple and easy test is often forgotten in the clinical setting.</p>
+        <p>Patients often present with generalized symptoms of lightheadedness, dizziness, or syncope and less commonly with leg buckling, headache, or chest pain. It is important to determine preceding events or precipitating events and look at the medication list. One must perform a detailed cardiovascular and neurologic exam to rule out a cardiogenic origin of the symptoms. In the elderly, it is also important to rule out neurogenic causes and hypovolemia secondary to diuretics, blood loss, vomiting, and polypharmacy. Particularly in the case of syncope,&#x000a0;it is important to rule out other common causes such as seizure and neurocardiogenic syncope (vasovagal syncope).</p>
+        <p>Some patients have no symptoms, and orthostatic hypotension is incidentally picked up on clinical examination. In an observational study, around a third of patients had orthostatic&#x000a0;hypotension but were found to be asymptomatic.<xref ref-type="bibr" rid="article-26349.r24">[24]</xref><xref ref-type="bibr" rid="article-26349.r25">[25]</xref>&#x000a0;The clinical significance of asymptomatic&#x000a0;orthostatic hypotension is not established.</p>
+        <p>Symptoms are usually triggered by changes in posture and are resolved by lying down or sitting. Patients may have a transient loss of consciousness or a fall.&#x000a0;Symptoms could occur first thing in the morning on getting up from bed or along the course of the day, as they change posture from sitting to standing,&#x000a0;lying to standing, or even lying to sitting. It is difficult to advise how diagnostic these symptoms are; however, if these happen relative to orthostatic&#x000a0;changes, they should prompt testing for orthostatic hypotension.</p>
+        <p>The symptoms of orthostatic hypotension can be summarized in the following list:</p>
+        <p>
+<bold>Common Symptoms</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Lightheadedness (feeling faint)<xref ref-type="bibr" rid="article-26349.r13">[13]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Dizziness (spinning sensation or feeling off-balance)</p>
+          </list-item>
+          <list-item>
+            <p>Transient loss of consciousness</p>
+          </list-item>
+          <list-item>
+            <p>Falls<xref ref-type="bibr" rid="article-26349.r26">[26]</xref></p>
+          </list-item>
+        </list>
+        <p>
+<bold>Less Common or Non-specific Symptoms</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Blurry vision</p>
+          </list-item>
+          <list-item>
+            <p>Visual field deficits</p>
+          </list-item>
+          <list-item>
+            <p>Difficulty concentrating</p>
+          </list-item>
+          <list-item>
+            <p>Cognitive slowing</p>
+          </list-item>
+          <list-item>
+            <p>Weakness</p>
+          </list-item>
+          <list-item>
+            <p>Fatigue</p>
+          </list-item>
+          <list-item>
+            <p>Shortness of breath</p>
+          </list-item>
+          <list-item>
+            <p>Chest pain</p>
+          </list-item>
+          <list-item>
+            <p>Backache</p>
+          </list-item>
+          <list-item>
+            <p>Lower extremity pain</p>
+          </list-item>
+          <list-item>
+            <p>&#x0201c;Coathanger&#x0201d; headache (suboccipital headache and neck pain in the posterior cervical and shoulder areas)</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-26349.s7" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>The initial evaluation of patients with orthostatic hypotension requires&#x000a0;a thorough medication reconciliation. Medications, including vasodilators, diuretics, antidepressants, antipsychotics, and dopaminergic drugs, commonly precipitate orthostatic hypotension. Patients with no apparent cause should have a thorough cardiac evaluation beginning with an ECG and a laboratory evaluation to look for findings of anemia, dehydration, diabetes, alcohol use disorder, or heart failure. One must also consider neurodegenerative diseases, primarily diagnosed by history and physical exam.</p>
+        <p>It is essential to obtain orthostatic vital signs to diagnose orthostatic hypotension. Allow the patient to rest supine while obtaining the blood pressure and heart rate. After five minutes of lying supine, the patient should be asked to stand quietly for two to five minutes, and vital signs should be retaken. One can diagnose orthostatic hypotension if there is a 20 mmHg drop in systolic blood pressure or a 10 mmHg drop in diastolic blood pressure.<xref ref-type="bibr" rid="article-26349.r27">[27]</xref><xref ref-type="bibr" rid="article-26349.r28">[28]</xref><xref ref-type="bibr" rid="article-26349.r29">[29]</xref><xref ref-type="bibr" rid="article-26349.r30">[30]</xref>&#x000a0;The optimal thresholds for diagnosing orthostatic hypotension based on these measurements are unknown.<xref ref-type="bibr" rid="article-26349.r31">[31]</xref><xref ref-type="bibr" rid="article-26349.r32">[32]</xref>&#x000a0;Repeating measurements at a later&#x000a0;time&#x000a0;increases detection rates.<xref ref-type="bibr" rid="article-26349.r23">[23]</xref></p>
+        <p>Providers must also ask about the nature of symptoms, the onset in relation to postural changes, and if they are recurrent/persistent or isolated. Factors such as food intake, diurnal variability, hydration, ambient temperature, deconditioning, and&#x000a0;prolonged recumbency can alter symptoms.&#x000a0;Seek to identify the underlying cause of postural hypotension, which could be multifactorial. History of medications is essential, particularly if symptoms appear after starting a drug.</p>
+        <p>Clinical examination should be tailored to identify features relevant to symptoms and probable etiology. For instance, the presence of a murmur in a patient with palpitations may indicate a structural abnormality of the heart. A patient having slowness of movement and tremors could be having hypomimia and rigidity, suggestive of Parkinson disease.<xref ref-type="bibr" rid="article-26349.r33">[33]</xref></p>
+        <p>Serial home orthostatic blood pressure measurements in the morning and evening, either by patients or their carers, could be considered if practical and the patient is mobile. However, it may be inappropriate where the patient is at high risk of falls or has severe symptoms and cannot be supported while taking blood pressure readings.</p>
+        <p>It is important to note fluctuations in heart rate when taking lying and standing blood pressure readings. If orthostatic hypotension is observed, an accompanying rise in heart rate of fewer than 15 beats per minute may indicate a neurogenic cause,&#x000a0;and a&#x000a0;rise in heart rate of more than 15 beats per minute may indicate a non-neurogenic cause.<xref ref-type="bibr" rid="article-26349.r34">[34]</xref>&#x000a0;However,&#x000a0;heart rate is not a specific indicator of the underlying cause and could be inaccurate if, for example, the patient is on a &#x003b2;&#x02009;blocker.</p>
+      </sec>
+      <sec id="article-26349.s8" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>The etiology determines the management of these patients. The treatment goal is to relieve symptoms and prevent associated morbidity. According to the literature, asymptomatic patients are left alone except for patients with Parkinson disease. These patients should be screened as they have associated&#x000a0;impairments in their quality of life and a higher risk of falls. Patients with a medication-related disease need to remove the offending agent and optimize the patient's medication regimen. Many patients require a multidisciplinary approach to address underlying diabetes, hypertension, Parkinson's disease, and other comorbidities. Patients that are suffering from dehydration require timely volume resuscitation.</p>
+        <p>Patients with&#x000a0;neurogenic&#x000a0;etiology should be counseled&#x000a0;on lower extremity stockings, abdominal binders, adequate hydration, salt intake, and fall prevention. Nonpharmacologic measures are generally&#x000a0;sufficient.</p>
+        <p>Some causes of orthostatic hypotension are permanent, such as Parkinson disease, while others are transient, such as anemia which can be corrected. Providers should address reversible causes, such as infection, drugs, dehydration, and anemia. Consider stopping or altering the dose of the offending medication or switching to a modified-release preparation.</p>
+        <p>
+<bold>Conservative Measures to Improve Symptoms</bold>
+</p>
+        <p>Providers should educate patients on what orthostatic hypotension is, what causes it, and what makes it worse. Symptoms may worsen with prolonged standing, eating large meals, dehydration, drinking alcohol, a hot environment, straining, and&#x000a0;taking hot baths or showers.<xref ref-type="bibr" rid="article-26349.r22">[22]</xref> Recent systematic reports highlight a lack of supportive evidence on these measures.<xref ref-type="bibr" rid="article-26349.r35">[35]</xref><xref ref-type="bibr" rid="article-26349.r36">[36]</xref>&#x000a0;Lower limb and abdominal compression may be of some benefit; however, the evidence is low.</p>
+        <p>
+<bold>Non-pharmacological Treatments for Postural Hypotension</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Change position gradually&#x000a0;and in phases (from lying to sitting to standing) instead of swiftly.</p>
+          </list-item>
+          <list-item>
+            <p>Maintain adequate hydration</p>
+          </list-item>
+          <list-item>
+            <p>Avoid alcohol, warm environments, large meals, and hot showers or baths.</p>
+          </list-item>
+          <list-item>
+            <p>Sleep with the head of the bed elevated</p>
+          </list-item>
+          <list-item>
+            <p>Exercise programs</p>
+          </list-item>
+          <list-item>
+            <p>Cross the legs while standing</p>
+          </list-item>
+          <list-item>
+            <p>Tense the muscles in the legs and hips after standing</p>
+          </list-item>
+          <list-item>
+            <p>Lower limb compression</p>
+          </list-item>
+          <list-item>
+            <p>Abdominal binders</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Pharmacological Treatment</bold>
+</p>
+        <p>Pharmacologic treatment should be implemented after a nonpharmacologic intervention has failed to relieve symptoms. According to the literature, fludrocortisone and midodrine remain first-line medications, but many other pharmacologic therapies can be used, including pyridostigmine. Fludrocortisone is an aldosterone analog; midodrine is an alpha-1 agonist, and pyridostigmine is an acetylcholinesterase inhibitor. All of these medications work through different mechanisms to increase&#x000a0;vascular tone. In a recent study, midodrine was shown to be more efficacious&#x000a0;than pyridostigmine concerning symptomatic relief.<xref ref-type="bibr" rid="article-26349.r37">[37]</xref><xref ref-type="bibr" rid="article-26349.r38">[38]</xref><xref ref-type="bibr" rid="article-26349.r39">[39]</xref>&#x000a0;Midodrine is indicated only&#x000a0;in patients&#x000a0;with orthostatic hypotension because of autonomic dysfunction, and its significance for other types of orthostatic hypotension is off-label.<xref ref-type="bibr" rid="article-26349.r40">[40]</xref>&#x000a0;Droxidopa is another pharmacological option for treating orthostatic hypotension, but there needs to be more evidence for this drug.</p>
+      </sec>
+      <sec id="article-26349.s9" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <p>Patients may experience similar symptoms after having meals in post-prandial hypotension.<xref ref-type="bibr" rid="article-26349.r41">[41]</xref>&#x000a0;Vasovagal syncope, also commonly known as &#x0201c;fainting,&#x0201d; could be accompanied by a sudden drop in blood pressure with a change of position. It is usually worsened by pain, emotional stress, heat, dehydration, or prolonged sitting or standing&#x000a0;and is commoner in younger, otherwise healthy people. Sometimes there are prodromal symptoms, such as nausea, sweating, and pallor prior to the transient loss of consciousness.</p>
+        <p>Carotid sinus syndrome has carotid sinus hypersensitivity causing syncope, near-syncope, or unexplained falls. Like orthostatic hypotension, it is commoner in older people&#x000a0;and is hard to distinguish clinically. The two conditions may coexist as well. Tilt-table testing could help in distinguishing. This is carried out in a cardiology setting for patients having syncope of uncertain origin. Following is a concise list of differential diagnoses to be considered when suspecting orthostatic hypotension in a patient:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Anemia&#x000a0;</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Adrenal insufficient&#x000a0;</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Cardiac arrhythmia&#x000a0;</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Congestive heart failure&#x000a0;</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Diabetes insipidus&#x000a0;</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Hyperglycemia</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Hypokalemia&#x000a0;</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Myocardial infarction&#x000a0;</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>myocarditis</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Pheochromocytoma</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-26349.s10" sec-type="Prognosis">
+        <title>Prognosis</title>
+        <p>Despite being&#x000a0;commonly asymptomatic or with minimal symptoms, orthostatic hypotension increases mortality and the possibility of myocardial infarction, heart failure, stroke, and atrial fibrillation. The cardiac&#x000a0;and cerebrovascular diseases may explain the raised vascular mortality found because myocardial infarctions, transient ischemic attacks, electrocardiographic abnormalities, and carotid stenosis are associated with orthostatic hypotension.<xref ref-type="bibr" rid="article-26349.r42">[42]</xref>&#x000a0;Blood flows through the left coronary artery during diastole.<xref ref-type="bibr" rid="article-26349.r43">[43]</xref>&#x000a0;Hence, coronary&#x000a0;blood flow in patients with diastolic orthostatic hypotension could be reduced, resulting in a poor survival prognosis.</p>
+      </sec>
+      <sec id="article-26349.s11" sec-type="Complications">
+        <title>Complications</title>
+        <p>Orthostatic&#x000a0;hypotension leads to declining physical function and impaired balance and ability to perform activities of daily living independently.<xref ref-type="bibr" rid="article-26349.r44">[44]</xref>&#x000a0;Large meta-analyses reported an increased risk of the following with orthostatic hypotension:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Falls<xref ref-type="bibr" rid="article-26349.r1">[1]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Heart failure<xref ref-type="bibr" rid="article-26349.r45">[45]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Coronary heart disease<xref ref-type="bibr" rid="article-26349.r45">[45]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Stroke<xref ref-type="bibr" rid="article-26349.r2">[2]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Atrial fibrillation<xref ref-type="bibr" rid="article-26349.r45">[45]</xref></p>
+          </list-item>
+          <list-item>
+            <p>All-cause mortality<xref ref-type="bibr" rid="article-26349.r2">[2]</xref></p>
+          </list-item>
+        </list>
+        <p>Small studies report an increased risk of cognitive impairment, depression, and dementia.<xref ref-type="bibr" rid="article-26349.r3">[3]</xref><xref ref-type="bibr" rid="article-26349.r46">[46]</xref>&#x000a0;It is unclear if the risk differs among symptomatic and asymptomatic patients and between different age groups.</p>
+      </sec>
+      <sec id="article-26349.s12" sec-type="Deterrence and Patient Education">
+        <title>Deterrence and Patient Education</title>
+        <p>Screening of the general population is not advised but could be considered in certain patients. For instance, the National Institute for Health and Care Excellence (NICE) guidelines recommend checking for orthostatic hypotension in patients with hypertension alongside type 2 diabetes mellitus or those who have hypertension and are 80 years of age and over.&#x000a0;The American Diabetes Association (ADA) advises assessing orthostatic&#x000a0;hypotension during the initial assessment of hypertension in all patients having diabetes mellitus and periodically at follow-up, even when there are no symptoms.<xref ref-type="bibr" rid="article-26349.r47">[47]</xref>&#x000a0;</p>
+        <p>Patients and the general population should be given information about the symptoms and their association with the change of posture. They should be educated that their GP can help diagnose the condition and advise lifestyle modifications. The goal of treatments is to avoid falls in the community. Lifestyle changes will be the first-line option for treatment, but there are pharmacological options available.</p>
+      </sec>
+      <sec id="article-26349.s13" sec-type="Pearls and Other Issues">
+        <title>Pearls and Other Issues</title>
+        <p>Approximately 50% of patients with neurogenic orthostatic hypotension suffer from supine hypertension. This association is&#x000a0;due to side effects from antihypertensive medications and the common autonomic dysfunction seen in these patients due to comorbid conditions, such as diabetes mellitus. Unfortunately, no approved antihypertensive medication selectively targets the supine position. This complicates treatment because supine hypertension in patients with autonomic failure can result in end-organ damage.&#x000a0;The treatment approach for these patients is currently being studied and might be an outlet for individualized medicine in the future.</p>
+      </sec>
+      <sec id="article-26349.s14" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>The management of orthostatic hypotension is best done with an interprofessional team that includes an endocrinologist, internist, primary care provider, neurologist, and nurse practitioner.&#x000a0;The etiology determines the management of these patients. The treatment goal is to relieve symptoms and prevent associated morbidity. According to the literature, asymptomatic patients are left alone except for patients with Parkinson disease. These patients should be screened as they have associated&#x000a0;impairments in their quality of life, as well as&#x000a0;a higher&#x000a0;risk of falls.</p>
+        <p>Patients with a medication-related disease need to remove the offending agent and optimize the patient's medication regimen. Many patients require an interprofessional approach to address underlying diabetes, hypertension, Parkinson disease, and&#x000a0;other comorbidities. Patients that are suffering from dehydration require timely volume resuscitation. Certain medications can result in orthostatic hypotension, so a pharmacy consult is to verify that none of these medications are the source of the issue. This process can be facilitated by a nurse with good medication records for the patient, enabling rapid response if indicated. Overall, the prognosis of asymptomatic patients is excellent, but those with symptoms tend to have a poor quality of life. Interprofessional team cooperation and communication can result in better outcomes. [Level 5]<xref ref-type="bibr" rid="article-26349.r30">[30]</xref><xref ref-type="bibr" rid="article-26349.r48">[48]</xref>&#x000a0;[Level&#x000a0;5]</p>
+      </sec>
+      <sec id="article-26349.s15">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=26349&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=26349">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/health/orthostatic-hypotension-low-blood-pressure/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=26349">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/26349/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=26349">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-26349.s16">
+        <title>References</title>
+        <ref id="article-26349.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mol</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Bui Hoang</surname>
+                <given-names>PTS</given-names>
+              </name>
+              <name>
+                <surname>Sharmin</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Reijnierse</surname>
+                <given-names>EM</given-names>
+              </name>
+              <name>
+                <surname>van Wezel</surname>
+                <given-names>RJA</given-names>
+              </name>
+              <name>
+                <surname>Meskers</surname>
+                <given-names>CGM</given-names>
+              </name>
+              <name>
+                <surname>Maier</surname>
+                <given-names>AB</given-names>
+              </name>
+            </person-group>
+            <article-title>Orthostatic Hypotension and Falls in Older Adults: A Systematic Review and Meta-analysis.</article-title>
+            <source>J Am Med Dir Assoc</source>
+            <year>2019</year>
+            <month>May</month>
+            <volume>20</volume>
+            <issue>5</issue>
+            <fpage>589</fpage>
+            <page-range>589-597.e5</page-range>
+            <pub-id pub-id-type="pmid">30583909</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ricci</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Fedorowski</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Radico</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Romanello</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Tatasciore</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Di Nicola</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Zimarino</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>De Caterina</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Cardiovascular morbidity and mortality related to orthostatic hypotension: a meta-analysis of prospective observational studies.</article-title>
+            <source>Eur Heart J</source>
+            <year>2015</year>
+            <month>Jul</month>
+            <day>01</day>
+            <volume>36</volume>
+            <issue>25</issue>
+            <fpage>1609</fpage>
+            <page-range>1609-17</page-range>
+            <pub-id pub-id-type="pmid">25852216</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Briggs</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Carey</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Kennelly</surname>
+                <given-names>SP</given-names>
+              </name>
+              <name>
+                <surname>Kenny</surname>
+                <given-names>RA</given-names>
+              </name>
+            </person-group>
+            <article-title>Longitudinal Association Between Orthostatic Hypotension at 30 Seconds Post-Standing and Late-Life Depression.</article-title>
+            <source>Hypertension</source>
+            <year>2018</year>
+            <month>May</month>
+            <volume>71</volume>
+            <issue>5</issue>
+            <fpage>946</fpage>
+            <page-range>946-954</page-range>
+            <pub-id pub-id-type="pmid">29632103</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Min</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Shi</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Sun</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Liang</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Wu</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Sun</surname>
+                <given-names>Y</given-names>
+              </name>
+            </person-group>
+            <article-title>The association between orthostatic hypotension and dementia: A meta-analysis of prospective cohort studies.</article-title>
+            <source>Int J Geriatr Psychiatry</source>
+            <year>2018</year>
+            <month>Dec</month>
+            <volume>33</volume>
+            <issue>12</issue>
+            <fpage>1541</fpage>
+            <page-range>1541-1547</page-range>
+            <pub-id pub-id-type="pmid">30247788</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kostis</surname>
+                <given-names>WJ</given-names>
+              </name>
+              <name>
+                <surname>Sargsyan</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Mekkaoui</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Moreyra</surname>
+                <given-names>AE</given-names>
+              </name>
+              <name>
+                <surname>Cabrera</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Cosgrove</surname>
+                <given-names>NM</given-names>
+              </name>
+              <name>
+                <surname>Sedjro</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Kostis</surname>
+                <given-names>JB</given-names>
+              </name>
+              <name>
+                <surname>Cushman</surname>
+                <given-names>WC</given-names>
+              </name>
+              <name>
+                <surname>Pantazopoulos</surname>
+                <given-names>JS</given-names>
+              </name>
+              <name>
+                <surname>Pressel</surname>
+                <given-names>SL</given-names>
+              </name>
+              <name>
+                <surname>Davis</surname>
+                <given-names>BR</given-names>
+              </name>
+            </person-group>
+            <article-title>Association of orthostatic hypertension with mortality in the Systolic Hypertension in the Elderly Program.</article-title>
+            <source>J Hum Hypertens</source>
+            <year>2019</year>
+            <month>Oct</month>
+            <volume>33</volume>
+            <issue>10</issue>
+            <fpage>735</fpage>
+            <page-range>735-740</page-range>
+            <pub-id pub-id-type="pmid">30804464</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Berra</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>De Icco</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Avenali</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Dagna</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Cristina</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Pacchetti</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Fresia</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Sandrini</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Tassorelli</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Body Weight Support Combined With Treadmill in the Rehabilitation of Parkinsonian Gait: A Review of Literature and New Data From a Controlled Study.</article-title>
+            <source>Front Neurol</source>
+            <year>2018</year>
+            <volume>9</volume>
+            <fpage>1066</fpage>
+            <pub-id pub-id-type="pmid">30800095</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Spallone</surname>
+                <given-names>V</given-names>
+              </name>
+            </person-group>
+            <article-title>Update on the Impact, Diagnosis and Management of Cardiovascular Autonomic Neuropathy in Diabetes: What Is Defined, What Is New, and What Is Unmet.</article-title>
+            <source>Diabetes Metab J</source>
+            <year>2019</year>
+            <month>Feb</month>
+            <volume>43</volume>
+            <issue>1</issue>
+            <fpage>3</fpage>
+            <page-range>3-30</page-range>
+            <pub-id pub-id-type="pmid">30793549</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Agashe</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Petak</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Cardiac Autonomic Neuropathy in Diabetes Mellitus.</article-title>
+            <source>Methodist Debakey Cardiovasc J</source>
+            <year>2018</year>
+            <season>Oct-Dec</season>
+            <volume>14</volume>
+            <issue>4</issue>
+            <fpage>251</fpage>
+            <page-range>251-256</page-range>
+            <pub-id pub-id-type="pmid">30788010</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Vallelonga</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Di Stefano</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Merola</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Romagnolo</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Sobrero</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Milazzo</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Burrello</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Burrello</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Zibetti</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Veglio</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Maule</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Blood pressure circadian rhythm alterations in alpha-synucleinopathies.</article-title>
+            <source>J Neurol</source>
+            <year>2019</year>
+            <month>May</month>
+            <volume>266</volume>
+            <issue>5</issue>
+            <fpage>1141</fpage>
+            <page-range>1141-1152</page-range>
+            <pub-id pub-id-type="pmid">30783749</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jansen</surname>
+                <given-names>RW</given-names>
+              </name>
+              <name>
+                <surname>Lipsitz</surname>
+                <given-names>LA</given-names>
+              </name>
+            </person-group>
+            <article-title>Postprandial hypotension: epidemiology, pathophysiology, and clinical management.</article-title>
+            <source>Ann Intern Med</source>
+            <year>1995</year>
+            <month>Feb</month>
+            <day>15</day>
+            <volume>122</volume>
+            <issue>4</issue>
+            <fpage>286</fpage>
+            <page-range>286-95</page-range>
+            <pub-id pub-id-type="pmid">7825766</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gibbons</surname>
+                <given-names>CH</given-names>
+              </name>
+              <name>
+                <surname>Freeman</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Delayed orthostatic hypotension: a frequent cause of orthostatic intolerance.</article-title>
+            <source>Neurology</source>
+            <year>2006</year>
+            <month>Jul</month>
+            <day>11</day>
+            <volume>67</volume>
+            <issue>1</issue>
+            <fpage>28</fpage>
+            <page-range>28-32</page-range>
+            <pub-id pub-id-type="pmid">16832073</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Joseph</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Wanono</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Flamant</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Vidal-Petiot</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Orthostatic hypotension: A review.</article-title>
+            <source>Nephrol Ther</source>
+            <year>2017</year>
+            <month>Apr</month>
+            <volume>13 Suppl 1</volume>
+            <fpage>S55</fpage>
+            <page-range>S55-S67</page-range>
+            <pub-id pub-id-type="pmid">28577744</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Freeman</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Abuzinadah</surname>
+                <given-names>AR</given-names>
+              </name>
+              <name>
+                <surname>Gibbons</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Jones</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Miglis</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Sinn</surname>
+                <given-names>DI</given-names>
+              </name>
+            </person-group>
+            <article-title>Orthostatic Hypotension: JACC State-of-the-Art Review.</article-title>
+            <source>J Am Coll Cardiol</source>
+            <year>2018</year>
+            <month>Sep</month>
+            <day>11</day>
+            <volume>72</volume>
+            <issue>11</issue>
+            <fpage>1294</fpage>
+            <page-range>1294-1309</page-range>
+            <pub-id pub-id-type="pmid">30190008</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Velseboer</surname>
+                <given-names>DC</given-names>
+              </name>
+              <name>
+                <surname>de Haan</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Wieling</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Goldstein</surname>
+                <given-names>DS</given-names>
+              </name>
+              <name>
+                <surname>de Bie</surname>
+                <given-names>RM</given-names>
+              </name>
+            </person-group>
+            <article-title>Prevalence of orthostatic hypotension in Parkinson's disease: a systematic review and meta-analysis.</article-title>
+            <source>Parkinsonism Relat Disord</source>
+            <year>2011</year>
+            <month>Dec</month>
+            <volume>17</volume>
+            <issue>10</issue>
+            <fpage>724</fpage>
+            <page-range>724-9</page-range>
+            <pub-id pub-id-type="pmid">21571570</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zhou</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Ke</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Qiu</surname>
+                <given-names>XP</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>LB</given-names>
+              </name>
+            </person-group>
+            <article-title>Prevalence, risk factors, and prognosis of orthostatic hypotension in diabetic patients: A systematic review and meta-analysis.</article-title>
+            <source>Medicine (Baltimore)</source>
+            <year>2017</year>
+            <month>Sep</month>
+            <volume>96</volume>
+            <issue>36</issue>
+            <fpage>e8004</fpage>
+            <pub-id pub-id-type="pmid">28885363</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Narkiewicz</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Cooley</surname>
+                <given-names>RL</given-names>
+              </name>
+              <name>
+                <surname>Somers</surname>
+                <given-names>VK</given-names>
+              </name>
+            </person-group>
+            <article-title>Alcohol potentiates orthostatic hypotension : implications for alcohol-related syncope.</article-title>
+            <source>Circulation</source>
+            <year>2000</year>
+            <month>Feb</month>
+            <day>01</day>
+            <volume>101</volume>
+            <issue>4</issue>
+            <fpage>398</fpage>
+            <page-range>398-402</page-range>
+            <pub-id pub-id-type="pmid">10653831</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Di Stefano</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Milazzo</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Totaro</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Sobrero</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Ravera</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Milan</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Maule</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Veglio</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>Orthostatic hypotension in a cohort of hypertensive patients referring to a hypertension clinic.</article-title>
+            <source>J Hum Hypertens</source>
+            <year>2015</year>
+            <month>Oct</month>
+            <volume>29</volume>
+            <issue>10</issue>
+            <fpage>599</fpage>
+            <page-range>599-603</page-range>
+            <pub-id pub-id-type="pmid">25631221</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Weiss</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Grossman</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Beloosesky</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Grinblat</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Orthostatic hypotension in acute geriatric ward: is it a consistent finding?</article-title>
+            <source>Arch Intern Med</source>
+            <year>2002</year>
+            <month>Nov</month>
+            <day>11</day>
+            <volume>162</volume>
+            <issue>20</issue>
+            <fpage>2369</fpage>
+            <page-range>2369-74</page-range>
+            <pub-id pub-id-type="pmid">12418952</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Saedon</surname>
+                <given-names>NI</given-names>
+              </name>
+              <name>
+                <surname>Pin Tan</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Frith</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>The Prevalence of Orthostatic Hypotension: A Systematic Review and Meta-Analysis.</article-title>
+            <source>J Gerontol A Biol Sci Med Sci</source>
+            <year>2020</year>
+            <month>Jan</month>
+            <day>01</day>
+            <volume>75</volume>
+            <issue>1</issue>
+            <fpage>117</fpage>
+            <page-range>117-122</page-range>
+            <pub-id pub-id-type="pmid">30169579</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Benvenuto</surname>
+                <given-names>LJ</given-names>
+              </name>
+              <name>
+                <surname>Krakoff</surname>
+                <given-names>LR</given-names>
+              </name>
+            </person-group>
+            <article-title>Morbidity and mortality of orthostatic hypotension: implications for management of cardiovascular disease.</article-title>
+            <source>Am J Hypertens</source>
+            <year>2011</year>
+            <month>Feb</month>
+            <volume>24</volume>
+            <issue>2</issue>
+            <fpage>135</fpage>
+            <page-range>135-44</page-range>
+            <pub-id pub-id-type="pmid">20814408</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Aung</surname>
+                <given-names>AK</given-names>
+              </name>
+              <name>
+                <surname>Corcoran</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Nagalingam</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Paul</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Newnham</surname>
+                <given-names>HH</given-names>
+              </name>
+            </person-group>
+            <article-title>Prevalence, associations, and risk factors for orthostatic hypotension in medical, surgical, and trauma inpatients: an observational cohort study.</article-title>
+            <source>Ochsner J</source>
+            <year>2012</year>
+            <season>Spring</season>
+            <volume>12</volume>
+            <issue>1</issue>
+            <fpage>35</fpage>
+            <page-range>35-41</page-range>
+            <pub-id pub-id-type="pmid">22438780</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Freeman</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Wieling</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Axelrod</surname>
+                <given-names>FB</given-names>
+              </name>
+              <name>
+                <surname>Benditt</surname>
+                <given-names>DG</given-names>
+              </name>
+              <name>
+                <surname>Benarroch</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Biaggioni</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Cheshire</surname>
+                <given-names>WP</given-names>
+              </name>
+              <name>
+                <surname>Chelimsky</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Cortelli</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Gibbons</surname>
+                <given-names>CH</given-names>
+              </name>
+              <name>
+                <surname>Goldstein</surname>
+                <given-names>DS</given-names>
+              </name>
+              <name>
+                <surname>Hainsworth</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Hilz</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Jacob</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Kaufmann</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Jordan</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Lipsitz</surname>
+                <given-names>LA</given-names>
+              </name>
+              <name>
+                <surname>Levine</surname>
+                <given-names>BD</given-names>
+              </name>
+              <name>
+                <surname>Low</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Mathias</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Raj</surname>
+                <given-names>SR</given-names>
+              </name>
+              <name>
+                <surname>Robertson</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Sandroni</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Schatz</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Schondorff</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Stewart</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>van Dijk</surname>
+                <given-names>JG</given-names>
+              </name>
+            </person-group>
+            <article-title>Consensus statement on the definition of orthostatic hypotension, neurally mediated syncope and the postural tachycardia syndrome.</article-title>
+            <source>Clin Auton Res</source>
+            <year>2011</year>
+            <month>Apr</month>
+            <volume>21</volume>
+            <issue>2</issue>
+            <fpage>69</fpage>
+            <page-range>69-72</page-range>
+            <pub-id pub-id-type="pmid">21431947</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cremer</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Rousseau</surname>
+                <given-names>AL</given-names>
+              </name>
+              <name>
+                <surname>Boulestreau</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Kuntz</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Tzourio</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Gosse</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Screening for orthostatic hypotension using home blood pressure measurements.</article-title>
+            <source>J Hypertens</source>
+            <year>2019</year>
+            <month>May</month>
+            <volume>37</volume>
+            <issue>5</issue>
+            <fpage>923</fpage>
+            <page-range>923-927</page-range>
+            <pub-id pub-id-type="pmid">30418320</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Arbogast</surname>
+                <given-names>SD</given-names>
+              </name>
+              <name>
+                <surname>Alshekhlee</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Hussain</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>McNeeley</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Chelimsky</surname>
+                <given-names>TC</given-names>
+              </name>
+            </person-group>
+            <article-title>Hypotension unawareness in profound orthostatic hypotension.</article-title>
+            <source>Am J Med</source>
+            <year>2009</year>
+            <month>Jun</month>
+            <volume>122</volume>
+            <issue>6</issue>
+            <fpage>574</fpage>
+            <page-range>574-80</page-range>
+            <pub-id pub-id-type="pmid">19486719</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Freeman</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Illigens</surname>
+                <given-names>BMW</given-names>
+              </name>
+              <name>
+                <surname>Lapusca</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Campagnolo</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Abuzinadah</surname>
+                <given-names>AR</given-names>
+              </name>
+              <name>
+                <surname>Bonyhay</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Sinn</surname>
+                <given-names>DI</given-names>
+              </name>
+              <name>
+                <surname>Miglis</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>White</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Gibbons</surname>
+                <given-names>CH</given-names>
+              </name>
+            </person-group>
+            <article-title>Symptom Recognition Is Impaired in Patients With Orthostatic Hypotension.</article-title>
+            <source>Hypertension</source>
+            <year>2020</year>
+            <month>May</month>
+            <volume>75</volume>
+            <issue>5</issue>
+            <fpage>1325</fpage>
+            <page-range>1325-1332</page-range>
+            <pub-id pub-id-type="pmid">32223377</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r26">
+          <label>26</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Juraschek</surname>
+                <given-names>SP</given-names>
+              </name>
+              <name>
+                <surname>Appel</surname>
+                <given-names>LJ</given-names>
+              </name>
+              <name>
+                <surname>M Mitchell</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Mukamal</surname>
+                <given-names>KJ</given-names>
+              </name>
+              <name>
+                <surname>Lipsitz</surname>
+                <given-names>LA</given-names>
+              </name>
+              <name>
+                <surname>Blackford</surname>
+                <given-names>AL</given-names>
+              </name>
+              <name>
+                <surname>Cai</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Guralnik</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Kalyani</surname>
+                <given-names>RR</given-names>
+              </name>
+              <name>
+                <surname>Michos</surname>
+                <given-names>ED</given-names>
+              </name>
+              <name>
+                <surname>Schrack</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Wanigatunga</surname>
+                <given-names>AA</given-names>
+              </name>
+              <name>
+                <surname>Miller</surname>
+                <given-names>ER</given-names>
+              </name>
+            </person-group>
+            <article-title>Comparison of supine and seated orthostatic hypotension assessments and their association with falls and orthostatic symptoms.</article-title>
+            <source>J Am Geriatr Soc</source>
+            <year>2022</year>
+            <month>Aug</month>
+            <volume>70</volume>
+            <issue>8</issue>
+            <fpage>2310</fpage>
+            <page-range>2310-2319</page-range>
+            <pub-id pub-id-type="pmid">35451096</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r27">
+          <label>27</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Homan</surname>
+                <given-names>KJ</given-names>
+              </name>
+              <name>
+                <surname>Sim</surname>
+                <given-names>LA</given-names>
+              </name>
+              <name>
+                <surname>Crowley</surname>
+                <given-names>SL</given-names>
+              </name>
+              <name>
+                <surname>Lebow</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Kransdorf</surname>
+                <given-names>LN</given-names>
+              </name>
+            </person-group>
+            <article-title>Medical Assessment and Triage of Pediatric Patients with Anorexia Nervosa in Primary Care.</article-title>
+            <source>J Dev Behav Pediatr</source>
+            <year>2019</year>
+            <season>Feb/Mar</season>
+            <volume>40</volume>
+            <issue>2</issue>
+            <fpage>92</fpage>
+            <page-range>92-98</page-range>
+            <pub-id pub-id-type="pmid">30747833</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r28">
+          <label>28</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Magny</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Donadio</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Maronnat</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Nghiem</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Berthelot</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Belmin</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Lafuente-Lafuente</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>[Hypotensions in the elderly: Clinical and therapeutic features].</article-title>
+            <source>Presse Med</source>
+            <year>2019</year>
+            <month>Feb</month>
+            <volume>48</volume>
+            <issue>2</issue>
+            <fpage>134</fpage>
+            <page-range>134-142</page-range>
+            <pub-id pub-id-type="pmid">30728099</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r29">
+          <label>29</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Momodu</surname>
+                <given-names>II</given-names>
+              </name>
+              <name>
+                <surname>Okafor</surname>
+                <given-names>CN</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Orthostatic Syncope (Archived)</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>7</month>
+            <day>3</day>
+            <pub-id pub-id-type="pmid">30725970</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r30">
+          <label>30</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Magkas</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Tsioufis</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Thomopoulos</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Dilaveris</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Georgiopoulos</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Doumas</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Papadopoulos</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Tousoulis</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Orthostatic hypertension: From pathophysiology to clinical applications and therapeutic considerations.</article-title>
+            <source>J Clin Hypertens (Greenwich)</source>
+            <year>2019</year>
+            <month>Mar</month>
+            <volume>21</volume>
+            <issue>3</issue>
+            <fpage>426</fpage>
+            <page-range>426-433</page-range>
+            <pub-id pub-id-type="pmid">30724451</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r31">
+          <label>31</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shaw</surname>
+                <given-names>BH</given-names>
+              </name>
+              <name>
+                <surname>Garland</surname>
+                <given-names>EM</given-names>
+              </name>
+              <name>
+                <surname>Black</surname>
+                <given-names>BK</given-names>
+              </name>
+              <name>
+                <surname>Paranjape</surname>
+                <given-names>SY</given-names>
+              </name>
+              <name>
+                <surname>Shibao</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>Okamoto</surname>
+                <given-names>LE</given-names>
+              </name>
+              <name>
+                <surname>Gamboa</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Diedrich</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Plummer</surname>
+                <given-names>WD</given-names>
+              </name>
+              <name>
+                <surname>Dupont</surname>
+                <given-names>WD</given-names>
+              </name>
+              <name>
+                <surname>Biaggioni</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Robertson</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Raj</surname>
+                <given-names>SR</given-names>
+              </name>
+            </person-group>
+            <article-title>Optimal diagnostic thresholds for diagnosis of orthostatic hypotension with a 'sit-to-stand test'.</article-title>
+            <source>J Hypertens</source>
+            <year>2017</year>
+            <month>May</month>
+            <volume>35</volume>
+            <issue>5</issue>
+            <fpage>1019</fpage>
+            <page-range>1019-1025</page-range>
+            <pub-id pub-id-type="pmid">28129252</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r32">
+          <label>32</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Breeuwsma</surname>
+                <given-names>AC</given-names>
+              </name>
+              <name>
+                <surname>Hartog</surname>
+                <given-names>LC</given-names>
+              </name>
+              <name>
+                <surname>Kamper</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Groenier</surname>
+                <given-names>KH</given-names>
+              </name>
+              <name>
+                <surname>Bilo</surname>
+                <given-names>HJ</given-names>
+              </name>
+              <name>
+                <surname>Kleefstra</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Van Hateren</surname>
+                <given-names>KJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Standing orthostatic blood pressure measurements cannot be replaced by sitting measurements.</article-title>
+            <source>Hypertens Res</source>
+            <year>2017</year>
+            <month>Aug</month>
+            <volume>40</volume>
+            <issue>8</issue>
+            <fpage>765</fpage>
+            <page-range>765-770</page-range>
+            <pub-id pub-id-type="pmid">28298654</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r33">
+          <label>33</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tsuboi</surname>
+                <given-names>Y</given-names>
+              </name>
+            </person-group>
+            <article-title>[Intractable Orthostatic Hypotension in Patients with Parkinson's Disease: Early Diagnosis and Treatment Strategies].</article-title>
+            <source>Brain Nerve</source>
+            <year>2022</year>
+            <month>May</month>
+            <volume>74</volume>
+            <issue>5</issue>
+            <fpage>708</fpage>
+            <page-range>708-713</page-range>
+            <pub-id pub-id-type="pmid">35589667</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r34">
+          <label>34</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gibbons</surname>
+                <given-names>CH</given-names>
+              </name>
+              <name>
+                <surname>Schmidt</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Biaggioni</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Frazier-Mills</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Freeman</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Isaacson</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Karabin</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Kuritzky</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Lew</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Low</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Mehdirad</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Raj</surname>
+                <given-names>SR</given-names>
+              </name>
+              <name>
+                <surname>Vernino</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kaufmann</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>The recommendations of a consensus panel for the screening, diagnosis, and treatment of neurogenic orthostatic hypotension and associated supine hypertension.</article-title>
+            <source>J Neurol</source>
+            <year>2017</year>
+            <month>Aug</month>
+            <volume>264</volume>
+            <issue>8</issue>
+            <fpage>1567</fpage>
+            <page-range>1567-1582</page-range>
+            <pub-id pub-id-type="pmid">28050656</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r35">
+          <label>35</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Subbarayan</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Myint</surname>
+                <given-names>PK</given-names>
+              </name>
+              <name>
+                <surname>Martin</surname>
+                <given-names>KR</given-names>
+              </name>
+              <name>
+                <surname>Abraha</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Devkota</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>O'Mahony</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Cruz-Jentoft</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Cherubini</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Soiza</surname>
+                <given-names>RL</given-names>
+              </name>
+            </person-group>
+            <article-title>Nonpharmacologic Management of Orthostatic Hypotension in Older People: A Systematic Review. The SENATOR ONTOP Series.</article-title>
+            <source>J Am Med Dir Assoc</source>
+            <year>2019</year>
+            <month>Sep</month>
+            <volume>20</volume>
+            <issue>9</issue>
+            <fpage>1065</fpage>
+            <page-range>1065-1073.e3</page-range>
+            <pub-id pub-id-type="pmid">31109911</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r36">
+          <label>36</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mills</surname>
+                <given-names>PB</given-names>
+              </name>
+              <name>
+                <surname>Fung</surname>
+                <given-names>CK</given-names>
+              </name>
+              <name>
+                <surname>Travlos</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Krassioukov</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Nonpharmacologic management of orthostatic hypotension: a systematic review.</article-title>
+            <source>Arch Phys Med Rehabil</source>
+            <year>2015</year>
+            <month>Feb</month>
+            <volume>96</volume>
+            <issue>2</issue>
+            <fpage>366</fpage>
+            <page-range>366-375.e6</page-range>
+            <pub-id pub-id-type="pmid">25449193</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r37">
+          <label>37</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dasgupta</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Thomas</surname>
+                <given-names>GN</given-names>
+              </name>
+              <name>
+                <surname>Clarke</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Sitch</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Martin</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Bieber</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Hecking</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Karaboyas</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Pisoni</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Port</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Robinson</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Rayner</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Associations between Hemodialysis Facility Practices to Manage Fluid Volume and Intradialytic Hypotension and Patient Outcomes.</article-title>
+            <source>Clin J Am Soc Nephrol</source>
+            <year>2019</year>
+            <month>Mar</month>
+            <day>07</day>
+            <volume>14</volume>
+            <issue>3</issue>
+            <fpage>385</fpage>
+            <page-range>385-393</page-range>
+            <pub-id pub-id-type="pmid">30723164</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r38">
+          <label>38</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Aljohar</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Muayqil</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Aldeeri</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Jammah</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Hersi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Alhabib</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Pure Autonomic Failure with Asymptomatic Hypertensive Urgency: A Case Report and Literature Review.</article-title>
+            <source>Case Rep Neurol</source>
+            <year>2018</year>
+            <season>Sep-Dec</season>
+            <volume>10</volume>
+            <issue>3</issue>
+            <fpage>357</fpage>
+            <page-range>357-362</page-range>
+            <pub-id pub-id-type="pmid">30687067</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r39">
+          <label>39</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Vallelonga</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Maule</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Diagnostic and therapeutical management of supine hypertension in autonomic failure: a review of the literature.</article-title>
+            <source>J Hypertens</source>
+            <year>2019</year>
+            <month>Jun</month>
+            <volume>37</volume>
+            <issue>6</issue>
+            <fpage>1102</fpage>
+            <page-range>1102-1111</page-range>
+            <pub-id pub-id-type="pmid">30672835</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r40">
+          <label>40</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Park</surname>
+                <given-names>JW</given-names>
+              </name>
+              <name>
+                <surname>Okamoto</surname>
+                <given-names>LE</given-names>
+              </name>
+              <name>
+                <surname>Shibao</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>Biaggioni</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <article-title>Pharmacologic treatment of orthostatic hypotension.</article-title>
+            <source>Auton Neurosci</source>
+            <year>2020</year>
+            <month>Dec</month>
+            <volume>229</volume>
+            <fpage>102721</fpage>
+            <pub-id pub-id-type="pmid">32979782</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r41">
+          <label>41</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Trahair</surname>
+                <given-names>LG</given-names>
+              </name>
+              <name>
+                <surname>Horowitz</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Jones</surname>
+                <given-names>KL</given-names>
+              </name>
+            </person-group>
+            <article-title>Postprandial hypotension: a systematic review.</article-title>
+            <source>J Am Med Dir Assoc</source>
+            <year>2014</year>
+            <month>Jun</month>
+            <volume>15</volume>
+            <issue>6</issue>
+            <fpage>394</fpage>
+            <page-range>394-409</page-range>
+            <pub-id pub-id-type="pmid">24630686</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r42">
+          <label>42</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Fedorowski</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Stavenow</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Hedblad</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Berglund</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Nilsson</surname>
+                <given-names>PM</given-names>
+              </name>
+              <name>
+                <surname>Melander</surname>
+                <given-names>O</given-names>
+              </name>
+            </person-group>
+            <article-title>Orthostatic hypotension predicts all-cause mortality and coronary events in middle-aged individuals (The Malmo Preventive Project).</article-title>
+            <source>Eur Heart J</source>
+            <year>2010</year>
+            <month>Jan</month>
+            <volume>31</volume>
+            <issue>1</issue>
+            <fpage>85</fpage>
+            <page-range>85-91</page-range>
+            <pub-id pub-id-type="pmid">19696189</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r43">
+          <label>43</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Oduwole</surname>
+                <given-names>OA</given-names>
+              </name>
+              <name>
+                <surname>Adeniyi</surname>
+                <given-names>OF</given-names>
+              </name>
+              <name>
+                <surname>Esezebor</surname>
+                <given-names>CI</given-names>
+              </name>
+              <name>
+                <surname>Ekure</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Fajolu</surname>
+                <given-names>IB</given-names>
+              </name>
+              <name>
+                <surname>Renner</surname>
+                <given-names>JK</given-names>
+              </name>
+            </person-group>
+            <article-title>Postural hypotension in type 1 diabetes: the influence of glycemic control and duration of illness.</article-title>
+            <source>Niger J Clin Pract</source>
+            <year>2014</year>
+            <season>Mar-Apr</season>
+            <volume>17</volume>
+            <issue>2</issue>
+            <fpage>140</fpage>
+            <page-range>140-4</page-range>
+            <pub-id pub-id-type="pmid">24553020</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r44">
+          <label>44</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mol</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Reijnierse</surname>
+                <given-names>EM</given-names>
+              </name>
+              <name>
+                <surname>Bui Hoang</surname>
+                <given-names>PTS</given-names>
+              </name>
+              <name>
+                <surname>van Wezel</surname>
+                <given-names>RJA</given-names>
+              </name>
+              <name>
+                <surname>Meskers</surname>
+                <given-names>CGM</given-names>
+              </name>
+              <name>
+                <surname>Maier</surname>
+                <given-names>AB</given-names>
+              </name>
+            </person-group>
+            <article-title>Orthostatic hypotension and physical functioning in older adults: A systematic review and meta-analysis.</article-title>
+            <source>Ageing Res Rev</source>
+            <year>2018</year>
+            <month>Dec</month>
+            <volume>48</volume>
+            <fpage>122</fpage>
+            <page-range>122-144</page-range>
+            <pub-id pub-id-type="pmid">30394339</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r45">
+          <label>45</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Min</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Shi</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Sun</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Liang</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Bo</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Sun</surname>
+                <given-names>Y</given-names>
+              </name>
+            </person-group>
+            <article-title>Orthostatic hypotension and the risk of atrial fibrillation and other cardiovascular diseases: An updated meta-analysis of prospective cohort studies.</article-title>
+            <source>J Clin Hypertens (Greenwich)</source>
+            <year>2019</year>
+            <month>Aug</month>
+            <volume>21</volume>
+            <issue>8</issue>
+            <fpage>1221</fpage>
+            <page-range>1221-1227</page-range>
+            <pub-id pub-id-type="pmid">31290595</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r46">
+          <label>46</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Min</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Shi</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Sun</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Liang</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Tian</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Sun</surname>
+                <given-names>Y</given-names>
+              </name>
+            </person-group>
+            <article-title>The association between orthostatic hypotension and cognition and stroke: a meta-analysis of prospective cohort studies.</article-title>
+            <source>Blood Press</source>
+            <year>2020</year>
+            <month>Feb</month>
+            <volume>29</volume>
+            <issue>1</issue>
+            <fpage>3</fpage>
+            <page-range>3-12</page-range>
+            <pub-id pub-id-type="pmid">31718311</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r47">
+          <label>47</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>de Boer</surname>
+                <given-names>IH</given-names>
+              </name>
+              <name>
+                <surname>Bangalore</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Benetos</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Davis</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Michos</surname>
+                <given-names>ED</given-names>
+              </name>
+              <name>
+                <surname>Muntner</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Rossing</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Zoungas</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Bakris</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Diabetes and Hypertension: A Position Statement by the American Diabetes Association.</article-title>
+            <source>Diabetes Care</source>
+            <year>2017</year>
+            <month>Sep</month>
+            <volume>40</volume>
+            <issue>9</issue>
+            <fpage>1273</fpage>
+            <page-range>1273-1284</page-range>
+            <pub-id pub-id-type="pmid">28830958</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26349.r48">
+          <label>48</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>AlOlaiwi</surname>
+                <given-names>LA</given-names>
+              </name>
+              <name>
+                <surname>AlHarbi</surname>
+                <given-names>TJ</given-names>
+              </name>
+              <name>
+                <surname>Tourkmani</surname>
+                <given-names>AM</given-names>
+              </name>
+            </person-group>
+            <article-title>Prevalence of cardiovascular autonomic neuropathy and gastroparesis symptoms among patients with type 2 diabetes who attend a primary health care center.</article-title>
+            <source>PLoS One</source>
+            <year>2018</year>
+            <volume>13</volume>
+            <issue>12</issue>
+            <fpage>e0209500</fpage>
+            <pub-id pub-id-type="pmid">30576362</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

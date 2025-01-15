@@ -1,0 +1,1494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-20657" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Dopamine</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Sonne</surname>
+            <given-names>James</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Goyal</surname>
+            <given-names>Amandeep</given-names>
+          </name>
+          <aff>University of Kansas Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Lopez-Ojeda</surname>
+            <given-names>Wilfredo</given-names>
+          </name>
+          <aff>Kaiser Permanente School of Medicine</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>James Sonne declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Amandeep Goyal declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Wilfredo Lopez-Ojeda declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>3</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-20657.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p content-type="pubmed-excerpt">Dopamine is a peripheral vasostimulant used to treat low blood pressure, low heart rate, and cardiac arrest. Low infusion rates (0.5 to 2 micrograms/kg per minute) act on the visceral vasculature to produce vasodilation, including the kidneys, resulting in increased urinary flow. Intermediate infusion rates (from 2 to 10 micrograms/kg/min) stimulate myocardial contractility and increase electrical conductivity in the heart leading to increased cardiac output. Higher doses cause vasoconstriction and increased blood pressure via the adrenergic receptors alpha-1, beta-1, and beta-2, potentially leading to poor peripheral circulation. This activity will highlight the mechanism of action, adverse event profile, pharmacology, monitoring, and relevant interactions of doxorubicin, pertinent for members of the interprofessional team in the treatment of patients with indicated conditions.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Identify the mechanism of action at various doses of dopamine.</p></list-item><list-item><p>Review the indications for therapy with dopamine.</p></list-item><list-item><p>Outline the potential adverse effects of dopamine therapy.</p></list-item><list-item><p>Summarize the importance of interprofessional communication and improving care coordination among the interprofessional team when initiating dopamine therapy.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=20657&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=20657">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-20657.s2" sec-type="Indications">
+        <title>Indications</title>
+        <p>Dopamine&#x000a0;(DA)&#x000a0;is a peripheral vasostimulant used to treat low blood pressure, low heart rate, and cardiac arrest, especially in acute neonatal cases via a continuous intravenous drip.<xref ref-type="bibr" rid="article-20657.r1">[1]</xref>&#x000a0;Low&#x000a0;infusion rates (0.5 to 2 micrograms/kg per minute)&#x000a0;act on the visceral vasculature&#x000a0;to produce&#x000a0;vasodilation, including the kidneys,&#x000a0;resulting in increased urinary flow. Intermediate infusion rates (from 2 to 10 micrograms/kg/min) stimulate myocardial contractility and increase electrical conductivity in the heart leading to increased cardiac output.&#x000a0; Higher doses cause vasoconstriction and&#x000a0;increased blood pressure via the adrenergic receptors alpha-1, beta-1, and beta-2, potentially leading to poor peripheral circulation.<xref ref-type="bibr" rid="article-20657.r2">[2]</xref>&#x000a0;&#x000a0;&#x000a0;</p>
+        <p>Indications for DA&#x000a0;include maintenance of blood pressure for chronic congestive heart failure, trauma, renal failure, and even open-heart surgery and shock from myocardial infarction or septicemia. DA administration in low doses may also be beneficial to manage hypotension, low cardiac output, and inadequate organ perfusion (often indicated by low urine production). DA gained significant clinical importance in the central nervous system&#x000a0;(CNS) after Hornykiewicz's experiments showed its&#x000a0;reduction within the caudate nucleus of patients with Parkinson disease.&#x000a0;Furthermore,&#x000a0;the intravenous&#x000a0;administration of its&#x000a0;amino acid&#x000a0;precursor, L-DOPA (<italic toggle="yes">L</italic>-<italic toggle="yes">dihydroxyphenylalanine)</italic>, attenuated the Parkinsonian symptoms.<xref ref-type="bibr" rid="article-20657.r3">[3]</xref>&#x000a0;Since the blood-brain barrier prohibits the crossing of&#x000a0;DA into the&#x000a0;CNS from the systemic circulation,&#x000a0;DA is ineffective on central neurological deficits such as Parkinson disease. However, L-DOPA successfully crosses the blood-brain barrier and can be administered systemically, including oral pills. Although the therapeutic replacement of dopamine effectively alleviates motor symptoms, it may lead to motor side-effects and behavioral issues associated with addiction (i.e., impulse control disorders.)<xref ref-type="bibr" rid="article-20657.r4">[4]</xref></p>
+      </sec>
+      <sec id="article-20657.s3" sec-type="Mechanism of Action">
+        <title>Mechanism of Action</title>
+        <p>Dopamine biosynthesis occurs following the same enzymatic sequence as norepinephrine (NE).&#x000a0;In fact, DA is&#x000a0;a precursor in the synthesis of NE (see Figure).<xref ref-type="bibr" rid="article-20657.r5">[5]</xref><xref ref-type="bibr" rid="article-20657.r6">[6]</xref> The first step of&#x000a0;DA synthesis is rate-limiting and involves converting L-tyrosine to L-DOPA&#x000a0;by the enzyme tyrosine hydroxylase (TH) enzyme.<xref ref-type="bibr" rid="article-20657.r7">[7]</xref><xref ref-type="bibr" rid="article-20657.r8">[8]</xref><xref ref-type="bibr" rid="article-20657.r9">[9]</xref> This conversion requires oxygen, an iron co-factor, and tetrahydrobiopterin (BH4 or THB) and results in adding a hydroxyl group to the aromatic ring to form L-DOPA. This molecule subsequently converts to&#x000a0;DA by the aromatic L-amino acid decarboxylase, involving removing the carboxyl group. Once synthesized, DA&#x000a0;is transported into synaptic vesicles via the vesicular monoamine transporter 2 (VMAT2) to the synaptic terminals.<xref ref-type="bibr" rid="article-20657.r10">[10]</xref><xref ref-type="bibr" rid="article-20657.r11">[11]</xref><xref ref-type="bibr" rid="article-20657.r12">[12]</xref>&#x000a0;</p>
+        <p>If an individual regularly consumes L-tyrosine in abundance, it&#x000a0;readily crosses the blood-brain barrier, as does L-DOPA.<xref ref-type="bibr" rid="article-20657.r13">[13]</xref>. But its utility is&#x000a0;spatially restricted because DA cannot cross the blood-brain barrier.&#x000a0;However, if L-tyrosine levels are low, L-phenylalanine may be converted into L-tyrosine by phenylalanine hydroxylase.</p>
+        <p>After DA release into the synaptic space,&#x000a0;it interacts with&#x000a0;various receptors on&#x000a0;the pre and post-synaptic terminals, causing neuronal excitation or inhibition&#x000a0;at the target neuron. There are two entire families of&#x000a0;DA receptors composed of five different isoforms, each&#x000a0;affecting different intracellular signaling pathways.<xref ref-type="bibr" rid="article-20657.r14">[14]</xref> Both families of dopamine receptors, D1 and D2, are, by definition, G-protein-coupled receptors, but the D1 receptor class results in the neuron's depolarization,&#x000a0;whereas the D2 receptors inhibit neuronal firing.<xref ref-type="bibr" rid="article-20657.r15">[15]</xref></p>
+        <p>Once in the synaptic cleft, DA&#x000a0;is&#x000a0;transported back into the pre-synaptic neuron via DA transporters (DAT) for repackaging or can remain in the extracellular space to be&#x000a0;taken up by glial cells or metabolized by the cellular membrane. DA may be metabolized extraneuronally by catechol-o-methyltransferase (COMT) to 3-methoxytyramine (3-MT), while monoamine oxidase-B (MAO-B) will rapidly metabolize 3-MT to homovanillic acid (HVA).<xref ref-type="bibr" rid="article-20657.r16">[16]</xref><xref ref-type="bibr" rid="article-20657.r17">[17]</xref> Alternatively, it may undergo metabolism inside the cytoplasm, where the dual action of MAO-A and aldehyde dehydrogenase (ALDH) will convert DA to the phenolic acid&#x000a0;3, 4-dihydroxyphenylacetic acid (DOPAC).<xref ref-type="bibr" rid="article-20657.r18">[18]</xref></p>
+        <p>Given this complex sequence, the modulation of dopamine can occur at various levels, such as the entire neuron, its projections, or the neuronal circuitry across the nervous system. Also, during the synthesis of DA (transcriptional, translational, and post-translational regulation), synaptosomal packaging (regulation of VMAT, transport of vesicle to synapse), DA release (neuronal depolarization, calcium signaling, vesicle fusion), and via reuptake and metabolism through regulation of the respective enzymes and their spatial localization relative to their substrate.<xref ref-type="bibr" rid="article-20657.r18">[18]</xref><xref ref-type="bibr" rid="article-20657.r19">[19]</xref></p>
+        <p>As indicated earlier, the systemic action of DA is&#x000a0;subject to mediation by various receptors (D1, D2, D3, D4, and D5) and the alpha- and beta-adrenergic receptors.&#x000a0;These G-coupled receptors generally group as either D1 or D2, primarily based on their traditional biochemical functions showing that dopamine can modulate adenylyl cyclase activity.<xref ref-type="bibr" rid="article-20657.r6">[6]</xref><xref ref-type="bibr" rid="article-20657.r20">[20]</xref> However, based on their molecular structure, biochemical properties, and pharmacological functions, DA receptors are further&#x000a0;classified either as D1-class (D1 and D5) or D2-class (D2, D3, D4).<xref ref-type="bibr" rid="article-20657.r21">[21]</xref><xref ref-type="bibr" rid="article-20657.r22">[22]</xref><xref ref-type="bibr" rid="article-20657.r23">[23]</xref><xref ref-type="bibr" rid="article-20657.r15">[15]</xref></p>
+        <p>Activation of the D1 receptors on smooth muscle, the proximal renal tubule, and cortical collecting duct increase diuresis.<xref ref-type="bibr" rid="article-20657.r24">[24]</xref> D2 receptors&#x000a0;are located pre-synaptically on the renal nerves and within the glomeruli and adrenal cortex. The activation of these nerves results in decreased renal sodium and water excretion.<xref ref-type="bibr" rid="article-20657.r25">[25]</xref> Apomorphine is a&#x000a0;DA receptor agonist and may have similar activation on these DA&#x000a0;receptors.<xref ref-type="bibr" rid="article-20657.r26">[26]</xref> Adrenergic receptors also bind&#x000a0;DA increasing arterial smooth muscle contraction and cardiac sinoatrial node conductivity,&#x000a0;which explains its cardiac therapeutic benefits.&#x000a0;</p>
+        <p>While the blood-brain barrier specifically restricts the transport of&#x000a0;DA&#x000a0;from the systemic circulation to the central nervous system, further research&#x000a0;has led to the discovery of its central role in reward-seeking behavior, wherein&#x000a0;its transmission becomes markedly increased. Current DA research includes epigenetic changes and their involvement&#x000a0;in a variety of psychiatric conditions,&#x000a0;including substance abuse and addiction,&#x000a0;schizophrenia, and attention deficit disorder.<xref ref-type="bibr" rid="article-20657.r27">[27]</xref><xref ref-type="bibr" rid="article-20657.r28">[28]</xref> Altogether, these conditions involve disorders of&#x000a0;the mesolimbic and mesocortical&#x000a0;DA pathways. One common effect of addictive drugs in the CNS is the increased release of&#x000a0;DA in the striatum, classically associated with high locomotor activity and stereotypy.<xref ref-type="bibr" rid="article-20657.r29">[29]</xref><xref ref-type="bibr" rid="article-20657.r30">[30]</xref> The striatal DA increase results from axon&#x000a0;projections arising directly from the pars compacta of the substantia nigra (SN)&#x000a0;and&#x000a0;the&#x000a0;ventral tegmental area (VTA), respectively, which project to the nucleus accumbens and amygdala, implicated in reward-stimulation and the fear-response.<xref ref-type="bibr" rid="article-20657.r29">[29]</xref><xref ref-type="bibr" rid="article-20657.r31">[31]</xref><xref ref-type="bibr" rid="article-20657.r32">[32]</xref></p>
+        <p>Another DA circuit, the tuberoinfundibular pathway, is mainly responsible for regulating the neuroendocrine prolactin from the anterior pituitary gland, known for its role as a lactation inducer, but also has lesser roles in water/salt homeostasis and immune response and cell-cycle regulation.<xref ref-type="bibr" rid="article-20657.r33">[33]</xref><xref ref-type="bibr" rid="article-20657.r34">[34]</xref> The nigrostriatal pathway is the main pathway involved in the motor deficits observed in Parkinson's disease.<xref ref-type="bibr" rid="article-20657.r35">[35]</xref> This pathway comprises dopaminergic neurons&#x000a0;originating in the substantia nigra (pars compacta) and projects to the striatum via the medial forebrain bundle, forming synapses with several neuronal populations at the putamen, caudate nucleus, globus pallidus internus (GPi), and the subthalamic nucleus (STN), respectively. This elaborated network forms&#x000a0;the afferent connections of the substantia nigra to the circuitry involved in motor movement, namely the basal ganglia. In the latter, DA plays a&#x000a0;pivotal function in controlling&#x000a0;motor movement and learning new motor skills.<xref ref-type="bibr" rid="article-20657.r36">[36]</xref></p>
+      </sec>
+      <sec id="article-20657.s4" sec-type="Administration">
+        <title>Administration</title>
+        <p>For stimulation of the sympathetic nervous system, the indication is for a continuous intravenous drip administration. Dopamine&#x000a0;half-life in the systemic circulation is between 1 to 5 minutes; thus, slower forms of administration, such as oral administration,&#x000a0;are typically ineffective.<xref ref-type="bibr" rid="article-20657.r37">[37]</xref></p>
+        <p>In addition&#x000a0;to its peripheral sympathetic effects,&#x000a0;DA is also critical for neurological movement function in Parkinson&#x02019;s disease.<xref ref-type="bibr" rid="article-20657.r35">[35]</xref> L-DOPA administration is via the oral route, and after its&#x000a0;absorption,&#x000a0;a&#x000a0;small&#x000a0;percentage transports to the brain, where the neurons use it in the basal ganglia. L-DOPA &#x000a0;is&#x000a0;generally&#x000a0;administered concomitantly with carbidopa to inhibit the peripheral effects of L-DOPA in the sympathetic nervous system. Carbidopa is a decarboxylase inhibitor that prevents the systemic conversion of L-DOPA to&#x000a0;DA, which decreases the presentation of common side effects such as nausea and emesis.<xref ref-type="bibr" rid="article-20657.r38">[38]</xref></p>
+      </sec>
+      <sec id="article-20657.s5" sec-type="Adverse Effects">
+        <title>Adverse Effects</title>
+        <p>Dopamine administration can adversely affect kidney function,&#x000a0;causing increased urinary flow and irregular heartbeat.<xref ref-type="bibr" rid="article-20657.r39">[39]</xref>&#x000a0;Excessive administration may cause deleterious conditions such as cerebrovascular accidents due to&#x000a0;elevated blood pressure in the&#x000a0;brain.<xref ref-type="bibr" rid="article-20657.r40">[40]</xref></p>
+        <p>As previously stated, the neurotransmitter DA also acts centrally within the mesocorticolimbic pathway and has roles in processing reward and fear, as well as focusing attention and executive functioning, including complex planning.<xref ref-type="bibr" rid="article-20657.r31">[31]</xref><xref ref-type="bibr" rid="article-20657.r32">[32]</xref>&#x000a0;While systemic dopamine does not cross the blood-brain barrier,&#x000a0;central dopamine carries implications in somnolence, schizophrenia, addiction, and impulse control disorders.<xref ref-type="bibr" rid="article-20657.r13">[13]</xref><xref ref-type="bibr" rid="article-20657.r27">[27]</xref><xref ref-type="bibr" rid="article-20657.r41">[41]</xref> Patients with neurologic&#x000a0;conditions using high doses of L-DOPA for Parkinson disease may&#x000a0;experience such&#x000a0;physiological alterations from the dysregulation of&#x000a0;DA within the CNS pathways.</p>
+      </sec>
+      <sec id="article-20657.s6" sec-type="Contraindications">
+        <title>Contraindications</title>
+        <p>In patients with conditions of the heart or circulatory system, the intravenous administration of&#x000a0;dopamine is contraindicated. These&#x000a0;conditions&#x000a0;may include&#x000a0;ventricular arrhythmias and tachycardia, blood vessel blockage, low blood-oxygen content, decreased blood volume, acidosis, and adrenal gland dysfunctions resulting in high blood pressure such as pheochromocytoma. For patients recently treated with monoamine oxidase inhibitors,&#x000a0;DA&#x000a0;is&#x000a0;initially used in fractional doses (one-tenth&#x000a0;usual dose) and closely monitored for further effects. Medications to treat hypertension,&#x000a0;such as beta and alpha-adrenergic inhibitors, antagonize the therapeutic effects of DA. Haloperidol also blocks the systemic effects of DA. The anticonvulsant phenytoin has been reported&#x000a0;to cause hypotension and&#x000a0;decreased heart rate when used&#x000a0;with DA. On the other hand, tricyclic antidepressants increase the DA response,&#x000a0;similar to anesthetic agents such as cyclopropane and halogenated.&#x000a0;In combination with oxytocin, the use of DA can lead to chronic hypertension and may also cause cerebrovascular accidents.<xref ref-type="bibr" rid="article-20657.r42">[42]</xref></p>
+      </sec>
+      <sec id="article-20657.s7" sec-type="Monitoring">
+        <title>Monitoring</title>
+        <p>Monitoring blood pressure and urine flow is necessary &#x02014; monitoring of more advanced hemodynamic parameters such as cardiac output, including rhythm and pulmonary wedge pressure, is also recommended.&#x000a0;It is worth noting that dopamine agonists and mimetics that cross the blood-brain barrier interact with the neurological circuitry involved in motor, executive, and limbic functions, including addiction-linked reward systems, impulse control mechanisms, and arousal. Thus, the cessation of DA therapies may lead to a&#x000a0;condition called dopamine agonist withdrawal syndrome. This condition has wide-ranging symptoms, including anxiety, depression, panic attacks, fatigue, hypotension, nausea, irritability, and even suicidal ideations.<xref ref-type="bibr" rid="article-20657.r43">[43]</xref> Therefore, recommendations are to taper patients off of these centrally acting&#x000a0;DA agonists.</p>
+      </sec>
+      <sec id="article-20657.s8" sec-type="Toxicity">
+        <title>Toxicity</title>
+        <p>According to "<italic toggle="yes">Sax's Dangerous Properties of Industrial Materials</italic>" (by Richard J. Lewis, 2004 - DOI: 10.1002/0471701343), studies in rodents&#x000a0;showed an LD50 (a lethal dose in 50% of subjects) between 59 to 163 mg/kg. In humans, dopamine can lead to peripheral vasoconstriction&#x000a0;resulting in gangrenous extremities and cardiac arrhythmias.<xref ref-type="bibr" rid="article-20657.r44">[44]</xref><xref ref-type="bibr" rid="article-20657.r45">[45]</xref></p>
+      </sec>
+      <sec id="article-20657.s9" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Dopamine administration&#x000a0;affects the cardiovascular system,&#x000a0;as well as other organs, including the kidneys and the brain. Contraindications include specific pharmaceutical agents, lifestyle, and nutrition factors that can impact similar organs with DA treatment. These factors and medications include psychopharmacological agents, neuroleptics, general anesthetics, and even physical therapy-induced cardiac challenges. Communication among all interprofessional healthcare team members, including clinicians, mid-level practitioners, nurses, pharmacists, and therapists, is critical to ensuring proper application of DA to&#x000a0;mitigate potentially harmful or chronic adverse effects while considering a holistic healthcare approach along with specific outcome objectives. By engaging in interprofessional teamwork and communication, dopamine therapy can achieve its best possible outcomes with the fewest adverse events. [Level 5]</p>
+      </sec>
+      <sec id="article-20657.s10">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=20657&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=20657">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/20657/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=20657">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <floats-group id="article-20657.s11">
+        <fig id="article-20657.image.f1" position="float" orientation="portrait">
+          <caption>
+            <p>Biosynthesis of catecholamines adrenaline (epinephrine) and noradrenaline (norepinephrine), intermediates DOPA and dopamine Contribtued by NEUROtiker, CC-BY-SA 2.5 ( https://creativecommons.org/licenses/by-sa/2.5/ )</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="338px-Catecholamines_biosynthesis.svg" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <ref-list id="article-20657.s12">
+        <title>References</title>
+        <ref id="article-20657.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bhatt-Mehta</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Nahata</surname>
+                <given-names>MC</given-names>
+              </name>
+            </person-group>
+            <article-title>Dopamine and dobutamine in pediatric therapy.</article-title>
+            <source>Pharmacotherapy</source>
+            <year>1989</year>
+            <volume>9</volume>
+            <issue>5</issue>
+            <fpage>303</fpage>
+            <page-range>303-14</page-range>
+            <pub-id pub-id-type="pmid">2682552</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>De Backer</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Biston</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Devriendt</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Madl</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Chochrad</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Aldecoa</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Brasseur</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Defrance</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Gottignies</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Vincent</surname>
+                <given-names>JL</given-names>
+              </name>
+              <collab>SOAP II Investigators</collab>
+            </person-group>
+            <article-title>Comparison of dopamine and norepinephrine in the treatment of shock.</article-title>
+            <source>N Engl J Med</source>
+            <year>2010</year>
+            <month>Mar</month>
+            <day>04</day>
+            <volume>362</volume>
+            <issue>9</issue>
+            <fpage>779</fpage>
+            <page-range>779-89</page-range>
+            <pub-id pub-id-type="pmid">20200382</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hornykiewicz</surname>
+                <given-names>O</given-names>
+              </name>
+            </person-group>
+            <article-title>A brief history of levodopa.</article-title>
+            <source>J Neurol</source>
+            <year>2010</year>
+            <month>Nov</month>
+            <volume>257</volume>
+            <issue>Suppl 2</issue>
+            <fpage>S249</fpage>
+            <page-range>S249-52</page-range>
+            <pub-id pub-id-type="pmid">21080185</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ghadery</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Valli</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Mihaescu</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Strafella</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Navalpotro</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Strafella</surname>
+                <given-names>AP</given-names>
+              </name>
+            </person-group>
+            <article-title>Molecular Imaging of Addictive Behavior in Idiopathic Parkinson's Disease.</article-title>
+            <source>Int Rev Neurobiol</source>
+            <year>2018</year>
+            <volume>141</volume>
+            <fpage>365</fpage>
+            <page-range>365-404</page-range>
+            <pub-id pub-id-type="pmid">30314604</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Blaschko</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>The activity of l(-)-dopa decarboxylase.</article-title>
+            <source>J Physiol</source>
+            <year>1942</year>
+            <month>Nov</month>
+            <day>30</day>
+            <volume>101</volume>
+            <issue>3</issue>
+            <fpage>337</fpage>
+            <page-range>337-49</page-range>
+            <pub-id pub-id-type="pmid">16991567</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Snyder</surname>
+                <given-names>SH</given-names>
+              </name>
+            </person-group>
+            <article-title>What dopamine does in the brain.</article-title>
+            <source>Proc Natl Acad Sci U S A</source>
+            <year>2011</year>
+            <month>Nov</month>
+            <day>22</day>
+            <volume>108</volume>
+            <issue>47</issue>
+            <fpage>18869</fpage>
+            <page-range>18869-71</page-range>
+            <pub-id pub-id-type="pmid">22106252</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>CARLSSON</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>LINDQVIST</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>MAGNUSSON</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>3,4-Dihydroxyphenylalanine and 5-hydroxytryptophan as reserpine antagonists.</article-title>
+            <source>Nature</source>
+            <year>1957</year>
+            <month>Nov</month>
+            <day>30</day>
+            <volume>180</volume>
+            <issue>4596</issue>
+            <fpage>1200</fpage>
+            <pub-id pub-id-type="pmid">13483658</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Abbott</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Neuroscience: the molecular wake-up call.</article-title>
+            <source>Nature</source>
+            <year>2007</year>
+            <month>May</month>
+            <day>24</day>
+            <volume>447</volume>
+            <issue>7143</issue>
+            <fpage>368</fpage>
+            <page-range>368-70</page-range>
+            <pub-id pub-id-type="pmid">17522649</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>MONTAGU</surname>
+                <given-names>KA</given-names>
+              </name>
+            </person-group>
+            <article-title>Catechol compounds in rat tissues and in brains of different animals.</article-title>
+            <source>Nature</source>
+            <year>1957</year>
+            <month>Aug</month>
+            <day>03</day>
+            <volume>180</volume>
+            <issue>4579</issue>
+            <fpage>244</fpage>
+            <page-range>244-5</page-range>
+            <pub-id pub-id-type="pmid">13451690</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>SANO</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>GAMO</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>KAKIMOTO</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>TANIGUCHI</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>TAKESADA</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>NISHINUMA</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Distribution of catechol compounds in human brain.</article-title>
+            <source>Biochim Biophys Acta</source>
+            <year>1959</year>
+            <month>Apr</month>
+            <volume>32</volume>
+            <fpage>586</fpage>
+            <page-range>586-7</page-range>
+            <pub-id pub-id-type="pmid">14441532</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Carlsson</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Kehr</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Lindqvist</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Magnusson</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Atack</surname>
+                <given-names>CV</given-names>
+              </name>
+            </person-group>
+            <article-title>Regulation of monoamine metabolism in the central nervous system.</article-title>
+            <source>Pharmacol Rev</source>
+            <year>1972</year>
+            <month>Jun</month>
+            <volume>24</volume>
+            <issue>2</issue>
+            <fpage>371</fpage>
+            <page-range>371-84</page-range>
+            <pub-id pub-id-type="pmid">4564607</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Haavik</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Toska</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Tyrosine hydroxylase and Parkinson's disease.</article-title>
+            <source>Mol Neurobiol</source>
+            <year>1998</year>
+            <month>Jun</month>
+            <volume>16</volume>
+            <issue>3</issue>
+            <fpage>285</fpage>
+            <page-range>285-309</page-range>
+            <pub-id pub-id-type="pmid">9626667</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hardebo</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Edvinsson</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Owman</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Rosengren</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Quantitative evaluation of the blood-brain barrier capacity to form dopamine from circulating L-DOPA.</article-title>
+            <source>Acta Physiol Scand</source>
+            <year>1977</year>
+            <month>Mar</month>
+            <volume>99</volume>
+            <issue>3</issue>
+            <fpage>377</fpage>
+            <page-range>377-84</page-range>
+            <pub-id pub-id-type="pmid">848309</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sibley</surname>
+                <given-names>DR</given-names>
+              </name>
+              <name>
+                <surname>Monsma</surname>
+                <given-names>FJ</given-names>
+              </name>
+              <name>
+                <surname>Shen</surname>
+                <given-names>Y</given-names>
+              </name>
+            </person-group>
+            <article-title>Molecular neurobiology of dopaminergic receptors.</article-title>
+            <source>Int Rev Neurobiol</source>
+            <year>1993</year>
+            <volume>35</volume>
+            <fpage>391</fpage>
+            <page-range>391-415</page-range>
+            <pub-id pub-id-type="pmid">8463063</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>David</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Fishburn</surname>
+                <given-names>CS</given-names>
+              </name>
+              <name>
+                <surname>Monsma</surname>
+                <given-names>FJ</given-names>
+              </name>
+              <name>
+                <surname>Sibley</surname>
+                <given-names>DR</given-names>
+              </name>
+              <name>
+                <surname>Fuchs</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Synthesis and processing of D2 dopamine receptors.</article-title>
+            <source>Biochemistry</source>
+            <year>1993</year>
+            <month>Aug</month>
+            <day>17</day>
+            <volume>32</volume>
+            <issue>32</issue>
+            <fpage>8179</fpage>
+            <page-range>8179-83</page-range>
+            <pub-id pub-id-type="pmid">8347618</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tank</surname>
+                <given-names>AW</given-names>
+              </name>
+              <name>
+                <surname>Weiner</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Thurman</surname>
+                <given-names>JA</given-names>
+              </name>
+            </person-group>
+            <article-title>Enzymology and subcellular localization of aldehyde oxidation in rat liver. Oxidation of 3,4-dihydroxyphenylacetaldehyde derived from dopamine to 3,4-dihydroxyphenylacetic acid.</article-title>
+            <source>Biochem Pharmacol</source>
+            <year>1981</year>
+            <month>Dec</month>
+            <day>15</day>
+            <volume>30</volume>
+            <issue>24</issue>
+            <fpage>3265</fpage>
+            <page-range>3265-75</page-range>
+            <pub-id pub-id-type="pmid">7034733</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kopin</surname>
+                <given-names>IJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Catecholamine metabolism: basic aspects and clinical significance.</article-title>
+            <source>Pharmacol Rev</source>
+            <year>1985</year>
+            <month>Dec</month>
+            <volume>37</volume>
+            <issue>4</issue>
+            <fpage>333</fpage>
+            <page-range>333-64</page-range>
+            <pub-id pub-id-type="pmid">3915090</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Meiser</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Weindl</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Hiller</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Complexity of dopamine metabolism.</article-title>
+            <source>Cell Commun Signal</source>
+            <year>2013</year>
+            <month>May</month>
+            <day>17</day>
+            <volume>11</volume>
+            <issue>1</issue>
+            <fpage>34</fpage>
+            <pub-id pub-id-type="pmid">23683503</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Seamans</surname>
+                <given-names>JK</given-names>
+              </name>
+              <name>
+                <surname>Yang</surname>
+                <given-names>CR</given-names>
+              </name>
+            </person-group>
+            <article-title>The principal features and mechanisms of dopamine modulation in the prefrontal cortex.</article-title>
+            <source>Prog Neurobiol</source>
+            <year>2004</year>
+            <month>Sep</month>
+            <volume>74</volume>
+            <issue>1</issue>
+            <fpage>1</fpage>
+            <page-range>1-58</page-range>
+            <pub-id pub-id-type="pmid">15381316</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Meder</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Herz</surname>
+                <given-names>DM</given-names>
+              </name>
+              <name>
+                <surname>Rowe</surname>
+                <given-names>JB</given-names>
+              </name>
+              <name>
+                <surname>Leh&#x000e9;ricy</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Siebner</surname>
+                <given-names>HR</given-names>
+              </name>
+            </person-group>
+            <article-title>The role of dopamine in the brain - lessons learned from Parkinson's disease.</article-title>
+            <source>Neuroimage</source>
+            <year>2019</year>
+            <month>Apr</month>
+            <day>15</day>
+            <volume>190</volume>
+            <fpage>79</fpage>
+            <page-range>79-93</page-range>
+            <pub-id pub-id-type="pmid">30465864</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mills</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Dopamine: from Cinderella to Holy Grail.</article-title>
+            <source>Trends Pharmacol Sci</source>
+            <year>1992</year>
+            <month>Nov</month>
+            <volume>13</volume>
+            <issue>11</issue>
+            <fpage>399</fpage>
+            <page-range>399-400</page-range>
+            <pub-id pub-id-type="pmid">1440875</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Beaulieu</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Gainetdinov</surname>
+                <given-names>RR</given-names>
+              </name>
+            </person-group>
+            <article-title>The physiology, signaling, and pharmacology of dopamine receptors.</article-title>
+            <source>Pharmacol Rev</source>
+            <year>2011</year>
+            <month>Mar</month>
+            <volume>63</volume>
+            <issue>1</issue>
+            <fpage>182</fpage>
+            <page-range>182-217</page-range>
+            <pub-id pub-id-type="pmid">21303898</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Andersen</surname>
+                <given-names>PH</given-names>
+              </name>
+              <name>
+                <surname>Gingrich</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Bates</surname>
+                <given-names>MD</given-names>
+              </name>
+              <name>
+                <surname>Dearry</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Falardeau</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Senogles</surname>
+                <given-names>SE</given-names>
+              </name>
+              <name>
+                <surname>Caron</surname>
+                <given-names>MG</given-names>
+              </name>
+            </person-group>
+            <article-title>Dopamine receptor subtypes: beyond the D1/D2 classification.</article-title>
+            <source>Trends Pharmacol Sci</source>
+            <year>1990</year>
+            <month>Jun</month>
+            <volume>11</volume>
+            <issue>6</issue>
+            <fpage>231</fpage>
+            <page-range>231-6</page-range>
+            <pub-id pub-id-type="pmid">2200181</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Goldberg</surname>
+                <given-names>LI</given-names>
+              </name>
+            </person-group>
+            <article-title>Dopamine receptors and hypertension. Physiologic and pharmacologic implications.</article-title>
+            <source>Am J Med</source>
+            <year>1984</year>
+            <month>Oct</month>
+            <day>05</day>
+            <volume>77</volume>
+            <issue>4A</issue>
+            <fpage>37</fpage>
+            <page-range>37-44</page-range>
+            <pub-id pub-id-type="pmid">6148892</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Velasco</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Luchsinger</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Dopamine: pharmacologic and therapeutic aspects.</article-title>
+            <source>Am J Ther</source>
+            <year>1998</year>
+            <month>Jan</month>
+            <volume>5</volume>
+            <issue>1</issue>
+            <fpage>37</fpage>
+            <page-range>37-43</page-range>
+            <pub-id pub-id-type="pmid">10099036</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r26">
+          <label>26</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Montastruc</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Chamontin</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Rostin</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Rascol</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Valet</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Gaillard</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Tran</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Van</surname>
+                <given-names>TT</given-names>
+              </name>
+              <name>
+                <surname>Ader</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Montastruc</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Experimental and clinical approaches to treatment of hypertension by dopamine receptor agonists.</article-title>
+            <source>Clin Exp Hypertens A</source>
+            <year>1987</year>
+            <volume>9</volume>
+            <issue>5-6</issue>
+            <fpage>1069</fpage>
+            <page-range>1069-84</page-range>
+            <pub-id pub-id-type="pmid">3304729</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r27">
+          <label>27</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Feng</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Nestler</surname>
+                <given-names>EJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Epigenetic mechanisms of drug addiction.</article-title>
+            <source>Curr Opin Neurobiol</source>
+            <year>2013</year>
+            <month>Aug</month>
+            <volume>23</volume>
+            <issue>4</issue>
+            <fpage>521</fpage>
+            <page-range>521-8</page-range>
+            <pub-id pub-id-type="pmid">23374537</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r28">
+          <label>28</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Howes</surname>
+                <given-names>OD</given-names>
+              </name>
+              <name>
+                <surname>McCutcheon</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Owen</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Murray</surname>
+                <given-names>RM</given-names>
+              </name>
+            </person-group>
+            <article-title>The Role of Genes, Stress, and Dopamine in the Development of Schizophrenia.</article-title>
+            <source>Biol Psychiatry</source>
+            <year>2017</year>
+            <month>Jan</month>
+            <day>01</day>
+            <volume>81</volume>
+            <issue>1</issue>
+            <fpage>9</fpage>
+            <page-range>9-20</page-range>
+            <pub-id pub-id-type="pmid">27720198</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r29">
+          <label>29</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wise</surname>
+                <given-names>RA</given-names>
+              </name>
+            </person-group>
+            <article-title>Addictive drugs and brain stimulation reward.</article-title>
+            <source>Annu Rev Neurosci</source>
+            <year>1996</year>
+            <volume>19</volume>
+            <fpage>319</fpage>
+            <page-range>319-40</page-range>
+            <pub-id pub-id-type="pmid">8833446</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r30">
+          <label>30</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wise</surname>
+                <given-names>RA</given-names>
+              </name>
+            </person-group>
+            <article-title>Drug-activation of brain reward pathways.</article-title>
+            <source>Drug Alcohol Depend</source>
+            <year>1998</year>
+            <season>Jun-Jul</season>
+            <volume>51</volume>
+            <issue>1-2</issue>
+            <fpage>13</fpage>
+            <page-range>13-22</page-range>
+            <pub-id pub-id-type="pmid">9716927</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r31">
+          <label>31</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jellinger</surname>
+                <given-names>KA</given-names>
+              </name>
+            </person-group>
+            <article-title>Post mortem studies in Parkinson's disease--is it possible to detect brain areas for specific symptoms?</article-title>
+            <source>J Neural Transm Suppl</source>
+            <year>1999</year>
+            <volume>56</volume>
+            <fpage>1</fpage>
+            <page-range>1-29</page-range>
+            <pub-id pub-id-type="pmid">10370901</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r32">
+          <label>32</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Root</surname>
+                <given-names>DH</given-names>
+              </name>
+              <name>
+                <surname>Fabbricatore</surname>
+                <given-names>AT</given-names>
+              </name>
+              <name>
+                <surname>Ma</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Barker</surname>
+                <given-names>DJ</given-names>
+              </name>
+              <name>
+                <surname>West</surname>
+                <given-names>MO</given-names>
+              </name>
+            </person-group>
+            <article-title>Rapid phasic activity of ventral pallidal neurons during cocaine self-administration.</article-title>
+            <source>Synapse</source>
+            <year>2010</year>
+            <month>Sep</month>
+            <volume>64</volume>
+            <issue>9</issue>
+            <fpage>704</fpage>
+            <page-range>704-13</page-range>
+            <pub-id pub-id-type="pmid">20340176</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r33">
+          <label>33</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Grattan</surname>
+                <given-names>DR</given-names>
+              </name>
+            </person-group>
+            <article-title>60 YEARS OF NEUROENDOCRINOLOGY: The hypothalamo-prolactin axis.</article-title>
+            <source>J Endocrinol</source>
+            <year>2015</year>
+            <month>Aug</month>
+            <volume>226</volume>
+            <issue>2</issue>
+            <fpage>T101</fpage>
+            <page-range>T101-22</page-range>
+            <pub-id pub-id-type="pmid">26101377</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r34">
+          <label>34</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dobolyi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Grattan</surname>
+                <given-names>DR</given-names>
+              </name>
+              <name>
+                <surname>Stolzenberg</surname>
+                <given-names>DS</given-names>
+              </name>
+            </person-group>
+            <article-title>Preoptic inputs and mechanisms that regulate maternal responsiveness.</article-title>
+            <source>J Neuroendocrinol</source>
+            <year>2014</year>
+            <month>Oct</month>
+            <volume>26</volume>
+            <issue>10</issue>
+            <fpage>627</fpage>
+            <page-range>627-40</page-range>
+            <pub-id pub-id-type="pmid">25059569</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r35">
+          <label>35</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Christine</surname>
+                <given-names>CW</given-names>
+              </name>
+              <name>
+                <surname>Aminoff</surname>
+                <given-names>MJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Clinical differentiation of parkinsonian syndromes: prognostic and therapeutic relevance.</article-title>
+            <source>Am J Med</source>
+            <year>2004</year>
+            <month>Sep</month>
+            <day>15</day>
+            <volume>117</volume>
+            <issue>6</issue>
+            <fpage>412</fpage>
+            <page-range>412-9</page-range>
+            <pub-id pub-id-type="pmid">15380498</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r36">
+          <label>36</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mink</surname>
+                <given-names>JW</given-names>
+              </name>
+            </person-group>
+            <article-title>Basal ganglia mechanisms in action selection, plasticity, and dystonia.</article-title>
+            <source>Eur J Paediatr Neurol</source>
+            <year>2018</year>
+            <month>Mar</month>
+            <volume>22</volume>
+            <issue>2</issue>
+            <fpage>225</fpage>
+            <page-range>225-229</page-range>
+            <pub-id pub-id-type="pmid">29396175</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r37">
+          <label>37</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Perrin</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Papazian</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Martin</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>[Dopexamine: a new dopaminergic agonist].</article-title>
+            <source>Ann Fr Anesth Reanim</source>
+            <year>1993</year>
+            <volume>12</volume>
+            <issue>3</issue>
+            <fpage>308</fpage>
+            <page-range>308-20</page-range>
+            <pub-id pub-id-type="pmid">7902685</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r38">
+          <label>38</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gilbert</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Frederick</surname>
+                <given-names>LM</given-names>
+              </name>
+              <name>
+                <surname>Ames</surname>
+                <given-names>MM</given-names>
+              </name>
+            </person-group>
+            <article-title>The aromatic-L-amino acid decarboxylase inhibitor carbidopa is selectively cytotoxic to human pulmonary carcinoid and small cell lung carcinoma cells.</article-title>
+            <source>Clin Cancer Res</source>
+            <year>2000</year>
+            <month>Nov</month>
+            <volume>6</volume>
+            <issue>11</issue>
+            <fpage>4365</fpage>
+            <page-range>4365-72</page-range>
+            <pub-id pub-id-type="pmid">11106255</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r39">
+          <label>39</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Stoker</surname>
+                <given-names>TB</given-names>
+              </name>
+              <name>
+                <surname>Torsney</surname>
+                <given-names>KM</given-names>
+              </name>
+              <name>
+                <surname>Barker</surname>
+                <given-names>RA</given-names>
+              </name>
+            </person-group>
+            <article-title>Emerging Treatment Approaches for Parkinson's Disease.</article-title>
+            <source>Front Neurosci</source>
+            <year>2018</year>
+            <volume>12</volume>
+            <fpage>693</fpage>
+            <pub-id pub-id-type="pmid">30349448</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r40">
+          <label>40</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>De Vecchis</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Ciccarelli</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Pucciarelli</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Unloading therapy by intravenous diuretic in chronic heart failure: a double-edged weapon?</article-title>
+            <source>J Cardiovasc Med (Hagerstown)</source>
+            <year>2010</year>
+            <month>Aug</month>
+            <volume>11</volume>
+            <issue>8</issue>
+            <fpage>571</fpage>
+            <page-range>571-4</page-range>
+            <pub-id pub-id-type="pmid">20588135</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r41">
+          <label>41</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cho</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Treweek</surname>
+                <given-names>JB</given-names>
+              </name>
+              <name>
+                <surname>Robinson</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Xiao</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Bremner</surname>
+                <given-names>LR</given-names>
+              </name>
+              <name>
+                <surname>Greenbaum</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Gradinaru</surname>
+                <given-names>V</given-names>
+              </name>
+            </person-group>
+            <article-title>Dorsal Raphe Dopamine Neurons Modulate Arousal and Promote Wakefulness by Salient Stimuli.</article-title>
+            <source>Neuron</source>
+            <year>2017</year>
+            <month>Jun</month>
+            <day>21</day>
+            <volume>94</volume>
+            <issue>6</issue>
+            <fpage>1205</fpage>
+            <page-range>1205-1219.e8</page-range>
+            <pub-id pub-id-type="pmid">28602690</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r42">
+          <label>42</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kittner</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Stern</surname>
+                <given-names>BJ</given-names>
+              </name>
+              <name>
+                <surname>Feeser</surname>
+                <given-names>BR</given-names>
+              </name>
+              <name>
+                <surname>Hebel</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Nagey</surname>
+                <given-names>DA</given-names>
+              </name>
+              <name>
+                <surname>Buchholz</surname>
+                <given-names>DW</given-names>
+              </name>
+              <name>
+                <surname>Earley</surname>
+                <given-names>CJ</given-names>
+              </name>
+              <name>
+                <surname>Johnson</surname>
+                <given-names>CJ</given-names>
+              </name>
+              <name>
+                <surname>Macko</surname>
+                <given-names>RF</given-names>
+              </name>
+              <name>
+                <surname>Sloan</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Wityk</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Wozniak</surname>
+                <given-names>MA</given-names>
+              </name>
+            </person-group>
+            <article-title>Pregnancy and the risk of stroke.</article-title>
+            <source>N Engl J Med</source>
+            <year>1996</year>
+            <month>Sep</month>
+            <day>12</day>
+            <volume>335</volume>
+            <issue>11</issue>
+            <fpage>768</fpage>
+            <page-range>768-74</page-range>
+            <pub-id pub-id-type="pmid">8703181</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r43">
+          <label>43</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yu</surname>
+                <given-names>XX</given-names>
+              </name>
+              <name>
+                <surname>Fernandez</surname>
+                <given-names>HH</given-names>
+              </name>
+            </person-group>
+            <article-title>Dopamine agonist withdrawal syndrome: A comprehensive review.</article-title>
+            <source>J Neurol Sci</source>
+            <year>2017</year>
+            <month>Mar</month>
+            <day>15</day>
+            <volume>374</volume>
+            <fpage>53</fpage>
+            <page-range>53-55</page-range>
+            <pub-id pub-id-type="pmid">28104232</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r44">
+          <label>44</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Colak</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Erdogan</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Yerebakan</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Arici</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Gurkan</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Symmetrical peripheral gangrene and dopamine.</article-title>
+            <source>Ulus Travma Acil Cerrahi Derg</source>
+            <year>2003</year>
+            <month>Jul</month>
+            <volume>9</volume>
+            <issue>3</issue>
+            <fpage>222</fpage>
+            <page-range>222-4</page-range>
+            <pub-id pub-id-type="pmid">12923702</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20657.r45">
+          <label>45</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gelfman</surname>
+                <given-names>DM</given-names>
+              </name>
+              <name>
+                <surname>Ornato</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Gonzalez</surname>
+                <given-names>ER</given-names>
+              </name>
+            </person-group>
+            <article-title>Dopamine-induced increase in atrioventricular conduction in atrial fibrillation-flutter.</article-title>
+            <source>Clin Cardiol</source>
+            <year>1987</year>
+            <month>Nov</month>
+            <volume>10</volume>
+            <issue>11</issue>
+            <fpage>671</fpage>
+            <page-range>671-3</page-range>
+            <pub-id pub-id-type="pmid">3677500</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

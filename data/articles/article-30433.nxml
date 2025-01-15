@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-30433" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Tracheostomy</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Raimonde</surname>
+            <given-names>Anthony J.</given-names>
+          </name>
+          <aff>St Vincent Mercy Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Westhoven</surname>
+            <given-names>Natalie</given-names>
+          </name>
+          <aff>Bon Secour Mercy Health-St Vincent's</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Winters</surname>
+            <given-names>Ryan</given-names>
+          </name>
+          <aff>Ochsner Health System</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Anthony Raimonde declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Natalie Westhoven declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Ryan Winters declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>24</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-30433.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>A tracheostomy (or tracheotomy, while there are technical differences, these terms are colloquially used interchangeably. For this article, we will use 'tracheostomy') is a surgical procedure to create an opening in the anterior trachea to facilitate respiration. This activity reviews the indications, processes, and management of patients who will need or who have a tracheostomy and highlights the role of the interprofessional team in managing the care of patients who undergo a tracheostomy.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Identify the anatomical structures in a tracheostomy.</p></list-item><list-item><p>Describe the procedure of tracheostomy.</p></list-item><list-item><p>Summarize the potential complications of a tracheostomy.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=30433&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=30433">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-30433.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Tracheostomy is one of the earliest surgical procedures recorded, with illustrations depicting it as early as 3600 B.C. in ancient Egypt. A tracheostomy (or tracheotomy, while there are technical differences, these terms are colloquially used interchangeably. For the purposes of this article, we will use 'tracheostomy') is a surgical procedure to create an opening in the anterior trachea to facilitate respiration. Historically, a tracheostomy represented the only treatment available for upper airway obstruction, and this remains an important indication for tracheostomy today, though there are numerous others. A tracheostomy may be required in an emergent setting to bypass an obstructed airway or (more commonly) may be placed electively to facilitate mechanical ventilation, to wean from a ventilator, or to allow more efficient management of secretions (referred to as pulmonary toilet), among other reasons. Traditionally, a tracheostomy is performed as an open surgical procedure. However, safe and reliable percutaneous tracheostomy techniques have been relatively developed, allowing for the bedside placement of a tracheostomy in many patients.<xref ref-type="bibr" rid="article-30433.r1">[1]</xref></p>
+      </sec>
+      <sec id="article-30433.s3" sec-type="Anatomy and Physiology">
+        <title>Anatomy and Physiology</title>
+        <p>The trachea is a structure composed of incomplete cartilaginous rings (except for the first ring, which is complete), beginning at the subglottic larynx and terminating at the carina and mainstem bronchi. The posterior wall of the trachea is shared with the anterior wall of the esophagus. The first ring that connects the trachea to the larynx is called the cricoid cartilage, which is a complete ring and also contains the cricothyroid joint of the larynx. The trachea lies deep to the sternohyoid and sternothyroid muscles, with the thyroid gland typically overlying the second to fourth tracheal rings in the neck. Immediately lateral to the cervical trachea lie the recurrent laryngeal nerves and some peritracheal lympho-fatty tissue. These structures are surrounded by the middle (or pretracheal) layer of the deep cervical fascia. Lateral to these structures lies the common carotid arteries, which are encased in the carotid sheath, a component of the deep layer of the deep cervical fascia. The thymus and anterior mediastinal contents overlie the thoracic trachea as it courses posterior to the heart. The innominate artery crosses over the trachea as it arises from the aorta.&#x000a0;</p>
+        <p>
+<bold>Anatomic Landmarks for Tracheostomy</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Thyroid notch - a palpable landmark to identify the superior aspect of the larynx in the midline.</p>
+          </list-item>
+          <list-item>
+            <p>Cricothyroid membrane - a palpable depression between the cricoid and thyroid cartilages. This is the location for an emergent cricothyrotomy.</p>
+          </list-item>
+          <list-item>
+            <p>Cricoid cartilage - a palpable landmark to identify the junction of the larynx and trachea. The skin incision is typically placed 1 to 2 cm inferior to the cricoid.</p>
+          </list-item>
+          <list-item>
+            <p>Sternal notch - a palpable landmark to identify the thoracic inlet. It is important to palpate here to detect the possibility of a high-riding innominate artery that may be encountered during tracheostomy.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-30433.s4" sec-type="Indications">
+        <title>Indications</title>
+        <p>The indications for tracheostomy can be divided into emergent tracheostomy and elective tracheostomy.</p>
+        <p>Indications for <bold>emergent tracheostomy</bold> include:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Acute upper airway obstruction with failed endotracheal intubation (foreign body, angioedema, infection, anaphylaxis, etc.)</p>
+          </list-item>
+          <list-item>
+            <p>Post-cricothyrotomy (if a cricothyrotomy has been placed, it should be immediately formalized into a tracheostomy once an airway has been secured)</p>
+          </list-item>
+          <list-item>
+            <p>Penetrating laryngeal trauma</p>
+          </list-item>
+          <list-item>
+            <p>LeFort III fracture</p>
+          </list-item>
+        </list>
+        <p>Emergent tracheostomy is most commonly carried out in the setting of acute airway obstruction, such as aspiration of a foreign body into the upper airway, Ludwig's angina, or penetrating trauma to the airway that is not amenable to endotracheal intubation. Emergent tracheostomy may also be necessary for the setting of severe facial or cervical trauma, particularly in pan-facial fractures where craniofacial dislocation presents a contraindication to nasal intubation. In most cases (with the exception of penetrating laryngeal trauma and LeFort III fractures), there are less invasive airway management strategies that can be attempted before proceeding to awake emergent tracheostomy, but all instruments must be ready and available to proceed with emergent tracheostomy before any airway manipulation occurs.<xref ref-type="bibr" rid="article-30433.r2">[2]</xref></p>
+        <p>Indications for <bold>elective tracheostomy</bold> include:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Prolonged ventilator dependence</p>
+          </list-item>
+          <list-item>
+            <p>Prophylactic tracheostomy prior to head and neck cancer treatment</p>
+          </list-item>
+          <list-item>
+            <p>Obstructive sleep apnea refractory to other treatments</p>
+          </list-item>
+          <list-item>
+            <p>Chronic aspiration</p>
+          </list-item>
+          <list-item>
+            <p>Neuromuscular disease</p>
+          </list-item>
+          <list-item>
+            <p>Subglottic stenosis</p>
+          </list-item>
+        </list>
+        <p>The timing of elective tracheostomy for prolonged intubation (failure to wean from mechanical ventilation) has been a subject of much debate. Classic teaching dictates tracheostomy be carried out 5 to 7 days after endotracheal intubation in order to minimize the risk of complications associated with long-term intubation, most notably subglottic stenosis. The development of low-pressure cuffs on endotracheal tubes (with a maximum pressure of 20 cm H2O) may allow this time to be extended if the likelihood of extubation exists. Alternatively, early tracheostomy has been advocated in order to enhance patient comfort, decrease sedation, and potentially decrease ICU/ventilator days.<xref ref-type="bibr" rid="article-30433.r3">[3]</xref><xref ref-type="bibr" rid="article-30433.r4">[4]</xref>&#x000a0;</p>
+        <p>The Eastern Association of Surgical Trauma (EAST) guidelines recommend early tracheostomy (3-7 days after intubation) for patients with severe closed-head injuries or in those who require prolonged ventilatory support. Similarly, in non-trauma patients with failed ventilator weaning, tracheostomy at post-intubation day 5-7 has been recommended by numerous professional organizations.<xref ref-type="bibr" rid="article-30433.r5">[5]</xref><xref ref-type="bibr" rid="article-30433.r6">[6]</xref>&#x000a0;Prophylactic tracheostomy may be necessary for the setting of extensive head and neck procedures due to trauma or upper aerodigestive tumors. Expected edema from the surgery or subsequent radiation therapy may portend upper airway obstruction, so an elective tracheostomy is warranted before treatment begins.</p>
+        <p>Tracheostomy may be beneficial in refractory obstructive sleep apnea, especially in the morbidly obese patient who is unable to be treated with continuous positive airway pressure. Patients with prolonged impaired neurological status may not be able to manage their oral secretions and thus risk recurrent aspiration. An elective tracheostomy may, therefore, be required for such a pulmonary toilet to prevent aspiration pneumonia. Finally, patients with neuromuscular conditions such as amyotrophic lateral sclerosis may lack the muscle strength to breathe independently, and a tracheostomy is required to facilitate mechanical ventilation.</p>
+      </sec>
+      <sec id="article-30433.s5" sec-type="Contraindications">
+        <title>Contraindications</title>
+        <p>There are no absolute contraindications to tracheostomy except for active cellulitis of the anterior neck skin. End of life issues should be discussed in the terminally ill patient and goals of continued care established before proceeding with tracheostomy or any invasive procedure.</p>
+      </sec>
+      <sec id="article-30433.s6" sec-type="Equipment">
+        <title>Equipment</title>
+        <p>Equipment required in the OR includes a tracheostomy tray, as well as personal protective equipment. For percutaneous tracheostomy, a bronchoscope is also required. Fiberoptic laryngoscopy or bronchoscopy may be helpful in difficult cases.</p>
+      </sec>
+      <sec id="article-30433.s7" sec-type="Personnel">
+        <title>Personnel</title>
+        <p>For open tracheostomy performed in the operating room, a surgeon, surgical assistant, anesthesiologist, nurse, and scrub tech are needed.</p>
+        <p>For a percutaneous tracheostomy (both at the bedside or in the operating room), two physicians are required. One performs the percutaneous portion at the neck, and the other utilizes a bronchoscope to visualize the passage of the wire and tube in the trachea. A bedside percutaneous tracheostomy may be performed by a non-surgeon, such as a pulmonologist or a critical care physician.</p>
+      </sec>
+      <sec id="article-30433.s8" sec-type="Preparation">
+        <title>Preparation</title>
+        <p>Open tracheostomy is generally carried out in the operating suite by a surgeon and complimentary staff, as outlined above. Usually, the patient is intubated and under general anesthesia, but in situations such as Ludwig angina, a local anesthetic can be utilized, and the tracheostomy can be performed with the patient awake. Initially, a cuffed, non-fenestrated tracheostomy tube is used. In situations where aerosolization of respiratory secretions is a concern, specialized personal protective equipment is necessary for the team, and the procedure should be performed in a negative pressure room.</p>
+      </sec>
+      <sec id="article-30433.s9" sec-type="Technique or Treatment">
+        <title>Technique or Treatment</title>
+        <p>
+<bold>Open Tracheostomy</bold>
+</p>
+        <p>Anatomic landmarks such as the thyroid notch, cricoid cartilage, and sternal notch are palpated and marked. The surgeon should pay close attention to palpation in the sternal notch to detect a high-riding innominate artery. A skin incision is then marked in the midline anterior neck 1&#x000a0;to 2 cm inferior to the cricoid cartilage. A horizontal or vertical incision may be utilized.</p>
+        <p>The incision is extended through the platysma muscle to expose the strap muscles (sternohyoid and sternothyroid), identifying the median raphe. The strap muscles are retracted laterally, exposing the cricoid cartilage and thyroid gland. The thyroid isthmus is identified and ligated, if necessary, depending on its location along the trachea. Hemostats can be utilized to cross-clamp the isthmus, subsequently oversewing each stump with a silk suture to ensure hemostasis of thyroid tissue. A cricoid hook is then placed under the cricoid cartilage to elevate the larynx and trachea into the operative field. The second and third tracheal rings are identified.</p>
+        <p>Stay ligatures may be placed laterally to facilitate traction on the trachea for tube placement, as well as tube security in the postoperative period. An incision is made between the second and third rings, and a tracheostomy tube is placed. Various modifications have been proposed, including the removal of an anterior window of cartilage (often removing a segment of 1&#x000a0;to 2 rings), the use of a vertical anterior incision across 1-2 rings (used in pediatric tracheostomy), or the creation of a Bjork flap, in which an inferiorly-based cartilage flap is created and secured to the subcutaneous tissues.</p>
+        <p>The first ring is avoided to decrease the risk of subsequent stenosis. With the tube in place, it is connected to the anesthesia circuit, and end-tidal CO<sub>2</sub> confirmed. Only then is the cricoid hook released. The tracheostomy tube is secured with a soft trans-cervical tie as well as sutured to the anterior neck skin until the first tracheostomy tube change on postoperative day five.<xref ref-type="bibr" rid="article-30433.r7">[7]</xref></p>
+        <p>
+<bold>Percutaneous Tracheostomy</bold>
+</p>
+        <p>A percutaneous technique was described in 1985 by Ciaglia and colleagues.<xref ref-type="bibr" rid="article-30433.r8">[8]</xref> This method uses a dilatational process via a modified Seldinger technique under bronchoscopic guidance. Numerous studies have compared the outcomes of the two techniques, suggesting several potential advantages of each technique over the other.<xref ref-type="bibr" rid="article-30433.r9">[9]</xref><xref ref-type="bibr" rid="article-30433.r10">[10]</xref> The percutaneous technique is more amenable to bedside performance, avoiding the transport of potentially critically ill patients to the operating room. The percutaneous technique has also been associated with less blood loss and lower infection rates than the open technique. The percutaneous technique has been associated with several significant devastating complications, such as tracheal laceration, aortic injury, and esophageal perforation, which are extremely unusual after the open procedure.<xref ref-type="bibr" rid="article-30433.r11">[11]</xref></p>
+      </sec>
+      <sec id="article-30433.s10" sec-type="Complications">
+        <title>Complications</title>
+        <p>Complications after tracheostomy can be best considered as occurring during the operative period, early postoperative period, and late postoperative period.&#x000a0;</p>
+        <p>
+<bold>Operative Period</bold>
+</p>
+        <p>The most common intraoperative complication is bleeding. Many patients who require tracheostomy are critically ill and have an underlying coagulopathy, which should be corrected preoperatively if possible. If they are thrombocytopenic, they may require platelet transfusion to platelets greater than 50,000 before proceeding with any airway surgery.</p>
+        <p>Anatomically, the anterior jugular veins can usually be retracted laterally; however, aberrant or bridging anterior jugular veins may be present, which should be ligated. A small percentage of patients, approximately 5%, will have a thyroidea ima artery, which courses along the anterior surface of the trachea.<xref ref-type="bibr" rid="article-30433.r12">[12]</xref> Once divided, it can retract inferiorly and contribute to ongoing bleeding, so meticulous technique is required when ligating it. As previously mentioned, careful ligation of the thyroid isthmus with transfixing ligatures can minimize bleeding risk from this site.&#x000a0;</p>
+        <p>A rare but disastrous intraoperative complication is that of airway fire. This occurs due to the presence of high concentrations of oxygen in the anesthetic tubing and an ignition source provided by the electrocautery unit.<xref ref-type="bibr" rid="article-30433.r13">[13]</xref> This can be prevented by precise communication between the surgical and the anesthetic team. If a fire occurs, the entire circuit should be removed from the patient, and the patient bagged with a mask until the tracheostomy is placed. The aerodigestive tract should then be evaluated for any potential thermal injury via laryngoscopy, bronchoscopy, and esophagoscopy.&#x000a0;</p>
+        <p>A final operative complication is that of pneumothorax or pneumomediastinum. This can occur with the inadvertent creation of a false passage if the tracheostomy tube is placed anterior to the trachea. A ruptured bleb or injury to the apex of the lung may result in a pneumothorax as well.&#x000a0;</p>
+        <p>Pneumomediastinum is generally self-limited. If the pneumothorax is a concern, a chest radiograph should be obtained postoperatively, and a chest tube should be placed if indicated. This is also extremely rare after a routine tracheostomy, though some surgeons obtain postoperative chest X-rays on all tracheostomy patients.&#x000a0;</p>
+        <p>
+<bold>Early Complications</bold>
+</p>
+        <p>Infections after tracheostomy are very rare, and those requiring antibiotics even more so. The majority of "infections" can be treated by local wound care, as they are typically just leakage of secretions from the new stoma into the field. Some deep infections or frank abscesses may require antibiotics specific for the infecting organism and are more significant in the immunocompromised patient.&#x000a0;</p>
+        <p>Acute obstruction of the tracheostomy tube may be caused by blood or mucus and is more likely in the immediate and early postoperative periods. Postoperative protocols involving scheduled flexible tracheal suctioning, use of humidified oxygen, and scheduled replacement or cleaning of the inner cannula (daily) can minimize the risk of complete obstruction. Tube dislodgement can also result in acute obstruction, where the distal tip of the tracheostomy tube exits the tracheal lumen and rests in the soft tissue or a false passage. Placement of stay sutures in the lateral trachea during the operative procedure can facilitate tube replacement, as can skin sutures to secure the tracheostomy tube to the neck skin while the fistula matures. Reintubation can be required to re-establish a definitive airway and is best performed via flexible laryngoscopy through the tracheostomy tube to confirm an intra-lumenal placement visually.&#x000a0;</p>
+        <p>
+<bold>Late Complications</bold>
+</p>
+        <p>The most dreaded late complications are associated with pressure necrosis due to over-inflation of the cuff of the tracheostomy tube. These are rarer than in the past due to advancements in low-pressure cuffs and the awareness of cuff pressure as a risk factor. Tracheostomy cuff pressure should be measured regularly to prevent this occurrence, ideally at a maximum of 20cm H2O. High pressure in the trachea can lead to necrosis of the wall due to ischemia. Subsequent healing results in scanning and stenosis.&#x000a0;</p>
+        <p>Stenosis can be treated in several ways, both endoscopic and open, and a formal discussion of this is beyond the scope of this article. Please see the relevant StatPearls articles on subglottic stenosis and tracheal stenosis.<xref ref-type="bibr" rid="article-30433.r14">[14]</xref></p>
+        <p>
+<bold>Persistent Tracheocutaneous Fistula</bold>
+</p>
+        <p>On removal of the tracheostomy tube, the stoma will usually close within 24 to 48 hours spontaneously. On occasion, granulation tissue will persist at the site and can be a nuisance. This can typically be treated with topical silver nitrate. If surgical closure is required, debridement and closure in layers utilizing the strap muscles to bolster the repair will usually be successful.&#x000a0;</p>
+        <p>
+<bold>Tracheoesophageal Fistula</bold>
+</p>
+        <p>Tracheoesophageal fistula is a very rare complication occurring in less than 5% of tracheostomies. They generally arise due to excessive pressure on the posterior membranous trachea (the party wall shared by the trachea and esophagus). This can be caused by over-inflation of the cuff of the tracheostomy tube. The tracheostomy tube may also be oriented posteriorly, placing excessive pressure on the posterior tracheal wall, and if ventilatory pressures are higher than expected, a flexible scope should be passed via the tracheostomy tube to ensure the proper intra-lumenal orientation of the tracheostomy tube. Re-sizing or replacement with a proximal or distal XLT tube may alleviate such an issue.</p>
+        <p>The presence of an indwelling nasogastric tube, in addition to the rigid tracheostomy tube, increases the risk of this complication, and alternate enteral feeding is advised (gastrostomy tube) for patients requiring tracheostomy. Patients with a tracheoesophageal fistula may present with bronchopulmonary suppuration or tracheobronchial contamination with food/gastric contents or simply with recurrent or severe pneumonia. The length of the fistula is generally 1 to 4 cm and requires attention to the trachea as well as the esophagus.<xref ref-type="bibr" rid="article-30433.r15">[15]</xref><xref ref-type="bibr" rid="article-30433.r16">[16]</xref></p>
+        <p>Definite repair is accomplished by resection of the fistula with primary esophageal closure, primary anastomosis of the trachea, and interposition of a viable muscle flap. For a more comprehensive discussion, please see the StatPearls article entitled 'Tracheoesophageal Fistula.'</p>
+        <p>
+<bold>Tracheoinnominate Fistula</bold>
+</p>
+        <p>Tracheoinnominate fistula is a very rare but potentially devastating complication, occurring in less than 1% of tracheostomies but with an estimated mortality of 80%.<xref ref-type="bibr" rid="article-30433.r17">[17]</xref> The event may be preceded by a sentinel bleed, a pulsatile bleed from the stoma, which stops spontaneously. The bleeding may then recur several days later with subsequent exsanguinating hemorrhage. Several risk factors have been identified which may predispose a patient to a tracheoinnominate fistula. These factors include placement of the tracheostomy below the third tracheal ring, the presence of a more cephalad (high-riding) innominate artery, and placement of an improperly sized tube (either too large in diameter or of an improper length) which places excessive pressure on the anterior tracheal wall behind the sternum.&#x000a0;</p>
+        <p>&#x000a0;The central etiology of tracheoinnominate fistula is the pressure necrosis of the anterior wall of the trachea between the tracheostomy tube or its cuff and the relatively rigid, high-pressure wall of the innominate artery. The aberrant cephalad location of the innominate artery has also been described as a causative factor by Oskinsky et al.<xref ref-type="bibr" rid="article-30433.r18">[18]</xref> In addition, tube cuff pressure should be monitored, keeping it less than 20cm H2O to reduce the risk of tracheal necrosis.<xref ref-type="bibr" rid="article-30433.r19">[19]</xref></p>
+        <p>&#x000a0;Once the potential for a tracheoinnominate fistula is recognized, prompt surgical management is necessary. Immediate measures include removal of the tracheostomy tube and oral tracheal intubation with the cuff inflated distal to the bleeding source. Then, using a finger inserted through the tracheostomy stoma, digital pressure can be used to occlude the innominate artery by pinching it against the posterior surface of the manubrium. The patient should be immediately transported to the operating room, where the occluding finger and hand are prepped into the surgical field. The open repair involves median sternotomy with ligation of the innominate artery with some form of interpositional flap to allow for tracheal healing. Case studies have also demonstrated the potential for endovascular stenting as well as embolization.<xref ref-type="bibr" rid="article-30433.r20">[20]</xref></p>
+      </sec>
+      <sec id="article-30433.s11" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>A tracheostomy provides a secure, durable airway for prolonged mechanical ventilatory support in patients. It can also provide a means of the pulmonary toilet in individuals unable to clear secretions. Quality of life issues, as well as end-of-life issues, should be addressed preoperatively with the patient or surrogates before proceeding, especially in the terminally ill and older patients. Tracheostomy aerosolizes respiratory particles from the patient to a higher degree than many other surgeries, and in cases of virulent airborne pathogens (tuberculosis, COVID-19, etc.), special precautions should be taken to protect operating room staff.<xref ref-type="bibr" rid="article-30433.r21">[21]</xref></p>
+      </sec>
+      <sec id="article-30433.s12" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>
+<bold>Post-Tracheostomy Care</bold>
+</p>
+        <p>Tube cuffs should be monitored to maintain pressure in the 20&#x000a0;to 25 mm Hg range.<xref ref-type="bibr" rid="article-30433.r22">[22]</xref>&#x000a0;Humidification of gases is important as this will aid in preventing thick or dried-out secretions, which are more prone to cause obstruction. The head of the bed should be elevated to minimize the risk of aspiration, and oral feeding should be initially evaluated by a speech pathologist. For the first 24 hours, the lumen should be suctioned hourly. This can be extended to every four hours until the first tracheostomy tube change at 5&#x000a0;to 7 days postoperatively.</p>
+        <p>The skin sutures and any stay sutures are removed at this time as well. If patients are alert, awake, and cooperative, the caliber of the tracheostomy tube may be able to be downsized at this time. It is inadvisable to change the tracheostomy tube within the first five days of placement as the cutaneous-tracheal tract is immature and easily lost, which can result in loss of the airway. If tube changes are necessary during this time period, emergency equipment and adequate lighting similar- to the operating suite or in the operating room should be considered. Additional measures include the availability of smaller sized trach tubes, endotracheal tubes, exchange catheters, as well as possible bronchoscopic guidance.<xref ref-type="bibr" rid="article-30433.r23">[23]</xref></p>
+      </sec>
+      <sec id="article-30433.s13" sec-type="Nursing, Allied Health, and Interprofessional Team Interventions">
+        <title>Nursing, Allied Health, and Interprofessional Team Interventions</title>
+        <p>Tracheostomy is a safe, effective procedure that can be performed via an open or percutaneous technique. Indications include relief of airway obstruction, secretion management, and secure access for prolonged mechanical ventilation. The precise timing of tracheostomy remains controversial, but most centers proceed within 5 to 14 days, depending on the prognosis of the patient and the cause of initial intubation. Complications can be categorized as intraoperative, early, and late. The most devastating complication is that of a tracheoinnominate fistula. Post-operative management is best carried out by a multidisciplinary team.</p>
+      </sec>
+      <sec id="article-30433.s14">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=30433&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=30433">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/30433/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=30433">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <floats-group id="article-30433.s15">
+        <fig id="article-30433.image.f1" position="float" orientation="portrait">
+          <caption>
+            <p>Cannula for Tracheostomy. An outer cannula (top item) with an inflatable cuff (top right), an inner cannula (center item), and an obturator (bottom item). Klaus D Peter, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/2.0/">Public Domain</ext-link>, via&#x000a0;Wikimedia Commons&#x000a0;&#x000a0;</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Tracheostomy_tube__x1x" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <ref-list id="article-30433.s16">
+        <title>References</title>
+        <ref id="article-30433.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Al-Shathri</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Susanto</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <article-title>Percutaneous Tracheostomy.</article-title>
+            <source>Semin Respir Crit Care Med</source>
+            <year>2018</year>
+            <month>Dec</month>
+            <volume>39</volume>
+            <issue>6</issue>
+            <fpage>720</fpage>
+            <page-range>720-730</page-range>
+            <pub-id pub-id-type="pmid">30641590</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30433.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Alidad</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Aghaz</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Hemmati</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Jadidi</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Aghazadeh</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Prevalence of Tracheostomy and Its Indications in Iran: A Systematic Review and Meta-Analysis.</article-title>
+            <source>Tanaffos</source>
+            <year>2019</year>
+            <month>Apr</month>
+            <volume>18</volume>
+            <issue>4</issue>
+            <fpage>285</fpage>
+            <page-range>285-293</page-range>
+            <pub-id pub-id-type="pmid">32607109</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30433.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Davis</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Campbell</surname>
+                <given-names>RS</given-names>
+              </name>
+              <name>
+                <surname>Johannigman</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Valente</surname>
+                <given-names>JF</given-names>
+              </name>
+              <name>
+                <surname>Branson</surname>
+                <given-names>RD</given-names>
+              </name>
+            </person-group>
+            <article-title>Changes in respiratory mechanics after tracheostomy.</article-title>
+            <source>Arch Surg</source>
+            <year>1999</year>
+            <month>Jan</month>
+            <volume>134</volume>
+            <issue>1</issue>
+            <fpage>59</fpage>
+            <page-range>59-62</page-range>
+            <pub-id pub-id-type="pmid">9927132</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30433.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Szakmany</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Russell</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Wilkes</surname>
+                <given-names>AR</given-names>
+              </name>
+              <name>
+                <surname>Hall</surname>
+                <given-names>JE</given-names>
+              </name>
+            </person-group>
+            <article-title>Effect of early tracheostomy on resource utilization and clinical outcomes in critically ill patients: meta-analysis of randomized controlled trials.</article-title>
+            <source>Br J Anaesth</source>
+            <year>2015</year>
+            <month>Mar</month>
+            <volume>114</volume>
+            <issue>3</issue>
+            <fpage>396</fpage>
+            <page-range>396-405</page-range>
+            <pub-id pub-id-type="pmid">25534400</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30433.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Holevar</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Dunham</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Brautigan</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Clancy</surname>
+                <given-names>TV</given-names>
+              </name>
+              <name>
+                <surname>Como</surname>
+                <given-names>JJ</given-names>
+              </name>
+              <name>
+                <surname>Ebert</surname>
+                <given-names>JB</given-names>
+              </name>
+              <name>
+                <surname>Griffen</surname>
+                <given-names>MM</given-names>
+              </name>
+              <name>
+                <surname>Hoff</surname>
+                <given-names>WS</given-names>
+              </name>
+              <name>
+                <surname>Kurek</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Talbert</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Tisherman</surname>
+                <given-names>SA</given-names>
+              </name>
+            </person-group>
+            <article-title>Practice management guidelines for timing of tracheostomy: the EAST Practice Management Guidelines Work Group.</article-title>
+            <source>J Trauma</source>
+            <year>2009</year>
+            <month>Oct</month>
+            <volume>67</volume>
+            <issue>4</issue>
+            <fpage>870</fpage>
+            <page-range>870-4</page-range>
+            <pub-id pub-id-type="pmid">19820599</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30433.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Adly</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Youssef</surname>
+                <given-names>TA</given-names>
+              </name>
+              <name>
+                <surname>El-Begermy</surname>
+                <given-names>MM</given-names>
+              </name>
+              <name>
+                <surname>Younis</surname>
+                <given-names>HM</given-names>
+              </name>
+            </person-group>
+            <article-title>Timing of tracheostomy in patients with prolonged endotracheal intubation: a systematic review.</article-title>
+            <source>Eur Arch Otorhinolaryngol</source>
+            <year>2018</year>
+            <month>Mar</month>
+            <volume>275</volume>
+            <issue>3</issue>
+            <fpage>679</fpage>
+            <page-range>679-690</page-range>
+            <pub-id pub-id-type="pmid">29255970</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30433.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kim</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>HJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Successful advancement of endotracheal tube with combined fiberoptic bronchoscopy and videolaryngoscopy in a patient with a huge goiter.</article-title>
+            <source>SAGE Open Med Case Rep</source>
+            <year>2020</year>
+            <volume>8</volume>
+            <fpage>2050313X20923232</fpage>
+            <pub-id pub-id-type="pmid">32577281</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30433.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ciaglia</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Firsching</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Syniec</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Elective percutaneous dilatational tracheostomy. A new simple bedside procedure; preliminary report.</article-title>
+            <source>Chest</source>
+            <year>1985</year>
+            <month>Jun</month>
+            <volume>87</volume>
+            <issue>6</issue>
+            <fpage>715</fpage>
+            <page-range>715-9</page-range>
+            <pub-id pub-id-type="pmid">3996056</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30433.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Oliver</surname>
+                <given-names>ER</given-names>
+              </name>
+              <name>
+                <surname>Gist</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Gillespie</surname>
+                <given-names>MB</given-names>
+              </name>
+            </person-group>
+            <article-title>Percutaneous versus surgical tracheotomy: an updated meta-analysis.</article-title>
+            <source>Laryngoscope</source>
+            <year>2007</year>
+            <month>Sep</month>
+            <volume>117</volume>
+            <issue>9</issue>
+            <fpage>1570</fpage>
+            <page-range>1570-5</page-range>
+            <pub-id pub-id-type="pmid">17667139</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30433.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Porter</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Ivatury</surname>
+                <given-names>RR</given-names>
+              </name>
+            </person-group>
+            <article-title>Preferred route of tracheostomy--percutaneous versus open at the bedside: a randomized, prospective study in the surgical intensive care unit.</article-title>
+            <source>Am Surg</source>
+            <year>1999</year>
+            <month>Feb</month>
+            <volume>65</volume>
+            <issue>2</issue>
+            <fpage>142</fpage>
+            <page-range>142-6</page-range>
+            <pub-id pub-id-type="pmid">9926749</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30433.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Briche</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Le Manach</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Pats</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Complications of percutaneous tracheostomy.</article-title>
+            <source>Chest</source>
+            <year>2001</year>
+            <month>Apr</month>
+            <volume>119</volume>
+            <issue>4</issue>
+            <fpage>1282</fpage>
+            <page-range>1282-3</page-range>
+            <pub-id pub-id-type="pmid">11296203</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30433.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Toni</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Della Casa</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Mosca</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Malaguti</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Castorina</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Roti</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Anthropological variations in the anatomy of the human thyroid arteries.</article-title>
+            <source>Thyroid</source>
+            <year>2003</year>
+            <month>Feb</month>
+            <volume>13</volume>
+            <issue>2</issue>
+            <fpage>183</fpage>
+            <page-range>183-92</page-range>
+            <pub-id pub-id-type="pmid">12699593</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30433.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dion</surname>
+                <given-names>GR</given-names>
+              </name>
+              <name>
+                <surname>Pingree</surname>
+                <given-names>CS</given-names>
+              </name>
+              <name>
+                <surname>Rico</surname>
+                <given-names>PJ</given-names>
+              </name>
+              <name>
+                <surname>Christensen</surname>
+                <given-names>CL</given-names>
+              </name>
+            </person-group>
+            <article-title>Laryngeal Thermal Injury Model.</article-title>
+            <source>J Burn Care Res</source>
+            <year>2020</year>
+            <month>May</month>
+            <day>02</day>
+            <volume>41</volume>
+            <issue>3</issue>
+            <fpage>626</fpage>
+            <page-range>626-632</page-range>
+            <pub-id pub-id-type="pmid">32087018</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30433.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Raghuraman</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Rajan</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Marzouk</surname>
+                <given-names>JK</given-names>
+              </name>
+              <name>
+                <surname>Mullhi</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Smith</surname>
+                <given-names>FG</given-names>
+              </name>
+            </person-group>
+            <article-title>Is tracheal stenosis caused by percutaneous tracheostomy different from that by surgical tracheostomy?</article-title>
+            <source>Chest</source>
+            <year>2005</year>
+            <month>Mar</month>
+            <volume>127</volume>
+            <issue>3</issue>
+            <fpage>879</fpage>
+            <page-range>879-85</page-range>
+            <pub-id pub-id-type="pmid">15764771</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30433.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Macchiarini</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Verhoye</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Chapelier</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Fadel</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Dartevelle</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Evaluation and outcome of different surgical techniques for postintubation tracheoesophageal fistulas.</article-title>
+            <source>J Thorac Cardiovasc Surg</source>
+            <year>2000</year>
+            <month>Feb</month>
+            <volume>119</volume>
+            <issue>2</issue>
+            <fpage>268</fpage>
+            <page-range>268-76</page-range>
+            <pub-id pub-id-type="pmid">10649202</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30433.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>van den Bongard</surname>
+                <given-names>HJ</given-names>
+              </name>
+              <name>
+                <surname>Boot</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Baas</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Taal</surname>
+                <given-names>BG</given-names>
+              </name>
+            </person-group>
+            <article-title>The role of parallel stent insertion in patients with esophagorespiratory fistulas.</article-title>
+            <source>Gastrointest Endosc</source>
+            <year>2002</year>
+            <month>Jan</month>
+            <volume>55</volume>
+            <issue>1</issue>
+            <fpage>110</fpage>
+            <page-range>110-5</page-range>
+            <pub-id pub-id-type="pmid">11756930</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30433.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Donaldson</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Raper</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Successful emergency management of a bleeding tracheoinnominate fistula.</article-title>
+            <source>BMJ Case Rep</source>
+            <year>2019</year>
+            <month>Dec</month>
+            <day>17</day>
+            <volume>12</volume>
+            <issue>12</issue>
+            <pub-id pub-id-type="pmid">31852691</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30433.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Oshinsky</surname>
+                <given-names>AE</given-names>
+              </name>
+              <name>
+                <surname>Rubin</surname>
+                <given-names>JS</given-names>
+              </name>
+              <name>
+                <surname>Gwozdz</surname>
+                <given-names>CS</given-names>
+              </name>
+            </person-group>
+            <article-title>The anatomical basis for post-tracheotomy innominate artery rupture.</article-title>
+            <source>Laryngoscope</source>
+            <year>1988</year>
+            <month>Oct</month>
+            <volume>98</volume>
+            <issue>10</issue>
+            <fpage>1061</fpage>
+            <page-range>1061-4</page-range>
+            <pub-id pub-id-type="pmid">3050341</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30433.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sultan</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Carvalho</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Rose</surname>
+                <given-names>BO</given-names>
+              </name>
+              <name>
+                <surname>Cregg</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Endotracheal tube cuff pressure monitoring: a review of the evidence.</article-title>
+            <source>J Perioper Pract</source>
+            <year>2011</year>
+            <month>Nov</month>
+            <volume>21</volume>
+            <issue>11</issue>
+            <fpage>379</fpage>
+            <page-range>379-86</page-range>
+            <pub-id pub-id-type="pmid">22165491</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30433.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hamaguchi</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Nakajima</surname>
+                <given-names>Y</given-names>
+              </name>
+            </person-group>
+            <article-title>Two cases of tracheoinnominate artery fistula following tracheostomy treated successfully by endovascular embolization of the innominate artery.</article-title>
+            <source>J Vasc Surg</source>
+            <year>2012</year>
+            <month>Feb</month>
+            <volume>55</volume>
+            <issue>2</issue>
+            <fpage>545</fpage>
+            <page-range>545-7</page-range>
+            <pub-id pub-id-type="pmid">21958569</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30433.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yun</surname>
+                <given-names>HJ</given-names>
+              </name>
+              <name>
+                <surname>Rhee</surname>
+                <given-names>SH</given-names>
+              </name>
+              <name>
+                <surname>Park</surname>
+                <given-names>JY</given-names>
+              </name>
+              <name>
+                <surname>Chae</surname>
+                <given-names>YS</given-names>
+              </name>
+              <name>
+                <surname>Han</surname>
+                <given-names>JH</given-names>
+              </name>
+              <name>
+                <surname>Ryoo</surname>
+                <given-names>SH</given-names>
+              </name>
+              <name>
+                <surname>Seo</surname>
+                <given-names>KS</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>HJ</given-names>
+              </name>
+              <name>
+                <surname>Karm</surname>
+                <given-names>MH</given-names>
+              </name>
+            </person-group>
+            <article-title>A novel technique of submandibular intubation with a camera cable drape: a case report.</article-title>
+            <source>J Dent Anesth Pain Med</source>
+            <year>2020</year>
+            <month>Jun</month>
+            <volume>20</volume>
+            <issue>3</issue>
+            <fpage>155</fpage>
+            <page-range>155-160</page-range>
+            <pub-id pub-id-type="pmid">32617410</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30433.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>De Leyn</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Bedert</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Delcroix</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Depuydt</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Lauwers</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Sokolov</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Van Meerhaeghe</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Van Schil</surname>
+                <given-names>P</given-names>
+              </name>
+              <collab>Belgian Association of Pneumology and Belgian Association of Cardiothoracic Surgery</collab>
+            </person-group>
+            <article-title>Tracheotomy: clinical review and guidelines.</article-title>
+            <source>Eur J Cardiothorac Surg</source>
+            <year>2007</year>
+            <month>Sep</month>
+            <volume>32</volume>
+            <issue>3</issue>
+            <fpage>412</fpage>
+            <page-range>412-21</page-range>
+            <pub-id pub-id-type="pmid">17588767</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30433.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>White</surname>
+                <given-names>AC</given-names>
+              </name>
+              <name>
+                <surname>Kher</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>O'Connor</surname>
+                <given-names>HH</given-names>
+              </name>
+            </person-group>
+            <article-title>When to change a tracheostomy tube.</article-title>
+            <source>Respir Care</source>
+            <year>2010</year>
+            <month>Aug</month>
+            <volume>55</volume>
+            <issue>8</issue>
+            <fpage>1069</fpage>
+            <page-range>1069-75</page-range>
+            <pub-id pub-id-type="pmid">20667154</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

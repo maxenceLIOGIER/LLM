@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-21836" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Fluid Management</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Castera</surname>
+            <given-names>Mark R.</given-names>
+          </name>
+          <aff>University of Washington</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Borhade </surname>
+            <given-names>Mahesh B.</given-names>
+          </name>
+          <aff>Cape Fear Valley Hospital / Person Memorial Hospital</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Mark Castera declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Mahesh Borhade declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>22</day>
+          <month>10</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-21836.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Fluid management is crucial in inpatient medical settings, where each patient presents unique and individual requirements.&#x000a0;Hospitalized patients often suffer from conditions that hinder their capacity to regulate their hydration status. Improper fluid management can cause significant morbidity and mortality from volume depletion or overload. Therefore, it&#x000a0;is essential to carefully assess the specific type and quantity of fluids required for each patient.&#x000a0;Maintenance fluids address the patient's physiological needs, accounting for sensible and insensible fluid losses. This activity reviews the assessment of&#x000a0;patients' volume status, the selection of intravenous solutions, and potential complications associated with fluid management in hospitalized patients. This activity also highlights the crucial role of the interprofessional healthcare team in managing patients' volume status, optimizing patient outcomes and reducing morbidity and mortality.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Identify the indications for fluid therapy in various clinical settings and patient populations based on clinical evaluation and specific medical conditions.</p></list-item><list-item><p>Implement evidence-based fluid resuscitation and maintenance therapy guidelines for acute and critical care patients, considering their&#x000a0;unique physiological needs.</p></list-item><list-item><p>Identify potential risk factors and contraindications related to fluid management in patients.</p></list-item><list-item><p>Communicate effectively among the interprofessional&#x000a0;healthcare team, including physicians, nurses, nutritionists, and pharmacists, to optimize fluid management strategies&#x000a0;and improve patient outcomes.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=21836&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=21836">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-21836.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Fluid management is crucial in inpatient medical settings, where each patient presents unique and individual requirements.&#x000a0;Although there is no universal, one-size-fits-all formula or strict guidelines for fluid management, replenishing lost fluids when a deficit is detected is a fundamental principle applicable to all patients. Depending on the patient's medical conditions, these losses can vary in volume and composition. For instance, a patient with severe burns will encounter more substantial fluid losses than a relatively healthy patient placed on nothing by mouth (NPO) before a procedure. Similarly, a patient admitted for dehydration due to severe diarrhea may require different fluid solutions than a patient with hypovolemic shock due to a significant upper gastrointestinal bleed.</p>
+        <p>When administering intravenous (IV) fluids, it is crucial to consider their potential impact on the patient. Each fluid has a distinct composition with varying solutes, possibly leading to metabolic changes.<xref ref-type="bibr" rid="article-21836.r1">[1]</xref> For the safe use of fluids, the "Four Rights" of fluid stewardship emphasizes the importance of the right drug, right duration, right dose, and right patient.<xref ref-type="bibr" rid="article-21836.r1">[1]</xref>&#x000a0;</p>
+        <p>The 2 primary types of IV fluids include crystalloid and colloid solutions. Crystalloid solutions include normal saline, half-normal saline, and lactated Ringer solution. Colloid solutions are albumin solutions, hyperoncotic starch, dextran, and gelatin.&#x000a0;Crystalloid solutions are typically preferred as the first-line treatment, whereas&#x000a0;colloid solutions are not the recommended initial option for hypovolemia, unless it is not due to bleeding.<xref ref-type="bibr" rid="article-21836.r2">[2]</xref>&#x000a0;Occasionally, colloid solutions, such as albumin, may be considered for patients who do not respond to crystalloid solutions or when hypoalbuminemia contributes to shock. However, it is essential to avoid hypertonic starch solutions in patients with hypovolemia due to the potential risk of acute kidney injury.</p>
+        <p>Maintenance fluids address the patient's physiological needs, encompassing sensible and insensible fluid losses. Sensible losses pertain to conventional forms of excretion, such as urination and defecation, whereas insensible losses pertain to less obvious fluid expenditure, including sweating and respiratory evaporation. In addition to compensating for regular physiological losses, fluid replacement becomes necessary in cases of abnormal conditions such as vomiting, diarrhea, or extensive cutaneous burns.</p>
+        <p>Due to an increased incidence of hyponatremia, hypotonic IV fluids are not suitable for maintenance in hospitalized patients who could have complex physiological derangements, decreased urinary output, less caloric expenditure, and elevated antidiuretic hormone (ADH) levels.<xref ref-type="bibr" rid="article-21836.r3">[3]</xref>&#x000a0;Isotonic IV maintenance fluids reduce the risk of hyponatremia and are a more appropriate choice. Healthcare providers should administer fluids cautiously to avoid fluid overload, which may result in adverse patient outcomes.</p>
+      </sec>
+      <sec id="article-21836.s3" sec-type="Indications">
+        <title>Indications</title>
+        <p>The indications for fluid administration encompass resuscitation, rehydration, and maintenance. Patients needing resuscitation lack hemodynamic stability, and fluids are used to address acute volume loss or an existing intravascular depletion resulting in a deficit. Rehydration corrects an ongoing or preexisting deficit that the patient cannot rectify with oral fluids alone. Patients receiving maintenance fluids are hemodynamically stable and cannot orally meet their daily fluid and electrolyte requirements.</p>
+        <p>Oral intake is the most natural and preferred method for receiving fluids. However, many patients cannot tolerate oral intake due to an acute illness. In such situations, alternative routes, such as IV access, offer a direct means to administer fluids into the vascular system. Various methods are available to assess a patient's volume status. Clinical evaluation is often sufficient based on physical examination and vital signs. Laboratory markers serve as useful supplementary information. The National Early Warning Score (NEWS) combines clinical analysis and vital signs to aid in predicting patients who might deteriorate, develop sepsis, or require fluid administration.</p>
+        <p>The NEWS score uses the following parameters:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Respiration rate</p>
+          </list-item>
+          <list-item>
+            <p>Oxygen saturation</p>
+          </list-item>
+          <list-item>
+            <p>Systolic blood pressure</p>
+          </list-item>
+          <list-item>
+            <p>Pulse rate</p>
+          </list-item>
+          <list-item>
+            <p>Level of consciousness or new confusion</p>
+          </list-item>
+          <list-item>
+            <p>Temperature</p>
+          </list-item>
+        </list>
+        <p>A NEWS score of &#x02265;5 indicates the potential presence of hypovolemia and the need for possible fluid administration. Healthcare providers should assess the complete clinical scenario before proceeding with fluid replacement.</p>
+        <p>The list provided below delineates observations that aid healthcare providers in discerning whether a patient is experiencing fluid depletion or volume overload.<xref ref-type="bibr" rid="article-21836.r4">[4]</xref></p>
+        <p>
+<bold>Vital Signs</bold>
+</p>
+        <p><bold>Body weight</bold><bold>:</bold>&#x000a0;A patient's body weight is a highly sensitive indicator of changes in volume status. Monitoring fluctuations in a patient's body weight is valuable for assessing fluid status. However, the challenge lies in the variability of scales used in hospitals. Patients should be weighed daily on a standardized scale to monitor patterns in weight fluctuations. Weight gain may indicate fluid excess, whereas weight loss can signify fluid deficits. Examining the patient's records from recent outpatient visits before hospitalization can provide valuable information regarding the patient's typical baseline weight.<xref ref-type="bibr" rid="article-21836.r5">[5]</xref>&#x000a0;</p>
+        <p><bold>Heart rate</bold><bold>:</bold>&#x000a0;Healthcare providers should consider fluid administration when the heart rate exceeds 90 bpm. Tachycardia may indicate a compensatory physiological response to preserve perfusion in hypovolemia and can manifest as an early sign of compensated hypovolemic shock. Nonetheless, tachycardia can have various other causes, including pain, fever, and anxiety.</p>
+        <p><bold>Blood pressure</bold><bold>:&#x000a0;</bold>Healthcare providers should contemplate fluid administration when the systolic blood pressure falls below 100 mm Hg. A declining blood pressure is an ominous finding often linked with tachycardia. Hypotension and tachycardia indicate that the cardiovascular system can no longer compensate for hypovolemia effectively. Conversely, elevated blood pressure is typically associated with hypervolemia.&#x000a0;</p>
+        <p><bold>Orthostatic vital signs</bold><bold>:</bold>&#x000a0;These signs involve a reduction of at least 20 mm Hg in systolic blood pressure or 10 mm Hg in diastolic blood pressure within 2 to 5 minutes of standing quietly after 5 minutes of supine rest, which signifies the presence of orthostatic hypotension.<xref ref-type="bibr" rid="article-21836.r6">[6]</xref> These findings may be evident in dehydrated or older patients who have experienced reduced sensitivity in the baroreceptors of their blood vessels.</p>
+        <p><bold>Respiratory rate</bold><bold>:</bold>&#x000a0;Healthcare providers should contemplate fluid administration when the patient's respiratory rate exceeds 20 breaths per minute. An elevated respiratory rate suggests a compensatory response to metabolic acidosis resulting from lactic acidosis due to inadequate tissue perfusion.&#x000a0;</p>
+        <p><bold>Urine output</bold><bold>:</bold>&#x000a0;In clinical practice, healthcare providers should anticipate a minimum urine output of 1.5 mL/kg/h in children and more than 1 mL/kg/h in adults. Specific clinical scenarios may necessitate higher urine output thresholds to minimize the risk of renal toxicity, especially when administering nephrotoxic medications&#x000a0;such as&#x000a0;acyclovir.</p>
+        <p>
+<bold>Physical Examination Findings</bold>
+</p>
+        <p><bold>Capillary refill:</bold>&#x000a0;Under normal conditions, capillary refill typically occurs in under&#x000a0;2&#x000a0;seconds. A slower refill rate may suggest volume depletion. This can be easily assessed on the fingertips and toes.<xref ref-type="bibr" rid="article-21836.r7">[7]</xref></p>
+        <p><bold>Fontanelle:</bold>&#x000a0;The presence of a sunken fontanelle on an infant's skull is indicative of hypovolemia.<xref ref-type="bibr" rid="article-21836.r8">[8]</xref></p>
+        <p><bold>Edema:&#x000a0;</bold>Peripheral edema may indicate either volume overload or the third spacing of intravascular fluid.</p>
+        <p><bold>Tear production:</bold>&#x000a0;This is particularly pertinent in infants and children, making it essential to inquire about parents' observations and assess the child while in the examination room.<xref ref-type="bibr" rid="article-21836.r9">[9]</xref></p>
+        <p><bold>Peripheral pulses:</bold>&#x000a0;When evaluating peripheral pulses, examining brachial and femoral pulses in infants and radial or dorsalis pedis pulses in older patients is crucial. In cases of dehydration, the pulse will typically be fast and thready.<xref ref-type="bibr" rid="article-21836.r10">[10]</xref></p>
+        <p><bold>Skin turgor and appearance of eyes:</bold>&#x000a0;In severe cases of dehydration, one may observe flaccid or tented skin, and the eyes may appear sunken back into the orbital cavities.</p>
+        <p><bold>Tactile skin temperature:&#x000a0;</bold>Traditionally, cool and clammy skin can be a sign of hypovolemic shock attributed to peripheral vasoconstriction, especially in the hands and feet.</p>
+        <p><bold>Mucous membranes:</bold>&#x000a0;Mucous membranes may exhibit a dry, sandpaper-like texture on the oral mucosa or tongue in cases of dehydration.<xref ref-type="bibr" rid="article-21836.r11">[11]</xref></p>
+        <p><bold>Jugular vein appearance:&#x000a0;</bold>Although a distended jugular vein (JVD) can indicate volume overload, it may also be observed in a euvolemic patient with congestive heart failure who is not effectively pumping blood.<xref ref-type="bibr" rid="article-21836.r12">[12]</xref></p>
+        <p>
+<bold>Laboratory Findings</bold>
+</p>
+        <p><bold>Blood urea nitrogen/creatinine (BUN/Cr):</bold>&#x000a0;Reduced renal blood flow due to decreased intravascular volume can lead to acute kidney injury and an elevated BUN/Cr ratio.&#x000a0;</p>
+        <p><bold>Transaminases:</bold>&#x000a0;An elevation in aspartate aminotransferase or alanine aminotransferase can occur due to hepatic tissue hypoperfusion and subsequent tissue hypoxia, leading to a condition known as hepatocyte injury or shock liver.</p>
+        <p><bold>Hemoconcentration:</bold>&#x000a0;An elevated hematocrit results from a relative excess of red blood cells compared to intravascular fluid volume.</p>
+        <p><bold>Additional parameters:&#x000a0;</bold>Elevated&#x000a0;serum urea, osmolality, sodium, urine osmolality, and specific gravity can indicate dehydration. In addition, hypotension, tachycardia, an elevated respiratory rate, weight loss, oliguria, delayed capillary refill, and a NEWS score &#x02265;5 indicate potential hypovolemia. Supporting laboratory data include an elevated BUN/Cr ratio and elevated kidney and liver function tests. Hypertension, peripheral edema, pulmonary edema, and JVD may indicate possible fluid overload.</p>
+      </sec>
+      <sec id="article-21836.s4" sec-type="Equipment">
+        <title>Equipment</title>
+        <p>The IV administration of fluids is a common practice when oral intake cannot sufficiently address a fluid deficit and ongoing losses. In addition, subcutaneous, intraosseous, central venous, and enteral tube routes are other available options. Fluids are typically administered in a healthcare facility unless a specific situation necessitates community-based administration.</p>
+        <p>The equipment generally required to administer fluids effectively is listed below.</p>
+        <p>
+<bold>Primary IV Fluid Equipment</bold>
+</p>
+        <p><bold>Sterile spike:</bold>&#x000a0;This connects the tubing to the IV bag.</p>
+        <p><bold>Drip chamber:</bold>&#x000a0;This monitors the flow of IV fluids and calculates the rate of drops per minute.</p>
+        <p><bold>Backcheck valve:</bold>&#x000a0;This valve prevents the reverse flow of fluid or medication within the IV.</p>
+        <p><bold>Access ports:</bold>&#x000a0;These are utilized for administering secondary medications and IV push medications.</p>
+        <p><bold>Extension set:</bold> An extension set typically consists of 10 to 20 cm of IV tubing connected to the IV cannula. This set reduces micromovements at the IV insertion sites and protects against blood and body fluid exposure during IV tubing changes.</p>
+        <p><bold>Slide clamps:</bold>&#x000a0;They are used to open and close the infusion pump.&#x000a0;</p>
+        <p><bold>IV pole:</bold>&#x000a0;The IV pole is a common fixture in healthcare settings, providing stable and adjustable support for IV bags and tubing.</p>
+        <p>
+<bold>Placing the IV</bold>
+</p>
+        <p>When it comes to placing an IV line, a specific set of equipment and supplies is essential for ensuring proper and safe insertion, which includes nonsterile gloves, tourniquet, antiseptic solution (2% chlorhexidine in 70% isopropyl alcohol) or wipes,&#x000a0;IV needle, 2- &#x000d7; 2-inch gauze, adaptor, saline or heparin lock, saline or heparin solution, transparent dressing, and paper tape.</p>
+        <p>
+<bold>IV Fluid Solutions</bold>
+</p>
+        <p>The choice of IV fluid depends on the type of body fluid lost and any associated electrolyte or acid-base abnormalities. The most commonly used fluids in the medical settings are:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Sodium chloride (0.9%) or normal saline, with or without potassium&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Sodium chloride (0.45%) or half normal saline, with or without potassium&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Lactated Ringer solution</p>
+          </list-item>
+          <list-item>
+            <p>Dextrose (5%) in sodium chloride (0.9%), with or without potassium&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Dextrose (5%) in sodium chloride (0.45%), with or without potassium&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>Healthcare providers frequently use isotonic saline and lactated Ringer solution for both adults and children. Hypotonic solutions are typically utilized when treating hypernatremia, whereas isotonic and hypertonic solutions are chosen to manage cases of hyponatremia. Patients with hypokalemia may require potassium supplementation, while bicarbonate may be beneficial in cases of severe acidosis.</p>
+        <p>Solutions containing dextrose have shown no evidence of harm or benefit for most patients. Such solutions are suitable for children on maintenance fluids, for patients experiencing hypoglycemia and alcohol or fasting ketoacidosis,&#x000a0;as well as for those with hyperkalemia but no hyperglycemia when administered with insulin. Dextrose is not recommended for patients with uncontrolled diabetes or hypokalemia. Dextrose can trigger insulin release, which may exacerbate hypokalemia by shifting potassium into the intracellular space.</p>
+        <p>Patients with severe hypovolemia or hypovolemic shock may achieve better outcomes with lactated Ringer solution or 0.45% sodium chloride. Normal saline contains a higher chloride concentration compared to plasma, rendering it hyperchloremic. Patients may be at risk for developing hyperchloremic metabolic acidosis if significant quantities of normal saline are required for resuscitation.</p>
+        <p>
+<bold>Enteral Tubes</bold>
+</p>
+        <p>Enteral tubes come in various forms, each designed for specific clinical needs and patient conditions. They include nasogastric, orogastric, gastric, nasoduodenal, and gastrojejunal tubes.</p>
+        <p>
+<bold>Enteral Fluid Solutions</bold>
+</p>
+        <p>Enteral fluid solutions are diverse and cater to different medical requirements, ranging from clinical rehydration to sustaining infant nutrition and supplementing electrolytes in athletes. They include commercial rehydration solutions,&#x000a0;WHO rehydration solutions, breastmilk or formula, and commercially available sports drinks.</p>
+      </sec>
+      <sec id="article-21836.s5" sec-type="Preparation">
+        <title>Preparation</title>
+        <p>In the pediatric population, it is crucial to consider a child's size when determining their rate of fluid maintenance. For instance, a 3-month-old infant's fluid requirements significantly differ from those of a fully grown child aged 8 or older. In many cases, a simple calculation called the 4-2-1 rule can determine the hourly rate of fluid maintenance required for a child based on their body weight.<xref ref-type="bibr" rid="article-21836.r13">[13]</xref></p>
+        <p>The formula outlined below illustrates its application, where fluid maintenance rates are calculated based on the following criteria:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>First 10 kg: 4 mL/kg/h</p>
+          </list-item>
+          <list-item>
+            <p>Next 10 to 20 kg: 2 mL/kg/h</p>
+          </list-item>
+          <list-item>
+            <p>Any remaining weight more than 20 kg: 1 mL/kg/h</p>
+          </list-item>
+        </list>
+        <p>For example, a child whose body weight is 22 kg would have the following requirements for maintenance fluid:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>First 10 kg: 4 mL/kg/h x 10 kg = 40 mL/h</p>
+          </list-item>
+          <list-item>
+            <p>Next 10 to 20 kg: 2 mL/kg/h x 10 kg = 20 mL/h</p>
+          </list-item>
+          <list-item>
+            <p>Remaining 2 kg: 1 mL/kg/h x 2 kg = 2 mL/h</p>
+          </list-item>
+          <list-item>
+            <p>Total hourly rate: 40 + 20 + 2 = 62 mL/h</p>
+          </list-item>
+        </list>
+        <p>Another commonly used formula predicts fluid requirements over 24 hours. The following example shows an application of this formula:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>First 10 kg: 100 mL/kg/d</p>
+          </list-item>
+          <list-item>
+            <p>Next 10 to 20 kg: Additional 50 mL/kg/d</p>
+          </list-item>
+          <list-item>
+            <p>Any remaining weight more than 20 kg: Additional 20 mL/kg/d</p>
+          </list-item>
+        </list>
+        <p>For example, the maintenance fluid requirements of an adult man whose body weight is 70 kg man are calculated as follows:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>First 10 kg: 100 mL/kg/d x 10 kg = 1000 mL/d</p>
+          </list-item>
+          <list-item>
+            <p>Next 10 to 20 kg: 50 mL/kg/d x 10 kg = 500 mL/d</p>
+          </list-item>
+          <list-item>
+            <p>Remaining 50 kg: 20 mL/kg/d x 50 kg = 1000 mL/d</p>
+          </list-item>
+          <list-item>
+            <p>Total fluids per day: 1000 + 500 + 1000 = 2500 mL/d</p>
+          </list-item>
+          <list-item>
+            <p>Hourly fluid rate: 2500/24 = 104 mL/h</p>
+          </list-item>
+        </list>
+        <p>Exercising caution when applying these weight-based formulae, especially in patients who are older or suffering from obesity, is essential.<xref ref-type="bibr" rid="article-21836.r14">[14]</xref> The intricacies of selecting the appropriate tonicity and volume of fluid administration extend beyond the scope of this article. Making such choices requires clinical judgment based on the patient's initial fluid status and projections of their ongoing fluid needs.&#x000a0;</p>
+        <p>Adults with sepsis or severe hypovolemic shock should be administered 30 mL/kg of fluid in 500 mL boluses within the initial hours of treatment. In cases of severe hypovolemic shock in children without signs of fluid overload, it is recommended to administer 10 to 20 mL/kg of fluid boluses at intervals of 20 to 30 minutes, repeating 2 to 3 times. When fluid overload is evident, children should receive 5 to 10 mg/kg boluses distributed over an extended time frame.</p>
+      </sec>
+      <sec id="article-21836.s6" sec-type="Technique or Treatment">
+        <title>Technique or Treatment</title>
+        <p>Managing a patient's fluid varies according to their unique clinical condition. Whenever feasible, oral administration is the primary preference. However, in certain cases, patients may tolerate or necessitate alternative enteral methods, including the use of feeding tubes. Combination regimens that incorporate both IV and oral approaches have proven effective for patients who cannot enterally meet their total daily fluid requirements.&#x000a0;Clinicians can adjust the proportions, as required, based on the patient's ability to drink.</p>
+        <p>Assessment of vital signs, physical examinations, and supplementary laboratory data will help determine the appropriateness of each patient's fluid management strategy. Before and after administering a fluid bolus, it is crucial to evaluate the patient's vital signs, clinical response, and the presence or absence of pulmonary edema.&#x000a0;</p>
+      </sec>
+      <sec id="article-21836.s7" sec-type="Complications">
+        <title>Complications</title>
+        <p>Although fluid management is crucial for providing quality patient care, it can also lead to complications that require careful consideration and monitoring.</p>
+        <p>
+<bold>Electrolyte Derangements</bold>
+</p>
+        <p><bold>Hyponatremia: </bold>Hyponatremia requires regular monitoring of serum sodium levels, with a heightened risk associated with using hypotonic solutions. Notably, it is essential to recognize that many hospitalized patients have underlying risks, including elevated ADH release, which can result in volume retention and the exacerbation of hyponatremia.<xref ref-type="bibr" rid="article-21836.r15">[15]</xref> In patients with inappropriate ADH secretion (SIADH), isotonic fluids are the preferred choice for maintenance fluids.</p>
+        <p>The risks associated with hyponatremia encompass the possibility of cerebral edema, carrying the potential for severe neurological complications, including seizures. In the event of significant hyponatremia, it is crucial to avoid correcting the serum sodium levels too rapidly, as this could lead to severe neurological complications known as osmotic demyelination syndrome.<xref ref-type="bibr" rid="article-21836.r16">[16]</xref></p>
+        <p><bold>Hypernatremia:&#x000a0;</bold>Hypernatremia can occur due to administering hypertonic saline or incorrectly formulated hyperalimentation solutions.</p>
+        <p><bold>Hyperkalemia:</bold> Hyperkalemia can be a significant concern for patients with renal failure who receive potassium-containing solutions. In such cases, the impaired ability to effectively clear the potassium load may lead to life-threatening cardiac arrhythmias.</p>
+        <p>
+<bold>Volume Overload</bold>
+</p>
+        <p>Patients should be regularly monitored for peripheral edema, pulmonary edema, or hepatomegaly signs.<xref ref-type="bibr" rid="article-21836.r16">[16]</xref> Healthcare providers should consider the underlying cardiac dysfunction or renal failure and adjust fluid administration volumes appropriately. Sometimes, these patients may require a lower maintenance fluid rate than their body weight might initially suggest.</p>
+        <p>
+<bold>Compartment Syndrome</bold>
+</p>
+        <p>Abdominal compartment syndrome can become a complication when administering large volumes of fluids exceeding 5 L in 24 hours. Typical symptoms include oliguria, a tense abdomen, and increased airway pressure.&#x000a0;&#x000a0;</p>
+        <p>
+<bold>Metabolic Acidosis</bold>
+</p>
+        <p>Compared to the body's normal pH, normal saline is a slightly acidic solution that can potentially lead to metabolic acidosis.<xref ref-type="bibr" rid="article-21836.r17">[17]</xref>&#x000a0;Although lactated Ringer solution offers a closer approximation to the body's natural pH, the choice between lactated Ringer solution and normal saline for fluid maintenance administration is often influenced by their availability at individual hospital institutions, which is an evolving paradigm currently under discussion on a national level.</p>
+        <p>
+<bold>Other Complications</bold>
+</p>
+        <p>Additional complications associated with fluid management include hematoma, phlebitis and thrombophlebitis, air embolism, infiltration, extravascular and&#x000a0;intraarterial injections, infection, and device embolism.</p>
+      </sec>
+      <sec id="article-21836.s8" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>Maintaining an appropriate intravascular volume ensures sufficient organ perfusion and upholds electrolyte and pH balance. Fluid management can vary from a straightforward necessity, satisfying daily water and electrolyte requirements, to a complex procedure required for patients who have experienced extensive trauma, undergone surgical tissue injury, suffered burns, endured critical illness, or faced sepsis. Inadequate intravascular volume can result in shock, ischemic stroke, myocardial infarction, renal and liver injury, organ failure, and even death. Conversely, fluid overload may result in congestive heart failure, pulmonary edema, and abdominal compartment syndrome.</p>
+        <p>Careful consideration of each patient's current clinical status and relevant past medical history is essential when devising a fluid management strategy. This approach is crucial to prevent iatrogenic complications, including dehydration, volume overload, electrolyte imbalances, and pH imbalances. Furthermore, consistent monitoring of the patient's clinical status, vital signs, daily weights, and appropriate laboratory assessments, in conjunction with effective communication among healthcare team members, can help alleviate these potential problems.</p>
+      </sec>
+      <sec id="article-21836.s9" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>An interprofessional healthcare team plays a critical role in fluid management. Both hypovolemia and fluid overload are associated with significant morbidity and mortality. The primary objective is to avert irreversible shock and over-resuscitation. Collaborative discussions within the team are instrumental in optimizing the administration of fluids for hospitalized patients.<xref ref-type="bibr" rid="article-21836.r17">[17]</xref> Documenting vital signs and urinary output and conducting routine visual assessments are essential to evaluating a patient's volume status.</p>
+        <p>Recognizing the signs and symptoms of hypovolemia and fluid overload is crucial for improving patient outcomes and preventing morbidity and mortality. Timely communication and addressing any alterations in physical examination findings and abnormal laboratory results can aid in preventing further deterioration and disturbances in electrolyte and acid-base balances.</p>
+        <p>Frontline healthcare team members can evaluate patients' ability to tolerate enteral fluids and promote oral intake without contraindications. Nutritional experts and dietitians assess caloric requirements for patients. Pharmacists are critical in recommending appropriate IV fluid formulations and collaborating&#x000a0;with dietitians on total parenteral nutrition (TPN) when necessary. TPN may be needed for&#x000a0;patients who cannot consume enteral fluids. However, this approach&#x000a0;comes with challenges, including the need for central venous access and the risk of central line-associated bloodstream infections. Inadequate fluid management can result in substantial complications. Therefore, a comprehensive interprofessional approach to fluid management is crucial to maximize patient outcomes and diminish morbidity and mortality.</p>
+      </sec>
+      <sec id="article-21836.s10">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=21836&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=21836">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/21836/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=21836">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-21836.s11">
+        <title>References</title>
+        <ref id="article-21836.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yung</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Keeley</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Randomised controlled trial of intravenous maintenance fluids.</article-title>
+            <source>J Paediatr Child Health</source>
+            <year>2009</year>
+            <season>Jan-Feb</season>
+            <volume>45</volume>
+            <issue>1-2</issue>
+            <fpage>9</fpage>
+            <page-range>9-14</page-range>
+            <pub-id pub-id-type="pmid">18036144</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21836.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>McNab</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Ware</surname>
+                <given-names>RS</given-names>
+              </name>
+              <name>
+                <surname>Neville</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Choong</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Coulthard</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Duke</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Davidson</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Dorofaeff</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Isotonic versus hypotonic solutions for maintenance intravenous fluid administration in children.</article-title>
+            <source>Cochrane Database Syst Rev</source>
+            <year>2014</year>
+            <month>Dec</month>
+            <day>18</day>
+            <issue>12</issue>
+            <fpage>CD009457</fpage>
+            <pub-id pub-id-type="pmid">25519949</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21836.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cavari</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Pitfield</surname>
+                <given-names>AF</given-names>
+              </name>
+              <name>
+                <surname>Kissoon</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Intravenous maintenance fluids revisited.</article-title>
+            <source>Pediatr Emerg Care</source>
+            <year>2013</year>
+            <month>Nov</month>
+            <volume>29</volume>
+            <issue>11</issue>
+            <fpage>1225</fpage>
+            <page-range>1225-8; quiz 1229-31</page-range>
+            <pub-id pub-id-type="pmid">24196097</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21836.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Friedman</surname>
+                <given-names>JN</given-names>
+              </name>
+              <name>
+                <surname>Goldman</surname>
+                <given-names>RD</given-names>
+              </name>
+              <name>
+                <surname>Srivastava</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Parkin</surname>
+                <given-names>PC</given-names>
+              </name>
+            </person-group>
+            <article-title>Development of a clinical dehydration scale for use in children between 1 and 36 months of age.</article-title>
+            <source>J Pediatr</source>
+            <year>2004</year>
+            <month>Aug</month>
+            <volume>145</volume>
+            <issue>2</issue>
+            <fpage>201</fpage>
+            <page-range>201-7</page-range>
+            <pub-id pub-id-type="pmid">15289767</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21836.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kataoka</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Clinical significance of bilateral leg edema and added value of monitoring weight gain during follow-up of patients with established heart failure.</article-title>
+            <source>ESC Heart Fail</source>
+            <year>2015</year>
+            <month>Dec</month>
+            <volume>2</volume>
+            <issue>4</issue>
+            <fpage>106</fpage>
+            <page-range>106-115</page-range>
+            <pub-id pub-id-type="pmid">28834618</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21836.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tzur</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Izhakian</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Gorelik</surname>
+                <given-names>O</given-names>
+              </name>
+            </person-group>
+            <article-title>Orthostatic hypotension: definition, classification and evaluation.</article-title>
+            <source>Blood Press</source>
+            <year>2019</year>
+            <month>Jun</month>
+            <volume>28</volume>
+            <issue>3</issue>
+            <fpage>146</fpage>
+            <page-range>146-156</page-range>
+            <pub-id pub-id-type="pmid">30982364</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21836.r7">
+          <label>7</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>McGuire</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Gotlib</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>King</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Capillary Refill Time</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>4</month>
+            <day>23</day>
+            <pub-id pub-id-type="pmid">32491685</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21836.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Porter</surname>
+                <given-names>SC</given-names>
+              </name>
+              <name>
+                <surname>Fleisher</surname>
+                <given-names>GR</given-names>
+              </name>
+              <name>
+                <surname>Kohane</surname>
+                <given-names>IS</given-names>
+              </name>
+              <name>
+                <surname>Mandl</surname>
+                <given-names>KD</given-names>
+              </name>
+            </person-group>
+            <article-title>The value of parental report for diagnosis and management of dehydration in the emergency department.</article-title>
+            <source>Ann Emerg Med</source>
+            <year>2003</year>
+            <month>Feb</month>
+            <volume>41</volume>
+            <issue>2</issue>
+            <fpage>196</fpage>
+            <page-range>196-205</page-range>
+            <pub-id pub-id-type="pmid">12548269</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21836.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Canavan</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Arant</surname>
+                <given-names>BS</given-names>
+              </name>
+            </person-group>
+            <article-title>Diagnosis and management of dehydration in children.</article-title>
+            <source>Am Fam Physician</source>
+            <year>2009</year>
+            <month>Oct</month>
+            <day>01</day>
+            <volume>80</volume>
+            <issue>7</issue>
+            <fpage>692</fpage>
+            <page-range>692-6</page-range>
+            <pub-id pub-id-type="pmid">19817339</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21836.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Rushing</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Assessing for dehydration in adults.</article-title>
+            <source>Nursing</source>
+            <year>2009</year>
+            <month>Apr</month>
+            <volume>39</volume>
+            <issue>4</issue>
+            <fpage>14</fpage>
+            <pub-id pub-id-type="pmid">19365211</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21836.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Armstrong</surname>
+                <given-names>LE</given-names>
+              </name>
+              <name>
+                <surname>Kavouras</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>Walsh</surname>
+                <given-names>NP</given-names>
+              </name>
+              <name>
+                <surname>Roberts</surname>
+                <given-names>WO</given-names>
+              </name>
+            </person-group>
+            <article-title>Diagnosing dehydration? Blend evidence with clinical observations.</article-title>
+            <source>Curr Opin Clin Nutr Metab Care</source>
+            <year>2016</year>
+            <month>Nov</month>
+            <volume>19</volume>
+            <issue>6</issue>
+            <fpage>434</fpage>
+            <page-range>434-438</page-range>
+            <pub-id pub-id-type="pmid">27583707</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21836.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Claure-Del Granado</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Mehta</surname>
+                <given-names>RL</given-names>
+              </name>
+            </person-group>
+            <article-title>Fluid overload in the ICU: evaluation and management.</article-title>
+            <source>BMC Nephrol</source>
+            <year>2016</year>
+            <month>Aug</month>
+            <day>02</day>
+            <volume>17</volume>
+            <issue>1</issue>
+            <fpage>109</fpage>
+            <pub-id pub-id-type="pmid">27484681</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21836.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chesney</surname>
+                <given-names>CR</given-names>
+              </name>
+            </person-group>
+            <article-title>The maintenance need for water in parenteral fluid therapy, by Malcolm A. Holliday, MD, and William E. Segar, MD, Pediatrics, 1957;19:823-832.</article-title>
+            <source>Pediatrics</source>
+            <year>1998</year>
+            <month>Jul</month>
+            <volume>102</volume>
+            <issue>1 Pt 2</issue>
+            <fpage>229</fpage>
+            <page-range>229-30</page-range>
+            <pub-id pub-id-type="pmid">9651436</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21836.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shafiee</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Bohn</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Hoorn</surname>
+                <given-names>EJ</given-names>
+              </name>
+              <name>
+                <surname>Halperin</surname>
+                <given-names>ML</given-names>
+              </name>
+            </person-group>
+            <article-title>How to select optimal maintenance intravenous fluid therapy.</article-title>
+            <source>QJM</source>
+            <year>2003</year>
+            <month>Aug</month>
+            <volume>96</volume>
+            <issue>8</issue>
+            <fpage>601</fpage>
+            <page-range>601-10</page-range>
+            <pub-id pub-id-type="pmid">12897346</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21836.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Miller</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Syndromes of excess antidiuretic hormone release.</article-title>
+            <source>Crit Care Clin</source>
+            <year>2001</year>
+            <month>Jan</month>
+            <volume>17</volume>
+            <issue>1</issue>
+            <fpage>11</fpage>
+            <page-range>11-23, v</page-range>
+            <pub-id pub-id-type="pmid">11219224</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21836.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Norenberg</surname>
+                <given-names>MD</given-names>
+              </name>
+            </person-group>
+            <article-title>Central pontine myelinolysis: historical and mechanistic considerations.</article-title>
+            <source>Metab Brain Dis</source>
+            <year>2010</year>
+            <month>Mar</month>
+            <volume>25</volume>
+            <issue>1</issue>
+            <fpage>97</fpage>
+            <page-range>97-106</page-range>
+            <pub-id pub-id-type="pmid">20182780</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21836.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kraut</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Madias</surname>
+                <given-names>NE</given-names>
+              </name>
+            </person-group>
+            <article-title>Treatment of acute metabolic acidosis: a pathophysiologic approach.</article-title>
+            <source>Nat Rev Nephrol</source>
+            <year>2012</year>
+            <month>Oct</month>
+            <volume>8</volume>
+            <issue>10</issue>
+            <fpage>589</fpage>
+            <page-range>589-601</page-range>
+            <pub-id pub-id-type="pmid">22945490</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

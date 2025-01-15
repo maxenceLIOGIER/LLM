@@ -1,0 +1,2703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-21320" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Escherichia coli Infection</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Mueller</surname>
+            <given-names>Matthew</given-names>
+          </name>
+          <aff>University of California San Diego</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Tainter</surname>
+            <given-names>Christopher R.</given-names>
+          </name>
+          <aff>Guam Regional Medical City in Dededo, Guam</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Matthew Mueller declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Christopher Tainter declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>13</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-21320.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Escherichia coli (E. coli) is a gram-negative bacillus that is a causative organism of many diarrheal illnesses, including traveler&#x02019;s diarrhea and dysentery. E. coli is the most common pathogen leading to uncomplicated cystitis, and also results in other extraintestinal illnesses, including pneumonia, bacteremia, and abdominal infections such as spontaneous bacterial peritonitis. Illness caused by E. coli have a significant burden on patients and the healthcare system, so prompt recognition, and appropriate treatment are necessary. This activity reviews the different E. coli strains that cause human illness and describes how to identify and treat these illnesses and highlights the role of the interprofessional team in the care of patients with this condition.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Identify the etiology of illnesses caused by Escherichia coli.</p></list-item><list-item><p>Review the appropriate evaluation process for Escherichia coli infection.</p></list-item><list-item><p>Outline the management options available for illnesses caused by Escherichia coli.</p></list-item><list-item><p>Summarize the importance of collaboration amongst the interprofessional team to enhance the care of patients with Escherichia coli infection.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=21320&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=21320">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-21320.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p><italic toggle="yes">Escherichia coli</italic> (<italic toggle="yes">E. coli</italic>) is a gram-negative bacillus known to be a part of normal intestinal flora but can also be the cause of intestinal and extraintestinal illness in humans. There are hundreds of identified <italic toggle="yes">E. coli</italic> strains, resulting in a spectrum of disease from mild, self-limited gastroenteritis to renal failure and septic shock. Its virulence lends to <italic toggle="yes">E. coli&#x02019;s</italic> ability to evade host defenses and develop resistance to common antibiotics. This review will divide <italic toggle="yes">E. coli</italic> infections into those causing intestinal illness and those causing extraintestinal illness.</p>
+        <p>Intestinal illnesses will be described by the causative <italic toggle="yes">E. coli</italic> subtypes, including enterotoxigenic Escherichia coli (ETEC), enterohemorrhagic Escherichia coli (EHEC), which is also known as Shiga toxin-producing Escherichia coli (STEC) and will be referred to as EHEC/STEC, enteroinvasive Escherichia coli (EIEC), enteropathogenic Escherichia coli (EPEC), and enteroaggregative Escherichia coli (EAEC).<xref ref-type="bibr" rid="article-21320.r1">[1]</xref> Extraintestinal illnesses will be described based on clinical disease.</p>
+      </sec>
+      <sec id="article-21320.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p><italic toggle="yes">E. coli</italic> is part of commensal intestinal flora and is also found on the floors of hospitals and long-term care facilities. <italic toggle="yes">E. coli</italic> is the most common gram-negative bacteria in the human gastrointestinal tract and lacks virulence in this setting. However, when found outside of the intestinal tract, <italic toggle="yes">E. coli</italic> can cause urinary tract infections (UTI), pneumonia, bacteremia, and peritonitis, among others.<xref ref-type="bibr" rid="article-21320.r2">[2]</xref><xref ref-type="bibr" rid="article-21320.r3">[3]</xref><xref ref-type="bibr" rid="article-21320.r4">[4]</xref>&#x000a0;</p>
+        <p><italic toggle="yes">E. coli</italic> is a major cause of nosocomial infections, including catheter-associated UTIs and ventilator-associated pneumonia (VAP).<xref ref-type="bibr" rid="article-21320.r5">[5]</xref>&#x000a0;<italic toggle="yes">E. coli</italic> can also be found in soil, on vegetables, and in water, as well as&#x000a0;in undercooked meats. Pathogenic strains cause intestinal illness in humans when ingested.</p>
+      </sec>
+      <sec id="article-21320.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p><italic toggle="yes">Escherichia coli</italic> results in intestinal illness as well as infection outside of the intestine. Intestinal illness caused by <italic toggle="yes">E. coli&#x000a0;</italic>is caused by one of five&#x000a0;subtypes, and they are&#x000a0;identified according to their O and H antigens. The O antigen is determined by a repeating polysaccharide chain present in the lipopolysaccharide (LPS) outer membrane, and the flagellum determines the H antigen.<xref ref-type="bibr" rid="article-21320.r1">[1]</xref></p>
+        <list list-type="bullet">
+          <list-item>
+            <p>ETEC causes watery diarrhea in resource-limited settings and is commonly found in food and water in areas without adequate sanitation.&#x000a0;Approximately&#x000a0;100,000,000 organisms&#x000a0;must be ingested to cause illness in a healthy person. It is the single most important organism causing traveler&#x02019;s diarrhea. ETEC is also a significant contributor to dehydrating diarrheal illness in infants and children in resource-limited settings.<xref ref-type="bibr" rid="article-21320.r6">[6]</xref></p>
+          </list-item>
+          <list-item>
+            <p>EPEC was the first <italic toggle="yes">E. coli</italic> pathotype identified as a causative agent of watery diarrhea primarily in infants and young children in resource-limited settings and is responsible for sporadic and epidemic outbreaks.<xref ref-type="bibr" rid="article-21320.r7">[7]</xref>&#x000a0;Diarrheal illness caused by EPEC is most commonly contracted through ingestion but can also be spread person-to-person.<xref ref-type="bibr" rid="article-21320.r8">[8]</xref></p>
+          </list-item>
+          <list-item>
+            <p>EAEC is a causative organism of acute and chronic watery diarrhea in resource-limited and resource-rich regions and recently has been increasingly identified as a cause of traveler&#x02019;s diarrhea.<xref ref-type="bibr" rid="article-21320.r9">[9]</xref><xref ref-type="bibr" rid="article-21320.r10">[10]</xref></p>
+          </list-item>
+          <list-item>
+            <p>EHEC/STEC produces Shiga-toxin and&#x000a0;includes serotypes O157:H7, as well as others.<xref ref-type="bibr" rid="article-21320.r11">[11]</xref><xref ref-type="bibr" rid="article-21320.r12">[12]</xref><xref ref-type="bibr" rid="article-21320.r13">[13]</xref>&#x000a0;EHEC/STEC has been responsible for large diarrheal outbreaks after ingesting contaminated produce (e.g., spinach, sprouts, lettuce, fruit) and undercooked beef. EHEC/STEC is linked to the consumption of raw dairy products. EHEC/STEC is commonly found in ground beef, which can be contaminated during processing. Vegetables are contaminated when crops are fertilized with manure containing EHEC/STEC, and water runoff from these crops leads to EHEC/STEC found in water systems. Relatively low inoculums (102 CFU) result in illness, facilitating the ease of transmission from the environment to humans and humans to humans.<xref ref-type="bibr" rid="article-21320.r14">[14]</xref><xref ref-type="bibr" rid="article-21320.r15">[15]</xref>&#x000a0;The World Health Organization reports there are roughly 2.8 million cases of EHEC/STEC infections globally as of 2014.<xref ref-type="bibr" rid="article-21320.r16">[16]</xref>&#x000a0;According to the CDC, there were reportedly 3,127 cases in the United States in 2019.<xref ref-type="bibr" rid="article-21320.r17">[17]</xref>&#x000a0;While the number of reported cases of O157:H7 declined in the United States in 2019, the number of non-O157:H7 EHEC/STEC cases rose by 35% compared to the previous year. This is likely due to more readily available PCR-based assays to identify organisms that allow laboratories to distinguish <italic toggle="yes">E. coli</italic> O157:H7 from non-O157:H7 strains. EHEC/STEC infections are common across all age groups, but hemolytic uremic syndrome (HUS) resulting from EHEC/STEC infections is most common in children less than five years old and adults greater than 60 years old.</p>
+          </list-item>
+          <list-item>
+            <p>EIEC-induced diarrheal illness is uncommon due in part to the relatively large inoculum required, although recent studies&#x000a0;suggest&#x000a0;EIEC-induced diarrhea may be underdiagnosed. EIEC is closely related to <italic toggle="yes">Shigella</italic> and is contracted through ingesting undercooked meats and contaminated vegetables.<xref ref-type="bibr" rid="article-21320.r18">[18]</xref></p>
+          </list-item>
+        </list>
+        <p>Extraintestinal illness caused by <italic toggle="yes">E. coli</italic> results from a translocation of gut bacteria into other parts of the body or the environmental spread in hospitals and long term care facilities. <italic toggle="yes">E. coli</italic> is the predominant gram-negative bacteria to cause extraintestinal illness in humans and can cause urinary tract infection, abdominal and pelvic infection, pneumonia, bacteremia, and meningitis, among others.</p>
+      </sec>
+      <sec id="article-21320.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>Intestinal illness caused by <italic toggle="yes">E. coli</italic> results from the ingestion of bacteria and the innate ability of <italic toggle="yes">E. coli</italic>&#x000a0;to overcome host defenses. Gram-negative bacteria are characterized by their cell envelope, which comprises an inner cytoplasmic cell membrane, peptidoglycan cell wall, and outer membrane. The outer membrane is made of a lipid bilayer, associated proteins, and lipopolysaccharide (LPS), resulting in a toxic reaction if lysed. Pathogenic <italic toggle="yes">E. coli</italic> strains each has distinctive virulence factors encoded on plasmids, transposons, and bacteriophages.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>ETEC: Colonizing fimbriae expressed by ETEC enable the bacteria to attach to the intestinal wall. Once connected, ETEC expresses a heat-labile toxin (LT) and/or heat-stable toxin (ST), which are secretory toxins encoded on plasmids.<xref ref-type="bibr" rid="article-21320.r19">[19]</xref>&#x000a0;LT stimulates adenylate cyclase leading to increased intracellular cyclic adenosine monophosphate (cAMP) and the subsequent chloride secretion from intestinal crypt cells. This mechanism also inhibits intestinal villi from absorbing sodium chloride. This process leads to free water secretion into the intestinal lumen, thus producing watery diarrhea. ST stimulates guanylate cyclase leading to increased intracellular cyclic guanosine monophosphate (cGMP) and the subsequent chloride secretion and inhibition of sodium chloride absorption, thus producing watery diarrhea.</p>
+          </list-item>
+          <list-item>
+            <p>EPEC: A bundle-forming pilus (BFP) is encoded by the plasmid (pEAF), enabling EPEC to form a localized attachment to enterocytes in the small intestine. Once bound, the outer membrane protein colonization factor, intimin, facilitates enhanced adherence. Intimin is an outer membrane protein colonization factor encoded on the eae gene within the locus of enterocyte effacement (LEE) chromosomal island. The LEE chromosomal island elaborates approximately 20 secretory toxins that are injected in the enterocyte by a type III injectisome.<xref ref-type="bibr" rid="article-21320.r20">[20]</xref><xref ref-type="bibr" rid="article-21320.r21">[21]</xref>&#x000a0;These toxins result in a series of events, ultimately leading to the characteristic effacement of microvilli, increased permeability of tight junctions, and alterations in water and electrolyte secretion and absorption. EspF is a LEE-secreted protein that is not involved with attaching and effacing. It appears to disrupt the intestinal barrier function by increasing monolayer permeability via alteration of electrical resistance. EspF has several protein-protein interaction domains that may function by interacting with endocytic regulation. Two other secreted proteins, EspG and EspG2, inhibit luminal membrane chloride absorption by decreasing surface expression of the Cl-/OH-exchanger via disruption of microtubules.</p>
+          </list-item>
+          <list-item>
+            <p>EAEC: EAEC exhibits a stacked brick pattern of adherence to epithelial cells. The virulence plasmid encodes the transcriptional activator AggR which activates several virulence factors, although scientific understanding of this process is not complete.<xref ref-type="bibr" rid="article-21320.r22">[22]</xref>&#x000a0;AggR likely induces aggregative adherence fimbriae (AAF/I-III), adhesin, surface protein dispersin, and the enterotoxins Pet, EAST-1, ShET1, and ShET2. Dispersin likely promotes AAF-mediated colonization.<xref ref-type="bibr" rid="article-21320.r23">[23]</xref></p>
+          </list-item>
+          <list-item>
+            <p>EHEC/STEC: EHEC/STEC produces bloody diarrhea due to its ability to express Shiga toxin 1 (Stx1) and or Shiga toxin 2 (Stx2).<xref ref-type="bibr" rid="article-21320.r24">[24]</xref><xref ref-type="bibr" rid="article-21320.r25">[25]</xref>&#x000a0;Stx1 and Stx2 are closely related to Shiga toxin (Stx) produced by <italic toggle="yes">Shigella dysenteriae</italic>. EHEC/STEC, which expresses Stx2, results in bloody diarrhea and may also express Stx1, while bacteria that do not express Stx2 do not induce bloody diarrhea. The Stxs are a group of bacterial AB protein toxins composed of one A subunit and five identical B subunits capable of inhibiting protein synthesis through their ability to target eukaryotic ribosomes. The A subunit is responsible for inhibiting protein synthesis while the B pentamer binds glycosphingolipid Gb3, a cellular receptor on endothelial cells. The inhibition of protein synthesis results in enterocyte cell death and subsequent inflammatory colitis. The EHEC/STEC genome also encodes intimin, which is its primary adhesin, and EHEC/STEC possesses a plasmid (pO157) that expresses a pore-forming toxin termed EHEC-hemolysin.<xref ref-type="bibr" rid="article-21320.r26">[26]</xref><xref ref-type="bibr" rid="article-21320.r27">[27]</xref>&#x000a0;Once EHEC/STEC attach and produce localized intestinal damage, the Stx toxins enter the host and travel to target organ epithelial cells. Glomerular epithelial cells undergo similar damage as enterocytes, and as a result of cell death, detach from the glomerular membrane. This inflammatory state results in thrombosis and activation of the coagulation cascade yielding subsequent thrombocytopenia, anemia, and renal damage, the HUS triad. EHEC/STEC is also known for its ability to induce hemolytic uremic syndrome (HUS). HUS is characterized by the triad of microangiopathic hemolytic anemia (MAHA), thrombocytopenia, and renal insufficiency.</p>
+          </list-item>
+          <list-item>
+            <p>EIEC: Like EHEC, enterotoxins induce secretory diarrhea. Subsequent colonization and invasion of colonic mucosa, replication, cell-to-cell spread result in inflammatory colitis.<xref ref-type="bibr" rid="article-21320.r18">[18]</xref></p>
+          </list-item>
+        </list>
+        <p>Extraintestinal infections caused by <italic toggle="yes">E. coli</italic> are generally the result of the translocation of commensal <italic toggle="yes">E. coli&#x000a0;</italic>outside of the intestine. The urinary tract is the most common extraintestinal site of infection caused by <italic toggle="yes">E. coli</italic>. UTIs are a significant reason for ambulatory care visits in the US and is the second most common cause of hospitalization&#x000a0;after pneumonia.<xref ref-type="bibr" rid="article-21320.r28">[28]</xref><xref ref-type="bibr" rid="article-21320.r29">[29]</xref>&#x000a0;Urinary tract infections from <italic toggle="yes">E. coli</italic> result from bacteria ascending the urethra and are more common in women than men, given the proximity of the urethra. Community-acquired pneumonia (CAP) caused by <italic toggle="yes">E. coli</italic> is common, but ventilator-associated pneumonia (VAP) is more common.<xref ref-type="bibr" rid="article-21320.r30">[30]</xref>&#x000a0;Hospitalized patients, particularly those on mechanical ventilation, are at an increased risk of aspirating gastric contents. <italic toggle="yes">E. coli</italic> bacteremia is often the result of a primary <italic toggle="yes">E. coli</italic> infection at another site. Community-acquired <italic toggle="yes">E. coli</italic>&#x000a0;bacteremia is most frequently the result of urinary tract infections in older adults, while hospitalized patients likely develop bacteremia as a result of lower respiratory tract infection.</p>
+      </sec>
+      <sec id="article-21320.s6" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>An in-depth history and physical exam are important in establishing the diagnosis of <italic toggle="yes">E. coli</italic> infection. Symptom onset, duration, and severity, as well as any alleviating and aggravating factors, including any over-the-counter medications trialed, may help distinguish it from other intestinal illnesses. It is especially important to distinguish between watery and bloody diarrhea and to ask about recent travel and diet history, which may provide clues to suggest <italic toggle="yes">E. coli</italic> as the etiology of illness. ETEC is the most common bacterial cause of traveler's diarrhea, and management relies on high clinical suspicion. Symptoms usually start more than 16 hours after the ingestion of contaminated food, whereas diarrheal illness caused by organisms&#x000a0;other than <italic toggle="yes">E. coli</italic> may&#x000a0;have onset much more rapidly. If a patient presents with an extraintestinal manifestation of <italic toggle="yes">E. coli,</italic>&#x000a0;it's essential to ask about prior infections and assess for the risk of drug-resistant organisms. When a patient presents with symptoms consistent with cystitis, it's also important to know about indwelling instrumentation, such as&#x000a0;ureteral stents or&#x000a0;Foley catheters.&#x000a0;</p>
+        <p>The physical exam allows health practitioners to assess the severity of illness.&#x000a0;Patients presenting with vital signs suggestive of systemic disease should be cared for in an appropriate setting, such as a hospital-based emergency department or in-patient ward where comprehensive care can be provided. All patients should be assessed for clinical signs of dehydration by evaluating mucous membranes and skin turgor. Clinicians should auscultate the heart and lungs in all patients suspected of disease caused by&#x000a0;<italic toggle="yes">E. coli.&#x000a0;</italic>Finally, a focused exam should support the patient-provided history that may yield additional findings to guide patient care. Patients presenting with intestinal and genitourinary symptoms should have a thorough abdominal exam performed,&#x000a0;whereas patients suspected of having sepsis caused by&#x000a0;<italic toggle="yes">E. coli&#x000a0;</italic>should undergo a comprehensive physical exam.</p>
+      </sec>
+      <sec id="article-21320.s7" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>Routine laboratory evaluation is not generally required in well-appearing patients with diarrheal illness as the disease&#x000a0;is often self-limiting. However, they may support clinical suspicion and guide treatment in patients with concerning signs or symptoms suggesting systemic illness. Patients with suspected EHEC/STEC infection should have a baseline complete blood count (CBC) and a basic metabolic panel (BMP) obtained. Obtain stool cultures in patients with prolonged diarrheal illness, in patients with systemic signs or symptoms, and those with dysentery.<xref ref-type="bibr" rid="article-21320.r31">[31]</xref> Pathogenic <italic toggle="yes">E. coli</italic> are not distinguishable from one another based solely on appearance; therefore, further biochemical tests are necessary.</p>
+        <p><italic toggle="yes">E. coli&#x000a0;</italic>are non-spore-forming, flagellated, and facultatively anaerobic<italic toggle="yes">.&#x000a0;</italic>They&#x000a0;have the inherent ability to ferment lactose and produce indole, and before PCR-based assays, <italic toggle="yes">E. coli</italic> were identified via selective culture media.<xref ref-type="bibr" rid="article-21320.r1">[1]</xref>&#x000a0;<italic toggle="yes">E. coli</italic>&#x000a0;are classically grown on MacConkey agar, culture media containing lactose. <italic toggle="yes">E. coli</italic> also produces indole during metabolism, and bacterial growth on MacConkey agar with indole production is diagnostic for <italic toggle="yes">E. coli</italic>. EHEC/STEC can also ferment sorbitol. Therefore, to further distinguish EHEC/STEC from other <italic toggle="yes">E. coli</italic> strains, bacteria are grown on sorbitol-containing media. Interestingly, non-O157:H7 EHEC strains that do not ferment sorbitol have recently been identified by PCR. As PCR-based assays become more readily available, these strains will continue to be more frequently identified. All patients with inflammatory diarrhea acquired outside of the United States should have stool cultured for <italic toggle="yes">E. coli</italic>, as well as <italic toggle="yes">Salmonella</italic>, <italic toggle="yes">Shigella</italic>, and <italic toggle="yes">Campylobacter</italic>.</p>
+        <p>While molecular diagnosis is not required in mild illness, specific pathogens can be identified via PCR-based assays. ETEC is distinguished by the identification of LT and ST genes.&#x000a0;EPEC is identified by the detection of the pEAF plasmid or its encoded BFP factor. EAEC is identified through the detection of the AggR regulon. EHEC/STEC is identified through the nucleic acid amplification test (NAAT) of Shiga toxin 1 (Stx1) and Shiga toxin 2 (Stx2).<xref ref-type="bibr" rid="article-21320.r32">[32]</xref>&#x000a0;EIEC can be detected via NAAT. Many EIEC strains are identified by the presence of the lacY gene, which encodes lactose permease.</p>
+        <p>Summary</p>
+        <list list-type="bullet">
+          <list-item>
+            <p><italic toggle="yes">E. coli</italic>
+<list list-type="bullet"><list-item><p>Gram-negative bacilli, non-spore-forming, flagellated, facultatively anaerobic</p></list-item><list-item><p>Ferments lactose (grows on MacConkey agar)</p></list-item><list-item><p>Catalase positive</p></list-item><list-item><p>Oxidase negative</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>&#x000a0;ETEC
+<list list-type="bullet"><list-item><p>Culture: MacConkey agar, indole producing</p></list-item><list-item><p>Molecular diagnosis: LT or ST genes</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>EHEC/STEC
+<list list-type="bullet"><list-item><p>Culture
+<list list-type="bullet"><list-item><p>O157:H7: Sorbitol-MacConkey agar, indole producing</p></list-item><list-item><p>Non-0157:H7: MacConkey agar</p></list-item></list>
+</p></list-item><list-item><p>Molecular diagnosis: NAAT of Stx1 and Stx2</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>EIEC
+<list list-type="bullet"><list-item><p>Culture: MacConkey agar (glucose and xylose), indole producing</p></list-item><list-item><p>Molecular: NAAT of lacY</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>EPEC
+<list list-type="bullet"><list-item><p>Culture: MacConkey agar, indole producing</p></list-item><list-item><p>Molecular diagnosis: pEAF plasmid or BFP factor</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>EAEC
+<list list-type="bullet"><list-item><p>Culture: MacConkey agar, indole producing</p></list-item><list-item><p>Molecular diagnosis: AggR regulon</p></list-item></list>
+</p>
+          </list-item>
+        </list>
+        <p>For patients with extraintestinal illness, culturing blood, urine, or sputum will identify <italic toggle="yes">E. coli</italic>. Many gram-negative bacilli have developed antibiotic resistance genes, and <italic toggle="yes">E. coli</italic> is no exception. Extended-spectrum beta-lactamase (ESBL) -producing <italic toggle="yes">E. coli</italic> confer resistance to most beta-lactamase antibiotics (e.g., cephalosporins, monobactams, etc.). In contrast, carbapenemase-producing <italic toggle="yes">E. coli</italic>&#x000a0;strains possess genes conferring resistance to carbapenems (e.g., imipenem, ertapenem, and meropenem).</p>
+      </sec>
+      <sec id="article-21320.s8" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>Treatment is dependent on the strain, as well as the illness. Care of the patient with an intestinal disease caused by <italic toggle="yes">E. coli</italic> begins with symptomatic management.<xref ref-type="bibr" rid="article-21320.r31">[31]</xref><xref ref-type="bibr" rid="article-21320.r33">[33]</xref>&#x000a0;Diarrheal illness can be extremely distressing for patients. Experts recommend rehydration and antidiarrheals as the mainstays of treatment for mild disease. Oral rehydration is recommended first-line therapy for all patients with diarrheal illness when tolerated and is equally efficacious as compared to intravenous hydration (IV).&#x000a0;IV hydration is recommended when patients cannot tolerate oral intake. Distressing symptoms are treated with antimotility agents such as bismuth-subsalicylate and loperamide.&#x000a0;</p>
+        <p>Antibiotics are not recommended as first-line treatment for diarrheal illness caused by&#x000a0;<italic toggle="yes">E. coli</italic>&#x000a0;for most patients due to the harmful side effects and association with antibiotic resistance. For patients with severe disease (e.g., more than six stools per day, fever, dehydration necessitating hospitalization, diarrhea lasting more than seven days, or bloody diarrhea), antibiotics may be reasonable. Rifaximin, azithromycin, and ciprofloxacin are currently recommended by the Infectious Diseases Society of America (IDSA) and the International Society of Travel Medicine (ISTM) to treat&#x000a0;<italic toggle="yes">E. coli</italic> diarrheal illness. For patients suspected of having EHEC/STEC, antibiotics are not recommended, especially in children and older adults, due to the increased risk of hemolytic uremic syndrome.</p>
+        <p>
+<bold>Summary of Treatment</bold>
+</p>
+        <p>
+<bold>Watery Diarrhea</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Rehydration
+<list list-type="bullet"><list-item><p>Oral fluids, if tolerated</p></list-item><list-item><p>IV fluids if oral fluids not tolerated</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Antimotility agents
+<list list-type="bullet"><list-item><p>Bismuth salicylate
+<list list-type="bullet"><list-item><p>Adults: 524 mg every 30 min for up to 8 doses</p></list-item><list-item><p>Children
+<list list-type="bullet"><list-item><p>12-18 years: 524 mg every 30 min up to 8 doses</p></list-item><list-item><p>&#x0003c;12 years: limited data available</p></list-item></list>
+</p></list-item></list>
+</p></list-item><list-item><p>Loperamide:
+<list list-type="bullet"><list-item><p>4 mg, then 2 mg following each unformed stool.</p></list-item><list-item><p>Max dose 16 mg per day (prescription), 8 mg (OTC).</p></list-item><list-item><p>Duration: no more than two days</p></list-item><list-item><p>Children: Not recommended for infectious diarrhea</p></list-item></list>
+</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Antibiotics
+<list list-type="bullet"><list-item><p>May be prescribed when &#x0003e;2 unformed stools per day</p></list-item><list-item><p>Adults
+<list list-type="bullet"><list-item><p>Fluoroquinolones
+<list list-type="bullet"><list-item><p>Ciprofloxacin: 750 mg once; or 500 mg BID for three days</p></list-item><list-item><p>Levofloxacin: 500 mg once; or 500 mg daily for three days</p></list-item></list>
+</p></list-item><list-item><p>Azithromycin: 1,000 mg once; or 500 mg daily for three days</p></list-item><list-item><p>Rifaximin: 400 mg BID or 200 mg TID for three days</p></list-item></list>
+</p></list-item><list-item><p>Children
+<list list-type="bullet"><list-item><p>Azithromycin: 10 mg/kg on day 1, 5 mg/kg on days 2 and 3</p></list-item></list>
+</p></list-item></list>
+</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Bloody Diarrhea</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Rehydration
+<list list-type="bullet"><list-item><p>Oral fluids, if tolerated</p></list-item><list-item><p>IV fluids if oral fluids not tolerated or clinically indicated&#x000a0;</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Antimotility agents
+<list list-type="bullet"><list-item><p>Not recommended for patients with dysentery as these may prolong illness</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Antibiotics
+<list list-type="bullet"><list-item><p>Not recommended for patients with presumed EHEC/STEC</p></list-item><list-item><p>Adults
+<list list-type="bullet"><list-item><p>Fluoroquinolones
+<list list-type="bullet"><list-item><p>Ciprofloxacin: 750 mg once; or 500 mg BID for three days</p></list-item><list-item><p>Levofloxacin: 500 mg once; or 500 mg daily for three days</p></list-item></list>
+</p></list-item><list-item><p>Azithromycin: 1,000 mg once; or 500 mg daily for three days</p></list-item><list-item><p>Rifaximin: 400 mg BID or 200 mg TID for three days</p></list-item></list>
+</p></list-item><list-item><p>Children
+<list list-type="bullet"><list-item><p>Azithromycin: 10 mg/kg on day 1, 5 mg/kg on days 2 and 3</p></list-item></list>
+</p></list-item></list>
+</p>
+          </list-item>
+        </list>
+        <p>
+<bold>EHEC/STEC</bold>
+</p>
+        <p>Patients identified as having EHEC/STEC, particularly children less than 12 years of age, should be hospitalized. Hospitalization reduces the risk of community spread and allows for aggressive therapy and close monitoring.<xref ref-type="bibr" rid="article-21320.r34">[34]</xref> Hospitalized patients should receive intravenous hydration with isotonic fluids (0.9% NaCl or Lactated Ringer's).<xref ref-type="bibr" rid="article-21320.r35">[35]</xref>&#x000a0;Antibiotics, as previously mentioned, are not routinely recommended for patients with confirmed EHEC/STEC infections due to the increased risk of HUS.<xref ref-type="bibr" rid="article-21320.r36">[36]</xref>&#x000a0;Unlike other diarrheal illnesses, antimotility agents may increase the risk of HUS in patients with EHEC/STEC infections and should not be recommended. It is also essential to avoid other medications that could worsen renal function, including nonsteroidal anti-inflammatory drugs (NSAIDs). Patients with EHEC/STEC-induced HUS commonly develop hemolytic anemia and thrombocytopenia and may require transfusion. These patients experience ongoing hemolysis and should not receive blood transfusions early in illness unless they are hemodynamically unstable. Platelet transfusion should also be avoided unless severe thrombocytopenia or bleeding due to the increased risk of thrombosis associated with HUS.</p>
+        <p>
+<bold>Extraintestinal Illness</bold>
+</p>
+        <p>Antimicrobial therapy directed against <italic toggle="yes">E. coli</italic> should be based on local antibiograms demonstrating susceptibility and resistance patterns. Choosing between oral and intravenous formulations is disease-specific and should be guided by clinical presentation. In general, extraintestinal infections caused by <italic toggle="yes">E. coli</italic> are susceptible to a variety of antibiotics, as listed below. <italic toggle="yes">E. coli</italic> can harbor genes for antibiotic resistance, and antibiotic therapy targeting these organisms must be tailored.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Antibiotics suitable for <italic toggle="yes">E. coli</italic> infections
+<list list-type="bullet"><list-item><p>Beta-lactam antibiotics
+<list list-type="bullet"><list-item><p>Cephalosporins</p></list-item><list-item><p>Carbapenems</p></list-item><list-item><p>Monobactams</p></list-item></list>
+</p></list-item><list-item><p>Nitrofurantoin</p></list-item><list-item><p>Trimethoprim-sulfamethoxazole</p></list-item><list-item><p>Fosfomycin</p></list-item><list-item><p>Fluoroquinolones</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>ESBL-producing <italic toggle="yes">E. coli</italic> (Antibiotic choice is dependent on local resistance patterns)
+<list list-type="bullet"><list-item><p>Cefepime</p></list-item><list-item><p>Ceftazidime</p></list-item><list-item><p>Imipenem</p></list-item><list-item><p>Ertapenem</p></list-item><list-item><p>Meropenem</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Carbapenemase-producing <italic toggle="yes">E. coli</italic>
+<list list-type="bullet"><list-item><p>Ceftazidime-avibactam</p></list-item><list-item><p>Colistin</p></list-item><list-item><p>Polymyxin B</p></list-item></list>
+</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-21320.s9" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <p>Intestinal illness can be caused by a variety of organisms. Watery diarrheal illness is most commonly caused by viruses, including norovirus and rotavirus, but can also be caused by bacteria, including <italic toggle="yes">Staphylococcus aureus</italic>, <italic toggle="yes">Bacillus cereus</italic>, and <italic toggle="yes">Vibrio cholerae</italic>, among others. For patients presenting with inflammatory or bloody diarrhea, it&#x02019;s important to consider etiologies including <italic toggle="yes">Shigella spp</italic>, <italic toggle="yes">Salmonella spp</italic>, <italic toggle="yes">Campylobacter jejuni</italic>, and <italic toggle="yes">Yersinia enterocolitica,</italic> among others. Extraintestinal infections previously discussed can be caused by a variety of viruses and bacteria and are dependent on the specific illness.</p>
+      </sec>
+      <sec id="article-21320.s10" sec-type="Prognosis">
+        <title>Prognosis</title>
+        <p>Most diarrheal illnesses have a favorable prognosis, and those caused by<italic toggle="yes"> E. coli</italic> are no different. <italic toggle="yes">E. coli</italic>&#x000a0;infections resulting in watery diarrhea are generally self-limited, but even when antibiotics are required, the illness is treatable, and patients make a full recovery. Children who develop HUS due to EHEC/STEC are at the most significant risk for morbidity and mortality. Approximately four percent of children who develop EHEC/STEC-induced HUS will die, and another five percent will develop significant long-term sequelae, including end-stage renal disease and stroke.<xref ref-type="bibr" rid="article-21320.r37">[37]</xref><xref ref-type="bibr" rid="article-21320.r38">[38]</xref> Another 20 to 30 percent will develop other sequelae; those who do not suffer the harmful effects often make a full recovery within two weeks.<xref ref-type="bibr" rid="article-21320.r39">[39]</xref><xref ref-type="bibr" rid="article-21320.r40">[40]</xref><xref ref-type="bibr" rid="article-21320.r41">[41]</xref></p>
+        <p>The prognosis of patients who develop extraintestinal infections caused by <italic toggle="yes">E. coli</italic> is dependent on comorbid conditions. <italic toggle="yes">E. coli</italic> itself is not an indicator of poor prognosis. However, patients with extraintestinal infections caused by <italic toggle="yes">E. coli</italic> (except cystitis) are generally sicker at baseline. For example, <italic toggle="yes">E. coli</italic> is a common cause of spontaneous bacterial peritonitis (SBP) in patients with ascites, and even when treated, SBP is associated with up to a four percent mortality risk.<xref ref-type="bibr" rid="article-21320.r42">[42]</xref></p>
+      </sec>
+      <sec id="article-21320.s11" sec-type="Complications">
+        <title>Complications</title>
+        <p>Patients who develop diarrheal illness are at an increased risk for dehydration, but this can often be prevented through adequate hydration and early symptomatic intervention. Long-term complications include chronic diarrhea and irritable bowel syndrome, but these occur in a small number of patients. Patients with EHEC/STEC diarrheal illness are at risk for developing hemolytic uremic syndrome, which is more common in children less than five years old and adults older than 60.</p>
+        <p>The risk of developing HUS is dependent on a number of factors, including Stx gene expression, and in infections caused by Stx2-expressing EHEC/STEC, the risk of HUS may be as high as 24%. Children who develop EHEC/STEC induced HUS are the greatest risk for long-term sequelae. As previously mentioned, approximately five percent will develop end-stage renal disease or stroke, and another 20 to 30 percent will develop sequelae, including hypertension, proteinuria, and subclinical decline in glomerular filtration rate (GFR). Complications associated with extraintestinal <italic toggle="yes">E. coli</italic> infections are disease-specific and out of the scope of this review.</p>
+      </sec>
+      <sec id="article-21320.s12" sec-type="Deterrence and Patient Education">
+        <title>Deterrence and Patient Education</title>
+        <p>Illnesses caused by <italic toggle="yes">E. coli</italic> can be prevented by regular hand washing, washing fruits and vegetables, and thoroughly cooking meat. When traveling to areas with inadequate sanitation practices, such as in many developing regions, illness can be avoided through consuming purified water and thoroughly cooking food or by rinsing raw fruits and vegetables in purified water. When infection cannot be avoided, or patients are at high risk for complications of diarrheal illness (e.g., immunosuppressed), prophylactic antibiotics can significantly reduce disease. The ISTM recommends travelers at risk for contracting diarrheal illnesses who require antibiotic prophylaxis should take rifaximin or bismuth-subsalicylate for chemoprophylaxis.<xref ref-type="bibr" rid="article-21320.r33">[33]</xref></p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Rifaximin: 200 mg 1-3 times daily for the duration of travel; not to exceed two weeks (first line)</p>
+          </list-item>
+          <list-item>
+            <p>Bismuth-subsalicylate: 524 mg every 30 &#x02013; 60 minutes as needed up to 8 doses in 24 hours (second line)</p>
+          </list-item>
+        </list>
+        <p>Reducing the risk of extraintestinal infections is disease-specific but includes interventions such as reducing the use of indwelling medical devices to prevent catheter-associated urinary tract infections. Developing ICU protocols to reduce aspiration risks, including elevating the patient&#x02019;s head of the bed to 30 degrees, leads to lower rates of ventilator-associated pneumonia.<xref ref-type="bibr" rid="article-21320.r43">[43]</xref>&#x000a0;Chemoprophylaxis minimizes the risk of SBP in high-risk groups.<xref ref-type="bibr" rid="article-21320.r44">[44]</xref></p>
+      </sec>
+      <sec id="article-21320.s13" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Diarrheal illness caused by <italic toggle="yes">E. coli</italic> is commonly self-limited. However, an interprofessional team composed of the primary clinicians, infectious disease specialists, pharmacy, and the laboratory team can rapidly identify the etiology of illness and guide effective therapy in patients hospitalized with severe illness. Nurses are integral team members whose frequent assessments can quickly identify a change in clinical status. Nurses can also enhance communication between patients and the healthcare team, which leads to a better understanding, increased satisfaction, and better compliance with outpatient therapies.<xref ref-type="bibr" rid="article-21320.r45">[45]</xref></p>
+        <p>Clinicians trained in travel medicine can identify candidates for chemoprophylaxis to traveler&#x02019;s diarrhea and help initiate appropriate therapy.<xref ref-type="bibr" rid="article-21320.r46">[46]</xref>&#x000a0;Travel clinics are readily available in many urban areas and are staffed with clinicians and nursing staff who can discuss and prescribe chemoprophylaxis based on the most recent recommendations. These clinicians can also take time with patients to discuss how to avoid contracting an illness while traveling.</p>
+      </sec>
+      <sec id="article-21320.s14">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=21320&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=21320">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/infectious-disease/escherichia-coli-infection/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=21320">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/21320/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=21320">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-21320.s15">
+        <title>References</title>
+        <ref id="article-21320.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Nataro</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Kaper</surname>
+                <given-names>JB</given-names>
+              </name>
+            </person-group>
+            <article-title>Diarrheagenic Escherichia coli.</article-title>
+            <source>Clin Microbiol Rev</source>
+            <year>1998</year>
+            <month>Jan</month>
+            <volume>11</volume>
+            <issue>1</issue>
+            <fpage>142</fpage>
+            <page-range>142-201</page-range>
+            <pub-id pub-id-type="pmid">9457432</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mylotte</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Tayara</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Goodnough</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Epidemiology of bloodstream infection in nursing home residents: evaluation in a large cohort from multiple homes.</article-title>
+            <source>Clin Infect Dis</source>
+            <year>2002</year>
+            <month>Dec</month>
+            <day>15</day>
+            <volume>35</volume>
+            <issue>12</issue>
+            <fpage>1484</fpage>
+            <page-range>1484-90</page-range>
+            <pub-id pub-id-type="pmid">12471567</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>McCue</surname>
+                <given-names>JD</given-names>
+              </name>
+            </person-group>
+            <article-title>Gram-negative bacillary bacteremia in the elderly: incidence, ecology, etiology, and mortality.</article-title>
+            <source>J Am Geriatr Soc</source>
+            <year>1987</year>
+            <month>Mar</month>
+            <volume>35</volume>
+            <issue>3</issue>
+            <fpage>213</fpage>
+            <page-range>213-8</page-range>
+            <pub-id pub-id-type="pmid">3819260</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jain</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Self</surname>
+                <given-names>WH</given-names>
+              </name>
+              <name>
+                <surname>Wunderink</surname>
+                <given-names>RG</given-names>
+              </name>
+              <name>
+                <surname>Fakhran</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Balk</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Bramley</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Reed</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Grijalva</surname>
+                <given-names>CG</given-names>
+              </name>
+              <name>
+                <surname>Anderson</surname>
+                <given-names>EJ</given-names>
+              </name>
+              <name>
+                <surname>Courtney</surname>
+                <given-names>DM</given-names>
+              </name>
+              <name>
+                <surname>Chappell</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Qi</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Hart</surname>
+                <given-names>EM</given-names>
+              </name>
+              <name>
+                <surname>Carroll</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Trabue</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Donnelly</surname>
+                <given-names>HK</given-names>
+              </name>
+              <name>
+                <surname>Williams</surname>
+                <given-names>DJ</given-names>
+              </name>
+              <name>
+                <surname>Zhu</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Arnold</surname>
+                <given-names>SR</given-names>
+              </name>
+              <name>
+                <surname>Ampofo</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Waterer</surname>
+                <given-names>GW</given-names>
+              </name>
+              <name>
+                <surname>Levine</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Lindstrom</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Winchell</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Katz</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Erdman</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Schneider</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Hicks</surname>
+                <given-names>LA</given-names>
+              </name>
+              <name>
+                <surname>McCullers</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Pavia</surname>
+                <given-names>AT</given-names>
+              </name>
+              <name>
+                <surname>Edwards</surname>
+                <given-names>KM</given-names>
+              </name>
+              <name>
+                <surname>Finelli</surname>
+                <given-names>L</given-names>
+              </name>
+              <collab>CDC EPIC Study Team</collab>
+            </person-group>
+            <article-title>Community-Acquired Pneumonia Requiring Hospitalization among U.S. Adults.</article-title>
+            <source>N Engl J Med</source>
+            <year>2015</year>
+            <month>Jul</month>
+            <day>30</day>
+            <volume>373</volume>
+            <issue>5</issue>
+            <fpage>415</fpage>
+            <page-range>415-27</page-range>
+            <pub-id pub-id-type="pmid">26172429</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sligl</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Taylor</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Brindley</surname>
+                <given-names>PG</given-names>
+              </name>
+            </person-group>
+            <article-title>Five years of nosocomial Gram-negative bacteremia in a general intensive care unit: epidemiology, antimicrobial susceptibility patterns, and outcomes.</article-title>
+            <source>Int J Infect Dis</source>
+            <year>2006</year>
+            <month>Jul</month>
+            <volume>10</volume>
+            <issue>4</issue>
+            <fpage>320</fpage>
+            <page-range>320-5</page-range>
+            <pub-id pub-id-type="pmid">16460982</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kotloff</surname>
+                <given-names>KL</given-names>
+              </name>
+              <name>
+                <surname>Nataro</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Blackwelder</surname>
+                <given-names>WC</given-names>
+              </name>
+              <name>
+                <surname>Nasrin</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Farag</surname>
+                <given-names>TH</given-names>
+              </name>
+              <name>
+                <surname>Panchalingam</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Wu</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Sow</surname>
+                <given-names>SO</given-names>
+              </name>
+              <name>
+                <surname>Sur</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Breiman</surname>
+                <given-names>RF</given-names>
+              </name>
+              <name>
+                <surname>Faruque</surname>
+                <given-names>AS</given-names>
+              </name>
+              <name>
+                <surname>Zaidi</surname>
+                <given-names>AK</given-names>
+              </name>
+              <name>
+                <surname>Saha</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Alonso</surname>
+                <given-names>PL</given-names>
+              </name>
+              <name>
+                <surname>Tamboura</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Sanogo</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Onwuchekwa</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>Manna</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Ramamurthy</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Kanungo</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Ochieng</surname>
+                <given-names>JB</given-names>
+              </name>
+              <name>
+                <surname>Omore</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Oundo</surname>
+                <given-names>JO</given-names>
+              </name>
+              <name>
+                <surname>Hossain</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Das</surname>
+                <given-names>SK</given-names>
+              </name>
+              <name>
+                <surname>Ahmed</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Qureshi</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Quadri</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Adegbola</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Antonio</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Hossain</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Akinsola</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Mandomando</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Nhampossa</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Ac&#x000e1;cio</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Biswas</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>O'Reilly</surname>
+                <given-names>CE</given-names>
+              </name>
+              <name>
+                <surname>Mintz</surname>
+                <given-names>ED</given-names>
+              </name>
+              <name>
+                <surname>Berkeley</surname>
+                <given-names>LY</given-names>
+              </name>
+              <name>
+                <surname>Muhsen</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Sommerfelt</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Robins-Browne</surname>
+                <given-names>RM</given-names>
+              </name>
+              <name>
+                <surname>Levine</surname>
+                <given-names>MM</given-names>
+              </name>
+            </person-group>
+            <article-title>Burden and aetiology of diarrhoeal disease in infants and young children in developing countries (the Global Enteric Multicenter Study, GEMS): a prospective, case-control study.</article-title>
+            <source>Lancet</source>
+            <year>2013</year>
+            <month>Jul</month>
+            <day>20</day>
+            <volume>382</volume>
+            <issue>9888</issue>
+            <fpage>209</fpage>
+            <page-range>209-22</page-range>
+            <pub-id pub-id-type="pmid">23680352</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ochoa</surname>
+                <given-names>TJ</given-names>
+              </name>
+              <name>
+                <surname>Contreras</surname>
+                <given-names>CA</given-names>
+              </name>
+            </person-group>
+            <article-title>Enteropathogenic escherichia coli infection in children.</article-title>
+            <source>Curr Opin Infect Dis</source>
+            <year>2011</year>
+            <month>Oct</month>
+            <volume>24</volume>
+            <issue>5</issue>
+            <fpage>478</fpage>
+            <page-range>478-83</page-range>
+            <pub-id pub-id-type="pmid">21857511</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Regua</surname>
+                <given-names>AH</given-names>
+              </name>
+              <name>
+                <surname>Bravo</surname>
+                <given-names>VL</given-names>
+              </name>
+              <name>
+                <surname>Leal</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Lobo Leite</surname>
+                <given-names>ME</given-names>
+              </name>
+            </person-group>
+            <article-title>Epidemiological survey of the enteropathogenic Escherichia coli isolated from children with diarrhoea.</article-title>
+            <source>J Trop Pediatr</source>
+            <year>1990</year>
+            <month>Aug</month>
+            <volume>36</volume>
+            <issue>4</issue>
+            <fpage>176</fpage>
+            <page-range>176-9</page-range>
+            <pub-id pub-id-type="pmid">2213982</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Huang</surname>
+                <given-names>DB</given-names>
+              </name>
+              <name>
+                <surname>Nataro</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>DuPont</surname>
+                <given-names>HL</given-names>
+              </name>
+              <name>
+                <surname>Kamat</surname>
+                <given-names>PP</given-names>
+              </name>
+              <name>
+                <surname>Mhatre</surname>
+                <given-names>AD</given-names>
+              </name>
+              <name>
+                <surname>Okhuysen</surname>
+                <given-names>PC</given-names>
+              </name>
+              <name>
+                <surname>Chiang</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Enteroaggregative Escherichia coli is a cause of acute diarrheal illness: a meta-analysis.</article-title>
+            <source>Clin Infect Dis</source>
+            <year>2006</year>
+            <month>Sep</month>
+            <day>01</day>
+            <volume>43</volume>
+            <issue>5</issue>
+            <fpage>556</fpage>
+            <page-range>556-63</page-range>
+            <pub-id pub-id-type="pmid">16886146</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>de la Cabada Bauche</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Dupont</surname>
+                <given-names>HL</given-names>
+              </name>
+            </person-group>
+            <article-title>New Developments in Traveler's Diarrhea.</article-title>
+            <source>Gastroenterol Hepatol (N Y)</source>
+            <year>2011</year>
+            <month>Feb</month>
+            <volume>7</volume>
+            <issue>2</issue>
+            <fpage>88</fpage>
+            <page-range>88-95</page-range>
+            <pub-id pub-id-type="pmid">21475415</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Karch</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Bielaszewska</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Sorbitol-fermenting Shiga toxin-producing Escherichia coli O157:H(-) strains: epidemiology, phenotypic and molecular characteristics, and microbiological diagnosis.</article-title>
+            <source>J Clin Microbiol</source>
+            <year>2001</year>
+            <month>Jun</month>
+            <volume>39</volume>
+            <issue>6</issue>
+            <fpage>2043</fpage>
+            <page-range>2043-9</page-range>
+            <pub-id pub-id-type="pmid">11376032</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tarr</surname>
+                <given-names>PI</given-names>
+              </name>
+            </person-group>
+            <article-title>Escherichia coli O157:H7: clinical, diagnostic, and epidemiological aspects of human infection.</article-title>
+            <source>Clin Infect Dis</source>
+            <year>1995</year>
+            <month>Jan</month>
+            <volume>20</volume>
+            <issue>1</issue>
+            <fpage>1</fpage>
+            <page-range>1-8; quiz 9-10</page-range>
+            <pub-id pub-id-type="pmid">7727633</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mead</surname>
+                <given-names>PS</given-names>
+              </name>
+              <name>
+                <surname>Griffin</surname>
+                <given-names>PM</given-names>
+              </name>
+            </person-group>
+            <article-title>Escherichia coli O157:H7.</article-title>
+            <source>Lancet</source>
+            <year>1998</year>
+            <month>Oct</month>
+            <day>10</day>
+            <volume>352</volume>
+            <issue>9135</issue>
+            <fpage>1207</fpage>
+            <page-range>1207-12</page-range>
+            <pub-id pub-id-type="pmid">9777854</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Boyce</surname>
+                <given-names>TG</given-names>
+              </name>
+              <name>
+                <surname>Swerdlow</surname>
+                <given-names>DL</given-names>
+              </name>
+              <name>
+                <surname>Griffin</surname>
+                <given-names>PM</given-names>
+              </name>
+            </person-group>
+            <article-title>Escherichia coli O157:H7 and the hemolytic-uremic syndrome.</article-title>
+            <source>N Engl J Med</source>
+            <year>1995</year>
+            <month>Aug</month>
+            <day>10</day>
+            <volume>333</volume>
+            <issue>6</issue>
+            <fpage>364</fpage>
+            <page-range>364-8</page-range>
+            <pub-id pub-id-type="pmid">7609755</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Raffaelli</surname>
+                <given-names>RM</given-names>
+              </name>
+              <name>
+                <surname>Paladini</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Hanson</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Kornstein</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Agasan</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Slavinski</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Weiss</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Fennelly</surname>
+                <given-names>GJ</given-names>
+              </name>
+              <name>
+                <surname>Flynn</surname>
+                <given-names>JT</given-names>
+              </name>
+            </person-group>
+            <article-title>Child care-associated outbreak of Escherichia coli O157:H7 and hemolytic uremic syndrome.</article-title>
+            <source>Pediatr Infect Dis J</source>
+            <year>2007</year>
+            <month>Oct</month>
+            <volume>26</volume>
+            <issue>10</issue>
+            <fpage>951</fpage>
+            <page-range>951-3</page-range>
+            <pub-id pub-id-type="pmid">17901803</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Majowicz</surname>
+                <given-names>SE</given-names>
+              </name>
+              <name>
+                <surname>Scallan</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Jones-Bitton</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Sargeant</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Stapleton</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Angulo</surname>
+                <given-names>FJ</given-names>
+              </name>
+              <name>
+                <surname>Yeung</surname>
+                <given-names>DH</given-names>
+              </name>
+              <name>
+                <surname>Kirk</surname>
+                <given-names>MD</given-names>
+              </name>
+            </person-group>
+            <article-title>Global incidence of human Shiga toxin-producing Escherichia coli infections and deaths: a systematic review and knowledge synthesis.</article-title>
+            <source>Foodborne Pathog Dis</source>
+            <year>2014</year>
+            <month>Jun</month>
+            <volume>11</volume>
+            <issue>6</issue>
+            <fpage>447</fpage>
+            <page-range>447-55</page-range>
+            <pub-id pub-id-type="pmid">24750096</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tack</surname>
+                <given-names>DM</given-names>
+              </name>
+              <name>
+                <surname>Ray</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Griffin</surname>
+                <given-names>PM</given-names>
+              </name>
+              <name>
+                <surname>Cieslak</surname>
+                <given-names>PR</given-names>
+              </name>
+              <name>
+                <surname>Dunn</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Rissman</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Jervis</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Lathrop</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Muse</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Duwell</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Smith</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Tobin-D'Angelo</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Vugia</surname>
+                <given-names>DJ</given-names>
+              </name>
+              <name>
+                <surname>Zablotsky Kufel</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Wolpert</surname>
+                <given-names>BJ</given-names>
+              </name>
+              <name>
+                <surname>Tauxe</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Payne</surname>
+                <given-names>DC</given-names>
+              </name>
+            </person-group>
+            <article-title>Preliminary Incidence and Trends of Infections with Pathogens Transmitted Commonly Through Food - Foodborne Diseases Active Surveillance Network, 10 U.S. Sites, 2016-2019.</article-title>
+            <source>MMWR Morb Mortal Wkly Rep</source>
+            <year>2020</year>
+            <month>May</month>
+            <day>01</day>
+            <volume>69</volume>
+            <issue>17</issue>
+            <fpage>509</fpage>
+            <page-range>509-514</page-range>
+            <pub-id pub-id-type="pmid">32352955</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kaper</surname>
+                <given-names>JB</given-names>
+              </name>
+              <name>
+                <surname>Nataro</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Mobley</surname>
+                <given-names>HL</given-names>
+              </name>
+            </person-group>
+            <article-title>Pathogenic Escherichia coli.</article-title>
+            <source>Nat Rev Microbiol</source>
+            <year>2004</year>
+            <month>Feb</month>
+            <volume>2</volume>
+            <issue>2</issue>
+            <fpage>123</fpage>
+            <page-range>123-40</page-range>
+            <pub-id pub-id-type="pmid">15040260</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Levine</surname>
+                <given-names>MM</given-names>
+              </name>
+              <name>
+                <surname>Caplan</surname>
+                <given-names>ES</given-names>
+              </name>
+              <name>
+                <surname>Waterman</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Cash</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Hornick</surname>
+                <given-names>RB</given-names>
+              </name>
+              <name>
+                <surname>Snyder</surname>
+                <given-names>MJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Diarrhea caused by Escherichia coli that produce only heat-stable enterotoxin.</article-title>
+            <source>Infect Immun</source>
+            <year>1977</year>
+            <month>Jul</month>
+            <volume>17</volume>
+            <issue>1</issue>
+            <fpage>78</fpage>
+            <page-range>78-82</page-range>
+            <pub-id pub-id-type="pmid">328397</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pinaud</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Sansonetti</surname>
+                <given-names>PJ</given-names>
+              </name>
+              <name>
+                <surname>Phalipon</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Host Cell Targeting by Enteropathogenic Bacteria T3SS Effectors.</article-title>
+            <source>Trends Microbiol</source>
+            <year>2018</year>
+            <month>Apr</month>
+            <volume>26</volume>
+            <issue>4</issue>
+            <fpage>266</fpage>
+            <page-range>266-283</page-range>
+            <pub-id pub-id-type="pmid">29477730</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gayt&#x000e1;n</surname>
+                <given-names>MO</given-names>
+              </name>
+              <name>
+                <surname>Mart&#x000ed;nez-Santos</surname>
+                <given-names>VI</given-names>
+              </name>
+              <name>
+                <surname>Soto</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Gonz&#x000e1;lez-Pedrajo</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Type Three Secretion System in Attaching and Effacing Pathogens.</article-title>
+            <source>Front Cell Infect Microbiol</source>
+            <year>2016</year>
+            <volume>6</volume>
+            <fpage>129</fpage>
+            <pub-id pub-id-type="pmid">27818950</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Nataro</surname>
+                <given-names>JP</given-names>
+              </name>
+            </person-group>
+            <article-title>Enteroaggregative Escherichia coli pathogenesis.</article-title>
+            <source>Curr Opin Gastroenterol</source>
+            <year>2005</year>
+            <month>Jan</month>
+            <volume>21</volume>
+            <issue>1</issue>
+            <fpage>4</fpage>
+            <page-range>4-8</page-range>
+            <pub-id pub-id-type="pmid">15687877</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Morin</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Santiago</surname>
+                <given-names>AE</given-names>
+              </name>
+              <name>
+                <surname>Ernst</surname>
+                <given-names>RK</given-names>
+              </name>
+              <name>
+                <surname>Guillot</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Nataro</surname>
+                <given-names>JP</given-names>
+              </name>
+            </person-group>
+            <article-title>Characterization of the AggR regulon in enteroaggregative Escherichia coli.</article-title>
+            <source>Infect Immun</source>
+            <year>2013</year>
+            <month>Jan</month>
+            <volume>81</volume>
+            <issue>1</issue>
+            <fpage>122</fpage>
+            <page-range>122-32</page-range>
+            <pub-id pub-id-type="pmid">23090962</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Melton-Celsa</surname>
+                <given-names>AR</given-names>
+              </name>
+            </person-group>
+            <article-title>Shiga Toxin (Stx) Classification, Structure, and Function.</article-title>
+            <source>Microbiol Spectr</source>
+            <year>2014</year>
+            <month>Aug</month>
+            <volume>2</volume>
+            <issue>4</issue>
+            <fpage>EHEC</fpage>
+            <page-range>EHEC-0024-2013</page-range>
+            <pub-id pub-id-type="pmid">25530917</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Perna</surname>
+                <given-names>NT</given-names>
+              </name>
+              <name>
+                <surname>Plunkett</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Burland</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Mau</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Glasner</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Rose</surname>
+                <given-names>DJ</given-names>
+              </name>
+              <name>
+                <surname>Mayhew</surname>
+                <given-names>GF</given-names>
+              </name>
+              <name>
+                <surname>Evans</surname>
+                <given-names>PS</given-names>
+              </name>
+              <name>
+                <surname>Gregor</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Kirkpatrick</surname>
+                <given-names>HA</given-names>
+              </name>
+              <name>
+                <surname>P&#x000f3;sfai</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Hackett</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Klink</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Boutin</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Shao</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Miller</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Grotbeck</surname>
+                <given-names>EJ</given-names>
+              </name>
+              <name>
+                <surname>Davis</surname>
+                <given-names>NW</given-names>
+              </name>
+              <name>
+                <surname>Lim</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Dimalanta</surname>
+                <given-names>ET</given-names>
+              </name>
+              <name>
+                <surname>Potamousis</surname>
+                <given-names>KD</given-names>
+              </name>
+              <name>
+                <surname>Apodaca</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Anantharaman</surname>
+                <given-names>TS</given-names>
+              </name>
+              <name>
+                <surname>Lin</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Yen</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Schwartz</surname>
+                <given-names>DC</given-names>
+              </name>
+              <name>
+                <surname>Welch</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Blattner</surname>
+                <given-names>FR</given-names>
+              </name>
+            </person-group>
+            <article-title>Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.</article-title>
+            <source>Nature</source>
+            <year>2001</year>
+            <month>Jan</month>
+            <day>25</day>
+            <volume>409</volume>
+            <issue>6819</issue>
+            <fpage>529</fpage>
+            <page-range>529-33</page-range>
+            <pub-id pub-id-type="pmid">11206551</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r26">
+          <label>26</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Stevens</surname>
+                <given-names>MP</given-names>
+              </name>
+              <name>
+                <surname>Frankel</surname>
+                <given-names>GM</given-names>
+              </name>
+            </person-group>
+            <article-title>The Locus of Enterocyte Effacement and Associated Virulence Factors of Enterohemorrhagic Escherichia coli.</article-title>
+            <source>Microbiol Spectr</source>
+            <year>2014</year>
+            <month>Aug</month>
+            <volume>2</volume>
+            <issue>4</issue>
+            <fpage>EHEC</fpage>
+            <page-range>EHEC-0007-2013</page-range>
+            <pub-id pub-id-type="pmid">26104209</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r27">
+          <label>27</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bielaszewska</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Aldick</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Bauwens</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Karch</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Hemolysin of enterohemorrhagic Escherichia coli: structure, transport, biological activity and putative role in virulence.</article-title>
+            <source>Int J Med Microbiol</source>
+            <year>2014</year>
+            <month>Jul</month>
+            <volume>304</volume>
+            <issue>5-6</issue>
+            <fpage>521</fpage>
+            <page-range>521-9</page-range>
+            <pub-id pub-id-type="pmid">24933303</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r28">
+          <label>28</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Takhar</surname>
+                <given-names>SS</given-names>
+              </name>
+              <name>
+                <surname>Moran</surname>
+                <given-names>GJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Diagnosis and management of urinary tract infection in the emergency department and outpatient settings.</article-title>
+            <source>Infect Dis Clin North Am</source>
+            <year>2014</year>
+            <month>Mar</month>
+            <volume>28</volume>
+            <issue>1</issue>
+            <fpage>33</fpage>
+            <page-range>33-48</page-range>
+            <pub-id pub-id-type="pmid">24484573</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r29">
+          <label>29</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hsieh</surname>
+                <given-names>VC</given-names>
+              </name>
+              <name>
+                <surname>Hsieh</surname>
+                <given-names>ML</given-names>
+              </name>
+              <name>
+                <surname>Chiang</surname>
+                <given-names>JH</given-names>
+              </name>
+              <name>
+                <surname>Chien</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Hsieh</surname>
+                <given-names>MS</given-names>
+              </name>
+            </person-group>
+            <article-title>Emergency Department Visits and Disease Burden Attributable to Ambulatory Care Sensitive Conditions in Elderly Adults.</article-title>
+            <source>Sci Rep</source>
+            <year>2019</year>
+            <month>Mar</month>
+            <day>07</day>
+            <volume>9</volume>
+            <issue>1</issue>
+            <fpage>3811</fpage>
+            <pub-id pub-id-type="pmid">30846843</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r30">
+          <label>30</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sievert</surname>
+                <given-names>DM</given-names>
+              </name>
+              <name>
+                <surname>Ricks</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Edwards</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Schneider</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Patel</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Srinivasan</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Kallen</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Limbago</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Fridkin</surname>
+                <given-names>S</given-names>
+              </name>
+              <collab>National Healthcare Safety Network (NHSN) Team and Participating NHSN Facilities</collab>
+            </person-group>
+            <article-title>Antimicrobial-resistant pathogens associated with healthcare-associated infections: summary of data reported to the National Healthcare Safety Network at the Centers for Disease Control and Prevention, 2009-2010.</article-title>
+            <source>Infect Control Hosp Epidemiol</source>
+            <year>2013</year>
+            <month>Jan</month>
+            <volume>34</volume>
+            <issue>1</issue>
+            <fpage>1</fpage>
+            <page-range>1-14</page-range>
+            <pub-id pub-id-type="pmid">23221186</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r31">
+          <label>31</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shane</surname>
+                <given-names>AL</given-names>
+              </name>
+              <name>
+                <surname>Mody</surname>
+                <given-names>RK</given-names>
+              </name>
+              <name>
+                <surname>Crump</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Tarr</surname>
+                <given-names>PI</given-names>
+              </name>
+              <name>
+                <surname>Steiner</surname>
+                <given-names>TS</given-names>
+              </name>
+              <name>
+                <surname>Kotloff</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Langley</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Wanke</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Warren</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>Cheng</surname>
+                <given-names>AC</given-names>
+              </name>
+              <name>
+                <surname>Cantey</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Pickering</surname>
+                <given-names>LK</given-names>
+              </name>
+            </person-group>
+            <article-title>2017 Infectious Diseases Society of America Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea.</article-title>
+            <source>Clin Infect Dis</source>
+            <year>2017</year>
+            <month>Nov</month>
+            <day>29</day>
+            <volume>65</volume>
+            <issue>12</issue>
+            <fpage>e45</fpage>
+            <page-range>e45-e80</page-range>
+            <pub-id pub-id-type="pmid">29053792</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r32">
+          <label>32</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Anderson</surname>
+                <given-names>NW</given-names>
+              </name>
+              <name>
+                <surname>Tarr</surname>
+                <given-names>PI</given-names>
+              </name>
+            </person-group>
+            <article-title>Multiplex Nucleic Acid Amplification Testing to Diagnose Gut Infections: Challenges, Opportunities, and Result Interpretation.</article-title>
+            <source>Gastroenterol Clin North Am</source>
+            <year>2018</year>
+            <month>Dec</month>
+            <volume>47</volume>
+            <issue>4</issue>
+            <fpage>793</fpage>
+            <page-range>793-812</page-range>
+            <pub-id pub-id-type="pmid">30337033</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r33">
+          <label>33</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Riddle</surname>
+                <given-names>MS</given-names>
+              </name>
+              <name>
+                <surname>Connor</surname>
+                <given-names>BA</given-names>
+              </name>
+              <name>
+                <surname>Beeching</surname>
+                <given-names>NJ</given-names>
+              </name>
+              <name>
+                <surname>DuPont</surname>
+                <given-names>HL</given-names>
+              </name>
+              <name>
+                <surname>Hamer</surname>
+                <given-names>DH</given-names>
+              </name>
+              <name>
+                <surname>Kozarsky</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Libman</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Steffen</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Taylor</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Tribble</surname>
+                <given-names>DR</given-names>
+              </name>
+              <name>
+                <surname>Vila</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Zanger</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Ericsson</surname>
+                <given-names>CD</given-names>
+              </name>
+            </person-group>
+            <article-title>Guidelines for the prevention and treatment of travelers' diarrhea: a graded expert panel report.</article-title>
+            <source>J Travel Med</source>
+            <year>2017</year>
+            <month>Apr</month>
+            <day>01</day>
+            <volume>24</volume>
+            <issue>suppl_1</issue>
+            <fpage>S57</fpage>
+            <page-range>S57-S74</page-range>
+            <pub-id pub-id-type="pmid">28521004</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r34">
+          <label>34</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Werber</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Mason</surname>
+                <given-names>BW</given-names>
+              </name>
+              <name>
+                <surname>Evans</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Salmon</surname>
+                <given-names>RL</given-names>
+              </name>
+            </person-group>
+            <article-title>Preventing household transmission of Shiga toxin-producing Escherichia coli O157 infection: promptly separating siblings might be the key.</article-title>
+            <source>Clin Infect Dis</source>
+            <year>2008</year>
+            <month>Apr</month>
+            <day>15</day>
+            <volume>46</volume>
+            <issue>8</issue>
+            <fpage>1189</fpage>
+            <page-range>1189-96</page-range>
+            <pub-id pub-id-type="pmid">18444854</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r35">
+          <label>35</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Grisaru</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Xie</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Samuel</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hartling</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Tarr</surname>
+                <given-names>PI</given-names>
+              </name>
+              <name>
+                <surname>Schnadower</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Freedman</surname>
+                <given-names>SB</given-names>
+              </name>
+              <collab>Alberta Provincial Pediatric Enteric Infection Team</collab>
+            </person-group>
+            <article-title>Associations Between Hydration Status, Intravenous Fluid Administration, and Outcomes of Patients Infected With Shiga Toxin-Producing Escherichia coli: A Systematic Review and Meta-analysis.</article-title>
+            <source>JAMA Pediatr</source>
+            <year>2017</year>
+            <month>Jan</month>
+            <day>01</day>
+            <volume>171</volume>
+            <issue>1</issue>
+            <fpage>68</fpage>
+            <page-range>68-76</page-range>
+            <pub-id pub-id-type="pmid">27893870</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r36">
+          <label>36</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Freedman</surname>
+                <given-names>SB</given-names>
+              </name>
+              <name>
+                <surname>Xie</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Neufeld</surname>
+                <given-names>MS</given-names>
+              </name>
+              <name>
+                <surname>Hamilton</surname>
+                <given-names>WL</given-names>
+              </name>
+              <name>
+                <surname>Hartling</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Tarr</surname>
+                <given-names>PI</given-names>
+              </name>
+              <collab>Alberta Provincial Pediatric Enteric Infection Team (APPETITE)</collab>
+              <name>
+                <surname>Nettel-Aguirre</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Chuck</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Johnson</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Currie</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Talbot</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Jiang</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Dickinson</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Kellner</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>MacDonald</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Svenson</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Chui</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Louie</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Lavoie</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Eltorki</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Vanderkooi</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Tellier</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Ali</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Drews</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Graham</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Pang</surname>
+                <given-names>XL</given-names>
+              </name>
+            </person-group>
+            <article-title>Shiga Toxin-Producing Escherichia coli Infection, Antibiotics, and Risk of Developing Hemolytic Uremic Syndrome: A Meta-analysis.</article-title>
+            <source>Clin Infect Dis</source>
+            <year>2016</year>
+            <month>May</month>
+            <day>15</day>
+            <volume>62</volume>
+            <issue>10</issue>
+            <fpage>1251</fpage>
+            <page-range>1251-1258</page-range>
+            <pub-id pub-id-type="pmid">26917812</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r37">
+          <label>37</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mody</surname>
+                <given-names>RK</given-names>
+              </name>
+              <name>
+                <surname>Gu</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Griffin</surname>
+                <given-names>PM</given-names>
+              </name>
+              <name>
+                <surname>Jones</surname>
+                <given-names>TF</given-names>
+              </name>
+              <name>
+                <surname>Rounds</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Shiferaw</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Tobin-D'Angelo</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Smith</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Spina</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Hurd</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Lathrop</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Palmer</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Boothe</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Luna-Gierke</surname>
+                <given-names>RE</given-names>
+              </name>
+              <name>
+                <surname>Hoekstra</surname>
+                <given-names>RM</given-names>
+              </name>
+            </person-group>
+            <article-title>Postdiarrheal hemolytic uremic syndrome in United States children: clinical spectrum and predictors of in-hospital death.</article-title>
+            <source>J Pediatr</source>
+            <year>2015</year>
+            <month>Apr</month>
+            <volume>166</volume>
+            <issue>4</issue>
+            <fpage>1022</fpage>
+            <page-range>1022-9</page-range>
+            <pub-id pub-id-type="pmid">25661408</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r38">
+          <label>38</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Alconcher</surname>
+                <given-names>LF</given-names>
+              </name>
+              <name>
+                <surname>Coccia</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Suarez</surname>
+                <given-names>ADC</given-names>
+              </name>
+              <name>
+                <surname>Monteverde</surname>
+                <given-names>ML</given-names>
+              </name>
+              <name>
+                <surname>Perez Y Guti&#x000e9;rrez</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Carlopio</surname>
+                <given-names>PM</given-names>
+              </name>
+              <name>
+                <surname>Missoni</surname>
+                <given-names>ML</given-names>
+              </name>
+              <name>
+                <surname>Balestracci</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Principi</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Ram&#x000ed;rez</surname>
+                <given-names>FB</given-names>
+              </name>
+              <name>
+                <surname>Estrella</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Micelli</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Leroy</surname>
+                <given-names>DC</given-names>
+              </name>
+              <name>
+                <surname>Quijada</surname>
+                <given-names>NE</given-names>
+              </name>
+              <name>
+                <surname>Seminara</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Giordano</surname>
+                <given-names>MI</given-names>
+              </name>
+              <name>
+                <surname>Hidalgo Sol&#x000ed;s</surname>
+                <given-names>SB</given-names>
+              </name>
+              <name>
+                <surname>Saurit</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Caminitti</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Arias</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Rivas</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Risso</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Liern</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Hyponatremia: a new predictor of mortality in patients with Shiga toxin-producing Escherichia coli hemolytic uremic syndrome.</article-title>
+            <source>Pediatr Nephrol</source>
+            <year>2018</year>
+            <month>Oct</month>
+            <volume>33</volume>
+            <issue>10</issue>
+            <fpage>1791</fpage>
+            <page-range>1791-1798</page-range>
+            <pub-id pub-id-type="pmid">29961127</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r39">
+          <label>39</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Spinale</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Ruebner</surname>
+                <given-names>RL</given-names>
+              </name>
+              <name>
+                <surname>Copelovitch</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Kaplan</surname>
+                <given-names>BS</given-names>
+              </name>
+            </person-group>
+            <article-title>Long-term outcomes of Shiga toxin hemolytic uremic syndrome.</article-title>
+            <source>Pediatr Nephrol</source>
+            <year>2013</year>
+            <month>Nov</month>
+            <volume>28</volume>
+            <issue>11</issue>
+            <fpage>2097</fpage>
+            <page-range>2097-105</page-range>
+            <pub-id pub-id-type="pmid">23288350</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r40">
+          <label>40</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Loos</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Aulbert</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Hoppe</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Ahlenstiel-Grunow</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Kranz</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Wahl</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Staude</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Humberg</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Benz</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Krause</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Pohl</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Liebau</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Schild</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Lemke</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Beringer</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>M&#x000fc;ller</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>H&#x000e4;rtel</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Wigger</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Vester</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>Konrad</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Haffner</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Pape</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Oh</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Kemper</surname>
+                <given-names>MJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Intermediate Follow-up of Pediatric Patients With Hemolytic Uremic Syndrome During the 2011 Outbreak Caused by E. coli O104:H4.</article-title>
+            <source>Clin Infect Dis</source>
+            <year>2017</year>
+            <month>Jun</month>
+            <day>15</day>
+            <volume>64</volume>
+            <issue>12</issue>
+            <fpage>1637</fpage>
+            <page-range>1637-1643</page-range>
+            <pub-id pub-id-type="pmid">28329394</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r41">
+          <label>41</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Garg</surname>
+                <given-names>AX</given-names>
+              </name>
+              <name>
+                <surname>Suri</surname>
+                <given-names>RS</given-names>
+              </name>
+              <name>
+                <surname>Barrowman</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Rehman</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Matsell</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Rosas-Arellano</surname>
+                <given-names>MP</given-names>
+              </name>
+              <name>
+                <surname>Salvadori</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Haynes</surname>
+                <given-names>RB</given-names>
+              </name>
+              <name>
+                <surname>Clark</surname>
+                <given-names>WF</given-names>
+              </name>
+            </person-group>
+            <article-title>Long-term renal prognosis of diarrhea-associated hemolytic uremic syndrome: a systematic review, meta-analysis, and meta-regression.</article-title>
+            <source>JAMA</source>
+            <year>2003</year>
+            <month>Sep</month>
+            <day>10</day>
+            <volume>290</volume>
+            <issue>10</issue>
+            <fpage>1360</fpage>
+            <page-range>1360-70</page-range>
+            <pub-id pub-id-type="pmid">12966129</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r42">
+          <label>42</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Rimola</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Salmer&#x000f3;n</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Clemente</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Rodrigo</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Obrador</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Miranda</surname>
+                <given-names>ML</given-names>
+              </name>
+              <name>
+                <surname>Guarner</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Planas</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Sol&#x000e1;</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Vargas</surname>
+                <given-names>V</given-names>
+              </name>
+            </person-group>
+            <article-title>Two different dosages of cefotaxime in the treatment of spontaneous bacterial peritonitis in cirrhosis: results of a prospective, randomized, multicenter study.</article-title>
+            <source>Hepatology</source>
+            <year>1995</year>
+            <month>Mar</month>
+            <volume>21</volume>
+            <issue>3</issue>
+            <fpage>674</fpage>
+            <page-range>674-9</page-range>
+            <pub-id pub-id-type="pmid">7875666</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r43">
+          <label>43</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Klompas</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Branson</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Eichenwald</surname>
+                <given-names>EC</given-names>
+              </name>
+              <name>
+                <surname>Greene</surname>
+                <given-names>LR</given-names>
+              </name>
+              <name>
+                <surname>Howell</surname>
+                <given-names>MD</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Magill</surname>
+                <given-names>SS</given-names>
+              </name>
+              <name>
+                <surname>Maragakis</surname>
+                <given-names>LL</given-names>
+              </name>
+              <name>
+                <surname>Priebe</surname>
+                <given-names>GP</given-names>
+              </name>
+              <name>
+                <surname>Speck</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Yokoe</surname>
+                <given-names>DS</given-names>
+              </name>
+              <name>
+                <surname>Berenholtz</surname>
+                <given-names>SM</given-names>
+              </name>
+              <collab>Society for Healthcare Epidemiology of America (SHEA)</collab>
+            </person-group>
+            <article-title>Strategies to prevent ventilator-associated pneumonia in acute care hospitals: 2014 update.</article-title>
+            <source>Infect Control Hosp Epidemiol</source>
+            <year>2014</year>
+            <month>Aug</month>
+            <volume>35</volume>
+            <issue>8</issue>
+            <fpage>915</fpage>
+            <page-range>915-36</page-range>
+            <pub-id pub-id-type="pmid">25026607</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r44">
+          <label>44</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cohen</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Sahar</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Benenson</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Elinav</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Brezis</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Soares-Weiser</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Antibiotic prophylaxis for spontaneous bacterial peritonitis in cirrhotic patients with ascites, without gastro-intestinal bleeding.</article-title>
+            <source>Cochrane Database Syst Rev</source>
+            <year>2009</year>
+            <month>Apr</month>
+            <day>15</day>
+            <issue>2</issue>
+            <fpage>CD004791</fpage>
+            <pub-id pub-id-type="pmid">19370611</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r45">
+          <label>45</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Vermeir</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Vandijck</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Degroote</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Peleman</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Verhaeghe</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Mortier</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Hallaert</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Van Daele</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Buylaert</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Vogelaers</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Communication in healthcare: a narrative review of the literature and practical recommendations.</article-title>
+            <source>Int J Clin Pract</source>
+            <year>2015</year>
+            <month>Nov</month>
+            <volume>69</volume>
+            <issue>11</issue>
+            <fpage>1257</fpage>
+            <page-range>1257-67</page-range>
+            <pub-id pub-id-type="pmid">26147310</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21320.r46">
+          <label>46</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hill</surname>
+                <given-names>DR</given-names>
+              </name>
+              <name>
+                <surname>Ericsson</surname>
+                <given-names>CD</given-names>
+              </name>
+              <name>
+                <surname>Pearson</surname>
+                <given-names>RD</given-names>
+              </name>
+              <name>
+                <surname>Keystone</surname>
+                <given-names>JS</given-names>
+              </name>
+              <name>
+                <surname>Freedman</surname>
+                <given-names>DO</given-names>
+              </name>
+              <name>
+                <surname>Kozarsky</surname>
+                <given-names>PE</given-names>
+              </name>
+              <name>
+                <surname>DuPont</surname>
+                <given-names>HL</given-names>
+              </name>
+              <name>
+                <surname>Bia</surname>
+                <given-names>FJ</given-names>
+              </name>
+              <name>
+                <surname>Fischer</surname>
+                <given-names>PR</given-names>
+              </name>
+              <name>
+                <surname>Ryan</surname>
+                <given-names>ET</given-names>
+              </name>
+              <collab>Infectious Diseases Society of America</collab>
+            </person-group>
+            <article-title>The practice of travel medicine: guidelines by the Infectious Diseases Society of America.</article-title>
+            <source>Clin Infect Dis</source>
+            <year>2006</year>
+            <month>Dec</month>
+            <day>15</day>
+            <volume>43</volume>
+            <issue>12</issue>
+            <fpage>1499</fpage>
+            <page-range>1499-539</page-range>
+            <pub-id pub-id-type="pmid">17109284</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

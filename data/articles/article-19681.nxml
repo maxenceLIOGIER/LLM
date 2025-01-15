@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-19681" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Cognitive Assessment</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Gonzalez Kelso</surname>
+            <given-names>Ischel</given-names>
+          </name>
+          <aff>Creighton University School of Medicine</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Tadi</surname>
+            <given-names>Prasanna</given-names>
+          </name>
+          <aff>Asram Medical College, Eluru, India</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Ischel Gonzalez Kelso declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Prasanna Tadi declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>7</day>
+          <month>11</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-19681.s1" sec-type="Definition/Introduction">
+        <title>Definition/Introduction</title>
+        <p content-type="pubmed-excerpt">The cognitive assessment is useful to test for cognitive impairment&#x02014;a deficiency in knowledge, thought process, or judgment. Psychiatrists often perform cognitive testing during the Mental Status Exam. However, when cognitive impairment is suspected, the cognitive assessment can obtain a more detailed analysis by surveying the neuropsychological domains. This detailed investigation of cognition can diagnose major cognitive impairment (ie, dementia) and mild cognitive impairment, evaluate traumatic brain injuries, help determine decision-making capacity, and survey intellectual dysfunction.<xref ref-type="bibr" rid="article-19681.r1">[1]</xref><xref ref-type="bibr" rid="article-19681.r2">[2]</xref><xref ref-type="bibr" rid="article-19681.r3">[3]</xref><xref ref-type="bibr" rid="article-19681.r4">[4]</xref></p>
+        <p>There are many established tools used to conduct cognitive assessments. Each is carefully constructed to evaluate neuropsychological domains such as memory, language, executive function, abstract reasoning, attention, and visuospatial skills. Available assessment tools range from those designed to evaluate a single neuropsychological domain to mental status screens that survey multiple neuropsychological domains to the most extensive test. This complete neuropsychological exam assesses each neuropsychological domain.<xref ref-type="bibr" rid="article-19681.r5">[5]</xref></p>
+        <p>Most clinicians will use an established mental status screening tool such as the Mini-Mental Status Exam (MMSE) or Montreal Cognitive Assessment (MoCA) to determine if cognitive impairment is present. Mental status screens are short, efficient, and well-researched modalities for evaluating multiple cognitive domains. A cognitive assessment, along with a good history, physical exam, and appropriate labs and imaging, can establish a diagnosis or&#x000a0;decide&#x000a0;if further evaluation is necessary.<xref ref-type="bibr" rid="article-19681.r2">[2]</xref><xref ref-type="bibr" rid="article-19681.r6">[6]</xref></p>
+        <p>A complete neuropsychological evaluation is an option if a screening test is inconclusive or more information is required. A full neuropsychological evaluation would ideally identify the patient&#x02019;s specific deficits, differentiate between neurological and psychological etiologies, differentiate between Alzheimer&#x02019;s dementia and other dementias, localize the deficits, and help formulate a personalized management plan. This exam is noninvasive and involves a battery of assessments a trained professional performs. This comprehensive evaluation can take up to a full day to complete. While a full neuropsychological evaluation is the most detailed assessment, it is unnecessary for all patients who have a diagnosis or suspicion of cognitive impairment. However, it can be a helpful resource if there are questions or concerns about a diagnosis or care.<xref ref-type="bibr" rid="article-19681.r7">[7]</xref><xref ref-type="bibr" rid="article-19681.r8">[8]</xref></p>
+        <p>
+<bold>How to Performing a Cognitive Assessment</bold>
+</p>
+        <p>When performing a cognitive assessment, the clinician must take a good patient history and perform a physical exam; this ensures that the patients receive a thorough evaluation while strengthening the caregiver-patient relationship. Suppose the assumption is that the patient has cognitive impairment before considering other diagnoses. In that case, the patient may feel that the clinician has dismissed them due to their age, level of education, or other reasons. A thorough examination can also help identify any behavior or personality disorders&#x000a0;potentially contributing to the patient&#x02019;s chief complaints, as mild cognitive impairments or dementia often coexist with behavioral and personality disturbances. Cognitively impaired patients cannot express themselves fully, so it&#x000a0;is very beneficial to have someone with a close relationship with the patient present to help establish baseline levels of functioning.</p>
+        <p>Before deciding upon a particular testing modality, one should compare all available tests to find the best suited for the administrator and the patient. One should be mindful that some institutions may have a preferred testing modality.<xref ref-type="bibr" rid="article-19681.r9">[9]</xref></p>
+        <p>
+<bold>Cognitive Assessment Screens</bold>
+</p>
+        <p>Various cognitive assessment screens exist, each with instructions, templates (if applicable), and often a website. Below is a short list of the more popular screening tools and their strengths and weaknesses.</p>
+        <p>
+<bold>MMSE</bold>
+</p>
+        <p>The MMSE usually takes less than ten minutes to administer, is easy to use, and has been thoroughly researched since 1975. However, what was once the gold standard in cognitive assessments is now used less frequently due to copyright laws and additional costs.</p>
+        <p>
+<bold>MoCA&#x000a0;</bold>
+</p>
+        <p>The MoCA is another popular screening tool that takes approximately ten minutes to complete. It evaluates visuospatial skills, attention, language, abstract reasoning, delayed recall, executive function, and orientation.<xref ref-type="bibr" rid="article-19681.r10">[10]</xref> The MoCA covers more domains than the MMSE and, consequently, has greater sensitivity and specificity.<xref ref-type="bibr" rid="article-19681.r6">[6]</xref> The associated website includes specific adaptations for different populations, many different languages, printable versions of the test, and training opportunities.</p>
+        <p>
+<bold>Mini-Cog&#x02122;</bold>
+</p>
+        <p>The&#x000a0;Mini-Cog is one of the faster cognitive assessment screens that is used. It consists of a 3-item recall and a clock-drawing test. The delayed 3-item recall tests memory, while the clock drawing test evaluates cognitive function, language, executive function, and visuospatial skills. The Mini-Cog website also gives detailed instructions for administrators.&#x000a0;</p>
+        <p>
+<bold>Saint Louis University Mental Status Exam&#x000a0;&#x000a0;</bold>
+</p>
+        <p>Initially developed for the&#x000a0;veteran population, the&#x000a0;Saint Louis University Mental Status Exam (SLUMS) is another tool with an online printable testing form. Its website has an instructional outline for administrators, training opportunities, and a wide range of language options.</p>
+        <p>Other modalities include but are not limited to the Blessed Orientation-Memory-Concentration Test, Kokmen Short Test of Mental Status, Memory Impairment Screen, Ottawa 3DY, Brief Alzheimer&#x02019;s Screen, Caregiver-completed AD8, and many other dementia screening scales.<xref ref-type="bibr" rid="article-19681.r11">[11]</xref></p>
+        <p>The results of these assessments require review in the context of each patient. Each administrator should remember that a screening test is not a substitute for a diagnostic workup. Lastly, it mentions that no current data supports using cognitive assessments in asymptomatic patients.&#x000a0;</p>
+        <p>
+<bold>Neuropsychological Domains</bold>
+</p>
+        <p>Cognitive assessments evaluate for cognitive impairment by assessing the neuropsychological domains. A brief explanation of the frequently tested domains follows.</p>
+        <p>
+<bold>Language</bold>
+</p>
+        <p>The language domain involves naming, reading, writing, and repeating words. Some practitioners will evaluate the language by noting the patient&#x02019;s communication skills throughout the interview. There are many ways to test for language. Two neurocognitive tests include the Boston Naming Test and the Controlled Oral Word Association.<xref ref-type="bibr" rid="article-19681.r12">[12]</xref> It should be noted that a part of the language domain can become mildly impaired with normal aging. Expressive aphasia, which is the inability to find words, can become impaired with normal aging.</p>
+        <p>
+<bold>Executive function</bold>
+</p>
+        <p>This assessment encompasses organizing, planning, working memory, mental flexibility, list-making, and executing tasks. An example of executive function impairment might be a patient who cannot follow recipes or cook as well as they used to. Executive function testing is often done by naming as many categorical items as possible; for example, naming as many animals as possible in one minute. Other neuropsychological tests include the Trail Making Tests A and B and the Wisconsin Sorting Test.<xref ref-type="bibr" rid="article-19681.r12">[12]</xref><xref ref-type="bibr" rid="article-19681.r6">[6]</xref></p>
+        <p>
+<bold>Abstract reasoning</bold>
+</p>
+        <p>Abstract reasoning refers to analyzing information, detecting patterns and relationships, or solving problems on an intangible, theoretical level. An example of abstract reasoning skills would be identifying patterns or relationships between things that do not appear to be similar. Another example would be the ability to solve problems without the knowledge it would normally take.<xref ref-type="bibr" rid="article-19681.r13">[13]</xref><xref ref-type="bibr" rid="article-19681.r14">[14]</xref> Abstract reasoning is often tested by having the patient describe similes, analogies, proverbs, or sayings. For example, recognizing the relationship between an airplane and a bicycle is that they are both modes of transportation. Some neuropsychological abstract reasoning tests include the Shipley-2 Abstract Test, Gorham&#x02019;s Proverbs Test, Conceptual Level Analogy Test, and Verbal Concept Attainment Test.<xref ref-type="bibr" rid="article-19681.r15">[15]</xref></p>
+        <p>
+<bold>Memory</bold>
+</p>
+        <p>Memory is the mechanism that takes information encodes, stores it, and retrieves it for later use.<xref ref-type="bibr" rid="article-19681.r16">[16]</xref> Different kinds of memory make this domain very complicated.</p>
+        <p>Memory is divided into short-term and long-term memory. Short-term memory can take small pieces of information and utilize them briefly. Long-term memory is subdivided into procedural and declarative, further divided into episodic and semantic. Procedural memory is storing information used to perform or complete tasks that are often done, like driving a car. Declarative memory is the storing and recall of facts and events, such as a family member&#x02019;s birthday. Episodic memory is contextual information storing or remembering things from a specific experience. An example of episodic memory is the patient remembering what they did for their last birthday. Semantic memory is more general knowledge or factual-based memory, including learned subjects such as math.</p>
+        <p>Because memory is so complex, it is essential to recognize and document what is under evaluation during this assessment. Memory impairment can be easy to pinpoint from the patient&#x02019;s history, but it can also masquerade as other things, such as having trouble learning new information.<xref ref-type="bibr" rid="article-19681.r9">[9]</xref> It is also worth noting that normal aging can slightly impair memory. A normal aging patient&#x02019;s activities of daily living will remain intact.</p>
+        <p>
+<bold>Attention/concentration</bold>
+</p>
+        <p>Testing for attention and concentration often takes place together. They are frequently tested by spelling words backward or serially subtracting numbers from a large starting point, such as the MoCA, where the examiner asks the patient to subtract seven from 100 in five increments. Some clinicians observe the patient and assess their level of attention throughout the interview.<xref ref-type="bibr" rid="article-19681.r9">[9]</xref>&#x000a0;The Connors Continuous Performance Test is an example of a neuropsychological test that acknowledges attention and concentration.<xref ref-type="bibr" rid="article-19681.r6">[6]</xref></p>
+        <p>
+<bold>Visuospatial skills</bold>
+</p>
+        <p>This concept is a person&#x02019;s ability to conceptualize and manipulate 2- and 3-dimensional objects. Testing is often done by copying figures, block designs, or clock drawings.<xref ref-type="bibr" rid="article-19681.r17">[17]</xref> This skill set may be difficult to assess while taking a history. Still, it could present as a patient suddenly having difficulty with parallel parking their car or getting into small accidents.<xref ref-type="bibr" rid="article-19681.r9">[9]</xref> In neuropsychology, an example of a test used for these skills is the Rey-Osterrieth Complex Figure Copy Test.<xref ref-type="bibr" rid="article-19681.r12">[12]</xref></p>
+      </sec>
+      <sec id="article-19681.s2" sec-type="Issues of Concern">
+        <title>Issues of Concern</title>
+        <p>Standardized cognitive assessments help create a universal diagnosis, but these tests are imperfect. Scoring can be subjective, conclusions may be drawn based on assumptions, and screening tests have statistical limitations.&#x000a0;</p>
+        <p>If not done correctly, the scoring of these exams can be very subjective. Each result is administrator-specific and accordingly introduces the possibility of human error. Some studies show that scoring leniency can negatively affect the test's sensitivity. To control this variable, many assessment websites give clear instructions and provide tutorials on properly administering and scoring their assessment.<xref ref-type="bibr" rid="article-19681.r1">[1]</xref><xref ref-type="bibr" rid="article-19681.r18">[18]</xref><xref ref-type="bibr" rid="article-19681.r1">[1]</xref><xref ref-type="bibr" rid="article-19681.r19">[19]</xref></p>
+        <p>Some of the cognitive assessment screens are undergoing development with limited testing within a cognitive domain. For example, the Mini-Cog tests for memory; it does not test the semantics of long-term procedural memory. Understanding that most available assessments are just screening tests is integral to the assessment&#x02019;s use.<xref ref-type="bibr" rid="article-19681.r20">[20]</xref><xref ref-type="bibr" rid="article-19681.r19">[19]</xref></p>
+        <p>It is also important to remember the statistics when using screening tests. One must be cognizant of inevitable false positives and negatives when the sensitivity and specificity are not 100%.<xref ref-type="bibr" rid="article-19681.r21">[21]</xref></p>
+        <p>Some&#x000a0;tests may better identify certain impairments over others&#x02014;for example, some identify mild cognitive impairment versus major cognitive impairment. The clinician must understand each test, what the test measures, and the limitations&#x000a0;of the test. Lastly, cognitive assessments done in the clinical setting are screening tests and must be used along with clinical judgment in the context of each patient presentation.<xref ref-type="bibr" rid="article-19681.r21">[21]</xref></p>
+      </sec>
+      <sec id="article-19681.s3" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>With medicine and technology continually improving, people are living longer lives. With a population that is increasing in age, the prevalence of cognitive impairment will inevitably rise as cognitive impairment is often age-related.<xref ref-type="bibr" rid="article-19681.r22">[22]</xref> Thus, the diagnosis, management, and research of cognitive impairments are crucial to managing the needs of an aging population.<xref ref-type="bibr" rid="article-19681.r23">[23]</xref><xref ref-type="bibr" rid="article-19681.r2">[2]</xref></p>
+        <p>Cognitive assessments are fast, easy-to-use, and accurate ways to help diagnose, evaluate progress, and manage many kinds of cognitive impairment.<xref ref-type="bibr" rid="article-19681.r4">[4]</xref> These assessments use questions and tasks that strategically test for impairment of various cognitive domains at once in a matter of minutes, improving efficiency in the clinic and the lives of many individuals affected by this devastating condition.</p>
+      </sec>
+      <sec id="article-19681.s4" sec-type="Nursing, Allied Health, and Interprofessional Team Interventions">
+        <title>Nursing, Allied Health, and Interprofessional Team Interventions</title>
+        <p>The cognitive assessment is useful in determining&#x000a0;a patient&#x02019;s understanding and ability level. This evaluation is especially important to nurses in an in-patient setting, as nurses spend significant time with the patients while hospitalized. Some levels of cognitive impairment will require constant monitoring. Other patients may need help communicating if their language domain is impaired. Each patient has a unique circumstance, and it is up to the healthcare team to identify the deficits and develop a healthcare plan addressing them to provide optimum care. With the help of a cognitive assessment, nurses will not only know that a patient is cognitively impaired, but they will learn which domain may be compromised, thereby allowing the nursing staff to adjust patient approaches or care plans accordingly.<xref ref-type="bibr" rid="article-19681.r24">[24]</xref></p>
+      </sec>
+      <sec id="article-19681.s5">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=19681&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=19681">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/19681/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=19681">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-19681.s6">
+        <title>References</title>
+        <ref id="article-19681.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sanford</surname>
+                <given-names>AM</given-names>
+              </name>
+            </person-group>
+            <article-title>Mild Cognitive Impairment.</article-title>
+            <source>Clin Geriatr Med</source>
+            <year>2017</year>
+            <month>Aug</month>
+            <volume>33</volume>
+            <issue>3</issue>
+            <fpage>325</fpage>
+            <page-range>325-337</page-range>
+            <pub-id pub-id-type="pmid">28689566</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19681.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Petersen</surname>
+                <given-names>RC</given-names>
+              </name>
+            </person-group>
+            <article-title>Mild Cognitive Impairment.</article-title>
+            <source>Continuum (Minneap Minn)</source>
+            <year>2016</year>
+            <month>Apr</month>
+            <volume>22</volume>
+            <issue>2 Dementia</issue>
+            <fpage>404</fpage>
+            <page-range>404-18</page-range>
+            <pub-id pub-id-type="pmid">27042901</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19681.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Harmon</surname>
+                <given-names>KG</given-names>
+              </name>
+              <name>
+                <surname>Drezner</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Gammons</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Guskiewicz</surname>
+                <given-names>KM</given-names>
+              </name>
+              <name>
+                <surname>Halstead</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Herring</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>Kutcher</surname>
+                <given-names>JS</given-names>
+              </name>
+              <name>
+                <surname>Pana</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Putukian</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Roberts</surname>
+                <given-names>WO</given-names>
+              </name>
+            </person-group>
+            <article-title>American Medical Society for Sports Medicine position statement: concussion in sport.</article-title>
+            <source>Br J Sports Med</source>
+            <year>2013</year>
+            <month>Jan</month>
+            <volume>47</volume>
+            <issue>1</issue>
+            <fpage>15</fpage>
+            <page-range>15-26</page-range>
+            <pub-id pub-id-type="pmid">23243113</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19681.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Snyderman</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Rovner</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Mental status exam in primary care: a review.</article-title>
+            <source>Am Fam Physician</source>
+            <year>2009</year>
+            <month>Oct</month>
+            <day>15</day>
+            <volume>80</volume>
+            <issue>8</issue>
+            <fpage>809</fpage>
+            <page-range>809-14</page-range>
+            <pub-id pub-id-type="pmid">19835342</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19681.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Martin</surname>
+                <given-names>RL</given-names>
+              </name>
+            </person-group>
+            <article-title>Update on dementia of the Alzheimer type.</article-title>
+            <source>Hosp Community Psychiatry</source>
+            <year>1989</year>
+            <month>Jun</month>
+            <volume>40</volume>
+            <issue>6</issue>
+            <fpage>593</fpage>
+            <page-range>593-604</page-range>
+            <pub-id pub-id-type="pmid">2661399</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19681.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Finney</surname>
+                <given-names>GR</given-names>
+              </name>
+              <name>
+                <surname>Minagar</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Heilman</surname>
+                <given-names>KM</given-names>
+              </name>
+            </person-group>
+            <article-title>Assessment of Mental Status.</article-title>
+            <source>Neurol Clin</source>
+            <year>2016</year>
+            <month>Feb</month>
+            <volume>34</volume>
+            <issue>1</issue>
+            <fpage>1</fpage>
+            <page-range>1-16</page-range>
+            <pub-id pub-id-type="pmid">26613992</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19681.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Schroeder</surname>
+                <given-names>RW</given-names>
+              </name>
+              <name>
+                <surname>Martin</surname>
+                <given-names>PK</given-names>
+              </name>
+              <name>
+                <surname>Walling</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Neuropsychological Evaluations in Adults.</article-title>
+            <source>Am Fam Physician</source>
+            <year>2019</year>
+            <month>Jan</month>
+            <day>15</day>
+            <volume>99</volume>
+            <issue>2</issue>
+            <fpage>101</fpage>
+            <page-range>101-108</page-range>
+            <pub-id pub-id-type="pmid">30633479</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19681.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zucchella</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Federico</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Martini</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Tinazzi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Bartolo</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Tamburin</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Neuropsychological testing.</article-title>
+            <source>Pract Neurol</source>
+            <year>2018</year>
+            <month>Jun</month>
+            <volume>18</volume>
+            <issue>3</issue>
+            <fpage>227</fpage>
+            <page-range>227-237</page-range>
+            <pub-id pub-id-type="pmid">29472384</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19681.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Grossman</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Irwin</surname>
+                <given-names>DJ</given-names>
+              </name>
+            </person-group>
+            <article-title>The Mental Status Examination in Patients With Suspected Dementia.</article-title>
+            <source>Continuum (Minneap Minn)</source>
+            <year>2016</year>
+            <month>Apr</month>
+            <volume>22</volume>
+            <issue>2 Dementia</issue>
+            <fpage>385</fpage>
+            <page-range>385-403</page-range>
+            <pub-id pub-id-type="pmid">27042900</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19681.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Krishnan</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Justus</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Meluveettil</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Menon</surname>
+                <given-names>RN</given-names>
+              </name>
+              <name>
+                <surname>Sarma</surname>
+                <given-names>SP</given-names>
+              </name>
+              <name>
+                <surname>Kishore</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Validity of Montreal Cognitive Assessment in non-english speaking patients with Parkinson's disease.</article-title>
+            <source>Neurol India</source>
+            <year>2015</year>
+            <season>Jan-Feb</season>
+            <volume>63</volume>
+            <issue>1</issue>
+            <fpage>63</fpage>
+            <page-range>63-7</page-range>
+            <pub-id pub-id-type="pmid">25751471</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19681.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Carpenter</surname>
+                <given-names>CR</given-names>
+              </name>
+              <name>
+                <surname>Bassett</surname>
+                <given-names>ER</given-names>
+              </name>
+              <name>
+                <surname>Fischer</surname>
+                <given-names>GM</given-names>
+              </name>
+              <name>
+                <surname>Shirshekan</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Galvin</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Morris</surname>
+                <given-names>JC</given-names>
+              </name>
+            </person-group>
+            <article-title>Four sensitive screening tools to detect cognitive dysfunction in geriatric emergency department patients: brief Alzheimer's Screen, Short Blessed Test, Ottawa 3DY, and the caregiver-completed AD8.</article-title>
+            <source>Acad Emerg Med</source>
+            <year>2011</year>
+            <month>Apr</month>
+            <volume>18</volume>
+            <issue>4</issue>
+            <fpage>374</fpage>
+            <page-range>374-84</page-range>
+            <pub-id pub-id-type="pmid">21496140</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19681.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hansen</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Caselli</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Schlosser-Covell</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Golafshar</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Dueck</surname>
+                <given-names>AC</given-names>
+              </name>
+              <name>
+                <surname>Woodruff</surname>
+                <given-names>BK</given-names>
+              </name>
+              <name>
+                <surname>Stonnington</surname>
+                <given-names>CM</given-names>
+              </name>
+              <name>
+                <surname>Geda</surname>
+                <given-names>YE</given-names>
+              </name>
+              <name>
+                <surname>Locke</surname>
+                <given-names>DEC</given-names>
+              </name>
+            </person-group>
+            <article-title>Neuropsychological comparison of incident MCI and prevalent MCI.</article-title>
+            <source>Alzheimers Dement (Amst)</source>
+            <year>2018</year>
+            <volume>10</volume>
+            <fpage>599</fpage>
+            <page-range>599-603</page-range>
+            <pub-id pub-id-type="pmid">30456288</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19681.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chierchia</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Fuhrmann</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Knoll</surname>
+                <given-names>LJ</given-names>
+              </name>
+              <name>
+                <surname>Pi-Sunyer</surname>
+                <given-names>BP</given-names>
+              </name>
+              <name>
+                <surname>Sakhardande</surname>
+                <given-names>AL</given-names>
+              </name>
+              <name>
+                <surname>Blakemore</surname>
+                <given-names>SJ</given-names>
+              </name>
+            </person-group>
+            <article-title>The matrix reasoning item bank (MaRs-IB): novel, open-access abstract reasoning items for adolescents and adults.</article-title>
+            <source>R Soc Open Sci</source>
+            <year>2019</year>
+            <month>Oct</month>
+            <volume>6</volume>
+            <issue>10</issue>
+            <fpage>190232</fpage>
+            <pub-id pub-id-type="pmid">31824684</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19681.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Green</surname>
+                <given-names>AE</given-names>
+              </name>
+              <name>
+                <surname>Kenworthy</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Mosner</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Gallagher</surname>
+                <given-names>NM</given-names>
+              </name>
+              <name>
+                <surname>Fearon</surname>
+                <given-names>EW</given-names>
+              </name>
+              <name>
+                <surname>Balhana</surname>
+                <given-names>CD</given-names>
+              </name>
+              <name>
+                <surname>Yerys</surname>
+                <given-names>BE</given-names>
+              </name>
+            </person-group>
+            <article-title>Abstract analogical reasoning in high-functioning children with autism spectrum disorders.</article-title>
+            <source>Autism Res</source>
+            <year>2014</year>
+            <month>Dec</month>
+            <volume>7</volume>
+            <issue>6</issue>
+            <fpage>677</fpage>
+            <page-range>677-86</page-range>
+            <pub-id pub-id-type="pmid">25255899</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19681.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Davies</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Piovesana</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Adult Verbal Abstract Reasoning Assessment Instruments and their Clinimetric Properties.</article-title>
+            <source>Clin Neuropsychol</source>
+            <year>2015</year>
+            <volume>29</volume>
+            <issue>7</issue>
+            <fpage>1010</fpage>
+            <page-range>1010-33</page-range>
+            <pub-id pub-id-type="pmid">26732461</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19681.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jahn</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Memory loss in Alzheimer's disease.</article-title>
+            <source>Dialogues Clin Neurosci</source>
+            <year>2013</year>
+            <month>Dec</month>
+            <volume>15</volume>
+            <issue>4</issue>
+            <fpage>445</fpage>
+            <page-range>445-54</page-range>
+            <pub-id pub-id-type="pmid">24459411</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19681.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Salimi</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Irish</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Foxe</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Hodges</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Piguet</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Burrell</surname>
+                <given-names>JR</given-names>
+              </name>
+            </person-group>
+            <article-title>Can visuospatial measures improve the diagnosis of Alzheimer's disease?</article-title>
+            <source>Alzheimers Dement (Amst)</source>
+            <year>2018</year>
+            <volume>10</volume>
+            <fpage>66</fpage>
+            <page-range>66-74</page-range>
+            <pub-id pub-id-type="pmid">29780858</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19681.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Diaz-Orueta</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>Blanco-Campal</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Burke</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>[Process-based approach neuropsychological assessment: review of the evidence and proposal for improvement of dementia screening tools].</article-title>
+            <source>Rev Neurol</source>
+            <year>2017</year>
+            <month>Jun</month>
+            <day>01</day>
+            <volume>64</volume>
+            <issue>11</issue>
+            <fpage>514</fpage>
+            <page-range>514-524</page-range>
+            <pub-id pub-id-type="pmid">28555458</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19681.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Iatraki</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Simos</surname>
+                <given-names>PG</given-names>
+              </name>
+              <name>
+                <surname>Bertsias</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Duijker</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Zaganas</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Tziraki</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Vgontzas</surname>
+                <given-names>AN</given-names>
+              </name>
+              <name>
+                <surname>Lionis</surname>
+                <given-names>C</given-names>
+              </name>
+              <collab>THALIS Primary Health Care Research Team/Network</collab>
+            </person-group>
+            <article-title>Cognitive screening tools for primary care settings: examining the 'Test Your Memory' and 'General Practitioner assessment of Cognition' tools in a rural aging population in Greece.</article-title>
+            <source>Eur J Gen Pract</source>
+            <year>2017</year>
+            <month>Dec</month>
+            <volume>23</volume>
+            <issue>1</issue>
+            <fpage>171</fpage>
+            <page-range>171-178</page-range>
+            <pub-id pub-id-type="pmid">28604128</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19681.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Loewenstein</surname>
+                <given-names>DA</given-names>
+              </name>
+              <name>
+                <surname>Curiel</surname>
+                <given-names>RE</given-names>
+              </name>
+              <name>
+                <surname>Duara</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Buschke</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Novel Cognitive Paradigms for the Detection of Memory Impairment in Preclinical Alzheimer's Disease.</article-title>
+            <source>Assessment</source>
+            <year>2018</year>
+            <month>Apr</month>
+            <volume>25</volume>
+            <issue>3</issue>
+            <fpage>348</fpage>
+            <page-range>348-359</page-range>
+            <pub-id pub-id-type="pmid">29214859</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19681.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ciesielska</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Soko&#x00142;owski</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Mazur</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Podhorecka</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Polak-Szabela</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>K&#x00119;dziora-Kornatowska</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Is the Montreal Cognitive Assessment (MoCA) test better suited than the Mini-Mental State Examination (MMSE) in mild cognitive impairment (MCI) detection among people aged over 60? Meta-analysis.</article-title>
+            <source>Psychiatr Pol</source>
+            <year>2016</year>
+            <month>Oct</month>
+            <day>31</day>
+            <volume>50</volume>
+            <issue>5</issue>
+            <fpage>1039</fpage>
+            <page-range>1039-1052</page-range>
+            <pub-id pub-id-type="pmid">27992895</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19681.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Garre-Olmo</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>[Epidemiology of Alzheimer's disease and other dementias].</article-title>
+            <source>Rev Neurol</source>
+            <year>2018</year>
+            <month>Jun</month>
+            <day>01</day>
+            <volume>66</volume>
+            <issue>11</issue>
+            <fpage>377</fpage>
+            <page-range>377-386</page-range>
+            <pub-id pub-id-type="pmid">29790571</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19681.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bondi</surname>
+                <given-names>MW</given-names>
+              </name>
+              <name>
+                <surname>Edmonds</surname>
+                <given-names>EC</given-names>
+              </name>
+              <name>
+                <surname>Salmon</surname>
+                <given-names>DP</given-names>
+              </name>
+            </person-group>
+            <article-title>Alzheimer's Disease: Past, Present, and Future.</article-title>
+            <source>J Int Neuropsychol Soc</source>
+            <year>2017</year>
+            <month>Oct</month>
+            <volume>23</volume>
+            <issue>9-10</issue>
+            <fpage>818</fpage>
+            <page-range>818-831</page-range>
+            <pub-id pub-id-type="pmid">29198280</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19681.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Persoon</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Banningh</surname>
+                <given-names>LJ</given-names>
+              </name>
+              <name>
+                <surname>van de Vrie</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Rikkert</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>van Achterberg</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Development of the Nurses' Observation Scale for Cognitive Abilities (NOSCA).</article-title>
+            <source>ISRN Nurs</source>
+            <year>2011</year>
+            <volume>2011</volume>
+            <fpage>895082</fpage>
+            <pub-id pub-id-type="pmid">22007329</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

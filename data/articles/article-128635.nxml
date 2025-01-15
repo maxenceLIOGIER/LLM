@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-128635" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Nuclear Medicine Quality Assurance</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Vyas</surname>
+            <given-names>Madhusudan</given-names>
+          </name>
+          <aff>Te Pukenga, Auckland</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Tafti</surname>
+            <given-names>Dawood</given-names>
+          </name>
+          <aff>Brooke Army Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Madhusudan Vyas declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Dawood Tafti declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>22</day>
+          <month>5</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-128635.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Quality control is an essential part of the nuclear medicine department as it ensures that radiation exposure is minimal during imaging procedures. The basic functionality of nuclear medicine equipment contributes to shaping high-quality diagnostic images has a direct impact on image quality. The procedures for nuclear medicine quality assurance, including imaging and non-imaging instruments, are summarized in this review article.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Explain and summarise the standard Nuclear Medicine Quality Control (QC) procedure to achieve consistent and high standard diagnostic image quality.</p></list-item><list-item><p>Describe the routine quality control procedures for the gamma camera to obtain high-quality diagnostic images.</p></list-item><list-item><p>Outline the standards of quality control procedures for non-imaging instruments.</p></list-item><list-item><p>Review and identify the common quality control issues that can result in artifacts that degrade diagnostic imaging in nuclear medicine.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=128635&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=128635">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-128635.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Nuclear medicine (NM) relies heavily on imaging and non-imaging instruments to accurately count and detect radiation. Gamma cameras (GC), also known as single-photon&#x000a0;emission computed tomography (SPECT) and positron emission tomography (PET), are standard imaging instruments used to capture two-dimensional (2D) and three-dimensional (3D) images.<xref ref-type="bibr" rid="article-128635.r1">[1]</xref>&#x000a0;</p>
+        <p>Dose calibrators, radiation survey meters, and pocket dosimeters are examples of non-imaging tools used for various purposes, including dose measurement and radioactive contamination surveys. Furthermore, all of these instrument standards must be checked at multiple time intervals using different Quality Control (QC) procedures.<xref ref-type="bibr" rid="article-128635.r2">[2]</xref>&#x000a0;Thus, quality control procedures are an essential part of ensuring the consistency and accuracy of instruments.</p>
+        <p>The majority of NM instrument QC procedures are recommended by vendors which are based on the specifications of international regulatory bodies, i.e., National Electrical Manufacturing Association (NEMA), American Association of Physicists in Medicine (AAPM), Society of Nuclear Medicine and Molecular Imaging (SNMMI), and European Association of Nuclear Medicine (EANM).<xref ref-type="bibr" rid="article-128635.r3">[3]</xref>&#x000a0;This article provides an overview of all the QC procedures used in the NM department to maintain the standards of imaging and non-imaging instruments to achieve high-quality diagnostic&#x000a0;images.</p>
+      </sec>
+      <sec id="article-128635.s3" sec-type="Function">
+        <title>Function</title>
+        <p>Nuclear Medicine&#x000a0;equipment (both imaging and non-imaging) QC must be performed in various frequencies (daily, monthly, semi-annually, annually, and bi-annually). The nuclear medicine technologist (NMT) is in charge of most of the QC procedures. Service engineers and medical physicists also assist in the process of quality control and quality assurance (typically annual and bi-yearly tests).<xref ref-type="bibr" rid="article-128635.r4">[4]</xref><xref ref-type="bibr" rid="article-128635.r5">[5]</xref>&#x000a0;Different QC tests are carried out at various time intervals, and a brief explanation of their roles is provided in Table 1. The clinical and radiation safety aspects of these tests are discussed in greater depth in the following sections.Table1</p>
+        <p>Routine quality control procedures for Nuclear Medicine equipment (imaging and non-imaging equipment)</p>
+        <table-wrap id="article-128635.table0" position="float" orientation="portrait">
+          <table style="width: 710px;">
+            <tbody>
+              <tr>
+                <td style="width: 77px;" rowspan="1" colspan="1">
+<p><bold>Instruments</bold></p>
+</td>
+                <td style="width: 74px;" rowspan="1" colspan="1">
+<p><bold>&#x000a0;Type of instruments</bold></p>
+</td>
+                <td style="width: 105px;" rowspan="1" colspan="1">
+<p><bold>Daily Quality control check</bold></p>
+</td>
+                <td style="width: 110px;" rowspan="1" colspan="1">
+<p><bold>Weekly Quality control check</bold></p>
+</td>
+                <td style="width: 151.357px;" rowspan="1" colspan="1">
+<p><bold>Annual quality control check</bold></p>
+</td>
+                <td style="width: 68.6428px;" rowspan="1" colspan="1">
+<p><bold>Clinical significance</bold></p>
+</td>
+                <td style="width: 78px;" rowspan="1" colspan="1">
+<p><bold>Radiation safety significance</bold></p>
+</td>
+              </tr>
+              <tr>
+                <td style="width: 77px;" rowspan="1" colspan="1">
+<p><bold>&#x000a0;Dose Calibrator</bold></p>
+</td>
+                <td style="width: 74px;" rowspan="1" colspan="1">
+<p>Non-imaging</p>
+</td>
+                <td style="width: 105px;" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Background</p></list-item><list-item><p>Constancy</p></list-item></list>
+</td>
+                <td style="width: 110px;" rowspan="1" colspan="1">&#x000a0;</td>
+                <td style="width: 151.357px;" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Linearity</p></list-item><list-item><p>Accuracy</p></list-item><list-item><p>Geometric constancy</p></list-item></list>
+</td>
+                <td style="width: 68.6428px;" rowspan="1" colspan="1">
+<p>Incorrect dosing can impact the diagnostic quality of images</p>
+</td>
+                <td style="width: 78px;" rowspan="1" colspan="1">
+<p>Incorrect dosing&#x000a0;can affect radiation exposure</p>
+</td>
+              </tr>
+              <tr>
+                <td style="width: 77px;" rowspan="1" colspan="1">
+<p><bold>Radiation Survey meter</bold></p>
+</td>
+                <td style="width: 74px;" rowspan="1" colspan="1">
+<p>Non-imaging</p>
+</td>
+                <td style="width: 105px;" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Background</p></list-item><list-item><p>Battery check</p></list-item><list-item><p>Constancy</p></list-item></list>
+</td>
+                <td style="width: 110px;" rowspan="1" colspan="1">&#x000a0;</td>
+                <td style="width: 151.357px;" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Accuracy</p></list-item><list-item><p>Sensitivity</p></list-item></list>
+</td>
+                <td style="width: 68.6428px;" rowspan="1" colspan="1">&#x000a0;</td>
+                <td style="width: 78px;" rowspan="1" colspan="1">
+<p>Affects radiation contamination and routine surveys</p>
+</td>
+              </tr>
+              <tr>
+                <td style="width: 77px;" rowspan="1" colspan="1">
+<p><bold>SPECT-CT</bold></p>
+<p><bold>(Gamma camera)</bold></p>
+</td>
+                <td style="width: 74px;" rowspan="1" colspan="1">
+<p>Imaging</p>
+</td>
+                <td style="width: 105px;" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Background</p></list-item><list-item><p>Extrinsic uniformity</p></list-item><list-item><p>Energy peaking</p></list-item><list-item><p>Sensitivity</p></list-item><list-item><p>Touchpad</p></list-item><list-item><p>Emergency lock</p></list-item><list-item><p>CT warm-up</p></list-item></list>
+</td>
+                <td style="width: 110px;" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Center of rotation (COR)</p></list-item><list-item><p>Intrinsic uniformity</p></list-item><list-item><p>CT number for various components</p></list-item></list>
+</td>
+                <td style="width: 151.357px;" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Tomographic Uniformity</p></list-item><list-item><p>Spatial resolution/linearity</p></list-item><list-item><p>Overall system performance</p></list-item><list-item><p>Laser alignment</p></list-item><list-item><p>SPECT-CT image registration</p></list-item><list-item><p>Dosimetry</p></list-item><list-item><p>CT number uniformity</p></list-item></list>
+</td>
+                <td style="width: 68.6428px;" rowspan="1" colspan="1">
+<p>QC failure leads to inaccurate image acquisition</p>
+</td>
+                <td style="width: 78px;" rowspan="1" colspan="1">
+<p>Repeat imaging can lead to increased radiation exposure</p>
+</td>
+              </tr>
+              <tr>
+                <td style="width: 77px;" rowspan="1" colspan="1">
+<p><bold>PET-CT</bold></p>
+</td>
+                <td style="width: 74px;" rowspan="1" colspan="1">
+<p>Imaging</p>
+</td>
+                <td style="width: 105px;" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Uniformity</p></list-item><list-item><p>Coincidence</p></list-item><list-item><p>Energy peaking</p></list-item><list-item><p>CT warm</p></list-item></list>
+</td>
+                <td style="width: 110px;" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>CT number for various components</p></list-item><list-item><p>Tomographic uniformity</p></list-item></list>
+</td>
+                <td style="width: 151.357px;" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Tomographic Uniformity</p></list-item><list-item><p>Normalization</p></list-item><list-item><p>Well counter calibration</p></list-item><list-item><p>Dosimetry</p></list-item><list-item><p>CT number uniformity</p></list-item></list>
+</td>
+                <td style="width: 68.6428px;" rowspan="1" colspan="1">
+<p>QC failure leads to inaccurate image acquisition</p>
+</td>
+                <td style="width: 78px;" rowspan="1" colspan="1">
+<p>Repeat imaging can lead to increased radiation exposure</p>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>
+<bold>Dose Calibrator</bold>
+</p>
+        <p>While&#x000a0;a dose calibrator is not an imaging device, every dose injected into a patient or used to fill a phantom is measured with a dose calibrator&#x000a0;before it is used in an imaging device. If the dose calibrator is not functioning properly, calibration studies would not be reliable.</p>
+        <p>Ionization chambers connected to circuits that convert and display the ionization current produced by radioactive sources in digital units of activity account for the vast majority of dose calibrators. Numerous factors influence the accuracy and working performance of a dose calibrator, and regular quality control parameters, such as precision, accuracy, and linearity of its response to activity, as well as operational checks of reproducibility and background, must be performed daily to ensure that the calibrator is operating correctly.</p>
+        <p>Sealed radioactive sources including cesium-137 ( Cs-137), cobalt-57 ( Co-57) or germanium-68 (Ge-68), cobalt-60 (Co-60), and unsealed radioactive isotopes such as technetium-99m (Tc-99m) are routinely used for checking the reproducibility of dose calibrator.&#x000a0;</p>
+        <p>The following routine checks need to be performed to check the functionality of the dose calibrator:</p>
+        <list list-type="order">
+          <list-item>
+            <p>Background reading to make sure that the dose calibrator is contamination-free.&#x000a0;An increase of more than 10% needs to be investigated.</p>
+          </list-item>
+          <list-item>
+            <p>Consistency in the voltage supply to the ionization chamber should be evaluated, and any&#x000a0;change of more or less than 5% should be reported.</p>
+          </list-item>
+        </list>
+        <p>Precision and accuracy tests should be performed quarterly. This test provides information about any loss of precision due to background changes, any sudden change in the pressure of filled gas in an ionization chamber, or fluctuation in power supply to the ionization chamber. The&#x000a0;precision test is typically carried out by measuring two different radioisotopes ten times and calculating the mean and standard deviation (SD) of the results to calculate precision variation (or variation in precision) (PV). The ratio of standard deviation to mean is typically calculated for each radioactive source, and any variation of more than or less than 5% must be investigated further.</p>
+        <p>The accuracy of the dose calibrator is accessed to difference mean measure activity of the source (post decay correction). It is measured with the help of Co-57, Cs-137, Ge-68, or Co-60 radioactive sources. Therefore, it is essential to&#x000a0;investigate any variation of more or less than 5% from the previous reading.&#x000a0;&#x000a0;</p>
+        <p>Linearity of dose calibrator is checked with the help of Tc-99m sources. It should be performed quarterly by using the following steps:</p>
+        <list list-type="order">
+          <list-item>
+            <p>Elute Mo-99 generator and try to get at least 100 mCi (3700 MBq) or more equal to or higher than the maximum activity capacity of the calibrator.</p>
+          </list-item>
+          <list-item>
+            <p>Measure and record the reading for 36 hours with a gap of 1 hour.</p>
+          </list-item>
+          <list-item>
+            <p>Record in an excel sheet and&#x000a0;trace a curve.&#x000a0;A straight line is expected for a linear response system, and any variation of more or less than 10% should be investigated.</p>
+          </list-item>
+          <list-item>
+            <p>It is essential to check that Tc-99m elute should not contaminate molybdenum-99 (Mo-99).</p>
+          </list-item>
+        </list>
+        <p>Geometric evaluation (volume-based) and accuracy should be performed once a year or after the system has been serviced or post power down. For geometric evaluation, Tc-99m activity should be filled in various syringes (3 ml, 5 ml, and 10 ml) in the same volume and measured. Any variation of more or less than 5% should be&#x000a0;reported for further evaluation. It is essential to maintain&#x000a0;a record&#x000a0; (hard and soft copies) of each QC procedure required for future audit purposes.<xref ref-type="bibr" rid="article-128635.r6">[6]</xref></p>
+        <p>
+<bold>Gamma Camera (SPECT-CT)&#x000a0;</bold>
+</p>
+        <p>The gamma camera (GC) is imaging equipment that can capture both 2D and 3D images. The GC acquires 3D images by rotating around the patient at various angles, known as projection from zero to 360 degrees. These features help to see more details to overcome any uncertainty presented by&#x000a0;2D images. Furthermore, in SPECT-CT, computed tomography (CT) components improve the attenuation correction to enhance image resolution and anatomical localization. For the GC, it is critical that all aspects of the QC procedure, including 2D and 3D, must be performed frequently on various frequencies to upkeep the consistent reproducibility of acquired images. Daily checks for energy peaking, background radiation, and crystal uniformity with a collimator are recommended (extrinsic uniformity). It is always good to use a flood field source made of Cobalt-57 (Co-57), which has a half-life of 272 days and gamma energy of 122 keV for daily uniformity checks of crystal (extrinsic uniformity).<xref ref-type="bibr" rid="article-128635.r7">[7]</xref><xref ref-type="bibr" rid="article-128635.r8">[8]</xref><xref ref-type="bibr" rid="article-128635.r9">[9]</xref>&#x000a0;</p>
+        <p>Co-57 based flood field source is recommended as its gamma energy is near Tc-99m (140 keV). Any issue with uniformity should be rectified as it can deteriorate the overall diagnostic quality of images. CT warm-up should be performed daily to ensure that the x-ray tube is working correctly. The SPECT-CT mechanical and software center should be evaluated weekly by checking the Center of Rotation (COR). Intrinsic uniformity (uniformity assessed without a collimator) should be checked once a week to ensure that the crystal performs appropriately. The integral uniformity (IU) at the center field of view (CFOV) and valuable field of view (UFOV) is calculated using the following formula:</p>
+        <p>%IU=[Maximum counts of pixel- Minimum counts of pixel/ maximum counts of pixel + minimum counts of pixel]X100<xref ref-type="bibr" rid="article-128635.r10">[10]</xref>&#x000a0;</p>
+        <p>GC&#x000a0; spatial resolution should be checked annually with the help bar phantom (2D spatial resolution) and Jaszczak phantom (3D spatial resolution and SPECT performance). In addition, SPECT-CT registration also needs to be checked with the help of a gadolinium-153 (Gd-153) radioactive source.<xref ref-type="bibr" rid="article-128635.r11">[11]</xref><xref ref-type="bibr" rid="article-128635.r12">[12]</xref></p>
+        <p>
+<bold>PET-CT</bold>
+</p>
+        <p>PET-CT imaging equipment can only acquire 3D images but have a higher spatial resolution than the GC. It is essential to regularly check equipment, including constancy and coincidence, and energy peaking. Most vendors recommend using a Ge-68 pre-filled phantom or in-built source for daily QC testing to ensure optimal crystal performance. The processing is often automated in modern systems, and the results can be recorded for further auditing. PET-CT plays an essential role in oncology regarding diagnosis and follow-up. The advantage of PET-CT-based imaging is that it provides quantification of the acquired images in the form of a special uptake value (SUV), which is calculated based on injected radiation dose and body mass index (BMI). It is mandatory to maintain SUV consistency, and this needs to be evaluated by well counter calibration manually. CT-related QC is also required to be performed regularly, including tube warm-up, CT number normalization, and PET-CT image registration.</p>
+      </sec>
+      <sec id="article-128635.s4" sec-type="Issues of Concern">
+        <title>Issues of Concern</title>
+        <p>Any NM department's routine QC procedure is essential as this practice helps maintain high-quality images consistently while also reducing the risk of radiation exposure to patients and staff. Temperature, humidity, equipment mishandling, and radioactive contamination are all factors that can affect the imaging and non-imaging equipment functionality directly. Therefore, it is critical to&#x000a0;closely monitor&#x000a0;images that appear degraded, as this could indicate faulty QC results.<xref ref-type="bibr" rid="article-128635.r13">[13]</xref><xref ref-type="bibr" rid="article-128635.r14">[14]</xref>&#x000a0;</p>
+        <p>In addition, it is crucial to keep track of all QC results and look for any significant shifts in trends. Most faulty QC results can be corrected by repeating the QC steps; however, reviewing results&#x000a0;with trained service engineers or physicists can be beneficial. Once a year, a QA committee meeting should be held to manage the issue and audit the QC results. Quality is not an individual responsibility&#x000a0;and is a collective effort. A&#x000a0;QA committee should include radiologists, NMT, pharmacists, medical physicists, radiology managers, and nurses.</p>
+      </sec>
+      <sec id="article-128635.s5" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>Any minor QC flaw in imaging instruments can impact the overall outcome of the image and the diagnostic decision-making process. Every NM department must have a robust QA plan to avoid any minor imaging instrument flaws and maintain the highest standards of image production for a more extended period. The NM department QA plan should be reviewed and updated every two years. A bi-annual review of the department's quality control protocols is highly recommended, and local regulatory bodies should evaluate the results. All employees should be encouraged to participate in any ongoing training opportunities to learn more about QA procedures.</p>
+      </sec>
+      <sec id="article-128635.s6" sec-type="Other Issues">
+        <title>Other Issues</title>
+        <p>NM QA is not limited to instruments and includes other factors that can reduce the overall diagnostic quality of acquired images. These factors include:</p>
+        <list list-type="order">
+          <list-item>
+            <p>Incorrect radiopharmaceutical&#x000a0;administration techniques&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Incorrect radiopharmaceutical&#x000a0;administration</p>
+          </list-item>
+          <list-item>
+            <p>An issue&#x000a0;with the labeling of radiopharmaceuticals&#x000a0;such as failed production<xref ref-type="bibr" rid="article-128635.r15">[15]</xref><xref ref-type="bibr" rid="article-128635.r16">[16]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Pre-exam instructions not being followed by patients, especially in the setting of 18-F-FDG PET scans</p>
+          </list-item>
+          <list-item>
+            <p>Patient movement during acquisition</p>
+          </list-item>
+          <list-item>
+            <p>Injection of radiopharmaceuticals to&#x000a0;the incorrect&#x000a0;patient</p>
+          </list-item>
+        </list>
+        <p>All these factors can be avoided or minimized by following specific rules, which include:</p>
+        <list list-type="order">
+          <list-item>
+            <p>Confirming patient identity and the requested scan before injecting a radiopharmaceutical</p>
+          </list-item>
+          <list-item>
+            <p>A radiopharmaceutical's QC results should be checked before administering it</p>
+          </list-item>
+          <list-item>
+            <p>Ensure injection techniques are followed correctly as any tissue radiopharmaceutical can give an unnecessary radiation burden to the patient and degrade the overall image quality</p>
+          </list-item>
+          <list-item>
+            <p>Proper explanation to the patient about the procedure to avoid any movement during the scan</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-128635.s7" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>QC is not an individual responsibility but rather a team effort involving everyone in&#x000a0;a department. It becomes even more critical in the setting of an NM department, where there is a risk of radiation exposure. Any minor QC flaw can negatively impact the overall diagnostic quality of images, resulting in a higher radiation burden for patients. Therefore, every team member should actively participate in the QA plan, including a radiologist, NMT, radiology manager, nurses, service engineers, medical physicists, and administrative staff. Regular meetings and an evidence-based approach can help reduce the likelihood of QC failure and help to upkeep standard services.</p>
+      </sec>
+      <sec id="article-128635.s8">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=128635&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=128635">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/128635/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=128635">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-128635.s9">
+        <title>References</title>
+        <ref id="article-128635.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ryu</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Meikle</surname>
+                <given-names>SR</given-names>
+              </name>
+              <name>
+                <surname>Willowson</surname>
+                <given-names>KP</given-names>
+              </name>
+              <name>
+                <surname>Eslick</surname>
+                <given-names>EM</given-names>
+              </name>
+              <name>
+                <surname>Bailey</surname>
+                <given-names>DL</given-names>
+              </name>
+            </person-group>
+            <article-title>Performance evaluation of quantitative SPECT/CT using NEMA NU 2 PET methodology.</article-title>
+            <source>Phys Med Biol</source>
+            <year>2019</year>
+            <month>Jul</month>
+            <day>18</day>
+            <volume>64</volume>
+            <issue>14</issue>
+            <fpage>145017</fpage>
+            <pub-id pub-id-type="pmid">31207583</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128635.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Matsutomo</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Kangai</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Yada</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Kenda</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kai</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Maeda</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Sakai</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Onishi</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Sasaki</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>[Evaluation of Measurement Accuracy and Inter-institutional Comparison for Dose Calibrators].</article-title>
+            <source>Nihon Hoshasen Gijutsu Gakkai Zasshi</source>
+            <year>2016</year>
+            <month>May</month>
+            <volume>72</volume>
+            <issue>5</issue>
+            <fpage>410</fpage>
+            <page-range>410-5</page-range>
+            <pub-id pub-id-type="pmid">27211086</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128635.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lopez</surname>
+                <given-names>BP</given-names>
+              </name>
+              <name>
+                <surname>Jordan</surname>
+                <given-names>DW</given-names>
+              </name>
+              <name>
+                <surname>Kemp</surname>
+                <given-names>BJ</given-names>
+              </name>
+              <name>
+                <surname>Kinahan</surname>
+                <given-names>PE</given-names>
+              </name>
+              <name>
+                <surname>Schmidtlein</surname>
+                <given-names>CR</given-names>
+              </name>
+              <name>
+                <surname>Mawlawi</surname>
+                <given-names>OR</given-names>
+              </name>
+            </person-group>
+            <article-title>PET/CT acceptance testing and quality assurance: Executive summary of AAPM Task Group 126 Report.</article-title>
+            <source>Med Phys</source>
+            <year>2021</year>
+            <month>Feb</month>
+            <volume>48</volume>
+            <issue>2</issue>
+            <fpage>e31</fpage>
+            <page-range>e31-e35</page-range>
+            <pub-id pub-id-type="pmid">33320364</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128635.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Giannoula</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Panagiotidis</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Katsikavelas</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Chatzipavlidou</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Sachpekidis</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Bamidis</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Raftopoulos</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Iakovou</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <article-title>Quality &#x00026; safety aspects of nuclear medicine practice: Definitions and review of the current literature.</article-title>
+            <source>Hell J Nucl Med</source>
+            <year>2020</year>
+            <season>Jan-Apr</season>
+            <volume>23</volume>
+            <issue>1</issue>
+            <fpage>60</fpage>
+            <page-range>60-66</page-range>
+            <pub-id pub-id-type="pmid">32361717</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128635.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mann</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Farrell</surname>
+                <given-names>MB</given-names>
+              </name>
+              <name>
+                <surname>Williams</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Basso</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Nuclear Medicine Technologists' Perception and Current Assessment of Quality: A Society of Nuclear Medicine and Molecular Imaging Technologist Section Survey.</article-title>
+            <source>J Nucl Med Technol</source>
+            <year>2017</year>
+            <month>Jun</month>
+            <volume>45</volume>
+            <issue>2</issue>
+            <fpage>67</fpage>
+            <page-range>67-74</page-range>
+            <pub-id pub-id-type="pmid">28473461</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128635.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Willegaignon</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Sapienza</surname>
+                <given-names>MT</given-names>
+              </name>
+              <name>
+                <surname>Coura-Filho</surname>
+                <given-names>GB</given-names>
+              </name>
+              <name>
+                <surname>Garcez</surname>
+                <given-names>AT</given-names>
+              </name>
+              <name>
+                <surname>Alves</surname>
+                <given-names>CE</given-names>
+              </name>
+              <name>
+                <surname>Cardona</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Gutterres</surname>
+                <given-names>RF</given-names>
+              </name>
+              <name>
+                <surname>Buchpiguel</surname>
+                <given-names>CA</given-names>
+              </name>
+            </person-group>
+            <article-title>Dose Calibrator Linearity Testing: Radioisotope (99m)Tc or (18)F? An Alternative for Reducing Costs in Nuclear Medicine Quality Control.</article-title>
+            <source>World J Nucl Med</source>
+            <year>2015</year>
+            <season>Sep-Dec</season>
+            <volume>14</volume>
+            <issue>3</issue>
+            <fpage>165</fpage>
+            <page-range>165-70</page-range>
+            <pub-id pub-id-type="pmid">26420986</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128635.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Grosser</surname>
+                <given-names>OS</given-names>
+              </name>
+              <name>
+                <surname>Ruf</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Kupitz</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Czuczwara</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Loewenthal</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Thormann</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Furth</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Ricke</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Pech</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Kreissl</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Amthauer</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Image Quality Assessment for Low-Dose-CT in Hybrid SPECT/CT Imaging.</article-title>
+            <source>Nuklearmedizin</source>
+            <year>2018</year>
+            <month>Aug</month>
+            <volume>57</volume>
+            <issue>4</issue>
+            <fpage>153</fpage>
+            <page-range>153-159</page-range>
+            <pub-id pub-id-type="pmid">30125927</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128635.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Edam</surname>
+                <given-names>AN</given-names>
+              </name>
+              <name>
+                <surname>Fornasier</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>De Denaro</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Sulieman</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Alkhorayef</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Bradley</surname>
+                <given-names>DA</given-names>
+              </name>
+            </person-group>
+            <article-title>Quality control in dual head gamma-cameras: Comparison between methods and software used for image analysis.</article-title>
+            <source>Appl Radiat Isot</source>
+            <year>2018</year>
+            <month>Nov</month>
+            <volume>141</volume>
+            <fpage>288</fpage>
+            <page-range>288-291</page-range>
+            <pub-id pub-id-type="pmid">30122471</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128635.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Case</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Bateman</surname>
+                <given-names>TM</given-names>
+              </name>
+            </person-group>
+            <article-title>Taking the perfect nuclear image: quality control, acquisition, and processing techniques for cardiac SPECT, PET, and hybrid imaging.</article-title>
+            <source>J Nucl Cardiol</source>
+            <year>2013</year>
+            <month>Oct</month>
+            <volume>20</volume>
+            <issue>5</issue>
+            <fpage>891</fpage>
+            <page-range>891-907</page-range>
+            <pub-id pub-id-type="pmid">23868070</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128635.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pandey</surname>
+                <given-names>AK</given-names>
+              </name>
+              <name>
+                <surname>Sharma</surname>
+                <given-names>PD</given-names>
+              </name>
+              <name>
+                <surname>Kumar</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Saroha</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Patel</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Bal</surname>
+                <given-names>CS</given-names>
+              </name>
+              <name>
+                <surname>Kumar</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Calculating Gamma Camera Uniformity Parameters: Beyond the Vendor-specific Protocol.</article-title>
+            <source>Indian J Nucl Med</source>
+            <year>2017</year>
+            <season>Oct-Dec</season>
+            <volume>32</volume>
+            <issue>4</issue>
+            <fpage>279</fpage>
+            <page-range>279-282</page-range>
+            <pub-id pub-id-type="pmid">29142343</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128635.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Nichols</surname>
+                <given-names>KJ</given-names>
+              </name>
+              <name>
+                <surname>DiFilippo</surname>
+                <given-names>FP</given-names>
+              </name>
+              <name>
+                <surname>Palestro</surname>
+                <given-names>CJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Texture analysis for automated evaluation of Jaszczak phantom SPECT system tests.</article-title>
+            <source>Med Phys</source>
+            <year>2019</year>
+            <month>Jan</month>
+            <volume>46</volume>
+            <issue>1</issue>
+            <fpage>262</fpage>
+            <page-range>262-272</page-range>
+            <pub-id pub-id-type="pmid">30418674</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128635.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Saha</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Hoyt</surname>
+                <given-names>SC</given-names>
+              </name>
+              <name>
+                <surname>Murray</surname>
+                <given-names>BM</given-names>
+              </name>
+            </person-group>
+            <article-title>Application of Chang's attenuation correction technique for single-photon emission computed tomography partial angle acquisition of Jaszczak phantom.</article-title>
+            <source>J Med Phys</source>
+            <year>2016</year>
+            <season>Jan-Mar</season>
+            <volume>41</volume>
+            <issue>1</issue>
+            <fpage>29</fpage>
+            <page-range>29-33</page-range>
+            <pub-id pub-id-type="pmid">27051167</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128635.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Farrell</surname>
+                <given-names>MB</given-names>
+              </name>
+              <name>
+                <surname>Abreu</surname>
+                <given-names>SH</given-names>
+              </name>
+            </person-group>
+            <article-title>A practical guide to quality improvement in nuclear medicine.</article-title>
+            <source>J Nucl Med Technol</source>
+            <year>2012</year>
+            <month>Dec</month>
+            <volume>40</volume>
+            <issue>4</issue>
+            <fpage>211</fpage>
+            <page-range>211-9</page-range>
+            <pub-id pub-id-type="pmid">23071346</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128635.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dondi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Paez</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Torres</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Marengo</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Delaloye</surname>
+                <given-names>AB</given-names>
+              </name>
+              <name>
+                <surname>Solanki</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Van Zyl Ellmann</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Lobato</surname>
+                <given-names>EE</given-names>
+              </name>
+              <name>
+                <surname>Miller</surname>
+                <given-names>RN</given-names>
+              </name>
+              <name>
+                <surname>Giammarile</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Pascual</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Implementation of Quality Systems in Nuclear Medicine: Why It Matters. An Outcome Analysis (Quality Management Audits in Nuclear Medicine Part III).</article-title>
+            <source>Semin Nucl Med</source>
+            <year>2018</year>
+            <month>May</month>
+            <volume>48</volume>
+            <issue>3</issue>
+            <fpage>299</fpage>
+            <page-range>299-306</page-range>
+            <pub-id pub-id-type="pmid">29626946</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128635.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Buroni</surname>
+                <given-names>FE</given-names>
+              </name>
+              <name>
+                <surname>Lodola</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Persico</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Aprile</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Deficiencies in product labelling instructions and quality control directions for 99mTc radiopharmaceuticals.</article-title>
+            <source>Nucl Med Commun</source>
+            <year>2014</year>
+            <month>Feb</month>
+            <volume>35</volume>
+            <issue>2</issue>
+            <fpage>197</fpage>
+            <page-range>197-204</page-range>
+            <pub-id pub-id-type="pmid">24177040</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-128635.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Larcos</surname>
+                <given-names>GS</given-names>
+              </name>
+              <name>
+                <surname>Collins</surname>
+                <given-names>LT</given-names>
+              </name>
+              <name>
+                <surname>Georgiou</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Westbrook</surname>
+                <given-names>JI</given-names>
+              </name>
+            </person-group>
+            <article-title>Maladministrations in nuclear medicine: revelations from the Australian Radiation Incident Register.</article-title>
+            <source>Med J Aust</source>
+            <year>2014</year>
+            <month>Jan</month>
+            <day>20</day>
+            <volume>200</volume>
+            <issue>1</issue>
+            <fpage>37</fpage>
+            <page-range>37-40</page-range>
+            <pub-id pub-id-type="pmid">24438417</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

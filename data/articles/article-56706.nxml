@@ -1,0 +1,2048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-56706" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Physiology, Immune Response</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Justiz Vaillant</surname>
+            <given-names>Angel A.</given-names>
+          </name>
+          <aff>University of the West Indies</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Sabir</surname>
+            <given-names>Sarah</given-names>
+          </name>
+          <aff>Rawalpindi Medical University</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Jan</surname>
+            <given-names>Arif</given-names>
+          </name>
+          <aff>Drexel University</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Angel Justiz Vaillant declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Sarah Sabir declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Arif Jan declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>27</day>
+          <month>7</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-56706.s1" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>The immune response is the body's ability to stay safe by protecting against harmful agents.&#x000a0;The response involves lines of defense against most microbes and specialized and highly specific responses to particular offenders. This immune response is either innate, nonspecific, adaptive acquired, or highly specific. The innate response, often our first defense against anything foreign, defends the body against a pathogen. These natural mechanisms include the skin barrier, saliva, tears, cytokines, complement proteins, lysozyme, bacterial flora, and numerous cells, including neutrophils, basophils, eosinophils, monocytes, macrophages, reticuloendothelial system, natural killer cells, epithelial cells, endothelial cells, red blood cells, and platelets.</p>
+        <p>The adaptive acquired immune response uses the ability of specific lymphocytes and their products, such as immunoglobulins and cytokines, to generate a response against the invading microbes. The typical features include:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Specificity:&#x000a0;The triggering mechanism is a particular pathogen, immunogen, or antigen.&#x000a0;</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Heterogeneity:&#x000a0;Signifies the production of millions of different effectors of the immune response (antibodies) against millions of intruders.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Memory: The immune system has the ability not only to recognize the pathogen on its second contact but also to generate a faster and stronger response.<xref ref-type="bibr" rid="article-56706.r1">[1]</xref><xref ref-type="bibr" rid="article-56706.r2">[2]</xref><xref ref-type="bibr" rid="article-56706.r3">[3]</xref></p>
+          </list-item>
+        </list>
+        <p>The inflammatory immune response is innate immunity that blocks the entry of invading pathogens through the skin, respiratory, or gastrointestinal tract. If pathogens can breach the epithelial surfaces, they encounter macrophages in the subepithelial tissues that attempt to engulf them and produce cytokines to amplify the inflammatory response. Active immunity results from the immune system's response to an antigen and, therefore, is acquired. Immunity resulting from the transfer of immune cells or antibodies from an immunized individual is passive immunity. The immune system has evolved to maintain homeostasis&#x000a0;to discriminate between foreign antigens and self; however, an autoimmune reaction or disease develops when this specificity is affected.</p>
+      </sec>
+      <sec id="article-56706.s2" sec-type="Issues of Concern">
+        <title>Issues of Concern</title>
+        <p>Although&#x000a0;the immune system is designed to protect individuals against threats, an exaggerated immune response sometimes generates a reaction against self-antigens, leading to autoimmunity.&#x000a0;The&#x000a0;immune system cannot always defend against all threats, including:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Transplantation rejections:&#x000a0;These immune-mediated responses represent a hindrance to transplantation.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Autoimmune disorders: The etiology of many autoimmune disorders is obscure; the prevalence of these disorders increases and manifests more aggressively.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Type-1 hypersensitivity disorders:&#x000a0;These immune-mediated conditions include allergic bronchial asthma, food allergy, and anaphylactic shock.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Immunodeficiency disorders:&#x000a0;Although rare, these disorders can affect some children.</p>
+          </list-item>
+        </list>
+        <p>Vaccination is required to induce an adequate active immune response to specific pathogens:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Live attenuated vaccines: Induce both humoral and cellular responses; contraindicated in pregnancy and immunocompromised states. Examples include adenovirus, polio (Sabin), varicella, smallpox, Bacillus&#x000a0;Calmette-Guerin (BCG), yellow fever, influenza (intranasal), MMR, and rotavirus.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Killed or inactivated vaccines: Induce only humoral response; examples include rabies, influenza (injection), polio (Salk), and hepatitis A.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Subunit vaccines: Examples include hepatitis B virus, human&#x000a0;papillomavirus&#x000a0;(types 6, 11, 16, and 18), acellular pertussis, <italic toggle="yes">Neisseria meningitidis</italic>, <italic toggle="yes">Streptococcus pneumoniae</italic>, and <italic toggle="yes">Haemophilus influenzae</italic><bold><italic toggle="yes">&#x000a0;</italic></bold><italic toggle="yes">type b</italic>.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Toxoid vaccine: Examples include <italic toggle="yes">Clostridium tetani </italic>and&#x000a0;<italic toggle="yes">Corynebacterium diphtheriae.</italic></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-56706.s3" sec-type="Cellular Level&#x0000d;&#x0000a;">
+        <title>Cellular Level
+</title>
+        <p>Cells of the innate immunity include:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Phagocytes, such as monocytes, macrophages, neutrophils, and dendritic cells</p>
+          </list-item>
+          <list-item>
+            <p>Natural killer cells</p>
+          </list-item>
+        </list>
+        <p>Cells of the adaptive response include:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>T lymphocytes classified as CD4+ T cells and CD8+ T cells</p>
+          </list-item>
+          <list-item>
+            <p>B lymphocytes differentiate into plasma cells, which produce specific antibodies</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-56706.s4" sec-type="Development">
+        <title>Development</title>
+        <p>Mesoderm cells are induced to form hemangioblasts, a common precursor for vessels and blood cell formation. The aorta-gonad-mesonephros region is the definitive hematopoietic stem cell from the mesoderm surrounding the aorta. These stem cells colonize the liver and are actively produced by the bone marrow by the seventh month of gestation.<xref ref-type="bibr" rid="article-56706.r4">[4]</xref></p>
+      </sec>
+      <sec id="article-56706.s5" sec-type="Organ Systems Involved">
+        <title>Organ Systems Involved</title>
+        <p>The organ systems involved in the immune response are primarily lymphoid organs, which include the spleen, thymus, bone marrow, lymph nodes, tonsils, and liver. The lymphoid organ system is classified according to the following:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Primary lymphoid organs (thymus and bone marrow): These are the sites where T and B cells first express antigen receptors and mature functionally.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Secondary lymphoid organs&#x000a0;(spleen, tonsils, lymph nodes, and the cutaneous and mucosal immune system): These&#x000a0;are the locations where B and T lymphocytes recognize foreign antigens and develop appropriate immune responses.</p>
+          </list-item>
+        </list>
+        <p>T lymphocytes mature in the thymus, where they reach a stage of functional competence, whereas B lymphocytes mature in the bone marrow, the site where all circulating blood cells originate. Excessive release of cytokines stimulated by these organisms can lead to tissue damage, such as endotoxin shock syndrome.</p>
+      </sec>
+      <sec id="article-56706.s6" sec-type="Function">
+        <title>Function</title>
+        <p>
+<bold>Immune Response to Bacteria</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Neutralizing antibodies are produced if the bacterial pathogenicity is due to a toxin.</p>
+          </list-item>
+          <list-item>
+            <p>Opsonizing antibodies are produced as they are essential in destroying extracellular bacteria.</p>
+          </list-item>
+          <list-item>
+            <p>The complement system is activated especially by gram-negative bacterial lipid layers.</p>
+          </list-item>
+          <list-item>
+            <p>Phagocytes kill most bacteria by using positive chemotaxis, attachment, uptake, and, finally, engulfing the bacteria.</p>
+          </list-item>
+          <list-item>
+            <p>CD8+ T cells can kill cells infected by bacteria.<xref ref-type="bibr" rid="article-56706.r5">[5]</xref></p>
+          </list-item>
+        </list>
+        <p>
+<bold>Immune Response to Fungi&#x000a0;</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>The innate immunity to fungi includes defensins and phagocytes.</p>
+          </list-item>
+          <list-item>
+            <p>CD4+ T-helper cells are responsible for the adaptive immune response against fungi.</p>
+          </list-item>
+          <list-item>
+            <p>Dendritic cells&#x000a0;secrete interleukin-12 (IL-12) after ingesting fungi, and&#x000a0;IL-12 activates the synthesis of gamma interferon, which activates cell-mediated immunity.<xref ref-type="bibr" rid="article-56706.r6">[6]</xref></p>
+          </list-item>
+        </list>
+        <p>
+<bold>Immune Response to Viruses&#x000a0;</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Interferons,&#x000a0;natural killer cells, and phagocytes prevent the spread of viruses in the early stages of infection.</p>
+          </list-item>
+          <list-item>
+            <p>Specific antibodies and complement proteins participate in viral neutralization and can limit the spread and reinfection.</p>
+          </list-item>
+          <list-item>
+            <p>Adaptive immunity is crucial for protecting the body against viruses, including CD8+ T cells, which kill infected cells, and CD4+ T cells,&#x000a0;which serve as the dominant effector cell population in response to many virus infections.<xref ref-type="bibr" rid="article-56706.r7">[7]</xref></p>
+          </list-item>
+        </list>
+        <p>Antigenic variation is a mutation in proteins typically recognized by antibodies and lymphocytes. HIV continually mutates, making protection and vaccine development difficult. Virches disrupt the interferon response by disrupting 2',5'-oligoadenylate synthetase activity or producing soluble interferon receptors. Viruses affect the expression of MHC molecules by several mechanisms. They can also infect immune cells; normal T and B cells are also sites of virus persistence. HIV hides in CD4+T cells, and EBV in B cells.</p>
+        <p>
+<bold>Immune Response to Parasites</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Parasitic infection stimulates various mechanisms of immunity due to their complex life cycle.</p>
+          </list-item>
+          <list-item>
+            <p>Both CD4+ and CD8+ cells protect against parasites.</p>
+          </list-item>
+          <list-item>
+            <p>Macrophages, eosinophils, neutrophils, and platelets can kill protozoa and worms by releasing reactive oxygen radicals and nitric oxide.</p>
+          </list-item>
+          <list-item>
+            <p>Increased eosinophil number and the stimulation of IgE by Th-2 CD4+ T cells are necessary to kill intestinal worms.</p>
+          </list-item>
+          <list-item>
+            <p>Inflammatory responses also combat parasitic infections.<xref ref-type="bibr" rid="article-56706.r8">[8]</xref></p>
+          </list-item>
+        </list>
+        <p>Despite immune response(s) generated by intact and functional immune systems, humans are susceptible to infection often due to evasive mechanisms employed by these microbes.&#x000a0;</p>
+        <p>
+<bold>Strategies of Bacteria to Evade the Immune System</bold>
+</p>
+        <p>Intracellular pathogens may hide in cells: Bacteria can live inside metabolically damaged host leukocytes and escape from phagolysosomes (<italic toggle="yes">Shigella spp</italic>).</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Production of toxins that inhibit the phagocytosis.</p>
+          </list-item>
+          <list-item>
+            <p>They prevent&#x000a0;killing by encapsulation.</p>
+          </list-item>
+          <list-item>
+            <p>The release of catalase inactivates hydrogen peroxide.</p>
+          </list-item>
+          <list-item>
+            <p>They infect cells and then cause impaired antigenic presentation.</p>
+          </list-item>
+          <list-item>
+            <p>The organism may kill the phagocyte by apoptosis or necrosis.</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Strategies of Fungi to Evade the Immune System</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Fungi produce a polysaccharide capsule, which inhibits phagocytosis and overcomes opsonization, complement,&#x000a0;and antibodies.</p>
+          </list-item>
+          <list-item>
+            <p>Some fungi inhibit the activities of host T cells from delaying&#x000a0;cell-mediated killing.</p>
+          </list-item>
+          <list-item>
+            <p>Other organisms, such as&#x000a0;<italic toggle="yes">Histoplasma</italic>
+<italic toggle="yes">capsulatum</italic>,&#x000a0;evade macrophage killing by entering the cells through CR3 and escaping from the phagosome.</p>
+          </list-item>
+        </list>
+        <p><bold>Strategies of Parasites to Evade the Immune System</bold><italic toggle="yes">&#x000a0;</italic>&#x000a0;</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Parasites can resist destruction by complement.</p>
+          </list-item>
+          <list-item>
+            <p>Intracellular parasites can avoid being killed by lysosomal enzymes and oxygen metabolites.</p>
+          </list-item>
+          <list-item>
+            <p>Parasites disguise themselves as a protection mechanism.</p>
+          </list-item>
+          <list-item>
+            <p>Antigenic variation, such as African trypanosome, is crucial for evading the immune system.</p>
+          </list-item>
+          <list-item>
+            <p>Parasites release molecules that interfere with the normal function of the immune system.</p>
+          </list-item>
+        </list>
+        <p>The immune response is a complex and highly coordinated process that the body uses to defend against pathogens such as bacteria, viruses, fungi, and parasites. This system comprises a network of cells, tissues, and organs that work in concert to identify and neutralize these harmful invaders. Understanding the immune response mechanism involves exploring innate (nonspecific) and adaptive (specific) immunity and the various components and pathways involved in recognizing and responding to pathogens.</p>
+        <p>
+<bold>Innate Immunity</bold>
+</p>
+        <p>Innate immunity is the body's first line of defense and provides an immediate, albeit nonspecific, response to pathogens. This form of immunity does not provide long-lasting protection but is an essential initial barrier to infection.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Physical and chemical barriers: The first elements of the innate immune response are physical and chemical barriers, which prevent pathogens from entering the body.
+<list list-type="bullet"><list-item><p>Skin&#x000a0;is a physical barrier with a tough outer layer of dead cells and antimicrobial peptides.</p></list-item><list-item><p>Mucous membranes line the respiratory, gastrointestinal, and urogenital tracts, trapping pathogens in mucus.</p></list-item><list-item><p>Secretions such as saliva, tears, and gastric acid&#x000a0;contain enzymes&#x000a0;such as&#x000a0;lysozyme that can break down bacterial cell walls.</p></list-item></list>
+</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Cellular components
+<list list-type="bullet"><list-item><p>Various cell types play critical roles in the innate immune response.</p></list-item><list-item><p>Phagocytes, including macrophages, neutrophils, and dendritic cells, engulf and digest pathogens through phagocytosis.Natural killer cells can recognize and kill infected or cancerous cells by inducing apoptosis, also known as programmed cell death.</p></list-item><list-item><p>Mast cells and basophils&#x000a0;release histamines and other chemicals during inflammatory responses, increasing blood flow and recruiting other immune cells to the site of infection.</p></list-item></list>
+</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Soluble Mediators</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Cytokines: These signaling molecules, such as interleukins and interferons, coordinate the immune response by promoting cell communication and activating immune cells.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Complement systems&#x000a0;are a group of proteins that, when activated, can directly kill pathogens or facilitate phagocyte uptake through opsonization.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Acute phase proteins such as c-reactive protein, which increase in response to infection and inflammation, enhance the immune response.<xref ref-type="bibr" rid="article-56706.r9">[9]</xref></p>
+          </list-item>
+        </list>
+        <p>
+<bold>Adaptive Immune Response</bold>
+</p>
+        <p>Adaptive immunity provides a specific response to pathogens and retains a memory of past infections, allowing for a more rapid and robust response upon subsequent exposures. This branch of the immune system is characterized by the diversity of&#x000a0;the responses and the ability to recognize specific antigens.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Adaptive immunity relies on&#x000a0;2 main types of lymphocytes:
+<list list-type="bullet"><list-item><p>B cells: Responsible for humoral immunity, B cells produce antibodies that bind to antigens, neutralizing pathogens or marking them for destruction by other immune cells.</p></list-item><list-item><p>T cells: Involved in cell-mediated immunity, including:
+<list list-type="bullet"><list-item><p>Helper T cells (CD4+): Assist other immune cells by releasing cytokines</p></list-item><list-item><p>Cytotoxic T cells (CD8+): Directly kill infected or cancerous cells</p></list-item></list>
+</p></list-item></list>
+</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Antigen Presentation
+<list list-type="bullet"><list-item><p>The adaptive immune response is initiated when antigen-presenting cells, such as dendritic cells and macrophages, present antigens on their surface using major histocompatibility complex (MHC) molecules.&#x000a0;</p></list-item><list-item><p>MHC Class I: Presents intracellular antigens to cytotoxic T cells.</p></list-item><list-item><p>MHC Class II: Presents extracellular antigens to helper T cells.</p></list-item></list>
+</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Clonal selection and expansion: Upon recognizing an antigen, specific B and T cells undergo clonal selection and expansion. In this process, the specific lymphocyte that binds to the antigen proliferates, creating many effector cells&#x000a0;to combat the pathogen.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Memory cells are also produced, which persist long-term and provide rapid responses to future encounters with the same pathogen.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Immunological memory is when B and T cells remain in the body after an initial infection&#x000a0;is cleared, allowing for a faster and more effective response upon re-exposure to the same pathogen. This principle underlies the effectiveness of vaccines, which expose the immune system to a harmless form of a pathogen, inducing memory cell formation without causing disease.<xref ref-type="bibr" rid="article-56706.r10">[10]</xref><xref ref-type="bibr" rid="article-56706.r11">[11]</xref></p>
+          </list-item>
+        </list>
+        <p>
+<bold>Immune Response Pathways</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Inflammatory Response: An essential component of innate immunity, inflammation is characterized by redness, heat, swelling, and pain, involving:
+<list list-type="bullet"><list-item><p>Vasodilation: Increased blood flow to the infected area.</p></list-item><list-item><p>Increased permeability: Allows immune cells and proteins to exit the bloodstream and enter the tissue.</p></list-item><list-item><p>Recruitment of immune cells: Chemokines attract neutrophils, macrophages, and other cells to the infection site.</p></list-item></list>
+</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Humoral Response: This aspect of adaptive immunity involves B cells and antibody production.</p>
+          </list-item>
+          <list-item>
+            <p>Antigen recognition: B cells bind antigens through their B-cell receptors.</p>
+          </list-item>
+          <list-item>
+            <p>T cell help: Helper T cells provide signals (cytokines) that stimulate B-cell activation and differentiation.</p>
+          </list-item>
+          <list-item>
+            <p>Antibody production: Activated B cells differentiate into plasma cells, producing antibodies that neutralize pathogens or mark them for destruction.</p>
+          </list-item>
+          <list-item>
+            <p>The cell-mediated response involves T cells targeting infected or abnormal cells.</p>
+          </list-item>
+          <list-item>
+            <p>Cytotoxic T cells recognize infected cells through T-cell receptors and MHC I interactions.</p>
+          </list-item>
+          <list-item>
+            <p>Cytotoxic T cells induce apoptosis in infected cells using perforin and granzymes.<xref ref-type="bibr" rid="article-56706.r12">[12]</xref></p>
+          </list-item>
+        </list>
+        <p>
+<bold>Regulation of Immune Responses</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Regulatory T cells: Suppress immune responses, maintain tolerance to self-antigens, and prevent autoimmune diseases.</p>
+          </list-item>
+          <list-item>
+            <p>Negative feedback mechanisms: Cytokines such as IL-10 and transforming growth factor beta inhibit the activation of immune cells.</p>
+          </list-item>
+          <list-item>
+            <p>Checkpoint proteins: Molecules&#x000a0;such as CTLA-4 and PD-1 on T cells can downregulate immune responses, a target for certain cancer immunotherapies.</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Pathogen Evasion Strategies</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Antigenic variation: Altering surface proteins to avoid detection, such as influenza virus).</p>
+          </list-item>
+          <list-item>
+            <p>Inhibiting antigen presentation: Some viruses interfere with MHC presentation, such as cytomegalovirus.</p>
+          </list-item>
+          <list-item>
+            <p>Resisting phagocytosis: Bacteria&#x000a0;such as&#x000a0;<italic toggle="yes">Mycobacterium tuberculosi</italic>s can survive within phagocytes.</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Clinical Implications</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Vaccines stimulate the immune system to develop memory cells without causing disease.&#x000a0;
+<list list-type="bullet"><list-item><p>Live attenuated vaccines contain weakened forms of the pathogen.</p></list-item><list-item><p>Inactivated vaccines contain killed pathogens or parts of the pathogen.</p></list-item><list-item><p>Subunit vaccines include only the antigens that best stimulate the immune response.</p></list-item><list-item><p>Messenger RNA vaccines encode a viral protein, prompting cells to produce the antigen and stimulate immunity.</p></list-item></list>
+</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Autoimmune diseases&#x000a0;such as rheumatoid arthritis, lupus, and multiple sclerosis can occur. Treatment often involves immunosuppressive drugs to reduce immune activity.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Immunodeficiencies&#x000a0;such as AIDS, caused by HIV, lead to weakened immune responses. Treatments focus on antiretroviral therapies to control viral load and boost immune function.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Cancer immunotherapy, including checkpoint inhibitors and chimeric antigen receptor<bold>&#x000a0;</bold>T-cell therapy, aims to enhance the ability of the immune system to target and destroy cancer cells. The immune response is a multifaceted and dynamic system that protects the body against infections and diseases.&#x000a0;The therapy involves a coordinated effort between innate and adaptive immunity, utilizing a variety of cells, molecules, and mechanisms to identify and neutralize pathogens. Advances in immunology continue to improve our understanding and treatment of immune-related conditions, highlighting the importance of this field in medical science.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-56706.s7" sec-type="Mechanism">
+        <title>Mechanism</title>
+        <p>Macrophages produce lysosomal enzymes and reactive oxygen species to eliminate the ingested pathogens. These cells produce cytokines that attract other leukocytes to the site of infection. The innate response to viruses includes synthesizing and releasing interferons and activating natural killer cells that recognize and destroy the virus-infected cells. The innate immunity against bacteria consists of activating neutrophils that ingest pathogens and moving monocytes to the inflamed tissue, where they become macrophages. These macrophages can engulf and process the antigen and present it to activated specialized cells. Eosinophils protect against parasitic infections by releasing the content of their granules.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Antibody-dependent cell-mediated cytotoxicity: A&#x000a0;cytotoxic reaction where Fc-receptor-expressing&#x000a0;killer cells recognize target cells through specific antibodies.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Affinity maturation: The increase in average antibody affinity is mostly observed during a secondary immune response.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Complement system:&#x000a0;A molecular cascade of serum proteins involved in controlling inflammation, lytic attack on cell membranes, and activation of phagocytes. The system can undergo activation by interaction with immunoglobulin G (IgG) or IgM (classical pathway) or by involving factors B, D, H, P, I, and C3, which interact closely with an activator surface to generate an alternative pathway, C3 convertase.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Anergy: The failure to induce an immune response following stimulation with a potential immunogen.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Antigen processing: The conversion of an antigen into a form that lymphocytes can recognize.&#x000a0;This process is the initial stimulus for the generation of an immune response.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Antigen presentation: In this process, specific immune system cells express antigenic peptides in their cell membrane along with alleles of the MHCs recognizable by lymphocytes.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Apoptosis: Programmed cell death involving nuclear fragmentation and the formation of apoptotic bodies.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Chemotaxis: Migration of cells in response to concentration gradients of chemotactic factors.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Hypersensitivity reaction: A robust immune response that causes tissue damage more considerable than&#x000a0;what is caused by the antigen or pathogen. For instance, allergic bronchial asthma and systemic lupus erythematosus are examples of type I and type III hypersensitivity reactions.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Inflammation: Certain reactions that attract cells and molecules of the immune system to the site of infection or damage feature increased blood supply, vascular permeability, and transendothelial migration of blood cells (leukocytes).</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Opsonization: A process of facilitated phagocytosis by depositing opsonins (IgG and C3b) on the antigen.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Phagocytosis: The process by which cells such as macrophages and dendritic cells take up or engulf an antigenic material or microbe&#x000a0;to enclose&#x000a0;within a phagosome in the cytoplasm.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Immunological tolerance: A state of specific immunological unresponsiveness.<xref ref-type="bibr" rid="article-56706.r13">[13]</xref><xref ref-type="bibr" rid="article-56706.r14">[14]</xref></p>
+          </list-item>
+        </list>
+        <p>
+<bold>Hypersensitivity Reactions</bold>
+</p>
+        <p>Hypersensitivity reactions are overreactive immune responses to antigens&#x000a0;that normally cause an immune reaction.</p>
+        <p><bold>Type 1 hypersensitivity reactions:</bold> Initial exposure to the antigen stimulates Th2 cells, which release IL-4, leading the B cells to switch from producing IgM to IgE antibodies, which are antigen-specific. These IgE antibodies bind to&#x000a0;mast cells&#x000a0;and basophils, sensitizing them to the antigen. Upon subsequent exposure to the allergen, the bound IgE&#x000a0;on sensitized mast cells and basophils is cross-linked, causing the degranulation and release of preformed mediators, including histamine, leukotrienes, and prostaglandins. These&#x000a0;events cause<bold> system</bold>ic vasodilation, bronchoconstriction, and increased permeability of the vascular endothelium.</p>
+        <p>The reaction can be divided into&#x000a0;2 stages as follows:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Immediate response: The release of preformed mediators causes the immune response.</p>
+          </list-item>
+          <list-item>
+            <p>Late-phase response: Occurs 8 to 12 hours later,&#x000a0;when the cytokines released in the immediate stage stimulate basophils, eosinophils, and neutrophils<bold>&#x000a0;</bold>even though the allergen has been removed.</p>
+          </list-item>
+        </list>
+        <p><bold>Type 2 hypersensitivity reactions (antibody-dependent cytotoxic hypersensitivity):</bold> Immune response against the antigens on the cell surface. Antibodies binding to the cell surface activate the complement system and cause the degranulation of&#x000a0;neutrophils and cell destruction. Such reactions can be targeted at self or nonself&#x000a0;antigens. ABO blood group incompatibility leading to acute hemolytic transfusion reactions is an example of type 2 hypersensitivity.</p>
+        <p><bold>Type 3 hypersensitivity reactions:</bold>&#x000a0;These reactions are also mediated by circulating antigen-antibody complexes that may be deposited in and damage tissues. Unlike type 2 hypersensitivity, the antigens in type 3 reactions are soluble rather than cell-bound.&#x000a0;</p>
+        <p><bold>Type 4 hypersensitivity reactions (delayed-type hypersensitivity reactions):</bold>&#x000a0;These reactions are mediated by antigen-specific activated&#x000a0;T-cells.&#x000a0;When an antigen enters the body, antigen-presenting cells&#x000a0;process and present with the MHC II to a Th1 cell. If the T-helper cell has been sensitized to that particular antigen,&#x000a0;it releases&#x000a0;chemokines to activate macrophages and cytokines such as interferon-&#x003b3;, causing local tissue damage. This reaction takes longer compared to other types, typically around 24 to 72 hours.<bold>&#x000a0;</bold></p>
+        <p>
+<bold>Transplant Rejection</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Xenografts are grafts between members of different species that trigger the maximal immune response&#x02014;rapid rejection.</p>
+          </list-item>
+          <list-item>
+            <p>Allografts are grafts between members of the same species.</p>
+          </list-item>
+          <list-item>
+            <p>Autografts are grafts from one part of the body to another. No rejection occurs.</p>
+          </list-item>
+          <list-item>
+            <p>Isografts are grafts between genetically identical individuals. No rejection occurs.</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Hyperacute Rejection</bold>
+</p>
+        <p>In hyperacute rejection, the transplanted tissue is rejected within minutes to hours because vascularization is rapidly destroyed. Hyperacute rejection is antibody-mediated and occurs because the recipient has preexisting antibodies against the graft, possibly due to prior blood transfusions, multiple pregnancies, prior transplantation, or xenografts. Activation of the complement system leads to thrombosis in the vessels, preventing the vascularization of the graft.&#x000a0;</p>
+        <p>
+<bold>Acute Rejection</bold>
+</p>
+        <p>Acute rejection develops within weeks to months. The rejection involves the activation of T lymphocytes against donor MHC. This reaction may also involve a humoral immune response when antibodies develop after transplant.&#x000a0;The inflammation&#x000a0;occurs as vasculitis of graft vessels with dense interstitial lymphocytic infiltrate.&#x000a0;</p>
+        <p>
+<bold>Chronic Rejection</bold>
+</p>
+        <p>Chronic rejection develops months to years after acute rejection episodes. Chronic rejections are both antibody- and cell-mediated. The use of immunosuppressive drugs and tissue-typing methods has increased the survival of allografts in the first year, but chronic rejection is not prevented in most cases.&#x000a0;The inflammation generally presents&#x000a0;as fibrosis and scarring. In heart transplants, chronic rejection manifests as accelerated atherosclerosis. In transplanted lungs,&#x000a0;this manifests as bronchiolitis obliterans.&#x000a0;In liver transplants,&#x000a0;the inflammation&#x000a0;manifests as vanishing bile duct syndrome. In kidney recipients,&#x000a0;the inflammation manifests as fibrosis and glomerulopathy.&#x000a0;</p>
+        <p>
+<bold>Graft-Versus-Host Disease</bold>
+</p>
+        <p>The onset of graft-versus-host disease varies. Grafted immunocompetent T cells proliferate in the immunocompromised host and reject host cells that they consider 'nonself,' leading to severe organ dysfunction.&#x000a0;This type 4 hypersensitivity reaction manifests as maculopapular rash, jaundice, diarrhea, and hepatosplenomegaly.&#x000a0;The inflammation typically occurs in bone marrow and liver transplants rich in lymphocytes.&#x000a0;</p>
+      </sec>
+      <sec id="article-56706.s8" sec-type="Related Testing">
+        <title>Related Testing</title>
+        <p>The immunological&#x000a0;studies of innate and adaptive immunity include the assessment of immunoglobulins, B- and T-lymphocyte counts, lymphocyte stimulation assays, quantification of complement system components, and phagocytic activity.<xref ref-type="bibr" rid="article-56706.r15">[15]</xref><xref ref-type="bibr" rid="article-56706.r16">[16]</xref><xref ref-type="bibr" rid="article-56706.r17">[17]</xref><xref ref-type="bibr" rid="article-56706.r18">[18]</xref><xref ref-type="bibr" rid="article-56706.r19">[19]</xref></p>
+        <p>
+<bold>Quantitative Serum Immunoglobulins</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>IgG</p>
+          </list-item>
+          <list-item>
+            <p>IgM</p>
+          </list-item>
+          <list-item>
+            <p>IgA</p>
+          </list-item>
+          <list-item>
+            <p>IgE</p>
+          </list-item>
+        </list>
+        <p>IgG can be further categorized into subclasses:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>IgG1</p>
+          </list-item>
+          <list-item>
+            <p>IgG2</p>
+          </list-item>
+          <list-item>
+            <p>IgG3</p>
+          </list-item>
+          <list-item>
+            <p>IgG4</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Antibody Activity&#x000a0;</bold>
+</p>
+        <p>
+<bold>IgG antibodies (post-immunization)</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Tetanus toxoid</p>
+          </list-item>
+          <list-item>
+            <p>Diphtheria toxoid</p>
+          </list-item>
+          <list-item>
+            <p>Pneumococcal polysaccharide</p>
+          </list-item>
+          <list-item>
+            <p>Polio</p>
+          </list-item>
+        </list>
+        <p>
+<bold>IgG antibodies (post-exposure)</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Rubella</p>
+          </list-item>
+          <list-item>
+            <p>Measles</p>
+          </list-item>
+          <list-item>
+            <p>Varicella zoster</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Detection of isohemagglutinins (IgM)</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Anti-type A blood</p>
+          </list-item>
+          <list-item>
+            <p>Anti-type B blood</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Other assays</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Test for&#x000a0;heterophile antibody</p>
+          </list-item>
+          <list-item>
+            <p>Anti-streptolysin O titer</p>
+          </list-item>
+          <list-item>
+            <p>Immunodiagnosis of infectious diseases (HIV, hepatitis B and C, human T-lymphotropic virus type 1, and dengue)</p>
+          </list-item>
+          <list-item>
+            <p>Serum protein electrophoresis</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Blood Lymphocyte Subpopulations</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Total lymphocyte count</p>
+          </list-item>
+          <list-item>
+            <p>T lymphocytes (CD3+, CD4+, and CD8+)</p>
+          </list-item>
+          <list-item>
+            <p>B lymphocytes (CD19 and CD20)</p>
+          </list-item>
+          <list-item>
+            <p>CD4+ to CD8+ ratio</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Lymphocyte Stimulation Assays</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Phorbol ester and ionophore</p>
+          </list-item>
+          <list-item>
+            <p>Phytohemagglutinin</p>
+          </list-item>
+          <list-item>
+            <p>Antiserum to CD3+</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Phagocytic Function</bold>
+</p>
+        <p>
+<bold>Nitroblue tetrazolium test (before and after stimulation with endotoxin)</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Unstimulated</p>
+          </list-item>
+          <list-item>
+            <p>Stimulated</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Neutrophil mobility</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>In medium alone</p>
+          </list-item>
+          <list-item>
+            <p>In the presence of chemoattractant</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Complement System Evaluation</bold>
+</p>
+        <p>Measurement of individual components by immunoprecipitation tests, ELISA, or Western blotting.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>C3 serum levels</p>
+          </list-item>
+          <list-item>
+            <p>C4 serum levels</p>
+          </list-item>
+          <list-item>
+            <p>Factor B serum levels&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>C1 inhibitor serum levels</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Hemolytic assays</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>CH50</p>
+          </list-item>
+          <list-item>
+            <p>CH100</p>
+          </list-item>
+          <list-item>
+            <p>AH50</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Complement system functional studies</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Classical pathway assay (using IgM on a microtiter plate)</p>
+          </list-item>
+          <list-item>
+            <p>Alternative pathway assay (using&#x000a0;lipopolysaccharide on a microtiter plate)</p>
+          </list-item>
+          <list-item>
+            <p>Mannose pathway assay (using mannose on a microtiter plate)</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Measurement of complement-activating agents</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Circulating immune complexes</p>
+          </list-item>
+          <list-item>
+            <p>Cold agglutinins&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Assays for complement-binding</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>C1q autoantibody enzyme-linked immunosorbent assay (ELISA)</p>
+          </list-item>
+          <list-item>
+            <p>C1 inhibitor autoantibody ELISA</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Others complement assays</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Lipopolysaccharide&#x000a0;activation assay</p>
+          </list-item>
+          <list-item>
+            <p>Specific properdin test</p>
+          </list-item>
+          <list-item>
+            <p>C1 inhibitor activity test</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Autoimmunity Studies</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Anti-nuclear antibody (ANA) test</p>
+          </list-item>
+          <list-item>
+            <p>Detection of specific auto-immune antibodies for systemic disorders (anti&#x02013;double-stranded DNA, rheumatoid factor, anti-histones, anti-Smith, anti-SSA, and anti-SSB)</p>
+          </list-item>
+          <list-item>
+            <p>Detection of anti-red blood cells, antiplatelet antibodies, and antineutrophil&#x000a0;antibodies</p>
+          </list-item>
+          <list-item>
+            <p>Testing for organ-specific auto-immune antibodies</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Microbiological Studies</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Blood (bacterial culture, HIV by polymerase chain reaction, and human T-lymphotropic virus type 1&#x000a0;testing)</p>
+          </list-item>
+          <list-item>
+            <p>Urine (testing for cytomegalovirus, sepsis, and proteinuria)</p>
+          </list-item>
+          <list-item>
+            <p>Nasopharyngeal swab (testing for Rhinovirus)</p>
+          </list-item>
+          <list-item>
+            <p>Stool (testing for viral, bacterial, or parasitic infection)</p>
+          </list-item>
+          <list-item>
+            <p>Sputum (bacterial culture and pneumocystis polymerase chain reaction)</p>
+          </list-item>
+          <list-item>
+            <p>Cerebrospinal fluid (culture, chemistry, and histopathology)</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Coagulation Tests&#x000a0;</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Factor V assay</p>
+          </list-item>
+          <list-item>
+            <p>Fibrinogen levels</p>
+          </list-item>
+          <list-item>
+            <p>Prothrombin time</p>
+          </list-item>
+          <list-item>
+            <p>Thrombin time</p>
+          </list-item>
+          <list-item>
+            <p>Bleeding time</p>
+          </list-item>
+        </list>
+        <p><bold>Other Investigations </bold>&#x000a0;</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Complete blood cell count &#x000a0; &#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Tuberculin test</p>
+          </list-item>
+          <list-item>
+            <p>Bone marrow biopsy</p>
+          </list-item>
+          <list-item>
+            <p>Histopathological studies</p>
+          </list-item>
+          <list-item>
+            <p>Liver function test</p>
+          </list-item>
+          <list-item>
+            <p>Blood chemistry</p>
+          </list-item>
+          <list-item>
+            <p>Tumoral markers</p>
+          </list-item>
+          <list-item>
+            <p>Serum levels of cytokines</p>
+          </list-item>
+          <list-item>
+            <p>Chest x-ray</p>
+          </list-item>
+          <list-item>
+            <p>Diagnostic&#x000a0;ultrasound</p>
+          </list-item>
+          <list-item>
+            <p>Computed tomography scan</p>
+          </list-item>
+          <list-item>
+            <p>Fluorescent in situ hybridization</p>
+          </list-item>
+          <list-item>
+            <p>DNA testing (for most congenital disorders)</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-56706.s9" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>The immune system protects the body against many diseases, including recurrent infections, allergies, tumors, and autoimmunity. The consequences of altered immunity manifests in the development of many immunological disorders listed below:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>X-linked agammaglobulinemia (Bruton disease)</p>
+          </list-item>
+          <list-item>
+            <p>Selective IgA deficiency</p>
+          </list-item>
+          <list-item>
+            <p>Selective IgG deficiency</p>
+          </list-item>
+          <list-item>
+            <p>Congenital thymic aplasia (DiGeorge Syndrome)</p>
+          </list-item>
+          <list-item>
+            <p>Chronic mucocutaneous candidiasis</p>
+          </list-item>
+          <list-item>
+            <p>Hyper-IgM syndrome</p>
+          </list-item>
+          <list-item>
+            <p>IL-12 receptor deficiency</p>
+          </list-item>
+          <list-item>
+            <p>Severe combined immunodeficiency disease (SCID)</p>
+          </list-item>
+          <list-item>
+            <p>ZAP-70 deficiency</p>
+          </list-item>
+          <list-item>
+            <p>Janus kinase 3 deficiency</p>
+          </list-item>
+          <list-item>
+            <p>RAG1&#x000a0;and&#x000a0;RAG2 deficiency</p>
+          </list-item>
+          <list-item>
+            <p>Wiskott-Aldrich syndrome</p>
+          </list-item>
+          <list-item>
+            <p>Immunodeficiency with ataxia-telangiectasia</p>
+          </list-item>
+          <list-item>
+            <p>MHC deficiency (bare leukocyte syndrome)</p>
+          </list-item>
+          <list-item>
+            <p>Complement system deficiencies&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Hereditary angioedema</p>
+          </list-item>
+          <list-item>
+            <p>Chronic granulomatous disease</p>
+          </list-item>
+          <list-item>
+            <p>Leukocyte adhesion deficiency syndrome</p>
+          </list-item>
+          <list-item>
+            <p>Job syndrome</p>
+          </list-item>
+          <list-item>
+            <p>Chediak-Higashi syndrome</p>
+          </list-item>
+          <list-item>
+            <p>ADIS</p>
+          </list-item>
+          <list-item>
+            <p>Anaphylaxis&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Allergic bronchial asthma&#x000a0;&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Allergic rhinitis</p>
+          </list-item>
+          <list-item>
+            <p>Allergic conjunctivitis</p>
+          </list-item>
+          <list-item>
+            <p>Food allergy</p>
+          </list-item>
+          <list-item>
+            <p>Atopic eczema&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Drug allergy</p>
+          </list-item>
+          <list-item>
+            <p>Immune thrombocytopenia</p>
+          </list-item>
+          <list-item>
+            <p>Autoimmune hemolytic anemia</p>
+          </list-item>
+          <list-item>
+            <p>Autoimmune neutropenia&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Systemic lupus erythematosus&#x000a0;&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Rheumatoid arthritis&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Autoimmune hepatitis&#x000a0;&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Hemolytic disease of the fetus and the newborn (erythroblastosis fetalis)&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Myasthenia gravis&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Goodpasture syndrome&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Pemphigus&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Tuberculosis&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Contact dermatitis&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Leprosy&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Insulin-dependent diabetes mellitus&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Schistosomiasis&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Sarcoidosis&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Crohn disease</p>
+          </list-item>
+          <list-item>
+            <p>Autoimmune lymphoproliferative syndrome</p>
+          </list-item>
+          <list-item>
+            <p>X-linked lymphoproliferative disorder</p>
+          </list-item>
+          <list-item>
+            <p>Common variable immunodeficiency</p>
+          </list-item>
+          <list-item>
+            <p>B-cell chronic lymphocytic leukemia</p>
+          </list-item>
+          <list-item>
+            <p>B-cell prolymphocytic leukemia</p>
+          </list-item>
+          <list-item>
+            <p>Non-Hodgkin lymphoma, including mantle cell lymphoma, in the leukemic phase</p>
+          </list-item>
+          <list-item>
+            <p>Hairy cell leukemia</p>
+          </list-item>
+          <list-item>
+            <p>Multiple myeloma</p>
+          </list-item>
+          <list-item>
+            <p>Splenic lymphoma with villous lymphocytes</p>
+          </list-item>
+          <list-item>
+            <p>Sezary syndrome</p>
+          </list-item>
+          <list-item>
+            <p>T-cell prolymphocytic leukemia</p>
+          </list-item>
+          <list-item>
+            <p>Adult T-cell leukemia/lymphoma</p>
+          </list-item>
+          <list-item>
+            <p>Large granulated lymphocyte leukemia</p>
+          </list-item>
+          <list-item>
+            <p>Leukocyte adhesion deficiency syndrome &#x000a0; &#x000a0; &#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Chronic active hepatitis</p>
+          </list-item>
+          <list-item>
+            <p>Coccidioidomycosis</p>
+          </list-item>
+          <list-item>
+            <p>Behcet disease</p>
+          </list-item>
+          <list-item>
+            <p>Aphthous stomatitis</p>
+          </list-item>
+          <list-item>
+            <p>Familial keratoacanthoma</p>
+          </list-item>
+          <list-item>
+            <p>Autoimmune polyendocrinopathy candidiasis ectodermal dystrophy&#x000a0; &#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Idiopathic CD4+ lymphocytopenia</p>
+          </list-item>
+          <list-item>
+            <p>Complement system deficiencies</p>
+          </list-item>
+          <list-item>
+            <p>Adenosine deaminase deficiency SCID&#x000a0;&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Artemis SCID</p>
+          </list-item>
+          <list-item>
+            <p>Newly diagnosed non-germinal center B-cell subtype of diffuse large B-cell lymphoma</p>
+          </list-item>
+          <list-item>
+            <p>Melanoma</p>
+          </list-item>
+          <list-item>
+            <p>Chagas disease</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-56706.s10" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>Highly specific and discriminatory immunity is of&#x000a0;utmost importance for survival. The immune system has evolved as a collection of protective mechanisms to defend the host against many potential invaders that would take advantage of immunodeficiency disorders, inflammatory diseases, cancers, and autoimmunity. This system must be sophisticated to recognize self from non-self and&#x000a0;defend in infections, malignant tumors, organ transplantations, and other situations the immune system encounters.</p>
+      </sec>
+      <sec id="article-56706.s11">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=56706&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=56706">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/56706/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=56706">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-56706.s12">
+        <title>References</title>
+        <ref id="article-56706.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Arce-Sillas</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>&#x000c1;lvarez-Luqu&#x000ed;n</surname>
+                <given-names>DD</given-names>
+              </name>
+              <name>
+                <surname>Tamaya-Dom&#x000ed;nguez</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Gomez-Fuentes</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Trejo-Garc&#x000ed;a</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Melo-Salas</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>C&#x000e1;rdenas</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Rodr&#x000ed;guez-Ram&#x000ed;rez</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Adalid-Peralta</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>Regulatory T Cells: Molecular Actions on Effector Cells in Immune Regulation.</article-title>
+            <source>J Immunol Res</source>
+            <year>2016</year>
+            <volume>2016</volume>
+            <fpage>1720827</fpage>
+            <pub-id pub-id-type="pmid">27298831</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56706.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lawrence</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Mawdesley</surname>
+                <given-names>AE</given-names>
+              </name>
+              <name>
+                <surname>Holland</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Kirby</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Deehan</surname>
+                <given-names>DJ</given-names>
+              </name>
+              <name>
+                <surname>Tyson-Capper</surname>
+                <given-names>AJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Targeting Toll-like receptor 4 prevents cobalt-mediated inflammation.</article-title>
+            <source>Oncotarget</source>
+            <year>2016</year>
+            <month>Feb</month>
+            <day>16</day>
+            <volume>7</volume>
+            <issue>7</issue>
+            <fpage>7578</fpage>
+            <page-range>7578-85</page-range>
+            <pub-id pub-id-type="pmid">26840091</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56706.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Denson</surname>
+                <given-names>LA</given-names>
+              </name>
+            </person-group>
+            <article-title>The role of the innate and adaptive immune system in pediatric inflammatory bowel disease.</article-title>
+            <source>Inflamm Bowel Dis</source>
+            <year>2013</year>
+            <month>Aug</month>
+            <volume>19</volume>
+            <issue>9</issue>
+            <fpage>2011</fpage>
+            <page-range>2011-20</page-range>
+            <pub-id pub-id-type="pmid">23702804</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56706.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gu</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Efficient Differentiation of Human Pluripotent Stem Cells to Endothelial Cells.</article-title>
+            <source>Curr Protoc Hum Genet</source>
+            <year>2018</year>
+            <month>Jul</month>
+            <volume>98</volume>
+            <issue>1</issue>
+            <fpage>e64</fpage>
+            <pub-id pub-id-type="pmid">29979824</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56706.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Williamson</surname>
+                <given-names>LE</given-names>
+              </name>
+              <name>
+                <surname>Flyak</surname>
+                <given-names>AI</given-names>
+              </name>
+              <name>
+                <surname>Kose</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Bombardi</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Branchizio</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Reddy</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Davidson</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Doranz</surname>
+                <given-names>BJ</given-names>
+              </name>
+              <name>
+                <surname>Fusco</surname>
+                <given-names>ML</given-names>
+              </name>
+              <name>
+                <surname>Saphire</surname>
+                <given-names>EO</given-names>
+              </name>
+              <name>
+                <surname>Halfmann</surname>
+                <given-names>PJ</given-names>
+              </name>
+              <name>
+                <surname>Kawaoka</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Piper</surname>
+                <given-names>AE</given-names>
+              </name>
+              <name>
+                <surname>Glass</surname>
+                <given-names>PJ</given-names>
+              </name>
+              <name>
+                <surname>Crowe</surname>
+                <given-names>JE</given-names>
+              </name>
+            </person-group>
+            <article-title>Early Human B Cell Response to Ebola Virus in Four U.S. Survivors of Infection.</article-title>
+            <source>J Virol</source>
+            <year>2019</year>
+            <month>Apr</month>
+            <day>15</day>
+            <volume>93</volume>
+            <issue>8</issue>
+            <pub-id pub-id-type="pmid">30728263</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56706.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pedraza-S&#x000e1;nchez</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>M&#x000e9;ndez-Le&#x000f3;n</surname>
+                <given-names>JI</given-names>
+              </name>
+              <name>
+                <surname>Gonzalez</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Ventura-Ayala</surname>
+                <given-names>ML</given-names>
+              </name>
+              <name>
+                <surname>Herrera</surname>
+                <given-names>MT</given-names>
+              </name>
+              <name>
+                <surname>Lezana-Fern&#x000e1;ndez</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Bellanti</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Torres</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Oral Administration of Human Polyvalent IgG by Mouthwash as an Adjunctive Treatment of Chronic Oral Candidiasis.</article-title>
+            <source>Front Immunol</source>
+            <year>2018</year>
+            <volume>9</volume>
+            <fpage>2956</fpage>
+            <pub-id pub-id-type="pmid">30627128</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56706.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gack</surname>
+                <given-names>MU</given-names>
+              </name>
+              <name>
+                <surname>Diamond</surname>
+                <given-names>MS</given-names>
+              </name>
+            </person-group>
+            <article-title>Innate immune escape by Dengue and West Nile viruses.</article-title>
+            <source>Curr Opin Virol</source>
+            <year>2016</year>
+            <month>Oct</month>
+            <volume>20</volume>
+            <fpage>119</fpage>
+            <page-range>119-128</page-range>
+            <pub-id pub-id-type="pmid">27792906</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56706.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yap</surname>
+                <given-names>GS</given-names>
+              </name>
+              <name>
+                <surname>Gause</surname>
+                <given-names>WC</given-names>
+              </name>
+            </person-group>
+            <article-title>Helminth Infections Induce Tissue Tolerance Mitigating Immunopathology but Enhancing Microbial Pathogen Susceptibility.</article-title>
+            <source>Front Immunol</source>
+            <year>2018</year>
+            <volume>9</volume>
+            <fpage>2135</fpage>
+            <pub-id pub-id-type="pmid">30386324</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56706.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lee</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Shin</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kumar</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Nam</surname>
+                <given-names>MH</given-names>
+              </name>
+              <name>
+                <surname>Kang</surname>
+                <given-names>KW</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>BS</given-names>
+              </name>
+              <name>
+                <surname>Cho</surname>
+                <given-names>SD</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Han</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Park</surname>
+                <given-names>SH</given-names>
+              </name>
+              <name>
+                <surname>Seo</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Jun</surname>
+                <given-names>HS</given-names>
+              </name>
+            </person-group>
+            <article-title>Use of a platform with lens-free shadow imaging technology to monitor natural killer cell activity.</article-title>
+            <source>Biosens Bioelectron</source>
+            <year>2024</year>
+            <month>Oct</month>
+            <day>01</day>
+            <volume>261</volume>
+            <fpage>116512</fpage>
+            <pub-id pub-id-type="pmid">38908292</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56706.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lenz</surname>
+                <given-names>TL</given-names>
+              </name>
+            </person-group>
+            <article-title>HLA Genes: A Hallmark of Functional Genetic Variation and Complex Evolution.</article-title>
+            <source>Methods Mol Biol</source>
+            <year>2024</year>
+            <volume>2809</volume>
+            <fpage>1</fpage>
+            <page-range>1-18</page-range>
+            <pub-id pub-id-type="pmid">38907887</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56706.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kitsou</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Askiti</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Tzanoudaki</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Mitsioni</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Papadatou</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Liatsis</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Kanaka-Gantenbein</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Magiorkinis</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Spoulou</surname>
+                <given-names>V</given-names>
+              </name>
+            </person-group>
+            <article-title>Immunogenicity, Immunological Memory and Monitoring of Disease Activity Following an Anamnestic Immunization With the 13-Valent Pneumococcal Conjugate Vaccine in Children With Idiopathic Nephrotic Syndrome.</article-title>
+            <source>J Pediatric Infect Dis Soc</source>
+            <year>2024</year>
+            <month>Jul</month>
+            <day>20</day>
+            <volume>13</volume>
+            <issue>7</issue>
+            <fpage>363</fpage>
+            <page-range>363-367</page-range>
+            <pub-id pub-id-type="pmid">38829802</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56706.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gray-Gaillard</surname>
+                <given-names>SL</given-names>
+              </name>
+              <name>
+                <surname>Solis</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>HM</given-names>
+              </name>
+              <name>
+                <surname>Monteiro</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Ciabattoni</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Samanovic</surname>
+                <given-names>MI</given-names>
+              </name>
+              <name>
+                <surname>Cornelius</surname>
+                <given-names>AR</given-names>
+              </name>
+              <name>
+                <surname>Williams</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Geesey</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Rodriguez</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Ortigoza</surname>
+                <given-names>MB</given-names>
+              </name>
+              <name>
+                <surname>Ivanova</surname>
+                <given-names>EN</given-names>
+              </name>
+              <name>
+                <surname>Koralov</surname>
+                <given-names>SB</given-names>
+              </name>
+              <name>
+                <surname>Mulligan</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Herati</surname>
+                <given-names>RS</given-names>
+              </name>
+            </person-group>
+            <article-title>SARS-CoV-2 inflammation durably imprints memory CD4 T cells.</article-title>
+            <source>Sci Immunol</source>
+            <year>2024</year>
+            <month>Jun</month>
+            <day>21</day>
+            <volume>9</volume>
+            <issue>96</issue>
+            <fpage>eadj8526</fpage>
+            <pub-id pub-id-type="pmid">38905326</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56706.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Di Rosa</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Pietrosanti</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Luzi</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Salemi</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>D'Amelio</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Polyclonal intravenous immunoglobulin: an important additional strategy in sepsis?</article-title>
+            <source>Eur J Intern Med</source>
+            <year>2014</year>
+            <month>Jul</month>
+            <volume>25</volume>
+            <issue>6</issue>
+            <fpage>511</fpage>
+            <page-range>511-6</page-range>
+            <pub-id pub-id-type="pmid">24877856</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56706.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Man</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Jiang</surname>
+                <given-names>LH</given-names>
+              </name>
+              <name>
+                <surname>Foster</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Yang</surname>
+                <given-names>XB</given-names>
+              </name>
+            </person-group>
+            <article-title>Immunological Responses to Total Hip Arthroplasty.</article-title>
+            <source>J Funct Biomater</source>
+            <year>2017</year>
+            <month>Aug</month>
+            <day>01</day>
+            <volume>8</volume>
+            <issue>3</issue>
+            <pub-id pub-id-type="pmid">28762999</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56706.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Valent</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Akin</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Bonadonna</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Hartmann</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Brockow</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Niedoszytko</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Nedoszytko</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Siebenhaar</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Sperr</surname>
+                <given-names>WR</given-names>
+              </name>
+              <name>
+                <surname>Oude Elberink</surname>
+                <given-names>JNG</given-names>
+              </name>
+              <name>
+                <surname>Butterfield</surname>
+                <given-names>JH</given-names>
+              </name>
+              <name>
+                <surname>Alvarez-Twose</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Sotlar</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Reiter</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Kluin-Nelemans</surname>
+                <given-names>HC</given-names>
+              </name>
+              <name>
+                <surname>Hermine</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Gotlib</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Broesby-Olsen</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Orfao</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Horny</surname>
+                <given-names>HP</given-names>
+              </name>
+              <name>
+                <surname>Triggiani</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Arock</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Schwartz</surname>
+                <given-names>LB</given-names>
+              </name>
+              <name>
+                <surname>Metcalfe</surname>
+                <given-names>DD</given-names>
+              </name>
+            </person-group>
+            <article-title>Proposed Diagnostic Algorithm for Patients with Suspected Mast Cell Activation Syndrome.</article-title>
+            <source>J Allergy Clin Immunol Pract</source>
+            <year>2019</year>
+            <month>Apr</month>
+            <volume>7</volume>
+            <issue>4</issue>
+            <fpage>1125</fpage>
+            <page-range>1125-1133.e1</page-range>
+            <pub-id pub-id-type="pmid">30737190</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56706.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Surace</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>DaCosta</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Huntley</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Zhao</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Bagnall</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Brown</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Roman</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Cann</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Lewis</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Steele</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Rebelatto</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Parra</surname>
+                <given-names>ER</given-names>
+              </name>
+              <name>
+                <surname>Hoyt</surname>
+                <given-names>CC</given-names>
+              </name>
+              <name>
+                <surname>Rodriguez-Canales</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Automated Multiplex Immunofluorescence Panel for Immuno-oncology Studies on Formalin-fixed Carcinoma Tissue Specimens.</article-title>
+            <source>J Vis Exp</source>
+            <year>2019</year>
+            <month>Jan</month>
+            <day>21</day>
+            <issue>143</issue>
+            <pub-id pub-id-type="pmid">30735177</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56706.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hung</surname>
+                <given-names>CY</given-names>
+              </name>
+              <name>
+                <surname>Hsu</surname>
+                <given-names>AP</given-names>
+              </name>
+              <name>
+                <surname>Holland</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Fierer</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>A review of innate and adaptive immunity to coccidioidomycosis.</article-title>
+            <source>Med Mycol</source>
+            <year>2019</year>
+            <month>Feb</month>
+            <day>01</day>
+            <volume>57</volume>
+            <issue>Supplement_1</issue>
+            <fpage>S85</fpage>
+            <page-range>S85-S92</page-range>
+            <pub-id pub-id-type="pmid">30690602</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56706.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>McCusker</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Upton</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Warrington</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Primary immunodeficiency.</article-title>
+            <source>Allergy Asthma Clin Immunol</source>
+            <year>2018</year>
+            <volume>14</volume>
+            <issue>Suppl 2</issue>
+            <fpage>61</fpage>
+            <pub-id pub-id-type="pmid">30275850</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56706.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pellicciotta</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Rigoni</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Falcone</surname>
+                <given-names>EL</given-names>
+              </name>
+              <name>
+                <surname>Holland</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Villa</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Cassani</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>The microbiome and immunodeficiencies: Lessons from rare diseases.</article-title>
+            <source>J Autoimmun</source>
+            <year>2019</year>
+            <month>Mar</month>
+            <volume>98</volume>
+            <fpage>132</fpage>
+            <page-range>132-148</page-range>
+            <pub-id pub-id-type="pmid">30704941</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

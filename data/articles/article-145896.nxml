@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-145896" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Electrophoresis</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Sonagra</surname>
+            <given-names>Amit D.</given-names>
+          </name>
+          <aff>All India Institute of Medical Sciences (AIIMS), Rajkot, Gujarat, India</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Dholariya</surname>
+            <given-names>Sagar J.</given-names>
+          </name>
+          <aff>AIIMS, Rajkot</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Amit Sonagra declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Sagar Dholariya declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>5</day>
+          <month>8</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-145896.s1" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>In 1937, Swedish biochemist Arne Tiselius demonstrated that charged particles could be separated based on their charge&#x000a0;using an electrical field. Biomolecules such as proteins, peptides, nucleic acids, and nucleotides also possess electrical charges and migrate towards either anode or cathode based on their net charge in an electric field. Electrophoresis is the migration of electrically charged molecules under the effect of the electrical field.<xref ref-type="bibr" rid="article-145896.r1">[1]</xref></p>
+        <p>Tiselius used a liquid medium that had less resolution due to the effect of gravity and diffusion. Electrophoresis uses solid support media with buffers to overcome these obstacles. Molecules with similar charge, mass, shape, and size tend to move together and are separated into distinct bands or zones. Whatman filter paper, agarose, cellulose acetate, and polyacrylamide are solid support mediums.<xref ref-type="bibr" rid="article-145896.r1">[1]</xref></p>
+        <p>
+<bold>General Components of an Electrophoresis Apparatus</bold>
+</p>
+        <p>The electrophoresis apparatus consists of several key components, each with a specific function that separates charged molecules&#x000a0;(see&#x000a0;<bold>Image.</bold>&#x000a0;Schematic Diagram of an Electrophoresis Apparatus).</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Buffer: Carries the current and maintains the pH of the medium.</p>
+          </list-item>
+          <list-item>
+            <p>Wicks: Connects support medium with buffer to complete the circuit.</p>
+          </list-item>
+          <list-item>
+            <p>Support medium: Provide the matrix in which separation takes place.</p>
+          </list-item>
+          <list-item>
+            <p>Cover: Reduces evaporation of buffer and prevents contamination during the electrophoretic run.</p>
+          </list-item>
+          <list-item>
+            <p>Power supply: Provides an electrical field for the movement of charged particles.</p>
+          </list-item>
+          <list-item>
+            <p>Densitometer: Quantification of separated bands is performed by comparison of the optical density of bands.</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Factors Affecting Electrophoretic Mobility of a Molecule</bold>
+</p>
+        <p>
+<bold>Size, shape, and net charge of the molecule:</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Mobility is inversely proportional to the size of the molecule and directly proportional to the net charge of the molecule. Globular proteins have compact structures and faster mobility compared to fibrous proteins of similar molecular weight.<xref ref-type="bibr" rid="article-145896.r2">[2]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Particles with a negative charge (anions) always move in the direction of the positive pole, whereas particles with a positive charge (cations) always move in the direction of the negative pole. When performing gel electrophoresis, the positive pole refers to the anode, whereas the negative pole refers to the cathode. As a result, charged particles&#x000a0;move to the nodes that are appropriate for them. In gel electrophoresis, anions migrate from cathode (&#x02212;) to anode (+).<xref ref-type="bibr" rid="article-145896.r2">[2]</xref></p>
+          </list-item>
+        </list>
+        <p>
+<bold>Strength of the electrical field:</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Mobility is proportional to the potential gradient (voltage) and inversely proportional to resistance.</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Buffer:</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Buffer functions to carry the current and maintain the pH of the medium. The optimum ionic strength of the buffer is necessary as higher ionic strength increases the share of current carried by buffer ions, slowing down the sample migration and generating heat that leads to increased diffusion of separation bands. The low ionic strength of the buffer also reduces resolution due to reduced overall current passing through the medium.</p>
+          </list-item>
+          <list-item>
+            <p>The ionization of molecules, such as proteins and amino acids, depends on the pH of the medium. Alteration in the pH of the medium can alter the direction and velocity of migration.<xref ref-type="bibr" rid="article-145896.r2">[2]</xref>&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Supporting medium:</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>A medium having affinity for the molecules in samples can hinder the rate of migration and can decrease the resolution of separation. The pore size in the support medium is inversely proportional to the gel concentration. Adjusting pore size according to the properties of a molecule of interest is necessary for optimum resolution.</p>
+          </list-item>
+          <list-item>
+            <p>Fixed groups such as sulfate get ionized and acquire a negative charge at alkaline or neutral pH. Applying the electrical field, HO ions associated with these negatively charged groups start migrating toward the cathode. This movement hinders sample movement towards the anode and can reduce separation resolution. This phenomenon is known as electroendosmosis. To minimize its effects, ultrapure agarose gel with low sulfate content can be used.<xref ref-type="bibr" rid="article-145896.r3">[3]</xref>&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Types of Support Medium</bold>
+</p>
+        <p>Different support mediums and buffers are used to effectively separate various molecules.</p>
+        <p><bold>Whatman filter paper:</bold> Whatman&#x000a0;filter paper is a support medium. As it requires long run-time (12-16 hours) and low voltage for separation, the resolution is poor due to the increased diffusion of separated analytes.<xref ref-type="bibr" rid="article-145896.r4">[4]</xref><xref ref-type="bibr" rid="article-145896.r5">[5]</xref></p>
+        <p><bold>Cellulose acetate: </bold>Cellulose acetate membrane is a preferred solid media as it requires less run-time (&#x0003c;1 hour). Due to this, the resolution of separated bands is far superior to paper electrophoresis. Although expensive, it is widely used for separating lipoproteins, proteins, enzyme isoforms, and hemoglobin variants due to superior resolution and less interaction with analytes in a sample.<xref ref-type="bibr" rid="article-145896.r5">[5]</xref><xref ref-type="bibr" rid="article-145896.r6">[6]</xref></p>
+        <p><bold>Agarose gel: </bold>Agarose is a type of heteropolysaccharide that forms a viscous solution when dissolved in a hot buffered solution (50-55 &#x000b0;C) but solidifies as a gel on cooling down. This support medium separates serum proteins, hemoglobin, nucleic acids, and polymerase chain reaction (PCR) products. Fixed sulfate groups present in agarose can reduce the resolution of bands due to increased electroendosmosis, which can be prevented using ultrapure agarose gel with low sulfate content.<xref ref-type="bibr" rid="article-145896.r5">[5]</xref><xref ref-type="bibr" rid="article-145896.r7">[7]</xref></p>
+        <p><bold>Polyacrylamide gel:</bold> Polyacrylamide gel is formed by polymerizing acrylamide and bis-acrylamide in the presence of ammonium persulfate, <italic toggle="yes">N</italic>,<italic toggle="yes">N</italic>,<italic toggle="yes">N</italic>&#x02019;,<italic toggle="yes">N</italic>&#x02019;-tetramethylethylenediamine, and riboflavin under ultraviolet rays. The pore size of the gel can be precisely controlled by adjusting the concentration of monomers. This gel can be used for various analytes, such as proteins, peptides, nucleic acid, and nucleotides, providing excellent resolution due to better molecular sieving and minimal interaction of sample molecules with the matrix.<xref ref-type="bibr" rid="article-145896.r5">[5]</xref><xref ref-type="bibr" rid="article-145896.r8">[8]</xref></p>
+        <p>If a protein solution is boiled briefly in sodium dodecyl sulfate (SDS) and mercaptoethanol, the proteins in the solution get denatured and acquire a uniform negative charge that masks their native charge of the protein. This process produces polypeptide chains with a constant charge-to-mass ratio with a uniform shape. In this condition, electrophoretic mobility depends on the number of amino acids and the mass of the polypeptide chains.<xref ref-type="bibr" rid="article-145896.r5">[5]</xref><xref ref-type="bibr" rid="article-145896.r9">[9]</xref></p>
+        <p>
+<bold>Other Variants of Electrophoresis</bold>
+</p>
+        <p><bold>Isoelectric focusing: </bold>The gel&#x000a0;matrix is filled with ampholytes (positive and negative charge molecules), forming a pH gradient. When the electricity is applied, molecules migrate towards their isoelectric pH. The mobility of sample molecules stops at their respective isoelectric pH, where the net charge on the sample molecule is zero. Isoelectric focusing can provide excellent resolution and fractionation of serum proteins and hemoglobin variants.<xref ref-type="bibr" rid="article-145896.r5">[5]</xref><xref ref-type="bibr" rid="article-145896.r10">[10]</xref></p>
+        <p><bold>Immunoelectrophoresis and immunofixation electrophoresis:</bold> Initially, proteins are separated on the agarose gel. Wells are created after separation, and specific antibodies against molecules of interest are added. Bands of precipitation are formed from antigen-antibody reaction, which signifies the presence of a specific protein in the sample. This method is used to identify the abnormal elevation of gamma globulin fractions and free light chains in patients with suspected monoclonal or polyclonal gammopathy.<xref ref-type="bibr" rid="article-145896.r11">[11]</xref>&#x000a0;</p>
+        <p><bold>High-voltage electrophoresis: </bold>This technique uses&#x000a0;a relatively higher voltage (400&#x000a0;to 2000 Volts) instead of 250 Volts for separation, resulting in&#x000a0;high-speed separation with good resolution and relatively less diffusion. High-voltage electrophoresis&#x000a0;is commonly used to separate proteins, hemoglobin, and nucleotides.<xref ref-type="bibr" rid="article-145896.r5">[5]</xref></p>
+        <p><bold>Pulsed-field electrophoresis:</bold>&#x000a0;Separation of long nucleotide fragments with good resolution is challenging with conventional electrophoresis. In pulsed-field electrophoresis, the current is passed in&#x000a0;2 different directions alternatively, which leads to the movement of fragments in&#x000a0;2 directions, giving good separation with optimum resolution.<xref ref-type="bibr" rid="article-145896.r12">[12]</xref>&#x000a0;</p>
+        <p><bold>Capillary electrophoresis:</bold>&#x000a0;A minimal-diameter capillary tube filled with buffer solution, ampholytes, or gel is used as a support medium. Due to the availability of a higher surface area for heat dissipation, very high voltage can be applied for speedy separation and better resolution. Separated fractions can be quantified simultaneously as they pass through the detector during the electrophoretic run.<xref ref-type="bibr" rid="article-145896.r13">[13]</xref></p>
+        <p><bold>Two-dimensional electrophoresis: </bold>Isoelectric focusing&#x000a0;is performed to separate the analytes based on their isoelectric pH. The gel containing separated analytes is then subjected to SDS-polyacrylamide gel electrophoresis in the direction of 90&#x000b0; to the&#x000a0;isoelectric focusing run. Molecules having similar molecular weight can be separated through this method due to differences in their isoelectric pH.<xref ref-type="bibr" rid="article-145896.r5">[5]</xref><xref ref-type="bibr" rid="article-145896.r10">[10]</xref></p>
+      </sec>
+      <sec id="article-145896.s2" sec-type="Specimen Requirements and Procedure">
+        <title>Specimen Requirements and Procedure</title>
+        <p>Specimen requirements and processing vary depending on the type of electrophoresis and disease involved. Serum, plasma, whole blood, and hemolysate are the most commonly used biological specimens in diagnostic laboratory setups. Nucleic acid or protein extracts from tissue or cellular lysates and products of PCR and sequencing experiments are the specimens used in research laboratories focused on molecular biology, genomics, and proteomics.<xref ref-type="bibr" rid="article-145896.r5">[5]</xref></p>
+      </sec>
+      <sec id="article-145896.s3" sec-type="Testing Procedures">
+        <title>Testing Procedures</title>
+        <p>Confirmation of sample details with the test requisition form is performed, followed by initial processing according to procedural requirements.</p>
+        <p>Serum or plasma can be separated using centrifugation from plain or anticoagulant-containing vials. Serum and plasma are used to assess and quantify protein fractions to diagnose disorders related to their synthesis or disposal. Hemolysate can be prepared using buffers and whole blood specimens from the anticoagulant-containing vial. Hemolysate is used to assess and quantify hemoglobin fractions to diagnose hemoglobinopathies and thalassemia.<xref ref-type="bibr" rid="article-145896.r14">[14]</xref></p>
+        <p>Nucleic acid extracts and PCR products can be used after mixing them with sucrose, buffer, and tracking dye. After setting up the instrumentation and gel, the sample is applied, and the electrical supply is started. When tracking dye completes a run of approximately 80% of the gel, the electrical supply is turned off, and the separation of bands is quantified using densitometry.<xref ref-type="bibr" rid="article-145896.r14">[14]</xref><xref ref-type="bibr" rid="article-145896.r15">[15]</xref></p>
+      </sec>
+      <sec id="article-145896.s4" sec-type="Interfering Factors">
+        <title>Interfering Factors</title>
+        <p>The major interfering factors are heat, nonspecific adsorptive groups on the support medium, and electroendosmosis. As the current and duration of electrophoresis increase, the gel's temperature increases due to heat dissipation. The heat&#x000a0;increases the random motion of the molecules in the medium, reducing the sharpness&#x000a0;or resolution of the separated bands.</p>
+        <p>Nonspecific adsorptive groups on the support medium can bind analytes, hindering their mobility across the gel. As described earlier, electroendosmosis generates ion flow opposite to the direction of the analyte motion, leading to a reduction in resolution.<xref ref-type="bibr" rid="article-145896.r16">[16]</xref></p>
+      </sec>
+      <sec id="article-145896.s5" sec-type="Results, Reporting, and Critical Findings&#x0000d;&#x0000a;">
+        <title>Results, Reporting, and Critical Findings
+</title>
+        <p>After the electrophoresis run, the gel is stained for the analyte of interest. After incubation with the staining solution, excess stain is removed by treating the gel with the de-staining solution.</p>
+        <p>After staining, the gel is visualized with the suitable wavelength of light, and the optical density of each separated band is quantified by densitometry. The optical density of each separated band&#x000a0;is&#x000a0;proportional to the concentration of stained analyte present in that band. The report contains the percentage proportion of each stained analyte in the sample. The following table shows stains used for various analytes.<xref ref-type="bibr" rid="article-145896.r17">[17]</xref><xref ref-type="bibr" rid="article-145896.r18">[18]</xref></p>
+        <table-wrap id="article-145896.table0" position="float" orientation="portrait">
+          <table style="height: 378px; width: 547px;" border="1" cellspacing="1" cellpadding="20">
+            <tbody>
+              <tr style="height: 13px;">
+                <td style="height: 13px; width: 140.531px;" rowspan="1" colspan="1">
+<bold>Analyte</bold>
+</td>
+                <td style="height: 13px; width: 316.469px;" rowspan="1" colspan="1">
+<bold>Stain</bold>
+</td>
+              </tr>
+              <tr style="height: 13px;">
+                <td style="height: 13px; width: 140.531px;" rowspan="1" colspan="1">Amino acids</td>
+                <td style="height: 13px; width: 316.469px;" rowspan="1" colspan="1">Ninhydrin</td>
+              </tr>
+              <tr style="height: 13px;">
+                <td style="height: 13px; width: 140.531px;" rowspan="1" colspan="1">Proteins</td>
+                <td style="height: 13px; width: 316.469px;" rowspan="1" colspan="1">
+<p>Ponceau S, Coomassie Blue G250, Silver stain, Amido black</p>
+</td>
+              </tr>
+              <tr style="height: 13.8px;">
+                <td style="height: 13.8px; width: 140.531px;" rowspan="1" colspan="1">Lipoproteins</td>
+                <td style="height: 13.8px; width: 316.469px;" rowspan="1" colspan="1">Sudan Black B, Oil Red O</td>
+              </tr>
+              <tr style="height: 13px;">
+                <td style="height: 13px; width: 140.531px;" rowspan="1" colspan="1">Glycoproteins</td>
+                <td style="height: 13px; width: 316.469px;" rowspan="1" colspan="1">Periodic Acid-Schiff stain</td>
+              </tr>
+              <tr style="height: 13px;">
+                <td style="height: 13px; width: 140.531px;" rowspan="1" colspan="1">Hemoglobin</td>
+                <td style="height: 13px; width: 316.469px;" rowspan="1" colspan="1">Ponceau S, O Dianisidine, Ferricyanide</td>
+              </tr>
+              <tr style="height: 13px;">
+                <td style="height: 13px; width: 140.531px;" rowspan="1" colspan="1">Nucleic acid</td>
+                <td style="height: 13px; width: 316.469px;" rowspan="1" colspan="1">&#x000a0;Silver stain, Ethidium bromide</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>An abnormal electrophoretic pattern of serum or hemoglobin electrophoresis can alert the clinician to emphasize the identification of an abnormal fraction of protein or hemoglobin in the patient's sample. Critical analysis of electrophoretic patterns can help the clinician diagnose an underlying disorder that led to an abnormal analyte or the absence of a typical analyte in the case scenario.</p>
+      </sec>
+      <sec id="article-145896.s6" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>The electrophoresis apparatus shows abnormal hemoglobin electrophoretic patterns in various hemoglobinopathies and thalassemia (see <bold>Image.</bold>&#x000a0;Hemoglobin Electrophoresis Patterns). Comparison of abnormal fractions with the control sample helps the clinician narrow the diagnosis of hemoglobinopathies and thalassemia. The following table shows the interpretation of hemoglobin electrophoretic patterns.<xref ref-type="bibr" rid="article-145896.r19">[19]</xref><xref ref-type="bibr" rid="article-145896.r20">[20]</xref></p>
+        <table-wrap id="article-145896.table1" position="float" orientation="portrait">
+          <table style="width: 752px;" border="1" cellspacing="1" cellpadding="20">
+            <tbody>
+              <tr>
+                <td style="width: 66.6167px;" rowspan="1" colspan="1">
+<bold>Lane No.</bold>
+</td>
+                <td style="width: 634.383px;" rowspan="1" colspan="1">
+<bold>Observation and Comment</bold>
+</td>
+              </tr>
+              <tr>
+                <td style="width: 66.6167px;" rowspan="1" colspan="1">1</td>
+                <td style="width: 634.383px;" rowspan="1" colspan="1">Electrophoretic pattern of artificial control sample&#x02014;This pattern is used to compare the position of hemoglobin fractions in the patient's sample.</td>
+              </tr>
+              <tr>
+                <td style="width: 66.6167px;" rowspan="1" colspan="1">2</td>
+                <td style="width: 634.383px;" rowspan="1" colspan="1">The electrophoretic pattern of a normal adult shows a major fraction of HbA with traces of HbF and HbA2.</td>
+              </tr>
+              <tr>
+                <td style="width: 66.6167px;" rowspan="1" colspan="1">3</td>
+                <td style="width: 634.383px;" rowspan="1" colspan="1">The electrophoretic pattern of normal cord blood shows a major fraction of HbF with a trace of HbA. HbA2 may or may not be found in the normal cord blood samples.</td>
+              </tr>
+              <tr>
+                <td style="width: 66.6167px;" rowspan="1" colspan="1">4</td>
+                <td style="width: 634.383px;" rowspan="1" colspan="1">In the electrophoretic pattern of a patient with sickle cell disease,&#x000a0;both the genes of the beta-globin&#x000a0;chain carry a mutation. The replacement of glutamic acid with valine at the sixth position of the beta-globin chain leads to a reduction in the net charge on the molecule, leading to abnormal hemoglobin, HbS, with less mobility compared to HbA. The major hemoglobin fraction in such cases is HbS with slightly elevated or normal HbF and HbA2.</td>
+              </tr>
+              <tr>
+                <td style="width: 66.6167px;" rowspan="1" colspan="1">5</td>
+                <td style="width: 634.383px;" rowspan="1" colspan="1">The electrophoretic pattern of a patient with sickle cell trait&#x000a0;shows that 1 of 2&#x000a0;beta-globin chain genes has a mutation that forms HbS. In this case, the presence of HbS and HbA, HbF, and HbA2 are detected.</td>
+              </tr>
+              <tr>
+                <td style="width: 66.6167px;" rowspan="1" colspan="1">6</td>
+                <td style="width: 634.383px;" rowspan="1" colspan="1">The electrophoretic pattern of a patient with HbSC disease&#x000a0;shows&#x000a0;that a mutation in the beta-globin chain results in&#x000a0;the formation of HbS in&#x000a0;1 gene product and HbC in another. The replacement of glutamic acid by lysine at the sixth position of the beta-globin chain leads to the formation of HbC. In such cases, the presence of HbS and HbC is detected along with the presence of HbF and HbA2. HbA is remarkably absent in such patients with HbSC disease.</td>
+              </tr>
+              <tr>
+                <td style="width: 66.6167px;" rowspan="1" colspan="1">7</td>
+                <td style="width: 634.383px;" rowspan="1" colspan="1">The electrophoretic pattern of a patient with beta-thalassemia minor shows that a mutation leads to reduced synthesis of the beta-globin chain in&#x000a0;one of the beta-globin genes. Elevated HbF and HbA2 fractions, along with the presence of diminished or normal HbA fractions, signify the diagnosis of beta-thalassemia minor.</td>
+              </tr>
+              <tr>
+                <td style="width: 66.6167px;" rowspan="1" colspan="1">8</td>
+                <td style="width: 634.383px;" rowspan="1" colspan="1">The electrophoretic pattern of a patient with beta-thalassemia major shows that a&#x000a0;mutation leads to reduced beta-globin chain synthesis in both the beta-globin genes. In such cases, marked elevated HbF and HbA2 are&#x000a0;observed with the absence or minimal HbA.</td>
+              </tr>
+              <tr>
+                <td style="width: 66.6167px;" rowspan="1" colspan="1">9</td>
+                <td style="width: 634.383px;" rowspan="1" colspan="1">Patients with silent alpha thalassemia and alpha thalassemia minor may not be detected through electrophoresis as they have a regular electrophoretic pattern. Malfunctioning 1 or&#x000a0;2 out of&#x000a0;4 alpha-globin genes does not impede the synthesis of HbA, as other normal alpha-globin genes can take over the function.</td>
+              </tr>
+              <tr>
+                <td style="width: 66.6167px;" rowspan="1" colspan="1">10</td>
+                <td style="width: 634.383px;" rowspan="1" colspan="1">The electrophoretic pattern of a patient with HbH disease&#x000a0;shows that&#x000a0;3&#x000a0;of 4 alpha-globin genes . In this case, the decline in HbA levels is found along with the presence of HbH (tetramer of beta chain) or Hb Bart's (tetramer of gamma chain) with relatively faster mobility than HbA. The decline in HbF and HbA2&#x000a0;levels is also detected in such cases of HbH disease.</td>
+              </tr>
+              <tr>
+                <td style="width: 66.6167px;" rowspan="1" colspan="1">11</td>
+                <td style="width: 634.383px;" rowspan="1" colspan="1">The electrophoretic pattern of a patient with alpha thalassemia major&#x000a0;shows that all&#x000a0;4 alpha globin genes malfunction. Such cases of alpha thalassemia major show the absence of HbA, HbF, and HbA2, along with the presence of HbH and Hb Bart's in hemoglobin electrophoresis.</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>The presence of abnormal bands or attenuation of the normal band in serum protein electrophoresis can provide insight to the clinician regarding the ongoing disease process. The following table shows the main content of the zone of serum protein electrophoresis (pH 8.6).<xref ref-type="bibr" rid="article-145896.r21">[21]</xref></p>
+        <table-wrap id="article-145896.table2" position="float" orientation="portrait">
+          <table style="height: 481px; width: 752px;" border="1" cellspacing="1" cellpadding="20">
+            <tbody>
+              <tr>
+                <td style="width: 154.333px;" rowspan="1" colspan="1">
+<bold>Zone</bold>
+</td>
+                <td style="width: 509.667px;" rowspan="1" colspan="1">
+<bold>Content</bold>
+</td>
+              </tr>
+              <tr>
+                <td style="width: 154.333px;" rowspan="1" colspan="1">Albumin</td>
+                <td style="width: 509.667px;" rowspan="1" colspan="1">Albumin</td>
+              </tr>
+              <tr>
+                <td style="width: 154.333px;" rowspan="1" colspan="1">Albumin-Alpha-1-Interzone</td>
+                <td style="width: 509.667px;" rowspan="1" colspan="1">High-density lipoprotein, Alpha-fetoprotein</td>
+              </tr>
+              <tr>
+                <td style="width: 154.333px;" rowspan="1" colspan="1">Alpha-1</td>
+                <td style="width: 509.667px;" rowspan="1" colspan="1">Alpha-1-antitrypsin, AFP, alpha-1-glycoprotein, thyroid-binding globulin, and transcortin</td>
+              </tr>
+              <tr>
+                <td style="width: 154.333px;" rowspan="1" colspan="1">Alpha-1-Alpha-2-Interzone</td>
+                <td style="width: 509.667px;" rowspan="1" colspan="1">Alpha-1-antichymotrypsin, vitamin D&#x02013;binding protein</td>
+              </tr>
+              <tr>
+                <td style="width: 154.333px;" rowspan="1" colspan="1">Alpha-2</td>
+                <td style="width: 509.667px;" rowspan="1" colspan="1">Ceruloplasmin, alpha-2-macroglobulin, haptoglobin</td>
+              </tr>
+              <tr>
+                <td style="width: 154.333px;" rowspan="1" colspan="1">Alpha-2-beta-interzone</td>
+                <td style="width: 509.667px;" rowspan="1" colspan="1">Pre-beta-lipoprotein</td>
+              </tr>
+              <tr>
+                <td style="width: 154.333px;" rowspan="1" colspan="1">Beta</td>
+                <td style="width: 509.667px;" rowspan="1" colspan="1">Transferrin, complement protein 3 (C3), beta-lipoprotein&#x02014;sometimes IgA&#x000a0;and IgM</td>
+              </tr>
+              <tr>
+                <td style="width: 154.333px;" rowspan="1" colspan="1">Gamma</td>
+                <td style="width: 509.667px;" rowspan="1" colspan="1">Mainly IgG. Also, IgA, IgM, IgD, and IgE</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>The following table outlines conditions associated with abnormalities in serum protein electrophoretic patterns.<xref ref-type="bibr" rid="article-145896.r21">[21]</xref><xref ref-type="bibr" rid="article-145896.r22">[22]</xref></p>
+        <table-wrap id="article-145896.table3" position="float" orientation="portrait">
+          <table style="height: 386px; width: 968.25px;" border="1" cellspacing="1" cellpadding="20">
+            <tbody>
+              <tr style="height: 13px;">
+                <td style="width: 87px; height: 13px;" rowspan="1" colspan="1">
+<bold>Proteins</bold>
+</td>
+                <td style="width: 350px; height: 13px;" rowspan="1" colspan="1">
+<bold>Conditions Causing Increase</bold>
+</td>
+                <td style="width: 400.25px; height: 13px;" rowspan="1" colspan="1">
+<bold>Condition Causing Decrease</bold>
+</td>
+              </tr>
+              <tr style="height: 26px;">
+                <td style="width: 87px; height: 26px;" rowspan="1" colspan="1">Albumin</td>
+                <td style="width: 350px; height: 26px;" rowspan="1" colspan="1">Hemoconcentration due to dehydration</td>
+                <td style="width: 400.25px; height: 26px;" rowspan="1" colspan="1">Burns, nephrotic syndrome, protein-losing&#x000a0;enteropathy, impairment of liver functions, chronic infections, malnutrition, and hemodilution in pregnancy</td>
+              </tr>
+              <tr style="height: 13px;">
+                <td style="width: 87px; height: 13px;" rowspan="1" colspan="1">Alpha-1-globulins</td>
+                <td style="width: 350px; height: 13px;" rowspan="1" colspan="1">Pregnancy</td>
+                <td style="width: 400.25px; height: 13px;" rowspan="1" colspan="1">Alpha-1-antitrypsin deficiency</td>
+              </tr>
+              <tr style="height: 13px;">
+                <td style="width: 87px; height: 13px;" rowspan="1" colspan="1">Alpha-2-globulins</td>
+                <td style="width: 350px; height: 13px;" rowspan="1" colspan="1">Nephrotic syndrome, corticosteroid therapy</td>
+                <td style="width: 400.25px; height: 13px;" rowspan="1" colspan="1">Malnutrition, liver failure, Wilson&#x02019;s disease</td>
+              </tr>
+              <tr style="height: 26px;">
+                <td style="width: 87px; height: 26px;" rowspan="1" colspan="1">Beta globulins</td>
+                <td style="width: 350px; height: 26px;" rowspan="1" colspan="1">Iron deficiency anemia, obstructive jaundice, third trimester of pregnancy, hypercholesterolemia type 2a</td>
+                <td style="width: 400.25px; height: 26px;" rowspan="1" colspan="1">Malnutrition</td>
+              </tr>
+              <tr style="height: 41.3334px;">
+                <td style="width: 87px; height: 41.3334px;" rowspan="1" colspan="1">Gamma globulins</td>
+                <td style="width: 350px; height: 41.3334px;" rowspan="1" colspan="1">
+<p>Chronic infections, amyloidosis, lymphoma, leukemia, collagen vascular diseases</p>
+<p>Sharp bands in the gamma-globin region can be observed in monoclonal gammopathies such as multiple myeloma, solitary plasmacytoma, heavy chain disease, and plasma cell leukemia.</p>
+</td>
+                <td style="width: 400.25px; height: 41.3334px;" rowspan="1" colspan="1">Agammaglobulinemia, hypogammaglobulinemia</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>The electrophoresis technique can also identify abnormally elevated or decreased enzyme isoforms. Specific enzyme patterns are associated with various clinical conditions based on tissue or organ involvement, aiding clinicians in diagnosis and treatment planning. The following table outlines the tissue origins of different isoforms of clinically significant plasma non-functional enzymes.</p>
+        <table-wrap id="article-145896.table4" position="float" orientation="portrait">
+          <table style="height: 674px; width: 634px;" border="1" cellspacing="1" cellpadding="20">
+            <tbody>
+              <tr style="height: 13px;">
+                <td style="width: 143.406px; height: 13px;" rowspan="1" colspan="1">
+<bold>Enzyme</bold>
+</td>
+                <td style="width: 143.406px; height: 13px;" rowspan="1" colspan="1">
+<bold>Isoforms</bold>
+</td>
+                <td style="width: 216.521px; height: 13px;" rowspan="1" colspan="1">
+<bold>Tissue of Origin</bold>
+</td>
+              </tr>
+              <tr style="height: 26px;">
+                <td style="width: 143.406px; height: 26px;" rowspan="1" colspan="1">Lactate dehydrogenase (LDH)&#x000a0;<xref ref-type="bibr" rid="article-145896.r23">[23]</xref></td>
+                <td style="width: 143.406px; height: 26px;" rowspan="1" colspan="1">LDH 1</td>
+                <td style="width: 216.521px; height: 26px;" rowspan="1" colspan="1">Cardiac muscle</td>
+              </tr>
+              <tr style="height: 13.6001px;">
+                <td style="width: 143.406px; height: 13.6001px;" rowspan="1" colspan="1">&#x000a0;</td>
+                <td style="width: 143.406px; height: 13.6001px;" rowspan="1" colspan="1">LDH 2</td>
+                <td style="width: 216.521px; height: 13.6001px;" rowspan="1" colspan="1">RBCs, Brain</td>
+              </tr>
+              <tr style="height: 13px;">
+                <td style="width: 143.406px; height: 13px;" rowspan="1" colspan="1">&#x000a0;</td>
+                <td style="width: 143.406px; height: 13px;" rowspan="1" colspan="1">LDH 3</td>
+                <td style="width: 216.521px; height: 13px;" rowspan="1" colspan="1">Brain, leukocytes</td>
+              </tr>
+              <tr style="height: 13px;">
+                <td style="width: 143.406px; height: 13px;" rowspan="1" colspan="1">&#x000a0;</td>
+                <td style="width: 143.406px; height: 13px;" rowspan="1" colspan="1">LDH 4</td>
+                <td style="width: 216.521px; height: 13px;" rowspan="1" colspan="1">Liver, leukocytes</td>
+              </tr>
+              <tr style="height: 13px;">
+                <td style="width: 143.406px; height: 13px;" rowspan="1" colspan="1">&#x000a0;</td>
+                <td style="width: 143.406px; height: 13px;" rowspan="1" colspan="1">LDH 5</td>
+                <td style="width: 216.521px; height: 13px;" rowspan="1" colspan="1">Skeletal muscles</td>
+              </tr>
+              <tr style="height: 26px;">
+                <td style="width: 143.406px; height: 26px;" rowspan="1" colspan="1">Alkaline phosphatase (ALP)&#x000a0;<xref ref-type="bibr" rid="article-145896.r24">[24]</xref></td>
+                <td style="width: 143.406px; height: 26px;" rowspan="1" colspan="1">Alpha-1 ALP</td>
+                <td style="width: 216.521px; height: 26px;" rowspan="1" colspan="1">Epithelial cells of biliary canaliculi</td>
+              </tr>
+              <tr style="height: 13px;">
+                <td style="width: 143.406px; height: 13px;" rowspan="1" colspan="1">&#x000a0;</td>
+                <td style="width: 143.406px; height: 13px;" rowspan="1" colspan="1">Alpha-2 ALP (heat labile)</td>
+                <td style="width: 216.521px; height: 13px;" rowspan="1" colspan="1">Liver</td>
+              </tr>
+              <tr style="height: 13px;">
+                <td style="width: 143.406px; height: 13px;" rowspan="1" colspan="1">&#x000a0;</td>
+                <td style="width: 143.406px; height: 13px;" rowspan="1" colspan="1">Alpha 2 ALP (heat stable)</td>
+                <td style="width: 216.521px; height: 13px;" rowspan="1" colspan="1">Placenta</td>
+              </tr>
+              <tr style="height: 13px;">
+                <td style="width: 143.406px; height: 13px;" rowspan="1" colspan="1">&#x000a0;</td>
+                <td style="width: 143.406px; height: 13px;" rowspan="1" colspan="1">Pre-beta ALP</td>
+                <td style="width: 216.521px; height: 13px;" rowspan="1" colspan="1">Bone</td>
+              </tr>
+              <tr style="height: 13px;">
+                <td style="width: 143.406px; height: 13px;" rowspan="1" colspan="1">Creatine kinase (CK)&#x000a0;<xref ref-type="bibr" rid="article-145896.r25">[25]</xref></td>
+                <td style="width: 143.406px; height: 13px;" rowspan="1" colspan="1">CK-BB</td>
+                <td style="width: 216.521px; height: 13px;" rowspan="1" colspan="1">Brain</td>
+              </tr>
+              <tr style="height: 13px;">
+                <td style="width: 143.406px; height: 13px;" rowspan="1" colspan="1">&#x000a0;</td>
+                <td style="width: 143.406px; height: 13px;" rowspan="1" colspan="1">CK-MB</td>
+                <td style="width: 216.521px; height: 13px;" rowspan="1" colspan="1">Cardiac muscle</td>
+              </tr>
+              <tr style="height: 13px;">
+                <td style="width: 143.406px; height: 13px;" rowspan="1" colspan="1">&#x000a0;</td>
+                <td style="width: 143.406px; height: 13px;" rowspan="1" colspan="1">CK-MM</td>
+                <td style="width: 216.521px; height: 13px;" rowspan="1" colspan="1">Skeletal muscle</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>The utility of electrophoresis is not limited to diagnostics.&#x000a0;Electrophoresis is widely used for research in genomics and proteomics. Techniques such as restriction fragment length polymorphism, nucleotide sequencing, next-generation sequencing, southern blotting, and western blotting all incorporate electrophoresis as one of their steps. DNA fingerprinting, a technique employed by forensic experts, compares DNA obtained from crime scenes with that of suspects&#x000a0;or&#x000a0;victims. In addition, DNA fingerprinting is used to confirm&#x000a0;the biological parents of a child in case of a dispute.<xref ref-type="bibr" rid="article-145896.r26">[26]</xref>&#x000a0;RBCs, red blood cells.</p>
+      </sec>
+      <sec id="article-145896.s7" sec-type="Quality Control and Lab Safety&#x0000d;&#x0000a;">
+        <title>Quality Control and Lab Safety
+</title>
+        <p>Commercially available controls are used to compare the movement of the analyte of interest and are widely used for hemoglobin, serum protein, and nucleic acid electrophoresis.</p>
+        <p>Caution&#x000a0;is necessary&#x000a0;when preparing electrophoresis gel, buffer preparation, setting up apparatus, running electrophoresis, staining, and visualization of the analyte. Monomers used in polyacrylamide gel preparation are carcinogenic. If contacted, the catalyst used in polyacrylamide gel preparation can cause free radical-related damage to the skin. None of the solutions should be mouth-pipetted. Barbital buffer containing sodium barbiturate is a known central nervous system depressant. Ethidium bromide, used in nucleic acid staining, is a known carcinogen. Direct exposure of the eye to ultraviolet rays during the visualization of the gel can cause severe damage to the eye.<xref ref-type="bibr" rid="article-145896.r27">[27]</xref></p>
+      </sec>
+      <sec id="article-145896.s8" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Diagnosing medical conditions through electrophoresis is most effective when carried out by an interprofessional team that includes specialists such as internal medicine physicians, biochemists, laboratory medicine experts, and laboratory technicians. Each team member contributes unique expertise, ensuring a comprehensive approach to patient assessment. Internal medicine specialists consider the patient's clinical history and presentation, whereas biochemists provide insights into the biochemical mechanisms underlying various conditions. Laboratory technicians are vital in accurately preparing samples and conducting electrophoresis assays, which is crucial for obtaining reliable results.</p>
+        <p>Furthermore, correlating clinical findings with electrophoresis patterns allows clinicians to narrow down the differential diagnosis. By integrating the patient's medical history, physical examination results, and additional laboratory investigations, clinicians can identify specific disorders that may present with similar electrophoretic abnormalities. A precise diagnosis enables healthcare providers to develop targeted treatment plans that address the underlying pathology, ultimately improving patient outcomes. This collaborative and systematic approach highlights the importance of teamwork in enhancing diagnostic accuracy and delivering personalized care to patients.</p>
+      </sec>
+      <sec id="article-145896.s9">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=145896&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=145896">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/145896/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=145896">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <floats-group id="article-145896.s10">
+        <fig id="article-145896.image.f1" position="float" orientation="portrait">
+          <caption>
+            <p>Hemoglobin Electrophoresis Patterns Contributed by Amit Sonagra, MD</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Hb__Electrophoresis__-__Abn" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <floats-group id="article-145896.s11">
+        <fig id="article-145896.image.f2" position="float" orientation="portrait">
+          <caption>
+            <p>Schematic Diagram of an Electrophoresis Apparatus Contributed by Amit Sonagra, MD</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Electrophoresis__appratus" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <ref-list id="article-145896.s12">
+        <title>References</title>
+        <ref id="article-145896.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Srinivas</surname>
+                <given-names>PR</given-names>
+              </name>
+            </person-group>
+            <article-title>Introduction to Protein Electrophoresis.</article-title>
+            <source>Methods Mol Biol</source>
+            <year>2019</year>
+            <volume>1855</volume>
+            <fpage>23</fpage>
+            <page-range>23-29</page-range>
+            <pub-id pub-id-type="pmid">30426403</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145896.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lee</surname>
+                <given-names>PY</given-names>
+              </name>
+              <name>
+                <surname>Costumbrado</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Hsu</surname>
+                <given-names>CY</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>YH</given-names>
+              </name>
+            </person-group>
+            <article-title>Agarose gel electrophoresis for the separation of DNA fragments.</article-title>
+            <source>J Vis Exp</source>
+            <year>2012</year>
+            <month>Apr</month>
+            <day>20</day>
+            <issue>62</issue>
+            <pub-id pub-id-type="pmid">22546956</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145896.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Guo</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Fang</surname>
+                <given-names>Y</given-names>
+              </name>
+            </person-group>
+            <article-title>The effects of electroendosmosis in agarose electrophoresis.</article-title>
+            <source>Electrophoresis</source>
+            <year>1998</year>
+            <month>Jun</month>
+            <volume>19</volume>
+            <issue>8-9</issue>
+            <fpage>1311</fpage>
+            <page-range>1311-3</page-range>
+            <pub-id pub-id-type="pmid">9694271</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145896.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>LARSON</surname>
+                <given-names>DL</given-names>
+              </name>
+              <name>
+                <surname>RANNEY</surname>
+                <given-names>HM</given-names>
+              </name>
+            </person-group>
+            <article-title>Filter paper electrophoresis of human hemoglobin.</article-title>
+            <source>J Clin Invest</source>
+            <year>1953</year>
+            <month>Nov</month>
+            <volume>32</volume>
+            <issue>11</issue>
+            <fpage>1070</fpage>
+            <page-range>1070-6</page-range>
+            <pub-id pub-id-type="pmid">13108968</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145896.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Righetti</surname>
+                <given-names>PG</given-names>
+              </name>
+            </person-group>
+            <article-title>Electrophoresis: the march of pennies, the march of dimes.</article-title>
+            <source>J Chromatogr A</source>
+            <year>2005</year>
+            <month>Jun</month>
+            <day>24</day>
+            <volume>1079</volume>
+            <issue>1-2</issue>
+            <fpage>24</fpage>
+            <page-range>24-40</page-range>
+            <pub-id pub-id-type="pmid">16038288</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145896.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kumar</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Derbigny</surname>
+                <given-names>WA</given-names>
+              </name>
+            </person-group>
+            <article-title>Cellulose Acetate Electrophoresis of Hemoglobin.</article-title>
+            <source>Methods Mol Biol</source>
+            <year>2019</year>
+            <volume>1855</volume>
+            <fpage>81</fpage>
+            <page-range>81-85</page-range>
+            <pub-id pub-id-type="pmid">30426408</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145896.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Koontz</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>Agarose gel electrophoresis.</article-title>
+            <source>Methods Enzymol</source>
+            <year>2013</year>
+            <volume>529</volume>
+            <fpage>35</fpage>
+            <page-range>35-45</page-range>
+            <pub-id pub-id-type="pmid">24011035</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145896.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Green</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Sambrook</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Polyacrylamide Gel Electrophoresis.</article-title>
+            <source>Cold Spring Harb Protoc</source>
+            <year>2020</year>
+            <month>Dec</month>
+            <day>01</day>
+            <volume>2020</volume>
+            <issue>12</issue>
+            <pub-id pub-id-type="pmid">33262236</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145896.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Brunelle</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Green</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>One-dimensional SDS-polyacrylamide gel electrophoresis (1D SDS-PAGE).</article-title>
+            <source>Methods Enzymol</source>
+            <year>2014</year>
+            <volume>541</volume>
+            <fpage>151</fpage>
+            <page-range>151-9</page-range>
+            <pub-id pub-id-type="pmid">24674069</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145896.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Friedman</surname>
+                <given-names>DB</given-names>
+              </name>
+              <name>
+                <surname>Hoving</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Westermeier</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Isoelectric focusing and two-dimensional gel electrophoresis.</article-title>
+            <source>Methods Enzymol</source>
+            <year>2009</year>
+            <volume>463</volume>
+            <fpage>515</fpage>
+            <page-range>515-40</page-range>
+            <pub-id pub-id-type="pmid">19892190</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145896.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zhu</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Lin</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Serum Protein Electrophoresis and Immunofixation Electrophoresis Detection in Multiple Myeloma.</article-title>
+            <source>J Coll Physicians Surg Pak</source>
+            <year>2021</year>
+            <month>Jul</month>
+            <volume>31</volume>
+            <issue>7</issue>
+            <fpage>864</fpage>
+            <page-range>864-867</page-range>
+            <pub-id pub-id-type="pmid">34271795</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145896.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Feikov&#x000e1;</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Klement</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>[Pulsed-field gel electrophoresis and its practical use].</article-title>
+            <source>Klin Mikrobiol Infekc Lek</source>
+            <year>2007</year>
+            <month>Dec</month>
+            <volume>13</volume>
+            <issue>6</issue>
+            <fpage>236</fpage>
+            <page-range>236-41</page-range>
+            <pub-id pub-id-type="pmid">18320503</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145896.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Stolz</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Joo&#x000df;</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>H&#x000f6;cker</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>R&#x000f6;mer</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Schlecht</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Neus&#x000fc;&#x000df;</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Recent advances in capillary electrophoresis-mass spectrometry: Instrumentation, methodology and applications.</article-title>
+            <source>Electrophoresis</source>
+            <year>2019</year>
+            <month>Jan</month>
+            <volume>40</volume>
+            <issue>1</issue>
+            <fpage>79</fpage>
+            <page-range>79-112</page-range>
+            <pub-id pub-id-type="pmid">30260009</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145896.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>BLACKWELL</surname>
+                <given-names>RQ</given-names>
+              </name>
+              <name>
+                <surname>HUANG</surname>
+                <given-names>JT</given-names>
+              </name>
+            </person-group>
+            <article-title>SIMPLIFIED PREPARATION OF BLOOD HEMOLYSATES FOR HEMOGLOBIN ELECTROPHORESIS.</article-title>
+            <source>Clin Chem</source>
+            <year>1965</year>
+            <month>Jun</month>
+            <volume>11</volume>
+            <fpage>628</fpage>
+            <page-range>628-32</page-range>
+            <pub-id pub-id-type="pmid">14300079</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145896.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <article-title>Special Focus on Sample Preparation in Electrophoresis.</article-title>
+            <source>Electrophoresis</source>
+            <year>2021</year>
+            <month>Feb</month>
+            <volume>42</volume>
+            <issue>3</issue>
+            <fpage>189</fpage>
+            <pub-id pub-id-type="pmid">33523528</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145896.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kurien</surname>
+                <given-names>BT</given-names>
+              </name>
+              <name>
+                <surname>Scofield</surname>
+                <given-names>RH</given-names>
+              </name>
+            </person-group>
+            <article-title>Artifacts and Common Errors in Protein Gel Electrophoresis.</article-title>
+            <source>Methods Mol Biol</source>
+            <year>2019</year>
+            <volume>1855</volume>
+            <fpage>511</fpage>
+            <page-range>511-518</page-range>
+            <pub-id pub-id-type="pmid">30426446</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145896.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sander</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Wallace</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Plouse</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Tiwari</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Gomes</surname>
+                <given-names>AV</given-names>
+              </name>
+            </person-group>
+            <article-title>Ponceau S waste: Ponceau S staining for total protein normalization.</article-title>
+            <source>Anal Biochem</source>
+            <year>2019</year>
+            <month>Jun</month>
+            <day>15</day>
+            <volume>575</volume>
+            <fpage>44</fpage>
+            <page-range>44-53</page-range>
+            <pub-id pub-id-type="pmid">30914243</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145896.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Williams</surname>
+                <given-names>LR</given-names>
+              </name>
+            </person-group>
+            <article-title>Staining nucleic acids and proteins in electrophoresis gels.</article-title>
+            <source>Biotech Histochem</source>
+            <year>2001</year>
+            <month>May</month>
+            <volume>76</volume>
+            <issue>3</issue>
+            <fpage>127</fpage>
+            <page-range>127-32</page-range>
+            <pub-id pub-id-type="pmid">11475315</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145896.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Munkongdee</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Winichagoon</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Fucharoen</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Paiboonsukwong</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Update in Laboratory Diagnosis of Thalassemia.</article-title>
+            <source>Front Mol Biosci</source>
+            <year>2020</year>
+            <volume>7</volume>
+            <fpage>74</fpage>
+            <pub-id pub-id-type="pmid">32671092</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145896.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Winichagoon</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Svasti</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Munkongdee</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Chaiya</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Boonmongkol</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Chantrakul</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Fucharoen</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Rapid diagnosis of thalassemias and other hemoglobinopathies by capillary electrophoresis system.</article-title>
+            <source>Transl Res</source>
+            <year>2008</year>
+            <month>Oct</month>
+            <volume>152</volume>
+            <issue>4</issue>
+            <fpage>178</fpage>
+            <page-range>178-84</page-range>
+            <pub-id pub-id-type="pmid">18940720</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145896.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>O'Connell</surname>
+                <given-names>TX</given-names>
+              </name>
+              <name>
+                <surname>Horita</surname>
+                <given-names>TJ</given-names>
+              </name>
+              <name>
+                <surname>Kasravi</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Understanding and interpreting serum protein electrophoresis.</article-title>
+            <source>Am Fam Physician</source>
+            <year>2005</year>
+            <month>Jan</month>
+            <day>01</day>
+            <volume>71</volume>
+            <issue>1</issue>
+            <fpage>105</fpage>
+            <page-range>105-12</page-range>
+            <pub-id pub-id-type="pmid">15663032</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145896.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Vavricka</surname>
+                <given-names>SR</given-names>
+              </name>
+              <name>
+                <surname>Burri</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Beglinger</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Degen</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Manz</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Serum protein electrophoresis: an underused but very useful test.</article-title>
+            <source>Digestion</source>
+            <year>2009</year>
+            <volume>79</volume>
+            <issue>4</issue>
+            <fpage>203</fpage>
+            <page-range>203-10</page-range>
+            <pub-id pub-id-type="pmid">19365122</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145896.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Read</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Winter</surname>
+                <given-names>VJ</given-names>
+              </name>
+              <name>
+                <surname>Eszes</surname>
+                <given-names>CM</given-names>
+              </name>
+              <name>
+                <surname>Sessions</surname>
+                <given-names>RB</given-names>
+              </name>
+              <name>
+                <surname>Brady</surname>
+                <given-names>RL</given-names>
+              </name>
+            </person-group>
+            <article-title>Structural basis for altered activity of M- and H-isozyme forms of human lactate dehydrogenase.</article-title>
+            <source>Proteins</source>
+            <year>2001</year>
+            <month>May</month>
+            <day>01</day>
+            <volume>43</volume>
+            <issue>2</issue>
+            <fpage>175</fpage>
+            <page-range>175-85</page-range>
+            <pub-id pub-id-type="pmid">11276087</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145896.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wallace</surname>
+                <given-names>BH</given-names>
+              </name>
+              <name>
+                <surname>Lott</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Griffiths</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Kirkpatrick</surname>
+                <given-names>RB</given-names>
+              </name>
+            </person-group>
+            <article-title>Isoforms of alkaline phosphatase determined by isoelectric focusing in patients with chronic liver disorders.</article-title>
+            <source>Eur J Clin Chem Clin Biochem</source>
+            <year>1996</year>
+            <month>Sep</month>
+            <volume>34</volume>
+            <issue>9</issue>
+            <fpage>711</fpage>
+            <page-range>711-20</page-range>
+            <pub-id pub-id-type="pmid">8891523</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145896.r25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Swaanenburg</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Dejongste</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Volmer</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Kema</surname>
+                <given-names>IP</given-names>
+              </name>
+            </person-group>
+            <article-title>Analytical aspects of the automated CKMB1,2 and CKMM1,2,3 isoform determination and its relation to other biochemical markers.</article-title>
+            <source>Scand J Clin Lab Invest</source>
+            <year>1998</year>
+            <month>Apr</month>
+            <volume>58</volume>
+            <issue>2</issue>
+            <fpage>167</fpage>
+            <page-range>167-76</page-range>
+            <pub-id pub-id-type="pmid">9587170</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145896.r26">
+          <label>26</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Posch</surname>
+                <given-names>TN</given-names>
+              </name>
+              <name>
+                <surname>P&#x000fc;tz</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Martin</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Huhn</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Electromigrative separation techniques in forensic science: combining selectivity, sensitivity, and robustness.</article-title>
+            <source>Anal Bioanal Chem</source>
+            <year>2015</year>
+            <month>Jan</month>
+            <volume>407</volume>
+            <issue>1</issue>
+            <fpage>23</fpage>
+            <page-range>23-58</page-range>
+            <pub-id pub-id-type="pmid">25381613</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-145896.r27">
+          <label>27</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Klein</surname>
+                <given-names>RC</given-names>
+              </name>
+            </person-group>
+            <article-title>Ultraviolet light hazards from transilluminators.</article-title>
+            <source>Health Phys</source>
+            <year>2000</year>
+            <month>May</month>
+            <volume>78</volume>
+            <issue>5 Suppl</issue>
+            <fpage>S48</fpage>
+            <page-range>S48-50</page-range>
+            <pub-id pub-id-type="pmid">10770157</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

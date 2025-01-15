@@ -1,0 +1,1698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-36012" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Vemurafenib</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Khaddour</surname>
+            <given-names>Karam</given-names>
+          </name>
+          <aff>Rosalind Franklin University of Medicine</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Kurn</surname>
+            <given-names>Heidi</given-names>
+          </name>
+          <aff>Midwestern University - CCOM</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Zito</surname>
+            <given-names>Patrick M.</given-names>
+          </name>
+          <aff>University of Miami; Miller School of Medicine</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Karam Khaddour declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Heidi Kurn declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Patrick Zito declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>28</day>
+          <month>8</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-36012.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p content-type="pubmed-excerpt">Vemurafenib is FDA-approved for metastatic and unresectable melanoma with V600 mutation and Erdheim- Chester disease (non-Langerhans histiocytic disorder). Non-FDA-labeled Indications include metastatic and unresecctable melanoma with BRAF V600K and refractory non-small cell lung carcinoma BRAF V600 mutation. This activity provides an overview of the indications, mechanism of action, methods and timing of administration, important adverse effects, contraindications, toxicity, and monitoring for vemurafenib as chemotherapy for indicated cancers.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Describe the mechanism of action of vemurafenib, including the genetic mutations it specifically addresses.</p></list-item><list-item><p>Identify the most clinically significant adverse events associated with vemurafenib.</p></list-item><list-item><p>Review the approved and off-label cancers for which vemurafenib is indicated.</p></list-item><list-item><p>Summarize the importance of collaboration and coordination among the interprofessional team and how it can enhance patient care with vemurafenib to improve patient outcomes for patients in cancer treatment where it has therapeutic value.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=36012&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=36012">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-36012.s2" sec-type="Indications">
+        <title>Indications</title>
+        <p>The kinase protein family that includes MAP, RAS, RAF, MEK, and ERK play an important role in regulating intracellular and extracellular signaling pathways which control cellular growth, differentiation, transformation, and programmed death (apoptosis). &#x000a0;In a normal cell line, these kinases work accordingly in a cascade of phosphorylation and dephosphorylation when stimulated by growth factors and eventually leading to regulation of cellular growth and proliferation in an organized manner. However, if the genes coding for these kinases has mutations, this can lead to uninhibited continuous growth of the cell, which is manifested clinically by cancer formation.</p>
+        <p>Rapidly accelerated fibrosarcoma (RAF) family was first described in 1983 and was named as such&#x000a0;due to its role in inducing fibrosarcoma in certain mice models.<xref ref-type="bibr" rid="article-36012.r1">[1]</xref> The RAF family has three different isoforms (ARAF, BRAF, and CRAF) that have distinct, independent genes coding for each one. B-RAF first came into the spotlight of clinical significance in 2002 when its mutations were reported to be present in 66% of malignant melanomas, and in other studies, it&#x000a0;was found that BRAF mutations can reach up to 80%.<xref ref-type="bibr" rid="article-36012.r2">[2]</xref><xref ref-type="bibr" rid="article-36012.r3">[3]</xref> Later, BRAF mutations were found to be present in 40-70% of papillary thyroid carcinomas,<xref ref-type="bibr" rid="article-36012.r4">[4]</xref><xref ref-type="bibr" rid="article-36012.r5">[5]</xref> and also with colorectal cancer, hepatocellular carcinoma, and approximately 100% of hairy cell leukemia cells.<xref ref-type="bibr" rid="article-36012.r6">[6]</xref> Moreover,&#x000a0;BRAF mutations&#x000a0;are associated with more aggressive malignant behavior with increased mortality when present in tumor cells.<xref ref-type="bibr" rid="article-36012.r7">[7]</xref></p>
+        <p>The most common activating mutation in BRAF is the substitution of glutamic acid for valine at amino acid codon 600 (V600E mutation), and less commonly is the V600K which is the substitution of lysine for valine. In clinical practice,&#x000a0;several medications which inhibit BRAF have been approved for the treatment of malignant melanoma with positive BRAF mutations. These medications did not show similar efficacy in other cancers harboring the BRAF mutation other than malignant melanoma. The first BRAF inhibitor that came into clinical use was Vemurafenib.</p>
+        <p>
+<bold>Indications</bold>
+</p>
+        <p>Vemurafenib has been approved through BRIM trials (phase I, II, III) after showing increased overall survival and progression-free survival in studied patients with malignant melanoma with BRAF V600E positive mutation. The phase I BRIM established the optimal dose of the medication, which was found to be 960 mg twice a day taken orally.<xref ref-type="bibr" rid="article-36012.r8">[8]</xref> Phase II BRIM trial showed an overall response rate of 53% ranging between a partial and complete response, and the median duration of response was 6.7 months.<xref ref-type="bibr" rid="article-36012.r9">[9]</xref> Lastly, the phase III BRIM trial was a multicenter randomized controlled trial to compare the efficacy of vemurafenib versus dacarbazine which was the standard of treatment for metastatic melanoma.<xref ref-type="bibr" rid="article-36012.r10">[10]</xref> The study found increased overall survival and progression-free survival in the arm treated with vemurafenib versus dacarbazine. However, this was confounded by the crossover that took place from the dacarbazine group to vemurafenib during an interim analysis that showed greater efficacy and response rate in the arm treated with BRAF inhibitor (vemurafenib). Ultimately, the eventual statistical analysis that accounted for this crossover still showed a more favorable response with vemurafenib in patients with Stage IIIC and IV melanoma with BRAF V600E mutation and resulted in an FDA approval of the drug in August 2011.</p>
+        <p>
+<bold>FDA-labeled Indications</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Metastatic and unresectable melanoma with V600 mutation</p>
+          </list-item>
+          <list-item>
+            <p>Erdheim- Chester disease (Non-Langerhans histiocytic disorder)<xref ref-type="bibr" rid="article-36012.r11">[11]</xref>&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Non-FDA-labeled Indications</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Metastatic and unresectable melanoma with BRAF V600K</p>
+          </list-item>
+          <list-item>
+            <p>Refractory non-small cell lung carcinoma BRAF V600 mutation<xref ref-type="bibr" rid="article-36012.r12">[12]</xref></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-36012.s3" sec-type="Mechanism of Action">
+        <title>Mechanism of Action</title>
+        <p>Vemurafenib is a potent, highly selective inhibitor of mutated BRAF V600E. Inhibiting the kinase activity of BRAF prevents signaling from the mitogen-activated pathway (MAP) kinase pathway and blocks the proliferation of malignant cells that harbor this specific mutation. The medication does not have activity in wild-type BRAF cells, unlike other drugs like sorafenib which can block both wild-type and mutated BRAF.<xref ref-type="bibr" rid="article-36012.r13">[13]</xref> Interestingly, it was noted that&#x000a0;during treatment, at some point, there would be a progression of the disease, and this was attributed to resistance of the MAP kinase pathway to BRAF inhibitor (vemurafenib). The mechanism of resistance is still unknown and is a current subject for investigation. Resistance was described to occur in the MAP kinase pathway to vemurafenib, and that is what prompted more clinical trials which showed more efficacy of combination therapy with MEK inhibitors like trametinib in the treatment of malignant melanomas with positive BRAF V600E.<xref ref-type="bibr" rid="article-36012.r14">[14]</xref></p>
+      </sec>
+      <sec id="article-36012.s4" sec-type="Administration">
+        <title>Administration</title>
+        <p>BRIM II trial established the effective, nontoxic dose of Vemurafenib to be 960 mg taken twice a day. When taken orally, the medication reaches its peak concentration in plasma within 3 hours. The half-life ranges between 30-120 hours and achieves a plasma steady state within 15 to 22 days. The medication is started twice daily with a 12-hour interval between the two doses and should be stopped if there is a progression of melanoma or high-grade toxicity.<xref ref-type="bibr" rid="article-36012.r15">[15]</xref></p>
+      </sec>
+      <sec id="article-36012.s5" sec-type="Adverse Effects">
+        <title>Adverse Effects</title>
+        <p>The most common adverse events noticed with the use of vemurafenib are cutaneous manifestations which include but are not limited to nonspecific maculopapular eruptions, hyperkeratosis, and photosensitivity, especially with radiation therapy.</p>
+        <p>One of the most significant cutaneous adverse events with the use of vemurafenib is skin cancers, including squamous cell carcinoma and keratoacanthoma in approximately up to 30% of cases and, less commonly, the development of new primary melanoma.<xref ref-type="bibr" rid="article-36012.r16">[16]</xref> This adverse effect usually develops within weeks of starting treatment and is medically managed with surgical resection without discontinuation of the BRAF inhibitors. Also, the development of secondary melanoma could happen during therapy and is due to paradoxical activation of the MAP kinase pathway, and clinical trials have shown that a combination of BRAF inhibitors with MEK inhibitors associate with a decreased risk of skin tumors but more cutaneous side effects.<xref ref-type="bibr" rid="article-36012.r17">[17]</xref></p>
+        <p>Other adverse events include hepatotoxicity, particularly when used when immunotherapy, QT prolongation, arthralgia, and diarrhea are present.</p>
+        <p>There are some anecdotal reports of Dupuytren&#x02019;s contracture and acute pancreatitis developing after the use of vemurafenib.</p>
+      </sec>
+      <sec id="article-36012.s6" sec-type="Contraindications">
+        <title>Contraindications</title>
+        <p>No absolute contraindications exist regarding the use of vemurafenib, and the only mentioned contraindication is hypersensitivity to vemurafenib, which rarely occurs during treatment.&#x000a0;</p>
+      </sec>
+      <sec id="article-36012.s7" sec-type="Monitoring">
+        <title>Monitoring</title>
+        <p>Perform careful skin examination after initiation of therapy to look for any development of skin tumors, including (squamous cell carcinoma, keratoacanthoma, and melanoma).</p>
+        <p>
+<bold>Testing</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Liver function testing (baseline and regularly during treatment)</p>
+          </list-item>
+          <list-item>
+            <p>Kidney function testing (baseline and regularly during treatment)</p>
+          </list-item>
+          <list-item>
+            <p>Electrocardiogram (baseline and regularly during treatment)</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-36012.s8" sec-type="Toxicity">
+        <title>Toxicity</title>
+        <p>Medication dose adjustments according to the severity of toxic reactions may be necessary.</p>
+        <p>The standard dose is 960 mg twice daily and could be reduced to 720 mg twice daily if toxicity occurs for the first time. Further dose reduction is required if toxicity recurs for the second time and with high-grade toxicity, with recommendations to reduce the dose to 480 mg twice daily and doses less than that are therapeutically inactive.</p>
+      </sec>
+      <sec id="article-36012.s9" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Vemurafenib is the first BRAF inhibitor that is used to treat advanced malignant melanoma. Early results show that&#x000a0;it may prolong life for several months, but the drug is also prohibitively expensive and has several severe adverse effects. The oncology nurse and the pharmacist must educate the patient on the importance of&#x000a0;monitoring their skin for new skin cancers. Additionally, these patients need regular monitoring of their liver and renal function.</p>
+      </sec>
+      <sec id="article-36012.s10">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=36012&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=36012">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/36012/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=36012">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-36012.s11">
+        <title>References</title>
+        <ref id="article-36012.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Rapp</surname>
+                <given-names>UR</given-names>
+              </name>
+              <name>
+                <surname>Goldsborough</surname>
+                <given-names>MD</given-names>
+              </name>
+              <name>
+                <surname>Mark</surname>
+                <given-names>GE</given-names>
+              </name>
+              <name>
+                <surname>Bonner</surname>
+                <given-names>TI</given-names>
+              </name>
+              <name>
+                <surname>Groffen</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Reynolds</surname>
+                <given-names>FH</given-names>
+              </name>
+              <name>
+                <surname>Stephenson</surname>
+                <given-names>JR</given-names>
+              </name>
+            </person-group>
+            <article-title>Structure and biological activity of v-raf, a unique oncogene transduced by a retrovirus.</article-title>
+            <source>Proc Natl Acad Sci U S A</source>
+            <year>1983</year>
+            <month>Jul</month>
+            <volume>80</volume>
+            <issue>14</issue>
+            <fpage>4218</fpage>
+            <page-range>4218-22</page-range>
+            <pub-id pub-id-type="pmid">6308607</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-36012.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Davies</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Bignell</surname>
+                <given-names>GR</given-names>
+              </name>
+              <name>
+                <surname>Cox</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Stephens</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Edkins</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Clegg</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Teague</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Woffendin</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Garnett</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Bottomley</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Davis</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Dicks</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Ewing</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Floyd</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Gray</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Hall</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hawes</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Hughes</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Kosmidou</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Menzies</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Mould</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Parker</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Stevens</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Watt</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hooper</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Wilson</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Jayatilake</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Gusterson</surname>
+                <given-names>BA</given-names>
+              </name>
+              <name>
+                <surname>Cooper</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Shipley</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Hargrave</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Pritchard-Jones</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Maitland</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Chenevix-Trench</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Riggins</surname>
+                <given-names>GJ</given-names>
+              </name>
+              <name>
+                <surname>Bigner</surname>
+                <given-names>DD</given-names>
+              </name>
+              <name>
+                <surname>Palmieri</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Cossu</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Flanagan</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Nicholson</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Ho</surname>
+                <given-names>JW</given-names>
+              </name>
+              <name>
+                <surname>Leung</surname>
+                <given-names>SY</given-names>
+              </name>
+              <name>
+                <surname>Yuen</surname>
+                <given-names>ST</given-names>
+              </name>
+              <name>
+                <surname>Weber</surname>
+                <given-names>BL</given-names>
+              </name>
+              <name>
+                <surname>Seigler</surname>
+                <given-names>HF</given-names>
+              </name>
+              <name>
+                <surname>Darrow</surname>
+                <given-names>TL</given-names>
+              </name>
+              <name>
+                <surname>Paterson</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Marais</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Marshall</surname>
+                <given-names>CJ</given-names>
+              </name>
+              <name>
+                <surname>Wooster</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Stratton</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Futreal</surname>
+                <given-names>PA</given-names>
+              </name>
+            </person-group>
+            <article-title>Mutations of the BRAF gene in human cancer.</article-title>
+            <source>Nature</source>
+            <year>2002</year>
+            <month>Jun</month>
+            <day>27</day>
+            <volume>417</volume>
+            <issue>6892</issue>
+            <fpage>949</fpage>
+            <page-range>949-54</page-range>
+            <pub-id pub-id-type="pmid">12068308</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-36012.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lee</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Mukhi</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Current management and novel agents for malignant melanoma.</article-title>
+            <source>J Hematol Oncol</source>
+            <year>2012</year>
+            <month>Feb</month>
+            <day>14</day>
+            <volume>5</volume>
+            <fpage>3</fpage>
+            <pub-id pub-id-type="pmid">22333219</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-36012.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cohen</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Xing</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Mambo</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Guo</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Wu</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Trink</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Beller</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>Westra</surname>
+                <given-names>WH</given-names>
+              </name>
+              <name>
+                <surname>Ladenson</surname>
+                <given-names>PW</given-names>
+              </name>
+              <name>
+                <surname>Sidransky</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>BRAF mutation in papillary thyroid carcinoma.</article-title>
+            <source>J Natl Cancer Inst</source>
+            <year>2003</year>
+            <month>Apr</month>
+            <day>16</day>
+            <volume>95</volume>
+            <issue>8</issue>
+            <fpage>625</fpage>
+            <page-range>625-7</page-range>
+            <pub-id pub-id-type="pmid">12697856</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-36012.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Huang</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Zhuge</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>WW</given-names>
+              </name>
+            </person-group>
+            <article-title>Sensitive detection of BRAF V600E mutation by Amplification Refractory Mutation System (ARMS)-PCR.</article-title>
+            <source>Biomark Res</source>
+            <year>2013</year>
+            <month>Jan</month>
+            <day>16</day>
+            <volume>1</volume>
+            <issue>1</issue>
+            <fpage>3</fpage>
+            <pub-id pub-id-type="pmid">24252159</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-36012.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ziai</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Hui</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>BRAF mutation testing in clinical practice.</article-title>
+            <source>Expert Rev Mol Diagn</source>
+            <year>2012</year>
+            <month>Mar</month>
+            <volume>12</volume>
+            <issue>2</issue>
+            <fpage>127</fpage>
+            <page-range>127-38</page-range>
+            <pub-id pub-id-type="pmid">22369373</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-36012.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Xing</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Alzahrani</surname>
+                <given-names>AS</given-names>
+              </name>
+              <name>
+                <surname>Carson</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Viola</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Elisei</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Bendlova</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Yip</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Mian</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Vianello</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Tuttle</surname>
+                <given-names>RM</given-names>
+              </name>
+              <name>
+                <surname>Robenshtok</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Fagin</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Puxeddu</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Fugazzola</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Czarniecka</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Jarzab</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>O'Neill</surname>
+                <given-names>CJ</given-names>
+              </name>
+              <name>
+                <surname>Sywak</surname>
+                <given-names>MS</given-names>
+              </name>
+              <name>
+                <surname>Lam</surname>
+                <given-names>AK</given-names>
+              </name>
+              <name>
+                <surname>Riesco-Eizaguirre</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Santisteban</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Nakayama</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Tufano</surname>
+                <given-names>RP</given-names>
+              </name>
+              <name>
+                <surname>Pai</surname>
+                <given-names>SI</given-names>
+              </name>
+              <name>
+                <surname>Zeiger</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Westra</surname>
+                <given-names>WH</given-names>
+              </name>
+              <name>
+                <surname>Clark</surname>
+                <given-names>DP</given-names>
+              </name>
+              <name>
+                <surname>Clifton-Bligh</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Sidransky</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Ladenson</surname>
+                <given-names>PW</given-names>
+              </name>
+              <name>
+                <surname>Sykorova</surname>
+                <given-names>V</given-names>
+              </name>
+            </person-group>
+            <article-title>Association between BRAF V600E mutation and mortality in patients with papillary thyroid cancer.</article-title>
+            <source>JAMA</source>
+            <year>2013</year>
+            <month>Apr</month>
+            <day>10</day>
+            <volume>309</volume>
+            <issue>14</issue>
+            <fpage>1493</fpage>
+            <page-range>1493-501</page-range>
+            <pub-id pub-id-type="pmid">23571588</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-36012.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Flaherty</surname>
+                <given-names>KT</given-names>
+              </name>
+              <name>
+                <surname>Puzanov</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>KB</given-names>
+              </name>
+              <name>
+                <surname>Ribas</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>McArthur</surname>
+                <given-names>GA</given-names>
+              </name>
+              <name>
+                <surname>Sosman</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>O'Dwyer</surname>
+                <given-names>PJ</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Grippo</surname>
+                <given-names>JF</given-names>
+              </name>
+              <name>
+                <surname>Nolop</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Chapman</surname>
+                <given-names>PB</given-names>
+              </name>
+            </person-group>
+            <article-title>Inhibition of mutated, activated BRAF in metastatic melanoma.</article-title>
+            <source>N Engl J Med</source>
+            <year>2010</year>
+            <month>Aug</month>
+            <day>26</day>
+            <volume>363</volume>
+            <issue>9</issue>
+            <fpage>809</fpage>
+            <page-range>809-19</page-range>
+            <pub-id pub-id-type="pmid">20818844</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-36012.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sosman</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>KB</given-names>
+              </name>
+              <name>
+                <surname>Schuchter</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Gonzalez</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Pavlick</surname>
+                <given-names>AC</given-names>
+              </name>
+              <name>
+                <surname>Weber</surname>
+                <given-names>JS</given-names>
+              </name>
+              <name>
+                <surname>McArthur</surname>
+                <given-names>GA</given-names>
+              </name>
+              <name>
+                <surname>Hutson</surname>
+                <given-names>TE</given-names>
+              </name>
+              <name>
+                <surname>Moschos</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Flaherty</surname>
+                <given-names>KT</given-names>
+              </name>
+              <name>
+                <surname>Hersey</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Kefford</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Lawrence</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Puzanov</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Lewis</surname>
+                <given-names>KD</given-names>
+              </name>
+              <name>
+                <surname>Amaravadi</surname>
+                <given-names>RK</given-names>
+              </name>
+              <name>
+                <surname>Chmielowski</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Lawrence</surname>
+                <given-names>HJ</given-names>
+              </name>
+              <name>
+                <surname>Shyr</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Ye</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Nolop</surname>
+                <given-names>KB</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Joe</surname>
+                <given-names>AK</given-names>
+              </name>
+              <name>
+                <surname>Ribas</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Survival in BRAF V600-mutant advanced melanoma treated with vemurafenib.</article-title>
+            <source>N Engl J Med</source>
+            <year>2012</year>
+            <month>Feb</month>
+            <day>23</day>
+            <volume>366</volume>
+            <issue>8</issue>
+            <fpage>707</fpage>
+            <page-range>707-14</page-range>
+            <pub-id pub-id-type="pmid">22356324</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-36012.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chapman</surname>
+                <given-names>PB</given-names>
+              </name>
+              <name>
+                <surname>Hauschild</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Robert</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Haanen</surname>
+                <given-names>JB</given-names>
+              </name>
+              <name>
+                <surname>Ascierto</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Larkin</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Dummer</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Garbe</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Testori</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Maio</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Hogg</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Lorigan</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Lebbe</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Jouary</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Schadendorf</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Ribas</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>O'Day</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Sosman</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Kirkwood</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Eggermont</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Dreno</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Nolop</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Nelson</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Hou</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Flaherty</surname>
+                <given-names>KT</given-names>
+              </name>
+              <name>
+                <surname>McArthur</surname>
+                <given-names>GA</given-names>
+              </name>
+              <collab>BRIM-3 Study Group</collab>
+            </person-group>
+            <article-title>Improved survival with vemurafenib in melanoma with BRAF V600E mutation.</article-title>
+            <source>N Engl J Med</source>
+            <year>2011</year>
+            <month>Jun</month>
+            <day>30</day>
+            <volume>364</volume>
+            <issue>26</issue>
+            <fpage>2507</fpage>
+            <page-range>2507-16</page-range>
+            <pub-id pub-id-type="pmid">21639808</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-36012.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Haroche</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Cohen-Aubart</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Emile</surname>
+                <given-names>JF</given-names>
+              </name>
+              <name>
+                <surname>Maksud</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Drier</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Tol&#x000e9;dano</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Barete</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Charlotte</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Cluzel</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Donadieu</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Benameur</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Grenier</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Besnard</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Ory</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Lifermann</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Idbaih</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Granel</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Graffin</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Hervier</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Arnaud</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Amoura</surname>
+                <given-names>Z</given-names>
+              </name>
+            </person-group>
+            <article-title>Reproducible and sustained efficacy of targeted therapy with vemurafenib in patients with BRAF(V600E)-mutated Erdheim-Chester disease.</article-title>
+            <source>J Clin Oncol</source>
+            <year>2015</year>
+            <month>Feb</month>
+            <day>10</day>
+            <volume>33</volume>
+            <issue>5</issue>
+            <fpage>411</fpage>
+            <page-range>411-8</page-range>
+            <pub-id pub-id-type="pmid">25422482</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-36012.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Planchard</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>TM</given-names>
+              </name>
+              <name>
+                <surname>Mazieres</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Quoix</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Riely</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Barlesi</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Souquet</surname>
+                <given-names>PJ</given-names>
+              </name>
+              <name>
+                <surname>Smit</surname>
+                <given-names>EF</given-names>
+              </name>
+              <name>
+                <surname>Groen</surname>
+                <given-names>HJ</given-names>
+              </name>
+              <name>
+                <surname>Kelly</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Cho</surname>
+                <given-names>BC</given-names>
+              </name>
+              <name>
+                <surname>Socinski</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Pandite</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Nase</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Ma</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>D'Amelio</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Mookerjee</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Curtis</surname>
+                <given-names>CM</given-names>
+              </name>
+              <name>
+                <surname>Johnson</surname>
+                <given-names>BE</given-names>
+              </name>
+            </person-group>
+            <article-title>Dabrafenib in patients with BRAF(V600E)-positive advanced non-small-cell lung cancer: a single-arm, multicentre, open-label, phase 2 trial.</article-title>
+            <source>Lancet Oncol</source>
+            <year>2016</year>
+            <month>May</month>
+            <volume>17</volume>
+            <issue>5</issue>
+            <fpage>642</fpage>
+            <page-range>642-50</page-range>
+            <pub-id pub-id-type="pmid">27080216</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-36012.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tsai</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>JT</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Cho</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Mamo</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Bremer</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Gillette</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kong</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Haass</surname>
+                <given-names>NK</given-names>
+              </name>
+              <name>
+                <surname>Sproesser</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Smalley</surname>
+                <given-names>KS</given-names>
+              </name>
+              <name>
+                <surname>Fong</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Zhu</surname>
+                <given-names>YL</given-names>
+              </name>
+              <name>
+                <surname>Marimuthu</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Nguyen</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Lam</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Cheung</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Rice</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Suzuki</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Luu</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Settachatgul</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Shellooe</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Cantwell</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>SH</given-names>
+              </name>
+              <name>
+                <surname>Schlessinger</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>KY</given-names>
+              </name>
+              <name>
+                <surname>West</surname>
+                <given-names>BL</given-names>
+              </name>
+              <name>
+                <surname>Powell</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Habets</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Ibrahim</surname>
+                <given-names>PN</given-names>
+              </name>
+              <name>
+                <surname>Hirth</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Artis</surname>
+                <given-names>DR</given-names>
+              </name>
+              <name>
+                <surname>Herlyn</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Bollag</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Discovery of a selective inhibitor of oncogenic B-Raf kinase with potent antimelanoma activity.</article-title>
+            <source>Proc Natl Acad Sci U S A</source>
+            <year>2008</year>
+            <month>Feb</month>
+            <day>26</day>
+            <volume>105</volume>
+            <issue>8</issue>
+            <fpage>3041</fpage>
+            <page-range>3041-6</page-range>
+            <pub-id pub-id-type="pmid">18287029</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-36012.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Larkin</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ascierto</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Dr&#x000e9;no</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Atkinson</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Liszkay</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Maio</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Mandal&#x000e0;</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Demidov</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Stroyakovskiy</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Thomas</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>de la Cruz-Merino</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Dutriaux</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Garbe</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Sovak</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Chang</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Choong</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Hack</surname>
+                <given-names>SP</given-names>
+              </name>
+              <name>
+                <surname>McArthur</surname>
+                <given-names>GA</given-names>
+              </name>
+              <name>
+                <surname>Ribas</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Combined vemurafenib and cobimetinib in BRAF-mutated melanoma.</article-title>
+            <source>N Engl J Med</source>
+            <year>2014</year>
+            <month>Nov</month>
+            <day>13</day>
+            <volume>371</volume>
+            <issue>20</issue>
+            <fpage>1867</fpage>
+            <page-range>1867-76</page-range>
+            <pub-id pub-id-type="pmid">25265494</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-36012.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Nazarian</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Shi</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>Q</given-names>
+              </name>
+              <name>
+                <surname>Kong</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Koya</surname>
+                <given-names>RC</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>MK</given-names>
+              </name>
+              <name>
+                <surname>Attar</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Sazegar</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Chodon</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Nelson</surname>
+                <given-names>SF</given-names>
+              </name>
+              <name>
+                <surname>McArthur</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Sosman</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Ribas</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Lo</surname>
+                <given-names>RS</given-names>
+              </name>
+            </person-group>
+            <article-title>Melanomas acquire resistance to B-RAF(V600E) inhibition by RTK or N-RAS upregulation.</article-title>
+            <source>Nature</source>
+            <year>2010</year>
+            <month>Dec</month>
+            <day>16</day>
+            <volume>468</volume>
+            <issue>7326</issue>
+            <fpage>973</fpage>
+            <page-range>973-7</page-range>
+            <pub-id pub-id-type="pmid">21107323</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-36012.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Robert</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Soria</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Spatz</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Le Cesne</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Malka</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Pautier</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Wechsler</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Lhomme</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Escudier</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Boige</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Armand</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Le Chevalier</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Cutaneous side-effects of kinase inhibitors and blocking antibodies.</article-title>
+            <source>Lancet Oncol</source>
+            <year>2005</year>
+            <month>Jul</month>
+            <volume>6</volume>
+            <issue>7</issue>
+            <fpage>491</fpage>
+            <page-range>491-500</page-range>
+            <pub-id pub-id-type="pmid">15992698</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-36012.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Carlos</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Anforth</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Clements</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Menzies</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Carlino</surname>
+                <given-names>MS</given-names>
+              </name>
+              <name>
+                <surname>Chou</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Fernandez-Pe&#x000f1;as</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Cutaneous Toxic Effects of BRAF Inhibitors Alone and in Combination With MEK Inhibitors for Metastatic Melanoma.</article-title>
+            <source>JAMA Dermatol</source>
+            <year>2015</year>
+            <month>Oct</month>
+            <volume>151</volume>
+            <issue>10</issue>
+            <fpage>1103</fpage>
+            <page-range>1103-9</page-range>
+            <pub-id pub-id-type="pmid">26200476</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

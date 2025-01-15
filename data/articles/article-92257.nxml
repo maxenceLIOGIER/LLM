@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-92257" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Refractory Hypoxemia and Venovenous ECMO</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Ambati</surname>
+            <given-names>Shashikanth</given-names>
+          </name>
+          <aff>Albany Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Yandrapalli</surname>
+            <given-names>Srikanth</given-names>
+          </name>
+          <aff>New York Medical College/Westchester Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Shashikanth Ambati declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Srikanth Yandrapalli declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>3</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-92257.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Refractory hypoxemia is a common problem encountered in patients on mechanical ventilation for acute respiratory failure. Acute respiratory distress syndrome (ARDS) is the most common cause of refractory hypoxemia in patients with acute respiratory failure. Unmanageable refractory hypoxemia remains the most feared conditions encountered by intensive care physicians since many of the strategies proposed for treatment of this condition can improve oxygenation with no real mortality benefits. This activity reviews the treatment of refractory hypoxemia and highlights the role of the venovenous extracorporeal membrane oxygenation in treating patients with this condition.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Describe the pathophysiology of refractory hypoxemia.</p></list-item><list-item><p>Summarize the different treatment strategies for refractory hypoxemia.</p></list-item><list-item><p>Explain the role of venovenous extracorporeal membrane oxygenation in refractory hypoxemia.</p></list-item><list-item><p>Review the complications of different treatments of refractory hypoxemia.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=92257&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=92257">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-92257.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Refractory hypoxemia can occur in a small subset of patients with acute respiratory failure and mechanical ventilation. Acute respiratory distress syndrome (ARDS) is the most common cause of refractory hypoxemia in patients with acute respiratory failure. Unmanageable refractory hypoxemia remains&#x000a0;a most feared condition encountered by intensive care physicians since many of the ventilatory strategies proposed for the treatment of this condition can improve oxygenation but without a mortality benefit. There is no standard definition of refractory hypoxemia, and this term usually considered when there is inadequate arterial oxygenation despite optimal levels of inspired oxygen. There is significant heterogeneity in opinions among intensivists regarding the definition, as demonstrated by a recent survey.<xref ref-type="bibr" rid="article-92257.r1">[1]</xref>&#x000a0;</p>
+        <p>Some of the definitions described in the literature include partial pressure of oxygen (PaO2) &#x02264;60 mmHg or a PaO2/FiO2 ratio &#x02264;100 on the fraction of inspired oxygen (FiO2) of 0.8-1.0 with positive end-expiratory pressure (PEEP) of &#x0003e;15 cm&#x000a0;H2O or with plateau pressures &#x0003e;30 cm&#x000a0;H2O for more than 12 hours despite lung-protective low tidal volumes of 4-6 mL/kg.<xref ref-type="bibr" rid="article-92257.r2">[2]</xref>&#x000a0;Oxygenation index (OI) emerged as an effective tool to evaluate refractory hypoxemia as it incorporates airway pressure and PaO2/FiO2 ratio. It is given by the formula OI = mean airway pressure (MAP) &#x000d7; FiO2 &#x000d7; 100/PaO2. OI, less than 40 indicates refractory to conventional ventilation and requires rescue therapy&#x000a0;with&#x000a0;extracorporeal membrane oxygenation (ECMO) after strategies like low tidal volume and enhanced alveolar recruitment ventilation, prone ventilation, neuromuscular blockade to reduce patient-ventilatory dyssynchrony, and pulmonary vasodilators have failed to improve oxygenation.</p>
+      </sec>
+      <sec id="article-92257.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p>The clinical situations that cause refractory hypoxemia include sepsis, pneumonia, major trauma, pulmonary aspiration and drowning, burns, smoke inhalation, massive blood transfusions, air, fat, and amniotic fluid embolism, poisonings, radiation. By far, the most common cause of refractory hypoxemia is severe acute lung injury from ARDS.</p>
+      </sec>
+      <sec id="article-92257.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p>Severe hypoxemia can occur in 20% to 30% of the ARDS patients and is associated with high mortality. An estimated 10% to 15% of the deaths in ARDS are caused due to refractory hypoxemia.<xref ref-type="bibr" rid="article-92257.r3">[3]</xref></p>
+      </sec>
+      <sec id="article-92257.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>The alveoli can be flooded or collapsed due to fluid or debris in various conditions mentioned above and allow no inspired gas to enter through the alveolar-capillary membrane. Despite increasing the FiO2, the blood perfusing these alveoli tend to remain at the mixed venous oxygen content. As a result, there will be a constant mixing of deoxygenated blood into the pulmonary vein, which causes arterial hypoxemia. This is more pronounced in the dependent lung regions of patients with ARDS.</p>
+        <p>The physiological causes of refractory hypoxemia can be from 1) intrapulmonary right-to-left shunting due to acute lung injury, acute respiratory distress syndrome and pulmonary edema, 2) ventilation-perfusion (V/Q) mismatch due to atelectasis, pulmonary embolism, pulmonary edema, and infiltrates in the lung such as pneumonia, 3) hypoventilation from machine failure, leak, or calibration error, and 4) other causes such as anemia, intracardiac shunts, decreased cardiac output and increased demand states.</p>
+      </sec>
+      <sec id="article-92257.s6" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>Dyspnea is the predominant symptom of ARDS, which progressively gets worse within hours and days requiring mechanical ventilation. The inciting condition can be identified by careful history and physical examination. Physical examination usually reveals tachypnea, low blood oxygen saturation, tachycardia, central or peripheral cyanosis. Lung exam may reveal bilateral rales, especially bibasilar, and in severe cases may demonstrate decreased air entry.</p>
+        <p>Focused cardiac exam such as listening for S3 and gallop rhythm, murmurs, jugular venous distension, hepatomegaly, bilateral ankle edema, ascites had to be done to rule out heart failure as it mimics ARDS closely. Neurological and perfusion status should be carefully evaluated to estimate the effects of hypoxia on organ perfusion. Altered mentation, confusion, cold extremities, and decreased urine output are important examination findings that suggest states of shock from hypoxia or the underlying etiology of refractory hypoxemia.</p>
+      </sec>
+      <sec id="article-92257.s7" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>A chest X-ray will be useful to identify lung infiltrates or ARDS or a primary pneumonic process. An arterial blood gas will be useful to monitor the PaO2 to grade the severity of hypoxemia. Chest computed tomographic evaluation has proven to be more helpful and accurate than chest X-ray imaging in detecting the complications of ARDS.</p>
+        <p>A transthoracic echocardiogram might be needed to rule out cardiac etiology of hypoxemia, such as intracardiac shunting or congestive heart failure with pulmonary edema or pulmonary hypertension leading to cor pulmonale. In cases of massive bilateral pulmonary embolism causing refractory hypoxemia, echocardiography might reveal right ventricular strain.</p>
+      </sec>
+      <sec id="article-92257.s8" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>It is important to remember that the adequacy of oxygen delivery to maintain the organ function is more relevant than the absolute level of hypoxemia. The strategies aimed at improving refractory hypoxemia include&#x000a0;lung recruiting ventilatory maneuvers to decrease further damage to the collapsed alveoli while increasing the recruitment of remaining unaffected alveoli&#x000a0;to improve gas exchange. Common recruitment strategies include increasing PEEP to 30 to 50 cm&#x000a0;H2O for 20 to 30 seconds or/and sustaining high pressure with a PEEP of 25&#x000a0;to 30 cm H2O to reach peak inspiratory airway pressure of 40 to 45 cm H2O for 2 minutes. Staircase recruitment maneuvers include increasing PEEP from baseline to 20, 30, and 40 cm H2O every 2 minutes and then decreasing at 3-minute intervals slowly to identify the PEEP level that is needed to maintain adequate oxygenation is an alternative approach.<xref ref-type="bibr" rid="article-92257.r2">[2]</xref>&#x000a0;</p>
+        <p>A single recruitment maneuver might not be enough, although it can be repeated if a response is observed with the first one. The optimal timing and frequency of recruitment maneuvers are also unknown. Though recruitment maneuvers attempt to improve gas exchange by increasing the amount of aerated lung tissue, they may expose regions of healthy lung tissue to increased pressure and the risk of overdistention and sometimes cause hypotension and hypoxemia. Sometimes the role of recruitment maneuvers might be limited just as a bridging option to rescue therapy to treat life-threatening hypoxemia.</p>
+        <p>Different ventilator modes such as pressure-controlled ventilation, inverse ratio ventilation, high-frequency oscillatory ventilation, high-frequency percussive ventilation, and airway pressure release ventilation have been proposed but no evidence that one mode of ventilation is better than the other. If hypoxemia persists despite the application of lung-protective ventilation with low tidal volume ventilation and recruitment maneuvers with different ventilator strategies, then the following additional therapies can be considered. Therapeutic options include prone positioning, use of pulmonary vasodilators such as nitric oxide and prostacyclins, neuromuscular blockade to reduce patient-ventilatory dyssynchrony, corticosteroid therapy, conservative fluid management, maintaining negative fluid balance, and ECMO. There are no studies so far comparing the efficacy of one therapy over the other.</p>
+        <p>Neuromuscular blocking agents (NMBAs) improve patient-ventilator synchrony by eliminating the inspiratory and expiratory efforts of patients leading to more uniform lung recruitment and improved gas exchange and systemic oxygenation. Meta-analysis comparing all the randomized controlled trials of adults with ARDS treated with NMBAs demonstrated lower mortality and fewer days of mechanical ventilation and lower episodes of barotrauma.<xref ref-type="bibr" rid="article-92257.r4">[4]</xref>&#x000a0;NMBAs should be considered in patients with severe refractory hypoxemia secondary to moderate-severe ARDS within the first 48 hours but should be cautious in those patients who are receiving steroids and care should be taken to minimize the use for less than 48 hours due to increased risk of myopathy.<xref ref-type="bibr" rid="article-92257.r5">[5]</xref></p>
+        <p>A systematic review and network meta-analysis examined different interventions in patients with moderate to severe ARDS who were already on low tidal volume ventilation and found out that only prone positioning and ECMO were associated with lower 28-day mortality.<xref ref-type="bibr" rid="article-92257.r6">[6]</xref>&#x000a0;Prone positioning helps to take the pressure of the heart off the lungs. It helps to recruit the alveoli and redistribute the ventilation toward the dorsal regions and thereby improving ventilation-perfusion ratio resulting in less shunting. Prone positioning comes with risks such as endotracheal dislodgement, facial edema, facial pressure sores, increased use of sedation, and dislodgement of vascular catheters.<xref ref-type="bibr" rid="article-92257.r7">[7]</xref><xref ref-type="bibr" rid="article-92257.r8">[8]</xref>&#x000a0;While prone positioning is preferable in patients with severe refractory hypoxemia, this option is not universally available and requires specific expertise and not suitable for every patient. A randomized trial, PROning of SEVere ARDS patients (PROSEVA), had shown a reduction of 28-day mortality by 50% if patients with severe ARDS can be kept prone early in their course for long periods like 16 hours daily compared to being in supine position all the time.<xref ref-type="bibr" rid="article-92257.r9">[9]</xref>&#x000a0;A trial of prone positioning can be safely applied to patients with refractory hypoxemia, provided no contraindications such as acute bleeding, shock states, multiple fractures, spinal instability, raised intracranial pressure, tracheal surgery, or sternotomy within&#x000a0;2 weeks.</p>
+        <p>Both the prone positioning and neuromuscular blockade have shown a reduction in the harmful effects of mechanical ventilation with improvement in oxygenation when evaluated separately in different studies if combined could have a synergistic effect in improving the oxygenation.<xref ref-type="bibr" rid="article-92257.r10">[10]</xref></p>
+        <p>ECMO or extracorporeal life support (ECLS) is an advanced therapy that utilizes prolonged cardiopulmonary bypass to treat patients in acute respiratory failure with refractory hypoxemia. ECMO is recommended as a last resort rescue therapy for severe hypoxemia when PaO2/FiO2&#x000a0;&#x0003c;50 with FiO2 of 100% or OI&#x0003e;40 who have failed or not suitable for prone ventilation, high PEEP/recruitment strategies, inhaled pulmonary vasodilators, and neuromuscular blockade. ECMO is similar in principle to cardiac bypass for open-heart surgery and is performed at a patient's bedside in the intensive care units, which can run for prolonged periods sometimes several weeks. The benefit of ECMO in the ARDS-refractory hypoxemia population is that the lung-protective ventilatory setting can be continued while the patient is adequately oxygenated by the ECMO support. The initial applications of ECMO in patients with severe hypoxemia did not show any benefit, and later studies found a significant decrease in mortality ranging between 21% and 50%. A systematic review and meta-analysis described a 60-day mortality rate of only 34% in the patients with severe refractory hypoxemia treated with ECMO compared to 47% in the group managed by conventional therapies.<xref ref-type="bibr" rid="article-92257.r11">[11]</xref>&#x000a0;Though the mortality rate did not reach statistical significance in this study, a trend towards decreased mortality was observed in the arm with the early institution of ECMO.</p>
+        <p>ECMO support can be performed in two manners venovenous (VV) or venoarterial (VA). VV ECMO can be used to treat patients in severe respiratory failure with severe hypoxemia, provided they have adequate heart function. In contrast, VA ECMO provides support for patients with severe respiratory and cardiac failure. Here we will be discussing VV ECMO as a rescue for patients with refractory hypoxemia from severe acute respiratory failure. During VV ECMO blood is extracted from the vena cava or right atrium and returned to the right atrium. The patient will be anticoagulated with intravenous heparin before the cannulae are inserted. The drainage venous cannulae are usually placed with the tip near the junction of vena cava and right atrium and the infusion or return cannula in the right internal jugular vein. The following cannulation and connecting to the ECMO circuit where all the venous blood from the patient will go through an oxygenator and carbon dioxide removed and returned to the patient's return cannula using a centrifugal pump.</p>
+        <p>Then the blood flow will be increased to achieve acceptable respiratory parameters and maintained at that rate. There will be continuous venous oximetry measuring the oxyhemoglobin saturation of blood in the venous limb, which assists for frequent assessment and adjustments. Target venous oxyhemoglobin saturation should be 20% to 25% lower than the arterial saturation. Factors that determine the oxygen saturation during VV ECMO include pump flow, degree of recirculation, hemoglobin concentration, residual lung function, and patient's systemic venous return and its oxygen saturation<bold>.</bold><xref ref-type="bibr" rid="article-92257.r12">[12]</xref><bold>&#x000a0;</bold>Anticoagulation is maintained during ECMO, with a continuous infusion of heparin titrated to an activated clotting time of 180 to 210 seconds. Platelets are consumed heavily during ECMO due to activation by exposure to foreign body i.e., circuit and might need frequent platelet transfusions. In VV ECMO, the blood returned to the patient from the ECMO circuit will still traverse the pulmonary vascular bed, and so moderate ventilator settings must be maintained to provide adequate oxygenation as supposed to VA ECMO where the ventilator settings can be decreased to minimal settings.</p>
+        <p>If hypoxemia persists despite ECMO initiation, strategies to increase the oxygen saturations include increasing ECMO blood flow, improve oxygen-carrying capacity in the blood by increasing hemoglobin concentration and cardiac output, reduce oxygen consumption by using sedation, neuromuscular blockade and therapeutic hypothermia and finally importantly reducing recirculation. Recirculation&#x000a0;occurs when well-oxygenated blood from the return cannula gets "sucked in" by the venous drainage cannula rather than going through the pulmonary circulation. Maximum flow rates are usually needed to optimize oxygen delivery in patients on VV ECMO contrast to VA ECMO.</p>
+        <p>Weaning from ECMO can be initiated when improvement on chest X-ray, lung compliance, and arterial oxyhemoglobin concentration is noted. ECMO trials are done by removing all the countercurrent sweep gas through the oxygenator but keeping blood flow constant with no gas exchange. This will be done for several hours, where the patient's ventilator settings are adjusted to maintain oxygenation and ventilation off ECMO. Absolute contraindications for ECMO rescue therapy include a preexisting condition not compatible with recovery (end-stage malignancy, severe neurological injury), and some of the relative contraindications include uncontrollable bleeding and very poor prognosis of the primary condition.</p>
+      </sec>
+      <sec id="article-92257.s9" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <p>Though conditions leading to ARDS are the most common causes of refractory hypoxemia, some conditions such as atrial septal defect or patent foramen ovale, which can cause significant intracardiac right to left shunting have to be ruled out. Intrapulmonary shunts such as secondary to pulmonary arteriovenous malformations and hepatopulmonary syndrome must be thought of in some cases of refractory hypoxemia. Acute pulmonary embolism and pulmonary hypertension, which are life-threatening, are also important differentials in patients with refractory hypoxemia.</p>
+      </sec>
+      <sec id="article-92257.s10" sec-type="Pertinent Studies and Ongoing Trials">
+        <title>Pertinent Studies and Ongoing Trials</title>
+        <p>There were two major randomized trials comparing ECMO and conventional mechanical ventilation for refractory hypoxemia in severe ARDS patients. The first trial was published in 2009, which is the CESAR (Conventional ventilatory Support versus Extracorporeal Membrane Oxygenation for Severe Adult Respiratory Failure) study.<xref ref-type="bibr" rid="article-92257.r13">[13]</xref>&#x000a0;It was a multicenter randomized trial that was designed to study the safety, clinical efficacy, and cost-effectiveness of ECMO compared with conventional ventilation. The results of this study were favorable for the ECMO group in which 63% in the ECMO group survived to 6 months without disability compared to only 47% in the control group, and ECMO was proven to be cost-effective.</p>
+        <p>Though the CESAR trial results were encouraging for ECMO, limitations existed, such as not all the patients in the ECMO group received ECMO, and there was a lack of standardization in the use of mechanical ventilation in the control group which resulted in another trial called the EOLIA in 2018.</p>
+        <p>EOLIA (ECMO to Rescue Lung Injury in severe ARDS) trial&#x000a0;was a multicenter randomized study designed to determine if early initiation of ECMO would change outcomes in patients with the most severe form of ARDS compared to conventional mechanical ventilation alone.<xref ref-type="bibr" rid="article-92257.r14">[14]</xref> The primary endpoint of the study was 60-day mortality. The results of the study showed that only 35% in the ECMO group died at 60 days compared to 46% in the control group, but this mortality benefit did not achieve statistical significance (p-value of 0.09). EOLIA trial has limitations such as that there was a 28% rate of crossover in the control group who received ECMO, which might have diluted the potential effect of ECMO.</p>
+      </sec>
+      <sec id="article-92257.s11" sec-type="Prognosis">
+        <title>Prognosis</title>
+        <p>Mortality associated with refractory hypoxemia is significantly high. In general, patients with severe hypoxemia, even after all the rescue therapies other than ECMO carries an overall risk of mortality near 90%. With ECMO support, the chance of survival increases to 40% to 93%, depending on the patient's diagnosis. CESAR trial compared standard conventional ventilation therapy versus ECMO in patients with severe hypoxemia and showed patients in the ECMO group had a higher survival rate of 63% vs. 47% in the conventional group.<xref ref-type="bibr" rid="article-92257.r15">[15]</xref></p>
+      </sec>
+      <sec id="article-92257.s12" sec-type="Complications">
+        <title>Complications</title>
+        <p>The major complications of ECMO are bleeding and thromboembolism. Bleeding occurs in 30% to 50% of patients on ECMO. Maintaining the platelet count above 50000/mL and target activated clotting time reduce the likelihood of bleeding. Plasminogen inhibitors like aminocaproic acid can be started, or heparin can be stopped for a few hours to control bleeding, but it will increase the risk of thrombosis in the ECMO circuit. Systemic thromboembolism due to the thrombus formation within the circuit can be&#x000a0;detrimental, and routine inspection of all connectors with a close watch of the pressure gradient across the oxygenator is required. A sudden change in the pressure gradient indicates the development of a clot. Other complications can be vessel perforation with hemorrhage and arterial dissection during cannulation.</p>
+      </sec>
+      <sec id="article-92257.s13" sec-type="Deterrence and Patient Education">
+        <title>Deterrence and Patient Education</title>
+        <p>Strategies to prevent ARDS, the most common reason for severe refractory hypoxemia should be used whenever possible. Sepsis and pneumonia are the two high-risk conditions that predispose to ARDS. Earlier recognition of patients at high-risk for the development of lung injury and instituting early preventive measures such as adherence to lung-protective ventilation, restrictive blood transfusions, aspiration precautions, appropriate management of sepsis/septic shock, and trauma are required.</p>
+      </sec>
+      <sec id="article-92257.s14" sec-type="Pearls and Other Issues">
+        <title>Pearls and Other Issues</title>
+        <p>Stratification of these patients is vital to identify those who might benefit from adjunctive treatments. All the salvage therapies described above have been associated with improved oxygenation, but none of them have proven to improve mortality except proning and neuromuscular blockade early in the course of ARDS. Early application within 7 days of respiratory failure is critical for the success of ECMO, and thus early transfer to specialized centers with ECMO capabilities is required. ECMO remains a feasible option as rescue therapy for refractory hypoxemia but needs to be performed in tertiary or quaternary centers, which are better equipped to be able to handle consequences.</p>
+      </sec>
+      <sec id="article-92257.s15" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>As a team taking care of the patient with refractory hypoxemia, it is important to remember that oxygenation or oxygen saturation per se appears to be a poor surrogate marker for survival because those patients in the ARDS Network trial who were treated with higher tidal volumes had improved oxygenation but worse mortality overall.<xref ref-type="bibr" rid="article-92257.r16">[16]</xref><bold>&#x000a0;</bold>Management of refractory hypoxemia is a team effort involving respiratory therapists, nurses, pulmonologists, intensivists, and surgeons.</p>
+        <p>Some rescue therapies such as prone positioning require a skilled team of nurses, and respiratory therapists since turning the patient is a labor-intensive process involved with some technical challenges. Communication among the interprofessional teams is critical such as informing the surgeons about possible cannulation early enough if you have a patient with severe refractory hypoxemia. If you are not an ECMO center, you might need to discuss the risk of transfer versus managing the patient at your center and will need a good critical care transport team to transfer these high-risk patients to a specialized ECMO center.</p>
+      </sec>
+      <sec id="article-92257.s16">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=92257&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=92257">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/lung-disease-respiratory-health/refractory-hypoxemia-and-venovenous-ecmo/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=92257">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/92257/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=92257">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-92257.s17">
+        <title>References</title>
+        <ref id="article-92257.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Alhurani</surname>
+                <given-names>RE</given-names>
+              </name>
+              <name>
+                <surname>Oeckler</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Franco</surname>
+                <given-names>PM</given-names>
+              </name>
+              <name>
+                <surname>Jenkins</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Gajic</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Pannu</surname>
+                <given-names>SR</given-names>
+              </name>
+            </person-group>
+            <article-title>Refractory Hypoxemia and Use of Rescue Strategies. A U.S. National Survey of Adult Intensivists.</article-title>
+            <source>Ann Am Thorac Soc</source>
+            <year>2016</year>
+            <month>Jul</month>
+            <volume>13</volume>
+            <issue>7</issue>
+            <fpage>1105</fpage>
+            <page-range>1105-14</page-range>
+            <pub-id pub-id-type="pmid">27128143</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-92257.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kollengode</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Treatment of Refractory Hypoxemia in Adults With Acute Respiratory Distress Syndrome-What Is the Available Evidence?</article-title>
+            <source>J Cardiothorac Vasc Anesth</source>
+            <year>2016</year>
+            <month>Jun</month>
+            <volume>30</volume>
+            <issue>3</issue>
+            <fpage>791</fpage>
+            <page-range>791-9</page-range>
+            <pub-id pub-id-type="pmid">27321795</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-92257.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pipeling</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Fan</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Therapies for refractory hypoxemia in acute respiratory distress syndrome.</article-title>
+            <source>JAMA</source>
+            <year>2010</year>
+            <month>Dec</month>
+            <day>08</day>
+            <volume>304</volume>
+            <issue>22</issue>
+            <fpage>2521</fpage>
+            <page-range>2521-7</page-range>
+            <pub-id pub-id-type="pmid">21139113</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-92257.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Papazian</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Forel</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Gacouin</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Penot-Ragon</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Perrin</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Loundou</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Jaber</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Arnal</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Perez</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Seghboyan</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Constantin</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Courant</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Lefrant</surname>
+                <given-names>JY</given-names>
+              </name>
+              <name>
+                <surname>Gu&#x000e9;rin</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Prat</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Morange</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Roch</surname>
+                <given-names>A</given-names>
+              </name>
+              <collab>ACURASYS Study Investigators</collab>
+            </person-group>
+            <article-title>Neuromuscular blockers in early acute respiratory distress syndrome.</article-title>
+            <source>N Engl J Med</source>
+            <year>2010</year>
+            <month>Sep</month>
+            <day>16</day>
+            <volume>363</volume>
+            <issue>12</issue>
+            <fpage>1107</fpage>
+            <page-range>1107-16</page-range>
+            <pub-id pub-id-type="pmid">20843245</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-92257.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hraiech</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Forel</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Papazian</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>The role of neuromuscular blockers in ARDS: benefits and risks.</article-title>
+            <source>Curr Opin Crit Care</source>
+            <year>2012</year>
+            <month>Oct</month>
+            <volume>18</volume>
+            <issue>5</issue>
+            <fpage>495</fpage>
+            <page-range>495-502</page-range>
+            <pub-id pub-id-type="pmid">22941207</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-92257.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Aoyama</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Uchida</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Aoyama</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Pechlivanoglou</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Englesakis</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Yamada</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Fan</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Assessment of Therapeutic Interventions and Lung Protective Ventilation in Patients With Moderate to Severe Acute Respiratory Distress Syndrome: A Systematic Review and Network Meta-analysis.</article-title>
+            <source>JAMA Netw Open</source>
+            <year>2019</year>
+            <month>Jul</month>
+            <day>03</day>
+            <volume>2</volume>
+            <issue>7</issue>
+            <fpage>e198116</fpage>
+            <pub-id pub-id-type="pmid">31365111</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-92257.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Girard</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Baboi</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Ayzac</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Richard</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Gu&#x000e9;rin</surname>
+                <given-names>C</given-names>
+              </name>
+              <collab>Proseva trial group</collab>
+            </person-group>
+            <article-title>The impact of patient positioning on pressure ulcers in patients with severe ARDS: results from a multicentre randomised controlled trial on prone positioning.</article-title>
+            <source>Intensive Care Med</source>
+            <year>2014</year>
+            <month>Mar</month>
+            <volume>40</volume>
+            <issue>3</issue>
+            <fpage>397</fpage>
+            <page-range>397-403</page-range>
+            <pub-id pub-id-type="pmid">24352484</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-92257.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Taccone</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Pesenti</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Latini</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Polli</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Vagginelli</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Mietto</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Caspani</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Raimondi</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Bordone</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Iapichino</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Mancebo</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Gu&#x000e9;rin</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Ayzac</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Blanch</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Fumagalli</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Tognoni</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Gattinoni</surname>
+                <given-names>L</given-names>
+              </name>
+              <collab>Prone-Supine II Study Group</collab>
+            </person-group>
+            <article-title>Prone positioning in patients with moderate and severe acute respiratory distress syndrome: a randomized controlled trial.</article-title>
+            <source>JAMA</source>
+            <year>2009</year>
+            <month>Nov</month>
+            <day>11</day>
+            <volume>302</volume>
+            <issue>18</issue>
+            <fpage>1977</fpage>
+            <page-range>1977-84</page-range>
+            <pub-id pub-id-type="pmid">19903918</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-92257.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gu&#x000e9;rin</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Reignier</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Richard</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Beuret</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Gacouin</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Boulain</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Mercier</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Badet</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Mercat</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Baudin</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Clavel</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Chatellier</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Jaber</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Rosselli</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Mancebo</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Sirodot</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Hilbert</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Bengler</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Richecoeur</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Gainnier</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Bayle</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Bourdin</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Leray</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Girard</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Baboi</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Ayzac</surname>
+                <given-names>L</given-names>
+              </name>
+              <collab>PROSEVA Study Group</collab>
+            </person-group>
+            <article-title>Prone positioning in severe acute respiratory distress syndrome.</article-title>
+            <source>N Engl J Med</source>
+            <year>2013</year>
+            <month>Jun</month>
+            <day>06</day>
+            <volume>368</volume>
+            <issue>23</issue>
+            <fpage>2159</fpage>
+            <page-range>2159-68</page-range>
+            <pub-id pub-id-type="pmid">23688302</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-92257.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gu&#x000e9;rin</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Mancebo</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Prone positioning and neuromuscular blocking agents are part of standard care in severe ARDS patients: yes.</article-title>
+            <source>Intensive Care Med</source>
+            <year>2015</year>
+            <month>Dec</month>
+            <volume>41</volume>
+            <issue>12</issue>
+            <fpage>2195</fpage>
+            <page-range>2195-7</page-range>
+            <pub-id pub-id-type="pmid">26399890</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-92257.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Munshi</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Walkey</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Goligher</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Pham</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Uleryk</surname>
+                <given-names>EM</given-names>
+              </name>
+              <name>
+                <surname>Fan</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Venovenous extracorporeal membrane oxygenation for acute respiratory distress syndrome: a systematic review and meta-analysis.</article-title>
+            <source>Lancet Respir Med</source>
+            <year>2019</year>
+            <month>Feb</month>
+            <volume>7</volume>
+            <issue>2</issue>
+            <fpage>163</fpage>
+            <page-range>163-172</page-range>
+            <pub-id pub-id-type="pmid">30642776</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-92257.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Montisci</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Maj</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Zangrillo</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Winterton</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Pappalardo</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>Management of refractory hypoxemia during venovenous extracorporeal membrane oxygenation for ARDS.</article-title>
+            <source>ASAIO J</source>
+            <year>2015</year>
+            <season>May-Jun</season>
+            <volume>61</volume>
+            <issue>3</issue>
+            <fpage>227</fpage>
+            <page-range>227-36</page-range>
+            <pub-id pub-id-type="pmid">25923575</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-92257.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Peek</surname>
+                <given-names>GJ</given-names>
+              </name>
+              <name>
+                <surname>Mugford</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Tiruvoipati</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Wilson</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Allen</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Thalanany</surname>
+                <given-names>MM</given-names>
+              </name>
+              <name>
+                <surname>Hibbert</surname>
+                <given-names>CL</given-names>
+              </name>
+              <name>
+                <surname>Truesdale</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Clemens</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Cooper</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Firmin</surname>
+                <given-names>RK</given-names>
+              </name>
+              <name>
+                <surname>Elbourne</surname>
+                <given-names>D</given-names>
+              </name>
+              <collab>CESAR trial collaboration</collab>
+            </person-group>
+            <article-title>Efficacy and economic assessment of conventional ventilatory support versus extracorporeal membrane oxygenation for severe adult respiratory failure (CESAR): a multicentre randomised controlled trial.</article-title>
+            <source>Lancet</source>
+            <year>2009</year>
+            <month>Oct</month>
+            <day>17</day>
+            <volume>374</volume>
+            <issue>9698</issue>
+            <fpage>1351</fpage>
+            <page-range>1351-63</page-range>
+            <pub-id pub-id-type="pmid">19762075</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-92257.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Combes</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Hajage</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Capellier</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Demoule</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Lavou&#x000e9;</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Guervilly</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Da Silva</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Zafrani</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Tirot</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Veber</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Maury</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Levy</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Cohen</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Richard</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Kalfon</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Bouadma</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Mehdaoui</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Beduneau</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Lebreton</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Brochard</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Ferguson</surname>
+                <given-names>ND</given-names>
+              </name>
+              <name>
+                <surname>Fan</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Slutsky</surname>
+                <given-names>AS</given-names>
+              </name>
+              <name>
+                <surname>Brodie</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Mercat</surname>
+                <given-names>A</given-names>
+              </name>
+              <collab>EOLIA Trial Group, REVA, and ECMONet</collab>
+            </person-group>
+            <article-title>Extracorporeal Membrane Oxygenation for Severe Acute Respiratory Distress Syndrome.</article-title>
+            <source>N Engl J Med</source>
+            <year>2018</year>
+            <month>May</month>
+            <day>24</day>
+            <volume>378</volume>
+            <issue>21</issue>
+            <fpage>1965</fpage>
+            <page-range>1965-1975</page-range>
+            <pub-id pub-id-type="pmid">29791822</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-92257.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Peek</surname>
+                <given-names>GJ</given-names>
+              </name>
+              <name>
+                <surname>Elbourne</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Mugford</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Tiruvoipati</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Wilson</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Allen</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Clemens</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Firmin</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Hardy</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Hibbert</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Jones</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Killer</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Thalanany</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Truesdale</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Randomised controlled trial and parallel economic evaluation of conventional ventilatory support versus extracorporeal membrane oxygenation for severe adult respiratory failure (CESAR).</article-title>
+            <source>Health Technol Assess</source>
+            <year>2010</year>
+            <month>Jul</month>
+            <volume>14</volume>
+            <issue>35</issue>
+            <fpage>1</fpage>
+            <page-range>1-46</page-range>
+            <pub-id pub-id-type="pmid">20642916</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-92257.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ware</surname>
+                <given-names>LB</given-names>
+              </name>
+            </person-group>
+            <article-title>Prognostic determinants of acute respiratory distress syndrome in adults: impact on clinical trial design.</article-title>
+            <source>Crit Care Med</source>
+            <year>2005</year>
+            <month>Mar</month>
+            <volume>33</volume>
+            <issue>3 Suppl</issue>
+            <fpage>S217</fpage>
+            <page-range>S217-22</page-range>
+            <pub-id pub-id-type="pmid">15753731</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,2301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-21307" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Erythrocyte Sedimentation Rate</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Tishkowski</surname>
+            <given-names>Kevin</given-names>
+          </name>
+          <aff>Garden City Hospital</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Gupta</surname>
+            <given-names>Vikas</given-names>
+          </name>
+          <aff>Wellness Psychiatry P.C</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Kevin Tishkowski declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Vikas Gupta declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>23</day>
+          <month>4</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-21307.s1" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>The erythrocyte sedimentation rate (sedimentation rate, sed rate, or ESR for short) is a commonly performed hematology test that may indicate and monitor an increase in inflammatory activity within the body caused by one or more conditions such as autoimmune disease, infections, or tumors. The ESR is not specific for any single disease but is used in combination with other tests to determine the presence of increased inflammatory activity. The ESR has long been used as a "sickness indicator" due to its reproducibility and low cost. Over many decades, several methods have evolved to perform the test. However, the reference method for measuring the ESR proposed by the International Committee for Standardization in&#x000a0;Haematology (ICSH) is based on the findings described by Westergren a century ago.<xref ref-type="bibr" rid="article-21307.r1">[1]</xref> Newer automated systems using closed blood collection tubes and automatic readers have been introduced into laboratories to decrease the biohazardous risk to operators and decrease the time it takes to perform the ESR.<xref ref-type="bibr" rid="article-21307.r2">[2]</xref></p>
+        <p>The Westergren method measures the distance (in millimeters) at which red blood cells in anticoagulated whole blood fall to the bottom of a standardized, upright, elongated tube over one hour due to the influence of gravity. The tube used for the test is called the Westergren tube.&#x000a0;Today, these tubes are made of either glass or plastic, with an internal diameter of 2.5 mm and lengths of 190 to 300 mm.<xref ref-type="bibr" rid="article-21307.r3">[3]</xref></p>
+        <p>Perhaps the first to notice a change in blood sedimentation due to illness was a British surgeon John Hunter (1728&#x02013;93), in his posthumous publication,&#x000a0;<italic toggle="yes">A Treatise on the Blood, Inflammation, and Gun-Shot Wounds.<xref ref-type="bibr" rid="article-21307.r4">[4]</xref></italic>&#x000a0;A Polish physician, Edmund Faustyn Biernacki (1866&#x02013;1911), later refined the clinical use of the ESR near the end of the 19th century.<xref ref-type="bibr" rid="article-21307.r5">[5]</xref>&#x000a0;Biernacki detailed his findings in two articles in 1897 (the <italic toggle="yes">Gazeta Lekarska </italic>in Poland and the <italic toggle="yes">Deutsche Medizinische Wochenschrift </italic>in Germany) and developed his test for measurements. These findings were not widely propagated in the English-speaking medical communities. Because of his work, the ESR is occasionally called the Biernacki Reaction worldwide.</p>
+        <p>The applied use of ESR in clinical diagnostics by Biernacki was refined by Dr. Robert Fahraeus in 1918 and Dr. Alf Vilhelm Albertsson Westergren in 1921.<xref ref-type="bibr" rid="article-21307.r6">[6]</xref> Dr. Westergren defined the standard measurement of the ESR that is still in use today.<xref ref-type="bibr" rid="article-21307.r7">[7]</xref>&#x000a0;Together, Robert Fahraeus and Alf Vilhelm Albertsson Westergren are often remembered for the test, historically called the Fahraeus-Westergren test (FW test or Westergren test), which uses a standardized tube and sodium citrate anticoagulated blood.<xref ref-type="bibr" rid="article-21307.r1">[1]</xref>&#x000a0;</p>
+        <p>The Westergren method for measuring the ESR proposed by the International Committee for Standardization in Haematology (ICSH) has allowed reproducibility for almost a century.&#x000a0;Over time, this same method has established comparable reference values within the same laboratory and even between different facilities across the globe. The ICSH adopted the Westergren method as the gold standard for ESR measurement in 1973.<xref ref-type="bibr" rid="article-21307.r3">[3]</xref>&#x000a0;Even after the advent of automated machines used to analyze the ESR, the Westergren method was still confirmed as the gold standard in 2011 by both the ICSH and the Clinical and Laboratory Standards Institute (CLSI).<xref ref-type="bibr" rid="article-21307.r8">[8]</xref></p>
+      </sec>
+      <sec id="article-21307.s2" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>The ESR test measures the rate at which the red blood cells (RBCs), or erythrocytes, in a whole blood sample fall to the bottom of the Westergren tube. This process of "falling" is called sedimentation.<xref ref-type="bibr" rid="article-21307.r9">[9]</xref>&#x000a0;The red blood cells&#x000a0;typically fall at a faster rate in people with inflammatory conditions such as infections, cancer, or autoimmune disorders. These conditions lead to an increase in the number of proteins in the blood. This increase causes red blood cells to stick together (clump) and settle faster. A group of RBCs clumped together will form a stack (similar to a stack of coins) called a rouleau (pleural, rouleaux).<xref ref-type="bibr" rid="article-21307.r10">[10]</xref>&#x000a0;Rouleaux formation is possible because of the particular discoid shape of RBCs. The flat surfaces of the RBCs allow them to make contact with other RBCs and stick together.<xref ref-type="bibr" rid="article-21307.r11">[11]</xref></p>
+        <p>Typically, RBCs have negative charges on the outside of the cells, which cause them to repel each other. Many plasma proteins have positive charges and can effectively neutralize the negative surface charges of the RBCs, which allows for the formation of the rouleaux. Therefore, an increase in plasma proteins (present in inflammatory conditions) will propagate an increase in rouleaux formations, which&#x000a0;settle more readily than single red blood cells.<xref ref-type="bibr" rid="article-21307.r12">[12]</xref>&#x000a0;The settling of the rouleaux aggregates in the Westergren tube occurs at a constant rate. The formation of rouleaux allows the RBCs to settle at a faster rate, thus increasing the ESR. Therefore, the ESR is not the measure of a single marker but a physical process.&#x000a0;<xref ref-type="bibr" rid="article-21307.r13">[13]</xref></p>
+        <p>Rouleaux formation (and thus the ESR) is affected by the amounts of immunoglobulins and acute phase proteins (prothrombin, plasminogen, fibrinogen, C-reactive protein, alpha-1 antitrypsin, haptoglobin, complement proteins) that are present in several inflammatory conditions.<xref ref-type="bibr" rid="article-21307.r14">[14]</xref> "Acute-phase proteins" (APP) is the name given to a class of approximately 30 distinct, chemically unrelated plasma proteins that are innately regulated in response to infection and inflammation.<xref ref-type="bibr" rid="article-21307.r15">[15]</xref> APPs are produced by the liver and are functionally controlled by the body in response to several forms of tissue damage or insult. These proteins act as inhibitors or mediators of the inflammatory response.<xref ref-type="bibr" rid="article-21307.r16">[16]</xref>&#x000a0;</p>
+        <p>The detection of the first acute phase protein in the 1930s, the C-reactive protein (CRP), occurred during the analysis of the plasma of patients diagnosed with acute pneumococcal pneumonia.<xref ref-type="bibr" rid="article-21307.r17">[17]</xref> The CRP and many other acute-phase proteins may increase during ongoing tissue damage, either acutely or chronically.<xref ref-type="bibr" rid="article-21307.r18">[18]</xref> "Acute phase" is still used to label these proteins that change in concentration during specific disease processes, regardless of chronicity. The fluctuating nature of the acute phase proteins in inflammation leads to the increased "stickiness" of RBCs, the formation of RBC "stacks" (rouleaux formation), and an increase in ESR.<xref ref-type="bibr" rid="article-21307.r19">[19]</xref></p>
+        <p>Although many inflammatory illnesses will increase the ESR, other conditions exist that can lower the ESR. These "lowering factors" can exist either as isolated disease processes or in conjunction with other pathologic conditions that raise the ESR, thus giving a "lower than expected" ESR result in light of a serious underlying inflammatory process.<xref ref-type="bibr" rid="article-21307.r20">[20]</xref> Polycythemia (an increased number of red blood cells) will increase blood viscosity and can cause a reduced ESR (reduces the rate at which RBC rouleaux will settle to the bottom of the Westergren tube).<xref ref-type="bibr" rid="article-21307.r21">[21]</xref> Some hemoglobinopathies, such as sickle cell disease, can lower ESR due to the abnormal shape of red blood cells that impairs rouleaux formation. Spherocytosis&#x000a0;(the presence of&#x000a0;sphere-shaped rather than disc-shaped RBCs) also inhibits rouleaux formation and can decrease the ESR.<xref ref-type="bibr" rid="article-21307.r22">[22]</xref></p>
+      </sec>
+      <sec id="article-21307.s3" sec-type="Specimen Requirements and Procedure">
+        <title>Specimen Requirements and Procedure</title>
+        <p>The Westergren method involves a simple blood draw that should take only a minute or two to obtain.<xref ref-type="bibr" rid="article-21307.r23">[23]</xref> A phlebotomist or other health care professional will obtain the blood sample. The skin directly over a vein is cleaned. Then, a needle is inserted into the vein to collect blood. After collection, the needle is removed, and the puncture site is covered with a dressing to stop any bleeding.<xref ref-type="bibr" rid="article-21307.r24">[24]</xref></p>
+        <p>Blood is typically collected in a black top ESR vacuum tube that contains a 3.2% sodium citrate anticoagulant. Whole blood collected in a lavender EDTA tube is also acceptable. The sample must be in its own tube (black or lavender) and cannot be combined with other tests due to the volume required.<xref ref-type="bibr" rid="article-21307.r25">[25]</xref>&#x000a0;</p>
+        <p>The blood sample will be sent to a laboratory. A lab technician will then transfer the anticoagulated whole blood to a vertical test tube (Westergren tube), which is inserted into the vacuum tube. When this sample is allowed to stand in the vertical tube for one hour, the red blood cells will slowly fall (settle) to the bottom due to the influence of gravity. This will leave a clear, straw-colored fluid at the top of the tube. This clear fluid is plasma, the portion of blood that remains after the red blood cells and other cellular components have settled to the bottom of the tube.<xref ref-type="bibr" rid="article-21307.r8">[8]</xref></p>
+        <p>The test result will depend on the amount of plasma at the top of the tube, measured after one hour. The result will be reported in millimeters per hour (mm/hr).<xref ref-type="bibr" rid="article-21307.r26">[26]</xref></p>
+      </sec>
+      <sec id="article-21307.s4" sec-type="Diagnostic Tests">
+        <title>Diagnostic Tests</title>
+        <p>ESR can be measured by various methods, including the Westergren, Wintrobe, micro-ESR, and automated machines.<xref ref-type="bibr" rid="article-21307.r27">[27]</xref> Historically, the Westergren was the most commonly used method of performing the ESR. Technical factors, such as the amount of blood drawn into the tube, vibrations, temperature, time from specimen collection, the addition of proper anticoagulants, and tube orientation, can affect the results. RBC size, shape, and concentration can alter the ESR results. Plasma characteristics also have an impact on the value of the ESR.<xref ref-type="bibr" rid="article-21307.r28">[28]</xref></p>
+        <p>The Westergren method has classically been used to measure the ESR based on the distance RBCs settle to the bottom of an elongated tube with a 2.5 cm internal bore. It is graduated downward in millimeters, from 0 to 200, allowing the clear plasma to remain at the top of the tube after the RBCs have settled toward the bottom due to gravitational force after one hour of observation.<xref ref-type="bibr" rid="article-21307.r8">[8]</xref></p>
+        <p>Many additional methods have been proposed, including the Linzenmeier method, the Graphic or Cutler method, the Wintrobe-Landsberg method, and the Landau method. Only the Westergren and Wintrobe methods are common today. The Wintrobe method uses tubes only 100 mm long with a smaller bore (thinner tube) than standard Westergren tubes. It is considered less sensitive than Westergren.<xref ref-type="bibr" rid="article-21307.r29">[29]</xref></p>
+        <p>Although the Westergren method is commonly used for determining the ESR, it is time-consuming, and there is room for error. In an attempt to find faster and more reliable means of obtaining the ESR, newer methods have evolved.<xref ref-type="bibr" rid="article-21307.r14">[14]</xref> Some methods utilize centrifuge and automated machines and can produce results as quickly as five minutes.<xref ref-type="bibr" rid="article-21307.r30">[30]</xref></p>
+        <p>The micro-ESR is a method of obtaining the ESR using capillary tubes and quicker testing times. This method uses four drops of capillary blood drawn&#x000a0;via fingerstick, then&#x000a0;mixed in a 4:1 ratio on a slide with a 3.8 percent sodium citrate solution. The sample is then drawn into a 7.5-centimeter heparin-free microhematocrit capillary tube.<xref ref-type="bibr" rid="article-21307.r12">[12]</xref>&#x000a0;The results are measured at just 20 minutes and then adjusted to predict conventional ESR values from the micro-ESR value. Other automated methods for determining the ESR have become available. One study indicated that fewer labs use the unmodified Westergren technique, and results using automated machines could differ from conventional results by 142%.<xref ref-type="bibr" rid="article-21307.r31">[31]</xref></p>
+        <p>Several new automated and semi-automated techniques have become available for determining the ESR; these methods are safer and faster with higher accuracy. The International Council for Standardization in Haematology (ICSH) has reviewed the accuracy and consistency of over a dozen methods. Recommendations have been made for the manufacturers for the validation of new ESR methods.<xref ref-type="bibr" rid="article-21307.r31">[31]</xref> Recent studies indicate that automated measurements of the ESR have high comparability with the Westergren method.<xref ref-type="bibr" rid="article-21307.r32">[32]</xref> Many automated machines do not measure sedimentation but rather calculate a mathematically derived rate based on aggregate measurements in the early stages of RBC clumping (rouleaux formation). It will be up to the manufacturers and healthcare facilities to ensure the new procedures are validated and verified.<xref ref-type="bibr" rid="article-21307.r27">[27]</xref></p>
+      </sec>
+      <sec id="article-21307.s5" sec-type="Interfering Factors">
+        <title>Interfering Factors</title>
+        <p>Technical factors, such as seasonal variations in room temperature, time from specimen collection, tube orientation and inclination, and vibration, can affect the results.<xref ref-type="bibr" rid="article-21307.r28">[28]</xref>&#x000a0;A higher room temperature decreases blood viscosity and may increase the ESR.<xref ref-type="bibr" rid="article-21307.r33">[33]</xref>&#x000a0;Direct sunlight can increase the ESR.&#x000a0;A tilted ESR tube and vibrations may also cause an increase in the ESR value. An angle of three degrees from vertical can increase the ESR by 30 percent. Improper filling of the ESR tube may cause bubble formation and increase the ESR value.<xref ref-type="bibr" rid="article-21307.r34">[34]</xref></p>
+        <p>A blood sample allowed to sit too long before starting the test will cause RBC sphering and decrease the ESR value. The test should be run within two hours of collection.&#x000a0;A clotted blood sample will inhibit rouleaux formation and decrease the ESR.<xref ref-type="bibr" rid="article-21307.r35">[35]</xref> Using ESR tubes with inconsistent internal boreholes can be sensitive to RBC clumps and may lead to variations in the ESR results. Icteric blood samples (drawn from patients with liver disease) will produce a dark yellow plasma that may be difficult to differentiate from the sedimented RBCs by direct inspection. Likewise, hemolysis (damaged erythrocytes) will cause hemoglobin to leak into the plasma and turn it red, making it difficult to differentiate from the sedimented RBCs.<xref ref-type="bibr" rid="article-21307.r36">[36]</xref></p>
+      </sec>
+      <sec id="article-21307.s6" sec-type="Results, Reporting, and Critical Findings&#x0000d;&#x0000a;">
+        <title>Results, Reporting, and Critical Findings
+</title>
+        <p>As with other tests, the actual reference range used for the ESR should be established by the laboratory performing the test.</p>
+        <p>The ESR is typically higher in females than males and increases gradually with age.<xref ref-type="bibr" rid="article-21307.r26">[26]</xref><xref ref-type="bibr" rid="article-21307.r20">[20]</xref><xref ref-type="bibr" rid="article-21307.r37">[37]</xref>&#x000a0;<xref ref-type="bibr" rid="article-21307.r26">[26]</xref>Normal values for the erythrocyte sedimentation rate (ESR), as obtained using the Westergren method,&#x000a0;are as follows:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Male &#x0003c;50 years old: &#x02264;15 mm/hr</p>
+          </list-item>
+          <list-item>
+            <p>Female &#x0003c;50 years old: &#x02264; 20 mm/hr</p>
+          </list-item>
+          <list-item>
+            <p>Male &#x0003e;50 years old: &#x02264;20 mm/hr</p>
+          </list-item>
+          <list-item>
+            <p>Female &#x0003e;50 years old: &#x02264;30 mm/hr</p>
+          </list-item>
+          <list-item>
+            <p>Child: &#x02264;10 mm/hr&#x000a0;<xref ref-type="bibr" rid="article-21307.r38">[38]</xref></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-21307.s7" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>Several factors may influence the ESR. Females tend to have slightly increased&#x000a0;ESRs compared to males.<xref ref-type="bibr" rid="article-21307.r26">[26]</xref> Pregnancy and aging may also increase the ESR. Anemia, RBC abnormalities, technical factors such as tilted ESR tubes, increased specimen temperature, and dilution errors may increase the ESR.<xref ref-type="bibr" rid="article-21307.r39">[39]</xref></p>
+        <p>The ESR is neither sensitive nor specific as a general screening test. Because an elevated ESR may occur in multiple clinical settings, it is meaningless as a stand-alone laboratory value. Furthermore, some patients with malignant lesions, serious infections, or significant inflammatory disorders may have normal ESR values.<xref ref-type="bibr" rid="article-21307.r40">[40]</xref> An elevated ESR level should heighten the practitioner's index of suspicion of the potential for underlying illness. These illnesses may include:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Anemia</p>
+          </list-item>
+          <list-item>
+            <p>Arteritis</p>
+          </list-item>
+          <list-item>
+            <p>Infections (including bone and joint)</p>
+          </list-item>
+          <list-item>
+            <p>Kidney disease</p>
+          </list-item>
+          <list-item>
+            <p>Low serum albumin</p>
+          </list-item>
+          <list-item>
+            <p>Systemic lupus erythematosus</p>
+          </list-item>
+          <list-item>
+            <p>Lymphoma, including lymphoplasmacytic lymphoma</p>
+          </list-item>
+          <list-item>
+            <p>Multiple myeloma</p>
+          </list-item>
+          <list-item>
+            <p>Polymyalgia rheumatica</p>
+          </list-item>
+          <list-item>
+            <p>Red blood cell abnormalities</p>
+          </list-item>
+          <list-item>
+            <p>Rheumatoid arthritis</p>
+          </list-item>
+          <list-item>
+            <p>Systemic vasculitis</p>
+          </list-item>
+          <list-item>
+            <p>Thyroid disease</p>
+          </list-item>
+        </list>
+        <p>Any process that elevates fibrinogen levels (e.g., pregnancy, infection, diabetes mellitus, end-stage renal disease, heart disease, malignancy) may also elevate the ESR. An extremely high ESR value (&#x0003e;100 mm/hr) may indicate the presence of infection, multiple myeloma, lymphoplasmacytic lymphoma (Waldenstr&#x000f6;m macroglobulinemia), giant cell (temporal) arteritis, polymyalgia rheumatica, or hypersensitivity vasculitis. One study reported that the average ESR was over 90 mm per hour in patients with temporal arteritis, with values over 30 mm per hour in 99% of the patients.<xref ref-type="bibr" rid="article-21307.r41">[41]</xref> The extremely high elevation of the ESR (&#x0003e;100 mm per hour) is associated with a low false-positive rate for a significant underlying illness.<xref ref-type="bibr" rid="article-21307.r42">[42]</xref>&#x000a0;Infection is likely the cause of an extreme elevation, followed by collagen vascular disease and metastatic tumors.<xref ref-type="bibr" rid="article-21307.r43">[43]</xref> In oncology, a high ESR tends to correlate with a poor prognosis for various types of cancers.<xref ref-type="bibr" rid="article-21307.r44">[44]</xref><xref ref-type="bibr" rid="article-21307.r45">[45]</xref></p>
+        <list list-type="bullet">
+          <list-item>
+            <p>An elevated ESR may be an important adjunct in detecting coronary artery disease.<xref ref-type="bibr" rid="article-21307.r46">[46]</xref><xref ref-type="bibr" rid="article-21307.r47">[47]</xref> This is possibly linked to the inflammatory condition of coronary disease.<xref ref-type="bibr" rid="article-21307.r48">[48]</xref></p>
+          </list-item>
+          <list-item>
+            <p>There may exist a relationship between the ESR in ischemic stroke and the amount of local brain injury, atherosclerosis, and short-term outcomes.<xref ref-type="bibr" rid="article-21307.r49">[49]</xref><xref ref-type="bibr" rid="article-21307.r50">[50]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Polymyalgia rheumatica and giant cell (temporal) arteritis are inflammatory conditions that usually occur in persons older than 50 years.<xref ref-type="bibr" rid="article-21307.r51">[51]</xref><xref ref-type="bibr" rid="article-21307.r20">[20]</xref><xref ref-type="bibr" rid="article-21307.r51">[51]</xref> The ESR is a useful test for diagnosing these illnesses.&#x000a0;However, lower ESR levels should not exclude these diagnoses.<xref ref-type="bibr" rid="article-21307.r52">[52]</xref></p>
+          </list-item>
+          <list-item>
+            <p>In rheumatoid arthritis, systemic lupus erythematosus, and osteoarthritis, ESR levels are frequently used to help make the diagnosis; the levels may be poorly correlated with the clinical aspects of disease intensity.<xref ref-type="bibr" rid="article-21307.r53">[53]</xref>&#x000a0;Some patients with active rheumatoid arthritis and synovial joint inflammation on biopsy will have a normal ESR.<xref ref-type="bibr" rid="article-21307.r54">[54]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Periprosthetic joint infection (PJI) is an adverse complication of total hip and knee arthroplasty. ESR has low sensitivity in a suspected PJI, ranging from 42% to 94%.<xref ref-type="bibr" rid="article-21307.r55">[55]</xref></p>
+          </list-item>
+          <list-item>
+            <p>An isolated ESR is of variable sensitivity and is not optimal to rule out septic arthritis. However, in combination with an inability to bear weight normally and increased temperature, the ESR may be a helpful test, especially when using a low ESR threshold (&#x0003e;15 mm/hr).<xref ref-type="bibr" rid="article-21307.r56">[56]</xref></p>
+          </list-item>
+          <list-item>
+            <p>An elevated ESR may be useful in the diagnosis and follow-up in patients with osteomyelitis.&#x000a0;Optimal ESR cutoff levels for the diagnosis are variable.<xref ref-type="bibr" rid="article-21307.r57">[57]</xref><xref ref-type="bibr" rid="article-21307.r58">[58]</xref> In cases of proven osteomyelitis, the ESR may be used to monitor response to therapy or relapse.<xref ref-type="bibr" rid="article-21307.r59">[59]</xref></p>
+          </list-item>
+          <list-item>
+            <p>An elevated&#x000a0;ESR is associated with metastasis and a worse prognosis in patients with cutaneous malignant melanoma.<xref ref-type="bibr" rid="article-21307.r60">[60]</xref>&#x000a0;High ESR has been found to correlate with overall poor prognosis for several cancer types, including breast, prostate, colorectal, Hodgkin lymphoma, and chronic lymphocytic leukemia.<xref ref-type="bibr" rid="article-21307.r20">[20]</xref></p>
+          </list-item>
+          <list-item>
+            <p>ESR may be used as an indicator of the presence of invasive bacterial infection in children.<xref ref-type="bibr" rid="article-21307.r61">[61]</xref> The sensitivity of the ESR to detect a bacterial bone or joint infection on admission has been reported at 94% using an ESR cutoff of 20 mm/hr.<xref ref-type="bibr" rid="article-21307.r62">[62]</xref></p>
+          </list-item>
+        </list>
+        <p>Aside from factors that increase ESR, the healthcare team should consider the factors that decrease ESR. This is especially important because circumstances that decrease the ESR may coexist with diagnoses that increase the ESR result, leading to missed diagnoses. Factors&#x000a0;that lower the ESR include an increased number of red blood cells (polycythemia), which causes an increase in blood viscosity.<xref ref-type="bibr" rid="article-21307.r63">[63]</xref> Hemoglobinopathies such as sickle cell disease&#x000a0;can produce a lower ESR due to an improper shape of red blood cells that impairs stacking.<xref ref-type="bibr" rid="article-21307.r64">[64]</xref></p>
+        <p>Regular alcohol use is negatively associated with ESR. Alcohol drinkers of low, moderate, and high quantities of alcohol will show a lower ESR than&#x000a0;abstainers and occasional drinkers. Regular physical exercise at moderate and high levels was associated with lower ESR rates than typically expected.<xref ref-type="bibr" rid="article-21307.r26">[26]</xref></p>
+        <p>The test must be performed using blood drawn within two hours of testing. In standing blood, erythrocytes tend to become spherical, which impedes rouleaux formation. Anisocytosis and poikilocytosis also interfere with erythrocyte stacking, thus decreasing the ESR.<xref ref-type="bibr" rid="article-21307.r14">[14]</xref></p>
+        <p>Certain medications (valproic acid, statins, nonsteroidal anti-inflammatory drugs) may lower the ESR value.<xref ref-type="bibr" rid="article-21307.r65">[65]</xref><xref ref-type="bibr" rid="article-21307.r66">[66]</xref></p>
+      </sec>
+      <sec id="article-21307.s8" sec-type="Quality Control and Lab Safety&#x0000d;&#x0000a;">
+        <title>Quality Control and Lab Safety
+</title>
+        <p>For non-waived tests, laboratory regulations require, at the minimum, analysis of at least two levels of control materials once every 24 hours. Laboratories can assay QC samples more frequently to ensure accurate results. Quality control samples should be assayed after calibration or maintenance of an analyzer to verify the correct method performance. To minimize QC when performing tests for which manufacturers&#x02019; recommendations are less than those required by the regulatory agency (such as once per month),<xref ref-type="bibr" rid="article-21307.r67">[67]</xref> the labs can develop an individualized quality control plan (IQCP) that involves performing a risk assessment of potential sources of error in all phases of testing and putting in place a QC plan to reduce the likelihood of errors.<xref ref-type="bibr" rid="article-21307.r68">[68]</xref> Westgard multi-rules are used to evaluate the quality control runs. In case of any rule violation, proper corrective and preventive action should be taken before patient testing.<xref ref-type="bibr" rid="article-21307.r69">[69]</xref></p>
+        <p>The laboratory must participate in the external quality control or proficiency testing (PT) program because it is a regulatory requirement published by the Centers for Medicare and Medicaid Services (CMS) in the Clinical Laboratory Improvement Amendments (CLIA) regulations.<xref ref-type="bibr" rid="article-21307.r70">[70]</xref> It is helpful&#x000a0;to ensure the accuracy and reliability of the laboratory with regard to other laboratories performing the same or comparable assays.&#x000a0;Required participation and scored results are monitored by CMS and voluntary accreditation organizations.&#x000a0;The PT plan should be included as an aspect of the quality assessment (QA) plan and the overall quality program of the laboratory.<xref ref-type="bibr" rid="article-21307.r71">[71]</xref></p>
+        <p>Consider all specimens, control materials, and calibrator materials as potentially infectious. Exercise the usual precautions required for handling all laboratory reagents. Disposal of all waste material should be in accordance with local guidelines. Wear gloves, a lab coat, and safety glasses when handling human blood specimens. Place all plastic tips, sample cups, and gloves that come into contact with blood in a biohazard waste container.<xref ref-type="bibr" rid="article-21307.r72">[72]</xref> Discard all disposable glassware into sharps waste containers. Protect all work surfaces with disposable absorbent bench top paper, discarded into biohazard waste containers weekly or whenever blood contamination occurs. Wipe all work surfaces weekly.<xref ref-type="bibr" rid="article-21307.r73">[73]</xref></p>
+      </sec>
+      <sec id="article-21307.s9" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Individuals with elevated ESR values may not always have a medical condition that requires treatment. A result outside the usual range is not necessarily a cause for concern. Slightly higher levels can occur due to laboratory errors, pregnancy, menstruation, or advancing age.&#x000a0;The ESR result may establish the presence of an inflammatory condition within the body, but the test is not specific to any disease process. It must be combined with other modalities to define an underlying ailment. The use of the ESR as a screening test in asymptomatic patients is limited due to the low sensitivity and specificity.&#x000a0;</p>
+        <p>If there exists a suspicion of disease, the ESR may have some value as a &#x0201c;sickness index.&#x0201d; If the level is extremely elevated (&#x0003e;100 mm/hr), an apparent cause is usually present (malignancy, infection, temporal arteritis). If the level is mild to moderately elevated without obvious causes, additional testing may be added in an extensive search for the underlying disease process. There is no evidence to suggest that an elevated ESR not supported by an alarming history, physical, or other modalities should prompt an extensive workup or further invasive procedures.<xref ref-type="bibr" rid="article-21307.r43">[43]</xref><xref ref-type="bibr" rid="article-21307.r20">[20]</xref>&#x000a0;Repeating the ESR testing in an asymptomatic patient after several months may be indicated if a patient&#x02019;s condition is stable. A continuously elevated ESR may prompt a more expansive and expensive search for hidden diseases.</p>
+        <p>Collaboration amongst the interprofessional team to correctly understand and interpret the ESR results is paramount to guide further diagnostics, therapeutics, and consultations for the overall benefit of the patient.</p>
+      </sec>
+      <sec id="article-21307.s10">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=21307&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=21307">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/21307/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=21307">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-21307.s11">
+        <title>References</title>
+        <ref id="article-21307.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <article-title>ICSH recommendations for measurement of erythrocyte sedimentation rate. International Council for Standardization in Haematology (Expert Panel on Blood Rheology).</article-title>
+            <source>J Clin Pathol</source>
+            <year>1993</year>
+            <month>Mar</month>
+            <volume>46</volume>
+            <issue>3</issue>
+            <fpage>198</fpage>
+            <page-range>198-203</page-range>
+            <pub-id pub-id-type="pmid">8463411</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Plebani</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>De Toni</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Sanzari</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Bernardi</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Stockreiter</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>The TEST 1 automated system: a new method for measuring the erythrocyte sedimentation rate.</article-title>
+            <source>Am J Clin Pathol</source>
+            <year>1998</year>
+            <month>Sep</month>
+            <volume>110</volume>
+            <issue>3</issue>
+            <fpage>334</fpage>
+            <page-range>334-40</page-range>
+            <pub-id pub-id-type="pmid">9728608</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <article-title>Reference method for the erythrocyte sedimentation rate (ESR) test on human blood.</article-title>
+            <source>Br J Haematol</source>
+            <year>1973</year>
+            <month>May</month>
+            <volume>24</volume>
+            <issue>5</issue>
+            <fpage>671</fpage>
+            <page-range>671-3</page-range>
+            <pub-id pub-id-type="pmid">4732536</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Madrenas</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Potter</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Cairns</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Giving credit where credit is due: John Hunter and the discovery of erythrocyte sedimentation rate.</article-title>
+            <source>Lancet</source>
+            <year>2005</year>
+            <month>Dec</month>
+            <day>17</day>
+            <volume>366</volume>
+            <issue>9503</issue>
+            <fpage>2140</fpage>
+            <page-range>2140-1</page-range>
+            <pub-id pub-id-type="pmid">16360794</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Amezcua-Guerra</surname>
+                <given-names>LM</given-names>
+              </name>
+              <name>
+                <surname>Castillo-Martinez</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Bojalil</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>The story behind the acute-phase reactants.</article-title>
+            <source>J Rheumatol</source>
+            <year>2010</year>
+            <month>Feb</month>
+            <volume>37</volume>
+            <issue>2</issue>
+            <fpage>469; author reply 470</fpage>
+            <pub-id pub-id-type="pmid">20147484</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Grzybowski</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Sak</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Edmund Biernacki (1866-1911): Discoverer of the erythrocyte sedimentation rate. On the 100th anniversary of his death.</article-title>
+            <source>Clin Dermatol</source>
+            <year>2011</year>
+            <season>Nov-Dec</season>
+            <volume>29</volume>
+            <issue>6</issue>
+            <fpage>697</fpage>
+            <page-range>697-703</page-range>
+            <pub-id pub-id-type="pmid">23293796</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Harrison</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Erythrocyte sedimentation rate and C-reactive protein.</article-title>
+            <source>Aust Prescr</source>
+            <year>2015</year>
+            <month>Jun</month>
+            <volume>38</volume>
+            <issue>3</issue>
+            <fpage>93</fpage>
+            <page-range>93-4</page-range>
+            <pub-id pub-id-type="pmid">26648629</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Narang</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Grover</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kang</surname>
+                <given-names>AK</given-names>
+              </name>
+              <name>
+                <surname>Garg</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Sood</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Comparative Analysis of Erythrocyte Sedimentation Rate Measured by Automated and Manual Methods in Anaemic Patients.</article-title>
+            <source>J Lab Physicians</source>
+            <year>2020</year>
+            <month>Dec</month>
+            <volume>12</volume>
+            <issue>4</issue>
+            <fpage>239</fpage>
+            <page-range>239-243</page-range>
+            <pub-id pub-id-type="pmid">33390672</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Plebani</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Piva</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Erythrocyte sedimentation rate: use of fresh blood for quality control.</article-title>
+            <source>Am J Clin Pathol</source>
+            <year>2002</year>
+            <month>Apr</month>
+            <volume>117</volume>
+            <issue>4</issue>
+            <fpage>621</fpage>
+            <page-range>621-6</page-range>
+            <pub-id pub-id-type="pmid">11939738</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Abramson</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Rouleaux formation.</article-title>
+            <source>Blood</source>
+            <year>2006</year>
+            <month>Jun</month>
+            <day>01</day>
+            <volume>107</volume>
+            <issue>11</issue>
+            <fpage>4205</fpage>
+            <pub-id pub-id-type="pmid">16739263</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Riha</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Liao</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Stoltz</surname>
+                <given-names>JF</given-names>
+              </name>
+            </person-group>
+            <article-title>The effect of rouleaux formation on blood coagulation.</article-title>
+            <source>Clin Hemorheol Microcirc</source>
+            <year>1997</year>
+            <season>Jul-Aug</season>
+            <volume>17</volume>
+            <issue>4</issue>
+            <fpage>341</fpage>
+            <page-range>341-6</page-range>
+            <pub-id pub-id-type="pmid">9493903</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hashemi</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Majidi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Motamed</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Amini</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Najari</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Tabatabaey</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Erythrocyte Sedimentation Rate Measurement Using as a Rapid Alternative to the Westergren Method.</article-title>
+            <source>Emerg (Tehran)</source>
+            <year>2015</year>
+            <season>Spring</season>
+            <volume>3</volume>
+            <issue>2</issue>
+            <fpage>50</fpage>
+            <page-range>50-3</page-range>
+            <pub-id pub-id-type="pmid">26495381</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Taneja</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>ERYTHROCYTE SEDIMENTATION RATE - IS THERE A NEED FOR A FASTING BLOOD SAMPLE?</article-title>
+            <source>Med J Armed Forces India</source>
+            <year>1997</year>
+            <month>Jan</month>
+            <volume>53</volume>
+            <issue>1</issue>
+            <fpage>72</fpage>
+            <pub-id pub-id-type="pmid">28769445</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Litao</surname>
+                <given-names>MK</given-names>
+              </name>
+              <name>
+                <surname>Kamat</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Erythrocyte sedimentation rate and C-reactive protein: how best to use them in clinical practice.</article-title>
+            <source>Pediatr Ann</source>
+            <year>2014</year>
+            <month>Oct</month>
+            <volume>43</volume>
+            <issue>10</issue>
+            <fpage>417</fpage>
+            <page-range>417-20</page-range>
+            <pub-id pub-id-type="pmid">25290132</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gabay</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Kushner</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <article-title>Acute-phase proteins and other systemic responses to inflammation.</article-title>
+            <source>N Engl J Med</source>
+            <year>1999</year>
+            <month>Feb</month>
+            <day>11</day>
+            <volume>340</volume>
+            <issue>6</issue>
+            <fpage>448</fpage>
+            <page-range>448-54</page-range>
+            <pub-id pub-id-type="pmid">9971870</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cooper</surname>
+                <given-names>EH</given-names>
+              </name>
+            </person-group>
+            <article-title>Acute phase reactant proteins.</article-title>
+            <source>Immunol Ser</source>
+            <year>1990</year>
+            <volume>53</volume>
+            <fpage>521</fpage>
+            <page-range>521-36</page-range>
+            <pub-id pub-id-type="pmid">1713068</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tillett</surname>
+                <given-names>WS</given-names>
+              </name>
+              <name>
+                <surname>Francis</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>SEROLOGICAL REACTIONS IN PNEUMONIA WITH A NON-PROTEIN SOMATIC FRACTION OF PNEUMOCOCCUS.</article-title>
+            <source>J Exp Med</source>
+            <year>1930</year>
+            <month>Sep</month>
+            <day>30</day>
+            <volume>52</volume>
+            <issue>4</issue>
+            <fpage>561</fpage>
+            <page-range>561-71</page-range>
+            <pub-id pub-id-type="pmid">19869788</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Volanakis</surname>
+                <given-names>JE</given-names>
+              </name>
+            </person-group>
+            <article-title>Human C-reactive protein: expression, structure, and function.</article-title>
+            <source>Mol Immunol</source>
+            <year>2001</year>
+            <month>Aug</month>
+            <volume>38</volume>
+            <issue>2-3</issue>
+            <fpage>189</fpage>
+            <page-range>189-97</page-range>
+            <pub-id pub-id-type="pmid">11532280</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gewurz</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Mold</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Siegel</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Fiedel</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>C-reactive protein and the acute phase response.</article-title>
+            <source>Adv Intern Med</source>
+            <year>1982</year>
+            <volume>27</volume>
+            <fpage>345</fpage>
+            <page-range>345-72</page-range>
+            <pub-id pub-id-type="pmid">7041546</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Brigden</surname>
+                <given-names>ML</given-names>
+              </name>
+            </person-group>
+            <article-title>Clinical utility of the erythrocyte sedimentation rate.</article-title>
+            <source>Am Fam Physician</source>
+            <year>1999</year>
+            <month>Oct</month>
+            <day>01</day>
+            <volume>60</volume>
+            <issue>5</issue>
+            <fpage>1443</fpage>
+            <page-range>1443-50</page-range>
+            <pub-id pub-id-type="pmid">10524488</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Brigden</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>The erythrocyte sedimentation rate. Still a helpful test when used judiciously.</article-title>
+            <source>Postgrad Med</source>
+            <year>1998</year>
+            <month>May</month>
+            <volume>103</volume>
+            <issue>5</issue>
+            <fpage>257</fpage>
+            <page-range>257-62, 272-4</page-range>
+            <pub-id pub-id-type="pmid">9590999</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bray</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Bell</surname>
+                <given-names>LN</given-names>
+              </name>
+              <name>
+                <surname>Liang</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Haykal</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Kaiksow</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Mazza</surname>
+                <given-names>JJ</given-names>
+              </name>
+              <name>
+                <surname>Yale</surname>
+                <given-names>SH</given-names>
+              </name>
+            </person-group>
+            <article-title>Erythrocyte Sedimentation Rate and C-reactive Protein Measurements and Their Relevance in Clinical Medicine.</article-title>
+            <source>WMJ</source>
+            <year>2016</year>
+            <month>Dec</month>
+            <volume>115</volume>
+            <issue>6</issue>
+            <fpage>317</fpage>
+            <page-range>317-21</page-range>
+            <pub-id pub-id-type="pmid">29094869</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sikka</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Tandon</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Rusia</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>Madan</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Validation of ESR analyzer using Westergren ESR method.</article-title>
+            <source>Indian J Pathol Microbiol</source>
+            <year>2007</year>
+            <month>Jul</month>
+            <volume>50</volume>
+            <issue>3</issue>
+            <fpage>634</fpage>
+            <page-range>634-5</page-range>
+            <pub-id pub-id-type="pmid">17883168</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Harr</surname>
+                <given-names>KE</given-names>
+              </name>
+            </person-group>
+            <article-title>Sample Collection.</article-title>
+            <source>Vet Clin North Am Exot Anim Pract</source>
+            <year>2018</year>
+            <month>Sep</month>
+            <volume>21</volume>
+            <issue>3</issue>
+            <fpage>579</fpage>
+            <page-range>579-592</page-range>
+            <pub-id pub-id-type="pmid">30078449</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Giavarina</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Capuzzo</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Cauduro</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Carta</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Soffiati</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Internal quality control for erythrocyte sedimentation rate measured by TEST-1 Analyzer.</article-title>
+            <source>Clin Lab</source>
+            <year>2002</year>
+            <volume>48</volume>
+            <issue>9-10</issue>
+            <fpage>459</fpage>
+            <page-range>459-62</page-range>
+            <pub-id pub-id-type="pmid">12389704</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r26">
+          <label>26</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Alende-Castro</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Alonso-Sampedro</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Vazquez-Temprano</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Tu&#x000f1;ez</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Rey</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Garc&#x000ed;a-Iglesias</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Sope&#x000f1;a</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Gude</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Gonzalez-Quintela</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Factors influencing erythrocyte sedimentation rate in adults: New evidence for an old test.</article-title>
+            <source>Medicine (Baltimore)</source>
+            <year>2019</year>
+            <month>Aug</month>
+            <volume>98</volume>
+            <issue>34</issue>
+            <fpage>e16816</fpage>
+            <pub-id pub-id-type="pmid">31441853</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r27">
+          <label>27</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mahlangu</surname>
+                <given-names>JN</given-names>
+              </name>
+              <name>
+                <surname>Davids</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Three-way comparison of methods for the measurement of the erythrocyte sedimentation rate.</article-title>
+            <source>J Clin Lab Anal</source>
+            <year>2008</year>
+            <volume>22</volume>
+            <issue>5</issue>
+            <fpage>346</fpage>
+            <page-range>346-52</page-range>
+            <pub-id pub-id-type="pmid">18803269</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r28">
+          <label>28</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ramsay</surname>
+                <given-names>ES</given-names>
+              </name>
+              <name>
+                <surname>Lerman</surname>
+                <given-names>MA</given-names>
+              </name>
+            </person-group>
+            <article-title>How to use the erythrocyte sedimentation rate in paediatrics.</article-title>
+            <source>Arch Dis Child Educ Pract Ed</source>
+            <year>2015</year>
+            <month>Feb</month>
+            <volume>100</volume>
+            <issue>1</issue>
+            <fpage>30</fpage>
+            <page-range>30-6</page-range>
+            <pub-id pub-id-type="pmid">25205237</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r29">
+          <label>29</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>GILMOUR</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>SYKES</surname>
+                <given-names>AJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Westergren and Wintrobe methods of estimating ESR compared.</article-title>
+            <source>Br Med J</source>
+            <year>1951</year>
+            <month>Dec</month>
+            <day>22</day>
+            <volume>2</volume>
+            <issue>4746</issue>
+            <fpage>1496</fpage>
+            <page-range>1496-7</page-range>
+            <pub-id pub-id-type="pmid">14886634</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r30">
+          <label>30</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Batlivala</surname>
+                <given-names>SP</given-names>
+              </name>
+            </person-group>
+            <article-title>Focus on diagnosis: the erythrocyte sedimentation rate and the C-reactive protein test.</article-title>
+            <source>Pediatr Rev</source>
+            <year>2009</year>
+            <month>Feb</month>
+            <volume>30</volume>
+            <issue>2</issue>
+            <fpage>72</fpage>
+            <page-range>72-4</page-range>
+            <pub-id pub-id-type="pmid">19188303</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r31">
+          <label>31</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kratz</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Plebani</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Peng</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>YK</given-names>
+              </name>
+              <name>
+                <surname>McCafferty</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Machin</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <collab>International Council for Standardization in Haematology (ICSH)</collab>
+            </person-group>
+            <article-title>ICSH recommendations for modified and alternate methods measuring the erythrocyte sedimentation rate.</article-title>
+            <source>Int J Lab Hematol</source>
+            <year>2017</year>
+            <month>Oct</month>
+            <volume>39</volume>
+            <issue>5</issue>
+            <fpage>448</fpage>
+            <page-range>448-457</page-range>
+            <pub-id pub-id-type="pmid">28497537</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r32">
+          <label>32</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lapi&#x00107;</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Piva</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Spolaore</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Tosato</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Pelloso</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Plebani</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Automated measurement of the erythrocyte sedimentation rate: method validation and comparison.</article-title>
+            <source>Clin Chem Lab Med</source>
+            <year>2019</year>
+            <month>Aug</month>
+            <day>27</day>
+            <volume>57</volume>
+            <issue>9</issue>
+            <fpage>1364</fpage>
+            <page-range>1364-1373</page-range>
+            <pub-id pub-id-type="pmid">30939112</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r33">
+          <label>33</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>MANLEY</surname>
+                <given-names>RW</given-names>
+              </name>
+            </person-group>
+            <article-title>The effect of room temperature on erythrocyte sedimentation rate and its correction.</article-title>
+            <source>J Clin Pathol</source>
+            <year>1957</year>
+            <month>Nov</month>
+            <volume>10</volume>
+            <issue>4</issue>
+            <fpage>354</fpage>
+            <page-range>354-6</page-range>
+            <pub-id pub-id-type="pmid">13481122</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r34">
+          <label>34</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>THORSEN</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>RICHTER</surname>
+                <given-names>W</given-names>
+              </name>
+            </person-group>
+            <article-title>The effect of hematocrit, temperature and molecular structure on erythrocyte sedimentation rate in model experiments.</article-title>
+            <source>Acta Med Scand</source>
+            <year>1959</year>
+            <month>Oct</month>
+            <day>28</day>
+            <volume>165</volume>
+            <fpage>173</fpage>
+            <page-range>173-9</page-range>
+            <pub-id pub-id-type="pmid">13838233</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r35">
+          <label>35</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>LAWRENCE</surname>
+                <given-names>JS</given-names>
+              </name>
+            </person-group>
+            <article-title>Sources of error in the erythrocyte sedimentation rate.</article-title>
+            <source>Ann Rheum Dis</source>
+            <year>1953</year>
+            <month>Sep</month>
+            <volume>12</volume>
+            <issue>3</issue>
+            <fpage>206</fpage>
+            <page-range>206-11</page-range>
+            <pub-id pub-id-type="pmid">13105212</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r36">
+          <label>36</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>HIRSCH</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>[Studies on the sources of errors in determining the blood sedimentation rate according to Westergren method].</article-title>
+            <source>Med Klin</source>
+            <year>1953</year>
+            <month>Dec</month>
+            <day>18</day>
+            <volume>48</volume>
+            <issue>51</issue>
+            <fpage>1886</fpage>
+            <page-range>1886-90</page-range>
+            <pub-id pub-id-type="pmid">13132376</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r37">
+          <label>37</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>B&#x000f6;ttiger</surname>
+                <given-names>LE</given-names>
+              </name>
+              <name>
+                <surname>Svedberg</surname>
+                <given-names>CA</given-names>
+              </name>
+            </person-group>
+            <article-title>Normal erythrocyte sedimentation rate and age.</article-title>
+            <source>Br Med J</source>
+            <year>1967</year>
+            <month>Apr</month>
+            <day>08</day>
+            <volume>2</volume>
+            <issue>5544</issue>
+            <fpage>85</fpage>
+            <page-range>85-7</page-range>
+            <pub-id pub-id-type="pmid">6020854</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r38">
+          <label>38</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Al-Marri</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Kirkpatrick</surname>
+                <given-names>MB</given-names>
+              </name>
+            </person-group>
+            <article-title>Erythrocyte sedimentation rate in childhood tuberculosis: is it still worthwhile?</article-title>
+            <source>Int J Tuberc Lung Dis</source>
+            <year>2000</year>
+            <month>Mar</month>
+            <volume>4</volume>
+            <issue>3</issue>
+            <fpage>237</fpage>
+            <page-range>237-9</page-range>
+            <pub-id pub-id-type="pmid">10751069</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r39">
+          <label>39</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>MARTENSSON</surname>
+                <given-names>EH</given-names>
+              </name>
+              <name>
+                <surname>HANSEN</surname>
+                <given-names>HA</given-names>
+              </name>
+            </person-group>
+            <article-title>Studies on factors influencing erythrocyte sedimentation rate.</article-title>
+            <source>Acta Med Scand</source>
+            <year>1953</year>
+            <volume>146</volume>
+            <issue>3</issue>
+            <fpage>164</fpage>
+            <page-range>164-83</page-range>
+            <pub-id pub-id-type="pmid">13091728</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r40">
+          <label>40</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Fincher</surname>
+                <given-names>RM</given-names>
+              </name>
+              <name>
+                <surname>Page</surname>
+                <given-names>MI</given-names>
+              </name>
+            </person-group>
+            <article-title>Clinical significance of extreme elevation of the erythrocyte sedimentation rate.</article-title>
+            <source>Arch Intern Med</source>
+            <year>1986</year>
+            <month>Aug</month>
+            <volume>146</volume>
+            <issue>8</issue>
+            <fpage>1581</fpage>
+            <page-range>1581-3</page-range>
+            <pub-id pub-id-type="pmid">3729639</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r41">
+          <label>41</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Huston</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Hunder</surname>
+                <given-names>GG</given-names>
+              </name>
+              <name>
+                <surname>Lie</surname>
+                <given-names>JT</given-names>
+              </name>
+              <name>
+                <surname>Kennedy</surname>
+                <given-names>RH</given-names>
+              </name>
+              <name>
+                <surname>Elveback</surname>
+                <given-names>LR</given-names>
+              </name>
+            </person-group>
+            <article-title>Temporal arteritis: a 25-year epidemiologic, clinical, and pathologic study.</article-title>
+            <source>Ann Intern Med</source>
+            <year>1978</year>
+            <month>Feb</month>
+            <volume>88</volume>
+            <issue>2</issue>
+            <fpage>162</fpage>
+            <page-range>162-7</page-range>
+            <pub-id pub-id-type="pmid">626444</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r42">
+          <label>42</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lluberas-Acosta</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Schumacher</surname>
+                <given-names>HR</given-names>
+              </name>
+            </person-group>
+            <article-title>Markedly elevated erythrocyte sedimentation rates: consideration of clinical implications in a hospital population.</article-title>
+            <source>Br J Clin Pract</source>
+            <year>1996</year>
+            <season>Apr-May</season>
+            <volume>50</volume>
+            <issue>3</issue>
+            <fpage>138</fpage>
+            <page-range>138-42</page-range>
+            <pub-id pub-id-type="pmid">8733332</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r43">
+          <label>43</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sox</surname>
+                <given-names>HC</given-names>
+              </name>
+              <name>
+                <surname>Liang</surname>
+                <given-names>MH</given-names>
+              </name>
+            </person-group>
+            <article-title>The erythrocyte sedimentation rate. Guidelines for rational use.</article-title>
+            <source>Ann Intern Med</source>
+            <year>1986</year>
+            <month>Apr</month>
+            <volume>104</volume>
+            <issue>4</issue>
+            <fpage>515</fpage>
+            <page-range>515-23</page-range>
+            <pub-id pub-id-type="pmid">3954279</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r44">
+          <label>44</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ljungberg</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Grankvist</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Rasmuson</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Serum acute phase reactants and prognosis in renal cell carcinoma.</article-title>
+            <source>Cancer</source>
+            <year>1995</year>
+            <month>Oct</month>
+            <day>15</day>
+            <volume>76</volume>
+            <issue>8</issue>
+            <fpage>1435</fpage>
+            <page-range>1435-9</page-range>
+            <pub-id pub-id-type="pmid">8620420</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r45">
+          <label>45</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Johansson</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Sigurdsson</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Holmberg</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Bergstr&#x000f6;m</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Erythrocyte sedimentation rate as a tumor marker in human prostatic cancer. An analysis of prognostic factors in 300 population-based consecutive cases.</article-title>
+            <source>Cancer</source>
+            <year>1992</year>
+            <month>Sep</month>
+            <day>15</day>
+            <volume>70</volume>
+            <issue>6</issue>
+            <fpage>1556</fpage>
+            <page-range>1556-63</page-range>
+            <pub-id pub-id-type="pmid">1516006</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r46">
+          <label>46</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yayan</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Erythrocyte sedimentation rate as a marker for coronary heart disease.</article-title>
+            <source>Vasc Health Risk Manag</source>
+            <year>2012</year>
+            <volume>8</volume>
+            <fpage>219</fpage>
+            <page-range>219-23</page-range>
+            <pub-id pub-id-type="pmid">22536077</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r47">
+          <label>47</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Fatih Ozlu</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Sen</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Fatih Karakas</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Turak</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Ozcan</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Kanat</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Aras</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Topaloglu</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Cagli</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Timur Selcuk</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Erythrocyte sedimentation rate in acute myocardial infarction as a predictor of poor prognosis and impaired reperfusion.</article-title>
+            <source>Med Glas (Zenica)</source>
+            <year>2012</year>
+            <month>Aug</month>
+            <volume>9</volume>
+            <issue>2</issue>
+            <fpage>189</fpage>
+            <page-range>189-97</page-range>
+            <pub-id pub-id-type="pmid">22926349</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r48">
+          <label>48</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Andresdottir</surname>
+                <given-names>MB</given-names>
+              </name>
+              <name>
+                <surname>Sigfusson</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Sigvaldason</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Gudnason</surname>
+                <given-names>V</given-names>
+              </name>
+            </person-group>
+            <article-title>Erythrocyte sedimentation rate, an independent predictor of coronary heart disease in men and women: The Reykjavik Study.</article-title>
+            <source>Am J Epidemiol</source>
+            <year>2003</year>
+            <month>Nov</month>
+            <day>01</day>
+            <volume>158</volume>
+            <issue>9</issue>
+            <fpage>844</fpage>
+            <page-range>844-51</page-range>
+            <pub-id pub-id-type="pmid">14585762</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r49">
+          <label>49</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zaremba</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Skroba&#x00144;ski</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Losy</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Acute ischaemic stroke increases the erythrocyte sedimentation rate, which correlates with early brain damage.</article-title>
+            <source>Folia Morphol (Warsz)</source>
+            <year>2004</year>
+            <month>Nov</month>
+            <volume>63</volume>
+            <issue>4</issue>
+            <fpage>373</fpage>
+            <page-range>373-6</page-range>
+            <pub-id pub-id-type="pmid">15712129</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r50">
+          <label>50</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Singh</surname>
+                <given-names>AS</given-names>
+              </name>
+              <name>
+                <surname>Atam</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Yathish</surname>
+                <given-names>BE</given-names>
+              </name>
+              <name>
+                <surname>Das</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Koonwar</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Role of erythrocyte sedimentation rate in ischemic stroke as an inflammatory marker of carotid atherosclerosis.</article-title>
+            <source>J Neurosci Rural Pract</source>
+            <year>2014</year>
+            <month>Jan</month>
+            <volume>5</volume>
+            <issue>1</issue>
+            <fpage>40</fpage>
+            <page-range>40-5</page-range>
+            <pub-id pub-id-type="pmid">24741248</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r51">
+          <label>51</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Epperly</surname>
+                <given-names>TD</given-names>
+              </name>
+              <name>
+                <surname>Moore</surname>
+                <given-names>KE</given-names>
+              </name>
+              <name>
+                <surname>Harrover</surname>
+                <given-names>JD</given-names>
+              </name>
+            </person-group>
+            <article-title>Polymyalgia rheumatica and temporal arthritis.</article-title>
+            <source>Am Fam Physician</source>
+            <year>2000</year>
+            <month>Aug</month>
+            <day>15</day>
+            <volume>62</volume>
+            <issue>4</issue>
+            <fpage>789</fpage>
+            <page-range>789-96, 801</page-range>
+            <pub-id pub-id-type="pmid">10969858</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r52">
+          <label>52</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cheema</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Ismaeel</surname>
+                <given-names>SM</given-names>
+              </name>
+            </person-group>
+            <article-title>Temporal arteritis with erythrocyte sedimentation rate &#x0003c;50 mm/h: a clinical reminder.</article-title>
+            <source>Clin Interv Aging</source>
+            <year>2016</year>
+            <volume>11</volume>
+            <fpage>185</fpage>
+            <page-range>185-8</page-range>
+            <pub-id pub-id-type="pmid">26966355</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r53">
+          <label>53</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Keenan</surname>
+                <given-names>RT</given-names>
+              </name>
+              <name>
+                <surname>Swearingen</surname>
+                <given-names>CJ</given-names>
+              </name>
+              <name>
+                <surname>Yazici</surname>
+                <given-names>Y</given-names>
+              </name>
+            </person-group>
+            <article-title>Erythrocyte sedimentation rate and C-reactive protein levels are poorly correlated with clinical measures of disease activity in rheumatoid arthritis, systemic lupus erythematosus and osteoarthritis patients.</article-title>
+            <source>Clin Exp Rheumatol</source>
+            <year>2008</year>
+            <season>Sep-Oct</season>
+            <volume>26</volume>
+            <issue>5</issue>
+            <fpage>814</fpage>
+            <page-range>814-9</page-range>
+            <pub-id pub-id-type="pmid">19032813</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r54">
+          <label>54</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Orr</surname>
+                <given-names>CK</given-names>
+              </name>
+              <name>
+                <surname>Najm</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Young</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>McGarry</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Biniecka</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Fearon</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>Veale</surname>
+                <given-names>DJ</given-names>
+              </name>
+            </person-group>
+            <article-title>The Utility and Limitations of CRP, ESR and DAS28-CRP in Appraising Disease Activity in Rheumatoid Arthritis.</article-title>
+            <source>Front Med (Lausanne)</source>
+            <year>2018</year>
+            <volume>5</volume>
+            <fpage>185</fpage>
+            <pub-id pub-id-type="pmid">30123796</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r55">
+          <label>55</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Saleh</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>George</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Faour</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Klika</surname>
+                <given-names>AK</given-names>
+              </name>
+              <name>
+                <surname>Higuera</surname>
+                <given-names>CA</given-names>
+              </name>
+            </person-group>
+            <article-title>Serum biomarkers in periprosthetic joint infections.</article-title>
+            <source>Bone Joint Res</source>
+            <year>2018</year>
+            <month>Jan</month>
+            <volume>7</volume>
+            <issue>1</issue>
+            <fpage>85</fpage>
+            <page-range>85-93</page-range>
+            <pub-id pub-id-type="pmid">29363518</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r56">
+          <label>56</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hariharan</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Kabrhel</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Sensitivity of erythrocyte sedimentation rate and C-reactive protein for the exclusion of septic arthritis in emergency department patients.</article-title>
+            <source>J Emerg Med</source>
+            <year>2011</year>
+            <month>Apr</month>
+            <volume>40</volume>
+            <issue>4</issue>
+            <fpage>428</fpage>
+            <page-range>428-31</page-range>
+            <pub-id pub-id-type="pmid">20655163</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r57">
+          <label>57</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Michail</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Jude</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Liaskos</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Karamagiolis</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Makrilakis</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Dimitroulis</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Michail</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Tentolouris</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>The performance of serum inflammatory markers for the diagnosis and follow-up of patients with osteomyelitis.</article-title>
+            <source>Int J Low Extrem Wounds</source>
+            <year>2013</year>
+            <month>Jun</month>
+            <volume>12</volume>
+            <issue>2</issue>
+            <fpage>94</fpage>
+            <page-range>94-9</page-range>
+            <pub-id pub-id-type="pmid">23667102</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r58">
+          <label>58</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lavery</surname>
+                <given-names>LA</given-names>
+              </name>
+              <name>
+                <surname>Ahn</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ryan</surname>
+                <given-names>EC</given-names>
+              </name>
+              <name>
+                <surname>Bhavan</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Oz</surname>
+                <given-names>OK</given-names>
+              </name>
+              <name>
+                <surname>La Fontaine</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Wukich</surname>
+                <given-names>DK</given-names>
+              </name>
+            </person-group>
+            <article-title>What are the Optimal Cutoff Values for ESR and CRP to Diagnose Osteomyelitis in Patients with Diabetes-related Foot Infections?</article-title>
+            <source>Clin Orthop Relat Res</source>
+            <year>2019</year>
+            <month>Jul</month>
+            <volume>477</volume>
+            <issue>7</issue>
+            <fpage>1594</fpage>
+            <page-range>1594-1602</page-range>
+            <pub-id pub-id-type="pmid">31268423</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r59">
+          <label>59</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Fritz</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>McDonald</surname>
+                <given-names>JR</given-names>
+              </name>
+            </person-group>
+            <article-title>Osteomyelitis: approach to diagnosis and treatment.</article-title>
+            <source>Phys Sportsmed</source>
+            <year>2008</year>
+            <month>Dec</month>
+            <volume>36</volume>
+            <issue>1</issue>
+            <fpage>nihpa116823</fpage>
+            <pub-id pub-id-type="pmid">19652694</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r60">
+          <label>60</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tas</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Erturk</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Elevated erythrocyte sedimentation rate is associated with metastatic disease and worse survival in patients with cutaneous malignant melanoma.</article-title>
+            <source>Mol Clin Oncol</source>
+            <year>2017</year>
+            <month>Dec</month>
+            <volume>7</volume>
+            <issue>6</issue>
+            <fpage>1142</fpage>
+            <page-range>1142-1146</page-range>
+            <pub-id pub-id-type="pmid">29285390</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r61">
+          <label>61</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Stuart</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Whicher</surname>
+                <given-names>JT</given-names>
+              </name>
+            </person-group>
+            <article-title>Tests for detecting and monitoring the acute phase response.</article-title>
+            <source>Arch Dis Child</source>
+            <year>1988</year>
+            <month>Feb</month>
+            <volume>63</volume>
+            <issue>2</issue>
+            <fpage>115</fpage>
+            <page-range>115-7</page-range>
+            <pub-id pub-id-type="pmid">3126717</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r62">
+          <label>62</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>P&#x000e4;&#x000e4;kk&#x000f6;nen</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Kallio</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Kallio</surname>
+                <given-names>PE</given-names>
+              </name>
+              <name>
+                <surname>Peltola</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Sensitivity of erythrocyte sedimentation rate and C-reactive protein in childhood bone and joint infections.</article-title>
+            <source>Clin Orthop Relat Res</source>
+            <year>2010</year>
+            <month>Mar</month>
+            <volume>468</volume>
+            <issue>3</issue>
+            <fpage>861</fpage>
+            <page-range>861-6</page-range>
+            <pub-id pub-id-type="pmid">19533263</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r63">
+          <label>63</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Damanhouri</surname>
+                <given-names>GA</given-names>
+              </name>
+              <name>
+                <surname>Jarullah</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Marouf</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hindawi</surname>
+                <given-names>SI</given-names>
+              </name>
+              <name>
+                <surname>Mushtaq</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Kamal</surname>
+                <given-names>MA</given-names>
+              </name>
+            </person-group>
+            <article-title>Clinical biomarkers in sickle cell disease.</article-title>
+            <source>Saudi J Biol Sci</source>
+            <year>2015</year>
+            <month>Jan</month>
+            <volume>22</volume>
+            <issue>1</issue>
+            <fpage>24</fpage>
+            <page-range>24-31</page-range>
+            <pub-id pub-id-type="pmid">25561879</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r64">
+          <label>64</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lawrence</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Fabry</surname>
+                <given-names>ME</given-names>
+              </name>
+            </person-group>
+            <article-title>Erythrocyte sedimentation rate during steady state and painful crisis in sickle cell anemia.</article-title>
+            <source>Am J Med</source>
+            <year>1986</year>
+            <month>Nov</month>
+            <volume>81</volume>
+            <issue>5</issue>
+            <fpage>801</fpage>
+            <page-range>801-8</page-range>
+            <pub-id pub-id-type="pmid">3776987</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r65">
+          <label>65</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Nutt</surname>
+                <given-names>JG</given-names>
+              </name>
+              <name>
+                <surname>Neophytides</surname>
+                <given-names>AN</given-names>
+              </name>
+              <name>
+                <surname>Lodish</surname>
+                <given-names>JR</given-names>
+              </name>
+            </person-group>
+            <article-title>Lowered erythrocyte-sedimentation rate with sodium valproate.</article-title>
+            <source>Lancet</source>
+            <year>1978</year>
+            <month>Sep</month>
+            <day>16</day>
+            <volume>2</volume>
+            <issue>8090</issue>
+            <fpage>636</fpage>
+            <pub-id pub-id-type="pmid">80565</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r66">
+          <label>66</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hegg</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>AG</given-names>
+              </name>
+              <name>
+                <surname>Tagg</surname>
+                <given-names>NT</given-names>
+              </name>
+              <name>
+                <surname>Zimmerman</surname>
+                <given-names>MB</given-names>
+              </name>
+            </person-group>
+            <article-title>Statin or nonsteroidal anti-inflammatory drug use is associated with lower erythrocyte sedimentation rate in patients with giant cell arteritis.</article-title>
+            <source>J Neuroophthalmol</source>
+            <year>2011</year>
+            <month>Jun</month>
+            <volume>31</volume>
+            <issue>2</issue>
+            <fpage>135</fpage>
+            <page-range>135-8</page-range>
+            <pub-id pub-id-type="pmid">21358421</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r67">
+          <label>67</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yago</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Pla</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Reference-mean-centered statistical quality control.</article-title>
+            <source>Clin Chem Lab Med</source>
+            <year>2020</year>
+            <month>Aug</month>
+            <day>27</day>
+            <volume>58</volume>
+            <issue>9</issue>
+            <fpage>1517</fpage>
+            <page-range>1517-1523</page-range>
+            <pub-id pub-id-type="pmid">31926071</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r68">
+          <label>68</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bruno</surname>
+                <given-names>LC</given-names>
+              </name>
+            </person-group>
+            <article-title>IQCP: Guideline and Helpful Tools for Implementation.</article-title>
+            <source>Lab Med</source>
+            <year>2016</year>
+            <month>Nov</month>
+            <volume>47</volume>
+            <issue>4</issue>
+            <fpage>e42</fpage>
+            <page-range>e42-e46</page-range>
+            <pub-id pub-id-type="pmid">27708173</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r69">
+          <label>69</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Poh</surname>
+                <given-names>DKH</given-names>
+              </name>
+              <name>
+                <surname>Lim</surname>
+                <given-names>CY</given-names>
+              </name>
+              <name>
+                <surname>Tan</surname>
+                <given-names>RZ</given-names>
+              </name>
+              <name>
+                <surname>Markus</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Loh</surname>
+                <given-names>TP</given-names>
+              </name>
+            </person-group>
+            <article-title>Internal quality control: Moving average algorithms outperform Westgard rules.</article-title>
+            <source>Clin Biochem</source>
+            <year>2021</year>
+            <month>Dec</month>
+            <volume>98</volume>
+            <fpage>63</fpage>
+            <page-range>63-69</page-range>
+            <pub-id pub-id-type="pmid">34534518</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r70">
+          <label>70</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Born</surname>
+                <given-names>PH</given-names>
+              </name>
+              <name>
+                <surname>Thran</surname>
+                <given-names>SL</given-names>
+              </name>
+            </person-group>
+            <article-title>The influence of CLIA '88 on physician office laboratories.</article-title>
+            <source>J Fam Pract</source>
+            <year>1998</year>
+            <month>Apr</month>
+            <volume>46</volume>
+            <issue>4</issue>
+            <fpage>319</fpage>
+            <page-range>319-27</page-range>
+            <pub-id pub-id-type="pmid">9564374</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r71">
+          <label>71</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Badrick</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Integrating quality control and external quality assurance.</article-title>
+            <source>Clin Biochem</source>
+            <year>2021</year>
+            <month>Sep</month>
+            <volume>95</volume>
+            <fpage>15</fpage>
+            <page-range>15-27</page-range>
+            <pub-id pub-id-type="pmid">33965412</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r72">
+          <label>72</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Meisenhelder</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Bursik</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Lunn</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Strober</surname>
+                <given-names>W</given-names>
+              </name>
+            </person-group>
+            <article-title>Laboratory safety.</article-title>
+            <source>Curr Protoc Hum Genet</source>
+            <year>2008</year>
+            <month>Apr</month>
+            <volume>Appendix 2</volume>
+            <fpage>Appendix 2A</fpage>
+            <pub-id pub-id-type="pmid">18428418</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-21307.r73">
+          <label>73</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Burnett</surname>
+                <given-names>LC</given-names>
+              </name>
+              <name>
+                <surname>Lunn</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Coico</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Biosafety: guidelines for working with pathogenic and infectious microorganisms.</article-title>
+            <source>Curr Protoc Microbiol</source>
+            <year>2009</year>
+            <month>May</month>
+            <volume>Chapter 1</volume>
+            <issue>1</issue>
+            <fpage>Unit 1A.1</fpage>
+            <pub-id pub-id-type="pmid">19412909</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-126713" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Biochemistry, Primary Protein Structure</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Sanvictores</surname>
+            <given-names>Terrence</given-names>
+          </name>
+          <aff>Touro University, Nevada</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Farci</surname>
+            <given-names>Fabiola</given-names>
+          </name>
+          <aff>Pisa University</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Terrence Sanvictores declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Fabiola Farci declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>31</day>
+          <month>10</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-126713.s1" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Proteins are polypeptide structures consisting of&#x000a0;1 or more long chains of amino acid residues. They perform various organism functions, including DNA replication, transporting molecules, catalyzing metabolic reactions, and providing cell structural support. A protein can be identified based on each level of its structure. Every protein at least contains a primary, secondary, and tertiary structure. Only some proteins have a quaternary structure as well.&#x000a0;The primary structure is comprised of a linear chain of amino acids. The secondary structure contains regions of amino acid chains that are stabilized by hydrogen bonds from the polypeptide backbone. These hydrogen bonds create alpha-helix and beta-pleated sheets of the secondary structure. The 3-dimensional shape of a protein, its tertiary structure, is determined by the interactions of side chains from the polypeptide backbone. The quaternary structure also influences the protein's 3-dimensional shape and is formed through the side-chain interactions between&#x000a0;2 or more polypeptides. Each protein at least contains a primary, secondary, and tertiary structure. Only some proteins have a quaternary structure as well.&#x000a0;</p>
+      </sec>
+      <sec id="article-126713.s2" sec-type="Fundamentals">
+        <title>Fundamentals</title>
+        <p>To reiterate, the primary structure of a protein is defined as the sequence of amino acids linked together to form a polypeptide chain. Each amino acid is linked to the next amino acid through peptide bonds created during the protein biosynthesis. The&#x000a0;2 ends of each polypeptide chain are known as the amino terminus (N-terminus) and the carboxyl terminus (C-terminus).&#x000a0;Twenty different amino acids can be used multiple times in the same polypeptide to create a specific primary protein structure sequence.&#x000a0;</p>
+      </sec>
+      <sec id="article-126713.s3" sec-type="Molecular Level&#x0000d;&#x0000a;">
+        <title>Molecular Level
+</title>
+        <p>In any cell, the DNA preserves the code used to synthesize proteins. The nucleotide sequence of&#x000a0;a protein-encoding gene is transcribed into another nucleotide sequence (RNA transcript or&#x000a0;mRNA), which is then used to synthesize a sequence of amino acids to&#x000a0;form a protein. This is historically known as the Central Dogma. RNA polymerases transcribe genes. In eukaryotes, there are&#x000a0;3 polymerases (I, II, III):</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>RNA&#x000a0;polymerase I transcribes genes for 18S, 5.8S, and 28S&#x000a0;ribosomal RNA in the nucleus.</p>
+          </list-item>
+          <list-item>
+            <p>RNA polymerase II transcribes encoding genes for messenger&#x000a0;RNA (mRNA) and small RNAs.</p>
+          </list-item>
+          <list-item>
+            <p>RNA polymerase III synthesizes&#x000a0;5S RNA, and all transfer RNA (tRNA);&#x000a0;is located in the nucleoplasm.<xref ref-type="bibr" rid="article-126713.r1">[1]</xref><xref ref-type="bibr" rid="article-126713.r2">[2]</xref></p>
+          </list-item>
+        </list>
+        <p>A series of proteins called transcription factors aid RNA polymerases in their transcription function. These factors have several functions, mainly facilitating the binding of RNA polymerase II to the promoter sequence, forming&#x000a0;the transcription initiation complex. The initiation complex recognizes the promoter region in the DNA as a signal for the transcription starting point. The&#x000a0;consensus sequence TATTAA (called TATA box) is located 25&#x02013;35 bases upstream of the&#x000a0;initiation site, followed by a poly-G/C consensus sequence located 32&#x02013;38 bases upstream.&#x000a0;The transcribed RNA contains multiple segments&#x000a0;called exons and introns. Exons are segments containing the encoding sequence for protein synthesis, while introns are intervening segments of nucleotides that&#x000a0;are excised from the primary RNA transcript (pre-mRNA) in&#x000a0;splicing. Splice sequences are found at the 5&#x02032; and 3&#x02032; tails of introns marked&#x000a0;with the dinucleotide GU at its 5&#x02032; end and AG at the 3&#x02032; end. Alternative splicing is a mechanism used to create different isoforms of the same protein so that several&#x000a0;protein isoforms can be created from a limited repertoire of genes. Alternative splicing&#x000a0;is now known to deeply influence biological behavior (sex determination, cell differentiation, and programmed cell death).<xref ref-type="bibr" rid="article-126713.r3">[3]</xref>&#x000a0;The mechanism underlying alternative splicing is not fully understood yet, but&#x000a0;histone modification signatures correlate with splice site switching via chromatin-binding proteins.<xref ref-type="bibr" rid="article-126713.r4">[4]</xref></p>
+        <p>After a mature mRNA transcript leaves the nucleus, a ribosome attaches to the transcript to begin translation. The initiation site in both prokaryotes and eukaryotes is not composed of a unique initiation sequence but is more probably a multisubstrate enzyme system based on substrate specificity.<xref ref-type="bibr" rid="article-126713.r5">[5]</xref><xref ref-type="bibr" rid="article-126713.r6">[6]</xref><xref ref-type="bibr" rid="article-126713.r7">[7]</xref><xref ref-type="bibr" rid="article-126713.r8">[8]</xref>&#x000a0;A&#x000a0;postulated mechanism (scanning mechanism) predicts that the ribosomes initiate protein synthesis by recognizing and binding the 5&#x02032; tail of the mRNA corresponding to a 7-methylguanosine referred to as "cap."<xref ref-type="bibr" rid="article-126713.r9">[9]</xref>&#x000a0;The first methionine codon located in the 5&#x02032; ends of the mRNA&#x000a0;is the initiator codon. Several factors bind to this initiation sequence (IF4F initiation factors), forming the&#x000a0;ribosome-eIF2-GTP-Met-tRNA preinitiation complex (PIC).<xref ref-type="bibr" rid="article-126713.r10">[10]</xref>&#x000a0;A favorable initiation sequence in mammals is known as &#x0201c;Kozak consensus&#x0201d;: 5&#x02019; (A/G)CCAUGG 3&#x02019;. The PIC scans the mRNA in the 5&#x02019; region until it reaches the AUG start codon complementary to Met-tRNA's anticodon. The first AUG codon (&#x0201c;leaky scanning&#x0201d;) can be skipped to use a downstream AUG. This creates protein isoforms when the downstream AUG is located in the same open reading frame as the first&#x000a0;1 or a completely different protein if it is not in-frame.</p>
+        <p>Each ribosome comprises a larger and smaller subunit, which is different for eukaryotes (the 60S and 40S) and prokaryotes (50S and 30S).<xref ref-type="bibr" rid="article-126713.r11">[11]</xref>&#x000a0;Both ribosomal subunits join to form the binding sites for tRNA to translate the mRNA transcript. A triplet of nucleotides identifies each amino acid, called a&#x000a0;codon. There is more than&#x000a0;1 codon encrypting for each amino acid except&#x000a0;methionine (Met) and tryptophan (Trp). The&#x000a0;3 binding sites are the aminoacyl site (A site), peptidyl site (P site), and exit site (E site). The A site is the first binding site where the initial incoming aminoacyl tRNA pairs with its codon. As the second aminoacyl tRNA binds to the A site, the initial tRNA molecule shifts to the adjacent P site. As the shift happens, the amino acid attached to the tRNA molecule in the P site forms a peptide bond to the amino acid in the A site. This leaves the tRNA at the P site deacylated while tRNA at the A site carries the peptide chain. The deacylated tRNA moves into the E site and gets released as the tRNA in the A site moves over to the P site. The P site holds the tRNAs linked to the growing polypeptide chain. Then, a new tRNA molecule attaches to the codon in the unoccupied A site. The codons UAG, UGA, and UAA are used to&#x000a0;end the protein translation (termination codons). Adding amino acids to the chain is repeated until a stop codon is reached.</p>
+      </sec>
+      <sec id="article-126713.s4" sec-type="Function">
+        <title>Function</title>
+        <p>Each amino acid consists of a carboxyl group, an amino group, and a side chain. Amino acids are linked together by joining the amino group of&#x000a0;1 amino acid with the carboxyl group of the adjacent amino acid. Each amino acid side chain has differing properties. Some side chains can be either acidic or basic, while others can be polar, uncharged, or non-polar. These characteristics provide insight into whether the protein generally functions better in acidic or basic environments, solubility in water or lipids, the temperature range for optimal protein function, and which parts of the protein are found on the protein interior in contact with the external aqueous environment. Some amino acids within the polypeptide chain can create ionic bonds and disulfide bridges. The location of certain amino acids in the primary structure dictates how the secondary, tertiary, and quaternary structures look.</p>
+        <p><bold>Nonpolar, Aliphatic Amino Acids -&#x000a0;</bold>backbone molecules of the amino acid are used to form hydrogen bonds.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Glycine - can cause a bend when used in an alpha helix chain (secondary structure)<xref ref-type="bibr" rid="article-126713.r12">[12]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Alanine</p>
+          </list-item>
+          <list-item>
+            <p>Valine</p>
+          </list-item>
+          <list-item>
+            <p>Leucine</p>
+          </list-item>
+          <list-item>
+            <p>Isoleucine</p>
+          </list-item>
+          <list-item>
+            <p>Methionine</p>
+          </list-item>
+        </list>
+        <p><bold>Nonpolar, Aromatic Amino Acids - </bold>backbone molecules of the amino acid are used to form hydrogen bonds.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Phenylalanine</p>
+          </list-item>
+          <list-item>
+            <p>Tryptophan</p>
+          </list-item>
+          <list-item>
+            <p>Tyrosine</p>
+          </list-item>
+        </list>
+        <p><bold>Polar, Uncharged Amino Acids -</bold>&#x000a0;backbone/ side chain molecules of the amino acid can be used to form hydrogen bonds (besides proline and cysteine)</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Serine</p>
+          </list-item>
+          <list-item>
+            <p>Threonine</p>
+          </list-item>
+          <list-item>
+            <p>Asparagine</p>
+          </list-item>
+          <list-item>
+            <p>Glutamine</p>
+          </list-item>
+          <list-item>
+            <p>Proline - causes a bend when used in an alpha helix chain (secondary structure)<xref ref-type="bibr" rid="article-126713.r13">[13]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Cysteine - the sulfur atoms from&#x000a0;2 cysteine side chains covalently bond together to form a disulfide bridge&#x000a0;</p>
+          </list-item>
+        </list>
+        <p><bold>Acidic Amino Acids -&#x000a0;</bold>can be used to form hydrogen bonds (backbone/ side chain molecules) and salt bridges (side chain molecules only)</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Aspartic Acid/Aspartate</p>
+          </list-item>
+          <list-item>
+            <p>Glutamic Acid/Glutamate</p>
+          </list-item>
+        </list>
+        <p><bold>Basic Amino Acids -&#x000a0;</bold>can be used to form hydrogen bonds (backbone/ side chain molecules) and salt bridges (side chain molecules only)</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Lysine</p>
+          </list-item>
+          <list-item>
+            <p>Arginine</p>
+          </list-item>
+          <list-item>
+            <p>Histidine</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-126713.s5" sec-type="Mechanism">
+        <title>Mechanism</title>
+        <p>&#x000a0;The processes of transcription and translation are similar and different in eukaryotes and prokaryotes. This section only focuses on eukaryotic molecular mechanisms.</p>
+        <p>
+<bold>Transcription</bold>
+</p>
+        <p>Transcription begins in the nucleus with the formation of the pre-initiation complex. First, transcription factor II D (TFIID) binds to the TATA box through the TATA-binding protein (TBP). Then&#x000a0;5 other transcription factors (TFIIA, TFIIB, TFIIE, TFIIF, AND TFIIH) and RNA polymerase II combine through a series of stages to form the pre-initiation complex. Specifically, TFIIH has a role in nucleotide excision repair and separating the opposing strands of double-stranded DNA.<xref ref-type="bibr" rid="article-126713.r14">[14]</xref>&#x000a0;This strand is read by RNA polymerase in the 3&#x02019;-5&#x02019; direction and is transcribed in the 5&#x02019;-3&#x02019; direction. During this process, RNA Pol II attaches complementary base pairs to the template strand: adenine on the DNA strand is paired with thymine, guanine with cytosine, and guanine with guanine. However, whenever this enzyme reaches a thymine base pair on the DNA strand, it substitutes the original adenine complement base pair with a uracil base pair.&#x000a0;Concerning protein-encoding genes, elongation continues until the polymerase transcribes the AAUAAA and GU-rich sequence. Once both sequences have been transcribed, cleavage-polyadenylation specificity factor (CPSF) and cleavage stimulatory factor (CstF) bind to the AAUAAA and GU-rich sequences, respectively. Poly(A) Polymerase forms a complex with CPSF, CstF, nuclear poly(A) binding protein (PABP), and a few other proteins to catalyze the addition of the 3&#x02019; poly-A tail of the pre-mRNA strand.<xref ref-type="bibr" rid="article-126713.r15">[15]</xref>&#x000a0;This newly synthesized pre-mRNA strand undergoes post-translational modifications to prevent degradation while exiting the nucleus to enter the cytoplasm. At the 5&#x02019; end of the pre-mRNA strand, the 7-methylguanosine cap is added by guanyl transferase.</p>
+        <p>
+<bold>Splicing and Pre-mRNA Modifications</bold>
+</p>
+        <p>Splicing occurs within the nucleus. Several steps are catalyzed by large (60S) molecules called spliceosomes composed of&#x000a0;small ribonucleoproteins (snRNPs) and splicing factors. These enzymes excise&#x000a0;the&#x000a0;introns from the mRNA transcript while leaving exons in the transcript alone. Spliceosomes shuffle around these exons, depending on the type of protein that needs to be synthesized. After splicing,&#x000a0;the 5&#x02032; and 3&#x02032; tails are modified to help the translation process. At the 5&#x02032; end of the pre-mRNA molecule, GTP reacts with the first nucleotide in the triphosphate&#x000a0;group on the 5&#x02032; ribose's carbon and&#x000a0;form a 5&#x02032;&#x02013;5&#x02032; triphosphate linkage; the nitrogen-7 of guanine is then methylated to form the 5 &#x02032; caps of the mRNA. At the 3&#x02032; end, the sequence AAUAAA is cleaved by an endonuclease so that a Poly(A)-polymerase can add the&#x000a0;adenylate residues. After all the necessary modifications are made, the mRNA strand is considered mature and is then translocated to the cytoplasm to begin translation.</p>
+        <p>
+<bold>Translation</bold>
+</p>
+        <p>Translation of mRNA normally occurs in the cytoplasm or the rough endoplasmic reticulum. However, it can happen in any cell compartment with ribosomes. The process of initiating eukaryotic translation begins with forming the 80S initiation complex. The eukaryotic initiation factor 4F (eIF4F) protein complex initially recognizes the 5&#x02019;-cap structure of the mRNA molecule.<xref ref-type="bibr" rid="article-126713.r16">[16]</xref>&#x000a0;Sometimes, eIF4F can recognize mRNA at an internal ribosome entry site (IRES), which drives translation independently of the 5&#x02019;-cap structure. Then eIF4f recruits the pre-initiation complex, including the 40S subunits and another complex comprised of GTP, eukaryotic initiation factor 2 (eIF2), and the initiator met-tRNA. eIF2 binds to the initiator met-tRNA (by hydrolyzing GTP to GDP) to create the final initiation complex. The initiation complex scans the mRNA until initiator met-tRNA recognizes the start codon AUG and binds to the P site. Hydrolysis of GTP gives the energy needed to release eIF2 from the complex, subsequently allowing the 60S and 40S ribosomal subunits to assemble into a functional 80S ribosome.</p>
+        <p>Elongation occurs as the ribosome reads in the mRNA strand 5&#x02019;-3&#x02019; direction through an open reading frame (ORF). The ORF is a continuous stretch of codons that begins with the AUG start codon and ends at&#x000a0;1 of&#x000a0;3 termination codons (UAG, UAA, or UGA), not associated with any amino acid. The ribosome moves&#x000a0;1 triplet at a time along the mRNA. An aminoacyl-tRNA, complexed with eukaryotic elongation factor 1 (eEF1), hydrolyzes GTP to release eEF1. Thus, it provides energy for the aminoacyl-tRNA (with the appropriate anticodon to match the mRNA codon) to bind to the A site. Elongation of the polypeptide occurs through the stepwise addition of amino acids, bound by peptide bonds, between the amino acids (attached to the tRNA), bound to the A site and P site. The tRNA molecule bound on the P site is called the peptidyl-tRNA since it bears the polypeptide chain. For clarification, the aminoacyl-tRNA only holds a new single amino acid (at the A site) to be added to the growing polypeptide chain. Translocation of tRNA molecules from the A site to the P site occurs through GTP hydrolysis catalyzed by eukaryotic elongation factor 2 (eEF2). As this shift moves the tRNA from the A site to the P site, the tRNA already on the P site moves to the E site, now called the unloaded tRNA. From here, the unloaded tRNA is released from the E site. Termination of translation happens when eukaryotic translation termination factor 1 (eRF1) recognizes&#x000a0;1 of the stop codons in the mRNA transcript.<xref ref-type="bibr" rid="article-126713.r17">[17]</xref>&#x000a0;Eukaryotic translation termination factor 3 (eRF1) is recruited to hydrolyze (using GTP) the polypeptide chain from the tRNA occupying the P site.<xref ref-type="bibr" rid="article-126713.r17">[17]</xref>&#x000a0;The newly formed polypeptide chain is released from the ribosome, and the ribosomal subunits dissociate.&#x000a0;</p>
+        <p>
+<bold>Post-Translational Modifications</bold>
+</p>
+        <p>These modifications can occur during any step of the protein&#x02019;s life. Some modifications occur right after transcription, while other modifications occur after protein folding by chaperones. Below is a list of some modifications that can be added to the side chains of amino acids in the polypeptide chain:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Glycosylation- attachment of a carbohydrate group through N-glycosidic or O-glycosidic bonds</p>
+          </list-item>
+          <list-item>
+            <p>Lipid Anchors- include acylation (linking with long-chain fatty acids), isoprenylation (linkage of polyisoprene), and GPI anchor (linkage with glycosylphosphatidylinositol, GPI)</p>
+          </list-item>
+          <list-item>
+            <p>Acetylation- attachment of acetyl groups (-COCH<sub>3</sub>)</p>
+          </list-item>
+          <list-item>
+            <p>Methylation- attachment of methyl groups (-CH<sub>3</sub>)</p>
+          </list-item>
+          <list-item>
+            <p>Carboxylation- attachment of carboxylic acid groups (-COOH)</p>
+          </list-item>
+          <list-item>
+            <p>Hydroxylation- attachment of hydroxy groups (-OH)</p>
+          </list-item>
+          <list-item>
+            <p>Phosphorylation- attachment of phosphate residues (-OPO<sub>2</sub>)</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-126713.s6" sec-type="Testing">
+        <title>Testing</title>
+        <p>Numerous methods exist to perform qualitative and quantitative analysis of a polypeptide chain. Here are&#x000a0;2 major procedures currently used:</p>
+        <p>
+<bold>Edman Degradation</bold>
+</p>
+        <p>This method is used to find a protein's sequence of amino acids.<xref ref-type="bibr" rid="article-126713.r18">[18]</xref>&#x000a0;The amino-terminal residue is labeled and cleaved from the polypeptide chain without disturbing the peptide bonds that hold other amino acid residues together. This process repeats by cleaving off&#x000a0;1 amino acid at a time until the entire chain is sequenced. Due to this method's tedious nature, a protein sequenator can be used to perform the Edman degradation in an automated way.</p>
+        <p>
+<bold>Mass Spectrometry</bold>
+</p>
+        <p>Amino acid sequencing of peptides can be performed through mass spectrometry.<xref ref-type="bibr" rid="article-126713.r19">[19]</xref>&#x000a0;Although this technique gains limited data from analyzing entire proteins simultaneously, it can effectively analyze peptides. One mass spectrometry method is called peptide mass fingerprinting (PMF). PMF is widely used to identify single purified proteins but is not feasible for heterogeneous protein mixtures.<xref ref-type="bibr" rid="article-126713.r20">[20]</xref>&#x000a0;A generalized procedure of this method is as follows:&#x000a0;</p>
+        <list list-type="order">
+          <list-item>
+            <p>Break up the protein sample into smaller peptide fragments using proteolytic enzymes.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Extract the fragments using acetonitrile.</p>
+          </list-item>
+          <list-item>
+            <p>Dry the fragments in a vacuum.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Insert the peptides into the vacuum chamber of a mass spectrometer such as MALDI-TOF (matrix-assisted laser desorption/ionization time-of-flight) or ESI-TOF (electrospray ionization time-of-flight). MALDI is an ionization technique that requires a laser-absorbing matrix to create ions from organic molecules with low amounts of fragmentation. ESI produces ions by applying a high voltage to a liquid to form an aerosol. TOF is a measurement of time used to measure the velocity of the ions through the vacuum chamber.</p>
+          </list-item>
+          <list-item>
+            <p>The mass spectrometer creates a list of molecular weights (called the peak list) from the sample, which is then compared against databases (eg, GenBank or SwissProt) for relevant matches.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Appropriate software performs a simulated chemical cleavage reaction with the relevant protein sequences found in a database. The mass of these simulated peptide fragments is calculated and then compared to the peak list of the experimental peptide masses. These results are statistically analyzed, and possible matches are shown.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-126713.s7" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>Numerous diseases happen due to improper amino acid composition within a protein. Here are a few examples:&#x000a0;</p>
+        <p>
+<bold>Huntington Disease&#x000a0;</bold>
+</p>
+        <p>A CAG trinucleotide repeat disorder causes HD in the HTT gene on chromosome 4. The CAG segment is normally repeated 10-35 times in the gene.<xref ref-type="bibr" rid="article-126713.r21">[21]</xref>&#x000a0;Individuals with 36&#x000a0;to 39 CAG repeats might develop HD, while those with 40 or more repeats almost always develop the disorder.<xref ref-type="bibr" rid="article-126713.r21">[21]</xref>&#x000a0;The gradual degradation of the caudate nucleus and the putamen of the basal ganglia causes this progressive brain disease. This can lead to behavioral/psychiatric disturbances, unwanted choreatic movements, and dementia.<xref ref-type="bibr" rid="article-126713.r22">[22]</xref></p>
+        <p>
+<bold>Sickle Cell Anemia</bold>
+</p>
+        <p>The genetic defect of SCA is found within the beta globulin gene. Both the normal and mutated protein products consist of 147 amino acids. However, the mutated beta globulin protein has a single-base substitution (point mutation) at the sixth amino acid in the chain. In the sickle cell gene, GTG (the codon for valine) replaces the normal GAG codon (for glutamic acid).<xref ref-type="bibr" rid="article-126713.r23">[23]</xref>&#x000a0;This defect deforms red blood cells' normal biconcave disc shape into a crescent or sickle shape. Symptoms include anemia, episodes of pain, organ damage, delayed growth, and swelling of the hands and feet.<xref ref-type="bibr" rid="article-126713.r24">[24]</xref><xref ref-type="bibr" rid="article-126713.r25">[25]</xref></p>
+        <p>
+<bold>Cystic Fibrosis</bold>
+</p>
+        <p>In this disease, there is a mutation on the CFTR (cystic fibrosis transmembrane regulator) gene on chromosome 7. The CFTR gene is used to create the cystic fibrosis transmembrane conductance regulator. Two types of base-pair mutations account for the majority of mutated alleles: F508 del and G551D.<xref ref-type="bibr" rid="article-126713.r26">[26]</xref>&#x000a0;However, more than 1000 mutations have been accounted for in the CFTR gene that causes CF. F508del represents a deletion of the&#x000a0;3 base pairs that encode phenylalanine at the 508 position in CFTR. G551D is caused by the base substitution of guanine for adenine at the second position in the codon of the mRNA transcript. This substitution replaces glycine for aspartate at the 551 position.&#x000a0;</p>
+        <p>Disease-causing mutations within the CFTR gene alter the protein structure, thus impairing chloride ion transport. Normally, this protein transports chloride ions in and out of cells that produce saliva, sweat, tears, mucus, and digestive enzymes. Due to the impaired chloride ion transport, cells that line the passageways of the pancreas, lungs, and other organs start producing abnormally thick and sticky mucus. In turn, the abnormal mucus production obstructs the airways and glands. CF symptoms include salty sweat/salty-tasting skin, exocrine pancreatic insufficiency, chronic pneumonia, lung fibrosis, obstructive azoospermia, and thick, sticky mucus accumulation.<xref ref-type="bibr" rid="article-126713.r27">[27]</xref><xref ref-type="bibr" rid="article-126713.r28">[28]</xref></p>
+      </sec>
+      <sec id="article-126713.s8" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>Identifying the specific base-pair mutations within the gene can help healthcare professionals further understand the patient's disease phenotype. The severity of each disease depends on a few factors, such as the protein's function, how many amino acids are involved with the base-pair mutation, and the type of mutation. For example, a base pair substitution that leads to a silent mutation&#x000a0;does not change any part of the amino acid sequence. On the other hand, an insertion or deletion of 1&#x000a0;or 2 base pairs leads to a frameshift mutation. After the frameshift mutation translates, all codons lead to a different amino acid composition of the polypeptide chain, which normally leads to a nonfunctional protein. A mutated protein inserting or deleting exactly 3 base pairs (or multiples of 3) can have varied functionality.&#x000a0;</p>
+      </sec>
+      <sec id="article-126713.s9">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=126713&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=126713">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/126713/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=126713">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-126713.s10">
+        <title>References</title>
+        <ref id="article-126713.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>JACOB</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>MONOD</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Genetic regulatory mechanisms in the synthesis of proteins.</article-title>
+            <source>J Mol Biol</source>
+            <year>1961</year>
+            <month>Jun</month>
+            <volume>3</volume>
+            <fpage>318</fpage>
+            <page-range>318-56</page-range>
+            <pub-id pub-id-type="pmid">13718526</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-126713.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>HALVORSON</surname>
+                <given-names>HO</given-names>
+              </name>
+            </person-group>
+            <article-title>The induced synthesis of proteins.</article-title>
+            <source>Adv Enzymol Relat Subj Biochem</source>
+            <year>1960</year>
+            <volume>22</volume>
+            <fpage>99</fpage>
+            <page-range>99-156</page-range>
+            <pub-id pub-id-type="pmid">13710945</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-126713.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Guig&#x000f3;</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Valc&#x000e1;rcel</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>RNA. Prescribing splicing.</article-title>
+            <source>Science</source>
+            <year>2015</year>
+            <month>Jan</month>
+            <day>09</day>
+            <volume>347</volume>
+            <issue>6218</issue>
+            <fpage>124</fpage>
+            <page-range>124-5</page-range>
+            <pub-id pub-id-type="pmid">25574005</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-126713.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Luco</surname>
+                <given-names>RF</given-names>
+              </name>
+              <name>
+                <surname>Pan</surname>
+                <given-names>Q</given-names>
+              </name>
+              <name>
+                <surname>Tominaga</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Blencowe</surname>
+                <given-names>BJ</given-names>
+              </name>
+              <name>
+                <surname>Pereira-Smith</surname>
+                <given-names>OM</given-names>
+              </name>
+              <name>
+                <surname>Misteli</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Regulation of alternative splicing by histone modifications.</article-title>
+            <source>Science</source>
+            <year>2010</year>
+            <month>Feb</month>
+            <day>19</day>
+            <volume>327</volume>
+            <issue>5968</issue>
+            <fpage>996</fpage>
+            <page-range>996-1000</page-range>
+            <pub-id pub-id-type="pmid">20133523</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-126713.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Scherer</surname>
+                <given-names>GF</given-names>
+              </name>
+              <name>
+                <surname>Walkinshaw</surname>
+                <given-names>MD</given-names>
+              </name>
+              <name>
+                <surname>Arnott</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Morr&#x000e9;</surname>
+                <given-names>DJ</given-names>
+              </name>
+            </person-group>
+            <article-title>The ribosome binding sites recognized by E. coli ribosomes have regions with signal character in both the leader and protein coding segments.</article-title>
+            <source>Nucleic Acids Res</source>
+            <year>1980</year>
+            <month>Sep</month>
+            <day>11</day>
+            <volume>8</volume>
+            <issue>17</issue>
+            <fpage>3895</fpage>
+            <page-range>3895-907</page-range>
+            <pub-id pub-id-type="pmid">7003539</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-126713.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Nakamoto</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>The initiation of eukaryotic and prokaryotic protein synthesis: a selective accessibility and multisubstrate enzyme reaction.</article-title>
+            <source>Gene</source>
+            <year>2007</year>
+            <month>Nov</month>
+            <day>15</day>
+            <volume>403</volume>
+            <issue>1-2</issue>
+            <fpage>1</fpage>
+            <page-range>1-5</page-range>
+            <pub-id pub-id-type="pmid">17869453</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-126713.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jackson</surname>
+                <given-names>RJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Alternative mechanisms of initiating translation of mammalian mRNAs.</article-title>
+            <source>Biochem Soc Trans</source>
+            <year>2005</year>
+            <month>Dec</month>
+            <volume>33</volume>
+            <issue>Pt 6</issue>
+            <fpage>1231</fpage>
+            <page-range>1231-41</page-range>
+            <pub-id pub-id-type="pmid">16246087</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-126713.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Nakamoto</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Mechanisms of the initiation of protein synthesis: in reading frame binding of ribosomes to mRNA.</article-title>
+            <source>Mol Biol Rep</source>
+            <year>2011</year>
+            <month>Feb</month>
+            <volume>38</volume>
+            <issue>2</issue>
+            <fpage>847</fpage>
+            <page-range>847-55</page-range>
+            <pub-id pub-id-type="pmid">20467902</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-126713.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shatkin</surname>
+                <given-names>AJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Capping of eucaryotic mRNAs.</article-title>
+            <source>Cell</source>
+            <year>1976</year>
+            <month>Dec</month>
+            <volume>9</volume>
+            <issue>4 PT 2</issue>
+            <fpage>645</fpage>
+            <page-range>645-53</page-range>
+            <pub-id pub-id-type="pmid">1017010</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-126713.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hinnebusch</surname>
+                <given-names>AG</given-names>
+              </name>
+              <name>
+                <surname>Ivanov</surname>
+                <given-names>IP</given-names>
+              </name>
+              <name>
+                <surname>Sonenberg</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Translational control by 5'-untranslated regions of eukaryotic mRNAs.</article-title>
+            <source>Science</source>
+            <year>2016</year>
+            <month>Jun</month>
+            <day>17</day>
+            <volume>352</volume>
+            <issue>6292</issue>
+            <fpage>1413</fpage>
+            <page-range>1413-6</page-range>
+            <pub-id pub-id-type="pmid">27313038</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-126713.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ghosh</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Komar</surname>
+                <given-names>AA</given-names>
+              </name>
+            </person-group>
+            <article-title>Eukaryote-specific extensions in ribosomal proteins of the small subunit: Structure and function.</article-title>
+            <source>Translation (Austin)</source>
+            <year>2015</year>
+            <season>Jan-Jun</season>
+            <volume>3</volume>
+            <issue>1</issue>
+            <fpage>e999576</fpage>
+            <pub-id pub-id-type="pmid">26779416</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-126713.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dong</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Sharma</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Zhou</surname>
+                <given-names>HX</given-names>
+              </name>
+              <name>
+                <surname>Cross</surname>
+                <given-names>TA</given-names>
+              </name>
+            </person-group>
+            <article-title>Glycines: role in &#x003b1;-helical membrane protein structures and a potential indicator of native conformation.</article-title>
+            <source>Biochemistry</source>
+            <year>2012</year>
+            <month>Jun</month>
+            <day>19</day>
+            <volume>51</volume>
+            <issue>24</issue>
+            <fpage>4779</fpage>
+            <page-range>4779-89</page-range>
+            <pub-id pub-id-type="pmid">22650985</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-126713.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sankararamakrishnan</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Vishveshwara</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Characterization of proline-containing alpha-helix (helix F model of bacteriorhodopsin) by molecular dynamics studies.</article-title>
+            <source>Proteins</source>
+            <year>1993</year>
+            <month>Jan</month>
+            <volume>15</volume>
+            <issue>1</issue>
+            <fpage>26</fpage>
+            <page-range>26-41</page-range>
+            <pub-id pub-id-type="pmid">8451238</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-126713.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mydlikova</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Gursky</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Pirsel</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Transcription factor IIH - the protein complex with multiple functions.</article-title>
+            <source>Neoplasma</source>
+            <year>2010</year>
+            <volume>57</volume>
+            <issue>4</issue>
+            <fpage>287</fpage>
+            <page-range>287-90</page-range>
+            <pub-id pub-id-type="pmid">20429618</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-126713.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tian</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Graber</surname>
+                <given-names>JH</given-names>
+              </name>
+            </person-group>
+            <article-title>Signals for pre-mRNA cleavage and polyadenylation.</article-title>
+            <source>Wiley Interdiscip Rev RNA</source>
+            <year>2012</year>
+            <season>May-Jun</season>
+            <volume>3</volume>
+            <issue>3</issue>
+            <fpage>385</fpage>
+            <page-range>385-96</page-range>
+            <pub-id pub-id-type="pmid">22012871</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-126713.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gingras</surname>
+                <given-names>AC</given-names>
+              </name>
+              <name>
+                <surname>Raught</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Sonenberg</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>eIF4 initiation factors: effectors of mRNA recruitment to ribosomes and regulators of translation.</article-title>
+            <source>Annu Rev Biochem</source>
+            <year>1999</year>
+            <volume>68</volume>
+            <fpage>913</fpage>
+            <page-range>913-63</page-range>
+            <pub-id pub-id-type="pmid">10872469</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-126713.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Salas-Marco</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Bedwell</surname>
+                <given-names>DM</given-names>
+              </name>
+            </person-group>
+            <article-title>GTP hydrolysis by eRF3 facilitates stop codon decoding during eukaryotic translation termination.</article-title>
+            <source>Mol Cell Biol</source>
+            <year>2004</year>
+            <month>Sep</month>
+            <volume>24</volume>
+            <issue>17</issue>
+            <fpage>7769</fpage>
+            <page-range>7769-78</page-range>
+            <pub-id pub-id-type="pmid">15314182</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-126713.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Deutzmann</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Structural characterization of proteins and peptides.</article-title>
+            <source>Methods Mol Med</source>
+            <year>2004</year>
+            <volume>94</volume>
+            <fpage>269</fpage>
+            <page-range>269-97</page-range>
+            <pub-id pub-id-type="pmid">14959836</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-126713.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Annan</surname>
+                <given-names>RS</given-names>
+              </name>
+              <name>
+                <surname>Carr</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>Neubert</surname>
+                <given-names>TA</given-names>
+              </name>
+            </person-group>
+            <article-title>Overview of peptide and protein analysis by mass spectrometry.</article-title>
+            <source>Curr Protoc Protein Sci</source>
+            <year>2010</year>
+            <month>Nov</month>
+            <volume>Chapter 16</volume>
+            <fpage>Unit16.1</fpage>
+            <pub-id pub-id-type="pmid">21104985</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-126713.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>He</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Yang</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Yang</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Qi</surname>
+                <given-names>RZ</given-names>
+              </name>
+              <name>
+                <surname>Tam</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Yu</surname>
+                <given-names>W</given-names>
+              </name>
+            </person-group>
+            <article-title>Optimization-based peptide mass fingerprinting for protein mixture identification.</article-title>
+            <source>J Comput Biol</source>
+            <year>2010</year>
+            <month>Mar</month>
+            <volume>17</volume>
+            <issue>3</issue>
+            <fpage>221</fpage>
+            <page-range>221-35</page-range>
+            <pub-id pub-id-type="pmid">20377442</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-126713.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Nopoulos</surname>
+                <given-names>PC</given-names>
+              </name>
+            </person-group>
+            <article-title>Huntington disease: a single-gene degenerative disorder of the striatum.</article-title>
+            <source>Dialogues Clin Neurosci</source>
+            <year>2016</year>
+            <month>Mar</month>
+            <volume>18</volume>
+            <issue>1</issue>
+            <fpage>91</fpage>
+            <page-range>91-8</page-range>
+            <pub-id pub-id-type="pmid">27069383</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-126713.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Roos</surname>
+                <given-names>RA</given-names>
+              </name>
+            </person-group>
+            <article-title>Huntington's disease: a clinical review.</article-title>
+            <source>Orphanet J Rare Dis</source>
+            <year>2010</year>
+            <month>Dec</month>
+            <day>20</day>
+            <volume>5</volume>
+            <fpage>40</fpage>
+            <pub-id pub-id-type="pmid">21171977</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-126713.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cai</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Bai</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Mahairaki</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Gao</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>He</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Wen</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Jin</surname>
+                <given-names>YC</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Pan</surname>
+                <given-names>RL</given-names>
+              </name>
+              <name>
+                <surname>Qasba</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Ye</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Cheng</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>A Universal Approach to Correct Various HBB Gene Mutations in Human Stem Cells for Gene Therapy of Beta-Thalassemia and Sickle Cell Disease.</article-title>
+            <source>Stem Cells Transl Med</source>
+            <year>2018</year>
+            <month>Jan</month>
+            <volume>7</volume>
+            <issue>1</issue>
+            <fpage>87</fpage>
+            <page-range>87-97</page-range>
+            <pub-id pub-id-type="pmid">29164808</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-126713.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chakravorty</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Williams</surname>
+                <given-names>TN</given-names>
+              </name>
+            </person-group>
+            <article-title>Sickle cell disease: a neglected chronic disease of increasing global health importance.</article-title>
+            <source>Arch Dis Child</source>
+            <year>2015</year>
+            <month>Jan</month>
+            <volume>100</volume>
+            <issue>1</issue>
+            <fpage>48</fpage>
+            <page-range>48-53</page-range>
+            <pub-id pub-id-type="pmid">25239949</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-126713.r25">
+          <label>25</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Bender</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Carlberg</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Sickle Cell Disease</chapter-title>
+            <person-group person-group-type="editor">
+              <name>
+                <surname>Adam</surname>
+                <given-names>MP</given-names>
+              </name>
+              <name>
+                <surname>Feldman</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Mirzaa</surname>
+                <given-names>GM</given-names>
+              </name>
+              <name>
+                <surname>Pagon</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Wallace</surname>
+                <given-names>SE</given-names>
+              </name>
+              <name>
+                <surname>Bean</surname>
+                <given-names>LJH</given-names>
+              </name>
+              <name>
+                <surname>Gripp</surname>
+                <given-names>KW</given-names>
+              </name>
+              <name>
+                <surname>Amemiya</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <source>GeneReviews<sup>&#x000ae;</sup> [Internet]</source>
+            <publisher-name>University of Washington, Seattle</publisher-name>
+            <publisher-loc>Seattle (WA)</publisher-loc>
+            <year>2003</year>
+            <month>9</month>
+            <day>15</day>
+            <pub-id pub-id-type="pmid">20301551</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-126713.r26">
+          <label>26</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cutting</surname>
+                <given-names>GR</given-names>
+              </name>
+            </person-group>
+            <article-title>Cystic fibrosis genetics: from molecular understanding to clinical application.</article-title>
+            <source>Nat Rev Genet</source>
+            <year>2015</year>
+            <month>Jan</month>
+            <volume>16</volume>
+            <issue>1</issue>
+            <fpage>45</fpage>
+            <page-range>45-56</page-range>
+            <pub-id pub-id-type="pmid">25404111</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-126713.r27">
+          <label>27</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Servidoni</surname>
+                <given-names>MF</given-names>
+              </name>
+              <name>
+                <surname>Gomez</surname>
+                <given-names>CCS</given-names>
+              </name>
+              <name>
+                <surname>Marson</surname>
+                <given-names>FAL</given-names>
+              </name>
+              <name>
+                <surname>Toro</surname>
+                <given-names>AADC</given-names>
+              </name>
+              <name>
+                <surname>Ribeiro</surname>
+                <given-names>M&#x000c2;GO</given-names>
+              </name>
+              <name>
+                <surname>Ribeiro</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Ribeiro</surname>
+                <given-names>AF</given-names>
+              </name>
+              <collab>Grupo Colaborativo de Estudos em Fibrose C&#x000ed;stica</collab>
+            </person-group>
+            <article-title>Sweat test and cystic fibrosis: overview of test performance at public and private centers in the state of S&#x000e3;o Paulo, Brazil.</article-title>
+            <source>J Bras Pneumol</source>
+            <year>2017</year>
+            <season>Mar-Apr</season>
+            <volume>43</volume>
+            <issue>2</issue>
+            <fpage>121</fpage>
+            <page-range>121-128</page-range>
+            <pub-id pub-id-type="pmid">28538779</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-126713.r28">
+          <label>28</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Naehrig</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Chao</surname>
+                <given-names>CM</given-names>
+              </name>
+              <name>
+                <surname>Naehrlich</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>Cystic Fibrosis.</article-title>
+            <source>Dtsch Arztebl Int</source>
+            <year>2017</year>
+            <month>Aug</month>
+            <day>21</day>
+            <volume>114</volume>
+            <issue>33-34</issue>
+            <fpage>564</fpage>
+            <page-range>564-574</page-range>
+            <pub-id pub-id-type="pmid">28855057</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

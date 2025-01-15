@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-60196" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Vibrio vulnificus Infection </title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Haftel</surname>
+            <given-names>Anthony</given-names>
+          </name>
+          <aff>University of Pennsylvania Philadelphia, PA</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Sharman</surname>
+            <given-names>Tariq</given-names>
+          </name>
+          <aff>Southern Ohio Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Anthony Haftel declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Tariq Sharman declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>12</day>
+          <month>6</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-60196.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Vibrio vulnificus is a bacterium that causes septicemia, severe wound infections, and gastroenteritis. Failure to recognize and treat this infection promptly leads to high morbidity and mortality. This activity reviews the recognition and treatment of V. vulnificus and highlights the role of the interprofessional team in executing a coordinated and effective response.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Review the three discrete presentations of Vibrio vulnificus infection</p></list-item><list-item><p>Identify predisposing conditions predicting poor outcomes in Vibrio vulnificus infection.</p></list-item><list-item><p>Summarize laboratory tests that quickly identify the presence of Vibrio vulnificus infection</p></list-item><list-item><p>Outline the necessary steps that the interprofessional team must coordinate in order to rapidly identify and treat Vibrio vulnificus infection.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=60196&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=60196">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-60196.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p><italic toggle="yes">Vibrio vulnificus</italic> is a member of the <italic toggle="yes">Vibrionaceae</italic> family, whose pathogenic species include <italic toggle="yes">V. cholera</italic>, <italic toggle="yes">V. parahaemolyticus</italic>, and <italic toggle="yes">V. vulnificus</italic>. Vibrio is from the Latin &#x02018;to wiggle or vibrate&#x02019; and vulnificus from the Latin &#x02018;to wound.&#x02019;</p>
+        <p>The bacillus is found worldwide and can cause gastrointestinal disease, wound infections, and highly fatal septicemia. <italic toggle="yes">V. vulnificus</italic>, though the incidence of infection is low, it has the highest number of seafood-related deaths in the United States.<xref ref-type="bibr" rid="article-60196.r1">[1]</xref><xref ref-type="bibr" rid="article-60196.r2">[2]</xref></p>
+      </sec>
+      <sec id="article-60196.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p><italic toggle="yes">Vibrio vulnificus</italic> is a flagellated halophilic motile gram-negative curved rod. It is a resident of marine environments, such as estuaries, rivers, deltas, shorelines as well as deeper ocean surfaces. <italic toggle="yes">V. vulnificus</italic> enters the food chain by taking up residence in the stomachs of shellfish (primarily oysters) as well as the intestines of fish. The bacilli then infect human hosts either through the ingestion of this contaminated seafood or via direct wound contact with contaminated water or seafood.</p>
+        <p>There are three distinctive syndromic presentations of <italic toggle="yes">V. vulnificus</italic> infections; primary septicemia, primary wound infection, and primary (and limited) gastroenteritis.</p>
+        <p>Ingestion of the bacilli can result in a primary septicemia syndrome, which can rapidly proceed to dramatic extremity involvement. Gastrointestinal symptoms of watery diarrhea, fever, nausea, and vomiting may precede or follow the septicemia or may be completely absent. The exact portal of entry is unknown but is thought to be the small intestine or colon. Primary sepsis accounts for about 60% of all cases seen. The overall death rate for this presentation is 50%.</p>
+        <p>Wounds created in a marine environment, e.g., lacerations, punctures, abrasions, envenomation, can quickly be colonized by the bacilli, causing an intense skin reaction, and cellulitis with blistering bullae. Untreated, this may proceed rapidly from skin lesion to necrotizing fasciitis with myonecrosis, and finally to overwhelming sepsis. Primary wound presentation is seen in about 25% of all <italic toggle="yes">V. vulnificus</italic> cases. The overall mortality rate for wound infection approximates 25% but rises to 54% in patients with underlying hepatic disease.<xref ref-type="bibr" rid="article-60196.r3">[3]</xref><xref ref-type="bibr" rid="article-60196.r4">[4]</xref></p>
+        <p>A limited gastrointestinal presentation, with sudden onset of fever, chills, watery diarrhea, nausea, and vomiting is seen. Sepsis, severe skin disease, or death in this presentation is minimal. However, since similar GI symptoms can precede the primary septicemic form, caution must be advised in assuming GI symptoms are benign. This limited GI presentation is seen in about 10% to 15% of all <italic toggle="yes">V. vulnificus</italic> cases seen.</p>
+      </sec>
+      <sec id="article-60196.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p>Though found throughout the world, most <italic toggle="yes">Vibrionaceae</italic> are found in warmer marine environments. The summer months have higher incidence rates of disease, and areas with subtropical monsoon-type climates are particularly prone to the proliferation of <italic toggle="yes">Vibrionaceae</italic>. The countries with the most documented cases of <italic toggle="yes">V. vulnificus</italic> are the United States, South Korea, Taiwan, Japan, and Mexico.&#x000a0; Disease in the southern hemisphere is minimal compared to the northern hemisphere and is thought to be related to the paucity of monsoon climates in that hemisphere. One study found the prevalence of <italic toggle="yes">V. vulnificus</italic> in shellfish in Mexican coastal seafood markets to be 32%.<xref ref-type="bibr" rid="article-60196.r5">[5]</xref><xref ref-type="bibr" rid="article-60196.r6">[6]</xref></p>
+        <p>Host factors are a major determinant of who develops sepsis from the initial infection. Patients with chronic hepatic disease (hepatitis, cirrhosis, hemochromatosis), diabetes, malignancies, renal disease, HIV, or other immunocompromise represent 80% to 90% of all patients presenting with primary sepsis.<xref ref-type="bibr" rid="article-60196.r4">[4]</xref><xref ref-type="bibr" rid="article-60196.r7">[7]</xref></p>
+        <p>Males are infected more frequently than females, and patients aged greater than forty are at increased risk. This age and sex disparity may link to the higher prevalence of liver disease in older males.<xref ref-type="bibr" rid="article-60196.r8">[8]</xref></p>
+        <p>The effect of global warming has been correlated with the increasing prevalence and virulence of the organism. This is thought to be related to rising sea temperatures and melting of polar ice caps causing increasing salinity of the water.<xref ref-type="bibr" rid="article-60196.r4">[4]</xref><xref ref-type="bibr" rid="article-60196.r9">[9]</xref></p>
+      </sec>
+      <sec id="article-60196.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>The morphology of <italic toggle="yes">Vibrionaceae</italic> contributes significantly to its virulence. Structurally <italic toggle="yes">V. vulnificus</italic> is a flagellated motile halophilic bacillus with a capsular polysaccharide (CPS), a lipopolysaccharide (LPS), and specific flagellin homologous proteins (FHPs).</p>
+        <p>Capsular polysaccharides in the organism&#x02019;s capsule resist host gastric acid attack, and further trigger the release of host cytokines, such as tumor necrosis factor (TNF) and interleukins-8 and interleukin-6.&#x000a0;<italic toggle="yes">V. vulnificus</italic> infection blocks complement activation as well as inhibits opsonization, both necessary for bacterial eradication. Capsular polysaccharides are also are implicated in neutrophil and macrophage dysfunction. Surface pili facilitate the attachment to host cells. Flagellar elements (FHPs) are required for the development of <italic toggle="yes">Vibrio</italic> biofilm. Biofilm development is essential for <italic toggle="yes">V. vulnificus</italic>&#x02019;s cytotoxicity as well as environmental survival. <italic toggle="yes">V. vulnificus</italic> lipopolysaccharides mediate septic shock through the release of cytokines and pyrogens.<xref ref-type="bibr" rid="article-60196.r9">[9]</xref><xref ref-type="bibr" rid="article-60196.r10">[10]</xref><xref ref-type="bibr" rid="article-60196.r11">[11]</xref></p>
+        <p>Iron uptake during host invasion enhances the cytotoxicity and virulence of <italic toggle="yes">V. vulnificus</italic>. Specific metabolic pathways can strip host transferrin of iron, triggering sepsis and elevating mortality. At special risk are patients with elevated iron stores, e.g., sickle cell anemia, chronic liver disease, and hemochromatosis.<xref ref-type="bibr" rid="article-60196.r7">[7]</xref><xref ref-type="bibr" rid="article-60196.r12">[12]</xref></p>
+      </sec>
+      <sec id="article-60196.s6" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>Patients with <italic toggle="yes">V. vulnificus</italic> infection may present with one of three distinct symptomatologies; 1) primary septicemia, 2) wound infection, or 3) gastroenteritis</p>
+        <p>In primary sepsis, the patient appears very ill and may even be in shock on hospital arrival. At this point, there may be no history of gastroenteritis or skin problems, though the classic skin and soft tissue findings (v.i.)&#x000a0; may abruptly appear.</p>
+        <p>Any infected wound sustained in seawater or brackish water raises the possibility of <italic toggle="yes">V. vulnificus</italic> infection. Swimmers, fishers, scuba divers, snorkelers, beach walkers, coral collectors, surfers with wounds or skin disease must be considered to have <italic toggle="yes">V. vulnificus</italic> amongst other likely etiologies. Even contaminated seafood contacting skin can be causative.</p>
+        <p>The patient with <italic toggle="yes">V. vulnificus</italic> gastroenteritis would commonly have a sudden onset of vomiting, diarrhea, fever, and abdominal pain. This is usually within 24 hours of suspect seafood ingestion. In the limited gastroenteritis presentation of V. vulnificus infection, there would be no sequelae after routine treatment. However, similar GI symptoms may precede the primary septicemic form, so caution is advised.</p>
+        <p>History of recent shellfish ingestion, especially raw oysters, or exposure to marine water with trauma should elevate suspicion of <italic toggle="yes">V. vulnificus</italic> infection. Questions about recent dining experiences or seafood purchases, or of recent travel to coastal areas, as well as swimming, diving, snorkeling, should be pursued.</p>
+        <p>Since chronic underlying disease raises the morbidity and mortality of <italic toggle="yes">V. vulnificus</italic> infection, a very detailed past medical history must be obtained. History of cirrhosis, hepatitis, hemochromatosis, sickle cell anemia, diabetes, cancers, or HIV or immunocompromise of any type is significant.</p>
+        <p>Deteriorated mental function is seen in approximately a third to one-half of septic patients on initial hospital evaluation. This may make history taking difficult.</p>
+        <p>Initial physical findings are related to the manner of presentation.</p>
+        <p>Septic patients presenting for care will generally, but not always, appear very ill. Vital signs must be determined promptly, and include blood pressure, pulse rate, respiratory rate, pulse-oximetry, core temperature, and pain level. Patients with temperatures exceeding 38 C or below 36 C should immediately initiate screening for sepsis. Similarly, patients with any marked elevation of their heart rate (greater than 90 bpm) or respiratory rate (greater than 20/min) should heighten suspicion of sepsis. Blood pressure should be measured lying, seated, and standing (unless dizziness is induced). Parameters for septic shock in adults are a systolic BP less than 90 mmHg, OR a mean arterial pressure (MAP) less than 60, or a 40 mmHg drop in systolic pressure from the patient&#x02019;s known prior &#x02018;normal&#x02019; systolic pressure. Sepsis is seen on arrival in over 50% of patients presenting with <italic toggle="yes">V. vulnificus</italic>.</p>
+        <p>Determination of qSOFA, SIRS, or REMS scores should be part of the initial examination. If scoring is indicative, sepsis protocols must be initiated.<xref ref-type="bibr" rid="article-60196.r13">[13]</xref></p>
+        <p>Acute skin findings following <italic toggle="yes">V. vulnificus</italic> ingestion usually appear within 24 hours of the onset of sepsis. These are usually on the lower extremities, frequently bilateral, and manifest as severe cellulitis with fluid-filled bullae, which then may become hemorrhagic. These may progress rapidly to necrotic ulceration, gangrene, and then to underlying necrotizing fasciitis with myonecrosis.</p>
+        <p>Patients with primary wound infections present with severe cellulitis, swelling, blister formation, ulceration, hemorrhagic bullae, and abscesses of a wounded area. They may rapidly go on to develop necrotizing fasciitis and myonecrosis. However, these manifestations are localized to the area of initial wounding and therefore are to be differentiated from the bilateral lower extremity pattern of skin findings in the primary septicemic presentation. Additionally, these primary wound patients are at high risk for developing bacteremia, sepsis, and limb loss.<xref ref-type="bibr" rid="article-60196.r1">[1]</xref><xref ref-type="bibr" rid="article-60196.r13">[13]</xref></p>
+        <p>In the limited primary gastroenteritis presentation, focal or diffuse abdominal tenderness without peritoneal signs is common. Bowel sounds may be normal or increased. Hepatosplenomegaly is negative unless related to an underlying preexisting disease. Core temperature may be normal or slightly elevated. A rectal exam should be done, stool heme-tested, and appropriate fecal samples sent.</p>
+      </sec>
+      <sec id="article-60196.s7" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>Any suggestion of early-onset sepsis (qSOFA or SIRS criteria) should initiate the acquisition of blood, stool, and wound cultures, as well as samples for complete blood count, comprehensive metabolic panel, lactic acid, coagulation panel, and arterial blood gas. Appropriate fluid resuscitation, vasopressor support, and invasive monitoring should not be delayed pending testing and definitive diagnosis. Multiple organ dysfunction syndrome (MODS) can complicate <italic toggle="yes">V. vulnificus</italic> infection early. Elevated WBC with a left shift and the presentation of early band forms are indicative of acute infections and may be markers for sepsis. Abnormal clotting studies, decreased platelets, increasing creatinine may presage MODS. Elevated CPK is seen with muscle necrosis. Decreased WBC (&#x0003c;4000) or decreased core temperature (&#x0003c;36 C) may indicate severe sepsis.<xref ref-type="bibr" rid="article-60196.r14">[14]</xref><xref ref-type="bibr" rid="article-60196.r15">[15]</xref></p>
+        <p>Clinical suspicion or history of underlying hepatic disease, diabetes, malignancies, AIDS, or other immunosuppressive syndromes should trigger the ordering of targeted lab studies. CT or MRI imaging is useful in identifying underlying necrotizing fasciitis and myonecrosis. These may show swollen tissues, foci of an abscess, or fluid collections. These studies may also be used for guided drainage procedures.</p>
+        <p>Recently a rapid stool PCR assay was introduced, which can identify all three <italic toggle="yes">Vibrionaceae</italic> (cholera, parahaemolyticus, and vulnificus) as well as a multitude of other known enteric pathogens. Norovirus, Rotavirus, Astrovirus, Sapovirus, Clostridia difficile, Campylobacter, Salmonella, Shigella, E. coli, including EPEC and ETEC, Yersinia, Cryptosporidium, Giardia lamblia, Entamoeba histolytica, and Cyclospora are all included in this multiplex PCR panel. A recent multicenter evaluation of the QIAstat GIP found a sensitivity of 98% (CI 96% to 99%, p&#x0003c;0.05) in detecting pathogens.</p>
+        <p>Skin lesions, abscesses, bullae, and necrotic ulcers should be cultured and gram-stained. <italic toggle="yes">V. vulnificus</italic> will stain as a gram-negative rod.</p>
+        <p>Real-time PCR testing of blood samples and wound exudate for <italic toggle="yes">V. vulnificus</italic> has shown almost 100% sensitivity and specificity in detecting the bacillus.&#x000a0; Also, elevated real-time polymerase chain reaction (PCR) for <italic toggle="yes">V. vulnificus</italic> DNA loads in the blood is predictive of increased mortality. Elevated TNF-alpha levels on admission blood were also correlated with higher mortality.</p>
+      </sec>
+      <sec id="article-60196.s8" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>Recognition of septic shock should initiate prompt resuscitative efforts. Facility-based sepsis protocols are essential in guiding management.</p>
+        <p>Skin cellulitis and blisters should be cultured. Necrotic skin lesions should be debrided. Cutaneous abscesses should be drained. Topicals, such as silver sulfadiazine, should be used to cover infected skin. Underlying necrotizing fasciitis and myonecrosis demand prompt surgical debridement and fasciotomy. This is imperative to prevent limb necrosis and subsequent amputation. As always, adequate fluid resuscitation, an adequate airway, and vasopressors as necessary should precede any septic patient going to the operating room. Patients with necrotizing fasciitis who do not receive surgical debridement promptly have a very high mortality rate.<xref ref-type="bibr" rid="article-60196.r16">[16]</xref></p>
+        <p>Correct antibiotic selection and administration should immediately follow cultures. However, delay in obtaining cultures should never hinder the prompt administration of antibiotics. Combination antibiotic therapy is recommended. However, multiple antibiotic resistance has been found in up to 50% of <italic toggle="yes">Vibrio</italic> infections.<xref ref-type="bibr" rid="article-60196.r17">[17]</xref></p>
+        <p>In vitro susceptibility has shown that third-generation cephalosporins, tetracyclines, carbapenems, fluoroquinolones, sulfa-trimethoprim, piperacillin-tazobactam, and aminoglycosides are all effective against <italic toggle="yes">V. vulnificus</italic>. However, the CDC recommends combination therapy with intravenous ceftazidime with either a quinolone (ciprofloxacin) or a tetracycline (doxycycline). Intravenous ciprofloxacin, in combination with IV doxycycline or IV tigecycline, has also been used with success.&#x000a0; Of note, patients who were septic on arrival and given appropriate antibiotics within 24 hours of admission still had a mortality rate of approximately one-third. Mortality approaches 100% when the administration is delayed past 72 hours.<xref ref-type="bibr" rid="article-60196.r18">[18]</xref><xref ref-type="bibr" rid="article-60196.r19">[19]</xref></p>
+        <p>The management of primary, limited gastroenteritis should include fluid replacement, antipyretics, analgesics, and anti-emetics.&#x000a0; Fluids, urine output, electrolytes, as well as renal function should be closely monitored and used to direct replacement therapy.</p>
+        <p>Current research activity is seeking the development of a vaccine against <italic toggle="yes">V. vulnificus</italic>.<xref ref-type="bibr" rid="article-60196.r20">[20]</xref></p>
+      </sec>
+      <sec id="article-60196.s9" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <p>The sudden appearance of severe blistering and cellulitis may be seen in pemphigus, pemphigoid, Steven-Johnson syndrome, toxic epidermal necrosis, erythema multiforme; group A streptococcus, pseudomonas, clostridial or <italic toggle="yes">Aeromonas</italic> infection; radiation exposure, scalding, or UV exposure.</p>
+        <p>Any appearance of such skin findings, particularly on both lower extremities, following shellfish ingestion, should immediately suggest <italic toggle="yes">V. vulnificus</italic> infection.</p>
+        <p>Patients coming in with similar lesions (cellulitis, blistering, bullae, ecchymosis) on an extremity recently wounded in an aquatic environment is <italic toggle="yes">V. vulnificus</italic> until proven otherwise. Other causes could be skin reaction to applied medicaments (iodine, silver sulfadiazine, chlorhexidine), local hypersensitivity to tape, or concomitant sunburn or applied heat</p>
+        <p>Acute infectious gastroenteritis may be caused by a multitude of viral, bacterial, parasitic, and protozoan pathogens. Viruses predominate (60%), with noroviruses, rotaviruses, and adenoviruses accounting for many cases. Bacterial etiologies are second, with salmonella, <italic toggle="yes">staphylococcus, campylobacteria</italic>, <italic toggle="yes">E. coli</italic> (enteropathogenic <italic toggle="yes">E. coli</italic>, enterotoxigenic <italic toggle="yes">E. coli</italic>, enterohemorrhagic E. coli, enteroinvasive <italic toggle="yes">E. coli</italic> ), <italic toggle="yes">Bacillus cereus</italic>, <italic toggle="yes">Shigella</italic>, <italic toggle="yes">Yersinia</italic>, <italic toggle="yes">Vibrionaceae</italic>, and <italic toggle="yes">Clostridia</italic> (<italic toggle="yes">C. perfringens</italic> and <italic toggle="yes">C. difficile</italic>). <italic toggle="yes">C. difficile</italic> is highly suspect in nursing home acquired gastroenteritis. Protozoa <italic toggle="yes">Giardia lamblia</italic>, <italic toggle="yes">Entamoeba histolytica</italic>, and <italic toggle="yes">Cryptosporidium</italic> are responsible for a smaller percentage of cases. Finally, intestinal parasites, such as <italic toggle="yes">Enterobius vermicularis</italic>, <italic toggle="yes">Ancylostoma duodenale</italic>, and <italic toggle="yes">Necator americanus</italic>, are all causative agents.</p>
+        <p>Non- infectious gastroenteritis is seen much less frequently than infectious and may be related to conditions such as Crohn disease, irritable bowel syndrome, diabetes, lactose intolerance, or medications such as NSAIDs or colchicine are implicated in acute gastroenteritis presentations.</p>
+      </sec>
+      <sec id="article-60196.s10" sec-type="Prognosis">
+        <title>Prognosis</title>
+        <p><italic toggle="yes">V. vulnificus</italic> is a lethal disease. All-case overall mortality is approximately 35%. Mortality rates approaching 50% to 60% are seen in patients who present with underlying hepatic or immunosuppressive disease, as compared to 16% in those without an underlying disease (risk ratio 1.84, 95% CI 1.41-2.85). All patients presenting with sepsis have an overall mortality rate of 50%, but those treated with antibiotics after 72 hours (from arrival) have mortality rates approaching 100%. Delayed surgical debridement of patients manifesting necrotizing fasciitis and myonecrosis have mortality rates approaching 100%. The overall death rate for all patients presenting with wound infection is 25%. Death in patients manifesting primarily limited gastroenteritis is rare.<xref ref-type="bibr" rid="article-60196.r4">[4]</xref></p>
+        <p>Though the prevalence of <italic toggle="yes">V. vulnificus</italic> infection is low, it is the leading cause of all seafood-related deaths in the United States (95% of all cases).<xref ref-type="bibr" rid="article-60196.r8">[8]</xref></p>
+        <p>Certain serologic markers are useful not only for diagnosis but in mortality prediction. Tissue necrosis factor (TNF-alpha) level and real-time PCR <italic toggle="yes">V. vulnificus</italic> DNA load level in blood sampled on arrival are both significantly higher in those dying as opposed to those surviving.</p>
+      </sec>
+      <sec id="article-60196.s11" sec-type="Complications">
+        <title>Complications</title>
+        <p>The major complications of <italic toggle="yes">V. vulnificus</italic> infection are sepsis, necrotizing fasciitis, myonecrosis, and extremity gangrene. The latter frequently ending in amputation.</p>
+        <p>Necrotizing fasciitis is a severe life-threatening infection of the soft tissues, involving subcutaneous fat, contiguous fascial sheets, and potentially underlying musculature. The latter is defined as myonecrosis. Necrotizing fasciitis is frequently blamed on &#x02018;flesh-eating bacteria&#x02019; in the lay literature. The limbs are the most frequent anatomic location, but occasionally the perineum is involved. Underlying diabetes, hepatic disease, malignancy, intravenous drug abuse, and immunosuppression are all risk factors for its development.<xref ref-type="bibr" rid="article-60196.r21">[21]</xref></p>
+        <p>Rarer complications of <italic toggle="yes">V. vulnificus</italic> include meningoencephalitis, peritonitis, and pneumonitis.</p>
+      </sec>
+      <sec id="article-60196.s12" sec-type="Deterrence and Patient Education">
+        <title>Deterrence and Patient Education</title>
+        <p>Health agencies must caution the public on the dangers of eating raw and undercooked seafood. This especially applies to raw oysters. Health advisory notices would ideally be placed in restaurants. The public should also be made aware of the danger of wounds acquired in marine environments. Surfers, divers, swimmers, and fishers should be educated, through the media and their clubs and associations, on the risk <italic toggle="yes">Vibrio</italic> represents when they sustain an injury in suspect waters. In addition, those enjoying these activities in climates known to enhance <italic toggle="yes">V. vulnificus</italic> virulence- warn, sub-tropical, or monsoon-prone areas- should be extra wary. Medical personnel in these areas much have heightened knowledge and awareness of the presenting signs and symptoms, course, and complications of <italic toggle="yes">V. vulnificus</italic>.</p>
+      </sec>
+      <sec id="article-60196.s13" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Medical teams seeing ill patients recently ingesting seafood or swimming or injured in suspect waters should be mutually aware of the danger presented by <italic toggle="yes">V. vulnificus</italic>. Any suggestion of sepsis should trigger facility-specific protocols. This role is crucial to effective triage.&#x000a0; Starting with the nurse's assessment and then to the medical provider's history and physical, any essential historical event or significant physical finding should be shared amongst the team. Collaborative case summation with all team members, including medical providers, nurses, nurses' assistants, techs, wound care specialists, and pharmacists, can assist in arriving at the correct diagnosis, and instituting early indicated treatment. Infectious disease specialists should be involved early in such cases. Prompt surgical consultation should be pursued in any case with significant skin and soft tissue findings.</p>
+      </sec>
+      <sec id="article-60196.s14">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=60196&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=60196">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/infectious-disease/vibrio-vulnificus-infection/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=60196">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/60196/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=60196">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-60196.s15">
+        <title>References</title>
+        <ref id="article-60196.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Leng</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Lin</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Wu</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Song</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Zhong</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Epidemiology, pathogenetic mechanism, clinical characteristics, and treatment of Vibrio vulnificus infection: a case report and literature review.</article-title>
+            <source>Eur J Clin Microbiol Infect Dis</source>
+            <year>2019</year>
+            <month>Nov</month>
+            <volume>38</volume>
+            <issue>11</issue>
+            <fpage>1999</fpage>
+            <page-range>1999-2004</page-range>
+            <pub-id pub-id-type="pmid">31325061</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-60196.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Baker-Austin</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Oliver</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Alam</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Ali</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Waldor</surname>
+                <given-names>MK</given-names>
+              </name>
+              <name>
+                <surname>Qadri</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Martinez-Urtaza</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Vibrio spp. infections.</article-title>
+            <source>Nat Rev Dis Primers</source>
+            <year>2018</year>
+            <month>Jul</month>
+            <day>12</day>
+            <volume>4</volume>
+            <issue>1</issue>
+            <fpage>8</fpage>
+            <pub-id pub-id-type="pmid">30002421</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-60196.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bhat</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Bhaskar</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Sistla</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kadhiravan</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Fatal case of necrotising fasciitis due to <italic>Vibrio vulnificus</italic> in a patient with alcoholic liver disease and diabetes mellitus.</article-title>
+            <source>BMJ Case Rep</source>
+            <year>2019</year>
+            <month>Jan</month>
+            <day>17</day>
+            <volume>12</volume>
+            <issue>1</issue>
+            <pub-id pub-id-type="pmid">30659010</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-60196.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chuang</surname>
+                <given-names>PY</given-names>
+              </name>
+              <name>
+                <surname>Yang</surname>
+                <given-names>TY</given-names>
+              </name>
+              <name>
+                <surname>Huang</surname>
+                <given-names>TW</given-names>
+              </name>
+              <name>
+                <surname>Tsai</surname>
+                <given-names>YH</given-names>
+              </name>
+              <name>
+                <surname>Huang</surname>
+                <given-names>KC</given-names>
+              </name>
+              <name>
+                <surname>Weng</surname>
+                <given-names>HH</given-names>
+              </name>
+            </person-group>
+            <article-title>Hepatic disease and the risk of mortality of Vibrio vulnificus necrotizing skin and soft tissue infections: A systematic review and meta-analysis.</article-title>
+            <source>PLoS One</source>
+            <year>2019</year>
+            <volume>14</volume>
+            <issue>10</issue>
+            <fpage>e0223513</fpage>
+            <pub-id pub-id-type="pmid">31652263</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-60196.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Villica&#x000f1;a</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Amarillas</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Soto-Castro</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>G&#x000f3;mez-Gil</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Liz&#x000e1;rraga-Partida</surname>
+                <given-names>ML</given-names>
+              </name>
+              <name>
+                <surname>Le&#x000f3;n-F&#x000e9;lix</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Occurrence and Abundance of Pathogenic <italic>Vibrio</italic> Species in Raw Oysters at Retail Seafood Markets in Northwestern Mexico.</article-title>
+            <source>J Food Prot</source>
+            <year>2019</year>
+            <month>Dec</month>
+            <volume>82</volume>
+            <issue>12</issue>
+            <fpage>2094</fpage>
+            <page-range>2094-2099</page-range>
+            <pub-id pub-id-type="pmid">31724880</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-60196.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lee</surname>
+                <given-names>SH</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>HJ</given-names>
+              </name>
+              <name>
+                <surname>Myung</surname>
+                <given-names>GE</given-names>
+              </name>
+              <name>
+                <surname>Choi</surname>
+                <given-names>EJ</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>IA</given-names>
+              </name>
+              <name>
+                <surname>Jeong</surname>
+                <given-names>YI</given-names>
+              </name>
+              <name>
+                <surname>Park</surname>
+                <given-names>GJ</given-names>
+              </name>
+              <name>
+                <surname>Soh</surname>
+                <given-names>SM</given-names>
+              </name>
+            </person-group>
+            <article-title>Distribution of Pathogenic <italic>Vibrio</italic> Species in the Coastal Seawater of South Korea (2017-2018).</article-title>
+            <source>Osong Public Health Res Perspect</source>
+            <year>2019</year>
+            <month>Dec</month>
+            <volume>10</volume>
+            <issue>6</issue>
+            <fpage>337</fpage>
+            <page-range>337-342</page-range>
+            <pub-id pub-id-type="pmid">31897362</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-60196.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yun</surname>
+                <given-names>NR</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>DM</given-names>
+              </name>
+            </person-group>
+            <article-title>Vibrio vulnificus infection: a persistent threat to public health.</article-title>
+            <source>Korean J Intern Med</source>
+            <year>2018</year>
+            <month>Nov</month>
+            <volume>33</volume>
+            <issue>6</issue>
+            <fpage>1070</fpage>
+            <page-range>1070-1078</page-range>
+            <pub-id pub-id-type="pmid">29898575</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-60196.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Baker-Austin</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Oliver</surname>
+                <given-names>JD</given-names>
+              </name>
+            </person-group>
+            <article-title>Vibrio vulnificus: new insights into a deadly opportunistic pathogen.</article-title>
+            <source>Environ Microbiol</source>
+            <year>2018</year>
+            <month>Feb</month>
+            <volume>20</volume>
+            <issue>2</issue>
+            <fpage>423</fpage>
+            <page-range>423-430</page-range>
+            <pub-id pub-id-type="pmid">29027375</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-60196.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Deeb</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Tufford</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Scott</surname>
+                <given-names>GI</given-names>
+              </name>
+              <name>
+                <surname>Moore</surname>
+                <given-names>JG</given-names>
+              </name>
+              <name>
+                <surname>Dow</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Impact of Climate Change on <italic>Vibrio vulnificus</italic> Abundance and Exposure Risk.</article-title>
+            <source>Estuaries Coast</source>
+            <year>2018</year>
+            <month>Dec</month>
+            <volume>41</volume>
+            <issue>8</issue>
+            <fpage>2289</fpage>
+            <page-range>2289-2303</page-range>
+            <pub-id pub-id-type="pmid">31263385</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-60196.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Duong-Nu</surname>
+                <given-names>TM</given-names>
+              </name>
+              <name>
+                <surname>Jeong</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Hong</surname>
+                <given-names>SH</given-names>
+              </name>
+              <name>
+                <surname>Puth</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>SY</given-names>
+              </name>
+              <name>
+                <surname>Tan</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>KH</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>SE</given-names>
+              </name>
+              <name>
+                <surname>Rhee</surname>
+                <given-names>JH</given-names>
+              </name>
+            </person-group>
+            <article-title>A stealth adhesion factor contributes to Vibrio vulnificus pathogenicity: Flp pili play roles in host invasion, survival in the blood stream and resistance to complement activation.</article-title>
+            <source>PLoS Pathog</source>
+            <year>2019</year>
+            <month>Aug</month>
+            <volume>15</volume>
+            <issue>8</issue>
+            <fpage>e1007767</fpage>
+            <pub-id pub-id-type="pmid">31437245</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-60196.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jung</surname>
+                <given-names>YC</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>KH</given-names>
+              </name>
+            </person-group>
+            <article-title>Role of Flagellin-Homologous Proteins in Biofilm Formation by Pathogenic <italic>Vibrio</italic> Species.</article-title>
+            <source>mBio</source>
+            <year>2019</year>
+            <month>Aug</month>
+            <day>13</day>
+            <volume>10</volume>
+            <issue>4</issue>
+            <pub-id pub-id-type="pmid">31409687</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-60196.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Datta</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kenton</surname>
+                <given-names>RJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Characterization of temperature-dependent hemin uptake receptors HupA and HvtA in Vibrio vulnificus.</article-title>
+            <source>Microbiologyopen</source>
+            <year>2019</year>
+            <month>Oct</month>
+            <volume>8</volume>
+            <issue>10</issue>
+            <fpage>e905</fpage>
+            <pub-id pub-id-type="pmid">31290613</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-60196.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Nolan</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Tien</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Haas</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Saskin</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Nathens</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>The Rapid Emergency Medicine Score: A Critical Appraisal of Its Measurement Properties and Applicability to the Air Retrieval Environment.</article-title>
+            <source>Air Med J</source>
+            <year>2019</year>
+            <season>May-Jun</season>
+            <volume>38</volume>
+            <issue>3</issue>
+            <fpage>154</fpage>
+            <page-range>154-160</page-range>
+            <pub-id pub-id-type="pmid">31122578</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-60196.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jiang</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Yang</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Mei</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Jin</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Lu</surname>
+                <given-names>Y</given-names>
+              </name>
+            </person-group>
+            <article-title>Head-to-head comparison of qSOFA and SIRS criteria in predicting the mortality of infected patients in the emergency department: a meta-analysis.</article-title>
+            <source>Scand J Trauma Resusc Emerg Med</source>
+            <year>2018</year>
+            <month>Jul</month>
+            <day>11</day>
+            <volume>26</volume>
+            <issue>1</issue>
+            <fpage>56</fpage>
+            <pub-id pub-id-type="pmid">29996880</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-60196.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sohn</surname>
+                <given-names>YW</given-names>
+              </name>
+              <name>
+                <surname>Jang</surname>
+                <given-names>HY</given-names>
+              </name>
+              <name>
+                <surname>Park</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Cho</surname>
+                <given-names>YS</given-names>
+              </name>
+              <name>
+                <surname>Park</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Chung</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>SI</given-names>
+              </name>
+            </person-group>
+            <article-title>Validation of quick sequential organ failure assessment score for poor outcome prediction among emergency department patients with suspected infection.</article-title>
+            <source>Clin Exp Emerg Med</source>
+            <year>2019</year>
+            <month>Dec</month>
+            <volume>6</volume>
+            <issue>4</issue>
+            <fpage>314</fpage>
+            <page-range>314-320</page-range>
+            <pub-id pub-id-type="pmid">31910502</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-60196.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Myers</surname>
+                <given-names>CM</given-names>
+              </name>
+              <name>
+                <surname>Miller</surname>
+                <given-names>JJ</given-names>
+              </name>
+              <name>
+                <surname>Davis</surname>
+                <given-names>WD</given-names>
+              </name>
+            </person-group>
+            <article-title>Skin and Soft Tissue Infections: A Case of Necrotizing Fasciitis.</article-title>
+            <source>Adv Emerg Nurs J</source>
+            <year>2019</year>
+            <season>Oct/Dec</season>
+            <volume>41</volume>
+            <issue>4</issue>
+            <fpage>322</fpage>
+            <page-range>322-329</page-range>
+            <pub-id pub-id-type="pmid">31687996</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-60196.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mok</surname>
+                <given-names>JS</given-names>
+              </name>
+              <name>
+                <surname>Ryu</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Kwon</surname>
+                <given-names>JY</given-names>
+              </name>
+              <name>
+                <surname>Park</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Shim</surname>
+                <given-names>KB</given-names>
+              </name>
+            </person-group>
+            <article-title>Abundance, antimicrobial resistance, and virulence of pathogenic Vibrio strains from molluscan shellfish farms along the Korean coast.</article-title>
+            <source>Mar Pollut Bull</source>
+            <year>2019</year>
+            <month>Dec</month>
+            <volume>149</volume>
+            <fpage>110559</fpage>
+            <pub-id pub-id-type="pmid">31543492</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-60196.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kim</surname>
+                <given-names>SE</given-names>
+              </name>
+              <name>
+                <surname>Shin</surname>
+                <given-names>SU</given-names>
+              </name>
+              <name>
+                <surname>Oh</surname>
+                <given-names>TH</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>UJ</given-names>
+              </name>
+              <name>
+                <surname>Darboe</surname>
+                <given-names>KS</given-names>
+              </name>
+              <name>
+                <surname>Kang</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Jang</surname>
+                <given-names>HC</given-names>
+              </name>
+              <name>
+                <surname>Jung</surname>
+                <given-names>SI</given-names>
+              </name>
+              <name>
+                <surname>Shin</surname>
+                <given-names>HY</given-names>
+              </name>
+              <name>
+                <surname>Park</surname>
+                <given-names>KH</given-names>
+              </name>
+            </person-group>
+            <article-title>Outcomes of Third-Generation Cephalosporin Plus Ciprofloxacin or Doxycycline Therapy in Patients with Vibrio vulnificus Septicemia: A Propensity Score-Matched Analysis.</article-title>
+            <source>PLoS Negl Trop Dis</source>
+            <year>2019</year>
+            <month>Jun</month>
+            <volume>13</volume>
+            <issue>6</issue>
+            <fpage>e0007478</fpage>
+            <pub-id pub-id-type="pmid">31188821</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-60196.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lee</surname>
+                <given-names>MT</given-names>
+              </name>
+              <name>
+                <surname>Dinh</surname>
+                <given-names>AQ</given-names>
+              </name>
+              <name>
+                <surname>Nguyen</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Krucke</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Tran</surname>
+                <given-names>TT</given-names>
+              </name>
+            </person-group>
+            <article-title>Late-onset <italic>Vibrio vulnificus</italic> septicemia without cirrhosis.</article-title>
+            <source>Proc (Bayl Univ Med Cent)</source>
+            <year>2019</year>
+            <month>Apr</month>
+            <volume>32</volume>
+            <issue>2</issue>
+            <fpage>286</fpage>
+            <page-range>286-288</page-range>
+            <pub-id pub-id-type="pmid">31191157</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-60196.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Abbas</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Zafar</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Ahmad</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Azam</surname>
+                <given-names>SS</given-names>
+              </name>
+            </person-group>
+            <article-title>Immunoinformatics design of a novel multi-epitope peptide vaccine to combat multi-drug resistant infections caused by Vibrio vulnificus.</article-title>
+            <source>Eur J Pharm Sci</source>
+            <year>2020</year>
+            <month>Jan</month>
+            <day>15</day>
+            <volume>142</volume>
+            <fpage>105160</fpage>
+            <pub-id pub-id-type="pmid">31751777</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-60196.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wong</surname>
+                <given-names>RMY</given-names>
+              </name>
+              <name>
+                <surname>Chau</surname>
+                <given-names>LT</given-names>
+              </name>
+              <name>
+                <surname>Mak</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Tse</surname>
+                <given-names>WL</given-names>
+              </name>
+              <name>
+                <surname>Ho</surname>
+                <given-names>PC</given-names>
+              </name>
+            </person-group>
+            <article-title>Necrotizing fasciitis induced by <italic>Vibrio vulnificus</italic> in patients without marine contact in Hong Kong.</article-title>
+            <source>J Orthop Translat</source>
+            <year>2019</year>
+            <month>Oct</month>
+            <volume>19</volume>
+            <fpage>151</fpage>
+            <page-range>151-154</page-range>
+            <pub-id pub-id-type="pmid">31844623</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

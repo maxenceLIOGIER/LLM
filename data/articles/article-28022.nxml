@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-28022" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Neurogenic Pulmonary Edema</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Al-Dhahir</surname>
+            <given-names>Mohammed A.</given-names>
+          </name>
+          <aff>Strong Memorial Hospital/ University of Rochester / visiting physician</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Das</surname>
+            <given-names>Joe M.</given-names>
+          </name>
+          <aff>Imperial College Healthcare NHS Trust, London</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Sharma</surname>
+            <given-names>Sandeep</given-names>
+          </name>
+          <aff>Mery Fitzgerald Hospital</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Mohammed Al-Dhahir declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Joe Das declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Sandeep Sharma declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>17</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-28022.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Neurogenic pulmonary edema (NPE) is a clinical condition arises as acute respiratory distress taking place in conjunction with severe neurological damage/injury. By definition, this condition incorporates a clinical picture of a large accumulation of extra-vascular pulmonary fluid, of acute onset, always in the immediate outcome of serious central nervous system (CNS) lesions, mostly the brainstem. This activity reviews the cause, pathophysiology, and presentation of neurogenic pulmonary edema and highlights the role of the interprofessional team in its management.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Identify the etiology of neurogenic pulmonary edema.</p></list-item><list-item><p>Review the pathophysiology of neurogenic pulmonary edema.</p></list-item><list-item><p>Outline the treatment and management options available for neurogenic pulmonary edema.</p></list-item><list-item><p>Describe some interprofessional team strategies for improving care and outcomes in patients with neurogenic pulmonary edema.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=28022&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=28022">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-28022.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Neurogenic pulmonary edema (NPE) is a clinical condition that arises as acute respiratory distress taking place in conjunction&#x000a0;with severe neurological damage/injury. By definition, this condition incorporates a clinical picture of a large accumulation of extra-vascular pulmonary fluid, of acute onset, always in the immediate outcome of serious central nervous system (CNS) lesions, mostly the brainstem.&#x000a0;Shanahan first described acute neurogenic pulmonary edema in 1908.</p>
+        <p>This diagnosis necessitates the exclusion of other identifiable origins of pulmonary lesions or cardiovascular function that may accompany nervous system distress, for&#x000a0;instance, broncho-pulmonary aspiration or ischemic, toxic or traumatic lesions of the heart and lungs.</p>
+        <p>If the standard clinical presentation is explicit, the diagnosis should be assumed when acute pulmonary edema is associated with CNS injury in the absence of primary pulmonary or cardiovascular injury; however, some ambiguity continues, particularly since the literature does not present a full comprehension of exact&#x000a0;pathogenesis.<xref ref-type="bibr" rid="article-28022.r1">[1]</xref><xref ref-type="bibr" rid="article-28022.r2">[2]</xref><xref ref-type="bibr" rid="article-28022.r3">[3]</xref></p>
+      </sec>
+      <sec id="article-28022.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p>Any sort of&#x000a0;acute CNS injury may trigger neurogenic pulmonary edema; however, the&#x000a0;3 most common triggers of this syndrome&#x000a0;are cranial trauma (open or closed),&#x000a0;subarachnoid hemorrhage&#x000a0;(counting rupture of an aneurysm where it is found in more than 50% of cases), and epilepsy (generalized seizure). Neurogenic pulmonary edema has also been reported in some other pathological situations such as&#x000a0;cervical medullary trauma, a&#x000a0;postoperative period of intracranial surgery, and meningitis.</p>
+        <p>The occurrence of neurogenic pulmonary edema in a brain-injured&#x000a0;patient is associated with a poor prognosis as the mortality rate is very&#x000a0;high (60% to 100%). It is not only attributed to pulmonary involvement but also to primary brain injury.<xref ref-type="bibr" rid="article-28022.r2">[2]</xref><xref ref-type="bibr" rid="article-28022.r3">[3]</xref><xref ref-type="bibr" rid="article-28022.r4">[4]</xref></p>
+      </sec>
+      <sec id="article-28022.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p>There has been no confirmed incidence of neurogenic pulmonary edema. However, through pathological data, experts have projected that the condition is usually found in the autopsy of patients who die immediately after a seizure episode and also from those who are victims of severe head injuries. The cases of neurogenic pulmonary edema are generally&#x000a0;rare. Only 20% of victims with serious head injury suffers from the condition.<xref ref-type="bibr" rid="article-28022.r5">[5]</xref><xref ref-type="bibr" rid="article-28022.r6">[6]</xref><xref ref-type="bibr" rid="article-28022.r7">[7]</xref><xref ref-type="bibr" rid="article-28022.r8">[8]</xref></p>
+      </sec>
+      <sec id="article-28022.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>The full understanding of the pathophysiology of neurogenic pulmonary edema is still, to an extent, a baffling puzzle. It is important to understand the essence of the theory of an association between a CNS disturbance and developing pulmonary edema.</p>
+        <p>The CNS disturbance will cause a sympathetic overflow leading to a state of systemic vasoconstriction. This will cause pooling of the blood from the systemic circulation to the pulmonary circulation, hence eliciting an increase in the pulmonary capillary hydrostatic pressure. That change of pressure will mediate the leakage of intravascular fluid to both the alveoli and the pulmonary interstitial space through 2 mechanisms: (1) change of pressure across the alveolar bed dictated by Starling forces, (2) the changes in permeability on the capillary walls.</p>
+        <p>For a more comprehensive understanding of the pathophysiology of the neurogenic pulmonary edema, it is important to understand 3 different sectors. However, it is worthy to note that&#x000a0;this clinical condition results from the overlapping of these sectors through cause and effect. See Table 1.</p>
+        <p>
+<bold>Central Nervous System</bold>
+</p>
+        <list list-type="order">
+          <list-item>
+            <p>Structural: The injured CNS will initiate a state of sympathetic overflow. Specific centers in the CNS (if stimulated) manage autonomic sympathetic system activation. Centers responsible for autonomic contribution to the pathogenesis of&#x000a0;neurogenic pulmonary edema&#x000a0;are located in specific areas of the CNS, called trigger zones for&#x000a0;neurogenic pulmonary edema. These include rostral ventrolateral medulla, area postrema, nuclei of the solitary tract, nuclei of A1 and A5, and the medial reticulated nucleus, and the dorsal motor vagus nucleus.</p>
+          </list-item>
+          <list-item>
+            <p>Chemical: The role of neurotransmitters is not clear in the pathogenesis of&#x000a0;neurogenic pulmonary edema. Experimental studies relate NMDA receptors and GABA receptors activity in&#x000a0;neurogenic pulmonary edema&#x000a0;trigger zones to affect the sympathetic flow following CNS insult.</p>
+          </list-item>
+          <list-item>
+            <p>Physiological: Raised intracranial pressure (ICP) is a common encounter in CNS injuries. The abrupt increase in ICP will lead to the Cushing triad (increased blood pressure [BP], irregular breathing, and bradycardia). These physiological changes along with sympathetic overflow facilitate the development of pulmonary edema. Experimental studies on animals showed an increase in pulmonary artery pressure and extravascular pulmonary fluid in response to increased ICP.</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Autonomic Nervous System</bold>
+</p>
+        <list list-type="order">
+          <list-item>
+            <p>Sympathetic overflow: The sympathetic system is the key player in the pathogenesis of&#x000a0;neurogenic pulmonary edema. The sudden over-activation of the&#x000a0;neurogenic pulmonary edema&#x000a0;trigger zones (either due to direct injury/irritation, activation of ascending neural pathways or as a response to the raised ICP) prompts sympathetic overflow and an outburst of catecholamines initiating 3 important pathophysiological responses; systemic vasoconstriction, increased blood pressure, and increased venous return. &#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Parasympathetic contribution: The 10th cranial nerve (CN X) vagus provides the parasympathetic supply to the lungs and heart. Although the effect of vagus nerve rule on the heart during CNS injury is fairly elicited, yet the correlation of vagus nerve with the development of&#x000a0;neurogenic pulmonary edema&#x000a0;is strongly debatable and lacks clear supporting evidence. It is worth to mention that the hypothetical rationalization of the correlation of the vagus nerve activity to&#x000a0;neurogenic pulmonary edema&#x000a0;pathogenesis is the question of&#x000a0;whether bradycardia is an essential or accessory factor in the development of pulmonary edema.</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Cardiovascular and Pulmonary Systems</bold>
+</p>
+        <p>Sympathetic overflow and catecholamines-surge result in an increase of systemic resistance, venous return, and BP. Knowing this, the proposed theory of the development of&#x000a0;neurogenic pulmonary edema&#x000a0;falls into one of three supposed explanation:</p>
+        <list list-type="order">
+          <list-item>
+            <p>Hemodynamic changes: Increased functional demand on the cardiac muscle due to the aforementioned outcomes of the sympathetic overflow will cause the movement of blood from the systemic highly resistant circulation to the less resistant pulmonary circulation, resulting in an increase in pulmonary capillary positive hydrostatic pressure leading the movement of fluid from the capillaries to the lung tissue and interstitial space. &#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Neurogenic myocardial injury: Mainly dictated by the sudden catecholamine surge. The increase in systemic BP and venous return will cause an overload on the heart. As the left ventricle fails to meet that loading change functionally, accumulation of blood in the ventricle occurs, causing cardiac damage, hence diastolic dysfunction. This will lead to pulmonary vascular congestion, hereafter&#x000a0;pulmonary edema.</p>
+          </list-item>
+          <list-item>
+            <p>Increased pulmonary capillary permeability is governed by 2 possible&#x000a0;causes:</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Direct (humoral): Damage to the pulmonary capillaries endothelium in direct response to the catecholamines regardless of hemodynamic changes.&#x000a0;<xref ref-type="bibr" rid="article-28022.r9">[9]</xref><xref ref-type="bibr" rid="article-28022.r10">[10]</xref><xref ref-type="bibr" rid="article-28022.r11">[11]</xref><xref ref-type="bibr" rid="article-28022.r12">[12]</xref>&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Indirect (physical): Damage to the capillary bed as a mechanical response to the abrupt rise in the pulmonary capillary hydrostatic pressure.&#x000a0;<xref ref-type="bibr" rid="article-28022.r13">[13]</xref><xref ref-type="bibr" rid="article-28022.r14">[14]</xref><xref ref-type="bibr" rid="article-28022.r15">[15]</xref></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-28022.s6" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>Rapid developments characterize the early stages of neurogenic pulmonary edema. The common patients are usually children or young adults, who must have suffered an intracranial injury recently. In cases of blunt head injuries, neurogenic pulmonary edema may develop in a matter of minutes. There is no specific symptomatology of neurogenic pulmonary edema. It is most often concomitant of the trigger phase of the neurological pathology. The clinical signs boil down to classic signs of pulmonary edema with the absence of signs of left ventricular failure usually found in cardiogenic edema. For classic neurogenic pulmonary edema, the manifestation is immediate, and it could be detected clinically within 2 to 12 hours post-injury.</p>
+        <p>The symptomatology is that of any pulmonary edema with initially ventilation disorders often accompanied by systolic hypertension probably also testifying to intracranial hypertension. In patients with spontaneous ventilation, dyspnea, tachypnea, cough and rales with auscultation and tachycardia would be early signs, sometimes accompanied by pink foamy sputum or hemoptysis. More discrete symptoms of sympathetic stimulation, such as insomnia, sweating, paralytic ileus, and transient hypertension are also described. Ventilation/perfusion disorders, hypoxemia, and&#x000a0;carbon dioxide retention will occur shortly after that.</p>
+        <p>The natural evolution leads to respiratory failure followed by cardiovascular collapse and has a high mortality, estimated at more than 60%. It is impossible to assess whether the direct cause of this mortality is pulmonary or neurological or even cardiovascular. In contrast to older descriptions, more recent publications seem to attribute mortality rather to brain causes. However, in pediatric encephalomyelitis cases, the cause of death would be mainly pulmonary and cardiovascular.<xref ref-type="bibr" rid="article-28022.r2">[2]</xref><xref ref-type="bibr" rid="article-28022.r16">[16]</xref><xref ref-type="bibr" rid="article-28022.r17">[17]</xref></p>
+      </sec>
+      <sec id="article-28022.s7" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>Neurogenic pulmonary edema&#x000a0;diagnosis is clinical, based on the presence of pulmonary manifestations in the fact of CNS injury. The diagnostics aim toward exclusion of differentials:</p>
+        <p>
+<bold>Chest X-Ray</bold>
+</p>
+        <p>A chest x-ray is important to differentiate between this condition and aspiration pneumonitis. With aspiration pneumonitis, the radiographic features take up to a few hours to evolve, and up to 3 weeks to resolve.&#x000a0; This is in contrast to the alveolar infiltrates in neurogenic pulmonary edema, which occurs instantly after the injury. Rule out other pulmonary causes&#x000a0;(e.g., lung contusion, hemothorax, pneumothorax, among others).</p>
+        <p>
+<bold>Electrocardiography and Echocardiography</bold>
+</p>
+        <p>These point out the functional and structural abnormalities of the heart if any.</p>
+        <p>
+<bold>Biomarkers</bold>
+</p>
+        <p>There is no specific biomarker for neurogenic pulmonary edema, yet consideration&#x000a0;toward cardiac enzymes should be taken into account.<xref ref-type="bibr" rid="article-28022.r18">[18]</xref><xref ref-type="bibr" rid="article-28022.r19">[19]</xref></p>
+      </sec>
+      <sec id="article-28022.s8" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>The evolution of this syndrome is often favorable after 48 to 72 hours under treatment, and the prognosis is then more related to the underlying neurological pathology. However, these cases where the functional or vital prognoses are&#x000a0;committed to justifying systematic vigilance to ensure early diagnosis and appropriate&#x000a0;treatment.</p>
+        <p>In all cases, these are very serious situations with high mortality requiring intensive care. The suspicion of neurogenic pulmonary edema initially requires symptomatic treatment, often artificial ventilation and intensive care monitoring. It is wise to consider the benefits of continuous measurement of ICP and possibly capillary pulmonary pressure.</p>
+        <p>Management should aim for a causal treatment, often difficult in severe head trauma. The main effort during diffuse injury to the CNS will, therefore, be to&#x000a0;reduce ICP. Then, based on the current physiopathological hypotheses, the therapy will be mainly cardiovascular and will aim at the increase of the inotropic especially by beta-adrenergic stimulation, the reduction of the pulmonary vascular resistance is essential. Nitric oxide (NO) for this purpose is only experimental but may be useful.</p>
+        <p>In the later stages of neurogenic pulmonary edema, the cardiovascular and ventilation strategies used in acute respiratory distress syndrome (ARDS) will be required. The administration of steroids remains controversial.<xref ref-type="bibr" rid="article-28022.r20">[20]</xref><xref ref-type="bibr" rid="article-28022.r21">[21]</xref><xref ref-type="bibr" rid="article-28022.r22">[22]</xref></p>
+      </sec>
+      <sec id="article-28022.s9" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>Adult respiratory distress syndrome</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Aspiration pneumonitis and pneumonia</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Bacterial pneumonia</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Cardiogenic pulmonary edema</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Subarachnoid haemorrhage</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-28022.s10" sec-type="Pearls and Other Issues">
+        <title>Pearls and Other Issues</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>Cases of fulminant neurogenic pulmonary edema in patients suffering from mouth, foot, and hand diseases</p>
+          </list-item>
+          <list-item>
+            <p>Aspiration pneumonia and neurogenic pulmonary edema are different conditions&#x000a0;and require distinct treatments. The focal point of the treatment involves finding a balance between such measures as the reduction in intracranial pressure, body oxygenation optimization, decreasing pre-load and after-load, and improving cardiac contractility.</p>
+          </list-item>
+          <list-item>
+            <p>Neurogenic pulmonary edema often occurs for a short time (minutes to 48 hours) after the CNS accident and is mainly manifested by acute respiratory failure. The clinical diagnosis is easy in young patients without a history of cardio-respiratory disorders or direct lesions of these organs. It can be very difficult in poly-trauma patients or older people with pre-existing cardiac or pulmonary insufficiency.</p>
+          </list-item>
+          <list-item>
+            <p>Phentolamine, phenoxybenzamine, and other&#x000a0;alpha-receptor blocking agents&#x000a0;have been tried, and the results were promising.</p>
+          </list-item>
+          <list-item>
+            <p>Theoretically, droperidol is preferred, due to its alpha-receptor-blocking properties and ability to reduce cerebral metabolism.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>In cases where severe depression of myocardial function is present, dobutamine has been used in reversing this dysfunction.</p>
+          </list-item>
+          <list-item>
+            <p>While fluid restriction and diuretics are good options, there is the need to be extra careful with their applications, because some patients may be hypovolaemic.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-28022.s11" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>The diagnosis of neurogenic pulmonary edema is not easy, as it can mimic many other lung pathologies. Without a specific marker, good clinical acumen is necessary to make the diagnosis. Thus, the condition is best managed by an interprofessional team that includes an internist, cardiologist, intensivist, pulmonologist, and a nephrologist.&#x000a0; Simply giving diuretics is not always the answer as some patients may be hypovolemic. The overall prognosis depends on the cause, comorbidity, patient age and the need for inotropic support. One always has to rule of aspiration pneumonia, pulmonary embolism, and primary cardiac dysfunction as a cause of the pulmonary edema. Because these patients are bedridden, deep vein thrombosis and pressure sore prophylaxis is also necessary. A team approach is an ideal method of managing neurogenic pulmonary edema to improve outcomes. [Level 5]</p>
+      </sec>
+      <sec id="article-28022.s12">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=28022&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=28022">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/lung-disease-respiratory-health/neurogenic-pulmonary-edema/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=28022">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/28022/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=28022">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-28022.s13">
+        <title>References</title>
+        <ref id="article-28022.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kennedy</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Hardin</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Parikh</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>CS</given-names>
+              </name>
+              <name>
+                <surname>Seyal</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Pulmonary edema following generalized tonic clonic seizures is directly associated with seizure duration.</article-title>
+            <source>Seizure</source>
+            <year>2015</year>
+            <month>Apr</month>
+            <volume>27</volume>
+            <fpage>19</fpage>
+            <page-range>19-24</page-range>
+            <pub-id pub-id-type="pmid">25844030</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28022.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Raja</surname>
+                <given-names>HM</given-names>
+              </name>
+              <name>
+                <surname>Herwadkar</surname>
+                <given-names>AV</given-names>
+              </name>
+              <name>
+                <surname>Paroutoglou</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Lilleker</surname>
+                <given-names>JB</given-names>
+              </name>
+            </person-group>
+            <article-title>Neurogenic pulmonary oedema complicating a lateral medullary infarct.</article-title>
+            <source>BMJ Case Rep</source>
+            <year>2018</year>
+            <month>Jul</month>
+            <day>26</day>
+            <volume>2018</volume>
+            <pub-id pub-id-type="pmid">30054324</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28022.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Romero Osorio</surname>
+                <given-names>OM</given-names>
+              </name>
+              <name>
+                <surname>Abaunza Camacho</surname>
+                <given-names>JF</given-names>
+              </name>
+              <name>
+                <surname>Sandoval Brice&#x000f1;o</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Lasalvia</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Narino Gonzalez</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Postictal neurogenic pulmonary edema: Case report and brief literature review.</article-title>
+            <source>Epilepsy Behav Case Rep</source>
+            <year>2018</year>
+            <volume>9</volume>
+            <fpage>49</fpage>
+            <page-range>49-50</page-range>
+            <pub-id pub-id-type="pmid">29692972</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28022.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Felman</surname>
+                <given-names>AH</given-names>
+              </name>
+            </person-group>
+            <article-title>Neurogenic pulmonary edema. Observations in 6 patients.</article-title>
+            <source>Am J Roentgenol Radium Ther Nucl Med</source>
+            <year>1971</year>
+            <month>Jun</month>
+            <volume>112</volume>
+            <issue>2</issue>
+            <fpage>393</fpage>
+            <page-range>393-6</page-range>
+            <pub-id pub-id-type="pmid">5581250</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28022.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Simmons</surname>
+                <given-names>RL</given-names>
+              </name>
+              <name>
+                <surname>Martin</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Heisterkamp</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>Ducker</surname>
+                <given-names>TB</given-names>
+              </name>
+            </person-group>
+            <article-title>Respiratory insufficiency in combat casualties. II. Pulmonary edema following head injury.</article-title>
+            <source>Ann Surg</source>
+            <year>1969</year>
+            <month>Jul</month>
+            <volume>170</volume>
+            <issue>1</issue>
+            <fpage>39</fpage>
+            <page-range>39-44</page-range>
+            <pub-id pub-id-type="pmid">5789528</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28022.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Holland</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Mackersie</surname>
+                <given-names>RC</given-names>
+              </name>
+              <name>
+                <surname>Morabito</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Campbell</surname>
+                <given-names>AR</given-names>
+              </name>
+              <name>
+                <surname>Kivett</surname>
+                <given-names>VA</given-names>
+              </name>
+              <name>
+                <surname>Patel</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Erickson</surname>
+                <given-names>VR</given-names>
+              </name>
+              <name>
+                <surname>Pittet</surname>
+                <given-names>JF</given-names>
+              </name>
+            </person-group>
+            <article-title>The development of acute lung injury is associated with worse neurologic outcome in patients with severe traumatic brain injury.</article-title>
+            <source>J Trauma</source>
+            <year>2003</year>
+            <month>Jul</month>
+            <volume>55</volume>
+            <issue>1</issue>
+            <fpage>106</fpage>
+            <page-range>106-11</page-range>
+            <pub-id pub-id-type="pmid">12855888</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28022.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bratton</surname>
+                <given-names>SL</given-names>
+              </name>
+              <name>
+                <surname>Davis</surname>
+                <given-names>RL</given-names>
+              </name>
+            </person-group>
+            <article-title>Acute lung injury in isolated traumatic brain injury.</article-title>
+            <source>Neurosurgery</source>
+            <year>1997</year>
+            <month>Apr</month>
+            <volume>40</volume>
+            <issue>4</issue>
+            <fpage>707</fpage>
+            <page-range>707-12; discussion 712</page-range>
+            <pub-id pub-id-type="pmid">9092843</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28022.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Atkinson</surname>
+                <given-names>JL</given-names>
+              </name>
+            </person-group>
+            <article-title>Acute lung injury in isolated traumatic brain injury.</article-title>
+            <source>Neurosurgery</source>
+            <year>1997</year>
+            <month>Nov</month>
+            <volume>41</volume>
+            <issue>5</issue>
+            <fpage>1214</fpage>
+            <page-range>1214-6</page-range>
+            <pub-id pub-id-type="pmid">9361081</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28022.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kerr</surname>
+                <given-names>NA</given-names>
+              </name>
+              <name>
+                <surname>de Rivero Vaccari</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Abbassi</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kaur</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Zambrano</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Wu</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Dietrich</surname>
+                <given-names>WD</given-names>
+              </name>
+              <name>
+                <surname>Keane</surname>
+                <given-names>RW</given-names>
+              </name>
+            </person-group>
+            <article-title>Traumatic Brain Injury-Induced Acute Lung Injury: Evidence for Activation and Inhibition of a Neural-Respiratory-Inflammasome Axis.</article-title>
+            <source>J Neurotrauma</source>
+            <year>2018</year>
+            <month>Sep</month>
+            <day>01</day>
+            <volume>35</volume>
+            <issue>17</issue>
+            <fpage>2067</fpage>
+            <page-range>2067-2076</page-range>
+            <pub-id pub-id-type="pmid">29648974</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28022.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lou</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Xue</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Cui</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Xue</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>Increased intracranial pressure is associated with the development of acute lung injury following severe traumatic brain injury.</article-title>
+            <source>Clin Neurol Neurosurg</source>
+            <year>2013</year>
+            <month>Jul</month>
+            <volume>115</volume>
+            <issue>7</issue>
+            <fpage>904</fpage>
+            <page-range>904-8</page-range>
+            <pub-id pub-id-type="pmid">23010612</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28022.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Colice</surname>
+                <given-names>GL</given-names>
+              </name>
+            </person-group>
+            <article-title>Neurogenic pulmonary edema.</article-title>
+            <source>Clin Chest Med</source>
+            <year>1985</year>
+            <month>Sep</month>
+            <volume>6</volume>
+            <issue>3</issue>
+            <fpage>473</fpage>
+            <page-range>473-89</page-range>
+            <pub-id pub-id-type="pmid">3907948</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28022.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Simon</surname>
+                <given-names>RP</given-names>
+              </name>
+            </person-group>
+            <article-title>Neurogenic pulmonary edema.</article-title>
+            <source>Neurol Clin</source>
+            <year>1993</year>
+            <month>May</month>
+            <volume>11</volume>
+            <issue>2</issue>
+            <fpage>309</fpage>
+            <page-range>309-23</page-range>
+            <pub-id pub-id-type="pmid">8316188</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28022.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ducker</surname>
+                <given-names>TB</given-names>
+              </name>
+              <name>
+                <surname>Simmons</surname>
+                <given-names>RL</given-names>
+              </name>
+            </person-group>
+            <article-title>Increased intracranial pressure and pulmonary edema. 2. The hemodynamic response of dogs and monkeys to increased intracranial pressure.</article-title>
+            <source>J Neurosurg</source>
+            <year>1968</year>
+            <month>Feb</month>
+            <volume>28</volume>
+            <issue>2</issue>
+            <fpage>118</fpage>
+            <page-range>118-23</page-range>
+            <pub-id pub-id-type="pmid">4966167</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28022.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bahloul</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Chaari</surname>
+                <given-names>AN</given-names>
+              </name>
+              <name>
+                <surname>Kallel</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Khabir</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Ayadi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Charfeddine</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Hergafi</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Chaari</surname>
+                <given-names>AD</given-names>
+              </name>
+              <name>
+                <surname>Chelly</surname>
+                <given-names>HE</given-names>
+              </name>
+              <name>
+                <surname>Ben Hamida</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Rekik</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Bouaziz</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Neurogenic pulmonary edema due to traumatic brain injury: evidence of cardiac dysfunction.</article-title>
+            <source>Am J Crit Care</source>
+            <year>2006</year>
+            <month>Sep</month>
+            <volume>15</volume>
+            <issue>5</issue>
+            <fpage>462</fpage>
+            <page-range>462-70</page-range>
+            <pub-id pub-id-type="pmid">16926367</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28022.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mayer</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>Lin</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Homma</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Solomon</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Lennihan</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Sherman</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Fink</surname>
+                <given-names>ME</given-names>
+              </name>
+              <name>
+                <surname>Beckford</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Klebanoff</surname>
+                <given-names>LM</given-names>
+              </name>
+            </person-group>
+            <article-title>Myocardial injury and left ventricular performance after subarachnoid hemorrhage.</article-title>
+            <source>Stroke</source>
+            <year>1999</year>
+            <month>Apr</month>
+            <volume>30</volume>
+            <issue>4</issue>
+            <fpage>780</fpage>
+            <page-range>780-6</page-range>
+            <pub-id pub-id-type="pmid">10187879</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28022.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bean</surname>
+                <given-names>JW</given-names>
+              </name>
+              <name>
+                <surname>Beckman</surname>
+                <given-names>DL</given-names>
+              </name>
+            </person-group>
+            <article-title>Centrogenic pulmonary pathology in mechanical head injury.</article-title>
+            <source>J Appl Physiol</source>
+            <year>1969</year>
+            <month>Dec</month>
+            <volume>27</volume>
+            <issue>6</issue>
+            <fpage>807</fpage>
+            <page-range>807-12</page-range>
+            <pub-id pub-id-type="pmid">5353203</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28022.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hall</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>O'Kane</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>The Extracranial Consequences of Subarachnoid Hemorrhage.</article-title>
+            <source>World Neurosurg</source>
+            <year>2018</year>
+            <month>Jan</month>
+            <volume>109</volume>
+            <fpage>381</fpage>
+            <page-range>381-392</page-range>
+            <pub-id pub-id-type="pmid">29051110</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28022.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kitagawa</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Yamamoto</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Kureshima</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Maeda</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Nishizawa</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>[Takotsubo Cardiomyopathy and Neurogenic Pulmonary Edema Following Fibrinolytic Therapy for Embolic Stroke:A Case Report].</article-title>
+            <source>No Shinkei Geka</source>
+            <year>2018</year>
+            <month>Jan</month>
+            <volume>46</volume>
+            <issue>1</issue>
+            <fpage>21</fpage>
+            <page-range>21-25</page-range>
+            <pub-id pub-id-type="pmid">29362281</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28022.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bonello</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Pullicino</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Larner</surname>
+                <given-names>AJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Acute pulmonary oedema: not always cardiogenic.</article-title>
+            <source>J R Coll Physicians Edinb</source>
+            <year>2017</year>
+            <month>Mar</month>
+            <volume>47</volume>
+            <issue>1</issue>
+            <fpage>57</fpage>
+            <page-range>57-59</page-range>
+            <pub-id pub-id-type="pmid">28569284</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28022.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>SARNOFF</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>BERGLUND</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>SARNOFF</surname>
+                <given-names>LC</given-names>
+              </name>
+            </person-group>
+            <article-title>Neurohemodynamics of pulmonary edema. III. Estimated changes in pulmonary blood volume accompanying systemic vasoconstriction and vasodilation.</article-title>
+            <source>J Appl Physiol</source>
+            <year>1953</year>
+            <month>Jan</month>
+            <volume>5</volume>
+            <issue>7</issue>
+            <fpage>367</fpage>
+            <page-range>367-74</page-range>
+            <pub-id pub-id-type="pmid">13022604</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28022.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Horton</surname>
+                <given-names>JM</given-names>
+              </name>
+            </person-group>
+            <article-title>The anaesthetist's contribution to the care of head injuries.</article-title>
+            <source>Br J Anaesth</source>
+            <year>1976</year>
+            <month>Aug</month>
+            <volume>48</volume>
+            <issue>8</issue>
+            <fpage>767</fpage>
+            <page-range>767-71</page-range>
+            <pub-id pub-id-type="pmid">779815</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-28022.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Herbst</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Tippler</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Shams</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Simmet</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>A role for endothelin in bicuculline-induced neurogenic pulmonary oedema in rats.</article-title>
+            <source>Br J Pharmacol</source>
+            <year>1995</year>
+            <month>Jul</month>
+            <volume>115</volume>
+            <issue>5</issue>
+            <fpage>753</fpage>
+            <page-range>753-60</page-range>
+            <pub-id pub-id-type="pmid">8548173</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

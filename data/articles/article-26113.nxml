@@ -1,0 +1,2312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-26113" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Octreotide Scan</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Kapoor</surname>
+            <given-names>Mayank</given-names>
+          </name>
+          <aff>All India Institute of Medical Sciences (AIIMS) Rishikesh</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Kasi</surname>
+            <given-names>Anup</given-names>
+          </name>
+          <aff>University of Kansas</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Mayank Kapoor declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Anup Kasi declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>31</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-26113.s1" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Octreotide scan is also known as somatostatin receptor scintigraphy. This scintigraphy is useful in the detection of carcinoid tumors&#x000a0;and various neuroendocrine tumors. Neuroendocrine cells appear in many areas, including the brain, thyroid, lungs, and GIT. For the detection of pancreatic neuroendocrine tumors,&#x000a0;an octreotide scan has a sensitivity of 75&#x000a0;to 100%.<xref ref-type="bibr" rid="article-26113.r1">[1]</xref>&#x000a0;Octreotide is a synthetic analog of somatostatin, which is an endogenous peptide released by neuroendocrine cells, activated immune cells, and various inflammatory cells.<xref ref-type="bibr" rid="article-26113.r2">[2]</xref>&#x000a0;</p>
+        <p>Octreotide radiolabeling is with indium-111. This radiolabelled tracer then attaches to the tumor cells having the receptor for somatostatin. Somatostatin exerts its anti-proliferative and anti-secretory function after attaching with one of the five types of somatostatin receptors (SSTR1- SSTR5), which are G-protein coupled receptors (GPCRs). These receptors show their presence in the brain, pituitary, pancreas, thyroid, spleen, kidney, GIT, blood vessels, peripheral nervous system, and immune cells.<xref ref-type="bibr" rid="article-26113.r3">[3]</xref>&#x000a0;SSTRs maximally express on well-differentiated neuroendocrine tumors (NETs). SSTR-2 shows maximum expression, followed by SSTR 1,5,3&#x000a0;and 4.<xref ref-type="bibr" rid="article-26113.r4">[4]</xref>&#x000a0;</p>
+        <p>There are two types of imaging based on these receptors; the first and commonest is an octreotide scan utilizing 111 In-DTPA (diethylenetriamine pentaacetate)-D-Phe-1-octreotide&#x000a0;and binding mainly to SSTR 2&#x000a0;and 5. This scan provides a planar whole-body image, which in modern medicine fuses with single-photon emission computed tomography (SPECT) and CT. Octreotide scan specificity and the anatomic details of SPECT/CT are thereby combined.<xref ref-type="bibr" rid="article-26113.r5">[5]</xref>&#x000a0;The second and newest somatostatin receptor-based imaging uses positron emitter gallium&#x000a0;(Ga) to mark somatostatin analogs, including Ga-DOTATOC (DOTA-Tyr3-octreotide), Ga-DOTANOC (1-Nal3-octreotide) and Ga-DOTATATE (DOTA-(Tyr)-octreotate), whose uptake is measured by PET. Gamma cameras work to detect the radioactive octreotide tracer,&#x000a0;and that tells the location of the tumor cells. An octreotide scan has shown to localize 86% carcinoids, 89% neuroblastomas, 86% pheochromocytomas, 94% paragangliomas, and 80% primitive neuroectodermal tumors (PNETs). Its utility in detecting medullary thyroid carcinomas and pituitary tumors is&#x000a0;comparatively less.</p>
+      </sec>
+      <sec id="article-26113.s2" sec-type="Procedures">
+        <title>Procedures</title>
+        <p>Typically, three visits to the Nuclear Medicine Department might be necessary. In the first visit, a radioactive tracer is injected into the vein. Recommendation for the administration of 111-In pentetreotide is 5 mega Becquerel/kilogram (0.14 milliCurie/kilogram) for children and 222 mega Becquerel (6 milliCurie) for adults, amounting to 11 to 20 mg pentetreotide. 111 Indium has a half-life of 2.8 days.<xref ref-type="bibr" rid="article-26113.r6">[6]</xref></p>
+        <p>Pentetreotide gets cleared rapidly by kidneys with just 1/3rd dose remaining in blood after 10 minutes. Elimination is principally by kidneys, but dialysability status is not known. The patient will be on an imaging table under a special detector, namely a gamma camera. The camera itself is non-radiation producing. It stays near the body part, which is under focus for imaging. CT scans may also be an option for better anatomical localization. Imaging may take place over periods of &#x000a0;4&#x000a0;to 48 hours (usually at 4,24 and 48 hours) after injection.<xref ref-type="bibr" rid="article-26113.r7">[7]</xref><xref ref-type="bibr" rid="article-26113.r8">[8]</xref></p>
+      </sec>
+      <sec id="article-26113.s3" sec-type="Indications">
+        <title>Indications</title>
+        <p>The scan is useful in the localization of primary neuroendocrine tumors (NET), showing somatostatin receptors. It is also used in follow-up, staging after treatment, and detection of metastasis. NETs arise from about 17 different cell types, which are present in the skin, lung, hepatobiliary system, genito-urinary tract, thyroid, and gastrointestinal tract <xref ref-type="bibr" rid="article-26113.r9">[9]</xref>. Commonest primary sites are lung, rectum, and small intestines.<xref ref-type="bibr" rid="article-26113.r10">[10]</xref>&#x000a0;Significant expression of somatostatin receptors presents in&#x000a0;adrenal medulla tumors (pheochromocytoma, neuroblastoma, ganglioneuroma, and paraganglioma), gastroenteropancreatic neuroendocrine tumors [formerly classified into carcinoid, gastrinoma, glucagonoma, vasoactive intestinal polypeptide (VIP), pancreatic polypeptide(PP) secreting tumor or non-functioning tumors] which is recently classified by WHO as low, intermediate and high grade (G1, G2, G3, respectively).<xref ref-type="bibr" rid="article-26113.r8">[8]</xref>&#x000a0;[In]-pentetreotide can be useful to diagnose pheochromocytoma. However, it is considered inferior to MIBG in benign intra-adrenal pheochromocytoma.<xref ref-type="bibr" rid="article-26113.r11">[11]</xref><xref ref-type="bibr" rid="article-26113.r12">[12]</xref><xref ref-type="bibr" rid="article-26113.r13">[13]</xref><xref ref-type="bibr" rid="article-26113.r14">[14]</xref><xref ref-type="bibr" rid="article-26113.r15">[15]</xref><xref ref-type="bibr" rid="article-26113.r16">[16]</xref>&#x000a0;</p>
+        <p>Van der Harst&#x000a0;<italic toggle="yes">et al.</italic>&#x000a0;used preoperatively [I]-MIBG scintigraphy and radio-labeled somatostatin analog for diagnosis of pheochromocytoma and concluded that somatostatin receptor imaging might be considered a supplement to MIBG scintigraphy in pheochromocytoma and paraganglioma patients with suspected metastasis.<xref ref-type="bibr" rid="article-26113.r17">[17]</xref>&#x000a0;New somatostatin analogs like DOTA-Tyr3-octreotide (DOTATOC) are showing good results in imaging with a high affinity for somatostatin receptors. Moreover, they are stable and easy to label.<xref ref-type="bibr" rid="article-26113.r18">[18]</xref>&#x000a0;Even though existing somatostatin based tracers mostly have affinities for somatostatin receptor subtype 2, that subtype is not always present on pheochromocytoma and paraganglioma cells. The new substrates like DOTANOC have an affinity for other somatostatin receptor subtypes&#x000a0;also.<xref ref-type="bibr" rid="article-26113.r19">[19]</xref><xref ref-type="bibr" rid="article-26113.r20">[20]</xref>&#x000a0;DOTATOC and DOTANOC labeled with PET radiotracer [Ga] have shown great results for imaging the somatostatin receptor-positive tumors in comparison with non PET &#x000a0;[In]-pentetreotide scintigraphy; this again exemplifies better performance of PET over scintigraphy in general.<xref ref-type="bibr" rid="article-26113.r19">[19]</xref><xref ref-type="bibr" rid="article-26113.r21">[21]</xref><xref ref-type="bibr" rid="article-26113.r22">[22]</xref>&#x000a0;Expression of NET and somatostatin receptors can be lost in dedifferentiated tumors, which may result in false-negative image reporting in metastatic disease.<xref ref-type="bibr" rid="article-26113.r17">[17]</xref><xref ref-type="bibr" rid="article-26113.r23">[23]</xref><xref ref-type="bibr" rid="article-26113.r14">[14]</xref>&#x000a0;In metastatic tumors associated with an SDHB mutation, [F]-FDG PET shows superiority.<xref ref-type="bibr" rid="article-26113.r24">[24]</xref>&#x000a0;</p>
+        <p>111-In octreotide scan was used in localizing the presence of an intracardiac pheochromocytoma in a 13-year old boy. In that case, even a CT scan of the abdomen, pelvis, chest and whole body meta-iodo-benzyl guanidine (MIBG) scan could not&#x000a0;localize the lesion.<xref ref-type="bibr" rid="article-26113.r25">[25]</xref>&#x000a0;This case shows the importance of octreotide scanning. Octreotide scan&#x000a0;is beneficial in the diagnosis and follow-up of cases of thymic carcinoid tumors also which are associated with multiple endocrine neoplasias (MEN).<xref ref-type="bibr" rid="article-26113.r26">[26]</xref>&#x000a0;Somatostatin analogs (technetium depreotide, DTPA) are used in imaging of pituitary tumors. Pituitary prolactinoma and adrenocorticotrophic hormone (ACTH) secreting adenomas can't be localized, but clinically non-functioning pituitary adenomas may be visible in 75% of cases with 111In-DTPA-octreotide.<xref ref-type="bibr" rid="article-26113.r27">[27]</xref><xref ref-type="bibr" rid="article-26113.r28">[28]</xref><xref ref-type="bibr" rid="article-26113.r29">[29]</xref>&#x000a0;Positive test results mean patients with growth hormone (GH) and thyroid-stimulating hormone (TSH) secreting pituitary tumors may have a good suppressive effect of octreotide on hormone release by these tumors.<xref ref-type="bibr" rid="article-26113.r27">[27]</xref>&#x000a0;Other tumors which can be detected include:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Merkel cell tumor of the skin</p>
+          </list-item>
+          <list-item>
+            <p>Small-cell lung carcinoma</p>
+          </list-item>
+          <list-item>
+            <p>Meningioma</p>
+          </list-item>
+          <list-item>
+            <p>Astrocytoma</p>
+          </list-item>
+          <list-item>
+            <p>Breast carcinoma</p>
+          </list-item>
+          <list-item>
+            <p>Lymphoma</p>
+          </list-item>
+        </list>
+        <p>In a study, an octreotide scan helped to localize insulinomas among 4 out of 17 (24%) patients. This technique also detected ectopic insulinoma and malignant insulinoma. Only an octreotide scan could help in the localization of the ectopic insulinoma. Importantly, treatment with octreotide before the octreotide scan did not appear to alter tumor detectability in this series. Pre-treatment with octreotide may saturate the somatostatin receptors, but this treatment within a week before the scan can improve contrast and tumor detectability.<xref ref-type="bibr" rid="article-26113.r30">[30]</xref><xref ref-type="bibr" rid="article-26113.r31">[31]</xref><xref ref-type="bibr" rid="article-26113.r32">[32]</xref>&#x000a0;Out of&#x000a0;five patients on treatment with octreotide, three showed positive scintigraphy, which is in contrast to only one patient showing positivity amongst the twelve who did not get any treatment. Octreotide scan may underestimate patients with insulinoma that respond to octreotide treatment. Six out of ten patients that responded to octreotide had no uptake of tracer. Surprisingly, all benign insulinomas detectable with an octreotide scan responded to octreotide treatment. As mentioned before, the octreotide scan followed up by SPECT could result in the localization of only 24% insulinomas.<xref ref-type="bibr" rid="article-26113.r33">[33]</xref>&#x000a0;In the detection of carcinoid tumors, there is a high sensitivity of over 90%.<xref ref-type="bibr" rid="article-26113.r34">[34]</xref><xref ref-type="bibr" rid="article-26113.r35">[35]</xref>&#x000a0;Still, some carcinoids have a limited number of somatostatin receptor sites with resulting in low affinity for octreotide; this occurs in less than 10% of carcinoids and other neuroendocrine tumors.<xref ref-type="bibr" rid="article-26113.r36">[36]</xref>&#x000a0;</p>
+        <p>Liver metastases from carcinoids can demonstrate similar tracer accumulation like that of the surrounding liver; hence it may not be easy to distinguish it from normal hepatic tissue. Here subtraction technique using 99m-technetium colloid and SPECT is useful to arrive at a diagnosis.<xref ref-type="bibr" rid="article-26113.r6">[6]</xref>&#x000a0;A case report shows the use of a pre and post-operative octreotide scan in a patient in whom the CT scan was equivocal, and the ideal surgical excision of the indistinct lesion was doubtful. Octreotide scan allowed for a limited resection with preservation of the lung parenchyma. It showed that octreotide scanning is beneficial in the management of carcinoids.<xref ref-type="bibr" rid="article-26113.r37">[37]</xref>&#x000a0;</p>
+        <p>Somatostatin receptors are present in 80% of gastrinomas. Pentetreotide scan successfully localizes these neoplasms (primary or nodal metastases) in up to 78 to 86% cases.<xref ref-type="bibr" rid="article-26113.r38">[38]</xref><xref ref-type="bibr" rid="article-26113.r39">[39]</xref><xref ref-type="bibr" rid="article-26113.r40">[40]</xref>&#x000a0; Gibril et al., in a study of 80 patients, found that CT, MRI, or angiography resulted in the identification of extrahepatic gastrinomas in 28&#x000a0; to 31% &#x000a0;patients, whereas ultrasound led to the detection of extrahepatic tumors in 9% of patients.<xref ref-type="bibr" rid="article-26113.r41">[41]</xref>&#x000a0;Pentetreotide scan not just localizes the primary lesions, but also can be useful in screening for metastases and monitoring therapeutic response.<xref ref-type="bibr" rid="article-26113.r41">[41]</xref>&#x000a0;</p>
+        <p>Certain autoimmune/granulomatous disorders (like sarcoidosis) can occasionally demonstrate octreotide takeup via overexpression of somatostatin receptors. Octreotide scanning correlates with the degree of dyspnea in sarcoidosis patients and more accurately quantifies the degree of pulmonary involvement compared with the radiological assessment. Octreotide scan can be useful in monitoring idiopathic interstitial pneumonia (IIP) in specific histological types [non-specific interstitial pneumonia (NSIP) and desquamative interstitial pneumonia (DIP)]. It may even substitute HRCT in the assessment of usual interstitial pneumonia (UIP) for its excellent accuracy.<xref ref-type="bibr" rid="article-26113.r42">[42]</xref> Apart from these, other uses include recognizing metastatic tumors for peptide receptor radionuclide therapy (PRRT) and recognizing its effect. Krenning score&#x000a0;is used in grading the uptake intensity of neuroendocrine tumors on somatostatin receptor imaging modalities like octreotide scan.<xref ref-type="bibr" rid="article-26113.r1">[1]</xref> Typically PRRT is taken into consideration if this score is &#x0003e;2. The grading is as follows:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Grade 1: uptake &#x0003c; normal liver</p>
+          </list-item>
+          <list-item>
+            <p>Grade 2: uptake = normal liver</p>
+          </list-item>
+          <list-item>
+            <p>Grade 3: uptake &#x0003e; normal liver</p>
+          </list-item>
+          <list-item>
+            <p>Grade 4: uptake &#x0003e; spleen or kidneys</p>
+          </list-item>
+        </list>
+        <p>Octreotide scan performs even better to detect liver metastases than it does in primary tumor detection with sensitivity ranging from 49-91%. In different studies to identify NET metastases, Octreotide scanning was able to identify new lesions in 47% and 4.6% patients, respectively, whose lesions were missed by CT or MRI.<xref ref-type="bibr" rid="article-26113.r43">[43]</xref><xref ref-type="bibr" rid="article-26113.r44">[44]</xref><xref ref-type="bibr" rid="article-26113.r45">[45]</xref><xref ref-type="bibr" rid="article-26113.r46">[46]</xref><xref ref-type="bibr" rid="article-26113.r47">[47]</xref>&#x000a0;</p>
+      </sec>
+      <sec id="article-26113.s4" sec-type="Interfering Factors">
+        <title>Interfering Factors</title>
+        <p>Patients on octreotide therapy or somatostatin therapy must stop treatment. Long-acting octreotide should be stopped 4 to 6 months before the scan. These medications may affect the test results, although conflicting results may occur as previously described. Dose alteration may be necessary in cases of renal impairment. This test has a lot of factors contributing to false positive and negative results. A false-positive test may occur in:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Respiratory tract infections/ other infections</p>
+          </list-item>
+          <list-item>
+            <p>Pulmonary/pleural collections after radiotherapy</p>
+          </list-item>
+          <list-item>
+            <p>Recent surgical/colostomy site</p>
+          </list-item>
+          <list-item>
+            <p>Tracer accumulation in normal sites(pituitary, thyroid, liver, spleen, kidney, intestines, gall bladder, ureter, bladder, stimulated adrenals)</p>
+          </list-item>
+        </list>
+        <p>A false-negative test may occur in:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Unlabeled somatostatin present as a result of octreotide therapy/ production by tumor</p>
+          </list-item>
+          <list-item>
+            <p>Different somatostatin receptors demonstrate variable affinities for radioligands, particularly insulinomas and medullary thyroid cancers.</p>
+          </list-item>
+          <list-item>
+            <p>Hepatic metastases of neuroendocrine tumors can look isointense; can correlate along with subtraction scintigraphy along with sulfur colloid or anatomical imaging (CTscan/MRI)&#x000a0;</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-26113.s5" sec-type="Complications">
+        <title>Complications</title>
+        <p>Octreotide scan is a safe procedure but may lead to minor side effects of radioactivity, as seen with other modalities.</p>
+      </sec>
+      <sec id="article-26113.s6" sec-type="Patient Safety and Education">
+        <title>Patient Safety and Education</title>
+        <p>Octreotide scan is not suitable for pregnant women because of the radiation dose. Breastfeeding females may stop breastfeeding and avoid close contact with young-ones for some time. Effective half-life (4.1 days) is greater than the physical half-life of In (2.83 days). This fact might be because of continued radioactivity accumulation within breast milk as Indium gets released from internal compartments over time.</p>
+      </sec>
+      <sec id="article-26113.s7" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>As mentioned above, octreotide scanning has a significant role in recognition of various neuroendocrine tumors, assessing their progress and recognition of metastasis, along with a greater scope of recognizing all malignancies with somatostatin receptor positivity and even autoimmune disorders also. Modern oncologic practices call for greater use of octreotide scanning.</p>
+        <p>It is quite useful in staging as well as recognition of many occult primary tumors also. It is also relatively safe as it avoids the side effects associated with the use of contrast as in CECT. Moreover, radiation exposure is also quite less. Newer studies are demonstrating the role of octreotide scans in different fields like immunology also. More studies are necessary for further utilization of this technique in various other sub-divisions.</p>
+      </sec>
+      <sec id="article-26113.s8">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=26113&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=26113">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/26113/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=26113">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-26113.s9">
+        <title>References</title>
+        <ref id="article-26113.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kwekkeboom</surname>
+                <given-names>DJ</given-names>
+              </name>
+              <name>
+                <surname>Krenning</surname>
+                <given-names>EP</given-names>
+              </name>
+            </person-group>
+            <article-title>Somatostatin receptor imaging.</article-title>
+            <source>Semin Nucl Med</source>
+            <year>2002</year>
+            <month>Apr</month>
+            <volume>32</volume>
+            <issue>2</issue>
+            <fpage>84</fpage>
+            <page-range>84-91</page-range>
+            <pub-id pub-id-type="pmid">11965603</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Patel</surname>
+                <given-names>YC</given-names>
+              </name>
+            </person-group>
+            <article-title>Somatostatin and its receptor family.</article-title>
+            <source>Front Neuroendocrinol</source>
+            <year>1999</year>
+            <month>Jul</month>
+            <volume>20</volume>
+            <issue>3</issue>
+            <fpage>157</fpage>
+            <page-range>157-98</page-range>
+            <pub-id pub-id-type="pmid">10433861</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kwekkeboom</surname>
+                <given-names>DJ</given-names>
+              </name>
+              <name>
+                <surname>Krenning</surname>
+                <given-names>EP</given-names>
+              </name>
+              <name>
+                <surname>Scheidhauer</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Lewington</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Lebtahi</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Grossman</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Vitek</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Sundin</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Pl&#x000f6;ckinger</surname>
+                <given-names>U</given-names>
+              </name>
+              <collab>Mallorca Consensus Conference participants</collab>
+              <collab>European Neuroendocrine Tumor Society</collab>
+            </person-group>
+            <article-title>ENETS Consensus Guidelines for the Standards of Care in Neuroendocrine Tumors: somatostatin receptor imaging with (111)In-pentetreotide.</article-title>
+            <source>Neuroendocrinology</source>
+            <year>2009</year>
+            <volume>90</volume>
+            <issue>2</issue>
+            <fpage>184</fpage>
+            <page-range>184-9</page-range>
+            <pub-id pub-id-type="pmid">19713709</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Balon</surname>
+                <given-names>HR</given-names>
+              </name>
+              <name>
+                <surname>Goldsmith</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Siegel</surname>
+                <given-names>BA</given-names>
+              </name>
+              <name>
+                <surname>Silberstein</surname>
+                <given-names>EB</given-names>
+              </name>
+              <name>
+                <surname>Krenning</surname>
+                <given-names>EP</given-names>
+              </name>
+              <name>
+                <surname>Lang</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Donohoe</surname>
+                <given-names>KJ</given-names>
+              </name>
+              <collab>Society of Nuclear Medicine</collab>
+            </person-group>
+            <article-title>Procedure guideline for somatostatin receptor scintigraphy with (111)In-pentetreotide.</article-title>
+            <source>J Nucl Med</source>
+            <year>2001</year>
+            <month>Jul</month>
+            <volume>42</volume>
+            <issue>7</issue>
+            <fpage>1134</fpage>
+            <page-range>1134-8</page-range>
+            <pub-id pub-id-type="pmid">11438641</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lu</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Gnanasegaran</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Buscombe</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Navalkissoor</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Single photon emission computed tomography/computed tomography in the evaluation of neuroendocrine tumours: a review of the literature.</article-title>
+            <source>Nucl Med Commun</source>
+            <year>2013</year>
+            <month>Feb</month>
+            <volume>34</volume>
+            <issue>2</issue>
+            <fpage>98</fpage>
+            <page-range>98-107</page-range>
+            <pub-id pub-id-type="pmid">23222696</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Critchley</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Octreotide scanning for carcinoid tumours.</article-title>
+            <source>Postgrad Med J</source>
+            <year>1997</year>
+            <month>Jul</month>
+            <volume>73</volume>
+            <issue>861</issue>
+            <fpage>399</fpage>
+            <page-range>399-402</page-range>
+            <pub-id pub-id-type="pmid">9338023</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bombardieri</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Ambrosini</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Aktolun</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Baum</surname>
+                <given-names>RP</given-names>
+              </name>
+              <name>
+                <surname>Bishof-Delaloye</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Del Vecchio</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Maffioli</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Mortelmans</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Oyen</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Pepe</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Chiti</surname>
+                <given-names>A</given-names>
+              </name>
+              <collab>Oncology Committee of the EANM</collab>
+            </person-group>
+            <article-title>111In-pentetreotide scintigraphy: procedure guidelines for tumour imaging.</article-title>
+            <source>Eur J Nucl Med Mol Imaging</source>
+            <year>2010</year>
+            <month>Jul</month>
+            <volume>37</volume>
+            <issue>7</issue>
+            <fpage>1441</fpage>
+            <page-range>1441-8</page-range>
+            <pub-id pub-id-type="pmid">20461371</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Balon</surname>
+                <given-names>HR</given-names>
+              </name>
+              <name>
+                <surname>Brown</surname>
+                <given-names>TL</given-names>
+              </name>
+              <name>
+                <surname>Goldsmith</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Silberstein</surname>
+                <given-names>EB</given-names>
+              </name>
+              <name>
+                <surname>Krenning</surname>
+                <given-names>EP</given-names>
+              </name>
+              <name>
+                <surname>Lang</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Dillehay</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Tarrance</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Johnson</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Stabin</surname>
+                <given-names>MG</given-names>
+              </name>
+              <collab>Society of Nuclear Medicine</collab>
+            </person-group>
+            <article-title>The SNM practice guideline for somatostatin receptor scintigraphy 2.0.</article-title>
+            <source>J Nucl Med Technol</source>
+            <year>2011</year>
+            <month>Dec</month>
+            <volume>39</volume>
+            <issue>4</issue>
+            <fpage>317</fpage>
+            <page-range>317-24</page-range>
+            <pub-id pub-id-type="pmid">22068564</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Schimmack</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Svejda</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Lawrence</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Kidd</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Modlin</surname>
+                <given-names>IM</given-names>
+              </name>
+            </person-group>
+            <article-title>The diversity and commonalities of gastroenteropancreatic neuroendocrine tumors.</article-title>
+            <source>Langenbecks Arch Surg</source>
+            <year>2011</year>
+            <month>Mar</month>
+            <volume>396</volume>
+            <issue>3</issue>
+            <fpage>273</fpage>
+            <page-range>273-98</page-range>
+            <pub-id pub-id-type="pmid">21274559</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yao</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Hassan</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Phan</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Dagohoy</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Leary</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Mares</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Abdalla</surname>
+                <given-names>EK</given-names>
+              </name>
+              <name>
+                <surname>Fleming</surname>
+                <given-names>JB</given-names>
+              </name>
+              <name>
+                <surname>Vauthey</surname>
+                <given-names>JN</given-names>
+              </name>
+              <name>
+                <surname>Rashid</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Evans</surname>
+                <given-names>DB</given-names>
+              </name>
+            </person-group>
+            <article-title>One hundred years after "carcinoid": epidemiology of and prognostic factors for neuroendocrine tumors in 35,825 cases in the United States.</article-title>
+            <source>J Clin Oncol</source>
+            <year>2008</year>
+            <month>Jun</month>
+            <day>20</day>
+            <volume>26</volume>
+            <issue>18</issue>
+            <fpage>3063</fpage>
+            <page-range>3063-72</page-range>
+            <pub-id pub-id-type="pmid">18565894</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lamberts</surname>
+                <given-names>SW</given-names>
+              </name>
+              <name>
+                <surname>Reubi</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Krenning</surname>
+                <given-names>EP</given-names>
+              </name>
+            </person-group>
+            <article-title>Validation of somatostatin receptor scintigraphy in the localization of neuroendocrine tumors.</article-title>
+            <source>Acta Oncol</source>
+            <year>1993</year>
+            <volume>32</volume>
+            <issue>2</issue>
+            <fpage>167</fpage>
+            <page-range>167-70</page-range>
+            <pub-id pub-id-type="pmid">8391830</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lastoria</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Maurea</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Vergara</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Acampa</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Varrella</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Klain</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Muto</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Bernardy</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Salvatore</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Comparison of labeled MIBG and somatostatin analogs in imaging neuroendocrine tumors.</article-title>
+            <source>Q J Nucl Med</source>
+            <year>1995</year>
+            <month>Dec</month>
+            <volume>39</volume>
+            <issue>4 Suppl 1</issue>
+            <fpage>145</fpage>
+            <page-range>145-9</page-range>
+            <pub-id pub-id-type="pmid">9002775</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tenenbaum</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Lumbroso</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Schlumberger</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Mure</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Plouin</surname>
+                <given-names>PF</given-names>
+              </name>
+              <name>
+                <surname>Caillou</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Parmentier</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Comparison of radiolabeled octreotide and meta-iodobenzylguanidine (MIBG) scintigraphy in malignant pheochromocytoma.</article-title>
+            <source>J Nucl Med</source>
+            <year>1995</year>
+            <month>Jan</month>
+            <volume>36</volume>
+            <issue>1</issue>
+            <fpage>1</fpage>
+            <page-range>1-6</page-range>
+            <pub-id pub-id-type="pmid">7799058</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kaltsas</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Korbonits</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Heintz</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Mukherjee</surname>
+                <given-names>JJ</given-names>
+              </name>
+              <name>
+                <surname>Jenkins</surname>
+                <given-names>PJ</given-names>
+              </name>
+              <name>
+                <surname>Chew</surname>
+                <given-names>SL</given-names>
+              </name>
+              <name>
+                <surname>Reznek</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Monson</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Besser</surname>
+                <given-names>GM</given-names>
+              </name>
+              <name>
+                <surname>Foley</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Britton</surname>
+                <given-names>KE</given-names>
+              </name>
+              <name>
+                <surname>Grossman</surname>
+                <given-names>AB</given-names>
+              </name>
+            </person-group>
+            <article-title>Comparison of somatostatin analog and meta-iodobenzylguanidine radionuclides in the diagnosis and localization of advanced neuroendocrine tumors.</article-title>
+            <source>J Clin Endocrinol Metab</source>
+            <year>2001</year>
+            <month>Feb</month>
+            <volume>86</volume>
+            <issue>2</issue>
+            <fpage>895</fpage>
+            <page-range>895-902</page-range>
+            <pub-id pub-id-type="pmid">11158063</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Giammarile</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Baudin</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Tenenbaum</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Lumbroso</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Schlumberger</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Rougier</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Ruffie</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Guigay</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ducreux</surname>
+                <given-names>ML</given-names>
+              </name>
+              <name>
+                <surname>Parmentier</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Somatostatin receptor imaging: a preliminary experience in forty-nine patients.</article-title>
+            <source>Q J Nucl Med</source>
+            <year>1995</year>
+            <month>Dec</month>
+            <volume>39</volume>
+            <issue>4 Suppl 1</issue>
+            <fpage>121</fpage>
+            <page-range>121-3</page-range>
+            <pub-id pub-id-type="pmid">9002768</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kwekkeboom</surname>
+                <given-names>DJ</given-names>
+              </name>
+              <name>
+                <surname>van Urk</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Pauw</surname>
+                <given-names>BK</given-names>
+              </name>
+              <name>
+                <surname>Lamberts</surname>
+                <given-names>SW</given-names>
+              </name>
+              <name>
+                <surname>Kooij</surname>
+                <given-names>PP</given-names>
+              </name>
+              <name>
+                <surname>Hoogma</surname>
+                <given-names>RP</given-names>
+              </name>
+              <name>
+                <surname>Krenning</surname>
+                <given-names>EP</given-names>
+              </name>
+            </person-group>
+            <article-title>Octreotide scintigraphy for the detection of paragangliomas.</article-title>
+            <source>J Nucl Med</source>
+            <year>1993</year>
+            <month>Jun</month>
+            <volume>34</volume>
+            <issue>6</issue>
+            <fpage>873</fpage>
+            <page-range>873-8</page-range>
+            <pub-id pub-id-type="pmid">8389841</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>van der Harst</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>de Herder</surname>
+                <given-names>WW</given-names>
+              </name>
+              <name>
+                <surname>Bruining</surname>
+                <given-names>HA</given-names>
+              </name>
+              <name>
+                <surname>Bonjer</surname>
+                <given-names>HJ</given-names>
+              </name>
+              <name>
+                <surname>de Krijger</surname>
+                <given-names>RR</given-names>
+              </name>
+              <name>
+                <surname>Lamberts</surname>
+                <given-names>SW</given-names>
+              </name>
+              <name>
+                <surname>van de Meiracker</surname>
+                <given-names>AH</given-names>
+              </name>
+              <name>
+                <surname>Boomsma</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Stijnen</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Krenning</surname>
+                <given-names>EP</given-names>
+              </name>
+              <name>
+                <surname>Bosman</surname>
+                <given-names>FT</given-names>
+              </name>
+              <name>
+                <surname>Kwekkeboom</surname>
+                <given-names>DJ</given-names>
+              </name>
+            </person-group>
+            <article-title>[(123)I]metaiodobenzylguanidine and [(111)In]octreotide uptake in begnign and malignant pheochromocytomas.</article-title>
+            <source>J Clin Endocrinol Metab</source>
+            <year>2001</year>
+            <month>Feb</month>
+            <volume>86</volume>
+            <issue>2</issue>
+            <fpage>685</fpage>
+            <page-range>685-93</page-range>
+            <pub-id pub-id-type="pmid">11158032</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lin</surname>
+                <given-names>YC</given-names>
+              </name>
+              <name>
+                <surname>Hung</surname>
+                <given-names>GU</given-names>
+              </name>
+              <name>
+                <surname>Luo</surname>
+                <given-names>TY</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>CH</given-names>
+              </name>
+              <name>
+                <surname>Hsia</surname>
+                <given-names>CC</given-names>
+              </name>
+              <name>
+                <surname>Hen</surname>
+                <given-names>SL</given-names>
+              </name>
+              <name>
+                <surname>Ho</surname>
+                <given-names>YJ</given-names>
+              </name>
+              <name>
+                <surname>Lin</surname>
+                <given-names>WY</given-names>
+              </name>
+            </person-group>
+            <article-title>A comparison of biodistribution between 111In-DTPA octreotide and 111In-DOTATOC in rats bearing pancreatic tumors.</article-title>
+            <source>J Vet Med Sci</source>
+            <year>2006</year>
+            <month>Apr</month>
+            <volume>68</volume>
+            <issue>4</issue>
+            <fpage>367</fpage>
+            <page-range>367-71</page-range>
+            <pub-id pub-id-type="pmid">16679728</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wild</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>M&#x000e4;cke</surname>
+                <given-names>HR</given-names>
+              </name>
+              <name>
+                <surname>Waser</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Reubi</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Ginj</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Rasch</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>M&#x000fc;ller-Brand</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Hofmann</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>68Ga-DOTANOC: a first compound for PET imaging with high affinity for somatostatin receptor subtypes 2 and 5.</article-title>
+            <source>Eur J Nucl Med Mol Imaging</source>
+            <year>2005</year>
+            <month>Jun</month>
+            <volume>32</volume>
+            <issue>6</issue>
+            <fpage>724</fpage>
+            <pub-id pub-id-type="pmid">15551131</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wild</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Schmitt</surname>
+                <given-names>JS</given-names>
+              </name>
+              <name>
+                <surname>Ginj</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>M&#x000e4;cke</surname>
+                <given-names>HR</given-names>
+              </name>
+              <name>
+                <surname>Bernard</surname>
+                <given-names>BF</given-names>
+              </name>
+              <name>
+                <surname>Krenning</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>De Jong</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Wenger</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Reubi</surname>
+                <given-names>JC</given-names>
+              </name>
+            </person-group>
+            <article-title>DOTA-NOC, a high-affinity ligand of somatostatin receptor subtypes 2, 3 and 5 for labelling with various radiometals.</article-title>
+            <source>Eur J Nucl Med Mol Imaging</source>
+            <year>2003</year>
+            <month>Oct</month>
+            <volume>30</volume>
+            <issue>10</issue>
+            <fpage>1338</fpage>
+            <page-range>1338-47</page-range>
+            <pub-id pub-id-type="pmid">12937948</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Buchmann</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Henze</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Engelbrecht</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Eisenhut</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Runz</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Sch&#x000e4;fer</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Schilling</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Haufe</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Herrmann</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Haberkorn</surname>
+                <given-names>U</given-names>
+              </name>
+            </person-group>
+            <article-title>Comparison of 68Ga-DOTATOC PET and 111In-DTPAOC (Octreoscan) SPECT in patients with neuroendocrine tumours.</article-title>
+            <source>Eur J Nucl Med Mol Imaging</source>
+            <year>2007</year>
+            <month>Oct</month>
+            <volume>34</volume>
+            <issue>10</issue>
+            <fpage>1617</fpage>
+            <page-range>1617-26</page-range>
+            <pub-id pub-id-type="pmid">17520251</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Goldsmith</surname>
+                <given-names>SJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Update on nuclear medicine imaging of neuroendocrine tumors.</article-title>
+            <source>Future Oncol</source>
+            <year>2009</year>
+            <month>Feb</month>
+            <volume>5</volume>
+            <issue>1</issue>
+            <fpage>75</fpage>
+            <page-range>75-84</page-range>
+            <pub-id pub-id-type="pmid">19243300</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bhatia</surname>
+                <given-names>KS</given-names>
+              </name>
+              <name>
+                <surname>Ismail</surname>
+                <given-names>MM</given-names>
+              </name>
+              <name>
+                <surname>Sahdev</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Rockall</surname>
+                <given-names>AG</given-names>
+              </name>
+              <name>
+                <surname>Hogarth</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Canizales</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Avril</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Monson</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Grossman</surname>
+                <given-names>AB</given-names>
+              </name>
+              <name>
+                <surname>Reznek</surname>
+                <given-names>RH</given-names>
+              </name>
+            </person-group>
+            <article-title>123I-metaiodobenzylguanidine (MIBG) scintigraphy for the detection of adrenal and extra-adrenal phaeochromocytomas: CT and MRI correlation.</article-title>
+            <source>Clin Endocrinol (Oxf)</source>
+            <year>2008</year>
+            <month>Aug</month>
+            <volume>69</volume>
+            <issue>2</issue>
+            <fpage>181</fpage>
+            <page-range>181-8</page-range>
+            <pub-id pub-id-type="pmid">18394016</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Timmers</surname>
+                <given-names>HJ</given-names>
+              </name>
+              <name>
+                <surname>Kozupa</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>CC</given-names>
+              </name>
+              <name>
+                <surname>Carrasquillo</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Ling</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Eisenhofer</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Adams</surname>
+                <given-names>KT</given-names>
+              </name>
+              <name>
+                <surname>Solis</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Lenders</surname>
+                <given-names>JW</given-names>
+              </name>
+              <name>
+                <surname>Pacak</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Superiority of fluorodeoxyglucose positron emission tomography to other functional imaging techniques in the evaluation of metastatic SDHB-associated pheochromocytoma and paraganglioma.</article-title>
+            <source>J Clin Oncol</source>
+            <year>2007</year>
+            <month>Jun</month>
+            <day>01</day>
+            <volume>25</volume>
+            <issue>16</issue>
+            <fpage>2262</fpage>
+            <page-range>2262-9</page-range>
+            <pub-id pub-id-type="pmid">17538171</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lin</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Palafox</surname>
+                <given-names>BA</given-names>
+              </name>
+              <name>
+                <surname>Jackson</surname>
+                <given-names>HA</given-names>
+              </name>
+              <name>
+                <surname>Cohen</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Gazzaniga</surname>
+                <given-names>AB</given-names>
+              </name>
+            </person-group>
+            <article-title>Cardiac pheochromocytoma: resection after diagnosis by 111-indium octreotide scan.</article-title>
+            <source>Ann Thorac Surg</source>
+            <year>1999</year>
+            <month>Feb</month>
+            <volume>67</volume>
+            <issue>2</issue>
+            <fpage>555</fpage>
+            <page-range>555-8</page-range>
+            <pub-id pub-id-type="pmid">10197697</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r26">
+          <label>26</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Satta</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ahonen</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Parkkila</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Leinonen</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Apaja-Sarkkinen</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Lepoj&#x000e4;rvi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Juvonen</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Multiple endocrine neoplastic-associated thymic carcinoid tumour in close relatives: octreotide scan as a new diagnostic and follow-up modality. Two case reports.</article-title>
+            <source>Scand Cardiovasc J</source>
+            <year>1999</year>
+            <volume>33</volume>
+            <issue>1</issue>
+            <fpage>49</fpage>
+            <page-range>49-53</page-range>
+            <pub-id pub-id-type="pmid">10093860</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r27">
+          <label>27</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lamberts</surname>
+                <given-names>SW</given-names>
+              </name>
+              <name>
+                <surname>Hofland</surname>
+                <given-names>LJ</given-names>
+              </name>
+              <name>
+                <surname>de Herder</surname>
+                <given-names>WW</given-names>
+              </name>
+              <name>
+                <surname>Kwekkeboom</surname>
+                <given-names>DJ</given-names>
+              </name>
+              <name>
+                <surname>Reubi</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Krenning</surname>
+                <given-names>EP</given-names>
+              </name>
+            </person-group>
+            <article-title>Octreotide and related somatostatin analogs in the diagnosis and treatment of pituitary disease and somatostatin receptor scintigraphy.</article-title>
+            <source>Front Neuroendocrinol</source>
+            <year>1993</year>
+            <month>Jan</month>
+            <volume>14</volume>
+            <issue>1</issue>
+            <fpage>27</fpage>
+            <page-range>27-55</page-range>
+            <pub-id pub-id-type="pmid">8097480</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r28">
+          <label>28</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Okuyucu</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Alagoz</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Arslan</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Taslipinar</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Deveci</surname>
+                <given-names>MS</given-names>
+              </name>
+              <name>
+                <surname>Bolu</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Thyrotropinoma with Graves' disease detected by the fusion of indium-111 octreotide scintigraphy and pituitary magnetic resonance imaging.</article-title>
+            <source>Indian J Nucl Med</source>
+            <year>2016</year>
+            <season>Apr-Jun</season>
+            <volume>31</volume>
+            <issue>2</issue>
+            <fpage>141</fpage>
+            <page-range>141-3</page-range>
+            <pub-id pub-id-type="pmid">27095865</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r29">
+          <label>29</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Klausen</surname>
+                <given-names>TL</given-names>
+              </name>
+              <name>
+                <surname>Mortensen</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>de Nijs</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Andersen</surname>
+                <given-names>FL</given-names>
+              </name>
+              <name>
+                <surname>H&#x000f8;jgaard</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Beyer</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Holm</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Intravenous contrast-enhanced CT can be used for CT-based attenuation correction in clinical (111)In-octreotide SPECT/CT.</article-title>
+            <source>EJNMMI Phys</source>
+            <year>2015</year>
+            <month>Dec</month>
+            <volume>2</volume>
+            <issue>1</issue>
+            <fpage>3</fpage>
+            <pub-id pub-id-type="pmid">26501805</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r30">
+          <label>30</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Soresi</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Invernizzi</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Boffi</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Possa</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Bombardieri</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Ciavarella</surname>
+                <given-names>GP</given-names>
+              </name>
+              <name>
+                <surname>Liuzzi</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Intensification of 111In-DTPA-octreotide scintigraphy by means of pretreatment with cold octreotide in small cell lung cancer.</article-title>
+            <source>Lung Cancer</source>
+            <year>1997</year>
+            <month>Jul</month>
+            <volume>17</volume>
+            <issue>2-3</issue>
+            <fpage>231</fpage>
+            <page-range>231-8</page-range>
+            <pub-id pub-id-type="pmid">9237158</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r31">
+          <label>31</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Vaccarili</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Lococo</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Fabiani</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Staffilano</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Clinical diagnostic application of 111In-DTPA-octreotide scintigraphy in small cell lung cancer.</article-title>
+            <source>Tumori</source>
+            <year>2000</year>
+            <season>May-Jun</season>
+            <volume>86</volume>
+            <issue>3</issue>
+            <fpage>224</fpage>
+            <page-range>224-8</page-range>
+            <pub-id pub-id-type="pmid">10939603</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r32">
+          <label>32</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>D&#x000f6;rr</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>R&#x000e4;th</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>Sautter-Bihl</surname>
+                <given-names>ML</given-names>
+              </name>
+              <name>
+                <surname>Guzman</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Bach</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Adrian</surname>
+                <given-names>HJ</given-names>
+              </name>
+              <name>
+                <surname>Bihl</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Improved visualization of carcinoid liver metastases by indium-111 pentetreotide scintigraphy following treatment with cold somatostatin analogue.</article-title>
+            <source>Eur J Nucl Med</source>
+            <year>1993</year>
+            <month>May</month>
+            <volume>20</volume>
+            <issue>5</issue>
+            <fpage>431</fpage>
+            <page-range>431-3</page-range>
+            <pub-id pub-id-type="pmid">8100192</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r33">
+          <label>33</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Vezzosi</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Bennet</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Rochaix</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Courbon</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Selves</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Pradere</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Buscail</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Susini</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Caron</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Octreotide in insulinoma patients: efficacy on hypoglycemia, relationships with Octreoscan scintigraphy and immunostaining with anti-sst2A and anti-sst5 antibodies.</article-title>
+            <source>Eur J Endocrinol</source>
+            <year>2005</year>
+            <month>May</month>
+            <volume>152</volume>
+            <issue>5</issue>
+            <fpage>757</fpage>
+            <page-range>757-67</page-range>
+            <pub-id pub-id-type="pmid">15879362</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r34">
+          <label>34</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kwekkeboom</surname>
+                <given-names>DJ</given-names>
+              </name>
+              <name>
+                <surname>Krenning</surname>
+                <given-names>EP</given-names>
+              </name>
+              <name>
+                <surname>Bakker</surname>
+                <given-names>WH</given-names>
+              </name>
+              <name>
+                <surname>Oei</surname>
+                <given-names>HY</given-names>
+              </name>
+              <name>
+                <surname>Kooij</surname>
+                <given-names>PP</given-names>
+              </name>
+              <name>
+                <surname>Lamberts</surname>
+                <given-names>SW</given-names>
+              </name>
+            </person-group>
+            <article-title>Somatostatin analogue scintigraphy in carcinoid tumours.</article-title>
+            <source>Eur J Nucl Med</source>
+            <year>1993</year>
+            <month>Apr</month>
+            <volume>20</volume>
+            <issue>4</issue>
+            <fpage>283</fpage>
+            <page-range>283-92</page-range>
+            <pub-id pub-id-type="pmid">8491220</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r35">
+          <label>35</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Olsen</surname>
+                <given-names>JO</given-names>
+              </name>
+              <name>
+                <surname>Pozderac</surname>
+                <given-names>RV</given-names>
+              </name>
+              <name>
+                <surname>Hinkle</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Hill</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>O'Dorisio</surname>
+                <given-names>TM</given-names>
+              </name>
+              <name>
+                <surname>Schirmer</surname>
+                <given-names>WJ</given-names>
+              </name>
+              <name>
+                <surname>Ellison</surname>
+                <given-names>EC</given-names>
+              </name>
+              <name>
+                <surname>O'Dorisio</surname>
+                <given-names>MS</given-names>
+              </name>
+            </person-group>
+            <article-title>Somatostatin receptor imaging of neuroendocrine tumors with indium-111 pentetreotide (Octreoscan).</article-title>
+            <source>Semin Nucl Med</source>
+            <year>1995</year>
+            <month>Jul</month>
+            <volume>25</volume>
+            <issue>3</issue>
+            <fpage>251</fpage>
+            <page-range>251-61</page-range>
+            <pub-id pub-id-type="pmid">7570044</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r36">
+          <label>36</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Krenning</surname>
+                <given-names>EP</given-names>
+              </name>
+              <name>
+                <surname>Kwekkeboom</surname>
+                <given-names>DJ</given-names>
+              </name>
+              <name>
+                <surname>Bakker</surname>
+                <given-names>WH</given-names>
+              </name>
+              <name>
+                <surname>Breeman</surname>
+                <given-names>WA</given-names>
+              </name>
+              <name>
+                <surname>Kooij</surname>
+                <given-names>PP</given-names>
+              </name>
+              <name>
+                <surname>Oei</surname>
+                <given-names>HY</given-names>
+              </name>
+              <name>
+                <surname>van Hagen</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Postema</surname>
+                <given-names>PT</given-names>
+              </name>
+              <name>
+                <surname>de Jong</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Reubi</surname>
+                <given-names>JC</given-names>
+              </name>
+            </person-group>
+            <article-title>Somatostatin receptor scintigraphy with [111In-DTPA-D-Phe1]- and [123I-Tyr3]-octreotide: the Rotterdam experience with more than 1000 patients.</article-title>
+            <source>Eur J Nucl Med</source>
+            <year>1993</year>
+            <month>Aug</month>
+            <volume>20</volume>
+            <issue>8</issue>
+            <fpage>716</fpage>
+            <page-range>716-31</page-range>
+            <pub-id pub-id-type="pmid">8404961</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r37">
+          <label>37</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bhatia</surname>
+                <given-names>PD</given-names>
+              </name>
+              <name>
+                <surname>Fung</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Edmonds</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Driedger</surname>
+                <given-names>AA</given-names>
+              </name>
+              <name>
+                <surname>Malthaner</surname>
+                <given-names>RA</given-names>
+              </name>
+            </person-group>
+            <article-title>A case of bronchopulmonary carcinoid tumor: the role of octreotide scanning in localization of an ectopic source of ACTH.</article-title>
+            <source>J Hosp Med</source>
+            <year>2006</year>
+            <month>Sep</month>
+            <volume>1</volume>
+            <issue>5</issue>
+            <fpage>312</fpage>
+            <page-range>312-6</page-range>
+            <pub-id pub-id-type="pmid">17219518</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r38">
+          <label>38</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>McInerney</surname>
+                <given-names>GF</given-names>
+              </name>
+              <name>
+                <surname>Carmalt</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>MaGee</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Allman</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>van der Wall</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Detection of multiple hepatic metastases of gastrinoma not apparent on CT by In-111 octerotide scintigraphy.</article-title>
+            <source>Clin Nucl Med</source>
+            <year>1996</year>
+            <month>Sep</month>
+            <volume>21</volume>
+            <issue>9</issue>
+            <fpage>730</fpage>
+            <page-range>730-1</page-range>
+            <pub-id pub-id-type="pmid">8879876</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r39">
+          <label>39</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kisker</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Bartsch</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Weinel</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Joseph</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Welcke</surname>
+                <given-names>UH</given-names>
+              </name>
+              <name>
+                <surname>Zaraca</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Rothmund</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>The value of somatostatin-receptor scintigraphy in newly diagnosed endocrine gastroenteropancreatic tumors.</article-title>
+            <source>J Am Coll Surg</source>
+            <year>1997</year>
+            <month>May</month>
+            <volume>184</volume>
+            <issue>5</issue>
+            <fpage>487</fpage>
+            <page-range>487-92</page-range>
+            <pub-id pub-id-type="pmid">9145069</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r40">
+          <label>40</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gibril</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Reynolds</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Doppman</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>CC</given-names>
+              </name>
+              <name>
+                <surname>Venzon</surname>
+                <given-names>DJ</given-names>
+              </name>
+              <name>
+                <surname>Termanini</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Weber</surname>
+                <given-names>HC</given-names>
+              </name>
+              <name>
+                <surname>Stewart</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>Jensen</surname>
+                <given-names>RT</given-names>
+              </name>
+            </person-group>
+            <article-title>Somatostatin receptor scintigraphy: its sensitivity compared with that of other imaging methods in detecting primary and metastatic gastrinomas. A prospective study.</article-title>
+            <source>Ann Intern Med</source>
+            <year>1996</year>
+            <month>Jul</month>
+            <day>01</day>
+            <volume>125</volume>
+            <issue>1</issue>
+            <fpage>26</fpage>
+            <page-range>26-34</page-range>
+            <pub-id pub-id-type="pmid">8644985</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r41">
+          <label>41</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gibril</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Jensen</surname>
+                <given-names>RT</given-names>
+              </name>
+            </person-group>
+            <article-title>Comparative analysis of diagnostic techniques for localization of gastrointestinal neuroendocrine tumors.</article-title>
+            <source>Yale J Biol Med</source>
+            <year>1997</year>
+            <season>Sep-Dec</season>
+            <volume>70</volume>
+            <issue>5-6</issue>
+            <fpage>509</fpage>
+            <page-range>509-22</page-range>
+            <pub-id pub-id-type="pmid">9825478</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r42">
+          <label>42</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Carbone</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Filiberti</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Grosso</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Paredi</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Peano</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Cantalupi</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Villa</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Monselise</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Bottino</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Shah</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Octreoscan perspectives in sarcoidosis and idiopathic interstitial pneumonia.</article-title>
+            <source>Eur Rev Med Pharmacol Sci</source>
+            <year>2003</year>
+            <season>Jul-Aug</season>
+            <volume>7</volume>
+            <issue>4</issue>
+            <fpage>97</fpage>
+            <page-range>97-105</page-range>
+            <pub-id pub-id-type="pmid">15068232</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r43">
+          <label>43</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chiti</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Fanti</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Savelli</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Romeo</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Bellanova</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Rodari</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>van Graafeiland</surname>
+                <given-names>BJ</given-names>
+              </name>
+              <name>
+                <surname>Monetti</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Bombardieri</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Comparison of somatostatin receptor imaging, computed tomography and ultrasound in the clinical management of neuroendocrine gastro-entero-pancreatic tumours.</article-title>
+            <source>Eur J Nucl Med</source>
+            <year>1998</year>
+            <month>Oct</month>
+            <volume>25</volume>
+            <issue>10</issue>
+            <fpage>1396</fpage>
+            <page-range>1396-403</page-range>
+            <pub-id pub-id-type="pmid">9818279</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r44">
+          <label>44</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dromain</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>de Baere</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Lumbroso</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Caillet</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Laplanche</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Boige</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Ducreux</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Duvillard</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Elias</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Schlumberger</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Sigal</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Baudin</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Detection of liver metastases from endocrine tumors: a prospective comparison of somatostatin receptor scintigraphy, computed tomography, and magnetic resonance imaging.</article-title>
+            <source>J Clin Oncol</source>
+            <year>2005</year>
+            <month>Jan</month>
+            <day>01</day>
+            <volume>23</volume>
+            <issue>1</issue>
+            <fpage>70</fpage>
+            <page-range>70-8</page-range>
+            <pub-id pub-id-type="pmid">15625361</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r45">
+          <label>45</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kumbasar</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Kamel</surname>
+                <given-names>IR</given-names>
+              </name>
+              <name>
+                <surname>Tekes</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Eng</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Fishman</surname>
+                <given-names>EK</given-names>
+              </name>
+              <name>
+                <surname>Wahl</surname>
+                <given-names>RL</given-names>
+              </name>
+            </person-group>
+            <article-title>Imaging of neuroendocrine tumors: accuracy of helical CT versus SRS.</article-title>
+            <source>Abdom Imaging</source>
+            <year>2004</year>
+            <season>Nov-Dec</season>
+            <volume>29</volume>
+            <issue>6</issue>
+            <fpage>696</fpage>
+            <page-range>696-702</page-range>
+            <pub-id pub-id-type="pmid">15162235</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r46">
+          <label>46</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shi</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Johnston</surname>
+                <given-names>CF</given-names>
+              </name>
+              <name>
+                <surname>Buchanan</surname>
+                <given-names>KD</given-names>
+              </name>
+              <name>
+                <surname>Ferguson</surname>
+                <given-names>WR</given-names>
+              </name>
+              <name>
+                <surname>Laird</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Crothers</surname>
+                <given-names>JG</given-names>
+              </name>
+              <name>
+                <surname>McIlrath</surname>
+                <given-names>EM</given-names>
+              </name>
+            </person-group>
+            <article-title>Localization of neuroendocrine tumours with [111In] DTPA-octreotide scintigraphy (Octreoscan): a comparative study with CT and MR imaging.</article-title>
+            <source>QJM</source>
+            <year>1998</year>
+            <month>Apr</month>
+            <volume>91</volume>
+            <issue>4</issue>
+            <fpage>295</fpage>
+            <page-range>295-301</page-range>
+            <pub-id pub-id-type="pmid">9666953</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26113.r47">
+          <label>47</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dahdaleh</surname>
+                <given-names>FS</given-names>
+              </name>
+              <name>
+                <surname>Lorenzen</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Rajput</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Carr</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Liao</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Menda</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>O'Dorisio</surname>
+                <given-names>TM</given-names>
+              </name>
+              <name>
+                <surname>Howe</surname>
+                <given-names>JR</given-names>
+              </name>
+            </person-group>
+            <article-title>The value of preoperative imaging in small bowel neuroendocrine tumors.</article-title>
+            <source>Ann Surg Oncol</source>
+            <year>2013</year>
+            <month>Jun</month>
+            <volume>20</volume>
+            <issue>6</issue>
+            <fpage>1912</fpage>
+            <page-range>1912-7</page-range>
+            <pub-id pub-id-type="pmid">23283442</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-43410" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Ultrasound of the Urinary Tract</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Southgate</surname>
+            <given-names>Samuel J.</given-names>
+          </name>
+          <aff>University of Connecticut</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Herbst</surname>
+            <given-names>Meghan K.</given-names>
+          </name>
+          <aff>University of Connecticut</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Samuel Southgate declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Meghan Herbst declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>16</day>
+          <month>1</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-43410.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>The most common indication for a point-of-care ultrasound of the urinary tract in the emergency department is flank pain, which is responsible for approximately 2 million emergency department visits in the United States annually. About 20% of patients presenting with flank pain have nephrolithiasis or kidney stones. While computed tomography imaging is the gold standard for diagnosing urinary tract stones, point-of-care ultrasound is increasingly being recognized as a primary initial imaging modality. This activity describes the indications for the use of ultrasound to evaluate for pathology of the urinary tract and highlights the role of the interprofessional team in the management of various urinary tract pathologies.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Describe the indications for using ultrasound to evaluate the urinary tract.</p></list-item><list-item><p>Explain the technique for performing an ultrasound of the urinary tract.</p></list-item><list-item><p>Review the clinical utility of ultrasound evaluation of the urinary tract.</p></list-item><list-item><p>Summarize the importance of improving care coordination, with particular emphasis on communication between interprofessional medical teams, to enhance prompt and thorough delivery of care to patients with urinary tract pathology.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=43410&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=43410">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-43410.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>The most common indication for point-of-care ultrasound (PoC US) of the urinary tract in the emergency department (ED) is flank pain, responsible for approximately 2 million ED visits in the United States annually. About 20% of patients presenting with flank pain have nephrolithiasis.<xref ref-type="bibr" rid="article-43410.r1">[1]</xref>&#x000a0;While computed tomography (CT) imaging is the gold standard for diagnosing urinary tract stones, PoC US&#x000a0;is increasingly recognized as a primary initial imaging modality.<xref ref-type="bibr" rid="article-43410.r2">[2]</xref>&#x000a0;PoC US detects nephrolithiasis with moderate sensitivity and specificity, with higher accuracy in the hands of experienced physicians or in the setting of moderate or severe hydronephrosis.<xref ref-type="bibr" rid="article-43410.r2">[2]</xref><xref ref-type="bibr" rid="article-43410.r3">[3]</xref>&#x000a0;When compared to CT, PoC US is associated with lower cumulative radiation exposure without significant differences in missed diagnoses, complications, average pain scores, serious adverse events, hospitalizations, or return ED visits for the same complaint.<xref ref-type="bibr" rid="article-43410.r4">[4]</xref>&#x000a0;</p>
+        <p>Nephrolithiasis is a common disease, with a lifetime risk of more than 12% in men and 6% in women, a high rate of recurrence (50% to 60% at 10 years), and a relatively young patient population. Its prevalence has also been increasing over recent decades.<xref ref-type="bibr" rid="article-43410.r5">[5]</xref><xref ref-type="bibr" rid="article-43410.r6">[6]</xref>&#x000a0;These factors reduce radiation exposure associated with using PoC US as an initial diagnostic tool particularly&#x000a0;important (see <bold>Video.</bold> Nephrolithiasis, Ultrasound). This article focuses on the use of PoC US by emergency physicians (EPs) in the diagnosis of nephrolithiasis. Assessment of urinary retention via estimation of bladder volume and confirmation of Foley catheter placement are also covered briefly.</p>
+      </sec>
+      <sec id="article-43410.s3" sec-type="Anatomy and Physiology">
+        <title>Anatomy and Physiology</title>
+        <p>The kidneys are located in the retroperitoneum between the 12th thoracic and fourth lumbar vertebrae. The right kidney is inferior to the left due to the position of the liver. Grossly, the kidneys consist of a cortex, medulla, and hilum. On ultrasound, the cortex is homogeneous and should be isoechoic relative to the liver parenchyma. The medullary pyramids appear as hypoechoic triangular structures with intervening tissue that is&#x000a0;contiguous with the cortex. The central collecting system is formed of small minor and major calyces that are buried within the hyperechoic fat of the renal pelvis when no obstruction is present.</p>
+        <p>At the renal pelvis, the ureters (also indistinguishable in the absence of obstruction) travel slightly medially and inferiorly in the retroperitoneal space. Distally, the ureters enter the posterior-inferior aspect of the bladder at the ureterovesical&#x000a0;junctions (UVJs). Occasionally, the UVJs can be seen in a transverse view of the bladder as &#x0201c;humps&#x0201d; that protrude into the bladder lumen bilaterally from the posterior wall. In this view, the bladder appears rectangular, contains anechoic urine, and is just superior to the pubic symphysis. In a sagittal plane, the bladder appears more triangular.</p>
+      </sec>
+      <sec id="article-43410.s4" sec-type="Indications">
+        <title>Indications</title>
+        <p>The following are common indications for&#x000a0;ultrasound of the urinary tract.</p>
+        <p>
+<bold>Ureteral Obstruction</bold>
+</p>
+        <p>The most common indication for PoC US of the urinary system in the ED is concern for ureteral obstruction caused by nephrolithiasis. Patients classically present with sudden-onset, unilateral, colicky flank pain that may radiate anteriorly or to the groin, often with microscopic or gross hematuria, nausea, and vomiting. The most specific finding indicating ureteral obstruction on ultrasound of the kidneys is hydronephrosis, which appears as an enlarged anechoic area within the normally hyperechoic collecting system.&#x000a0;Hydronephrosis is categorized as mild, moderate, or severe. In mild hydronephrosis, the renal papillae&#x02014;the point of transition between pyramids and minor calyces&#x02014;are preserved, while the major calyces are enlarged due to increased urinary volume and pressure. Sonographically, this appears as an anechoic triangle at the renal pelvis, tapering to the proximal junction with the ureter. Moderate hydronephrosis is characterized by further dilation of the calyces, obliteration of the renal papillae, and blunting and rounding of the pyramids. The sonographic appearance of moderate hydronephrosis takes the form of an anechoic &#x0201c;bear paw,&#x0201d; with the dilated calyces representing finger-like projections. Cortical involvement distinguishes moderate from severe hydronephrosis. In severe hydronephrosis, the calyces coalesce into a single, large, anechoic space. The renal cortex is the only remaining recognizable structure, and this too is compressed (its normal thickness is about 1 cm) due to increased pressure within the renal sinus. Without a known etiology, severe hydronephrosis should prompt further diagnostic testing.</p>
+        <p>In the setting of acute flank pain, mild or moderate hydronephrosis on PoC US supports the diagnosis of ureterolithiasis. However, hydronephrosis is also common in the setting of pregnancy and urinary retention. Ureteral obstruction occurs asymptomatically in more than 90% of pregnant women.<xref ref-type="bibr" rid="article-43410.r7">[7]</xref> It more frequently involves the right kidney, is rarely bilateral, and is caused by mechanical obstruction of the ureter by the gravid uterus or dilated ovarian vessels. Hydronephrosis can also be seen in the setting of retention caused by lower urinary tract dysfunction, especially in the elderly.<xref ref-type="bibr" rid="article-43410.r8">[8]</xref></p>
+        <p>Care should be taken to avoid mistaking other anechoic structures for hydronephrosis. Examples include medullary pyramids, hilar vessels, parapelvic cysts, and an extrarenal pelvis. To ensure correct interpretation, scan through the entire kidney to delineate its architecture. Pyramids sit just below the cortex and are bounded by parenchymal tissue with the collapsed, hyperechoic collecting system medially. Hilar vessels display a branching pattern and, if uncertain, can be distinguished using color Doppler to demonstrate blood flow. Parapelvic cysts are uncommon, occurring in 1.25% to 1.5% of the population. They appear cystic, do not have branches, are located proximal to the hilum rather than within the parenchyma, and do not communicate with the renal pelvis.<xref ref-type="bibr" rid="article-43410.r9">[9]</xref><xref ref-type="bibr" rid="article-43410.r10">[10]</xref><xref ref-type="bibr" rid="article-43410.r11">[11]</xref> An extrarenal pelvis is a developmental variant found in close to 10% of the population in which the pelvis sits outside the renal sinus and is especially distensible.<xref ref-type="bibr" rid="article-43410.r12">[12]</xref> Here, the collecting system will be collapsed and hyperechoic on PoC US since there is no distension of the calyces; an isolated dilated pelvis will sit medially and slightly inferiorly to the renal sinus, without extension into the ureter or calyces.</p>
+        <p>In general, ultrasound is not helpful in visualizing ureteral stones because the ureters are usually obscured by acoustic shadowing from bowel gas. However, stones can sometimes be seen in 3 locations: (1) within the kidney, (2) at the ureteropelvic junction (UPJ), and (3) at the UVJ. They appear very hyperechoic with posterior acoustic shadowing. Stones within the renal parenchyma are a common finding but do not cause obstruction and should not cause pain at this location. UPJ stones cause obstruction proximally and can be seen medial to the kidney in a coronal view. UVJ stones can be seen on the posterior-inferior wall of the bladder in a transverse view. This is the most common site for a ureterolith to lodge since it is the narrowest section of the ureter.<xref ref-type="bibr" rid="article-43410.r13">[13]</xref> Sometimes, a UVJ stone can cause a pronounced &#x0201c;bulge&#x0201d; or protrusion into the bladder lumen.<xref ref-type="bibr" rid="article-43410.r14">[14]</xref> For both UPJ and UVJ stones, they can use a color Doppler to identify "twinkle artifact," a rapidly alternating red-to-blue signal generated by the granular stones.<xref ref-type="bibr" rid="article-43410.r15">[15]</xref>&#x000a0;Color Doppler can also be used to identify ureteral jets, which are streams of colorful flow emanating from the UVJ. This finding rules out complete obstruction of the ipsilateral ureter, though partial obstruction remains possible. The practical utility of this technique is limited, however, since the time between ureteral jets can be more than 2 minutes even in an asymptomatic, well-hydrated volunteer.<xref ref-type="bibr" rid="article-43410.r16">[16]</xref></p>
+        <p>
+<bold>Urinary Retention</bold>
+</p>
+        <p>Suspicion of urinary retention can be confirmed via ultrasound of the bladder. In the transverse plane, the width (W) and anterior-posterior dimension (depth [D])&#x000a0;are&#x000a0;measured in centimeters at their largest point. In the sagittal plane, the largest superior-inferior dimension (height [H]) is measured. Bladder volume in milliliters can then be calculated with a correction factor&#x000a0;as follows: Volume (mL) = 0.75 x W x D x H.<xref ref-type="bibr" rid="article-43410.r17">[17]</xref></p>
+        <p>
+<bold>Foley Placement</bold>
+</p>
+        <p>Ultrasound can be used to confirm the correct placement of a Foley catheter in cases of urinary retention by visualizing the hyperechoic surface of the catheter balloon within the lumen. It may also be used to guide Foley placement in cases of challenging transurethral catheterization, especially in men.<xref ref-type="bibr" rid="article-43410.r18">[18]</xref><xref ref-type="bibr" rid="article-43410.r19">[19]</xref></p>
+      </sec>
+      <sec id="article-43410.s5" sec-type="Contraindications">
+        <title>Contraindications</title>
+        <p>There are no absolute contraindications to abdominal and pelvic ultrasound.</p>
+      </sec>
+      <sec id="article-43410.s6" sec-type="Equipment">
+        <title>Equipment</title>
+        <p>Abdominal and pelvic ultrasound should be performed with a low frequency (1 to 5 MHz) curvilinear transducer to allow visualization of deep structures.</p>
+      </sec>
+      <sec id="article-43410.s7" sec-type="Personnel">
+        <title>Personnel</title>
+        <p>A trained clinician can perform an ultrasound of the urinary system. The American College of Emergency Physicians recommends that providers correctly perform and interpret a minimum of 25 renal and bladder ultrasound scans before achieving competency in this examination.</p>
+      </sec>
+      <sec id="article-43410.s8" sec-type="Preparation">
+        <title>Preparation</title>
+        <p>The patient should be lying completely&#x000a0;supine on a stretcher with his or her abdomen fully exposed. Towels should be tucked around the patient&#x02019;s beltline and shirt or gown to keep them free of gel. For right-handed operators, the ultrasound machine should be situated on&#x000a0;the patient&#x02019;s anatomic right, plugged in, and powered. Room lights should be dimmed if possible.</p>
+      </sec>
+      <sec id="article-43410.s9" sec-type="Technique or Treatment">
+        <title>Technique or Treatment</title>
+        <p>A low-frequency curvilinear transducer is optimal for an abdominal and pelvic ultrasound to allow visualization of deep structures. A phased array transducer may also be used if the curvilinear is not available. The ultrasound machine setting should be set to "Abdominal."</p>
+        <p>
+<bold>Kidneys</bold>
+</p>
+        <p>When scanning for suspected pathology, it is helpful to view the asymptomatic side first to establish the appearance of the patient&#x02019;s kidneys at baseline. For the right kidney, the transducer is placed at the mid-axillary line with the indicator pointed cephalad at the inferior intercostal margin. In this coronal plane, the lateral aspect of the liver is at the top of the screen, its inferior margin toward the left, and the right kidney is medial and inferior toward the bottom-right of the screen. To view the left kidney, the transducer should be placed at the left posterior axillary line superior to the level of the right kidney. The left kidney is more challenging to visualize fully because it lacks the large acoustic window of the liver and can be obscured by air in the stomach or bowels. In this plane, the left kidney is medial to the spleen.</p>
+        <p>To reduce posterior acoustic shadowing from ribs, the transducer may be rotated counterclockwise on the right and clockwise on the left to a slightly oblique angle that follows the contour of the intercostal spaces. The operator may also ask the patient to take and hold a deep breath to widen the intercostal spaces. Positioning the patient in the right lateral decubitus position can occasionally be helpful in visualizing the left kidney. On both sides, the operator should fan through the entire kidney in an anterior-posterior sweep to visualize all structures.</p>
+        <p>
+<bold>Bladder</bold>
+</p>
+        <p>The transducer should be placed in a sagittal plane immediately superior to the pubic symphysis with the indicator-oriented cephalad to visualize the bladder. If full, the anechoic, urine-filled bladder will take up most of the anterior portion of the screen. The transducer is then turned 90-degrees counterclockwise, so the indicator is to the patient&#x02019;s anatomic right to obtain the transverse view. While fanning through in this plane, the&#x000a0;UVJs&#x000a0;at the posterior-inferior aspect of the bladder should be interrogated for UVJ stones.</p>
+      </sec>
+      <sec id="article-43410.s10" sec-type="Complications">
+        <title>Complications</title>
+        <p>Abdominal and pelvic ultrasound, like most diagnostic ultrasound applications, has minimal to no associated risks and complications. There may be some&#x000a0;patient discomfort due to pressure applied with the transducer during the exam. The gel can also feel cool and should be completely removed using a clean, dry towel when the exam is complete.</p>
+      </sec>
+      <sec id="article-43410.s11" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>Ultrasound of the urinary tract is a rapid, inexpensive, and safe imaging modality that is highly specific for the detection of moderate and severe hydronephrosis, indicative of nephrolithiasis.<xref ref-type="bibr" rid="article-43410.r2">[2]</xref>&#x000a0;In the hands of an experienced provider, its sensitivity is also very good.<xref ref-type="bibr" rid="article-43410.r3">[3]</xref>&#x000a0;As such, it can expedite the diagnosis and treatment of obstructive uropathy and reduce harm by limiting exposure to ionizing radiation from unnecessary and repeat CT scans.</p>
+      </sec>
+      <sec id="article-43410.s12" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>As stated earlier, incorporating PoC US into the care of patients presenting to the ED with flank pain and suspected ureterolithiasis reduces the need for CT imaging, which reduces healthcare costs and cumulative radiation exposure. PoC US also reduces ED length of stay without increasing complications or return visits.<xref ref-type="bibr" rid="article-43410.r4">[4]</xref><xref ref-type="bibr" rid="article-43410.r20">[20]</xref>&#x000a0;As with any imaging modality, a variety of pathology can be identified incidentally during the ultrasound of the urinary tract. This includes asymptomatic nephroliths in the renal pelvis, renal cysts, and masses in the kidneys, adrenals, or bladder. Detection of such &#x0201c;incidentalomas&#x0201d;&#x02013;often benign and asymptomatic&#x02013;frequently triggers additional testing that can prove costly, anxiety-provoking for the patient, and harmful in terms of additional radiation exposure. As such, incidentalomas found during ultrasound studies require careful triage by the patient&#x02019;s primary clinician. Renal cysts, the vast majority of which are benign and do not require further workup, can be found in up to one-third of older adults. Complex renal cysts and masses, however, do&#x000a0;require further workup and imaging either in the ED or via the patient&#x02019;s PCP.<xref ref-type="bibr" rid="article-43410.r21">[21]</xref><xref ref-type="bibr" rid="article-43410.r22">[22]</xref>&#x000a0;</p>
+      </sec>
+      <sec id="article-43410.s13">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=43410&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=43410">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/43410/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=43410">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <floats-group id="article-43410.s14">
+        <fig id="article-43410.image.f1" position="float" orientation="portrait">
+          <caption>
+            <p>Nephrolithiasis, Ultrasound. The image shows a normal kidney with grades of hydronephrosis, twinkle artifact, and ureterovesical junction stone. Contributed by MK Herbst, MD</p>
+          </caption>
+          <media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="collage__hydro__and__uvj__stone_crop.mp4" mime-subtype="mp4" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <ref-list id="article-43410.s15">
+        <title>References</title>
+        <ref id="article-43410.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hyams</surname>
+                <given-names>ES</given-names>
+              </name>
+              <name>
+                <surname>Korley</surname>
+                <given-names>FK</given-names>
+              </name>
+              <name>
+                <surname>Pham</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Matlaga</surname>
+                <given-names>BR</given-names>
+              </name>
+            </person-group>
+            <article-title>Trends in imaging use during the emergency department evaluation of flank pain.</article-title>
+            <source>J Urol</source>
+            <year>2011</year>
+            <month>Dec</month>
+            <volume>186</volume>
+            <issue>6</issue>
+            <fpage>2270</fpage>
+            <page-range>2270-4</page-range>
+            <pub-id pub-id-type="pmid">22014815</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-43410.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wong</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Teitge</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Ross</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Young</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Robertson</surname>
+                <given-names>HL</given-names>
+              </name>
+              <name>
+                <surname>Lang</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>The Accuracy and Prognostic Value of Point-of-care Ultrasound for Nephrolithiasis in the Emergency Department: A Systematic Review and Meta-analysis.</article-title>
+            <source>Acad Emerg Med</source>
+            <year>2018</year>
+            <month>Jun</month>
+            <volume>25</volume>
+            <issue>6</issue>
+            <fpage>684</fpage>
+            <page-range>684-698</page-range>
+            <pub-id pub-id-type="pmid">29427476</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-43410.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Herbst</surname>
+                <given-names>MK</given-names>
+              </name>
+              <name>
+                <surname>Rosenberg</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Daniels</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Gross</surname>
+                <given-names>CP</given-names>
+              </name>
+              <name>
+                <surname>Singh</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Molinaro</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Luty</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Moore</surname>
+                <given-names>CL</given-names>
+              </name>
+            </person-group>
+            <article-title>Effect of provider experience on clinician-performed ultrasonography for hydronephrosis in patients with suspected renal colic.</article-title>
+            <source>Ann Emerg Med</source>
+            <year>2014</year>
+            <month>Sep</month>
+            <volume>64</volume>
+            <issue>3</issue>
+            <fpage>269</fpage>
+            <page-range>269-76</page-range>
+            <pub-id pub-id-type="pmid">24630203</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-43410.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Smith-Bindman</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Aubin</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Bailitz</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Bengiamin</surname>
+                <given-names>RN</given-names>
+              </name>
+              <name>
+                <surname>Camargo</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>Corbo</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Dean</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Goldstein</surname>
+                <given-names>RB</given-names>
+              </name>
+              <name>
+                <surname>Griffey</surname>
+                <given-names>RT</given-names>
+              </name>
+              <name>
+                <surname>Jay</surname>
+                <given-names>GD</given-names>
+              </name>
+              <name>
+                <surname>Kang</surname>
+                <given-names>TL</given-names>
+              </name>
+              <name>
+                <surname>Kriesel</surname>
+                <given-names>DR</given-names>
+              </name>
+              <name>
+                <surname>Ma</surname>
+                <given-names>OJ</given-names>
+              </name>
+              <name>
+                <surname>Mallin</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Manson</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Melnikow</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Miglioretti</surname>
+                <given-names>DL</given-names>
+              </name>
+              <name>
+                <surname>Miller</surname>
+                <given-names>SK</given-names>
+              </name>
+              <name>
+                <surname>Mills</surname>
+                <given-names>LD</given-names>
+              </name>
+              <name>
+                <surname>Miner</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Moghadassi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Noble</surname>
+                <given-names>VE</given-names>
+              </name>
+              <name>
+                <surname>Press</surname>
+                <given-names>GM</given-names>
+              </name>
+              <name>
+                <surname>Stoller</surname>
+                <given-names>ML</given-names>
+              </name>
+              <name>
+                <surname>Valencia</surname>
+                <given-names>VE</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>RC</given-names>
+              </name>
+              <name>
+                <surname>Cummings</surname>
+                <given-names>SR</given-names>
+              </name>
+            </person-group>
+            <article-title>Ultrasonography versus computed tomography for suspected nephrolithiasis.</article-title>
+            <source>N Engl J Med</source>
+            <year>2014</year>
+            <month>Sep</month>
+            <day>18</day>
+            <volume>371</volume>
+            <issue>12</issue>
+            <fpage>1100</fpage>
+            <page-range>1100-10</page-range>
+            <pub-id pub-id-type="pmid">25229916</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-43410.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Worcester</surname>
+                <given-names>EM</given-names>
+              </name>
+              <name>
+                <surname>Coe</surname>
+                <given-names>FL</given-names>
+              </name>
+            </person-group>
+            <article-title>Nephrolithiasis.</article-title>
+            <source>Prim Care</source>
+            <year>2008</year>
+            <month>Jun</month>
+            <volume>35</volume>
+            <issue>2</issue>
+            <fpage>369</fpage>
+            <page-range>369-91, vii</page-range>
+            <pub-id pub-id-type="pmid">18486720</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-43410.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Curhan</surname>
+                <given-names>GC</given-names>
+              </name>
+            </person-group>
+            <article-title>Epidemiology of stone disease.</article-title>
+            <source>Urol Clin North Am</source>
+            <year>2007</year>
+            <month>Aug</month>
+            <volume>34</volume>
+            <issue>3</issue>
+            <fpage>287</fpage>
+            <page-range>287-93</page-range>
+            <pub-id pub-id-type="pmid">17678980</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-43410.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Puskar</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Balagovi&#x00107;</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Filipovi&#x00107;</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Knezovi&#x00107;</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Kopjar</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Huis</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Gilja</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <article-title>Symptomatic physiologic hydronephrosis in pregnancy: incidence, complications and treatment.</article-title>
+            <source>Eur Urol</source>
+            <year>2001</year>
+            <month>Mar</month>
+            <volume>39</volume>
+            <issue>3</issue>
+            <fpage>260</fpage>
+            <page-range>260-3</page-range>
+            <pub-id pub-id-type="pmid">11275715</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-43410.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sutaria</surname>
+                <given-names>PM</given-names>
+              </name>
+              <name>
+                <surname>Staskin</surname>
+                <given-names>DR</given-names>
+              </name>
+            </person-group>
+            <article-title>Hydronephrosis and renal deterioration in the elderly due to abnormalities of the lower urinary tract and ureterovesical junction.</article-title>
+            <source>Int Urol Nephrol</source>
+            <year>2000</year>
+            <volume>32</volume>
+            <issue>1</issue>
+            <fpage>119</fpage>
+            <page-range>119-26</page-range>
+            <pub-id pub-id-type="pmid">11057785</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-43410.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ma</surname>
+                <given-names>TL</given-names>
+              </name>
+              <name>
+                <surname>Neild</surname>
+                <given-names>GH</given-names>
+              </name>
+            </person-group>
+            <article-title>Parapelvic cyst misdiagnosed as hydronephrosis.</article-title>
+            <source>Clin Kidney J</source>
+            <year>2013</year>
+            <month>Apr</month>
+            <volume>6</volume>
+            <issue>2</issue>
+            <fpage>238</fpage>
+            <page-range>238-9</page-range>
+            <pub-id pub-id-type="pmid">26019858</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-43410.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tarzamni</surname>
+                <given-names>MK</given-names>
+              </name>
+              <name>
+                <surname>Sobhani</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Nezami</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Ghiasi</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>Bilateral parapelvic cysts that mimic hydronephrosis in two imaging modalities: a case report.</article-title>
+            <source>Cases J</source>
+            <year>2008</year>
+            <month>Sep</month>
+            <day>18</day>
+            <volume>1</volume>
+            <issue>1</issue>
+            <fpage>161</fpage>
+            <pub-id pub-id-type="pmid">18801196</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-43410.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hidalgo</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Dunnick</surname>
+                <given-names>NR</given-names>
+              </name>
+              <name>
+                <surname>Rosenberg</surname>
+                <given-names>ER</given-names>
+              </name>
+              <name>
+                <surname>Ram</surname>
+                <given-names>PC</given-names>
+              </name>
+              <name>
+                <surname>Korobkin</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Parapelvic cysts: appearance on CT and sonography.</article-title>
+            <source>AJR Am J Roentgenol</source>
+            <year>1982</year>
+            <month>Apr</month>
+            <volume>138</volume>
+            <issue>4</issue>
+            <fpage>667</fpage>
+            <page-range>667-71</page-range>
+            <pub-id pub-id-type="pmid">6978029</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-43410.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Koratala</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Bhattacharya</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Extrarenal pelvis mimicking hydronephrosis: a case for caution.</article-title>
+            <source>Clin Case Rep</source>
+            <year>2017</year>
+            <month>Oct</month>
+            <volume>5</volume>
+            <issue>10</issue>
+            <fpage>1720</fpage>
+            <page-range>1720-1721</page-range>
+            <pub-id pub-id-type="pmid">29026582</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-43410.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Eisner</surname>
+                <given-names>BH</given-names>
+              </name>
+              <name>
+                <surname>Reese</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Sheth</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Stoller</surname>
+                <given-names>ML</given-names>
+              </name>
+            </person-group>
+            <article-title>Ureteral stone location at emergency room presentation with colic.</article-title>
+            <source>J Urol</source>
+            <year>2009</year>
+            <month>Jul</month>
+            <volume>182</volume>
+            <issue>1</issue>
+            <fpage>165</fpage>
+            <page-range>165-8</page-range>
+            <pub-id pub-id-type="pmid">19450856</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-43410.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bomann</surname>
+                <given-names>JS</given-names>
+              </name>
+              <name>
+                <surname>Seman</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Sutijono</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Rogers</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Bladder bulge: unifying old and new sonographic bladder wall abnormalities in ureterolithiasis.</article-title>
+            <source>West J Emerg Med</source>
+            <year>2012</year>
+            <month>Dec</month>
+            <volume>13</volume>
+            <issue>6</issue>
+            <fpage>517</fpage>
+            <page-range>517-23</page-range>
+            <pub-id pub-id-type="pmid">23358632</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-43410.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gliga</surname>
+                <given-names>ML</given-names>
+              </name>
+              <name>
+                <surname>Chirila</surname>
+                <given-names>CN</given-names>
+              </name>
+              <name>
+                <surname>Podeanu</surname>
+                <given-names>DM</given-names>
+              </name>
+              <name>
+                <surname>Imola</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Voicu</surname>
+                <given-names>SL</given-names>
+              </name>
+              <name>
+                <surname>Gliga</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Gliga</surname>
+                <given-names>PM</given-names>
+              </name>
+            </person-group>
+            <article-title>Twinkle, twinkle little stone: an artifact improves the ultrasound performance!</article-title>
+            <source>Med Ultrason</source>
+            <year>2017</year>
+            <month>Jun</month>
+            <day>17</day>
+            <volume>19</volume>
+            <issue>3</issue>
+            <fpage>272</fpage>
+            <page-range>272-275</page-range>
+            <pub-id pub-id-type="pmid">28845492</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-43410.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cox</surname>
+                <given-names>IH</given-names>
+              </name>
+              <name>
+                <surname>Erickson</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Foley</surname>
+                <given-names>WD</given-names>
+              </name>
+              <name>
+                <surname>Dewire</surname>
+                <given-names>DM</given-names>
+              </name>
+            </person-group>
+            <article-title>Ureteric jets: evaluation of normal flow dynamics with color Doppler sonography.</article-title>
+            <source>AJR Am J Roentgenol</source>
+            <year>1992</year>
+            <month>May</month>
+            <volume>158</volume>
+            <issue>5</issue>
+            <fpage>1051</fpage>
+            <page-range>1051-5</page-range>
+            <pub-id pub-id-type="pmid">1566665</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-43410.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chan</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Noninvasive bladder volume measurement.</article-title>
+            <source>J Neurosci Nurs</source>
+            <year>1993</year>
+            <month>Oct</month>
+            <volume>25</volume>
+            <issue>5</issue>
+            <fpage>309</fpage>
+            <page-range>309-12</page-range>
+            <pub-id pub-id-type="pmid">8270812</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-43410.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Joseph</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Huber</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Leeson</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Leeson</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Ultrasound-guided Placement of a Foley Catheter Using a Hydrophilic Guide Wire.</article-title>
+            <source>Clin Pract Cases Emerg Med</source>
+            <year>2018</year>
+            <month>May</month>
+            <volume>2</volume>
+            <issue>2</issue>
+            <fpage>143</fpage>
+            <page-range>143-146</page-range>
+            <pub-id pub-id-type="pmid">29849285</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-43410.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kameda</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Murata</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Fujita</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Isaka</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Transabdominal ultrasound-guided urethral catheterization with transrectal pressure.</article-title>
+            <source>J Emerg Med</source>
+            <year>2014</year>
+            <month>Feb</month>
+            <volume>46</volume>
+            <issue>2</issue>
+            <fpage>215</fpage>
+            <page-range>215-9</page-range>
+            <pub-id pub-id-type="pmid">24199721</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-43410.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Park</surname>
+                <given-names>YH</given-names>
+              </name>
+              <name>
+                <surname>Jung</surname>
+                <given-names>RB</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>YG</given-names>
+              </name>
+              <name>
+                <surname>Hong</surname>
+                <given-names>CK</given-names>
+              </name>
+              <name>
+                <surname>Ahn</surname>
+                <given-names>JH</given-names>
+              </name>
+              <name>
+                <surname>Shin</surname>
+                <given-names>TY</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>YS</given-names>
+              </name>
+              <name>
+                <surname>Ha</surname>
+                <given-names>YR</given-names>
+              </name>
+            </person-group>
+            <article-title>Does the use of bedside ultrasonography reduce emergency department length of stay for patients with renal colic?: a pilot study.</article-title>
+            <source>Clin Exp Emerg Med</source>
+            <year>2016</year>
+            <month>Dec</month>
+            <volume>3</volume>
+            <issue>4</issue>
+            <fpage>197</fpage>
+            <page-range>197-203</page-range>
+            <pub-id pub-id-type="pmid">28168226</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-43410.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hitzeman</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Cotton</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Incidentalomas: initial management.</article-title>
+            <source>Am Fam Physician</source>
+            <year>2014</year>
+            <month>Dec</month>
+            <day>01</day>
+            <volume>90</volume>
+            <issue>11</issue>
+            <fpage>784</fpage>
+            <page-range>784-9</page-range>
+            <pub-id pub-id-type="pmid">25611713</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-43410.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>O'Connor</surname>
+                <given-names>SD</given-names>
+              </name>
+              <name>
+                <surname>Pickhardt</surname>
+                <given-names>PJ</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>DH</given-names>
+              </name>
+              <name>
+                <surname>Oliva</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Silverman</surname>
+                <given-names>SG</given-names>
+              </name>
+            </person-group>
+            <article-title>Incidental finding of renal masses at unenhanced CT: prevalence and analysis of features for guiding management.</article-title>
+            <source>AJR Am J Roentgenol</source>
+            <year>2011</year>
+            <month>Jul</month>
+            <volume>197</volume>
+            <issue>1</issue>
+            <fpage>139</fpage>
+            <page-range>139-45</page-range>
+            <pub-id pub-id-type="pmid">21701022</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

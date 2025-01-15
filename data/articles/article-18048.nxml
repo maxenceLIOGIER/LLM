@@ -1,0 +1,1361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-18048" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Avian Influenza</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Sendor</surname>
+            <given-names>Adam B.</given-names>
+          </name>
+          <aff>Wellstar Kennestone Regional Med Center</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Weerasuriya</surname>
+            <given-names>Dilani</given-names>
+          </name>
+          <aff>Kennestone Hospital</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Sapra</surname>
+            <given-names>Amit</given-names>
+          </name>
+          <aff>Southern Illinois University School of Medicine</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Adam Sendor declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Dilani Weerasuriya declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Amit Sapra declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>21</day>
+          <month>6</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-18048.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Avian influenza is a deadly disease caused by infection from an influenza virus native to birds. While often not fatal in birds, it can carry a high mortality rate when adapted to humans. This activity reviews the evaluation and management of avian influenza and highlights the role of the interprofessional team in evaluating and improving care for patients with this condition.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Identify the epidemiology of avian influenza.</p></list-item><list-item><p>Review the appropriate evaluation of avian influenza.</p></list-item><list-item><p>Outline the management options available for avian influenza.</p></list-item><list-item><p>Describe some interprofessional team strategies for improving care coordination and communication to advance the recognition and prevention of avian influenza and improve outcomes.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=18048&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=18048">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-18048.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Because infection with avian influenza can be particularly deadly in comparison to other viruses, providers may not be aware of the extra caution required when evaluating possible cases of infection. This article will impress on providers the severity of the disease and the need for high suspicion in specific scenarios as well as the need for early escalation of care. Avian influenza is an umbrella term describing the disease caused by various strains of influenza A virus known to infect birds that occasionally cause outbreaks of viral illness in humans.<xref ref-type="bibr" rid="article-18048.r1">[1]</xref><xref ref-type="bibr" rid="article-18048.r2">[2]</xref>&#x000a0;Numerous well-known outbreaks of avian influenza include an outbreak of the H5N1 strain in Hong Kong in 1997 and H7N9 in Eastern and Southern China in 2013.<xref ref-type="bibr" rid="article-18048.r1">[1]</xref><xref ref-type="bibr" rid="article-18048.r2">[2]</xref>&#x000a0;Although adapted to birds, and often causing only mild illness, avian influenza viruses can be extremely dangerous with successful transmission to humans with a high percentage of confirmed cases requiring hospitalization and frequently intensive care unit (ICU) care.</p>
+        <p>Influenza A viruses are part of the <italic toggle="yes">Orthomyxoviridae</italic> family.<xref ref-type="bibr" rid="article-18048.r1">[1]</xref>&#x000a0;Other viruses in this group include influenza B and C viruses, thogotovirus, and isavirus. While influenza B and C have been found in other species, only influenza A has been found to infect birds.<xref ref-type="bibr" rid="article-18048.r1">[1]</xref>&#x000a0;The exact mechanism of bird-to-bird transmission is not currently well known. The virus is released in large quantities from infected birds in feces and the respiratory tract. In birds, avian influenza strains are characteristically highly pathogenic avian influenza (HPAI) and low pathogenicity avian influenza (LPAI).<xref ref-type="bibr" rid="article-18048.r1">[1]</xref>&#x000a0;In birds, LPAI strains are more common and usually cause limited disease. In humans, both HPAI and LPAI strains can cause deadly avian influenza outbreaks, although HPAI strains do so more frequently.</p>
+        <p>The influenza A virus splits into subtypes based on the antigen present on two of the virus&#x02019;s surface glycoproteins, haemagglutinin (with 16 known possible antigens), and neuraminidase (with nine known possible antigens).<xref ref-type="bibr" rid="article-18048.r1">[1]</xref>&#x000a0;The virus then gets described using the antigen combination, such as H5N1. The haemagglutinin glycoprotein gets produced as a precursor in this virus; this is important because the proteins required to process and activate this protein in LPAI strains of the virus are found only in specific parts of the body such as gastrointestinal and respiratory tracts, while those required for HPAI strains are generally ubiquitous in the host.<xref ref-type="bibr" rid="article-18048.r1">[1]</xref></p>
+        <p>Avian influenza viruses (AIVs) occur in most bird species, both wild and domestic. Generally, domestic birds are responsible for human disease outbreaks as they have more human contact. Some diseases spread, though, may be implicated in migratory birds that could carry disease to different locations where subsequent infection of domestic birds leads to human transmission.<xref ref-type="bibr" rid="article-18048.r2">[2]</xref>&#x000a0;Avian influenza is transmitted to humans most commonly from direct contact with live birds or contact with raw poultry in factories and restaurants.<xref ref-type="bibr" rid="article-18048.r2">[2]</xref></p>
+      </sec>
+      <sec id="article-18048.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p>Avian influenza viruses (AIVs) cause disease in humans when a strain of the virus becomes adapted to a human host either by reassortment with influenza viruses from other species or by antigenic drift or both.<xref ref-type="bibr" rid="article-18048.r3">[3]</xref>&#x000a0;As noted previously, HPAI strains of the virus are thought to be activated in most host organ systems, while LPAI strains become activated in specific organs with appropriate protein modifying enzymes. This difference may account for some characteristic signs and symptoms of particular strains discussed below.</p>
+      </sec>
+      <sec id="article-18048.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p>Although other strains of&#x000a0;avian influenza viruses (AIVs) are likely to have infected humans from time to time, the most well-known strains to cause infection are H5N1 and H7N9. To date, there have been no confirmed human cases of AIV infection in the United States, although there has been one confirmed death from AIVs in Canada.<xref ref-type="bibr" rid="article-18048.r4">[4]</xref>&#x000a0;H5N1 outbreaks have occurred mostly in&#x000a0;the Middle East and Southeast Asia, although sporadic reports of infection have also come from West Africa.<xref ref-type="bibr" rid="article-18048.r4">[4]</xref>&#x000a0;H7N9 outbreaks have primarily occurred in the same regions. Unsurprisingly, AIV infection is most often found in people who have close contact with poultry, especially recently culled poultry. In China, H7N9 infection appears to occur more in older patients and H5N1 in younger patients, and both appear to occur more in men than in women.<xref ref-type="bibr" rid="article-18048.r5">[5]</xref><xref ref-type="bibr" rid="article-18048.r6">[6]</xref>&#x000a0;While other AIVs do rarely infect humans, H5N1 and H7N9 are by far the most common, and at the moment, the others appear to be only sporadic.&#x000a0;</p>
+      </sec>
+      <sec id="article-18048.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>The binding of&#x000a0;avian influenza viruses (AIVs) to human cells is mostly via specific receptors found more commonly in the respiratory tract.<xref ref-type="bibr" rid="article-18048.r7">[7]</xref>&#x000a0;The pathophysiology of avian influenza and that of normal influenza are different. Avian influenza involves more of the lower airways than human influenza. This involvement is probably due to differences in the hemagglutinin protein and the types of sialic acid residues to which the protein binds. Avian viruses prefer sialic acid alpha (2-3) galactose, which, in humans, is found in the terminal bronchi and alveoli. But human viruses prefer sialic acid alpha (2-6) galactose, which appears on epithelial cells in the upper respiratory tract. Interestingly, the receptors preferred by most AIVs, especially H7N9, are also found in the human eye, which may explain the conjunctival symptoms often seen with AIV infection.<xref ref-type="bibr" rid="article-18048.r8">[8]</xref></p>
+        <p>Once the AIV has entered the host cell, replication may be prolonged relative to endemic human influenza viruses. In the 1997 H5N1 outbreak, the median time from infection to the detection of the virus was 6.5 days, and in some patients, no virus was detectable for up to 16 days.<xref ref-type="bibr" rid="article-18048.r9">[9]</xref></p>
+        <p>Host immune response plays a role in pathogenicity, as inflammatory markers appear to be higher in patients who experience a more severe disease course, and the presence of inflammatory cells in damaged alveoli in post-mortem patient evaluation seems to support this suggestion.<xref ref-type="bibr" rid="article-18048.r9">[9]</xref>&#x000a0;The most common pathological organ failure in AIV-infected individuals is respiratory failure due to primary viral pneumonia, which appears to commonly be due to viral replication and host immune response producing diffuse alveolar damage as well as alveolar hemorrhage. There is some additional information in mouse studies that the virus may replicate and produce apoptosis in pre-Botzinger complex neurons, which are responsible for generating respiratory rhythm, and the damage caused to these neurons likely produces some of the ataxic breathing a respiratory collapse found in AIV infection.<xref ref-type="bibr" rid="article-18048.r10">[10]</xref></p>
+      </sec>
+      <sec id="article-18048.s6" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>Clinical features of avian influenza infection are generally only known in patients requiring hospitalization. Because routine testing for avian influenza is not often&#x000a0;necessary unless a patient presents with more severe symptoms, there is little evidence for clinical features or the prevalence of milder infections. Most patients who end up hospitalized present anywhere from 2 to 4 days after exposure but can begin over a week after transmission as well.<xref ref-type="bibr" rid="article-18048.r9">[9]</xref></p>
+        <p>Most patients present with symptoms consistent with a flu-like viral illness. In these patients, especially during a known avian influenza outbreak, a thorough history is necessary to evaluate for clues that the illness is due to avian influenza. Additionally, in patients with bird contact and uncharacteristically severe viral symptoms (encephalopathy or organ failure), higher suspicion should be had for&#x000a0;avian influenza virus (AIV) infection. Patients that work in the poultry or culinary industries have frequent contact with birds and have greater opportunity to contact the active virus. Most patients with AIV infection have had contact with poultry.<xref ref-type="bibr" rid="article-18048.r11">[11]</xref>&#x000a0;Because environment-to-human and human-to-human transmission is theoretically possible with all AIVs and has confirmation in cases of H7N9 infection, even patients with no direct contact with birds can still acquire avian influenza.<xref ref-type="bibr" rid="article-18048.r12">[12]</xref></p>
+        <p>Different strains of the avian influenza virus appear to have different characteristic presentations. H5N1, for instance, usually has a presentation that includes fever and lower respiratory tract symptoms and occasionally a prodrome of non-bloody, non-inflammatory diarrhea. Other avian influenza viruses have other characteristic symptoms. H7N9 and other LPAI strains may more commonly be associated with conjunctivitis.<xref ref-type="bibr" rid="article-18048.r9">[9]</xref></p>
+        <p>Regardless of characteristic symptoms, if there is a current outbreak, a patient presenting with avian influenza is most likely to have the same strain as other infected patients in the area have.</p>
+      </sec>
+      <sec id="article-18048.s7" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>Diagnosing avian influenza requires high clinical suspicion. In patients who present with viral syndromes and have risk factors such as recent live bird handling or poultry culling, there should be a high suspicion of the disease. Additional testing should evaluate for sequelae of&#x000a0;avian influenza virus (AIV) infection, such as respiratory impairment and other organ dysfunction. As the disease can present as a severe respiratory illness, evaluation, and careful monitoring of a patient&#x02019;s respiratory status should be undertaken for any patient with suspected or confirmed AIV infection. Respiratory intervention may include anywhere from supplemental oxygen to mechanical ventilation to ECMO (extracorporeal membrane oxygenation) in the most severe cases.</p>
+        <p>Rapid antigen testing for AIV does exist but is often falsely negative in confirmed cases. The preferred source of a sample for testing is a nasopharyngeal swab or aspirate, but other body fluids are usable if the nasopharyngeal swab or aspirate is not available.<xref ref-type="bibr" rid="article-18048.r13">[13]</xref>&#x000a0;Because the infection carries high mortality risk, a negative rapid antigen test should not rule out AIV infection when high suspicion exists. RT-PCR identification of the virus in viral cultures is the standard of care for diagnosis of AIV, and viral detection is typically possible within a few days of disease onset.<xref ref-type="bibr" rid="article-18048.r9">[9]</xref></p>
+      </sec>
+      <sec id="article-18048.s8" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>Treatment of avian influenza usually consists of supportive care and antiviral medications.<xref ref-type="bibr" rid="article-18048.r2">[2]</xref><xref ref-type="bibr" rid="article-18048.r9">[9]</xref>&#x000a0;The majority of care should aim at managing the sequelae of infection. For instance, patients with volume loss or possible electrolyte imbalances should receive volume resuscitation and treatment to correct imbalances. Patients with persistent fever should receive antipyretic medication. Patients with respiratory compromise should be placed on supplemental oxygen and monitored closely for signs of deterioration as these patients are at high risk of requiring intubation and mechanical ventilation.<xref ref-type="bibr" rid="article-18048.r2">[2]</xref><xref ref-type="bibr" rid="article-18048.r9">[9]</xref>&#x000a0;As the severe disease can cause any range of organ dysfunction and failure, such signs should be closely monitored and aggressively treated to prevent further decompensation.</p>
+        <p>The World Health Organization released Rapid Advice Guidelines in 2007, outlining consensus treatment recommendations for H5N1 influenza outbreaks.<xref ref-type="bibr" rid="article-18048.r14">[14]</xref>&#x000a0;Similar recommendations can likely be used in avian influenza outbreaks due to other strains of the virus. These recommendations include neuraminidase inhibitors (especially oseltamivir) for strongly suspected or confirmed cases of H5N1. The recommendations also suggest avoiding M2 ion channel inhibitors such as amantadine and rimantadine as a single therapy unless neuraminidase inhibitors are not available or the virus is known to be resistant to neuraminidase inhibitors.</p>
+        <p>The WHO also made recommendations on chemoprophylaxis of those with possible viral exposure in the above guidelines. Of note, oseltamivir (75 mg daily) prophylaxis for 7 to 10 days after last known potential exposure for high-risk groups (household and close family contacts) receives a strong recommendation. Moderate and low-risk groups are not as strongly advised to receive chemoprophylaxis, although moderate risk groups require individual assessment.<xref ref-type="bibr" rid="article-18048.r14">[14]</xref></p>
+      </sec>
+      <sec id="article-18048.s9" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <p>Because avian influenza, like many viral illnesses, can present with a variety of symptoms that may be like other disease processes, a broad differential is necessary. For instance, for patients presenting with a headache with or without fever, a differential should include meningitis, intracranial bleeds, migraines, and other headache syndromes. For patients presenting with respiratory symptoms, other infectious upper and lower airway etiologies should be considered, including but not limited to:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Bacterial pneumonia</p>
+          </list-item>
+          <list-item>
+            <p>Streptococcal pharyngitis</p>
+          </list-item>
+          <list-item>
+            <p>Asthma</p>
+          </list-item>
+          <list-item>
+            <p>Chronic obstructive pulmonary disease (COPD)</p>
+          </list-item>
+          <list-item>
+            <p>Pulmonary embolism</p>
+          </list-item>
+        </list>
+        <p>Additionally, in patients with shortness of breath or other possible cardiac involvement, pericarditis and myocarditis should be considered.</p>
+      </sec>
+      <sec id="article-18048.s10" sec-type="Pertinent Studies and Ongoing Trials">
+        <title>Pertinent Studies and Ongoing Trials</title>
+        <p>Because human cases of avian influenza are relatively rare and generally confined to individual, unique outbreaks, there has been little opportunity for research on treatment methods for infection, and most recommendations have as their basis on accepted treatment regimens for other types of influenza virus infections. There are, though, some research trials focusing on the efficacy of vaccines for AIV.<xref ref-type="bibr" rid="article-18048.r15">[15]</xref><xref ref-type="bibr" rid="article-18048.r16">[16]</xref><xref ref-type="bibr" rid="article-18048.r17">[17]</xref><xref ref-type="bibr" rid="article-18048.r18">[18]</xref><xref ref-type="bibr" rid="article-18048.r19">[19]</xref>&#x000a0;As real-world outcomes of vaccine trials for rare diseases are challenging to evaluate, studies generally assess the development of antibodies in humans or human cells after vaccine testing.</p>
+      </sec>
+      <sec id="article-18048.s11" sec-type="Prognosis">
+        <title>Prognosis</title>
+        <p>In patients requiring hospitalization for avian influenza, reported mortality is higher than 50% for all strains of&#x000a0;avian influenza virus (AIV) infection combined, although more detailed data suggests H7N9 infection is less deadly with 35% mortality than H5N1 with a 60% mortality rate.<xref ref-type="bibr" rid="article-18048.r20">[20]</xref><xref ref-type="bibr" rid="article-18048.r2">[2]</xref>&#x000a0;As noted previously, likely, not all patients affected by the virus present to a hospital, and there may be many more with milder symptoms and reduced mortality. Regardless, all current information suggests that the virus is dangerous when infecting humans, and the prognosis in hospitalized patients is generally poor.</p>
+      </sec>
+      <sec id="article-18048.s12" sec-type="Complications">
+        <title>Complications</title>
+        <p>Complications from&#x000a0;avian influenza virus (AIV) infection result from either organ failure or damage, iatrogenic injury during treatment, or coinfection.<xref ref-type="bibr" rid="article-18048.r9">[9]</xref>&#x000a0;Because severe disease is common, as is widespread organ failure, long term complications should be anticipated. Long term respiratory compromise is common in patients requiring extensive mechanical ventilation, and chronic kidney disease is possible in patients with acute kidney injury from AIV. As with other viral illnesses, bacterial coinfection is possible and should merit consideration any time a patient&#x02019;s condition changes during the disease course or if it worsens after an episode of improvement.</p>
+      </sec>
+      <sec id="article-18048.s13" sec-type="Consultations">
+        <title>Consultations</title>
+        <p>Any patient hospitalized with a suspected or confirmed diagnosis of avian influenza should have an infectious disease consultation to better direct care and minimize complications. While the recommendations presented here are necessary for any patient with suspected avian influenza, an infectious disease consultant may be able to better direct treatment for specific avian influenza strains and manage treatment and patient expectations more appropriately. Additionally, in the United States, it is mandatory to report confirmed cases of avian influenza to the Centers for Disease Control (CDC).</p>
+      </sec>
+      <sec id="article-18048.s14" sec-type="Deterrence and Patient Education">
+        <title>Deterrence and Patient Education</title>
+        <p>Whenever there is a possible outbreak of avian influenza, the essential way to reduce the severity and population impact are to reduce the spread of the virus. Since human-to-human transmission is uncommon, the focus should be on reinforcing appropriate sanitation habits in the population, especially those that work around birds or that are involved in food preparation.</p>
+        <p>When an outbreak is identified, it is crucial for public health officials to identify at-risk populations and to inform the public of risk factors and ways to detect infection. Because the presence of deadly diseases in a community can incite fear and panic, announcements should include which populations are at low risk for contracting avian influenza. Those people who work with live or dead birds, including those who may handle poultry at restaurants, should be aware of symptoms of bird flu in themselves and co-workers and should be given directions for contacting local health officials and information for how to&#x000a0;undergo evaluation if suspicion of infection is high.</p>
+      </sec>
+      <sec id="article-18048.s15" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Because disease outbreaks are rare and difficult to predict, well-controlled studies of treatment are nearly impossible. As such, most recommendations come from an expert consensus of review of previous outbreaks. The best way to reduce morbidity and mortality associated with avian influenza is to improve public knowledge of the disease, reduce the spread of infection once an outbreak is identified, and educate vulnerable populations on risk reduction and early recognition of disease. While providers can play an essential role in this, public health officials (often through media assistance) are critical to limiting the human impact of the disease. [Level 4]</p>
+        <p>Additionally, a high index of suspicion is often needed to diagnose early cases of avian influenza in a population. Care and detailed history-taking, as well as early testing in at-risk patients presenting with a severe viral infection, is needed to allow health care professionals to intervene early to restrict the impact of an outbreak. [Level 4]</p>
+        <p>There is currently an FDA-licensed vaccine for the H5N1 strain of avian influenza in the United States. In the case of an H5N1 outbreak in the United States, the CDC and public health officials may decide to vaccinate at-risk populations to reduce spread. Apart from the available H5N1 vaccine, no human vaccines exist for avian influenza, although there are currently vaccine development studies in progress that may result in more availability in the future (see above). [Level 4]</p>
+        <p>An interprofessional team is beneficial in the management of this disease. The emergency department and primary care providers should be cognizant of this diagnosis. Patients should receive a referral to infectious disease, intensivists, and pulmonologists. Critical care nurses monitor patients, answer patient questions, and provide updates to the team. Pharmacists review antiviral and other medications as to the dose and possible drug interactions and make recommendations to the providers where appropriate. With interprofessional collaboration and communication across both disciplines and even with media and other public health personnel, the risks of avian influenza can remain contained. [Level 5]</p>
+      </sec>
+      <sec id="article-18048.s16">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=18048&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=18048">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/infectious-disease/avian-influenza-bird-flu/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=18048">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/18048/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=18048">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-18048.s17">
+        <title>References</title>
+        <ref id="article-18048.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Alexander</surname>
+                <given-names>DJ</given-names>
+              </name>
+            </person-group>
+            <article-title>An overview of the epidemiology of avian influenza.</article-title>
+            <source>Vaccine</source>
+            <year>2007</year>
+            <month>Jul</month>
+            <day>26</day>
+            <volume>25</volume>
+            <issue>30</issue>
+            <fpage>5637</fpage>
+            <page-range>5637-44</page-range>
+            <pub-id pub-id-type="pmid">17126960</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18048.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lazarus</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Lim</surname>
+                <given-names>PL</given-names>
+              </name>
+            </person-group>
+            <article-title>Avian influenza: recent epidemiology, travel-related risk, and management.</article-title>
+            <source>Curr Infect Dis Rep</source>
+            <year>2015</year>
+            <month>Jan</month>
+            <volume>17</volume>
+            <issue>1</issue>
+            <fpage>456</fpage>
+            <pub-id pub-id-type="pmid">25475382</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18048.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Rabadan</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Robins</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Evolution of the influenza a virus: some new advances.</article-title>
+            <source>Evol Bioinform Online</source>
+            <year>2008</year>
+            <month>Jan</month>
+            <day>30</day>
+            <volume>3</volume>
+            <fpage>299</fpage>
+            <page-range>299-307</page-range>
+            <pub-id pub-id-type="pmid">19430605</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18048.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lai</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Qin</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Cowling</surname>
+                <given-names>BJ</given-names>
+              </name>
+              <name>
+                <surname>Ren</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Wardrop</surname>
+                <given-names>NA</given-names>
+              </name>
+              <name>
+                <surname>Gilbert</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Tsang</surname>
+                <given-names>TK</given-names>
+              </name>
+              <name>
+                <surname>Wu</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Feng</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Jiang</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Peng</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Zheng</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Liao</surname>
+                <given-names>Q</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Horby</surname>
+                <given-names>PW</given-names>
+              </name>
+              <name>
+                <surname>Farrar</surname>
+                <given-names>JJ</given-names>
+              </name>
+              <name>
+                <surname>Gao</surname>
+                <given-names>GF</given-names>
+              </name>
+              <name>
+                <surname>Tatem</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Yu</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Global epidemiology of avian influenza A H5N1 virus infection in humans, 1997-2015: a systematic review of individual case data.</article-title>
+            <source>Lancet Infect Dis</source>
+            <year>2016</year>
+            <month>Jul</month>
+            <volume>16</volume>
+            <issue>7</issue>
+            <fpage>e108</fpage>
+            <page-range>e108-e118</page-range>
+            <pub-id pub-id-type="pmid">27211899</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18048.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cowling</surname>
+                <given-names>BJ</given-names>
+              </name>
+              <name>
+                <surname>Jin</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Lau</surname>
+                <given-names>EH</given-names>
+              </name>
+              <name>
+                <surname>Liao</surname>
+                <given-names>Q</given-names>
+              </name>
+              <name>
+                <surname>Wu</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Jiang</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Tsang</surname>
+                <given-names>TK</given-names>
+              </name>
+              <name>
+                <surname>Zheng</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Fang</surname>
+                <given-names>VJ</given-names>
+              </name>
+              <name>
+                <surname>Chang</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Ni</surname>
+                <given-names>MY</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>Q</given-names>
+              </name>
+              <name>
+                <surname>Ip</surname>
+                <given-names>DK</given-names>
+              </name>
+              <name>
+                <surname>Yu</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Tu</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Meng</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Wu</surname>
+                <given-names>JT</given-names>
+              </name>
+              <name>
+                <surname>Luo</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>Q</given-names>
+              </name>
+              <name>
+                <surname>Shu</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Feng</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Yang</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Leung</surname>
+                <given-names>GM</given-names>
+              </name>
+              <name>
+                <surname>Yu</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Comparative epidemiology of human infections with avian influenza A H7N9 and H5N1 viruses in China: a population-based study of laboratory-confirmed cases.</article-title>
+            <source>Lancet</source>
+            <year>2013</year>
+            <month>Jul</month>
+            <day>13</day>
+            <volume>382</volume>
+            <issue>9887</issue>
+            <fpage>129</fpage>
+            <page-range>129-37</page-range>
+            <pub-id pub-id-type="pmid">23803488</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18048.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Qin</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Horby</surname>
+                <given-names>PW</given-names>
+              </name>
+              <name>
+                <surname>Tsang</surname>
+                <given-names>TK</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Gao</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Ou</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Nguyen</surname>
+                <given-names>TH</given-names>
+              </name>
+              <name>
+                <surname>Duong</surname>
+                <given-names>TN</given-names>
+              </name>
+              <name>
+                <surname>Gasimov</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Feng</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Wu</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Jiang</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Ren</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Peng</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Zheng</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hu</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hong</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Farrar</surname>
+                <given-names>JJ</given-names>
+              </name>
+              <name>
+                <surname>Leung</surname>
+                <given-names>GM</given-names>
+              </name>
+              <name>
+                <surname>Gao</surname>
+                <given-names>GF</given-names>
+              </name>
+              <name>
+                <surname>Cowling</surname>
+                <given-names>BJ</given-names>
+              </name>
+              <name>
+                <surname>Yu</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Differences in the Epidemiology of Human Cases of Avian Influenza A(H7N9) and A(H5N1) Viruses Infection.</article-title>
+            <source>Clin Infect Dis</source>
+            <year>2015</year>
+            <month>Aug</month>
+            <day>15</day>
+            <volume>61</volume>
+            <issue>4</issue>
+            <fpage>563</fpage>
+            <page-range>563-71</page-range>
+            <pub-id pub-id-type="pmid">25940354</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18048.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kumlin</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>Olofsson</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Dimock</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Arnberg</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Sialic acid tissue distribution and influenza virus tropism.</article-title>
+            <source>Influenza Other Respir Viruses</source>
+            <year>2008</year>
+            <month>Sep</month>
+            <volume>2</volume>
+            <issue>5</issue>
+            <fpage>147</fpage>
+            <page-range>147-54</page-range>
+            <pub-id pub-id-type="pmid">19453419</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18048.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Belser</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Lash</surname>
+                <given-names>RR</given-names>
+              </name>
+              <name>
+                <surname>Garg</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Tumpey</surname>
+                <given-names>TM</given-names>
+              </name>
+              <name>
+                <surname>Maines</surname>
+                <given-names>TR</given-names>
+              </name>
+            </person-group>
+            <article-title>The eyes have it: influenza virus infection beyond the respiratory tract.</article-title>
+            <source>Lancet Infect Dis</source>
+            <year>2018</year>
+            <month>Jul</month>
+            <volume>18</volume>
+            <issue>7</issue>
+            <fpage>e220</fpage>
+            <page-range>e220-e227</page-range>
+            <pub-id pub-id-type="pmid">29477464</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18048.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Beigel</surname>
+                <given-names>JH</given-names>
+              </name>
+              <name>
+                <surname>Farrar</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Han</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Hayden</surname>
+                <given-names>FG</given-names>
+              </name>
+              <name>
+                <surname>Hyer</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>de Jong</surname>
+                <given-names>MD</given-names>
+              </name>
+              <name>
+                <surname>Lochindarat</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Nguyen</surname>
+                <given-names>TK</given-names>
+              </name>
+              <name>
+                <surname>Nguyen</surname>
+                <given-names>TH</given-names>
+              </name>
+              <name>
+                <surname>Tran</surname>
+                <given-names>TH</given-names>
+              </name>
+              <name>
+                <surname>Nicoll</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Touch</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Yuen</surname>
+                <given-names>KY</given-names>
+              </name>
+              <collab>Writing Committee of the World Health Organization (WHO) Consultation on Human Influenza A/H5</collab>
+            </person-group>
+            <article-title>Avian influenza A (H5N1) infection in humans.</article-title>
+            <source>N Engl J Med</source>
+            <year>2005</year>
+            <month>Sep</month>
+            <day>29</day>
+            <volume>353</volume>
+            <issue>13</issue>
+            <fpage>1374</fpage>
+            <page-range>1374-85</page-range>
+            <pub-id pub-id-type="pmid">16192482</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18048.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zhuang</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Zang</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Ye</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Xu</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>Lethal avian influenza A (H5N1) virus induces ataxic breathing in mice with apoptosis of pre-Botzinger complex neurons expressing neurokinin-1 receptor.</article-title>
+            <source>Am J Physiol Lung Cell Mol Physiol</source>
+            <year>2017</year>
+            <month>Nov</month>
+            <day>01</day>
+            <volume>313</volume>
+            <issue>5</issue>
+            <fpage>L772</fpage>
+            <page-range>L772-L780</page-range>
+            <pub-id pub-id-type="pmid">28729347</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18048.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Peacock</surname>
+                <given-names>THP</given-names>
+              </name>
+              <name>
+                <surname>James</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Sealy</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Iqbal</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>A Global Perspective on H9N2 Avian Influenza Virus.</article-title>
+            <source>Viruses</source>
+            <year>2019</year>
+            <month>Jul</month>
+            <day>05</day>
+            <volume>11</volume>
+            <issue>7</issue>
+            <pub-id pub-id-type="pmid">31284485</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18048.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zhou</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Bao</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Xiang</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Wu</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Wu</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Shi</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Zheng</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Ren</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Greene</surname>
+                <given-names>CM</given-names>
+              </name>
+              <name>
+                <surname>Havers</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Iuliano</surname>
+                <given-names>AD</given-names>
+              </name>
+              <name>
+                <surname>Song</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Ni</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Feng</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Uyeki</surname>
+                <given-names>TM</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>Q</given-names>
+              </name>
+            </person-group>
+            <article-title>Clusters of Human Infection and Human-to-Human Transmission of Avian Influenza A(H7N9) Virus, 2013-2017.</article-title>
+            <source>Emerg Infect Dis</source>
+            <year>2018</year>
+            <month>Feb</month>
+            <volume>24</volume>
+            <issue>2</issue>
+            <fpage>397</fpage>
+            <page-range>397-400</page-range>
+            <pub-id pub-id-type="pmid">29165238</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18048.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chen</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Zheng</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Shu</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Cui</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Yu</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Shang</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Rapid diagnostic tests for identifying avian influenza A(H7N9) virus in clinical samples.</article-title>
+            <source>Emerg Infect Dis</source>
+            <year>2015</year>
+            <month>Jan</month>
+            <volume>21</volume>
+            <issue>1</issue>
+            <fpage>87</fpage>
+            <page-range>87-90</page-range>
+            <pub-id pub-id-type="pmid">25529064</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18048.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sch&#x000fc;nemann</surname>
+                <given-names>HJ</given-names>
+              </name>
+              <name>
+                <surname>Hill</surname>
+                <given-names>SR</given-names>
+              </name>
+              <name>
+                <surname>Kakad</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Bellamy</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Uyeki</surname>
+                <given-names>TM</given-names>
+              </name>
+              <name>
+                <surname>Hayden</surname>
+                <given-names>FG</given-names>
+              </name>
+              <name>
+                <surname>Yazdanpanah</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Beigel</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Chotpitayasunondh</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Del Mar</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Farrar</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Tran</surname>
+                <given-names>TH</given-names>
+              </name>
+              <name>
+                <surname>Ozbay</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Sugaya</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Fukuda</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Shindo</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Stockman</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Vist</surname>
+                <given-names>GE</given-names>
+              </name>
+              <name>
+                <surname>Croisier</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Nagjdaliyev</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Roth</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Thomson</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Zucker</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Oxman</surname>
+                <given-names>AD</given-names>
+              </name>
+              <collab>WHO Rapid Advice Guideline Panel on Avian Influenza</collab>
+            </person-group>
+            <article-title>WHO Rapid Advice Guidelines for pharmacological management of sporadic human infection with avian influenza A (H5N1) virus.</article-title>
+            <source>Lancet Infect Dis</source>
+            <year>2007</year>
+            <month>Jan</month>
+            <volume>7</volume>
+            <issue>1</issue>
+            <fpage>21</fpage>
+            <page-range>21-31</page-range>
+            <pub-id pub-id-type="pmid">17182341</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18048.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Herbinger</surname>
+                <given-names>KH</given-names>
+              </name>
+              <name>
+                <surname>von Sonnenburg</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Nothdurft</surname>
+                <given-names>HD</given-names>
+              </name>
+              <name>
+                <surname>Perona</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Borkowski</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Fragapane</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Nicolay</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>Clemens</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>A phase II study of an investigational tetravalent influenza vaccine formulation combining MF59&#x000ae;: adjuvanted, pre-pandemic, A/H5N1 vaccine and trivalent seasonal influenza vaccine in healthy adults.</article-title>
+            <source>Hum Vaccin Immunother</source>
+            <year>2014</year>
+            <volume>10</volume>
+            <issue>1</issue>
+            <fpage>92</fpage>
+            <page-range>92-9</page-range>
+            <pub-id pub-id-type="pmid">24047817</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18048.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Vaughn</surname>
+                <given-names>DW</given-names>
+              </name>
+              <name>
+                <surname>Seifert</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Hepburn</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Dewe</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Drame</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Cohet</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Innis</surname>
+                <given-names>BL</given-names>
+              </name>
+              <name>
+                <surname>Fries</surname>
+                <given-names>LF</given-names>
+              </name>
+            </person-group>
+            <article-title>Safety of AS03-adjuvanted inactivated split virion A(H1N1)pdm09 and H5N1 influenza virus vaccines administered to adults: pooled analysis of 28 clinical trials.</article-title>
+            <source>Hum Vaccin Immunother</source>
+            <year>2014</year>
+            <volume>10</volume>
+            <issue>10</issue>
+            <fpage>2942</fpage>
+            <page-range>2942-57</page-range>
+            <pub-id pub-id-type="pmid">25483467</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18048.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Feldstein</surname>
+                <given-names>LR</given-names>
+              </name>
+              <name>
+                <surname>Matrajt</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Elizabeth Halloran</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Keitel</surname>
+                <given-names>WA</given-names>
+              </name>
+              <name>
+                <surname>Longini</surname>
+                <given-names>IM</given-names>
+              </name>
+              <collab>H5N1 Vaccine Working Group</collab>
+            </person-group>
+            <article-title>Extrapolating theoretical efficacy of inactivated influenza A/H5N1 virus vaccine from human immunogenicity studies.</article-title>
+            <source>Vaccine</source>
+            <year>2016</year>
+            <month>Jul</month>
+            <day>19</day>
+            <volume>34</volume>
+            <issue>33</issue>
+            <fpage>3796</fpage>
+            <page-range>3796-802</page-range>
+            <pub-id pub-id-type="pmid">27268778</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18048.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Khurana</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Coyle</surname>
+                <given-names>EM</given-names>
+              </name>
+              <name>
+                <surname>Manischewitz</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>King</surname>
+                <given-names>LR</given-names>
+              </name>
+              <name>
+                <surname>Gao</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Germain</surname>
+                <given-names>RN</given-names>
+              </name>
+              <name>
+                <surname>Schwartzberg</surname>
+                <given-names>PL</given-names>
+              </name>
+              <name>
+                <surname>Tsang</surname>
+                <given-names>JS</given-names>
+              </name>
+              <name>
+                <surname>Golding</surname>
+                <given-names>H</given-names>
+              </name>
+              <collab>and the CHI Consortium</collab>
+            </person-group>
+            <article-title>AS03-adjuvanted H5N1 vaccine promotes antibody diversity and affinity maturation, NAI titers, cross-clade H5N1 neutralization, but not H1N1 cross-subtype neutralization.</article-title>
+            <source>NPJ Vaccines</source>
+            <year>2018</year>
+            <volume>3</volume>
+            <fpage>40</fpage>
+            <pub-id pub-id-type="pmid">30302282</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18048.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Baz</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Luke</surname>
+                <given-names>CJ</given-names>
+              </name>
+              <name>
+                <surname>Cheng</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Jin</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Subbarao</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>H5N1 vaccines in humans.</article-title>
+            <source>Virus Res</source>
+            <year>2013</year>
+            <month>Dec</month>
+            <day>05</day>
+            <volume>178</volume>
+            <issue>1</issue>
+            <fpage>78</fpage>
+            <page-range>78-98</page-range>
+            <pub-id pub-id-type="pmid">23726847</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18048.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bailey</surname>
+                <given-names>ES</given-names>
+              </name>
+              <name>
+                <surname>Fieldhouse</surname>
+                <given-names>JK</given-names>
+              </name>
+              <name>
+                <surname>Choi</surname>
+                <given-names>JY</given-names>
+              </name>
+              <name>
+                <surname>Gray</surname>
+                <given-names>GC</given-names>
+              </name>
+            </person-group>
+            <article-title>A Mini Review of the Zoonotic Threat Potential of Influenza Viruses, Coronaviruses, Adenoviruses, and Enteroviruses.</article-title>
+            <source>Front Public Health</source>
+            <year>2018</year>
+            <volume>6</volume>
+            <fpage>104</fpage>
+            <pub-id pub-id-type="pmid">29686984</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

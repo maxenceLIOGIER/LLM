@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-17676" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Antibiotic Resistance</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Habboush</surname>
+            <given-names>Yacob</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Guzman</surname>
+            <given-names>Nilmarie</given-names>
+          </name>
+          <aff>Orange Park Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Yacob Habboush declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Nilmarie Guzman declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>6</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-17676.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Antibiotics are powerful drugs that are used to combat once fatal diseases. As with any powerful medication, antibiotics carry a wide range of adverse effects. The appropriate use of such agents has a high beneficiary effect that outweighs the risks. However, once antibiotics are unnecessarily used, patients experience no benefits while their susceptibility to the side effects is still present. Moreover, antibiotics disrupt the composition of the infectious agent, leading to bacterial adaptation or mutations, and in turn, to new strains that are resistant to the current antibiotic regimen. The inappropriate use of antibiotics in one patient might develop a resistant strain that spreads to other patients that do not use antibiotics, which makes this issue a pressing public health problem. In 2015, 30% of the outpatient antibiotics prescribed were unnecessary, with acute respiratory infections holding the highest unnecessary use of antibiotics at 50%. This activity reviews the considerations for the use of antibiotics and discusses the role of the interprofessional team in educating patients and providers on when they are necessary and when they should be avoided.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Explain the purpose of antibiotics.</p></list-item><list-item><p>Describe the issues of concern with the unnecessary prescription of antibiotics.</p></list-item><list-item><p>Review the clinical significance of being judicious in prescribing antibiotics.</p></list-item><list-item><p>Summarize the current antibiotic stewardship guidelines set forth by the Infectious Diseases Society of America (IDSA) and the role of the interprofessional team in following these guidelines.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=17676&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=17676">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-17676.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Recognition of issues related to the use of antibiotics has been present since their early clinical introduction in the 1940s. Since then, the use of antimicrobials and often inappropriate use of these have been increasing. Antibiotic resistance in the United States kills approximately 23,000 patients a year and incurs over $20 billion in additional medical expenses. Antibiotic stewardship was established to combat this trend and was recognized in 1996 to draw attention to the rising incidents in mortality and morbidity associated with inappropriate use of antibiotics. Antimicrobial agents are at least partially responsible for the development of serious infections, such as Staphylococcus aureus, vancomycin-resistant enterococci, extended-spectrum B-lactamase producing Enterobacteriaceae, and other infectious agents. The focus of the stewardship programs is to improve clinical outcomes, decrease antibiotic resistance, and decrease healthcare costs. In 2007, stewardship programs were nationally recognized and reinforced by the publication of the stewardship guidelines from the Infectious Disease Society of America (IDSA) in association with the Society of Healthcare Epidemiology of America (SHEA). These guidelines were helpful in developing an institutional program to enhance antimicrobial stewardship.<xref ref-type="bibr" rid="article-17676.r1">[1]</xref><xref ref-type="bibr" rid="article-17676.r2">[2]</xref><xref ref-type="bibr" rid="article-17676.r3">[3]</xref></p>
+        <p>Antibiotics are powerful drugs that are used to combat once fatal diseases. As with any powerful medication, antibiotics carry a wide range of adverse effects. The appropriate&#x000a0;use of such agents has a high beneficiary effect that outweighs the risks. However, once antibiotics are unnecessarily used, patients experience no benefits while their susceptibility to the side effects is still present. Moreover, antibiotics disrupt the&#x000a0;composition of the&#x000a0;infectious agent, leading to bacterial adaptation or mutations, and in turn,&#x000a0;to new strains that are&#x000a0;resistant to the current antibiotic regimen. The inappropriate use of antibiotics in one patient might develop a resistant strain that spreads to other patients that do not use antibiotics, which makes this issue a pressing public health problem. In 2015, 30% of the outpatient antibiotics prescribed were unnecessary, with acute respiratory infections holding the highest unnecessary use of antibiotics at 50%.</p>
+      </sec>
+      <sec id="article-17676.s3" sec-type="Function">
+        <title>Function</title>
+        <p>Antibiotic resistance occurs when bacteria evolve to evade the effect of antibiotics through multiple different mechanisms. Dissemination of antibiotic resistance genes is an ecological and public health concern. Certain bacteria are able to neutralize an antibiotic by altering its component to render it ineffective. Others might be able to&#x000a0;export the antibiotics out of the bacteria, and some can modify their outer structure and receptors so that antibiotics cannot attach to them. These mechanisms might lead to some bacteria surviving the use of the specific antibiotic and developing a resistance that can be passed to other bacteria as they multiply. Bacteria&#x000a0;also&#x000a0;can become resistant through mutation of their genetic material.</p>
+        <p>The mechanism of antibiotic resistance is commonly categorized into the following four groups:</p>
+        <list list-type="order">
+          <list-item>
+            <p><bold>Intrinsic Resistance: </bold>Bacteria might survive an antibiotic due to intrinsic resistance through evolution by changing their structure or components. For example, an antibiotic that affects the wall-building mechanism of the bacteria, such as penicillin, cannot affect bacteria that do not have a cell wall.</p>
+          </list-item>
+          <list-item>
+            <p><bold>Acquired Resistance:</bold> Bacteria can obtain the ability to resist the activity of a particular antimicrobial agent to which it was previously susceptible. Bacteria can acquire resistance through a new genetic mutation that helps the bacterium survive or by getting DNA from a bacterium that&#x000a0;already&#x000a0;is resistant. An&#x000a0;example is Mycobacterium tuberculosis resistance to rifamycin.</p>
+          </list-item>
+          <list-item>
+            <p><bold>Genetic Change: </bold>Bacterium DNA might change and alter the production of protein, leading to different bacterial components and receptors which render the bacteria unrecognized by the antibiotic. Bacteria sharing the environment might harbor intrinsic genetic determinants of resistance that would alter the genomics of the bacteria. An example is Escherichia coli (E. coli) and Haemophilus influenza resistance to trimethoprim.</p>
+          </list-item>
+          <list-item>
+            <p><bold>DNA Transfer:</bold> Bacteria can share genetic components with other bacteria and transfer the resistant DNA through a horizontal gene transfer. Usually, bacteria acquire external genetic material through three main stages:</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Transformation (through naked DNA incorporation)</p>
+          </list-item>
+          <list-item>
+            <p>Transduction (through the process of phagocytosis)</p>
+          </list-item>
+          <list-item>
+            <p>Conjugation (through direct contact).</p>
+          </list-item>
+        </list>
+        <p>An example&#x000a0;is Staphylococcus aureus resistance to methicillin (MRSA).</p>
+        <p>Several organisms are resistant to multiple antibiotics. For example, isolated E. coli and Enterococcus that are inhibited by cefoxitin, ciprofloxacin, or erythromycin are usually resistant to at least one antibiotic and sometimes multiple antibiotic types including&#x000a0;macrolides, tetracyclines, beta-lactams, quinolones, sulfonamides, tetracyclines, and rifamycin.</p>
+      </sec>
+      <sec id="article-17676.s4" sec-type="Issues of Concern">
+        <title>Issues of Concern</title>
+        <p>In the past, medicine was able to stay ahead of antimicrobial resistance through research and the development of new agents to overcome the different types of&#x000a0;resistance patterns; however, with the recent development of vancomycin-resistant enterococci and the new subtypes of methicillin-resistant Staphylococcus aureus, antibiotic resistance is more prevalent and&#x000a0;only&#x000a0;can be minimized through stewardship. To combat the rising use of antibiotics, medical and public health professionals have to collaborate to reduce the inappropriate use of antibiotics. Physicians will have to balance the risks of not treating or inadequately treating against the risk of antibiotic use regarding adverse effects, drug interactions, cost, and antibiotic resistance. From a clinical perspective, many providers may not be highly concerned about their antibiotic prescribing habits since many patients expect to get an antibiotic when they visit a physician for an issue they perceive as bacterial. A didactic educational discussion with the patient is necessary to change the overprescribing phenomenon. Patients should be educated on the viral etiology of different infectious disease syndromes in which antibiotics are unnecessary. The prescription of antibiotics in these circumstances is futile. It exposes the patients to undesirable side effects or drug-drug interactions and increases healthcare costs, in addition to contributing to the development of antimicrobial resistance. For instance, a patient with infectious mononucleosis is treated with oral amoxicillin and develops a rash.<xref ref-type="bibr" rid="article-17676.r4">[4]</xref><xref ref-type="bibr" rid="article-17676.r5">[5]</xref></p>
+        <p>Antibiotic stewardship aims to provide a guide for the appropriate&#x000a0;use of antibiotics. One of the general principles is to manage patients empirically and then tailor antibiotic therapy based on microbiology results. There are multiple strategies a stewardship program can focus on such as&#x000a0;educational, antimicrobial formulary restrictions, prospective audit and feedback, computer-assisted notifications, molecular testing technology, application of management guidelines, and interprofessional strategies. The core components of&#x000a0;an antibiotic stewardship program are leadership commitment, accountability, antibiotic expertise, actions to tailor antibiotic use, tracking of antibiotic use, reporting antibiotic use, and educating clinicians on appropriate&#x000a0;antibiotic&#x000a0;use.</p>
+      </sec>
+      <sec id="article-17676.s5" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>It is important to recognize that the concept of antimicrobial resistance in clinical practice is a relative phenomenon with high complexity. Engaging patients is crucial for successful antimicrobial stewardship to reduce rates of antibiotic resistance. Educating patients on what they can do to keep themselves safe is part of the discussion on improving antibiotic use. This includes raising awareness about the adverse effects of antibiotics as well as the&#x000a0;potential consequences of&#x000a0;unnecessary&#x000a0;antibiotic use. Also, finding different diagnostic tools to help in guiding the antibiotic treatment is highly beneficial, such as the Overlap2 Method,&#x000a0;a new initiative&#x000a0;to determine the synergic effect of antibiotics on different antimicrobials. Clinical approach to antimicrobial stewardship might differ from outpatient to inpatient settings; however, all share the goal of improving antibiotic use as a core component of fighting antibiotic resistance.<xref ref-type="bibr" rid="article-17676.r6">[6]</xref><xref ref-type="bibr" rid="article-17676.r7">[7]</xref></p>
+        <p>Measuring the clinical significance of antimicrobial stewardship is complicated and can be assessed by clinical and economic outcomes. A recent study compared the use of continuous antibiotics versus intermittent antibiotics to manage bronchiectasis (by assessing the reduction in the frequency and duration of exacerbations) to the risks of managing antibiotic resistance and minimizing side effects demonstrated a lack of high-evidence studies assessing the impact of stewardship programs. Hence, more prospective clinical trials are needed to evaluate the impact of antimicrobial stewardship on clinical outcomes. Outcome measures to utilize are decreased in the length of stay, lower readmission rates, and shorten the period to place the patient on proper effective therapy. On the other hand, economic&#x000a0;outcomes provide stronger results showing the benefits of such stewardship programs. Economic&#x000a0;outcomes do not only refer to the antimicrobial expenditure, but also include&#x000a0;the costs of the drug, microbiology, length of stay, and infectious disease specialists. More significant savings can result from improved clinical outcomes due to decreased length of stay and reduction in complications related to antibiotic use, such as with <italic toggle="yes">Clostridium difficile</italic>&#x000a0;associated disease.</p>
+      </sec>
+      <sec id="article-17676.s6" sec-type="Other Issues">
+        <title>Other Issues</title>
+        <p>Antibiotic Stewardship guidelines by the Infectious Diseases Society of America (IDSA)&#x000a0;mainly&#x000a0;focus on the following:<xref ref-type="bibr" rid="article-17676.r8">[8]</xref></p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Incorporate direct interaction and feedback to the prescriber to reduce inappropriate antimicrobial use</p>
+          </list-item>
+          <list-item>
+            <p>Restrict formulary antimicrobial use by requiring specialized authorizations</p>
+          </list-item>
+          <list-item>
+            <p>Develop institution-specific clinical pathways based on local microbiology and resistance patterns</p>
+          </list-item>
+          <list-item>
+            <p>Streamlining and de-escalate therapy to eliminate redundant combination therapy</p>
+          </list-item>
+          <list-item>
+            <p>Ensure dose optimization based site of infection, pharmacokinetic, and pharmacodynamic characteristics</p>
+          </list-item>
+          <list-item>
+            <p>Develop clinical pathways advising providers about appropriate parenteral to oral conversions</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-17676.s7" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>In 2017, the Joint Commission announced new stewardship standards requiring every hospital in the United States to have a stewardship program. However, many hospitals have yet to adopt these programs, and many institutions fear that smaller hospitals may not have the ability to develop effective stewardship programs. There are a few possible solutions to overcome these barriers such as joining a larger healthcare system to utilize their resources, pooling resources from other hospitals, and facilitating the use of their state's health department resources. Stewardship is a function of a health system that is usually managed by the government to oversee and regulate healthcare. Antimicrobial stewardship programs require a systematic measurement and coordinated interventions between clinicians, infection control personnel, pharmacists, and informational technology designed to promote the optimal use of antibiotic agents, including their choice, dosing, route, and duration of administration.<xref ref-type="bibr" rid="article-17676.r9">[9]</xref><xref ref-type="bibr" rid="article-17676.r10">[10]</xref></p>
+      </sec>
+      <sec id="article-17676.s8">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=17676&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=17676">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/17676/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=17676">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-17676.s9">
+        <title>References</title>
+        <ref id="article-17676.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zhao</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Zhu</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Field-based evidence for enrichment of antibiotic resistance genes and mobile genetic elements in manure-amended vegetable soils.</article-title>
+            <source>Sci Total Environ</source>
+            <year>2019</year>
+            <month>Mar</month>
+            <day>01</day>
+            <volume>654</volume>
+            <fpage>906</fpage>
+            <page-range>906-913</page-range>
+            <pub-id pub-id-type="pmid">30453260</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17676.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ghaddar</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Hashemidahaj</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Findlay</surname>
+                <given-names>BL</given-names>
+              </name>
+            </person-group>
+            <article-title>Access to high-impact mutations constrains the evolution of antibiotic resistance in soft agar.</article-title>
+            <source>Sci Rep</source>
+            <year>2018</year>
+            <month>Nov</month>
+            <day>19</day>
+            <volume>8</volume>
+            <issue>1</issue>
+            <fpage>17023</fpage>
+            <pub-id pub-id-type="pmid">30451932</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17676.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ragheb</surname>
+                <given-names>MN</given-names>
+              </name>
+              <name>
+                <surname>Thomason</surname>
+                <given-names>MK</given-names>
+              </name>
+              <name>
+                <surname>Hsu</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Nugent</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Gage</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Samadpour</surname>
+                <given-names>AN</given-names>
+              </name>
+              <name>
+                <surname>Kariisa</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Merrikh</surname>
+                <given-names>CN</given-names>
+              </name>
+              <name>
+                <surname>Miller</surname>
+                <given-names>SI</given-names>
+              </name>
+              <name>
+                <surname>Sherman</surname>
+                <given-names>DR</given-names>
+              </name>
+              <name>
+                <surname>Merrikh</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Inhibiting the Evolution of Antibiotic Resistance.</article-title>
+            <source>Mol Cell</source>
+            <year>2019</year>
+            <month>Jan</month>
+            <day>03</day>
+            <volume>73</volume>
+            <issue>1</issue>
+            <fpage>157</fpage>
+            <page-range>157-165.e5</page-range>
+            <pub-id pub-id-type="pmid">30449724</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17676.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Prasetyoputri</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Jarrad</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Cooper</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Blaskovich</surname>
+                <given-names>MAT</given-names>
+              </name>
+            </person-group>
+            <article-title>The Eagle Effect and Antibiotic-Induced Persistence: Two Sides of the Same Coin?</article-title>
+            <source>Trends Microbiol</source>
+            <year>2019</year>
+            <month>Apr</month>
+            <volume>27</volume>
+            <issue>4</issue>
+            <fpage>339</fpage>
+            <page-range>339-354</page-range>
+            <pub-id pub-id-type="pmid">30448198</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17676.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Eggermont</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Smit</surname>
+                <given-names>MAM</given-names>
+              </name>
+              <name>
+                <surname>Kwestroo</surname>
+                <given-names>GA</given-names>
+              </name>
+              <name>
+                <surname>Verheij</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Hek</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Kunst</surname>
+                <given-names>AE</given-names>
+              </name>
+            </person-group>
+            <article-title>The influence of gender concordance between general practitioner and patient on antibiotic prescribing for sore throat symptoms: a retrospective study.</article-title>
+            <source>BMC Fam Pract</source>
+            <year>2018</year>
+            <month>Nov</month>
+            <day>17</day>
+            <volume>19</volume>
+            <issue>1</issue>
+            <fpage>175</fpage>
+            <pub-id pub-id-type="pmid">30447685</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17676.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bender</surname>
+                <given-names>JK</given-names>
+              </name>
+              <name>
+                <surname>Cattoir</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Hegstad</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Sadowy</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Coque</surname>
+                <given-names>TM</given-names>
+              </name>
+              <name>
+                <surname>Westh</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Hammerum</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Schaffer</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Burns</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Murchan</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Novais</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Freitas</surname>
+                <given-names>AR</given-names>
+              </name>
+              <name>
+                <surname>Peixe</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Del Grosso</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Pantosti</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Werner</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Update on prevalence and mechanisms of resistance to linezolid, tigecycline and daptomycin in enterococci in Europe: Towards a common nomenclature.</article-title>
+            <source>Drug Resist Updat</source>
+            <year>2018</year>
+            <month>Sep</month>
+            <volume>40</volume>
+            <fpage>25</fpage>
+            <page-range>25-39</page-range>
+            <pub-id pub-id-type="pmid">30447411</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17676.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Serio</surname>
+                <given-names>AW</given-names>
+              </name>
+              <name>
+                <surname>Keepers</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Andrews</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Krause</surname>
+                <given-names>KM</given-names>
+              </name>
+            </person-group>
+            <article-title>Aminoglycoside Revival: Review of a Historically Important Class of Antimicrobials Undergoing Rejuvenation.</article-title>
+            <source>EcoSal Plus</source>
+            <year>2018</year>
+            <month>Nov</month>
+            <volume>8</volume>
+            <issue>1</issue>
+            <pub-id pub-id-type="pmid">30447062</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17676.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dellit</surname>
+                <given-names>TH</given-names>
+              </name>
+              <name>
+                <surname>Owens</surname>
+                <given-names>RC</given-names>
+              </name>
+              <name>
+                <surname>McGowan</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Gerding</surname>
+                <given-names>DN</given-names>
+              </name>
+              <name>
+                <surname>Weinstein</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Burke</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Huskins</surname>
+                <given-names>WC</given-names>
+              </name>
+              <name>
+                <surname>Paterson</surname>
+                <given-names>DL</given-names>
+              </name>
+              <name>
+                <surname>Fishman</surname>
+                <given-names>NO</given-names>
+              </name>
+              <name>
+                <surname>Carpenter</surname>
+                <given-names>CF</given-names>
+              </name>
+              <name>
+                <surname>Brennan</surname>
+                <given-names>PJ</given-names>
+              </name>
+              <name>
+                <surname>Billeter</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Hooton</surname>
+                <given-names>TM</given-names>
+              </name>
+              <collab>Infectious Diseases Society of America</collab>
+              <collab>Society for Healthcare Epidemiology of America</collab>
+            </person-group>
+            <article-title>Infectious Diseases Society of America and the Society for Healthcare Epidemiology of America guidelines for developing an institutional program to enhance antimicrobial stewardship.</article-title>
+            <source>Clin Infect Dis</source>
+            <year>2007</year>
+            <month>Jan</month>
+            <day>15</day>
+            <volume>44</volume>
+            <issue>2</issue>
+            <fpage>159</fpage>
+            <page-range>159-77</page-range>
+            <pub-id pub-id-type="pmid">17173212</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17676.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Steffens</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Quintens</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Derdelinckx</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Peetermans</surname>
+                <given-names>WE</given-names>
+              </name>
+              <name>
+                <surname>Van Eldere</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Spriet</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Schuermans</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Outpatient parenteral antimicrobial therapy and antibiotic stewardship: opponents or teammates?</article-title>
+            <source>Infection</source>
+            <year>2019</year>
+            <month>Apr</month>
+            <volume>47</volume>
+            <issue>2</issue>
+            <fpage>169</fpage>
+            <page-range>169-181</page-range>
+            <pub-id pub-id-type="pmid">30443780</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-17676.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Aslam</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Arshad</surname>
+                <given-names>MI</given-names>
+              </name>
+              <name>
+                <surname>Khurshid</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Muzammil</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Rasool</surname>
+                <given-names>MH</given-names>
+              </name>
+              <name>
+                <surname>Nisar</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Alvi</surname>
+                <given-names>RF</given-names>
+              </name>
+              <name>
+                <surname>Aslam</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Qamar</surname>
+                <given-names>MU</given-names>
+              </name>
+              <name>
+                <surname>Salamat</surname>
+                <given-names>MKF</given-names>
+              </name>
+              <name>
+                <surname>Baloch</surname>
+                <given-names>Z</given-names>
+              </name>
+            </person-group>
+            <article-title>Antibiotic resistance: a rundown of a global crisis.</article-title>
+            <source>Infect Drug Resist</source>
+            <year>2018</year>
+            <volume>11</volume>
+            <fpage>1645</fpage>
+            <page-range>1645-1658</page-range>
+            <pub-id pub-id-type="pmid">30349322</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

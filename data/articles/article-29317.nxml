@@ -1,0 +1,1335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-29317" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Spinal Cord Stimulation</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Garcia</surname>
+            <given-names>Karolain</given-names>
+          </name>
+          <aff>University of Florida</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Wray</surname>
+            <given-names>Joseph K.</given-names>
+          </name>
+          <aff>San Antonio Military Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Kumar</surname>
+            <given-names>Sanjeev</given-names>
+          </name>
+          <aff>University of Florida</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Karolain Garcia declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Joseph Wray declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Sanjeev Kumar declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>24</day>
+          <month>4</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-29317.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>In the middle of the spectrum of increasingly invasive pain treatment modalities lies spinal cord stimulation (SCS), also referred to as dorsal column stimulation. More intrusive than percutaneous injection therapy, yet less invasive than back surgery, this technique uses pulsed electrical energy near the spinal cord to manage pain. This activity reviews the indications, contraindications, equipment, preparation, technique, and complications for dorsal column stimulation. Ultimately, this activity highlights how the interprofessional team's role can utilize spinal cord stimulation in managing patients with chronic pain.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Identify the relevant indications and contraindications for spinal cord stimulation.</p></list-item><list-item><p>Describe the equipment, personnel, preparation, and technique involved in spinal cord stimulation.</p></list-item><list-item><p>Outline potential complications associated with spinal cord stimulation.</p></list-item><list-item><p>Summarize interprofessional team strategies for improving the care of chronic pain treatable by spinal cord stimulation to improve patient outcomes.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=29317&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=29317">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-29317.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Spinal cord stimulation uses pulsed electrical energy near the spinal cord to manage pain.<xref ref-type="bibr" rid="article-29317.r1">[1]</xref> Initially, this technique applied pulsed energy in the intrathecal space.<xref ref-type="bibr" rid="article-29317.r2">[2]</xref>&#x000a0;Presently, neuromodulation involves the implantation of leads in the epidural space. A similar principle utilizes the central nervous system and the peripheral nervous system stimulation in deep/cortical brain stimulation and peripheral nerve stimulation, respectively. Neurostimulation modalities arose as a response to treating the gate control theory of pain by Melzack and Wall. In summary, they posed that pain impulses provoked in the periphery, which are carried by C fibers and A-delta fibers, could be interrupted by stimulating larger A-beta fibers. This interruption is facilitated by the common nerve synapse location in the substantia gelatinosa of the dorsal horn. In other words, stimulation of the touch and vibration nerves &#x0201c;closes the gate&#x0201d; on ascending pain impulses that carry noxious pain stimuli cephalad.<xref ref-type="bibr" rid="article-29317.r2">[2]</xref>&#x000a0;Multiple pain systems are responsible for the sensation of pain; these systems are composed of&#x000a0;integrative neuronal sets (conduct excitatory or inhibitory signals on the nociceptors).<xref ref-type="bibr" rid="article-29317.r3">[3]</xref>&#x000a0;The interrelation between these three systems is responsible for the perceived sensation of pain and the responses associated with it. First, nociceptors receive signals of noxious temperature, chemical, or mechanical stimuli (peripheral neurons). They send this information to second-order neurons located in the spinal cord, mainly in the dorsal horn (central pathways), which are then transmitted via projection neurons to the brainstem (integrative neurons).</p>
+        <p>
+<bold>Nociceptive Fibers (peripheral pain receptors)</bold>
+</p>
+        <list list-type="order">
+          <list-item>
+            <p>&#x000a0;Unmyelinated C fibers and lightly myelinated A-beta fibers (small nociceptive fibers, which conduct pain)</p>
+          </list-item>
+          <list-item>
+            <p>&#x000a0;Myelinated A-beta fibers (large non-nociceptive fibers, which conduct touch, pressure, and vibration)</p>
+          </list-item>
+          <list-item>
+            <p>Central pathways (relay neuronal signals to higher brain structures)</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>The primary integrative site in the brain is the thalamus, but other structures also participate in response to pain. Once the brain receives the pain signals, several reactions are generated almost immediately to modify and respond to these signals. These reactions include, but are not limited to, somatic and autonomic reflexes, negative or positive feedback to increase or reduce the pain, endocrine and emotional responses, cortical awareness, or the pain, as well as the memory of the event.</p>
+          </list-item>
+          <list-item>
+            <p>The gate control theory of pain, mentioned above, is directly associated with these pain systems. It establishes that C fibers, A-delta fibers (nociceptive), and A-beta fibers (non-nociceptive) can all carry information from the injury site to two different cell types in the dorsal horn of the spinal cord, transmission cells, and inhibitory neurons. Both the nociceptive and non-nociceptive fibers can activate the transmission cells, opening the gate of signals sent to the brain. However, only the non-nociceptive fibers can activate the inhibitory cells, therefore closing the gate.<xref ref-type="bibr" rid="article-29317.r4">[4]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Even though the gate control theory was the initial guiding mechanism of action, modern research has demonstrated that the underlying mechanisms are not clearly understood.&#x000a0;There is evidence suggesting that dorsal column stimulation applies a different analgesia mechanism when utilized for neuropathic pain versus ischemic pain.<xref ref-type="bibr" rid="article-29317.r5">[5]</xref>&#x000a0;In neuropathic pain, evidence suggests that by altering local neurochemistry, stimulation suppresses hyperexcitability of the wide dynamic range neurons by increasing GABA and serotonin release, which suppresses levels of the excitatory cytokines glutamate and aspartate.&#x000a0; On the other hand, the current belief is that ischemic pain alleviation occurs by altering sympathetic tone, achieved by restoring a favorable oxygen supply and demand balance.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-29317.s3" sec-type="Anatomy and Physiology">
+        <title>Anatomy and Physiology</title>
+        <p>For the spinal cord stimulator leads to be introduced into the spinal cord, the epidural space needs to be accessed using an epidural needle. Therefore, there is relevant anatomy that merits consideration during this procedure.</p>
+        <list list-type="order">
+          <list-item>
+            <p>Vertebrae: Each vertebra is composed of a vertebral body (anterior) and a vertebral arch (posterior). The arch further divides into two lateral pedicles connected to two posterior laminae, a single spinous process, and two transverse spinous processes that extend laterally at the point where the pedicles are connected to the laminae. The connection between two adjacent vertebrae at the level of the pedicles forms the foramina. There are 7 cervical, 12 thoracic, and 5 lumbar vertebrae, followed by 5 false or fixed vertebrae forming the bony sacrum and coccyx.<xref ref-type="bibr" rid="article-29317.r6">[6]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Ligaments: After going through the skin and subcutaneous tissue, the first ligament encountered by the epidural needle is the supraspinous ligament, which connects one spinous process to another in adjacent vertebrae. The interspinous ligament then follows. The ligamentum flavum is much thicker and connects the lamina of adjacent vertebrae. Two other ligaments found on the anterior aspect of the spinal cord are the anterior and posterior spinal ligaments, which connect adjacent vertebral bodies.<xref ref-type="bibr" rid="article-29317.r6">[6]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Spinal cord: The spinal cord is surrounded by the dura mater (outermost layer), arachnoid mater, and pia mater (innermost layer, directly overlying the spinal cord). It extends from the medulla to the level of L1 in adults. At this level, one finds the conus medullaris. Below the conus, the spinal nerve roots become elongated and parallel, forming the cauda equina, which allows nerves to move freely within the CSF and makes this location preferable for the insertion of an epidural needle.<xref ref-type="bibr" rid="article-29317.r6">[6]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Arterial supply: The arteries supplying the spinal cord derive from the vertebral arteries in the cervical spine and the intercostal and lumbar arteries in the thoracic and lumbar spine. These arteries anastomose with other spinal cord vessels, forming the pial plexus. There are anterior and posterior branches, which supply the ventral and dorsal roots of the spinal cord. In the dorsal (sensory spinal cord), the posterior spinal arteries anastomose, protecting this area of the spinal cord from ischemia. On the other hand, a single anterior spinal artery supplies the ventral (motor) spinal cord. One of the largest arteries supplying the anterior spinal cord is known as the artery of Adamkiewicz, which most commonly enters the vertebral canal through the L1 foramen. It supplies the lower two-thirds of the spinal cord. Damage to this artery from an improperly done epidural may lead to bilateral lower extremity paralysis.<xref ref-type="bibr" rid="article-29317.r6">[6]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Venous supply: There is a vertebral venous plexus that drains into the vertebral canal. These veins empty into the azygos vein that ultimately empties into the superior vena cava (SVC). This plexus is of particular importance in patients with masses or increased intraabdominal pressure compressing the SVC. When this occurs, there is a backup of blood into the epidural space, which increased the risk of cannulating the veins with the epidural needle.<xref ref-type="bibr" rid="article-29317.r6">[6]</xref></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-29317.s4" sec-type="Indications">
+        <title>Indications</title>
+        <p>Often, patient selection is the most challenging aspect of the decision to offer neurostimulation. Numerous patient factors are, at first, seemingly unrelated to patient response to treatment but play a significant role in the likelihood of a positive response to therapy.&#x000a0;Many of these are social factors. Any implantable device will require adequate follow-up, re-programming, wound management, and sometimes wireless recharging of the device. Ultimately, SCS requires the patient's active participation in their care and ownership of the responsibilities involved in the continuous management of their pain syndrome.</p>
+        <p>Apart from social factors, one of the strongest correlations to success is complex regional pain syndrome (CRPS).&#x000a0;Additionally, a response to sympathetic nerve block may correlate positively with stimulation therapy.<xref ref-type="bibr" rid="article-29317.r7">[7]</xref>&#x000a0;Level A evidence exists for failed back surgery syndrome (post-laminectomy syndrome), peripheral ischemia, peripheral neuropathy, and angina pectoris.<xref ref-type="bibr" rid="article-29317.r8">[8]</xref>&#x000a0;However, dorsal column stimulation has shown success for many types of neuropathic and radicular pain syndromes. This modality is particularly useful in patients with pain refractory to medications, physical therapy, psychotherapy, chiropractic therapy, and other procedural interventions.</p>
+        <p>Factors that do not seem to positively or negatively correlate with SCS therapy include patient age, duration, intensity, and laterality of pain.<xref ref-type="bibr" rid="article-29317.r9">[9]</xref></p>
+      </sec>
+      <sec id="article-29317.s5" sec-type="Contraindications">
+        <title>Contraindications</title>
+        <list list-type="order">
+          <list-item>
+            <p>Most of the studies that currently exist regarding SCS therapy are either small prospective studies or retrospective studies. For this reason, there are relatively few guidelines regarding contraindications for this procedure.</p>
+          </list-item>
+          <list-item>
+            <p>As with other elective procedures, the standard contraindications apply. These include:
+<list list-type="bullet"><list-item><p>Infection at the surgical sites</p></list-item><list-item><p>Aberrant anatomy at the surgical sites that would preclude safe placement</p></list-item><list-item><p>Uncontrolled systemic illness</p></list-item><list-item><p>Uncontrolled bleeding diathesis</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Anticoagulation is typically held per ASRA guidelines. The inability to hold anticoagulation due to life-threatening clotting disease or proximity to cardiac surgery would be a contraindication as well.</p>
+          </list-item>
+          <list-item>
+            <p>A study by Eijs <italic toggle="yes">et al</italic>., which looked at 36 patients with CRPS, found that one of the relative contraindications for SCS therapy is mechanical allodynia (painful sensation experienced by light touch). The authors found that patients experiencing mechanical allodynia, which was brush-evoked in this study, had a 31% pain reduction compared to 81% pain reduction in patients with CRPS without allodynia.<xref ref-type="bibr" rid="article-29317.r10">[10]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Other indicators of poor SCS outcomes include symptoms of active depression, anxiety, somatization, and poor coping skills.<xref ref-type="bibr" rid="article-29317.r9">[9]</xref>&#x000a0;Therefore, a psychological evaluation is necessary before considering a patient for an SCS device. Of note, the psychological process of catastrophizing (believing that something is worse than it actually is) does not interfere negatively with SCS therapy.<xref ref-type="bibr" rid="article-29317.r11">[11]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Patients with stump, phantom-limb, or paraplegic pain do not seem to benefit from SCS therapy.<xref ref-type="bibr" rid="article-29317.r8">[8]</xref></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-29317.s6" sec-type="Equipment">
+        <title>Equipment</title>
+        <list list-type="order">
+          <list-item>
+            <p>Spinal cord stimulators are composed of three main parts: the electrodes or leads, which can be cylindrical or paddle, the implantable pulse generator (IPG) or batteries, and the charging and reprogramming equipment, which includes a remote control.</p>
+          </list-item>
+          <list-item>
+            <p>Many different companies currently make these devices. However, the bulk of the neuromodulation market is primarily three companies.<xref ref-type="bibr" rid="article-29317.r12">[12]</xref></p>
+          </list-item>
+          <list-item>
+            <p>All these companies offer the option of rechargeable IPG devices that last for up to 10 years years. This setup allows patients to use higher voltages without depleting the battery, increases the reprogramming options, and requiring less frequent replacement.</p>
+          </list-item>
+          <list-item>
+            <p>Additionally, each IPG has a different level of MRI conditionality. If MRI imaging is pertinent in the patient's future healthcare management, a review of the conditionalities of each IPG should take place before making a selection.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-29317.s7" sec-type="Personnel">
+        <title>Personnel</title>
+        <list list-type="order">
+          <list-item>
+            <p>Operating provider
+<list list-type="order"><list-item><p>Understands the key personnel involved with the procedure</p></list-item><list-item><p>He or she must know the role of each individual in the room&#x000a0;</p></list-item><list-item><p>Has been properly credentialed to perform SCS trial/placement</p></list-item><list-item><p>Has properly educated the patient in the risk, benefits, alternatives of the SCS trial and permanent placement</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Anesthesia provider
+<list list-type="order"><list-item><p>Provides the patient with minimum necessary sedation to keep the patient comfortable, safe, and monitored</p></list-item><list-item><p>Understands the basic steps of the procedure and can quickly and reliably lighten anesthesia for paresthesia mapping</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Circulating nurse
+<list list-type="order"><list-item><p>Understands procedure steps</p></list-item><list-item><p>Understands the equipment necessary for successful placement</p></list-item><list-item><p>Can verify and assist with patient safety and transport</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Radiology technician
+<list list-type="order"><list-item><p>Understands the anatomy and imaging for the procedure</p></list-item><list-item><p>Can assist&#x000a0; in maintaining a sterile field with the C-arm</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Surgical technician
+<list list-type="order"><list-item><p>Understands the surgical equipment</p></list-item><list-item><p>Understands the steps and flow of the procedure</p></list-item><list-item><p>Can assist keep patients safe by maintaining sterility and maintaining needle/sponge counts</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Device representative
+<list list-type="order"><list-item><p>Assists operating provider with troubleshooting</p></list-item><list-item><p>Assists with paresthesia mapping</p></list-item><list-item><p>Helps with patient education</p></list-item></list>
+</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-29317.s8" sec-type="Preparation">
+        <title>Preparation</title>
+        <list list-type="order">
+          <list-item>
+            <p>Pain physician visit - evaluation/patient selection process to determine if the patient's pain syndrome would benefit from neuromodulation and if they have exhausted conservative therapy.</p>
+          </list-item>
+          <list-item>
+            <p>Psychological evaluation - active or untreated psychological disorders can lead to poor outcomes, and a licensed psychiatric professional can help determine if a patient would be an ideal candidate for a spinal cord stimulator.</p>
+          </list-item>
+          <list-item>
+            <p>Diagnostic imaging - Ideally, MRI imaging of the epidural space and anatomy of the lead's final location helps plan the approach and provides diagnostic value to a patient&#x02019;s pain distribution.</p>
+          </list-item>
+          <list-item>
+            <p>Trial stimulation - a trial with one or more implanted leads connected to an external IPG allows the patient to determine if all pain areas are covered and if he or she has at least 50% decreased pain and or 50% increased functionality.</p>
+          </list-item>
+          <list-item>
+            <p>Permanent implantation - reimplantation of one or more leads and IPG.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-29317.s9" sec-type="Technique or Treatment">
+        <title>Technique or Treatment</title>
+        <p>The technique associated with SCS is considered one of the most challenging procedures in interventional pain management. The implantation of the SCS device divides into two steps, the trial and the permanent SCS implantation. Even though the same or similar equipment is used for these procedures, the technique utilized for each step changes significantly. The trial allows the patient to evaluate the effect of the SCS device on their particular pain pattern. Typically, patients return to the clinic within ten days after the trial procedure. If they have over 50% pain relief, increased activity level, and/or decreased medication use during this time, the trial is considered successful, and they can be scheduled for a permanent SCS procedure.<xref ref-type="bibr" rid="article-29317.r13">[13]</xref><xref ref-type="bibr" rid="article-29317.r14">[14]</xref></p>
+        <p>Both the trial and the permanent SCS placement are sterile procedures performed in the operating room under sedation. Patients should receive instructions to shower with chlorhexidine before these procedures. Preoperative cefazolin or clindamycin are prescribed before the permanent SCS placement for coverage of skin flora. On the day of the procedure, the patient is placed prone on the operating table. Skin prep is with an alcohol-based chlorhexidine scrub and then covered with towels and a full surgical drape. An epidural needle is placed on the skin. A lead is inserted into the epidural space via the epidural needle under fluoroscopic guidance. Epidural needle placement is at an angle of fewer than 45 degrees to facilitate threading of the lead. A perpendicular angle needs to be avoided at all times since this would require bending the lead as it is introduced into the epidural space. The lead is advanced through the posterior paramedian epidural space until the appropriate location providing coverage of the patient&#x02019;s pain region, which may require one or more leads. Most commonly, this location ranges between T8 and T10.</p>
+        <list list-type="order">
+          <list-item>
+            <p>There are two types of SCS trial, percutaneous lead trial (most common) and permanent lead trial:
+<list list-type="order"><list-item><p>SCS percutaneous trial
+<list list-type="order"><list-item><p>In this approach, after placement of the lead or leads in the appropriate location on the spine, the epidural needle is removed. The lead is then adhered to the skin using a suture, surgical adhesive, or skin glue. The remaining portion of the lead connects to an external pulse generator, which is also secured to the skin using a suture or skin glue, a chlorhexidine patch, and a sterile dressing. The device is programmed perioperatively and once again in the recovery room before discharging the patient home.</p></list-item><list-item><p>Even though this procedure requires the patient to return to the OR for a permanent lead placement if the trial is successful, it is the preferred method by most providers. It avoids a second incision and postoperative pain during the trial. It also decreases the risk of infection when compared to the permanent trial.<xref ref-type="bibr" rid="article-29317.r15">[15]</xref></p></list-item></list>
+</p></list-item><list-item><p>Permanent SCS trial
+<list list-type="order"><list-item><p>In the permanent trial method, once the leads are in the appropriate location, a local anesthetic is injected around the epidural needle. A midline incision is made through the skin down to the supraspinous fascia. The leads are anchored in this space using a nonabsorbable suture and an anchoring device. This device is placed as close as possible to the fascia, with the tip protruding into the fascia, which minimizes bending the leads. The anchoring device is secured using a nonabsorbable suture. Two approaches are possible to tunnel the leads and secure the IPG. In the first approach, the midline incision is made larger. An extension wire is connected temporarily to the permanent lead, and it helps to tunnel the lead from the incision to the overlying skin. In the second approach, there is a lateral skin pocket made in the flank, where the IPG is placed. Less commonly, this pocket can be in the posterior superior gluteal area, the lower abdomen, or the pectoral areas. The permanent lead is tunneled from the midline incision into the lateral pocket. At this point, an extension wire is connected to the permanent wire to tunnel the lead away from the lateral pocket.</p></list-item><list-item><p>This method is more cost-effective since it uses the same device if the trial is successful. It also ensures that the leads remain in the same location if the SCS is permanently implanted.<xref ref-type="bibr" rid="article-29317.r15">[15]</xref></p></list-item></list>
+</p></list-item><list-item><p>Permanent placement with paddle-type electrodes
+<list list-type="order"><list-item><p>This trial can take place via a percutaneous paddle introduction technique, which utilizes a wide flat introducer. It can also be implanted via a laminotomy, allowing the paddle to enter the epidural space. This approach is usually by neurosurgery, typically as a permanent step.<xref ref-type="bibr" rid="article-29317.r16">[16]</xref></p></list-item></list>
+</p></list-item><list-item><p>Permanent percutaneous SCS implantation:
+<list list-type="order"><list-item><p>If using the permanent trial approach, the IPG incision is opened on the day of the implant.&#x000a0; The lead extension is cut, pulled out through the skin, and discarded. The permanent lead is attached to a new extension and connects to the IPG.</p></list-item><list-item><p>If the percutaneous trial was used, follow the same steps used for the trial approach on the day of the implantation procedure. The permanent lead is tunneled to an appropriately sized (for the IPG used) subcutaneous pocket, where the lead directly connects to the IPG device. The IPG is then placed in the pocket. The incisions are stapled and covered with a sterile dressing. The staples are removed in the clinic 14 days later.<xref ref-type="bibr" rid="article-29317.r13">[13]</xref></p></list-item><list-item><p>When sizing the pocket, often, a radiopaque template can be used. Typical pocket locations are on either side and either above or below the beltline. The laterality of the pocket is determined beforehand utilizing a variety of methods. Most commonly, location determination is by patient comfort, i.e., the side opposite of where they sleep or the side that the patient can reach better (for reprogramming or recharging).</p></list-item></list>
+</p></list-item></list>
+</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-29317.s10" sec-type="Complications">
+        <title>Complications</title>
+        <p>Complications associated with spinal cord stimulation span from correctable issues such as inappropriate paresthesia coverage to infection, epidural hematoma, nerve injury, paralysis, and death. Luckily, the more devastating complications are exceedingly rare. Infection is minimized by the use of sterile technique and operating room conditions. The risk of nerve injury and paralysis is mitigated by&#x000a0;using continual fluoroscopy throughout the procedure with both trajectory and depth views. More serious complications related to oversedation, anesthesia, airway compromise, and anaphylactic reactions can be lowered and managed by licensed anesthesia professionals.</p>
+        <p>The most common of the not-easily correctable problems is infection. Over the years, with proper quality control measures, the advancement of techniques, and perioperative antibiotics guidelines, the incidence of infection has declined to around 3%-5%, depending on different sources.<xref ref-type="bibr" rid="article-29317.r17">[17]</xref>&#x000a0;The most common infection is Staphylococcus, which is present in 18% of cases. The most common site of infection is the IPG site (54%).&#x000a0; In a vast majority of cases, infection requires an explant of the entire system unless the contamination is confined only to the superficial tissues.<xref ref-type="bibr" rid="article-29317.r18">[18]</xref></p>
+        <p>The most frequent complication overall is lead migration or breakage. This issue can be minimized by a restriction period of one to two months, where the patient limits bending, lifting, and twisting until the leads can scar down in the appropriate location.&#x000a0; As lead and anchor technology advances, the rate of revision due to lead migration continues to decline. Of note, the more rigid paddle leads are twice as likely to break than the percutaneous leads.<xref ref-type="bibr" rid="article-29317.r19">[19]</xref></p>
+      </sec>
+      <sec id="article-29317.s11" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>In the United States, the most common clinical use of SCS therapy is failed back surgery syndrome. In Europe, the most common use of SCS therapy is peripheral ischemia.</p>
+        <p>Clinical recommendations can be divided based on diagnosis</p>
+        <list list-type="order">
+          <list-item>
+            <p>Failed back surgery syndrome (FBSS) - level A recommendation
+<list list-type="order"><list-item><p>Established as causing long-term pain relief, decreased medication use, increased functional capacity, improved quality of life, increased likelihood of returning to work, and minimal side effects compared to other treatments.<xref ref-type="bibr" rid="article-29317.r20">[20]</xref>
+<list list-type="order"><list-item><p>In a study by North <italic toggle="yes">et al</italic>., they looked at 27 patients with FBSS who were selected for a repeat laminectomy vs. SCC therapy. The study showed that 47% of the patients in the SCS group while only 12% of the repeat laminectomy group experienced over 50% pain relief. The study also showed that patients in the repeat laminectomy group used significantly more opioids than those in the SCS group.<xref ref-type="bibr" rid="article-29317.r21">[21]</xref></p></list-item><list-item><p>Another study by Kumar and colleagues followed FBSS patients treated with SCS therapy vs. FBSS patients treated with conventional medical management (CMM) for six months. The patients in this study mainly had neuropathic radicular lower extremity pain. The study showed that at six months, 24 SCS patients (48%) and only 4 CMM patients (9%) received over 50% pain relief from the treatment. The SCS therapy patients also reported relief of back and leg pain, improved quality of life, improved functional capacity, and more satisfaction from the treatment. The patients were also evaluated at 24 months, still showing increased satisfaction from SCS therapy.<xref ref-type="bibr" rid="article-29317.r22">[22]</xref></p></list-item></list>
+</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Complex regional pain syndrome (CRPS) - level B recommendation
+<list list-type="order"><list-item><p>Established as increasing perceived effect, pain reduction, and quality of life. Even though some studies have suggested that the use of SCS therapy in patients with CRPS should be considered level A recommendation, the majority of the literature indicates that high-quality research is limited in this category.<xref ref-type="bibr" rid="article-29317.r23">[23]</xref>
+<list list-type="order"><list-item><p>Kemler et al. conducted one of the studies available. It compared 24 patients with CRPS treated with combined permanent SCS therapy (after a successful trial) and physical therapy vs. 18 patients treated with physical therapy alone. After six months of follow-up, the patients in the SCS therapy group reported significant pain relief. They rated themselves as &#x0201c;much improved&#x0201d; when asked when compared to the physical therapy-only group. There were no differences in the reported improvements in functional status. The patients were re-evaluated after two years, showing the durability of these findings.<xref ref-type="bibr" rid="article-29317.r24">[24]</xref></p></list-item></list>
+</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Angina Pectoris - level A recommendation
+<list list-type="order"><list-item><p>Established as decreasing anginal attacks, nitrate requirements, higher exercise capacity, cardiovascular outcomes equivalent to coronary bypass surgery
+<list list-type="order"><list-item><p>Multiple studies have shown that SCS therapy can effectively treat intractable angina and decrease the incidence of anginal attacks. The primary mechanism posited to explain this is an increase in the skin temperature in the distal extremities during SCS therapy. The increased temperature improves the microcirculatory status of the extremity. As a result, there is an increase in the nutritional health of the skin and nerves in the area, leading to decreased anginal attacks.<xref ref-type="bibr" rid="article-29317.r25">[25]</xref>&#x000a0;One way to measure microvascular perfusion in the extremities is by measuring the transcutaneous partial pressure of oxygen (TcPO2), which can be increased by either sympathetic blockade or SCS treatment.<xref ref-type="bibr" rid="article-29317.r26">[26]</xref></p></list-item><list-item><p>Numerous studies have concluded that SCS therapy can successfully treat refractory angina by increasing oxygen supply to the affected area, relieving the ischemia. In this procedure, the leads are placed at the level of T1-T2, left of the midline, and the leads are advanced to the level of the chest, where patients report anginal pain. Studies have shown that the SCS provides a similar benefit and efficacy to coronary bypass surgery, with decreased morbidity and mortality in the acute setting. Despite the multiple studies favoring this form of treatment, SCS therapy has not received support in the field of cardiology.</p></list-item></list>
+</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Peripheral ischemia - level A recommendation
+<list list-type="order"><list-item><p>Ubbink and Vermeulen performed the main meta-analysis study regarding the effect of SCS therapy in patients with peripheral ischemia in 2006. They evaluated nine different studies&#x000a0;with a total of 444 patients. This study showed that patients who undergo SCS therapy have an 11% less risk of having a limb amputation than those who only undergo conservative treatment. Patients treated with SCS therapy had improved quality of life and decreased pain medication use. This study also concluded that TcPO2 measurements of less than 10 mmHg increase the risk of amputation, while TcPO2 greater than 30 mmHg leads to improved outcomes, regardless of the treatment approach. The authors reported a TcPO2 increase of 10 mmHg or more with SCS therapy. The study concluded that patients have an 83% limb salvage rate with SCS therapy instead of only 20% to 64% with conservative management <xref ref-type="bibr" rid="article-29317.r27">[27]</xref>. Other studies, however, have not been able to show any significant decrease in the risk of limb amputation in these patients.<xref ref-type="bibr" rid="article-29317.r28">[28]</xref></p></list-item></list>
+</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-29317.s12" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Spinal cord stimulation has proven its efficacy in refractory and difficult-to-treat pain syndromes.&#x000a0;However, to enhance outcomes, it must also be cost-effective. In 2005, North and colleagues studied the cost-utility between SCS therapy and reoperation. The mean per-patient cost was $105,928 for reoperation versus $48,457 for SCS. Ultimately SCS was more effective and less expensive than reoperation in post-laminectomy syndrome patients.<xref ref-type="bibr" rid="article-29317.r21">[21]</xref>&#x000a0;Another randomized controlled trial by North et al. determined that if SCS fails, reoperation is unlikely to succeed and should be discouraged.<xref ref-type="bibr" rid="article-29317.r29">[29]</xref></p>
+        <p>Stimulation has shown a cost-benefit when compared to non-stimulation in the treatment of chronic back pain. Kumar et al., in 2002, followed 104 patients with failed back surgery syndrome, where 60 patients received implants.&#x000a0; The control group (54 patients, non-stim) and the experimental group (60 patients, stim) were followed for five years. The average annual cost for the control group was $38000 versus $29000 for the stim group. The higher healthcare costs in the non-stimulator group were attributed to more medications, more follow-up visits, emergency center visits or hospitalizations, imaging (X-rays and MRIs), and rehab centers/physical therapy.<xref ref-type="bibr" rid="article-29317.r30">[30]</xref></p>
+        <p>The interprofessional healthcare team is necessary for the best outcomes. Pain physicians and nurses, interventional radiologists, neurosurgeons, surgical nurses, radiology technicians, and pharmacists all participate in care. Nursing will provide follow-up and coordinate activities among other professionals and specialists with the surgeon. Pharmacists will&#x000a0;assist with the patient's post-procedural medication regimen, help prevent opioid misuse or dependence, and consult with the team regarding any potential drug interactions. The interprofessional approach will lead to improved patient outcomes. [Level 5]</p>
+      </sec>
+      <sec id="article-29317.s13">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=29317&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=29317">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/29317/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=29317">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-29317.s14">
+        <title>References</title>
+        <ref id="article-29317.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kumar</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Nath</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Wyant</surname>
+                <given-names>GM</given-names>
+              </name>
+            </person-group>
+            <article-title>Treatment of chronic pain by epidural spinal cord stimulation: a 10-year experience.</article-title>
+            <source>J Neurosurg</source>
+            <year>1991</year>
+            <month>Sep</month>
+            <volume>75</volume>
+            <issue>3</issue>
+            <fpage>402</fpage>
+            <page-range>402-7</page-range>
+            <pub-id pub-id-type="pmid">1869942</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shealy</surname>
+                <given-names>CN</given-names>
+              </name>
+              <name>
+                <surname>Mortimer</surname>
+                <given-names>JT</given-names>
+              </name>
+              <name>
+                <surname>Reswick</surname>
+                <given-names>JB</given-names>
+              </name>
+            </person-group>
+            <article-title>Electrical inhibition of pain by stimulation of the dorsal columns: preliminary clinical report.</article-title>
+            <source>Anesth Analg</source>
+            <year>1967</year>
+            <season>Jul-Aug</season>
+            <volume>46</volume>
+            <issue>4</issue>
+            <fpage>489</fpage>
+            <page-range>489-91</page-range>
+            <pub-id pub-id-type="pmid">4952225</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Willis</surname>
+                <given-names>WD</given-names>
+              </name>
+            </person-group>
+            <article-title>The pain system. The neural basis of nociceptive transmission in the mammalian nervous system.</article-title>
+            <source>Pain Headache</source>
+            <year>1985</year>
+            <volume>8</volume>
+            <fpage>1</fpage>
+            <page-range>1-346</page-range>
+            <pub-id pub-id-type="pmid">2983301</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Moayedi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Davis</surname>
+                <given-names>KD</given-names>
+              </name>
+            </person-group>
+            <article-title>Theories of pain: from specificity to gate control.</article-title>
+            <source>J Neurophysiol</source>
+            <year>2013</year>
+            <month>Jan</month>
+            <volume>109</volume>
+            <issue>1</issue>
+            <fpage>5</fpage>
+            <page-range>5-12</page-range>
+            <pub-id pub-id-type="pmid">23034364</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Linderoth</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Foreman</surname>
+                <given-names>RD</given-names>
+              </name>
+            </person-group>
+            <article-title>Physiology of spinal cord stimulation: review and update.</article-title>
+            <source>Neuromodulation</source>
+            <year>1999</year>
+            <month>Jul</month>
+            <volume>2</volume>
+            <issue>3</issue>
+            <fpage>150</fpage>
+            <page-range>150-64</page-range>
+            <pub-id pub-id-type="pmid">22151202</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Devereaux</surname>
+                <given-names>MW</given-names>
+              </name>
+            </person-group>
+            <article-title>Anatomy and examination of the spine.</article-title>
+            <source>Neurol Clin</source>
+            <year>2007</year>
+            <month>May</month>
+            <volume>25</volume>
+            <issue>2</issue>
+            <fpage>331</fpage>
+            <page-range>331-51</page-range>
+            <pub-id pub-id-type="pmid">17445732</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hord</surname>
+                <given-names>ED</given-names>
+              </name>
+              <name>
+                <surname>Cohen</surname>
+                <given-names>SP</given-names>
+              </name>
+              <name>
+                <surname>Cosgrove</surname>
+                <given-names>GR</given-names>
+              </name>
+              <name>
+                <surname>Ahmed</surname>
+                <given-names>SU</given-names>
+              </name>
+              <name>
+                <surname>Vallejo</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Chang</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Stojanovic</surname>
+                <given-names>MP</given-names>
+              </name>
+            </person-group>
+            <article-title>The predictive value of sympathetic block for the success of spinal cord stimulation.</article-title>
+            <source>Neurosurgery</source>
+            <year>2003</year>
+            <month>Sep</month>
+            <volume>53</volume>
+            <issue>3</issue>
+            <fpage>626</fpage>
+            <page-range>626-32; discussion 632-3</page-range>
+            <pub-id pub-id-type="pmid">12943579</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kumar</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Toth</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Nath</surname>
+                <given-names>RK</given-names>
+              </name>
+              <name>
+                <surname>Laing</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Epidural spinal cord stimulation for treatment of chronic pain--some predictors of success. A 15-year experience.</article-title>
+            <source>Surg Neurol</source>
+            <year>1998</year>
+            <month>Aug</month>
+            <volume>50</volume>
+            <issue>2</issue>
+            <fpage>110</fpage>
+            <page-range>110-20; discussion 120-1</page-range>
+            <pub-id pub-id-type="pmid">9701116</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Celestin</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Edwards</surname>
+                <given-names>RR</given-names>
+              </name>
+              <name>
+                <surname>Jamison</surname>
+                <given-names>RN</given-names>
+              </name>
+            </person-group>
+            <article-title>Pretreatment psychosocial variables as predictors of outcomes following lumbar surgery and spinal cord stimulation: a systematic review and literature synthesis.</article-title>
+            <source>Pain Med</source>
+            <year>2009</year>
+            <season>May-Jun</season>
+            <volume>10</volume>
+            <issue>4</issue>
+            <fpage>639</fpage>
+            <page-range>639-53</page-range>
+            <pub-id pub-id-type="pmid">19638142</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>van Eijs</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Smits</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Geurts</surname>
+                <given-names>JW</given-names>
+              </name>
+              <name>
+                <surname>Kessels</surname>
+                <given-names>AG</given-names>
+              </name>
+              <name>
+                <surname>Kemler</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>van Kleef</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Joosten</surname>
+                <given-names>EA</given-names>
+              </name>
+              <name>
+                <surname>Faber</surname>
+                <given-names>CG</given-names>
+              </name>
+            </person-group>
+            <article-title>Brush-evoked allodynia predicts outcome of spinal cord stimulation in complex regional pain syndrome type 1.</article-title>
+            <source>Eur J Pain</source>
+            <year>2010</year>
+            <month>Feb</month>
+            <volume>14</volume>
+            <issue>2</issue>
+            <fpage>164</fpage>
+            <page-range>164-9</page-range>
+            <pub-id pub-id-type="pmid">19942463</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lam&#x000e9;</surname>
+                <given-names>IE</given-names>
+              </name>
+              <name>
+                <surname>Peters</surname>
+                <given-names>ML</given-names>
+              </name>
+              <name>
+                <surname>Patijn</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Kessels</surname>
+                <given-names>AG</given-names>
+              </name>
+              <name>
+                <surname>Geurts</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>van Kleef</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Can the outcome of spinal cord stimulation in chronic complex regional pain syndrome type I patients be predicted by catastrophizing thoughts?</article-title>
+            <source>Anesth Analg</source>
+            <year>2009</year>
+            <month>Aug</month>
+            <volume>109</volume>
+            <issue>2</issue>
+            <fpage>592</fpage>
+            <page-range>592-9</page-range>
+            <pub-id pub-id-type="pmid">19608836</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lanza</surname>
+                <given-names>GA</given-names>
+              </name>
+              <name>
+                <surname>Grimaldi</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Greco</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Ghio</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Sarullo</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Zuin</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>De Luca</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Allegri</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Di Pede</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Castagno</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Turco</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Sapio</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Pinato</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Cioni</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Trevi</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Crea</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>Spinal cord stimulation for the treatment of refractory angina pectoris: a multicenter randomized single-blind study (the SCS-ITA trial).</article-title>
+            <source>Pain</source>
+            <year>2011</year>
+            <month>Jan</month>
+            <volume>152</volume>
+            <issue>1</issue>
+            <fpage>45</fpage>
+            <page-range>45-52</page-range>
+            <pub-id pub-id-type="pmid">21084162</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Malige</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Sokunbi</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Spinal Cord Stimulators: A Comparison of the Trial Period Versus Permanent Outcomes.</article-title>
+            <source>Spine (Phila Pa 1976)</source>
+            <year>2019</year>
+            <month>Jun</month>
+            <day>01</day>
+            <volume>44</volume>
+            <issue>11</issue>
+            <fpage>E687</fpage>
+            <page-range>E687-E692</page-range>
+            <pub-id pub-id-type="pmid">30365415</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Burchiel</surname>
+                <given-names>KJ</given-names>
+              </name>
+              <name>
+                <surname>Anderson</surname>
+                <given-names>VC</given-names>
+              </name>
+              <name>
+                <surname>Wilson</surname>
+                <given-names>BJ</given-names>
+              </name>
+              <name>
+                <surname>Denison</surname>
+                <given-names>DB</given-names>
+              </name>
+              <name>
+                <surname>Olson</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Shatin</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Prognostic factors of spinal cord stimulation for chronic back and leg pain.</article-title>
+            <source>Neurosurgery</source>
+            <year>1995</year>
+            <month>Jun</month>
+            <volume>36</volume>
+            <issue>6</issue>
+            <fpage>1101</fpage>
+            <page-range>1101-10; discussion 1110-1</page-range>
+            <pub-id pub-id-type="pmid">7643988</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Simopoulos</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Sharma</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Aner</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Gill</surname>
+                <given-names>JS</given-names>
+              </name>
+            </person-group>
+            <article-title>A Temporary vs. Permanent Anchored Percutaneous Lead Trial of Spinal Cord Stimulation: A Comparison of Patient Outcomes and Adverse Events.</article-title>
+            <source>Neuromodulation</source>
+            <year>2018</year>
+            <month>Jul</month>
+            <volume>21</volume>
+            <issue>5</issue>
+            <fpage>508</fpage>
+            <page-range>508-512</page-range>
+            <pub-id pub-id-type="pmid">28901641</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pahapill</surname>
+                <given-names>PA</given-names>
+              </name>
+            </person-group>
+            <article-title>Surgical paddle-lead placement for screening trials of spinal cord stimulation.</article-title>
+            <source>Neuromodulation</source>
+            <year>2014</year>
+            <month>Jun</month>
+            <volume>17</volume>
+            <issue>4</issue>
+            <fpage>346</fpage>
+            <page-range>346-8; discussion 348</page-range>
+            <pub-id pub-id-type="pmid">23815416</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>North</surname>
+                <given-names>RB</given-names>
+              </name>
+              <name>
+                <surname>Kidd</surname>
+                <given-names>DH</given-names>
+              </name>
+              <name>
+                <surname>Zahurak</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>James</surname>
+                <given-names>CS</given-names>
+              </name>
+              <name>
+                <surname>Long</surname>
+                <given-names>DM</given-names>
+              </name>
+            </person-group>
+            <article-title>Spinal cord stimulation for chronic, intractable pain: experience over two decades.</article-title>
+            <source>Neurosurgery</source>
+            <year>1993</year>
+            <month>Mar</month>
+            <volume>32</volume>
+            <issue>3</issue>
+            <fpage>384</fpage>
+            <page-range>384-94; discussion 394-5</page-range>
+            <pub-id pub-id-type="pmid">8455763</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Meglio</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Cioni</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Rossi</surname>
+                <given-names>GF</given-names>
+              </name>
+            </person-group>
+            <article-title>Spinal cord stimulation in management of chronic pain. A 9-year experience.</article-title>
+            <source>J Neurosurg</source>
+            <year>1989</year>
+            <month>Apr</month>
+            <volume>70</volume>
+            <issue>4</issue>
+            <fpage>519</fpage>
+            <page-range>519-24</page-range>
+            <pub-id pub-id-type="pmid">2538588</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Rosenow</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Stanton-Hicks</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Rezai</surname>
+                <given-names>AR</given-names>
+              </name>
+              <name>
+                <surname>Henderson</surname>
+                <given-names>JM</given-names>
+              </name>
+            </person-group>
+            <article-title>Failure modes of spinal cord stimulation hardware.</article-title>
+            <source>J Neurosurg Spine</source>
+            <year>2006</year>
+            <month>Sep</month>
+            <volume>5</volume>
+            <issue>3</issue>
+            <fpage>183</fpage>
+            <page-range>183-90</page-range>
+            <pub-id pub-id-type="pmid">16961078</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Van Buyten</surname>
+                <given-names>JP</given-names>
+              </name>
+            </person-group>
+            <article-title>Neurostimulation for chronic neuropathic back pain in failed back surgery syndrome.</article-title>
+            <source>J Pain Symptom Manage</source>
+            <year>2006</year>
+            <month>Apr</month>
+            <volume>31</volume>
+            <issue>4 Suppl</issue>
+            <fpage>S25</fpage>
+            <page-range>S25-9</page-range>
+            <pub-id pub-id-type="pmid">16647592</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>North</surname>
+                <given-names>RB</given-names>
+              </name>
+              <name>
+                <surname>Kidd</surname>
+                <given-names>DH</given-names>
+              </name>
+              <name>
+                <surname>Farrokhi</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Piantadosi</surname>
+                <given-names>SA</given-names>
+              </name>
+            </person-group>
+            <article-title>Spinal cord stimulation versus repeated lumbosacral spine surgery for chronic pain: a randomized, controlled trial.</article-title>
+            <source>Neurosurgery</source>
+            <year>2005</year>
+            <volume>56</volume>
+            <issue>1</issue>
+            <fpage>98</fpage>
+            <page-range>98-106; discussion 106-7</page-range>
+            <pub-id pub-id-type="pmid">15617591</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kumar</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Taylor</surname>
+                <given-names>RS</given-names>
+              </name>
+              <name>
+                <surname>Jacques</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Eldabe</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Meglio</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Molet</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Thomson</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>O'Callaghan</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Eisenberg</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Milbouw</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Buchser</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Fortini</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Richardson</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>North</surname>
+                <given-names>RB</given-names>
+              </name>
+            </person-group>
+            <article-title>Spinal cord stimulation versus conventional medical management for neuropathic pain: a multicentre randomised controlled trial in patients with failed back surgery syndrome.</article-title>
+            <source>Pain</source>
+            <year>2007</year>
+            <month>Nov</month>
+            <volume>132</volume>
+            <issue>1-2</issue>
+            <fpage>179</fpage>
+            <page-range>179-88</page-range>
+            <pub-id pub-id-type="pmid">17845835</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Taylor</surname>
+                <given-names>RS</given-names>
+              </name>
+            </person-group>
+            <article-title>Spinal cord stimulation in complex regional pain syndrome and refractory neuropathic back and leg pain/failed back surgery syndrome: results of a systematic review and meta-analysis.</article-title>
+            <source>J Pain Symptom Manage</source>
+            <year>2006</year>
+            <month>Apr</month>
+            <volume>31</volume>
+            <issue>4 Suppl</issue>
+            <fpage>S13</fpage>
+            <page-range>S13-9</page-range>
+            <pub-id pub-id-type="pmid">16647590</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kemler</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>De Vet</surname>
+                <given-names>HC</given-names>
+              </name>
+              <name>
+                <surname>Barendse</surname>
+                <given-names>GA</given-names>
+              </name>
+              <name>
+                <surname>Van Den Wildenberg</surname>
+                <given-names>FA</given-names>
+              </name>
+              <name>
+                <surname>Van Kleef</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>The effect of spinal cord stimulation in patients with chronic reflex sympathetic dystrophy: two years' follow-up of the randomized controlled trial.</article-title>
+            <source>Ann Neurol</source>
+            <year>2004</year>
+            <month>Jan</month>
+            <volume>55</volume>
+            <issue>1</issue>
+            <fpage>13</fpage>
+            <page-range>13-8</page-range>
+            <pub-id pub-id-type="pmid">14705107</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Eliasson</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Augustinsson</surname>
+                <given-names>LE</given-names>
+              </name>
+              <name>
+                <surname>Mannheimer</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Spinal cord stimulation in severe angina pectoris--presentation of current studies, indications and clinical experience.</article-title>
+            <source>Pain</source>
+            <year>1996</year>
+            <season>May-Jun</season>
+            <volume>65</volume>
+            <issue>2-3</issue>
+            <fpage>169</fpage>
+            <page-range>169-79</page-range>
+            <pub-id pub-id-type="pmid">8826504</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r26">
+          <label>26</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gersbach</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Hasdemir</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Stevens</surname>
+                <given-names>RD</given-names>
+              </name>
+              <name>
+                <surname>Nachbur</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Mahler</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>Discriminative microcirculatory screening of patients with refractory limb ischaemia for dorsal column stimulation.</article-title>
+            <source>Eur J Vasc Endovasc Surg</source>
+            <year>1997</year>
+            <month>May</month>
+            <volume>13</volume>
+            <issue>5</issue>
+            <fpage>464</fpage>
+            <page-range>464-71</page-range>
+            <pub-id pub-id-type="pmid">9166269</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r27">
+          <label>27</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ubbink</surname>
+                <given-names>DT</given-names>
+              </name>
+              <name>
+                <surname>Vermeulen</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Spinal cord stimulation for critical leg ischemia: a review of effectiveness and optimal patient selection.</article-title>
+            <source>J Pain Symptom Manage</source>
+            <year>2006</year>
+            <month>Apr</month>
+            <volume>31</volume>
+            <issue>4 Suppl</issue>
+            <fpage>S30</fpage>
+            <page-range>S30-5</page-range>
+            <pub-id pub-id-type="pmid">16647594</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r28">
+          <label>28</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Amann</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Berg</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Gersbach</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Gamain</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Raphael</surname>
+                <given-names>JH</given-names>
+              </name>
+              <name>
+                <surname>Ubbink</surname>
+                <given-names>DT</given-names>
+              </name>
+              <collab>European Peripheral Vascular Disease Outcome Study SCS-EPOS</collab>
+            </person-group>
+            <article-title>Spinal cord stimulation in the treatment of non-reconstructable stable critical leg ischaemia: results of the European Peripheral Vascular Disease Outcome Study (SCS-EPOS).</article-title>
+            <source>Eur J Vasc Endovasc Surg</source>
+            <year>2003</year>
+            <month>Sep</month>
+            <volume>26</volume>
+            <issue>3</issue>
+            <fpage>280</fpage>
+            <page-range>280-6</page-range>
+            <pub-id pub-id-type="pmid">14509891</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r29">
+          <label>29</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>North</surname>
+                <given-names>RB</given-names>
+              </name>
+              <name>
+                <surname>Kidd</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Shipley</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Taylor</surname>
+                <given-names>RS</given-names>
+              </name>
+            </person-group>
+            <article-title>Spinal cord stimulation versus reoperation for failed back surgery syndrome: a cost effectiveness and cost utility analysis based on a randomized, controlled trial.</article-title>
+            <source>Neurosurgery</source>
+            <year>2007</year>
+            <month>Aug</month>
+            <volume>61</volume>
+            <issue>2</issue>
+            <fpage>361</fpage>
+            <page-range>361-8; discussion 368-9</page-range>
+            <pub-id pub-id-type="pmid">17762749</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-29317.r30">
+          <label>30</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kumar</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Malik</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Demeria</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Treatment of chronic pain with spinal cord stimulation versus alternative therapies: cost-effectiveness analysis.</article-title>
+            <source>Neurosurgery</source>
+            <year>2002</year>
+            <month>Jul</month>
+            <volume>51</volume>
+            <issue>1</issue>
+            <fpage>106</fpage>
+            <page-range>106-15; discussion 115-6</page-range>
+            <pub-id pub-id-type="pmid">12182407</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

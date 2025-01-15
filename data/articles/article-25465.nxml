@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-25465" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Myocardial Perfusion Scan</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Patel</surname>
+            <given-names>Jigar J.</given-names>
+          </name>
+          <aff>George Washington University</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Alzahrani</surname>
+            <given-names>Talal</given-names>
+          </name>
+          <aff>Taibah University</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Jigar Patel declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Talal Alzahrani declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>14</day>
+          <month>8</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-25465.s1" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Myocardial perfusion scanning plays a significant role in diagnostic and therapeutic decision making in cardiac disease. These refer to a group of non-invasive imaging tests that can be performed to help clinicians assess blood flow to areas of myocardium. Obtaining information on perfusion and metabolite uptake from myocardium plays a vital role in determining the appropriate medical treatment or intervention for optimizing one's cardiac health. These tests are useful for diagnostic and prognostic purposes throughout a variety of clinical settings, including evaluating symptoms concerning for angina, to rule out acute coronary syndrome as a cause of chest pain, assessing therapeutic outcome after interventions, as well as for assessing for viable or scarred myocardium. With such information, clinicians can appropriately understand a patient's coronary health, perform risk stratification for future cardiovascular events, assess for therapeutic response to interventions correcting perfusion defects, and allow for prognostication.</p>
+        <p>Perfusion scanning utilizes various radiotracers, which are administered to the patient and allowed to distribute to multiple tissues. These radiotracers emit photons, which are detectable with a gamma camera which typically contains a single sodium iodide crystal (Single photon emission computed tomography, or SPECT) or multiple crystals (typically used in positron emission tomography, or PET) to interact with captured photons. These cameras contain a collimator, which helps eliminate background, and a photomultiplier, which translate the interactions between the photon and crystals into electrical energy to produce images.<xref ref-type="bibr" rid="article-25465.r1">[1]</xref> In SPECT imaging techniques, common radiotracers used include thallium-201 or technetium-based radiotracers, including technetium-99m sestamibi or technetium-99m tetrofosmin.<xref ref-type="bibr" rid="article-25465.r2">[2]</xref> Thallium-201 is distributed actively into myocardial cells, whereas technetium-based products are distributed passively depending on blood flow and myocardial viability.<xref ref-type="bibr" rid="article-25465.r2">[2]</xref><xref ref-type="bibr" rid="article-25465.r3">[3]</xref> These radiotracers are injected when the heart is stressed, either by exercise or pharmacologically. The uptake of radiotracer indicates areas of perfusion and viable tissue during stress and at rest. Areas of poor perfusion display improved perfusion during rest, termed reversible ischemia.<xref ref-type="bibr" rid="article-25465.r2">[2]</xref></p>
+        <p>SPECT, which is more commonly used and available in clinical practice today, uses planar images to reconstruct a three-dimensional representation of myocardial perfusion. Unlike planar imaging, SPECT can obtain sequential slices without overlap of normal and abnormal areas with improved resolution over planar imaging&#x000a0;<xref ref-type="bibr" rid="article-25465.r4">[4]</xref>.&#x000a0;&#x000a0;SPECT imaging has undergone validation in multiple large scale studies for detection of coronary artery disease; however, there are some limitations to this imaging modality.<xref ref-type="bibr" rid="article-25465.r5">[5]</xref><xref ref-type="bibr" rid="article-25465.r6">[6]</xref> These include artifacts such as those caused by motion, attenuation, or extracardiac activity affecting the quality of images and reader variability.<xref ref-type="bibr" rid="article-25465.r7">[7]</xref> Also, SPECT imaging typically uses technetium-99m tracers, which have low first-pass extraction, and thus leading to the underestimation of ischemic changes both in extent and severity.<xref ref-type="bibr" rid="article-25465.r8">[8]</xref></p>
+        <p>PET imaging, although less available than SPECT, can help overcome some of these limitations. PET images have better spatial resolution and allow for attenuation correction more accuracy than SPECT.<xref ref-type="bibr" rid="article-25465.r9">[9]</xref> With the high temporal resolution, PET scanning also allows for quantification of myocardial blood flow and myocardial flow reserve and can be of great utility in risk stratification in assessing cardiovascular mortality.<xref ref-type="bibr" rid="article-25465.r9">[9]</xref><xref ref-type="bibr" rid="article-25465.r10">[10]</xref> Further, PET imaging has the advantages of protocols requiring less time, less radiation exposure compared to SPECT imaging techniques.<xref ref-type="bibr" rid="article-25465.r11">[11]</xref> In PET imaging, radiotracers such as ammonia N-13, rubidium-82, and flurpiridaz F-18 are radiotracers used in for myocardial perfusion imaging. Rubidium-82 is used commonly and can produce good quality images as it has a 65% myocardial extraction rate. In contrast, ammonia N-13 and fluripiridaz F-18 have a myocardial extraction rate of 80% and 95% respectively, therefore producing better quality images with higher resolution. The downside of the later radiotracers is the need for an on-site cyclotron.<xref ref-type="bibr" rid="article-25465.r9">[9]</xref> Rubidium-82 is usable for pharmacologic stress testing, whereas ammonia-N-13 and flurpiridaz F-18 can be used for both exercise and pharmacologic stress testing.<xref ref-type="bibr" rid="article-25465.r9">[9]</xref></p>
+        <p>To obtain stress images, exercise or pharmacologic testing can is an option. Common pharmacologic agents used include&#x000a0;regadenoson,&#x000a0;adenosine, and&#x000a0;dipyridamole. All three medications work by causing coronary vasodilatation, with subsequent blood flow differences. Adenosine and dipyridamole are A-2A as well as&#x000a0;A-1, A-2B, and A-3 receptor agonists, which can also cause bronchospasm, AV nodal block, chest tightness, and flushing. Regadenoson is a selective A-2A agonist which can be a choice in patients with known bronchospasms.<xref ref-type="bibr" rid="article-25465.r9">[9]</xref> Thus, regadenoson is the most common pharmacological agent used in clinical practice.&#x000a0;</p>
+      </sec>
+      <sec id="article-25465.s2" sec-type="Procedures">
+        <title>Procedures</title>
+        <p>
+<bold>SPECT Imaging:</bold>
+</p>
+        <p>There are multiple protocols for obtaining SPECT imaging to assess myocardial perfusion and tissue viability. No single protocol is useful for every patient, and the studies require individualization for each patient depending on the diagnostic information desired by the clinician and patient characteristics. The most common radiotracers used in SPECT imaging include technetium-99m and thallium-201. Below are two examples of protocols used in SPECT imaging<xref ref-type="bibr" rid="article-25465.r12">[12]</xref>:</p>
+        <p>Technetium-99m (Tc-99m) one-day rest-stress imaging protocol</p>
+        <list list-type="order">
+          <list-item>
+            <p>Tc-99m radiotracer is injected intravenously.</p>
+          </list-item>
+          <list-item>
+            <p>30 to 60 minutes later, resting myocardial perfusion images are obtained.</p>
+          </list-item>
+          <list-item>
+            <p>Depending on availability and patient characteristics, a vasodilator (pharmacologic stress) is administered (either dipyridamole 0.56 mg/kg, adenosine 140 mcg/kg/min for a 6-minute infusion, or regadenoson 0.4 mg injection). A second dose of radiotracer is also administered.</p>
+          </list-item>
+          <list-item>
+            <p>15 to 45 minutes later stress images are obtained.</p>
+          </list-item>
+          <list-item>
+            <p>Rest and stress images are ready for review and interpretation by a trained professional.</p>
+          </list-item>
+        </list>
+        <p>Thallium-201 (Tl-201) Stress-Rest Redistribution imaging protocol</p>
+        <list list-type="order">
+          <list-item>
+            <p>Depending on availability and patient characteristics, a vasodilator (pharmacologic stress) is administered (either dipyridamole 0.56 mg/kg, adenosine 140 mcg/kg/min for a 6-minute infusion, or regadenoson 0.4 mg IV) along with a Tl-201 radiotracer.</p>
+          </list-item>
+          <list-item>
+            <p>After 15 minutes, stress images are obtained and reviewed.</p>
+          </list-item>
+          <list-item>
+            <p>Depending on image interpretation an optional rest image is obtained 2.5-4 hours later, or 24 hours after initial radiotracer administration.</p>
+          </list-item>
+          <list-item>
+            <p>Images are ready for interpretation and determination of areas of poor myocardial perfusion and/or viability (if redistribution images were obtained at a later time).</p>
+          </list-item>
+        </list>
+        <p>
+<bold>PET Imaging:&#x000a0;</bold>
+</p>
+        <p>Procedures for PET CT scanning are similar to SPECT. One such protocol is described below<xref ref-type="bibr" rid="article-25465.r13">[13]</xref>:</p>
+        <list list-type="order">
+          <list-item>
+            <p>60 mCi of Rubidium-82 chloride is infused in 50 ml of normal saline solution over 25 seconds.</p>
+          </list-item>
+          <list-item>
+            <p>Ninety seconds after infusion, rest images are obtained.</p>
+          </list-item>
+          <list-item>
+            <p>A vasodilator is administered (dipyridamole at 0.57/mg/kg for 4 minutes or regadenoson 0.4 mg given over 10 seconds followed by a 5-ml saline flush).</p>
+          </list-item>
+          <list-item>
+            <p>If using dipyridamole:
+<list list-type="order"><list-item><p>A waiting period of 3 minutes&#x000a0;&#x000a0;</p></list-item><list-item><p>Start of rubidium 82 chloride infusion in 50 ml over 25 seconds</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>If using regadenoson:
+<list list-type="order"><list-item><p>The rubidium 82 chloride infusion in 50 ml is started immediately after the saline flush</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Images are obtained approximately 90 seconds after completion of the rubidium-82 infusion.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-25465.s3" sec-type="Indications">
+        <title>Indications</title>
+        <p>The use of myocardial perfusion imaging depends on the clinical context and suspicion of myocardial mal-perfusion or to assess response after an intervention. Of course, imaging itself does not substitute for one's clinical suspicion for myocardial ischemia.&#x000a0;Some indications for myocardial perfusion imaging include<xref ref-type="bibr" rid="article-25465.r14">[14]</xref>:</p>
+        <list list-type="order">
+          <list-item>
+            <p>Evaluation of possible coronary artery disease for non-cardiac perioperative risk assessment (depending on surgical risk and medical comorbidities)</p>
+          </list-item>
+          <list-item>
+            <p>Detection of coronary artery disease (depending on clinical evidence, there are different indications, e.g., troponin elevation without history concerning for angina)</p>
+          </list-item>
+          <list-item>
+            <p>New diagnosis of heart failure with reduced left ventricular systolic function without an ischemic equivalent and no plan for coronary angiography</p>
+          </list-item>
+          <list-item>
+            <p>Ventricular tachycardia with a high risk of coronary artery disease</p>
+          </list-item>
+          <list-item>
+            <p>Syncope with intermediate to high risk of coronary artery disease</p>
+          </list-item>
+          <list-item>
+            <p>Prior non-invasive evaluation with indeterminate results where obstructive CAD remains a concern</p>
+          </list-item>
+          <list-item>
+            <p>New or worsening symptoms of angina in a patient with known CAD</p>
+          </list-item>
+          <list-item>
+            <p>&#x000a0;Risk assessment in post-revascularization for ischemic equivalent symptoms of chest pain, incomplete revascularization in an asymptomatic individual, or 5 or more years after coronary artery bypass grafting (CABG)</p>
+          </list-item>
+          <list-item>
+            <p>Assessment of myocardial viability to determine if a patient is a candidate for revascularization</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-25465.s4" sec-type="Potential Diagnosis">
+        <title>Potential Diagnosis</title>
+        <p>With the use of myocardial perfusion imaging such as SPECT or PET, diagnosis of coronary artery disease can be made along with information of the extent and viability of myocardial tissue.</p>
+      </sec>
+      <sec id="article-25465.s5" sec-type="Normal and Critical Findings">
+        <title>Normal and Critical Findings</title>
+        <p>Images are taken in various cuts along the short axis, vertical and horizontal long axes, and transaxial views. Pictures are taken with rest and during stress as described above. Areas with poor myocardium perfusion have less radiotracer uptake, whereas areas with adequate perfusion light up brightly on the images. The comparison of rest and stress images can help differentiate areas of viable, reversible areas of perfusion defects from those areas of non-reversible perfusion defects. This visualization helps in the decision regarding whether or not revascularization is needed.</p>
+      </sec>
+      <sec id="article-25465.s6" sec-type="Interfering Factors">
+        <title>Interfering Factors</title>
+        <p>SPECT imaging perfusion images are more prone to artifacts. Examples of artifacts that can interfere with SPECT imaging include patient motion during the study, interference from extra-cardiac activity, photon attenuation (e.x. from breast tissue or diaphragm), and attenuation map misalignment. Before quantitative analysis of the images, correction of motion and attenuation could minimize artifact. Other methods of minimizing artifact include supine and prone positioning.<xref ref-type="bibr" rid="article-25465.r7">[7]</xref><xref ref-type="bibr" rid="article-25465.r9">[9]</xref></p>
+        <p>PET perfusion imaging techniques have better spatial resolution than SPECT. Therefore attenuation correction can occur more accurately.<xref ref-type="bibr" rid="article-25465.r7">[7]</xref></p>
+      </sec>
+      <sec id="article-25465.s7" sec-type="Patient Safety and Education">
+        <title>Patient Safety and Education</title>
+        <p>Patients should receive counseling regarding the risk of radiation exposure through myocardial perfusion imaging protocols. Radiation exposure typically is more in SPECT than in PET imaging. In SPECT imaging radiation dose can range from 10 to 20 mSv depending on the agent and protocol used (one day vs. two-day stress imaging). Agents used commonly used in PET imaging expose patients to less radiation especially, rubidium-82 and nitrogen-13 ammonia with typically less than 10 mSv of exposure.<xref ref-type="bibr" rid="article-25465.r9">[9]</xref></p>
+      </sec>
+      <sec id="article-25465.s8" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>Myocardial perfusion scanning plays a major role in diagnostic and therapeutic decision making in cardiac disease. These refer to a group of non-invasive imaging tests that can be performed to help clinicians assess blood flow to areas of myocardium. Obtaining information on perfusion and metabolite uptake from myocardium plays a vital role in determining the appropriate medical treatment or intervention for optimizing one's cardiac health. These tests are useful for diagnostic and prognostic purposes throughout a variety of clinical settings, including evaluating symptoms concerning for angina, to rule out acute coronary syndrome as a cause of chest pain, assessing therapeutic outcome after interventions, as well as for assessing for viable or scarred myocardium.&#x000a0;</p>
+      </sec>
+      <sec id="article-25465.s9">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=25465&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=25465">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/25465/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=25465">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-25465.s10">
+        <title>References</title>
+        <ref id="article-25465.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Delso</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Ter Voert</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Veit-Haibach</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>How does PET/MR work? Basic physics for physicians.</article-title>
+            <source>Abdom Imaging</source>
+            <year>2015</year>
+            <month>Aug</month>
+            <volume>40</volume>
+            <issue>6</issue>
+            <fpage>1352</fpage>
+            <page-range>1352-7</page-range>
+            <pub-id pub-id-type="pmid">25906344</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-25465.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Angelidis</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Giamouzis</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Karagiannis</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Butler</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Tsougos</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Valotassiou</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Giannakoulas</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Dimakopoulos</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Xanthopoulos</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Skoularigis</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Triposkiadis</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Georgoulias</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>SPECT and PET in ischemic heart failure.</article-title>
+            <source>Heart Fail Rev</source>
+            <year>2017</year>
+            <month>Mar</month>
+            <volume>22</volume>
+            <issue>2</issue>
+            <fpage>243</fpage>
+            <page-range>243-261</page-range>
+            <pub-id pub-id-type="pmid">28150111</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-25465.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Verberne</surname>
+                <given-names>HJ</given-names>
+              </name>
+              <name>
+                <surname>Acampa</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Anagnostopoulos</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Ballinger</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Bengel</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>De Bondt</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Buechel</surname>
+                <given-names>RR</given-names>
+              </name>
+              <name>
+                <surname>Cuocolo</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>van Eck-Smit</surname>
+                <given-names>BL</given-names>
+              </name>
+              <name>
+                <surname>Flotats</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Hacker</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Hindorf</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Kaufmann</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Lindner</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Ljungberg</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Lonsdale</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Manrique</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Minarik</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Scholte</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Slart</surname>
+                <given-names>RH</given-names>
+              </name>
+              <name>
+                <surname>Tr&#x000e4;g&#x000e5;rdh</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>de Wit</surname>
+                <given-names>TC</given-names>
+              </name>
+              <name>
+                <surname>Hesse</surname>
+                <given-names>B</given-names>
+              </name>
+              <collab>European Association of Nuclear Medicine (EANM)</collab>
+            </person-group>
+            <article-title>EANM procedural guidelines for radionuclide myocardial perfusion imaging with SPECT and SPECT/CT: 2015 revision.</article-title>
+            <source>Eur J Nucl Med Mol Imaging</source>
+            <year>2015</year>
+            <month>Nov</month>
+            <volume>42</volume>
+            <issue>12</issue>
+            <fpage>1929</fpage>
+            <page-range>1929-40</page-range>
+            <pub-id pub-id-type="pmid">26290421</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-25465.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Iskandrian</surname>
+                <given-names>AS</given-names>
+              </name>
+            </person-group>
+            <article-title>Single-photon emission computed tomographic thallium imaging with adenosine, dipyridamole, and exercise.</article-title>
+            <source>Am Heart J</source>
+            <year>1991</year>
+            <month>Jul</month>
+            <volume>122</volume>
+            <issue>1 Pt 1</issue>
+            <fpage>279</fpage>
+            <page-range>279-84; discussion 302-6</page-range>
+            <pub-id pub-id-type="pmid">2063758</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-25465.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jaarsma</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Leiner</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Bekkers</surname>
+                <given-names>SC</given-names>
+              </name>
+              <name>
+                <surname>Crijns</surname>
+                <given-names>HJ</given-names>
+              </name>
+              <name>
+                <surname>Wildberger</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Nagel</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Nelemans</surname>
+                <given-names>PJ</given-names>
+              </name>
+              <name>
+                <surname>Schalla</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Diagnostic performance of noninvasive myocardial perfusion imaging using single-photon emission computed tomography, cardiac magnetic resonance, and positron emission tomography imaging for the detection of obstructive coronary artery disease: a meta-analysis.</article-title>
+            <source>J Am Coll Cardiol</source>
+            <year>2012</year>
+            <month>May</month>
+            <day>08</day>
+            <volume>59</volume>
+            <issue>19</issue>
+            <fpage>1719</fpage>
+            <page-range>1719-28</page-range>
+            <pub-id pub-id-type="pmid">22554604</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-25465.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pelletier-Galarneau</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Martineau</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>El Fakhri</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Quantification of PET Myocardial Blood Flow.</article-title>
+            <source>Curr Cardiol Rep</source>
+            <year>2019</year>
+            <month>Feb</month>
+            <day>28</day>
+            <volume>21</volume>
+            <issue>3</issue>
+            <fpage>11</fpage>
+            <pub-id pub-id-type="pmid">30815744</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-25465.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Slomka</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Xu</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Berman</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Germano</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Quantitative analysis of perfusion studies: strengths and pitfalls.</article-title>
+            <source>J Nucl Cardiol</source>
+            <year>2012</year>
+            <month>Apr</month>
+            <volume>19</volume>
+            <issue>2</issue>
+            <fpage>338</fpage>
+            <page-range>338-46</page-range>
+            <pub-id pub-id-type="pmid">22302181</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-25465.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shanoudy</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Raggi</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Beller</surname>
+                <given-names>GA</given-names>
+              </name>
+              <name>
+                <surname>Soliman</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Ammermann</surname>
+                <given-names>EG</given-names>
+              </name>
+              <name>
+                <surname>Kastner</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Watson</surname>
+                <given-names>DD</given-names>
+              </name>
+            </person-group>
+            <article-title>Comparison of technetium-99m tetrofosmin and thallium-201 single-photon emission computed tomographic imaging for detection of myocardial perfusion defects in patients with coronary artery disease.</article-title>
+            <source>J Am Coll Cardiol</source>
+            <year>1998</year>
+            <month>Feb</month>
+            <volume>31</volume>
+            <issue>2</issue>
+            <fpage>331</fpage>
+            <page-range>331-7</page-range>
+            <pub-id pub-id-type="pmid">9462576</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-25465.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hung</surname>
+                <given-names>GU</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>YF</given-names>
+              </name>
+              <name>
+                <surname>Su</surname>
+                <given-names>HY</given-names>
+              </name>
+              <name>
+                <surname>Hsieh</surname>
+                <given-names>TC</given-names>
+              </name>
+              <name>
+                <surname>Ko</surname>
+                <given-names>CL</given-names>
+              </name>
+              <name>
+                <surname>Yen</surname>
+                <given-names>RF</given-names>
+              </name>
+            </person-group>
+            <article-title>New Trends in Radionuclide Myocardial Perfusion Imaging.</article-title>
+            <source>Acta Cardiol Sin</source>
+            <year>2016</year>
+            <month>Mar</month>
+            <volume>32</volume>
+            <issue>2</issue>
+            <fpage>156</fpage>
+            <page-range>156-66</page-range>
+            <pub-id pub-id-type="pmid">27122946</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-25465.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Murthy</surname>
+                <given-names>VL</given-names>
+              </name>
+              <name>
+                <surname>Naya</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Foster</surname>
+                <given-names>CR</given-names>
+              </name>
+              <name>
+                <surname>Hainer</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Gaber</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Di Carli</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Blankstein</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Dorbala</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Sitek</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Pencina</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Di Carli</surname>
+                <given-names>MF</given-names>
+              </name>
+            </person-group>
+            <article-title>Improved cardiac risk assessment with noninvasive measures of coronary flow reserve.</article-title>
+            <source>Circulation</source>
+            <year>2011</year>
+            <month>Nov</month>
+            <day>15</day>
+            <volume>124</volume>
+            <issue>20</issue>
+            <fpage>2215</fpage>
+            <page-range>2215-24</page-range>
+            <pub-id pub-id-type="pmid">22007073</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-25465.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Driessen</surname>
+                <given-names>RS</given-names>
+              </name>
+              <name>
+                <surname>Raijmakers</surname>
+                <given-names>PG</given-names>
+              </name>
+              <name>
+                <surname>Stuijfzand</surname>
+                <given-names>WJ</given-names>
+              </name>
+              <name>
+                <surname>Knaapen</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Myocardial perfusion imaging with PET.</article-title>
+            <source>Int J Cardiovasc Imaging</source>
+            <year>2017</year>
+            <month>Jul</month>
+            <volume>33</volume>
+            <issue>7</issue>
+            <fpage>1021</fpage>
+            <page-range>1021-1031</page-range>
+            <pub-id pub-id-type="pmid">28188475</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-25465.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Henzlova</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Duvall</surname>
+                <given-names>WL</given-names>
+              </name>
+              <name>
+                <surname>Einstein</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Travin</surname>
+                <given-names>MI</given-names>
+              </name>
+              <name>
+                <surname>Verberne</surname>
+                <given-names>HJ</given-names>
+              </name>
+            </person-group>
+            <article-title>ASNC imaging guidelines for SPECT nuclear cardiology procedures: Stress, protocols, and tracers.</article-title>
+            <source>J Nucl Cardiol</source>
+            <year>2016</year>
+            <month>Jun</month>
+            <volume>23</volume>
+            <issue>3</issue>
+            <fpage>606</fpage>
+            <page-range>606-39</page-range>
+            <pub-id pub-id-type="pmid">26914678</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-25465.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cullom</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Case</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Courter</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>McGhie</surname>
+                <given-names>AI</given-names>
+              </name>
+              <name>
+                <surname>Bateman</surname>
+                <given-names>TM</given-names>
+              </name>
+            </person-group>
+            <article-title>Regadenoson pharmacologic rubidium-82 PET: a comparison of quantitative perfusion and function to dipyridamole.</article-title>
+            <source>J Nucl Cardiol</source>
+            <year>2013</year>
+            <month>Feb</month>
+            <volume>20</volume>
+            <issue>1</issue>
+            <fpage>76</fpage>
+            <page-range>76-83</page-range>
+            <pub-id pub-id-type="pmid">23188625</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-25465.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hendel</surname>
+                <given-names>RC</given-names>
+              </name>
+              <name>
+                <surname>Berman</surname>
+                <given-names>DS</given-names>
+              </name>
+              <name>
+                <surname>Di Carli</surname>
+                <given-names>MF</given-names>
+              </name>
+              <name>
+                <surname>Heidenreich</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Henkin</surname>
+                <given-names>RE</given-names>
+              </name>
+              <name>
+                <surname>Pellikka</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Pohost</surname>
+                <given-names>GM</given-names>
+              </name>
+              <name>
+                <surname>Williams</surname>
+                <given-names>KA</given-names>
+              </name>
+              <collab>American College of Cardiology Foundation Appropriate Use Criteria Task Force</collab>
+              <collab>American Society of Nuclear Cardiology</collab>
+              <collab>American College of Radiology</collab>
+              <collab>American Heart Association</collab>
+              <collab>American Society of Echocardiology</collab>
+              <collab>Society of Cardiovascular Computed Tomography</collab>
+              <collab>Society for Cardiovascular Magnetic Resonance</collab>
+              <collab>Society of Nuclear Medicine</collab>
+            </person-group>
+            <article-title>ACCF/ASNC/ACR/AHA/ASE/SCCT/SCMR/SNM 2009 Appropriate Use Criteria for Cardiac Radionuclide Imaging: A Report of the American College of Cardiology Foundation Appropriate Use Criteria Task Force, the American Society of Nuclear Cardiology, the American College of Radiology, the American Heart Association, the American Society of Echocardiography, the Society of Cardiovascular Computed Tomography, the Society for Cardiovascular Magnetic Resonance, and the Society of Nuclear Medicine.</article-title>
+            <source>J Am Coll Cardiol</source>
+            <year>2009</year>
+            <month>Jun</month>
+            <day>09</day>
+            <volume>53</volume>
+            <issue>23</issue>
+            <fpage>2201</fpage>
+            <page-range>2201-29</page-range>
+            <pub-id pub-id-type="pmid">19497454</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

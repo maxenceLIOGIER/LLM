@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-30671" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Acute Renal Tubular Necrosis</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Hanif</surname>
+            <given-names>Muhammad O.</given-names>
+          </name>
+          <aff>Drexel University College of Medicine/Hahnemann University Hospital</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Bali</surname>
+            <given-names>Atul</given-names>
+          </name>
+          <aff>University of Virginia</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Ramphul</surname>
+            <given-names>Kamleshun</given-names>
+          </name>
+          <aff>Shanghai Jiao Tong University</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Muhammad Hanif declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Atul Bali declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Kamleshun Ramphul declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>4</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-30671.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>The most common intrinsic cause of acute kidney injury is acute tubular necrosis. Acute tubular necrosis is most common in hospitalized patients and can occur following ischemia, exposure to toxins, or sepsis. Acute tubular necrosis is associated with high morbidity and mortality. This activity reviews the evaluation, diagnosis, and treatment of acute tubular necrosis, and highlights the role of the interprofessional team in caring for patients with this condition.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Describe the four clinical phases of acute tubular necrosis.</p></list-item><list-item><p>Explain how to evaluate a patient for acute tubular necrosis.</p></list-item><list-item><p>Explain how to manage a patient with acute tubular necrosis.</p></list-item><list-item><p>Explain the importance of well-coordinated interprofessional teamwork in managing patients with acute tubular necrosis.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=30671&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=30671">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-30671.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>The most common cause of&#x000a0;acute&#x000a0;kidney injury (AKI) is acute tubular necrosis (ATN) when the&#x000a0;pattern of injury lies within the kidney (intrinsic disease). The&#x000a0;term tubular necrosis is a misnomer, as true cellular necrosis is usually minimal, and the alteration is not limited to the tubular structures. Acute tubular necrosis is most common in hospitalized patients and is associated with high morbidity and mortality. The pattern of injury that defines acute tubular necrosis includes renal tubular cell damage and death.&#x000a0;Intrarenal vasoconstriction or a direct effect of drug toxicity is caused by an ischemic event, nephrotoxic mechanism, or a mixture of both.<xref ref-type="bibr" rid="article-30671.r1">[1]</xref></p>
+      </sec>
+      <sec id="article-30671.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p>Acute tubular necrosis is precipitated&#x000a0;by an acute&#x000a0;ischemic or toxic event or sepsis.</p>
+        <p>
+<bold>Ischemic-Induced Acute Tubular Necrosis</bold>
+</p>
+        <p>Prerenal azotemia and ischemic acute tubular necrosis have the same spectrum of causes. Any factor that leads to prerenal azotemia can lead to ischemic acute tubular necrosis. Some common causes include hypovolemic states such as diarrhea, vomiting, bleeding, dehydration, burns, renal losses via diuretics or osmotic diuresis, and third fluid sequestration. Edematous states such as heart failure and cirrhosis cause reduced kidney perfusion. Sepsis or anaphylaxis leads to systemic vasodilation. Coagulopathy, such as disseminated intravascular coagulation, can also cause&#x000a0;acute tubular necrosis.<xref ref-type="bibr" rid="article-30671.r2">[2]</xref></p>
+        <p>
+<bold>Nephrotoxic-Induced Acute Tubular Necrosis</bold>
+</p>
+        <p>The kidney clears and metabolizes many drugs. Some of&#x000a0;these drugs behave as exogenous toxins and can cause direct renal tubular injury or crystal-induced acute kidney injury (AKI), leading to acute tubular necrosis. Drugs such as aminoglycoside, amphotericin B, radiocontrast media, sulfa drugs, acyclovir, cisplatin, calcineurin inhibitors (tacrolimus, cyclosporine), mammalian target of rapamycin mTOR inhibitors (everolimus, temsirolimus), foscarnet, ifosfamide, cidofovir, and intravenous immunoglobulin containing sucrose&#x000a0;all&#x000a0;can cause&#x000a0;acute tubular necrosis.<xref ref-type="bibr" rid="article-30671.r3">[3]</xref></p>
+        <p>Heme pigment-containing proteins such as hemoglobin and myoglobin can behave as endotoxins in&#x000a0;3 ways:</p>
+        <list list-type="order">
+          <list-item>
+            <p>Causing&#x000a0;direct proximal tubular injury, tubular obstruction, or renal vasoconstriction.</p>
+          </list-item>
+          <list-item>
+            <p>Crystal-induced nephropathy due to high&#x000a0;cell turnover such as uric acid, calcium phosphate crystals in the setting of ongoing malignancy treatment.</p>
+          </list-item>
+          <list-item>
+            <p>Light chain accumulation in multiple myeloma&#x000a0;is directly toxic to the renal proximal and distal tubules.</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Sepsis-Induced Acute Tubular Necrosis</bold>
+</p>
+        <p>Sepsis also plays a role in causing acute tubular necrosis because&#x000a0;of systemic hypotension and renal hypoperfusion. Other mechanisms that are incompletely understood include endotoxemia leading to AKI by renal vasoconstriction and the release of inflammatory&#x000a0;cytokines causing enhanced secretion of reactive oxygen species and leading to renal injury.<xref ref-type="bibr" rid="article-30671.r4">[4]</xref></p>
+      </sec>
+      <sec id="article-30671.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p>The landmark&#x000a0;PICARD (Program to improve care in acute renal disease)&#x000a0;study&#x000a0;conducted in five&#x000a0;United States&#x000a0;medical&#x000a0;institutions included a cohort of 618 patients in the intensive care unit (ICU) with AKI.&#x000a0;The reported etiology of 50% of those patients with acute renal failure was found to be acute tubular necrosis from ischemic causes,&#x000a0;and the other 25% were nephrotoxic acute tubular necrosis leading to renal failure. A Spanish multicenter study in 13 tertiary care hospitals in Madrid found the most frequent cause of AKI was acute tubular necrosis in 45% of the hospitalized patients.<xref ref-type="bibr" rid="article-30671.r5">[5]</xref></p>
+      </sec>
+      <sec id="article-30671.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>Decreased&#x000a0;glomerular filtration rate (GFR) is associated with acute tubular necrosis, leading to 3 possible mechanisms&#x000a0;of injury to the renal tubular epithelial cells:</p>
+        <list list-type="order">
+          <list-item>
+            <p>Afferent arteriolar vasoconstriction in response to tubuloglomerular feedback</p>
+          </list-item>
+          <list-item>
+            <p>Backleak of glomerular filtrate</p>
+          </list-item>
+          <list-item>
+            <p>Tubular obstruction</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Clinical Phases</bold>
+</p>
+        <p>These injury patterns lead to the following 4 phases clinically:</p>
+        <p>
+<bold>
+<italic toggle="yes">Initiation</italic>
+</bold>
+</p>
+        <p>The initiation phase is characterized by an acute decrease in GFR and a sudden increase in serum creatinine and BUN concentrations.</p>
+        <p>
+<italic toggle="yes">
+<bold>Extension</bold>
+</italic>
+</p>
+        <p>The extension phase consists of 2 major events:</p>
+        <list list-type="order">
+          <list-item>
+            <p>Ongoing hypoxia following the ischemic event</p>
+          </list-item>
+          <list-item>
+            <p>An inflammatory response</p>
+          </list-item>
+        </list>
+        <p>These events are more pronounced in the corticomedullary junction of the kidney. In this phase, damage to the renal vascular endothelial cell is responsible for the ischemia of the renal tubular epithelial cell. The cells in the outer medulla continue to undergo injury and death with the combination of both necrosis and apoptosis. While in the outer cortex, the blood flow returns to near normal, leading to cellular repair. As the injury worsens in the cortico-medullary junction (CMJ), the GFR falls due to the continuous release of cytokines and chemokines enhancing the inflammatory cascade.</p>
+        <p>
+<italic toggle="yes">
+<bold>Maintenance</bold>
+</italic>
+</p>
+        <p>The maintenance phase is established by cellular repair, apoptosis, migration, and&#x000a0;proliferation to maintain cellular and tubule integrity. The cellular function improves slowly as the cells repair and reorganize. The blood flow&#x000a0;returns to the normal range, and the cells establish intracellular homeostasis.</p>
+        <p>
+<italic toggle="yes">
+<bold>Recovery</bold>
+</italic>
+</p>
+        <p>The recovery phase is the continuation of the maintenance phase in which cellular differentiation continues, and epithelial polarity is reestablished, improving the renal function.<xref ref-type="bibr" rid="article-30671.r6">[6]</xref><xref ref-type="bibr" rid="article-30671.r7">[7]</xref></p>
+      </sec>
+      <sec id="article-30671.s6" sec-type="Histopathology">
+        <title>Histopathology</title>
+        <p>Because it is a histological finding, acute tubular necrosis is diagnosed on a clinical basis. A biopsy is only performed&#x000a0;when there is suspicion of an entity other than acute tubular necrosis causing AKI. Histopathological findings include:</p>
+        <p>
+<bold>Ischemic Acute Tubular Necrosis</bold>
+</p>
+        <list list-type="order">
+          <list-item>
+            <p><italic toggle="yes">Early:</italic> Changes range from swelling of the cell to focal tubular epithelial necrosis and apoptosis with desquamation of cells into the tubular&#x000a0;lumen; dilated proximal tubules with loss or thinning of brush border; granular, hyaline, and pigmented cases especially in distal and collecting ducts; white blood cells in dilated vasa recta; interstitial edema; and eosinophilic hyaline casts of Tamm-Horsfall&#x000a0;protein</p>
+          </list-item>
+          <list-item>
+            <p><italic toggle="yes">Later:</italic> Regeneration of epithelia (dilated tubular lumina, flattened epithelium, large nuclei with prominent nucleoli and mitotic activity)</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Nephrotoxic Acute Tubular Necrosis</bold>
+</p>
+        <p>The nephrotoxic agents that lead&#x000a0;to acute tubular necrosis can manifest as different features of histological damage, including:</p>
+        <list list-type="order">
+          <list-item>
+            <p><italic toggle="yes">Ethylene glycol:</italic>&#x000a0;Calcium oxalate crystals in the tube<xref ref-type="bibr" rid="article-30671.r8">[8]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Hemoglobin/myoglobin:&#x000a0;Deeply pigmented, red-brown cast in the distal and collecting tubule.</p>
+          </list-item>
+          <list-item>
+            <p><italic toggle="yes">Carbon tetrachloride:</italic>&#x000a0;Neutral lipid accumulation in injured cells followed by necrosis.</p>
+          </list-item>
+          <list-item>
+            <p><italic toggle="yes">Indinavir:</italic> Clear intraluminal crystals with mononuclear reaction.</p>
+          </list-item>
+          <list-item>
+            <p><italic toggle="yes">Lead:</italic> Intranuclear, dark inclusions, and necrosis.</p>
+          </list-item>
+          <list-item>
+            <p><italic toggle="yes">Mercury:</italic> large acidophilic inclusions.</p>
+          </list-item>
+          <list-item>
+            <p><italic toggle="yes">Tenofovir:</italic> Proximal tubular eosinophilic inclusions that represent giant mitochondria.</p>
+          </list-item>
+          <list-item>
+            <p><italic toggle="yes">Vancomycin:</italic>&#x000a0;Acute interstitial nephritis with eosinophilic and lymphocytic infiltrate and acute tubular necrosis.<xref ref-type="bibr" rid="article-30671.r9">[9]</xref></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-30671.s7" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>The history and physical examination give a lot&#x000a0;of clues in identifying a person with prerenal disease and acute tubular necrosis, which is caused by decreased renal perfusion. Events such as diarrhea, vomiting, sepsis, dehydration, or bleeding that leads to tissue hypoxia&#x000a0;can indicate a risk of acute tubular necrosis. Hospitalized patients with events such as hypotension, sepsis, intraoperative events, use of nephrotoxic agents such as radiocontrast media or nephrotoxic antibiotics help in identifying the clinical picture causing AKI and acute tubular necrosis.&#x000a0;</p>
+        <p>Physical findings such as tachycardia, dry mucous membrane, decreased skin turgor, and cool extremities are findings that can be present in patients with volume depletion and hypotension. Fever and hypotension are common manifestations of sepsis. Muscle tenderness&#x000a0;is present in the setting of rhabdomyolysis. Intraabdominal hypertension that causes abdominal distension due to abdominal compartment syndrome also impedes renal perfusion and raises the concern for acute tubular necrosis.</p>
+      </sec>
+      <sec id="article-30671.s8" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>The workup is usually to differentiate acute tubular necrosis from prerenal AKI and other causes of AKI. Major tests that help to&#x000a0;differentiate include urinalysis (UA), response to fluid repletion, urinary sodium concentration, fractional excretion of sodium (FENa), and fractional excretion of urea in patients who get diuretics and novel biomarkers.</p>
+        <p>
+<bold>Urinalysis (UA)</bold>
+</p>
+        <p>In prerenal disease, the UA microscopy is normal or may contain hyaline casts. On the other hand, the UA of acute tubular necrosis shows muddy brown casts or renal tubular epithelial cells secondary to the sloughing of tubular cells into the lumen due to ischemia or toxic injury.</p>
+        <p>
+<bold>Fractional excretion of sodium (FENa)</bold>
+</p>
+        <p>This&#x000a0;is a good test to differentiate between acute tubular necrosis and prerenal disease, with a value less than 1% favoring prerenal disease and more than 2% acute tubular necrosis. However, these values are not always accurate as in chronic prerenal&#x000a0;states such as congestive heart failure and cirrhosis in which there is an overlap between both (ATN and prerenal AKI) having a value of less than 1%.<xref ref-type="bibr" rid="article-30671.r10">[10]</xref></p>
+        <p>
+<bold>Urine sodium concentration</bold>
+</p>
+        <p>This test determines that the kidney is sodium avid in hypovolemic&#x000a0;states (prerenal) where kidneys try to conserve sodium or lose sodium due to tubular injury with values more than 40 to 50 mEq/L indicating acute tubular necrosis and less than 20 mEq/L suggestive of prerenal disease.&#x000a0;<xref ref-type="bibr" rid="article-30671.r11">[11]</xref></p>
+        <p>
+<bold>Novel Biomarkers</bold>
+</p>
+        <p>Numerous biomarkers have evolved to detect AKI/acute tubular necrosis early as compared to serum creatinine. These biomarkers include serum cystatin C to be an early and reliable marker of renal injury as compared to serum creatinine which is often witnessed 48 to 72 hours after the initial insult. Other markers include urinary alpha one microglobulin, beta-2 microglobulin, urinary&#x000a0;liver-type fatty acid-binding protein (L-FABP), and kidney injury molecule 1 (KIM-1) for the detection of proximal tubular damage, urinary interleukin-18 (IL-18) is known to differentiate ATN from CKD, urinary tract infection (UTI), and prerenal azotemia. Urinary biomarker neutrophil gelatinase-associated lipocalin (NGAL) is upregulated in renal ischemia after distal tubular injury.<xref ref-type="bibr" rid="article-30671.r12">[12]</xref><xref ref-type="bibr" rid="article-30671.r13">[13]</xref></p>
+      </sec>
+      <sec id="article-30671.s9" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>The mainstay of management is the prevention of acute tubular necrosis by identifying the patients undergoing high-risk procedures and having comorbidities such as diabetes mellitus, heart failure, advanced malignancy, atherosclerosis, and&#x000a0;CKD that can potentiate the effects of acute tubular necrosis. The following are some of the high-risk procedures and conditions:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Cardiogenic shock</p>
+          </list-item>
+          <list-item>
+            <p>Hemorrhagic shock</p>
+          </list-item>
+          <list-item>
+            <p>Pancreatitis</p>
+          </list-item>
+          <list-item>
+            <p>Severe burns</p>
+          </list-item>
+          <list-item>
+            <p>Sepsis</p>
+          </list-item>
+          <list-item>
+            <p>Hypovolemia</p>
+          </list-item>
+          <list-item>
+            <p>Major surgery (cardiac bypass, vascular surgery such as abdominal aortic aneurysm peripheral limb surgery, hepatobiliary surgery, emergent surgical exploration)</p>
+          </list-item>
+        </list>
+        <p>Interventions to decrease the risk of acute tubular necrosis in the above conditions include prevention of hypovolemia or hypotension, including cessation of ACEI or angiotensin II receptor blocker&#x000a0;in patients with low blood pressure, and optimization of volume status via intravenous (IV) fluids, such as crystalloids, to ensure adequate renal perfusion. Nephrotoxic medications that can lead to acute tubular necrosis should be avoided, including NSAIDs, antibiotics such as amphotericin B, aminoglycosides, vancomycin, piperacillin/tazobactam, and radiocontrast agents.</p>
+        <p>Diuretics are used only to manage the volume status but are not recommended for the treatment of acute tubular necrosis in the Kidney Disease: Improving Global Outcomes (KDIGO) 2012 guidelines. Other pharmacological&#x000a0;agents such as dopamine, fenoldopam, and atrial natriuretic peptide do not provide any survival benefit in patients with acute tubular necrosis.</p>
+        <p>Renal replacement therapy (RRT) has the same indications and is used in volume overload refractory to diuretics, hyperkalemia, signs of uremia, and metabolic acidosis. In critically ill hemodynamically unstable patients, the use of continuous&#x000a0;renal replacement therapy (CRRT) is the preferred&#x000a0;option.<xref ref-type="bibr" rid="article-30671.r14">[14]</xref></p>
+      </sec>
+      <sec id="article-30671.s10" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>Acute kidney&#x000a0;injury</p>
+          </list-item>
+          <list-item>
+            <p>Acute glomerulonephritis</p>
+          </list-item>
+          <list-item>
+            <p>Azotemia</p>
+          </list-item>
+          <list-item>
+            <p>Tubulointerstitial nephritis</p>
+          </list-item>
+          <list-item>
+            <p>Chronic kidney disease</p>
+          </list-item>
+          <list-item>
+            <p>Drug-induced&#x000a0;nephrotoxicity</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-30671.s11" sec-type="Prognosis">
+        <title>Prognosis</title>
+        <p>The mortality in patients with acute tubular necrosis depends on the underlying condition that leads to acute tubular necrosis. Some factors that lead to poor survival in such patients include oliguria, poor nutritional status, male gender, the&#x000a0;need for mechanical&#x000a0;ventilation, stroke, seizures, and acute myocardial infarction. The mortality rate is higher in oliguric patients than in non-oliguric patients signifying the amount of damage done leading to necrosis. Mortality is high (about&#x000a0;60%) in sepsis and surgical patients, causing multiple organ failure.</p>
+      </sec>
+      <sec id="article-30671.s12" sec-type="Complications">
+        <title>Complications</title>
+        <p>Complications related to acute tubular necrosis are the same as related to AKI, which include acid-base and electrolyte disturbances such as hypocalcemia, hyperkalemia related to metabolic acidosis, and hyperphosphatemia. Volume overload is&#x000a0;related to anuria or oliguria. Uremic complications lead to pericarditis, bleeding diathesis, and altered mental status.</p>
+      </sec>
+      <sec id="article-30671.s13" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>The diagnosis and management of ATN are best done with an interprofessional team that includes a nephrologist, pharmacist, internist, cardiologist, and intensivist.&#x000a0;The mainstay of management is the prevention of acute tubular necrosis by identifying the patients undergoing high-risk procedures and having comorbidities such as diabetes mellitus, heart failure, advanced malignancy, atherosclerosis, and&#x000a0;CKD that can potentiate the effects of acute tubular necrosis. ATN is not a benign disorder, and the outcomes depend on the cause.&#x000a0;Factors that lead to poor survival in such patients include oliguria, poor nutritional status, male gender, the&#x000a0;need for mechanical&#x000a0;ventilation, stroke, seizures, and acute myocardial infarction. The mortality rate is higher in oliguric patients than in non-oliguric patients signifying the amount of damage done leading to necrosis. Mortality is high (about&#x000a0;60%) in sepsis and surgical patients, causing multiple organ failure. Despite aggressive treatment, some patients may end up with end-stage renal disease requiring dialysis.<xref ref-type="bibr" rid="article-30671.r15">[15]</xref><xref ref-type="bibr" rid="article-30671.r16">[16]</xref></p>
+      </sec>
+      <sec id="article-30671.s14">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=30671&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=30671">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/kidney-health/acute-renal-tubular-necrosis/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=30671">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/30671/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=30671">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-30671.s15">
+        <title>References</title>
+        <ref id="article-30671.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Negi</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Koreeda</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Kobayashi</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Yano</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Tatsuta</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Mima</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Shigematsu</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Ohya</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Acute kidney injury: Epidemiology, outcomes, complications, and therapeutic strategies.</article-title>
+            <source>Semin Dial</source>
+            <year>2018</year>
+            <month>Sep</month>
+            <volume>31</volume>
+            <issue>5</issue>
+            <fpage>519</fpage>
+            <page-range>519-527</page-range>
+            <pub-id pub-id-type="pmid">29738093</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30671.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Schrier</surname>
+                <given-names>RW</given-names>
+              </name>
+              <name>
+                <surname>Shchekochikhin</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Gin&#x000e8;s</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Renal failure in cirrhosis: prerenal azotemia, hepatorenal syndrome and acute tubular necrosis.</article-title>
+            <source>Nephrol Dial Transplant</source>
+            <year>2012</year>
+            <month>Jul</month>
+            <volume>27</volume>
+            <issue>7</issue>
+            <fpage>2625</fpage>
+            <page-range>2625-8</page-range>
+            <pub-id pub-id-type="pmid">22492830</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30671.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Perazella</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Wilson</surname>
+                <given-names>FP</given-names>
+              </name>
+            </person-group>
+            <article-title>Acute kidney injury: Preventing acute kidney injury through nephrotoxin management.</article-title>
+            <source>Nat Rev Nephrol</source>
+            <year>2016</year>
+            <month>Sep</month>
+            <volume>12</volume>
+            <issue>9</issue>
+            <fpage>511</fpage>
+            <page-range>511-2</page-range>
+            <pub-id pub-id-type="pmid">27374917</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30671.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bougl&#x000e9;</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Duranteau</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Pathophysiology of sepsis-induced acute kidney injury: the role of global renal blood flow and renal vascular resistance.</article-title>
+            <source>Contrib Nephrol</source>
+            <year>2011</year>
+            <volume>174</volume>
+            <fpage>89</fpage>
+            <page-range>89-97</page-range>
+            <pub-id pub-id-type="pmid">21921613</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30671.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bouchard</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Acharya</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Cerda</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Maccariello</surname>
+                <given-names>ER</given-names>
+              </name>
+              <name>
+                <surname>Madarasu</surname>
+                <given-names>RC</given-names>
+              </name>
+              <name>
+                <surname>Tolwani</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Liang</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Fu</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>ZH</given-names>
+              </name>
+              <name>
+                <surname>Mehta</surname>
+                <given-names>RL</given-names>
+              </name>
+            </person-group>
+            <article-title>A Prospective International Multicenter Study of AKI in the Intensive Care Unit.</article-title>
+            <source>Clin J Am Soc Nephrol</source>
+            <year>2015</year>
+            <month>Aug</month>
+            <day>07</day>
+            <volume>10</volume>
+            <issue>8</issue>
+            <fpage>1324</fpage>
+            <page-range>1324-31</page-range>
+            <pub-id pub-id-type="pmid">26195505</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30671.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>George</surname>
+                <given-names>CRP</given-names>
+              </name>
+            </person-group>
+            <article-title>The Rise and Fall of Acute Tubular Necrosis - An exercise in medical semiotics.</article-title>
+            <source>G Ital Nefrol</source>
+            <year>2018</year>
+            <month>Feb</month>
+            <volume>35</volume>
+            <issue>Suppl 70</issue>
+            <fpage>138</fpage>
+            <page-range>138-142</page-range>
+            <pub-id pub-id-type="pmid">29482296</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30671.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lee</surname>
+                <given-names>HT</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>JY</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Tang</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Baroni</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>D'Agati</surname>
+                <given-names>VD</given-names>
+              </name>
+              <name>
+                <surname>Desir</surname>
+                <given-names>GV</given-names>
+              </name>
+            </person-group>
+            <article-title>Renalase protects against ischemic AKI.</article-title>
+            <source>J Am Soc Nephrol</source>
+            <year>2013</year>
+            <month>Feb</month>
+            <volume>24</volume>
+            <issue>3</issue>
+            <fpage>445</fpage>
+            <page-range>445-55</page-range>
+            <pub-id pub-id-type="pmid">23393318</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30671.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Thongboonkerd</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Semangoen</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Sinchaikul</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>ST</given-names>
+              </name>
+            </person-group>
+            <article-title>Proteomic analysis of calcium oxalate monohydrate crystal-induced cytotoxicity in distal renal tubular cells.</article-title>
+            <source>J Proteome Res</source>
+            <year>2008</year>
+            <month>Nov</month>
+            <volume>7</volume>
+            <issue>11</issue>
+            <fpage>4689</fpage>
+            <page-range>4689-700</page-range>
+            <pub-id pub-id-type="pmid">18850734</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30671.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sawada</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Kawanishi</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Morikawa</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Nakano</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Kodama</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Mitobe</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Taneda</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Koike</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ohara</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Nagashima</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Nitta</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Mochizuki</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Biopsy-proven vancomycin-induced acute kidney injury: a case report and literature review.</article-title>
+            <source>BMC Nephrol</source>
+            <year>2018</year>
+            <month>Mar</month>
+            <day>27</day>
+            <volume>19</volume>
+            <issue>1</issue>
+            <fpage>72</fpage>
+            <pub-id pub-id-type="pmid">29587650</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30671.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lima</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Macedo</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Urinary Biochemistry in the Diagnosis of Acute Kidney Injury.</article-title>
+            <source>Dis Markers</source>
+            <year>2018</year>
+            <volume>2018</volume>
+            <fpage>4907024</fpage>
+            <pub-id pub-id-type="pmid">30008975</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30671.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Legrand</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Le Cam</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Perbet</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Roger</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Darmon</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Guerci</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Ferry</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Maurel</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Soussi</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Constantin</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Gayat</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Lefrant</surname>
+                <given-names>JY</given-names>
+              </name>
+              <name>
+                <surname>Leone</surname>
+                <given-names>M</given-names>
+              </name>
+              <collab>support of the AZUREA network</collab>
+            </person-group>
+            <article-title>Urine sodium concentration to predict fluid responsiveness in oliguric ICU patients: a prospective multicenter observational study.</article-title>
+            <source>Crit Care</source>
+            <year>2016</year>
+            <month>May</month>
+            <day>29</day>
+            <volume>20</volume>
+            <issue>1</issue>
+            <fpage>165</fpage>
+            <pub-id pub-id-type="pmid">27236480</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30671.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>McMahon</surname>
+                <given-names>BA</given-names>
+              </name>
+              <name>
+                <surname>Koyner</surname>
+                <given-names>JL</given-names>
+              </name>
+            </person-group>
+            <article-title>Risk Stratification for Acute Kidney Injury: Are Biomarkers Enough?</article-title>
+            <source>Adv Chronic Kidney Dis</source>
+            <year>2016</year>
+            <month>May</month>
+            <volume>23</volume>
+            <issue>3</issue>
+            <fpage>167</fpage>
+            <page-range>167-78</page-range>
+            <pub-id pub-id-type="pmid">27113693</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30671.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Buonafine</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Martinez-Martinez</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Jaisser</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>More than a simple biomarker: the role of NGAL in cardiovascular and renal diseases.</article-title>
+            <source>Clin Sci (Lond)</source>
+            <year>2018</year>
+            <month>May</month>
+            <day>16</day>
+            <volume>132</volume>
+            <issue>9</issue>
+            <fpage>909</fpage>
+            <page-range>909-923</page-range>
+            <pub-id pub-id-type="pmid">29739822</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30671.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Karakala</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Tolwani</surname>
+                <given-names>AJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Timing of Renal Replacement Therapy for Acute Kidney Injury.</article-title>
+            <source>J Intensive Care Med</source>
+            <year>2019</year>
+            <month>Feb</month>
+            <volume>34</volume>
+            <issue>2</issue>
+            <fpage>94</fpage>
+            <page-range>94-103</page-range>
+            <pub-id pub-id-type="pmid">29739260</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30671.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kang</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Rovin</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Advances and Challenges on New Therapies and Clinical Targets of Acute Kidney Injury.</article-title>
+            <source>Toxicol Pathol</source>
+            <year>2018</year>
+            <month>Dec</month>
+            <volume>46</volume>
+            <issue>8</issue>
+            <fpage>925</fpage>
+            <page-range>925-929</page-range>
+            <pub-id pub-id-type="pmid">30278835</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30671.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lenhart</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Hussain</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Salgia</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Chances of Renal Recovery or Liver Transplantation After Hospitalization for Alcoholic Liver Disease Requiring Dialysis.</article-title>
+            <source>Dig Dis Sci</source>
+            <year>2018</year>
+            <month>Oct</month>
+            <volume>63</volume>
+            <issue>10</issue>
+            <fpage>2800</fpage>
+            <page-range>2800-2809</page-range>
+            <pub-id pub-id-type="pmid">29934721</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

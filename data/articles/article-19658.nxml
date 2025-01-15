@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-19658" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Physiology, Coagulation Pathways</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Chaudhry</surname>
+            <given-names>Raheel</given-names>
+          </name>
+          <aff>Ross University School Of Medicine</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Usama</surname>
+            <given-names>Syed Muhammad</given-names>
+          </name>
+          <aff>Dow University of Health Sciences</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Babiker</surname>
+            <given-names>Hani M.</given-names>
+          </name>
+          <aff>University of Arizona Cancer Center</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Raheel Chaudhry declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Syed Muhammad Usama declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Hani Babiker declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>28</day>
+          <month>8</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-19658.s1" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>The coagulation pathway is a cascade of events that leads to hemostasis. The intricate pathway allows for rapid healing and prevention of spontaneous bleeding. Two paths, intrinsic and extrinsic, originate separately but converge at a specific point, leading to fibrin activation. The purpose is to stabilize the platelet plug with a fibrin mesh ultimately.<xref ref-type="bibr" rid="article-19658.r1">[1]</xref><xref ref-type="bibr" rid="article-19658.r2">[2]</xref><xref ref-type="bibr" rid="article-19658.r3">[3]</xref></p>
+      </sec>
+      <sec id="article-19658.s2" sec-type="Function">
+        <title>Function</title>
+        <p>The function of the coagulation pathway is to keep hemostasis, which is the blockage of a bleeding or hemorrhage. Primary hemostasis is an aggregation of platelets forming a plug at the damaged site of exposed endothelial cells. Secondary hemostasis includes the two main coagulation pathways, intrinsic and extrinsic, that meet up at a point to form the common pathway. The common pathway ultimately activates fibrinogen into fibrin. These fibrin subunits have an affinity&#x000a0;for each other and combine into fibrin strands that bind the platelets together, stabilizing the platelet plug.<xref ref-type="bibr" rid="article-19658.r4">[4]</xref><xref ref-type="bibr" rid="article-19658.r5">[5]</xref><xref ref-type="bibr" rid="article-19658.r6">[6]</xref><xref ref-type="bibr" rid="article-19658.r7">[7]</xref></p>
+      </sec>
+      <sec id="article-19658.s3" sec-type="Mechanism">
+        <title>Mechanism</title>
+        <p>The mechanism by which coagulation allows for hemostasis is an intricate process that is done through a series of clotting factors. The intrinsic pathway consists of factors I, II, IX, X, XI, and XII. Respectively, each one is named&#x000a0;<italic toggle="yes">fibrinogen</italic>, <italic toggle="yes">prothrombin</italic>, <italic toggle="yes">Christmas factor</italic>, <italic toggle="yes">Stuart-Prower factor,</italic>
+<italic toggle="yes">plasma thromboplastin</italic>, and <italic toggle="yes">Hageman factor</italic>. The extrinsic pathway consists of factors I, II, VII, and X. Factor VII is called <italic toggle="yes">stable factor</italic>. The common pathway consists of factors I, II, V, VIII, and X. The factors circulate through the bloodstream as zymogens and are activated into serine proteases. These serine proteases act as a catalyst to cleave the next zymogen into more serine proteases and ultimately activate fibrinogen. The following are serine proteases: factors II, VII, IX, X, XI, and XII. These&#x000a0;are not serine proteases: factors V, VIII, XIII. The intrinsic pathway is activated through exposed endothelial collagen, and the extrinsic pathway is activated through tissue factor released by endothelial cells after external damage.</p>
+        <p>
+<bold>Intrinsic Pathway</bold>
+</p>
+        <p>This pathway is the longer pathway of secondary hemostasis. It begins with the activation of factor XII (a zymogen, inactivated serine protease), which becomes factor XIIA (activated serine protease) after exposure to endothelial collagen. Endothelial collagen is only exposed when endothelial damage occurs. Factor XIIA acts as a catalyst to activate factor XI to factor XIA. Factor XIA then goes on to activate factor IX to factor IXA. Factor IXA goes on to serve as a catalyst for turning factor X into factor Xa. This is known as a cascade. When each factor is activated, it goes on to activate many more factors in the next steps. As you move further down the cascade, the concentration of that factor increases in the blood. For example, the concentration of factor IX is more than that of factor XI. When factor II is activated by either the intrinsic or extrinsic pathway, it can reinforce the intrinsic pathway by giving positive feedback to factors V, VII, VIII, XI, XIII. This makes factor XII less critical; patients can actually clot well without factor XII. The intrinsic pathway is&#x000a0;clinically measured as the partial thromboplastin time (PTT).</p>
+        <p>
+<bold>Extrinsic Pathway</bold>
+</p>
+        <p>The extrinsic pathway is the shorter pathway of secondary hemostasis. Once the damage to the vessel is done, the endothelial cells release tissue factor, which goes on to activate factor VII to factor VIIa. Factor VIIa goes on to activate factor X into factor Xa. This is the point where both extrinsic and intrinsic pathways become one. The extrinsic pathway is clinically measured as the prothrombin time (PT).</p>
+        <p>
+<bold>Common Pathway</bold>
+</p>
+        <p>This pathway begins at factor X, which is activated to factor Xa. The process of activating factor Xa is a complicated reaction. Tenase is the complex that cleaves factor X into factor Xa. Tenase has two forms: extrinsic, consisting of&#x000a0;factor VII, factor III (tissue factor), and Ca2<sup>+</sup>,&#x000a0;or intrinsic,&#x000a0;made up of cofactor factor VIII, factor IXA, a phospholipid, and Ca2<sup>+</sup>. Once activated to factor Xa, it goes on to activate factor II (prothrombin) into factor IIa (thrombin). Also, factor Xa requires factor V as a cofactor to cleave prothrombin into thrombin. Factor IIa (thrombin) goes on to activate fibrinogen into fibrin. Thrombin also goes on to activate other factors in the intrinsic pathway (factor XI) as well as cofactors V and VIII and factor XIII. Fibrin subunits come together to form fibrin strands, and factor XIII acts on fibrin strands to form a fibrin mesh. This mesh helps to stabilize the platelet plug.</p>
+        <p>
+<bold>Negative Feedback</bold>
+</p>
+        <p>To prevent over-coagulation, which causes widespread thrombosis, there are certain processes to keep the coagulation cascade in check. As thrombin acts as a procoagulant, it also acts as a negative feedback by activating plasminogen to plasmin and stimulating the production of antithrombin (AT). Plasmin acts directly on the fibrin mesh and breaks it down.&#x000a0;AT decreases the production of thrombin from prothrombin and decreases the amount of activated factor X.</p>
+        <p>Proteins C and S also act to prevent coagulation, mainly by inactivating factors V and VIII.</p>
+        <p>
+<bold>Organs Involved</bold>
+</p>
+        <p>One of the organs intimately involved in the coagulation process is the liver. The liver is responsible for the formation of factors I, II, V, VII, VIII, IX, X, XI, XIII, and protein C and S. &#x000a0;Factor VIII is created by the vascular endothelium.</p>
+        <p>Pathology to the liver can cause a lack of coagulation factors and lead to hemorrhage. A decrease in coagulation factors typically means severe liver damage. Factor VII has the shortest half-life, leading to elevated PT first in liver disease. INR can be greater than 6.5 (normal is close to 1.0). Coagulopathy in liver disease is treated with fresh frozen plasma.</p>
+      </sec>
+      <sec id="article-19658.s4" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>Hemophilia A and B are inherited in an x-linked recessive pattern. In hemophilia A, there is a deficiency in factor VIII. In hemophilia B, there is a deficiency in factor IX.<xref ref-type="bibr" rid="article-19658.r2">[2]</xref><xref ref-type="bibr" rid="article-19658.r8">[8]</xref><xref ref-type="bibr" rid="article-19658.r9">[9]</xref><xref ref-type="bibr" rid="article-19658.r10">[10]</xref><xref ref-type="bibr" rid="article-19658.r11">[11]</xref></p>
+        <p>Hemophilia C is an autosomal recessive mutation where there is a deficiency in factor XI.</p>
+        <p>Factor V Leiden is a genetic mutation more prevalent in people of European descent. This defect causes a state of hypercoagulability. The genetic mutation causes a defect in factor V such that protein C cannot inactivate it, allowing factor V to activate downstream factors continuously.</p>
+        <p>Deficiencies in proteins C and S&#x000a0;also&#x000a0;can lead to hypercoagulable states due to an inability to appropriately inhibit factors V and VIII, respectively.</p>
+      </sec>
+      <sec id="article-19658.s5" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>PT and PTT evaluate the time it takes for the extrinsic and intrinsic pathways to take effect, respectively.</p>
+        <p>Mixing studies are done to determine whether a PT or PTT is elevated due to a factor deficiency or a factor inhibitor (antibodies to specific factors). It is done by mixing the patient's plasma with a control plasma. If the mixed plasma PT and PTT normalize, the PT and PTT prolongation is due to a factor deficiency. If they do not normalize, the prolongation is due to a factor inhibitor. An example of an inhibitor&#x000a0;is lupus anticoagulant.</p>
+        <p>Vitamin K deficiency can lead to elevated PT and PTT. It can present as hemarthrosis, intramuscular bleeding, or gastrointestinal bleeding. Vitamin K deficiency is commonly seen in newborns due to the lack of gut colonization by bacteria. It&#x000a0;also&#x000a0;can be seen in malabsorption (cystic fibrosis, celiac disease, Crohn disease).</p>
+        <p>Heparin is an anticoagulant used in hospital settings for deep venous thrombosis prophylaxis. Heparin binds and activates AT. AT goes on to inactivate thrombin and factor Xa.</p>
+        <p>Warfarin is used for long-term therapy in patients with atrial fibrillation to prevent a thrombus from forming in the left atrium. It acts by inhibiting epoxide reductase. Epoxide reductase is a critical component in coagulation factor production because it helps recycle Vitamin K. Without vitamin K, more coagulation factors cannot be produced by the liver.</p>
+      </sec>
+      <sec id="article-19658.s6">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=19658&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=19658">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/19658/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=19658">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-19658.s7">
+        <title>References</title>
+        <ref id="article-19658.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chaturvedi</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Brodsky</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>McCrae</surname>
+                <given-names>KR</given-names>
+              </name>
+            </person-group>
+            <article-title>Complement in the Pathophysiology of the Antiphospholipid Syndrome.</article-title>
+            <source>Front Immunol</source>
+            <year>2019</year>
+            <volume>10</volume>
+            <fpage>449</fpage>
+            <pub-id pub-id-type="pmid">30923524</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19658.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Franchi</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Eaton</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>De Coppi</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Giuliani</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>The emerging role of immunothrombosis in paediatric conditions.</article-title>
+            <source>Pediatr Res</source>
+            <year>2019</year>
+            <month>Jul</month>
+            <volume>86</volume>
+            <issue>1</issue>
+            <fpage>19</fpage>
+            <page-range>19-27</page-range>
+            <pub-id pub-id-type="pmid">30808021</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19658.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Habib</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Petrucci</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Rocca</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Pathophysiology of Thrombosis in Peripheral Artery Disease.</article-title>
+            <source>Curr Vasc Pharmacol</source>
+            <year>2020</year>
+            <volume>18</volume>
+            <issue>3</issue>
+            <fpage>204</fpage>
+            <page-range>204-214</page-range>
+            <pub-id pub-id-type="pmid">30727897</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19658.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Panova-Noeva</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Eggebrecht</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Prochaska</surname>
+                <given-names>JH</given-names>
+              </name>
+              <name>
+                <surname>Wild</surname>
+                <given-names>PS</given-names>
+              </name>
+            </person-group>
+            <article-title>Potential of Multidimensional, Large-scale Biodatabases to Elucidate Coagulation and Platelet Pathways as an Approach towards Precision Medicine in Thrombotic Disease.</article-title>
+            <source>Hamostaseologie</source>
+            <year>2019</year>
+            <month>Jun</month>
+            <volume>39</volume>
+            <issue>2</issue>
+            <fpage>152</fpage>
+            <page-range>152-163</page-range>
+            <pub-id pub-id-type="pmid">30722070</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19658.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Phasha</surname>
+                <given-names>MN</given-names>
+              </name>
+              <name>
+                <surname>Soma</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Pretorius</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Phulukdaree</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Coagulopathy in Type 2 Diabetes Mellitus: Pathological Mechanisms and the Role of Factor XIII-A Single Nucleotide Polymorphisms.</article-title>
+            <source>Curr Diabetes Rev</source>
+            <year>2019</year>
+            <volume>15</volume>
+            <issue>6</issue>
+            <fpage>446</fpage>
+            <page-range>446-455</page-range>
+            <pub-id pub-id-type="pmid">30706822</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19658.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Grover</surname>
+                <given-names>SP</given-names>
+              </name>
+              <name>
+                <surname>Mackman</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Intrinsic Pathway of Coagulation and Thrombosis.</article-title>
+            <source>Arterioscler Thromb Vasc Biol</source>
+            <year>2019</year>
+            <month>Mar</month>
+            <volume>39</volume>
+            <issue>3</issue>
+            <fpage>331</fpage>
+            <page-range>331-338</page-range>
+            <pub-id pub-id-type="pmid">30700128</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19658.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Nogami</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Shima</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>New therapies using nonfactor products for patients with hemophilia and inhibitors.</article-title>
+            <source>Blood</source>
+            <year>2019</year>
+            <month>Jan</month>
+            <day>31</day>
+            <volume>133</volume>
+            <issue>5</issue>
+            <fpage>399</fpage>
+            <page-range>399-406</page-range>
+            <pub-id pub-id-type="pmid">30559263</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19658.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Luyendyk</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Schoenecker</surname>
+                <given-names>JG</given-names>
+              </name>
+              <name>
+                <surname>Flick</surname>
+                <given-names>MJ</given-names>
+              </name>
+            </person-group>
+            <article-title>The multifaceted role of fibrinogen in tissue injury and inflammation.</article-title>
+            <source>Blood</source>
+            <year>2019</year>
+            <month>Feb</month>
+            <day>07</day>
+            <volume>133</volume>
+            <issue>6</issue>
+            <fpage>511</fpage>
+            <page-range>511-520</page-range>
+            <pub-id pub-id-type="pmid">30523120</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19658.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shahzad</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Kohli</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Al-Dabet</surname>
+                <given-names>MM</given-names>
+              </name>
+              <name>
+                <surname>Isermann</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Cell biology of activated protein C.</article-title>
+            <source>Curr Opin Hematol</source>
+            <year>2019</year>
+            <month>Jan</month>
+            <volume>26</volume>
+            <issue>1</issue>
+            <fpage>41</fpage>
+            <page-range>41-50</page-range>
+            <pub-id pub-id-type="pmid">30451721</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19658.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Levi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Sivapalaratnam</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Disseminated intravascular coagulation: an update on pathogenesis and diagnosis.</article-title>
+            <source>Expert Rev Hematol</source>
+            <year>2018</year>
+            <month>Aug</month>
+            <volume>11</volume>
+            <issue>8</issue>
+            <fpage>663</fpage>
+            <page-range>663-672</page-range>
+            <pub-id pub-id-type="pmid">29999440</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-19658.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Winter</surname>
+                <given-names>WE</given-names>
+              </name>
+              <name>
+                <surname>Flax</surname>
+                <given-names>SD</given-names>
+              </name>
+              <name>
+                <surname>Harris</surname>
+                <given-names>NS</given-names>
+              </name>
+            </person-group>
+            <article-title>Coagulation Testing in the Core Laboratory.</article-title>
+            <source>Lab Med</source>
+            <year>2017</year>
+            <month>Nov</month>
+            <day>08</day>
+            <volume>48</volume>
+            <issue>4</issue>
+            <fpage>295</fpage>
+            <page-range>295-313</page-range>
+            <pub-id pub-id-type="pmid">29126301</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

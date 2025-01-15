@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-30402" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>TPA Therapy</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Hughes</surname>
+            <given-names>Robert E.</given-names>
+          </name>
+          <aff>IL</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Tadi</surname>
+            <given-names>Prasanna</given-names>
+          </name>
+          <aff>Asram Medical College, Eluru, India</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Bollu</surname>
+            <given-names>Pradeep C.</given-names>
+          </name>
+          <aff>University of Missouri</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Robert Hughes declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Prasanna Tadi declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Pradeep Bollu declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>4</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-30402.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p content-type="pubmed-excerpt">Alteplase (tPA) is a powerful thrombolytic agent used in the lysis of acute thromboembolism. FDA-approved indications for alteplase include pulmonary embolism, myocardial infarction with ST-segment elevation (STEMI), ischemic stroke when given within 3 hours of the start of symptoms, and re-establishment of patency in occluded intravenous (IV) catheters. There are also off-label indications. This activity outlines the indications, mechanism of action, methods of administration, important adverse effects, contraindications, toxicity, and monitoring, of tPA therapy with agents like alteplase, so providers can direct patient therapy where they are indicated as part of the interprofessional team.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Identify the indications for initiating therapy with a tPA agent such as alteplase. </p></list-item><list-item><p>Review the mechanism of action of tissue plasminogen activators such as alteplase. </p></list-item><list-item><p>Summarize the contraindications and adverse event profile of tPA medications such as alteplase.</p></list-item><list-item><p>Describe interprofessional team strategies for improving care coordination and communication to properly use tPA agents like alteplase to improve patient outcomes in the varied scenarios where it can be effective.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=30402&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=30402">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-30402.s2" sec-type="Indications">
+        <title>Indications</title>
+        <p>Alteplase (tPA) is a powerful thrombolytic agent used in the lysis of acute thromboembolism.<xref ref-type="bibr" rid="article-30402.r1">[1]</xref><xref ref-type="bibr" rid="article-30402.r2">[2]</xref><xref ref-type="bibr" rid="article-30402.r3">[3]</xref></p>
+        <p>FDA-approved indications for alteplase include pulmonary embolism, myocardial infarction with ST-segment elevation (STEMI), ischemic stroke&#x000a0;when given within 3 hours of the start of symptoms, and re-establishment of patency in occluded intravenous (IV) catheters.</p>
+        <p>Common off-label indications include:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Treatment of deep venous thrombosis (DVT) and peripheral arterial thrombosis with local administration of a thrombolytic agent in catheter-directed thrombolysis</p>
+          </list-item>
+          <list-item>
+            <p>Ischemic stroke when administered more than 3 hours, but no longer than 4.5 hours, after symptom onset</p>
+          </list-item>
+          <list-item>
+            <p>Management of prosthetic valve thrombosis</p>
+          </list-item>
+          <list-item>
+            <p>Adjunct treatment of a pediatric pleural effusion or empyema.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-30402.s3" sec-type="Mechanism of Action">
+        <title>Mechanism of Action</title>
+        <p>Alteplase acts within the endogenous fibrinolytic cascade to convert plasminogen to plasmin by hydrolyzing the arginine-valine bond in plasminogen. The activated plasmin then degrades fibrin and fibrinogen, allowing for the dissolution of the clot and re-establishment of blood flow.<xref ref-type="bibr" rid="article-30402.r4">[4]</xref><xref ref-type="bibr" rid="article-30402.r5">[5]</xref></p>
+      </sec>
+      <sec id="article-30402.s4" sec-type="Administration">
+        <title>Administration</title>
+        <p>The dosing and administration of tPA are specific to the indication.</p>
+        <p>
+<bold>FDA Approved Indications</bold>
+</p>
+        <p>
+<italic toggle="yes">Pulmonary Embolism</italic>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>100 mg over 2 hours; may be administered as a 10 mg bolus followed by 90 mg over 2 hours</p>
+          </list-item>
+        </list>
+        <p><italic toggle="yes">Ischemic Stroke:</italic> The only blood test that is necessary before tPA usage is the blood glucose level. If the patient&#x000a0;is on anticoagulation like coumadin, then only we should do PT, PTT, and INR, etc. The benefit of tPA depends a lot on time. The sooner the patient receives tPA; the better are the outcomes.&#x000a0;</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Maximum recommended dose is 90mg&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Patients less than or equal to 100 kg load with 0.09 mg/kg (10% of 0.9 mg/kg dose) as an IV bolus over 1 minute, followed by 0.81 mg/kg (90% of 0.9 mg/kg dose) as a continuous infusion over 60 minutes.</p>
+          </list-item>
+          <list-item>
+            <p>Patients greater than100 kg load with 9 mg (10% of 90 mg) as an IV bolus over 1 minute, followed by 81 mg (90% of 90 mg) as a continuous infusion over 60 minutes.</p>
+          </list-item>
+        </list>
+        <p>
+<italic toggle="yes">STEMI</italic>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Administer within 30 minutes of hospital arrival</p>
+          </list-item>
+          <list-item>
+            <p>Adults greater than or equal to 67 kg get&#x000a0;100 mg total dosage administered as a 15 mg IV bolus, followed by 50 mg IV infused over 30 minutes, and then 35 mg IV infused over the next 60 minutes</p>
+          </list-item>
+          <list-item>
+            <p>Adults less than 67 kg get&#x000a0;15 mg IV bolus, followed by 0.75 mg/kg IV (not to exceed 50 mg) infused over 30 minutes, and then 0.5 mg/kg IV (not to exceed 35 mg) over the next 60 minutes</p>
+          </list-item>
+        </list>
+        <p>
+<italic toggle="yes">IV Catheter Occlusion</italic>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Instill 2 mg of alteplase in the occluded lumen and allow a 2-hour dwell time. This dose is repeatable one time if the first attempt is not successful, the use of greater than 4 mg of alteplase for this indication has not been a topic of research.</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Off-Label Indications</bold>
+</p>
+        <p>
+<italic toggle="yes">Pediatric Pleural Effusions</italic>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Four mg in 30 mL to 50 mL 0.9%&#x000a0;intrapleural&#x000a0;sodium chloride injection via chest tube and left to dwell for 1 hour as a single dose or as multiple doses 24 hours apart</p>
+          </list-item>
+        </list>
+        <p>
+<italic toggle="yes">Catheter-Directed Therapy</italic>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>0.1 mg/kg/hr (maximum of 20 mg per 24 hours for up to 96 hours)</p>
+          </list-item>
+        </list>
+        <p>
+<italic toggle="yes">Prosthetic Valve Thrombosis</italic>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Twenty-five mg intravenously over 25 hours repeated as needed until a total dose of 200 mg of alteplase administered or resolution is confirmable by TEE</p>
+          </list-item>
+        </list>
+        <p>Alteplase is administered intravenously as a bolus injection or infusion. In emergencies, it is reasonable to administer tPA through intraosseous access.</p>
+      </sec>
+      <sec id="article-30402.s5" sec-type="Adverse Effects">
+        <title>Adverse Effects</title>
+        <p>The most frequent serious adverse events associated with the administration of tPA are related to bleeding.<xref ref-type="bibr" rid="article-30402.r6">[6]</xref><xref ref-type="bibr" rid="article-30402.r7">[7]</xref><xref ref-type="bibr" rid="article-30402.r8">[8]</xref></p>
+        <p>Bleeding associated with alteplase therapy can be divided into two broad categories. Internal bleeding includes intracranial bleeding (0.4% to 15.4%), retroperitoneal bleeding (less than 1%), gastrointestinal (GI) bleeding (5%), genitourinary bleeding (4%), and respiratory bleeding. Superficial or surface bleeding is observed mainly at invaded or disturbed sites such as venous cutdowns, arterial punctures, and recent surgical intervention sites. Less serious spontaneous bleeding includes ecchymosis (1%), gingival bleeding (less than 1%), and epistaxis (less than 1%). In clinical studies of adult patients with acute ischemic stroke (n = 624), a higher incidence of intracranial bleeding, especially symptomatic intracranial bleeding, was seen in patients receiving alteplase compared to placebo (total intracranial bleeding 15.4% versus 6.4%, p &#x0003c; 0.01; symptomatic intracranial bleeding 8% versus 1.3%, p &#x0003c; 0.01). However, there was no increase in the incidence of 90-day mortality or severe disability in patients receiving alteplase. Studies indicate that the incidence of intracranial bleeding is dose-related, with the greatest percentage occurring at a dosage of 150 mg (1.3%) compared to 100 mg (0.4%). Rates of adverse events, including bleeding, correlate to the total exposure of tPA.</p>
+        <p>Cardiac&#x000a0;dysrhythmias&#x000a0;may occur when tPA is administered for NSTEMI and is related to the re-establishment of tissue perfusion rather than drug exposure.</p>
+        <p>Allergic reactions, including anaphylactic-type reactions, are possible&#x000a0;following exposure to tPA. Various sources of tPA have varying levels of antigenicity. See &#x0201c;streptokinase&#x0201d; for further discussion. The rapid conversion of plasminogen to plasmin signals a complement cascade leading to mast cell degranulation and subsequent anaphylactic reaction.&#x000a0;&#x000a0;</p>
+      </sec>
+      <sec id="article-30402.s6" sec-type="Contraindications">
+        <title>Contraindications</title>
+        <p>A 2016 update was published by the American Heart Association to guide tPA inclusion and exclusion criteria for the management of ischemic stroke. The following list includes the most recent absolute and relative contraindications for therapy as determined by the AHA.</p>
+        <p>
+<bold>Exclusion Criteria</bold>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Significant head trauma or prior stroke in the previous 3 months</p>
+          </list-item>
+          <list-item>
+            <p>Symptoms suggest subarachnoid hemorrhage</p>
+          </list-item>
+          <list-item>
+            <p>Arterial puncture at a noncompressible site in previous 7 days</p>
+          </list-item>
+          <list-item>
+            <p>History of previous intracranial hemorrhage</p>
+          </list-item>
+          <list-item>
+            <p>Intracranial neoplasm, AVM, or an aneurysm</p>
+          </list-item>
+          <list-item>
+            <p>Recent intracranial or intraspinal surgery</p>
+          </list-item>
+          <list-item>
+            <p>Elevated blood pressure (systolic greater than 185 mmHg or diastolic greater than 110 mmHg)</p>
+          </list-item>
+          <list-item>
+            <p>Active internal bleeding</p>
+          </list-item>
+          <list-item>
+            <p>Acute bleeding diathesis, including but not limited to</p>
+          </list-item>
+          <list-item>
+            <p>Platelet count less than 100 000/mm^3</p>
+          </list-item>
+          <list-item>
+            <p>Heparin received within 48 hours resulting in abnormally elevated aPTT above the upper limit of normal</p>
+          </list-item>
+          <list-item>
+            <p>Current use of anticoagulant with INR greater than 1.7 or PT greater than 15 seconds</p>
+          </list-item>
+          <list-item>
+            <p>Current use of direct thrombin inhibitors or direct factor Xa inhibitors with elevated sensitive laboratory tests (e.g., aPTT, INR, platelet count, ECT, TT, or appropriate&#x000a0;factor Xa activity assays)</p>
+          </list-item>
+          <list-item>
+            <p>Blood glucose concentration less than 50 mg/dL (2.7 mmol/L)</p>
+          </list-item>
+          <list-item>
+            <p>CT demonstrates multilobar infarction (hypodensity greater than a one-third cerebral hemisphere)</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Relative Exclusion Criteria</bold>
+</p>
+        <p>Recent experience suggests that under some circumstances, with careful consideration and weighing of risk to benefit, patients may receive fibrinolytic therapy despite 1&#x000a0;or more relative contraindications. Consider the risk to the benefit of intravenous rtPA administration carefully if any of these relative contraindications are present:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Only minor or quickly improving stroke symptoms (clearing automatically)</p>
+          </list-item>
+          <list-item>
+            <p>Pregnancy</p>
+          </list-item>
+          <list-item>
+            <p>Seizure at the onset with postictal residual neurological impairments</p>
+          </list-item>
+          <list-item>
+            <p>Major surgery or serious trauma within prior 14 days</p>
+          </list-item>
+          <list-item>
+            <p>Recent GI or urinary tract hemorrhage (within previous 21 days)</p>
+          </list-item>
+          <list-item>
+            <p>Recent acute myocardial infarction (within preceding 3 months)</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-30402.s7" sec-type="Monitoring">
+        <title>Monitoring</title>
+        <p>There are no therapeutic drug monitoring recommendations that pertain to the efficacy of tPA therapy. If prolonged off-label therapy is occurring in the event of catheter-directed treatment or repeated dosing in valve thrombosis, serial imaging of the thrombus is reasonable. The safety profile is best monitored by prothrombin time (PT), partial thromboplastin time (PTT), Hemoglobin, and hematocrit to assess ongoing bleeding. Of note, fibrinogen levels may be an indicator of increased bleed risk for values less than 150mg/dL.</p>
+      </sec>
+      <sec id="article-30402.s8" sec-type="Toxicity">
+        <title>Toxicity</title>
+        <p>There is no direct reversal agent for the potentially major bleeding that may occur during tPA therapy. Commonly employed strategies include anti-fibrinolytic therapy such as tranexamic acid or aminocaproic acid though there is no research on specific dosages. If fibrinogen levels are less than 150mg/dL, there may be added benefit from fresh frozen plasma or cryoprecipitate. Cryoprecipitate should be used without any delay and monitor the fibrinogen level closely. &#x000a0;</p>
+      </sec>
+      <sec id="article-30402.s9" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>There is no longer any question about the effectiveness of thrombolytic agents for the treatment of several medical disorders, but nurses, pharmacists, and radiologists must be fully aware of their indications and contraindications. For these agents to be effective, not only do they require administration within a certain timeframe, but one also has to ensure that the patient has no condition that contraindicates the therapy. Also, the nurse should educate the patient about the procedure, the need to remain at bed rest for several hours after the procedure, and the need to constantly monitor for bleeding.&#x000a0; Plus, the pharmacist must be familiar with the recent novel anticoagulants and any possible&#x000a0;interactions with the thrombolytic drugs. Only through close communication and constant vigilance between the various healthcare professionals can the serious complications of these drugs be prevented. <xref ref-type="bibr" rid="article-30402.r2">[2]</xref><xref ref-type="bibr" rid="article-30402.r9">[9]</xref>&#x000a0;[Level V]</p>
+        <p>
+<bold>Outcomes</bold>
+</p>
+        <p>There have been many clinical trials undertaken to determine the effectiveness of thrombolytic agents in patients with acute myocardial infarction, pulmonary embolism, acutely ischemic limb, and an embolic stroke. When used to treat acute MI, embolic stroke, and pulmonary embolism, the outcomes are fair to good. The biggest drawback to this therapy is a patient delay in arriving at the emergency room or a delay in diagnosis. These drugs have saved many lives and are cost-effective&#x000a0;and reduce hospital stays.<xref ref-type="bibr" rid="article-30402.r10">[10]</xref><xref ref-type="bibr" rid="article-30402.r11">[11]</xref><xref ref-type="bibr" rid="article-30402.r7">[7]</xref>&#x000a0;[Level II]</p>
+      </sec>
+      <sec id="article-30402.s10">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=30402&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=30402">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/30402/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=30402">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-30402.s11">
+        <title>References</title>
+        <ref id="article-30402.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Grossberg</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Rebello</surname>
+                <given-names>LC</given-names>
+              </name>
+              <name>
+                <surname>Haussen</surname>
+                <given-names>DC</given-names>
+              </name>
+              <name>
+                <surname>Bouslama</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Bowen</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Barreira</surname>
+                <given-names>CM</given-names>
+              </name>
+              <name>
+                <surname>Belagaje</surname>
+                <given-names>SR</given-names>
+              </name>
+              <name>
+                <surname>Frankel</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Nogueira</surname>
+                <given-names>RG</given-names>
+              </name>
+            </person-group>
+            <article-title>Beyond Large Vessel Occlusion Strokes: Distal Occlusion Thrombectomy.</article-title>
+            <source>Stroke</source>
+            <year>2018</year>
+            <month>Jul</month>
+            <volume>49</volume>
+            <issue>7</issue>
+            <fpage>1662</fpage>
+            <page-range>1662-1668</page-range>
+            <pub-id pub-id-type="pmid">29915125</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30402.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Benoit</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Khatri</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Adeoye</surname>
+                <given-names>OM</given-names>
+              </name>
+              <name>
+                <surname>Broderick</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>McMullan</surname>
+                <given-names>JT</given-names>
+              </name>
+              <name>
+                <surname>Scheitz</surname>
+                <given-names>JF</given-names>
+              </name>
+              <name>
+                <surname>Vagal</surname>
+                <given-names>AS</given-names>
+              </name>
+              <name>
+                <surname>Eckman</surname>
+                <given-names>MH</given-names>
+              </name>
+            </person-group>
+            <article-title>Prehospital Triage of Acute Ischemic Stroke Patients to an Intravenous tPA-Ready versus Endovascular-Ready Hospital: A Decision Analysis.</article-title>
+            <source>Prehosp Emerg Care</source>
+            <year>2018</year>
+            <season>Nov-Dec</season>
+            <volume>22</volume>
+            <issue>6</issue>
+            <fpage>722</fpage>
+            <page-range>722-733</page-range>
+            <pub-id pub-id-type="pmid">29847193</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30402.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mac Grory</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Yaghi</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Updates in Stroke Treatment.</article-title>
+            <source>R I Med J (2013)</source>
+            <year>2018</year>
+            <month>Mar</month>
+            <day>01</day>
+            <volume>101</volume>
+            <issue>2</issue>
+            <fpage>30</fpage>
+            <page-range>30-33</page-range>
+            <pub-id pub-id-type="pmid">29490322</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30402.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Imbarrato</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Bentley</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Gordhan</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Clinical Outcomes of Endovascular Thrombectomy in Tissue Plasminogen Activator versus Non-Tissue Plasminogen Activator Patients at Primary Stroke Care Centers.</article-title>
+            <source>J Neurosci Rural Pract</source>
+            <year>2018</year>
+            <season>Apr-Jun</season>
+            <volume>9</volume>
+            <issue>2</issue>
+            <fpage>240</fpage>
+            <page-range>240-244</page-range>
+            <pub-id pub-id-type="pmid">29725176</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30402.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Knecht</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Story</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Davis</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Borlongan</surname>
+                <given-names>CV</given-names>
+              </name>
+              <name>
+                <surname>Dela Pe&#x000f1;a</surname>
+                <given-names>IC</given-names>
+              </name>
+            </person-group>
+            <article-title>Adjunctive Therapy Approaches for Ischemic Stroke: Innovations to Expand Time Window of Treatment.</article-title>
+            <source>Int J Mol Sci</source>
+            <year>2017</year>
+            <month>Dec</month>
+            <day>19</day>
+            <volume>18</volume>
+            <issue>12</issue>
+            <pub-id pub-id-type="pmid">29257093</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30402.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Liu</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Zheng</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Cao</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Pan</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>You</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Tong</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>CF</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>Y</given-names>
+              </name>
+            </person-group>
+            <article-title>Low- versus Standard-Dose Intravenous Tissue-Type Plasminogen Activator for Acute Ischemic Stroke: An Updated Meta-Analysis.</article-title>
+            <source>J Stroke Cerebrovasc Dis</source>
+            <year>2018</year>
+            <month>Apr</month>
+            <volume>27</volume>
+            <issue>4</issue>
+            <fpage>988</fpage>
+            <page-range>988-997</page-range>
+            <pub-id pub-id-type="pmid">29224744</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30402.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gilliland</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Shah</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Martin</surname>
+                <given-names>JG</given-names>
+              </name>
+              <name>
+                <surname>Miller</surname>
+                <given-names>MJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Acute Limb Ischemia.</article-title>
+            <source>Tech Vasc Interv Radiol</source>
+            <year>2017</year>
+            <month>Dec</month>
+            <volume>20</volume>
+            <issue>4</issue>
+            <fpage>274</fpage>
+            <page-range>274-280</page-range>
+            <pub-id pub-id-type="pmid">29224661</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30402.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Vivien</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Can the benefits of rtPA treatment for stroke be improved?</article-title>
+            <source>Rev Neurol (Paris)</source>
+            <year>2017</year>
+            <month>Nov</month>
+            <volume>173</volume>
+            <issue>9</issue>
+            <fpage>566</fpage>
+            <page-range>566-571</page-range>
+            <pub-id pub-id-type="pmid">28797689</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30402.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kepplinger</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Barlinn</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Deckert</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Scheibe</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Bodechtel</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>Schmitt</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Safety and efficacy of thrombolysis in telestroke: A systematic review and meta-analysis.</article-title>
+            <source>Neurology</source>
+            <year>2016</year>
+            <month>Sep</month>
+            <day>27</day>
+            <volume>87</volume>
+            <issue>13</issue>
+            <fpage>1344</fpage>
+            <page-range>1344-51</page-range>
+            <pub-id pub-id-type="pmid">27566746</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30402.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Aoki</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Suzuki</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Suda</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Okubo</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Mishina</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Nishiyama</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Sakamoto</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Kimura</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>In Hyperacute Recanalization Therapy, Early Hospital Arrival Improves Outcome in Patients with Large Artery Occlusion.</article-title>
+            <source>Eur Neurol</source>
+            <year>2018</year>
+            <volume>79</volume>
+            <issue>5-6</issue>
+            <fpage>335</fpage>
+            <page-range>335-341</page-range>
+            <pub-id pub-id-type="pmid">29986341</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-30402.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Man</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Zhao</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Uchino</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Hussain</surname>
+                <given-names>MS</given-names>
+              </name>
+              <name>
+                <surname>Smith</surname>
+                <given-names>EE</given-names>
+              </name>
+              <name>
+                <surname>Bhatt</surname>
+                <given-names>DL</given-names>
+              </name>
+              <name>
+                <surname>Xian</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Schwamm</surname>
+                <given-names>LH</given-names>
+              </name>
+              <name>
+                <surname>Shah</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Khan</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Fonarow</surname>
+                <given-names>GC</given-names>
+              </name>
+            </person-group>
+            <article-title>Comparison of Acute Ischemic Stroke Care and Outcomes Between Comprehensive Stroke Centers and Primary Stroke Centers in the United States.</article-title>
+            <source>Circ Cardiovasc Qual Outcomes</source>
+            <year>2018</year>
+            <month>Jun</month>
+            <volume>11</volume>
+            <issue>6</issue>
+            <fpage>e004512</fpage>
+            <pub-id pub-id-type="pmid">29794035</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

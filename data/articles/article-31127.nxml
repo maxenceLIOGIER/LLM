@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-31127" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Percutaneous Vertebroplasty and Kyphoplasty</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Patel</surname>
+            <given-names>Avik</given-names>
+          </name>
+          <aff>Michigan State University</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Petrone</surname>
+            <given-names>Brandon</given-names>
+          </name>
+          <aff>Northwell Health/Plainview Hospital</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Carter</surname>
+            <given-names>Kevin R.</given-names>
+          </name>
+          <aff>McLaren Oakland</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Avik Patel declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Brandon Petrone declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Kevin Carter declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>30</day>
+          <month>5</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-31127.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Compression fractures are prone to progression over time and may facilitate the compression of adjacent vertebrae due to compensatory increases in axial load. Vertebroplasty and kyphoplasty are two percutaneous interventional procedures that can help alleviate pain and fortify structural integrity after vertebral compression fractures are sustained. Vertebral compression fractures are most commonly a result of fragile, osteoporotic bone. Osteoporotic individuals may suffer vertebral compression fractures as a result of seemingly insignificant trauma, for example, from sitting down abruptly. In younger individuals, a higher-energy, axial loading force would be needed to compress the cancellous bone of the vertebral body. Non-osteoporotic lumbar compression fractures are typically seen in car accidents and in falls or jumps from a height. Infectious, malignant, or idiopathic processes that weaken vertebrae can also lead to compression fractures. This activity reviews the role of percutaneous vertebroplasty and highlights the role of the interprofessional team in the management of vertebral fractures.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Identify the technique for performing percutaneous vertebroplasty and kyphoplasty.</p></list-item><list-item><p>Describe the indications for percutaneous vertebroplasty and kyphoplasty.</p></list-item><list-item><p>Explain the clinical utility of percutaneous vertebroplasty and kyphoplasty.</p></list-item><list-item><p>Explain the importance of improving care coordination among interprofessional team members to enhance outcomes for patients undergoing percutaneous vertebroplasty and kyphoplasty.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=31127&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=31127">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-31127.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Osteoporotic compression fractures are the most common fragility fractures seen today. Osteoporotic individuals may suffer a vertebral compression fracture as a result of seemingly insignificant trauma, for example, sitting down abruptly. In younger individuals, a higher-energy, axial loading force would be needed to compress the cancellous bone of the vertebral body. Non-osteoporotic lumbar compression fractures are typically seen in car accidents and fall or jump from a height. Infectious and malignant processes that weaken vertebrae can also lead to an eventual compression fracture.<xref ref-type="bibr" rid="article-31127.r1">[1]</xref></p>
+        <p>These can cause significant physical limitations, including back pain, and functional disability.<xref ref-type="bibr" rid="article-31127.r2">[2]</xref>&#x000a0;Compression fractures are prone to progression over time and may facilitate the compression of adjacent vertebrae due to compensatory increases in axial load. Due to the high prevalence of this injury, there is a large socioeconomic burden associated with the disease and there has been significant controversy regarding optimal treatment. Vertebroplasty (VP) and kyphoplasty (KP) are two percutaneous interventional procedures used to treat symptomatic, nonhealing fragility fractures of the spine by injecting polymethyl methacrylate (PMMA) into the vertebral body thereby providing structural support. These procedures have come under controversy due to the lack of significant improvement in randomized control trials.&#x000a0;In a randomized, double-blinded, placebo-controlled trial in patients with painful osteoporotic compression fractures were randomized to undergo vertebroplasty or a sham procedure. They found no beneficial effects of vertebroplasty compared to the sham procedure.<xref ref-type="bibr" rid="article-31127.r3">[3]</xref>&#x000a0;Also, the VP has an increased rate of PMMA extravasation compared to KP.&#x000a0;Therefore, VP has been replaced with KP&#x000a0;as the main surgical procedure addressing osteoporotic compression fractures.</p>
+      </sec>
+      <sec id="article-31127.s3" sec-type="Anatomy and Physiology">
+        <title>Anatomy and Physiology</title>
+        <p>Bone mineral density tends to decrease with age following peak bone mass, leading to osteoporotic bone. Osteoporotic bone is of normal quality but decreased in quantity. The cancellous bone has decreased trabecular quantity and thin cortical bone, leading to a decreased load to failure capacity and more prone to fracture.&#x000a0;Vertebral compression fractures (VCFs) are the result of axial force overcoming bony integrity. VCFs are defined as a loss of about 20% or at least 4 mm of anterior, middle, or posterior vertebral height.<xref ref-type="bibr" rid="article-31127.r4">[4]</xref>&#x000a0;The thoracolumbar spine (T12-L2) is the most frequently affected site (60-75%), followed by the lower lumbar region (L2-L5).<xref ref-type="bibr" rid="article-31127.r2">[2]</xref></p>
+        <p>Compression fractures characteristically involve the anterior column of the spine which is comprised of the anterior two-thirds of the vertebral body, the anterior two-thirds of the intervertebral disc, and the anterior longitudinal ligament. Unlike vertebral burst or Chance fractures, a compression fracture does not compromise the posterior tension band.<xref ref-type="bibr" rid="article-31127.r5">[5]</xref>&#x000a0;The posterior tension band is characterized by muscles, ligaments, processes, and pedicles that maintain spinal stability.<xref ref-type="bibr" rid="article-31127.r5">[5]</xref>&#x000a0;Therefore, compression fractures are deemed stable fractures.</p>
+        <p>Posterior tension band components include:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Posterior ligamentous complex: Supraspinous and interspinous ligaments, ligamentum flavum</p>
+          </list-item>
+          <list-item>
+            <p>Musculature: Longissimus, iliocostalis, spinalis, semispinalis, rotatores, intertransversarii, multifidus</p>
+          </list-item>
+          <list-item>
+            <p>Bone: Transverse and spinous processes, pedicles, facets&#x000a0;</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-31127.s4" sec-type="Indications">
+        <title>Indications</title>
+        <p>The standard treatment options for vertebral compression fracture consist of conservative therapies involving analgesics, external orthosis, physical therapy, and bed rest. The majority of patients can be treated with observation and a gradual return to activity. Symptoms typically resolved within 4-6 weeks. Surgical intervention is indicated for certain patients who suffer from significant pain and morbidity after this time period.<xref ref-type="bibr" rid="article-31127.r1">[1]</xref></p>
+        <p>In recently published AAOS (American Academy of Orthopedic Surgeon) guidelines for osteoporotic compression fractures, they recommend strongly against the use of vertebroplasty.<xref ref-type="bibr" rid="article-31127.r6">[6]</xref>&#x000a0;However, kyphoplasty remains a viable option for the treatment of these injuries.</p>
+      </sec>
+      <sec id="article-31127.s5" sec-type="Contraindications">
+        <title>Contraindications</title>
+        <p>An absolute contraindication to&#x000a0;vertebroplasty&#x000a0;and kyphoplasty&#x000a0;is an asymptomatic compression fracture. Often found incidentally on chest x-rays, healed compression fractures will not benefit from intervention. The procedure should not be performed if there are ongoing local or systemic infectious processes such as osteomyelitis or discitis.&#x000a0;Relative contraindications include fracture extension into the posterior vertebral body wall that can risk cement extravasation into the spinal canal, and severe compression fractures/deformity.<xref ref-type="bibr" rid="article-31127.r1">[1]</xref></p>
+      </sec>
+      <sec id="article-31127.s6" sec-type="Equipment">
+        <title>Equipment</title>
+        <p>VP/KP is best performed using high-quality fluoroscopy to confirm the needle placement. This is best accomplished with the use of C-arm fluoroscopy. This procedure can be performed with one C-arm transitioning between anteroposterior AP and lateral images, or with two C-arms, one positioned for AP, and the other for lateral images. The two C-arm technique alleviates the need to constantly change the C-arm position. A list of types of equipment is given below<xref ref-type="bibr" rid="article-31127.r1">[1]</xref>:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Fluoroscopy<bold/></p>
+          </list-item>
+          <list-item>
+            <p>Spinal needle<bold/></p>
+          </list-item>
+          <list-item>
+            <p>Spinal needle stylets, with diamond-shaped multi-bevel and single-bevel<bold/></p>
+          </list-item>
+          <list-item>
+            <p>Polymethacrylate (PMMA) cement</p>
+          </list-item>
+          <list-item>
+            <p>+/- Kyphoplasty balloon catheter (<italic toggle="yes">See Technique for details)</italic></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-31127.s7" sec-type="Personnel">
+        <title>Personnel</title>
+        <p>Vertebroplasty&#x000a0;and kyphoplasty&#x000a0;are&#x000a0;performed primarily by interventional radiologists, interventional pain management physicians, and neurosurgical/orthopedic spine specialists. Intraoperative personnel may also include a fluoroscopy technician, nurse, and a company representative. If general sedation is implemented, an anesthesiologist is also present.</p>
+      </sec>
+      <sec id="article-31127.s8" sec-type="Preparation">
+        <title>Preparation</title>
+        <p>Vertebroplasty&#x000a0;and kyphoplasty&#x000a0;are&#x000a0;considered a procedure with moderate bleeding risk (Category 2) according to the Society of Interventional Radiology (SIR) Standards of Practice Consensus Guidelines. INR and complete blood count (CBC) should be attained pre-procedure. Recommendations are&#x000a0;as follows:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>INR corrected to less than 1.5</p>
+          </list-item>
+          <list-item>
+            <p>Transfuse for platelets less than 50,000</p>
+          </list-item>
+          <list-item>
+            <p>ASA: No need to hold</p>
+          </list-item>
+          <list-item>
+            <p>Clopidogrel: Hold 5 days pre-procedure</p>
+          </list-item>
+          <list-item>
+            <p>Low molecular weight heparin (LMWH): Hold one dose pre-procedure</p>
+          </list-item>
+        </list>
+        <p>Antibiotic prophylaxis is achieved with the administration of 1 gram of intravenous (IV) cefazolin, 1 hour pre-procedure (first-line).&#x000a0;Once the patient is intubated, the patient is then placed in the prone position on a well-padded radiolucent table. Proper positioning of the fluoroscopic C-arm is crucial. The affected vertebral level is isolated and proper views are obtained before the start of the procedure and the C-arm position is noted so it can be replicated after surgical preparation. On the (AP) image, you want to view the vertebral body in a direct AP position with the endplates parallel to the X-ray beam, and the spinous process centered between the pedicles.<xref ref-type="bibr" rid="article-31127.r7">[7]</xref>&#x000a0;The pedicles are then marked with a marking pen. The surgical area is prepped and draped in a sterile fashion using the maximum surgical barrier technique. Preprocedural prophylactic antibiotics are given before the start of the procedure.</p>
+      </sec>
+      <sec id="article-31127.s9" sec-type="Technique or Treatment">
+        <title>Technique or Treatment</title>
+        <p>VP and kyphoplasty procedure setup and technique are extremely similar, the only difference being that kyphoplasty creates a cavity in the vertebral body by balloon expansion. In the thoracic and lumbar spine, VP is performed using a transpedicular or parapedicular approach.<xref ref-type="bibr" rid="article-31127.r7">[7]</xref>&#x000a0;Using a radiolucent instrument, the incision is marked over the pedicle under fluoroscopic guidance. A small stab incision is made over the entry point, location is confirmed by AP X-ray before an incision is made. The VP hollow needle is then inserted and under AP intermittent fluoroscopic guidance the entry point is confirmed before inserting. The starting point is usually along the superior lateral edge of the pedicle with variable angulation depending on the pedicle level being accessed.<xref ref-type="bibr" rid="article-31127.r8">[8]</xref>&#x000a0;The medial and inferior walls of the pedicle must be clearly visualized in order to decrease injury to nerve roots and the spinal cord.<xref ref-type="bibr" rid="article-31127.r9">[9]</xref>&#x000a0;A mallet can be used to gently tap the device into the starting point, being careful not to cross the medial pedicle wall. If the trajectory is appropriated on the AP view, the C-arm is then transitioned to the lateral view to confirm proper pedicle placement and superior/inferior trajectory in the vertebral body. If the trajectory is appropriate, the C-arm is transitioned back to the AP view, and the VP device further advanced, being careful not to cross the medial pedicle wall. This is continued until the VP device has passed through the pedicle and is in the posterior vertebral body, which is confirmed on the lateral image. Once the posterior vertebral body has been accessed you can now advance the VP device more medial and distal with. The tip of the needle should be placed in the anterior to the middle third of the vertebral body as close to the midline as possible.<xref ref-type="bibr" rid="article-31127.r1">[1]</xref>&#x000a0;The final needle position should be confirmed by fluoroscopy before bone cement injection. If performing kyphoplasty, at this point the balloon catheter is then inserted and inflated using visual volume and pressure controls to create a cavity. Inflation is stopped when the pressure above 200-250 psi is obtained when the balloon contacts the cortical surface or expands beyond the border of the vertebral body, or if the height of the vertebrae is restored. The balloon is then deflated and removed. Once the cement is mixed, it is not injected until it reaches the consistency of a paste, this is done in order to prevent leakage in severely osteoporotic bone.<xref ref-type="bibr" rid="article-31127.r10">[10]</xref>&#x000a0;The goal is to deliver the cement at a controlled pace, and evenly in the vertebral body while avoiding extra-vertebral extravasation. Multiple AP and lateral images are utilized to confirm cement injection into the vertebral body and to confirm there is no extra-vertebral extravasation, this will appear as a radiopaque substance that is distinctly differentiated from surrounding bone. As cement is injected, the needle is slowly pulled back to allow for even distribution throughout the vertebral body. Cement injection is discontinued once it has reached the posterior vertebral body. When removing the needle, in order to avoid a cement tail, a stylet is used to clear the needle of residual cement.</p>
+      </sec>
+      <sec id="article-31127.s10" sec-type="Complications">
+        <title>Complications</title>
+        <p>Complications occur in about 50% of the patients who undergo vertebroplasty, but about 95% of them are clinically asymptomatic.<xref ref-type="bibr" rid="article-31127.r11">[11]</xref>&#x000a0;A list of common complications is listed below.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Infection and bleeding: Universally recognized risks of any interventional procedure.</p>
+          </list-item>
+          <list-item>
+            <p>Radiculopathy or neurological deficit: If the spinal needle violates the inferior or medial wall of the pedicle during entry, there is a significant risk of damage to a nerve root or the spinal cord.</p>
+          </list-item>
+          <list-item>
+            <p>The most common complication associated with vertebroplasty is PMMA leakage into the surrounding tissue,&#x000a0;intradiscal, and spinal canal.&#x000a0;This is more common for VP because no cavity is created as in kyphoplasty and increased pressure is needed to inject the PMMA.<xref ref-type="bibr" rid="article-31127.r12">[12]</xref>
+<list list-type="bullet"><list-item><p>Pulmonary embolization: Cement particles introduced into a vein have the potential to embolize to the lungs, however, this is a rare complication</p></list-item><list-item><p>Spinal stenosis: Cement leakage into the epidural space can essentially&#x000a0;cause iatrogenic spinal stenosis, however, this is a rare complication.</p></list-item></list>
+</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-31127.s11" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>Acute compression fractures are often painful, immobilizing conditions of elderly individuals. Studies have demonstrated significant pain relief, improved quality of life, decreased dependence on narcotics, and increased mobility in patients who undergo such interventions. In summation, vertebroplasty&#x000a0;and kyphoplasty have proven to be an effective treatment modality in patients with painful, acute compression fractures refractory to medical management. A risk/benefit analysis should always be completed before intervening, and an understanding of SIR consensus guidelines assures a higher standard of care.</p>
+      </sec>
+      <sec id="article-31127.s12" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Only patients with acute compression fractures should be considered for vertebroplasty&#x000a0;and kyphoplasty. It is the responsibility of the primary care physician and interventionalist to verify the acuity of the fracture using diagnostic imaging. Careful consideration of bleeding risk helps prevent potentially life-threatening spinal hematoma or hemorrhage. Careful post-procedure, clinician and nursing follow up&#x000a0;are&#x000a0;recommended to ensure that the desired analgesic effect&#x000a0;has been achieved. Interventionalists, rehabilitation specialists, and physical therapists all play an integral role in helping patients return to their daily activities and previous quality of life. Nursing must evaluate for postoperative infection and other complications.</p>
+      </sec>
+      <sec id="article-31127.s13">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=31127&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=31127">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/31127/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=31127">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <floats-group id="article-31127.s14">
+        <fig id="article-31127.image.f1" position="float" orientation="portrait">
+          <caption>
+            <p>fluoroscopic image, cement injection during percutaneous kyphoplasty contributed by Mohamad Jaber, MD</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cement" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <ref-list id="article-31127.s15">
+        <title>References</title>
+        <ref id="article-31127.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jay</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Ahn</surname>
+                <given-names>SH</given-names>
+              </name>
+            </person-group>
+            <article-title>Vertebroplasty.</article-title>
+            <source>Semin Intervent Radiol</source>
+            <year>2013</year>
+            <month>Sep</month>
+            <volume>30</volume>
+            <issue>3</issue>
+            <fpage>297</fpage>
+            <page-range>297-306</page-range>
+            <pub-id pub-id-type="pmid">24436552</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31127.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hoyt</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Urits</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Orhurhu</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Orhurhu</surname>
+                <given-names>MS</given-names>
+              </name>
+              <name>
+                <surname>Callan</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Powell</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Manchikanti</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Kaye</surname>
+                <given-names>AD</given-names>
+              </name>
+              <name>
+                <surname>Kaye</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Viswanath</surname>
+                <given-names>O</given-names>
+              </name>
+            </person-group>
+            <article-title>Current Concepts in the Management of Vertebral Compression Fractures.</article-title>
+            <source>Curr Pain Headache Rep</source>
+            <year>2020</year>
+            <month>Mar</month>
+            <day>20</day>
+            <volume>24</volume>
+            <issue>5</issue>
+            <fpage>16</fpage>
+            <pub-id pub-id-type="pmid">32198571</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31127.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Buchbinder</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Osborne</surname>
+                <given-names>RH</given-names>
+              </name>
+              <name>
+                <surname>Ebeling</surname>
+                <given-names>PR</given-names>
+              </name>
+              <name>
+                <surname>Wark</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Mitchell</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Wriedt</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Graves</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Staples</surname>
+                <given-names>MP</given-names>
+              </name>
+              <name>
+                <surname>Murphy</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>A randomized trial of vertebroplasty for painful osteoporotic vertebral fractures.</article-title>
+            <source>N Engl J Med</source>
+            <year>2009</year>
+            <month>Aug</month>
+            <day>06</day>
+            <volume>361</volume>
+            <issue>6</issue>
+            <fpage>557</fpage>
+            <page-range>557-68</page-range>
+            <pub-id pub-id-type="pmid">19657121</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31127.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dewar</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Diagnosis and treatment of vertebral compression fractures.</article-title>
+            <source>Radiol Technol</source>
+            <year>2015</year>
+            <season>Jan-Feb</season>
+            <volume>86</volume>
+            <issue>3</issue>
+            <fpage>301</fpage>
+            <page-range>301-20; quiz 321-3</page-range>
+            <pub-id pub-id-type="pmid">25739109</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31127.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pizones</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Z&#x000fa;&#x000f1;iga</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>S&#x000e1;nchez-Mariscal</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Alvarez</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>G&#x000f3;mez-Rice</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Izquierdo</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>MRI study of post-traumatic incompetence of posterior ligamentous complex: importance of the supraspinous ligament. Prospective study of 74 traumatic fractures.</article-title>
+            <source>Eur Spine J</source>
+            <year>2012</year>
+            <month>Nov</month>
+            <volume>21</volume>
+            <issue>11</issue>
+            <fpage>2222</fpage>
+            <page-range>2222-31</page-range>
+            <pub-id pub-id-type="pmid">22722921</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31127.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Genev</surname>
+                <given-names>IK</given-names>
+              </name>
+              <name>
+                <surname>Tobin</surname>
+                <given-names>MK</given-names>
+              </name>
+              <name>
+                <surname>Zaidi</surname>
+                <given-names>SP</given-names>
+              </name>
+              <name>
+                <surname>Khan</surname>
+                <given-names>SR</given-names>
+              </name>
+              <name>
+                <surname>Amirouche</surname>
+                <given-names>FML</given-names>
+              </name>
+              <name>
+                <surname>Mehta</surname>
+                <given-names>AI</given-names>
+              </name>
+            </person-group>
+            <article-title>Spinal Compression Fracture Management: A Review of Current Treatment Strategies and Possible Future Avenues.</article-title>
+            <source>Global Spine J</source>
+            <year>2017</year>
+            <month>Feb</month>
+            <volume>7</volume>
+            <issue>1</issue>
+            <fpage>71</fpage>
+            <page-range>71-82</page-range>
+            <pub-id pub-id-type="pmid">28451512</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31127.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Beall</surname>
+                <given-names>DP</given-names>
+              </name>
+              <name>
+                <surname>Braswell</surname>
+                <given-names>JJ</given-names>
+              </name>
+              <name>
+                <surname>Martin</surname>
+                <given-names>HD</given-names>
+              </name>
+              <name>
+                <surname>Stapp</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Puckett</surname>
+                <given-names>TA</given-names>
+              </name>
+              <name>
+                <surname>Stechison</surname>
+                <given-names>MT</given-names>
+              </name>
+            </person-group>
+            <article-title>Technical strategies and anatomic considerations for parapedicular access to thoracic and lumbar vertebral bodies.</article-title>
+            <source>Skeletal Radiol</source>
+            <year>2007</year>
+            <month>Jan</month>
+            <volume>36</volume>
+            <issue>1</issue>
+            <fpage>47</fpage>
+            <page-range>47-52</page-range>
+            <pub-id pub-id-type="pmid">17013657</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31127.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Stockton</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Albano</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Lentz</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ganz</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Grewal</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Katsigiorgis</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>A comparison of lumbar transverse pedicle angles between ethnic groups: a retrospective review.</article-title>
+            <source>BMC Musculoskelet Disord</source>
+            <year>2019</year>
+            <month>Mar</month>
+            <day>18</day>
+            <volume>20</volume>
+            <issue>1</issue>
+            <fpage>114</fpage>
+            <pub-id pub-id-type="pmid">30885189</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31127.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Park</surname>
+                <given-names>SY</given-names>
+              </name>
+              <name>
+                <surname>Modi</surname>
+                <given-names>HN</given-names>
+              </name>
+              <name>
+                <surname>Suh</surname>
+                <given-names>SW</given-names>
+              </name>
+              <name>
+                <surname>Hong</surname>
+                <given-names>JY</given-names>
+              </name>
+              <name>
+                <surname>Noh</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Yang</surname>
+                <given-names>JH</given-names>
+              </name>
+            </person-group>
+            <article-title>Epidural cement leakage through pedicle violation after balloon kyphoplasty causing paraparesis in osteoporotic vertebral compression fractures - a report of two cases.</article-title>
+            <source>J Orthop Surg Res</source>
+            <year>2010</year>
+            <month>Aug</month>
+            <day>06</day>
+            <volume>5</volume>
+            <fpage>54</fpage>
+            <pub-id pub-id-type="pmid">20691094</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31127.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zhan</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Jiang</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Liao</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Tan</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Yang</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Risk Factors for Cement Leakage After Vertebroplasty or Kyphoplasty: A Meta-Analysis of Published Evidence.</article-title>
+            <source>World Neurosurg</source>
+            <year>2017</year>
+            <month>May</month>
+            <volume>101</volume>
+            <fpage>633</fpage>
+            <page-range>633-642</page-range>
+            <pub-id pub-id-type="pmid">28192270</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31127.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Saracen</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Kotwica</surname>
+                <given-names>Z</given-names>
+              </name>
+            </person-group>
+            <article-title>Complications of percutaneous vertebroplasty: An analysis of 1100 procedures performed in 616 patients.</article-title>
+            <source>Medicine (Baltimore)</source>
+            <year>2016</year>
+            <month>Jun</month>
+            <volume>95</volume>
+            <issue>24</issue>
+            <fpage>e3850</fpage>
+            <pub-id pub-id-type="pmid">27310966</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-31127.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Xiao</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Yang</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Feng</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Huang</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Liang</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Comparing complications of vertebroplasty and kyphoplasty for treating osteoporotic vertebral compression fractures: a meta-analysis of the randomized and non-randomized controlled studies.</article-title>
+            <source>Eur J Orthop Surg Traumatol</source>
+            <year>2015</year>
+            <month>Jul</month>
+            <volume>25 Suppl 1</volume>
+            <fpage>S77</fpage>
+            <page-range>S77-85</page-range>
+            <pub-id pub-id-type="pmid">24989933</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

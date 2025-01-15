@@ -1,0 +1,1888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-56124" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Percutaneous Transluminal Angioplasty and Balloon Catheters</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Majeed</surname>
+            <given-names>Hafsa</given-names>
+          </name>
+          <aff>Icahn School of Medicine at Mount Sinai, Elmhurst Hospital</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Chowdhury</surname>
+            <given-names>Yuvraj S.</given-names>
+          </name>
+          <aff>State University of New York - Downstate</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Hafsa Majeed declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Yuvraj Chowdhury declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>14</day>
+          <month>9</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-56124.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Angioplasty is performed to treat atherosclerotic disease and its resultant complications such as myocardial infarction, strokes, renal failure, and limb ischemia. Radial and femoral are the two common arterial approaches utilized for angioplasty. The main indications for angioplasty include coronary artery disease and peripheral arterial disease. Following angioplasty, stents are often placed to relieve obstructive stenosis. This activity reviews the types of stents typically used in common practice, indications, contraindications, equipment, techniques, personnel, tools, and devices used for angioplasty and percutaneous intervention. It also emphasizes the role of the interprofessional team to optimize procedural outcomes.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Summarize the equipment used to treat atherosclerotic disease.</p></list-item><list-item><p>Identify the indications for angioplasty and stent placement.</p></list-item><list-item><p>Review the various approaches used for angioplasty and their associated complications.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=56124&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=56124">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-56124.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Worldwide, atherosclerosis&#x000a0;is the most common&#x000a0;cause of&#x000a0;morbidity and mortality manifesting as cardiovascular disease, carotid artery disease, peripheral vascular disease, and renal artery stenosis.<xref ref-type="bibr" rid="article-56124.r1">[1]</xref>&#x000a0;Angioplasty is a minimally invasive endovascular procedure to widen these stenosed arteries. Angioplasty procedures are mainly directed against atherosclerotic plaque to mold and remodel the plaque and subsequently (derived from the Greek terms aging- vessel and plasso-mold). Recent advances in interventional radiology have made it possible to potentially treat almost all anatomic lesions with endovascular means, since its inception in 1964, when Dr.Charles Dotter percutaneously dilated localized stenosis of the subsartorial artery in an 82-year-old female with a guidewire and coaxial Teflon catheter, the tools, and techniques of angioplasty have greatly evolved from simple angioplasty with balloon dilation to stent placement and atherectomy procedures.<xref ref-type="bibr" rid="article-56124.r2">[2]</xref><xref ref-type="bibr" rid="article-56124.r3">[3]</xref><xref ref-type="bibr" rid="article-56124.r4">[4]</xref>&#x000a0;</p>
+        <p>Some of the types of stents used are:</p>
+        <p>1. Coronary angioplasty</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Bare metal stent</p>
+          </list-item>
+          <list-item>
+            <p>Drug-eluting stent</p>
+          </list-item>
+          <list-item>
+            <list list-type="bullet">
+              <list-item>
+                <p>Early generation drug-eluting stents: Sirolimus-eluting stent and Paclitaxel-eluting stent</p>
+              </list-item>
+              <list-item>
+                <p>Durable polymer drug-eluting stents: Everolimus-eluting stent, Zotarolimus eluting stent, Ridaforolimus-eluting stent</p>
+              </list-item>
+              <list-item>
+                <p>Bioabsorbable polymer drug-eluting stents</p>
+              </list-item>
+              <list-item>
+                <list list-type="bullet">
+                  <list-item>
+                    <p>Thin-strut bioabsorbable polymer DES</p>
+                  </list-item>
+                  <list-item>
+                    <p>Ultra-thin strut DES: Orsiro stent</p>
+                  </list-item>
+                </list>
+              </list-item>
+              <list-item>
+                <p>Polymer free DES</p>
+              </list-item>
+              <list-item>
+                <p>Others: Combo stent - sirolimus elution from biodegradable polymer matrix which is abluminal in shape with a CD34 antibody layer</p>
+              </list-item>
+            </list>
+          </list-item>
+        </list>
+        <p>The choice of stent depends on local availability and interventional cardiologist's expertise - Everolimus-eluting stents, Zotarolimus-eluting stent, ridaforolimus-eluting stents, and the biodegradable stent are usually the first choice. A bare-metal stent is preferred in cases where the patient is actively bleeding, or the duration of dual antiplatelet therapy cannot be &#x0003e;30 days e.g., non-cardiac surgery within 4-6 weeks of PCI.</p>
+        <p>2. Carotid angioplasty</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Self Expanding Stents</p>
+          </list-item>
+          <list-item>
+            <list list-type="bullet">
+              <list-item>
+                <p>Cobalto alloy braided mesh stent</p>
+              </list-item>
+              <list-item>
+                <p>Nitinol open-cell stents (cylindrical or tapered)</p>
+              </list-item>
+              <list-item>
+                <p>Nitinol closed-cell stents</p>
+              </list-item>
+              <list-item>
+                <p>Hybrid nitinol stent</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>New Hybrid Carotid Stent</p>
+          </list-item>
+        </list>
+        <p>There is no clear guideline on which stent is ideal; there is a trend towards a tailored approach where the choice of stent and procedure is made based on individual carotid anatomy, plaque complexity, anatomopathological variables, and local availability and technical expertise.<xref ref-type="bibr" rid="article-56124.r5">[5]</xref></p>
+        <p>3. Peripheral arteries</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Balloon-expandable stents</p>
+          </list-item>
+          <list-item>
+            <p>Self-expandable stents</p>
+          </list-item>
+          <list-item>
+            <p>Covered stents</p>
+          </list-item>
+          <list-item>
+            <p>Drug-eluting stents</p>
+          </list-item>
+          <list-item>
+            <p>Drug coated balloon stent</p>
+          </list-item>
+          <list-item>
+            <p>Dual therapy stents</p>
+          </list-item>
+          <list-item>
+            <p>Bioabsorbable vascular scaffold</p>
+          </list-item>
+          <list-item>
+            <p>Bioengineered stent<xref ref-type="bibr" rid="article-56124.r6">[6]</xref></p>
+          </list-item>
+        </list>
+        <p>The choice of an appropriate stent depends on the access site, lesion location, stent availability, plaque complexity, and vascular anatomy evaluation, and&#x000a0;expertise of the operator.<xref ref-type="bibr" rid="article-56124.r7">[7]</xref></p>
+        <p>Angioplasty is sometimes combined with atherectomy procedures to remove the plaque using specialized devices. Types of atherectomy procedures are Mechanical: Directional, Rotational, or Orbital devices or Laser evaporative methods that require the use of costly disposable devices. Evidence regarding their efficacy is lacking, and their use is still under investigation in specific niche indications.</p>
+      </sec>
+      <sec id="article-56124.s3" sec-type="Anatomy and Physiology">
+        <title>Anatomy and Physiology</title>
+        <p>Atherosclerosis is characterized by the formation of fibrofatty plaques consisting of cholesterol-laden macrophages, calcium, fibrous tissue, tissue matrix, and cellular debris deposits in the intima of blood vessels.<xref ref-type="bibr" rid="article-56124.r8">[8]</xref>&#x000a0;When this plaque increases in size, it disrupts blood flow resulting in characteristic symptoms of distal ischemia. An acute increase in this plaque size, e.g., due to hemorrhage into the plaque or rupture followed by platelet-rich thrombus formation, results in acute ischemia and risks distal necrosis.</p>
+        <p>Angioplasty aims to compress the plaque with a balloon or stent and open the stenosed artery to relieve distal ischemia. One of the major complications of stent placement is the risk of thrombosis of the stent, which is overcome by dual antiplatelet therapy administration. Another complication of stent placement is the possibility of neointimal hyperplasia and stent restenosis, which is overcome by a coating of the stent with antiproliferative drugs like sirolimus, tacrolimus, or everolimus, which lead to the evolution of DES. Late stent placement complications occur due to the presence of metallic structure in the strut of the stent, which leads to restenosis and late stent thrombosis. This is overcome by biodegradable polymer stents, which have less risk of long-term in-stent restenosis and thrombosis, but the reduced vascular recoil limits their utility. Therefore, the choice of the stent is highly specific to each artery and type of plaque and local expertise in accurate stent placement.</p>
+      </sec>
+      <sec id="article-56124.s4" sec-type="Indications">
+        <title>Indications</title>
+        <p>
+<bold>Coronary Angioplasty and Stent Placement</bold>
+</p>
+        <p>Acute coronary syndromes: Unstable angina, STEMI, and NSTEMI. In&#x000a0;stable coronary artery disease, indications for PCI are: Activity limiting symptoms despite optimal medical therapy, Active patients who prefer PCI for improvement in the quality of life, and single-vessel disease involving right coronary and left circumflex coronary arteries or two-vessel disease involving right coronary and left circumflex arteries. For left main disease or multivessel disease in patients who have diabetes - CABG is preferred over PCI.<xref ref-type="bibr" rid="article-56124.r9">[9]</xref><xref ref-type="bibr" rid="article-56124.r10">[10]</xref><xref ref-type="bibr" rid="article-56124.r11">[11]</xref></p>
+        <p>
+<bold>Carotid Angioplasty</bold>
+</p>
+        <p>Revascularization is primarily indicated in patients with symptomatic carotid stenosis of &#x0003e;70% to 99%.<xref ref-type="bibr" rid="article-56124.r12">[12]</xref><xref ref-type="bibr" rid="article-56124.r13">[13]</xref>&#x000a0;In general carotid endarterectomy has less peri-procedure stroke rates than stenting.<xref ref-type="bibr" rid="article-56124.r14">[14]</xref>&#x000a0;Patient subgroups who have better outcomes with carotid stenting are - Prior neck irradiation, high cervical carotid bifurcation, or 100% occlusion of the contralateral internal carotid artery.</p>
+        <p>
+<bold>Peripheral Vascular Disease</bold>
+</p>
+        <p>Patients with disabling symptoms, despite lifestyle adjustment, supervised exercise programs, and pharmacotherapy, are candidates for revascularization. The choice of revascularization procedure depends on symptomatology, patient risk, location and extent of disease, comorbidities, patient's functional status, and patient preference. Angioplasty with stenting is the preferred procedure except in cases of - Eccentric calcified stenosis, a long segment of stenosis, or multifocal stenosis.<xref ref-type="bibr" rid="article-56124.r15">[15]</xref><xref ref-type="bibr" rid="article-56124.r16">[16]</xref></p>
+        <p>
+<bold>Renal Artery Stenosis</bold>
+</p>
+        <p>Angioplasty with stenting is the preferred treatment for patients with renovascular disease with uncontrolled hypertension despite maximally tolerated medical therapy.</p>
+        <p>
+<bold>AV Fistula Stenosis&#x000a0;</bold>
+</p>
+        <p>Angioplasty is sometimes used to treat venous stenosis associated with hemodialysis access.<xref ref-type="bibr" rid="article-56124.r17">[17]</xref></p>
+      </sec>
+      <sec id="article-56124.s5" sec-type="Contraindications">
+        <title>Contraindications</title>
+        <p>General contraindications of angioplasty procedure are small size vessels, posterior calcification, occlusion, or hematoma of vessels, inability to tolerate dual antiplatelet therapy or allergy to stent components.&#x000a0;</p>
+        <p>Carotid angioplasty is relatively contraindicated in the elderly (&#x0003e;80y.o) due to the high risk of stroke.<xref ref-type="bibr" rid="article-56124.r18">[18]</xref></p>
+        <p>A relative contraindication includes significant comorbidities that severely limit life expectancy.</p>
+      </sec>
+      <sec id="article-56124.s6" sec-type="Equipment">
+        <title>Equipment</title>
+        <p>We need the following equipment:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Fluoroscopy and X-ray imaging equipment (including radiographic table, two X-ray tubes, fluoroscopy screen)</p>
+          </list-item>
+          <list-item>
+            <p>Micropuncture needle (18-20G)</p>
+          </list-item>
+          <list-item>
+            <p>Hydrophilic sheath</p>
+          </list-item>
+          <list-item>
+            <p>Contrast material&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Guidewire</p>
+          </list-item>
+          <list-item>
+            <p>Balloon catheter</p>
+          </list-item>
+          <list-item>
+            <p>The stent of an appropriate type and size</p>
+          </list-item>
+          <list-item>
+            <p>Ultrasound imaging device</p>
+          </list-item>
+          <list-item>
+            <p>Hemodynamic monitoring&#x000a0;system</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-56124.s7" sec-type="Preparation">
+        <title>Preparation</title>
+        <p>The patient is evaluated by the vascular surgeon/ interventional cardiologist to determine eligibility and determine the most appropriate procedure (plain angioplasty, stent placement, and type of stent, atherectomy). Usually, this does not require anesthesia and, therefore, does not require pre-procedure evaluation by an anesthesiologist unless the patient has a high Mallampati score. When involved, an anesthesiologist evaluates the patient for the determination of the risk of the procedure and assessment to optimize medication and medical conditions.</p>
+        <p>It is important to evaluate patient allergies (to iodinated contrast) and medication compliance. It is important to evaluate renal function in these patients as these procedures require a significant amount of contrast material for appropriate visualization throughout the procedure. Preoperatively, any nephrotoxic medications are held, including NSAIDs, ACE inhibitors, loop diuretics, and metformin.</p>
+        <p>Anticoagulants (warfarin, rivaroxaban, apixaban) are also withheld before surgery, and the patient is premedicated with aspirin alone or in combination with ticagrelor/ prasugrel/clopidogrel. The patient is made NPO for 8-12hr before the procedure. A few hours before the procedure, the patient is evaluated for hemodynamic stability and monitored continuously throughout the procedure. The procedure area is prepared by shaving the target area, antiseptic application, and drapes are placed around the target access site.&#x000a0;</p>
+        <p>Angioplasty is performed under moderate to deep sedation for most adult patients, but pediatric patients may require general anesthesia.</p>
+      </sec>
+      <sec id="article-56124.s8" sec-type="Technique or Treatment">
+        <title>Technique or Treatment</title>
+        <p>Radial artery access should be avoided in patients with CKD who may need ESRD in the foreseeable future to preserve the radial artery for future fistula placement for hemodialysis.<xref ref-type="bibr" rid="article-56124.r19">[19]</xref><xref ref-type="bibr" rid="article-56124.r20">[20]</xref><xref ref-type="bibr" rid="article-56124.r21">[21]</xref></p>
+        <p>Radial artery: After palpation of the radial artery 2cm proximal to the radial styloid process, an arteriotomy incision is made. Next, a micropuncture needle is used to puncture the radial artery, and a hydrophilic sheath is introduced into the artery by the modified Selinger technique. Subsequently, a vasodilator is injected into the artery (usually nicardipine 500 &#x000b5;g or verapamil 5 mg along with nitroglycerine IV heparin 50 U/kg or Max 5000U is given to reduce the risk of radial artery thrombosis.&#x000a0;</p>
+        <p>Femoral artery: After palpation of the common femoral artery, 2cm below the center of the inguinal ligament at the point of maximum palpable impulse, an arteriotomy incision is made. Fluoroscopy can be used for better localization of the femoral artery, seen in the middle of the femoral head. Subsequently, a micropuncture needle is used to enter the femoral artery, and a hydrophilic sheath is placed with a modified Selinger technique.</p>
+        <p>After obtaining access, a guidewire is inserted into the artery into the target vessel. A balloon-tipped catheter is then advanced over the guidewire to the target site. At this point, when the target artery is reached, contrast (usually iohexol) is injected into the system, followed by imaging to visualize the arterial system and obtain a pre-procedure angiogram. The catheter is then advanced through the stenotic segment of the artery and inflated in an attempt to dilate the target artery and compress the atherosclerotic plaque.&#x000a0;</p>
+        <p>If an atherectomy is planned, then the atherectomy device is introduced through the guidewire, and the plaque is disrupted (mechanical) or ablated (laser) at this point.&#x000a0;</p>
+        <p>If stenting is planned, after balloon dilation, the catheter is withdrawn, and a stent of appropriate size and diameter is advanced over the guidewire. Once the stent is in the desired artery, contrast material is injected, and the stent is positioned and deployed across the lesion, followed by another angiography.</p>
+        <p>Intravascular imaging tools like Intravascular ultrasonography or Optic coherence tomography are used for assessment of the adequacy of stent deployment, including stent expansion and apposition.</p>
+        <p>If post stent deployment angiograms are deemed adequate, the guidewire is withdrawn.</p>
+        <p>Hemostasis is achieved by direct manual compression or application of a compression band to the wrist (radial) or vascular closure devices (femoral).</p>
+        <p>There is increasing evidence to support the use of radial access over femoral in percutaneous coronary interventions due to a lower risk of local bleeding complications.<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://urldefense.proofpoint.com/v2/url?u=https-3A__www.statpearls.com_Keywords_UserViewPopup_127906-23ref-5F30193077&#x00026;d=DwMGaQ&#x00026;c=shNJtf5dKgNcPZ6Yh64b-A&#x00026;r=LGPsZLKjo5seBhu5jsa3O6A7w7KZuj8fdLOUdc0LLOI&#x00026;m=SO7AkrOIKItfJylOP4qA2VSNXw3eQeuwx8fSOFbv540&#x00026;s=lLZ36sgDEHsagbwt2jh_PPn5AT69aX_69EYnr-G-7RE&#x00026;e=">[14]</ext-link><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://urldefense.proofpoint.com/v2/url?u=https-3A__www.statpearls.com_Keywords_UserViewPopup_127906-23ref-5F29393606&#x00026;d=DwMGaQ&#x00026;c=shNJtf5dKgNcPZ6Yh64b-A&#x00026;r=LGPsZLKjo5seBhu5jsa3O6A7w7KZuj8fdLOUdc0LLOI&#x00026;m=SO7AkrOIKItfJylOP4qA2VSNXw3eQeuwx8fSOFbv540&#x00026;s=ZRzxN1ZpHMaVH1ekVUZHFmU2v9W9Oty0NT_Qh5kdpJU&#x00026;e=">[15]</ext-link><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://urldefense.proofpoint.com/v2/url?u=https-3A__www.statpearls.com_Keywords_UserViewPopup_127906-23ref-5F22858390&#x00026;d=DwMGaQ&#x00026;c=shNJtf5dKgNcPZ6Yh64b-A&#x00026;r=LGPsZLKjo5seBhu5jsa3O6A7w7KZuj8fdLOUdc0LLOI&#x00026;m=SO7AkrOIKItfJylOP4qA2VSNXw3eQeuwx8fSOFbv540&#x00026;s=ohmuQk_lPnfJ2uxa8afF6NG_Y-X7XYRFJ3uGe0i21OA&#x00026;e=">[16]</ext-link>&#x000a0;Although, radial artery access should be avoided in patients with CKD who may need hemodialysis in the foreseeable future to preserve the radial artery for future fistula placement.</p>
+      </sec>
+      <sec id="article-56124.s9" sec-type="Complications">
+        <title>Complications</title>
+        <p>The incidence of major complications like MI, stroke, and death is variable in various angioplasty procedures. Incidence is low (&#x0003c; 1%) in cardiac and femoral artery procedures but higher for carotid and abdominal aortic procedures. Individual patient's risks should be assessed and evaluated using the standard morbidity scoring scales like the Revised Cardiac Risk Index ( RCRI) or American Society of Anesthesiologists (ASA) score. Predictors of worse outcomes are moribund statuses, cirrhosis, severe anemia, shock, Acute MI in the last 24hrs, renal insufficiency, cardiomyopathy, aortic or mitral valvular disease, heart failure NYHA Class III or IV, hypertension, and unstable angina.</p>
+        <p><bold>Local Complications:</bold> Vascular complications are associated with about 6% of all angioplasty procedures.<xref ref-type="bibr" rid="article-56124.r22">[22]</xref><xref ref-type="bibr" rid="article-56124.r23">[23]</xref>&#x000a0;Local perforation of the artery may occur, although the incidence is low.</p>
+        <p><bold>Bleeding:</bold>&#x000a0;The inability to&#x000a0;obtain hemostasis&#x000a0;can result in hematoma formation, pseudoaneurysm, and retroperitoneal bleeding. Bleeding complications are more common in women&#x000a0;than men and&#x000a0;more common in the femoral approach than the radial.<xref ref-type="bibr" rid="article-56124.r24">[24]</xref><xref ref-type="bibr" rid="article-56124.r25">[25]</xref> Manifestations of bleeding may range from simple hematoma at the site to&#x000a0;significant hemodynamic instability due to massive retroperitoneal hematoma. Early recognition and volume resuscitation with crystalloids or colloids are crucial. The decision&#x000a0;to hold DAPT depends on the individual case, but in general, it is advisable not to interrupt DAPT as benefits far outweigh the risks. Severe bleeding may require vascular surgery involvement and percutaneous methods, including balloon inflation or covered stent placement to&#x000a0;tamponade bleeding.</p>
+        <p><bold>Thrombosis:&#x000a0;</bold>Less common than bleeding, but occurs more with a brachial approach than femoral.<xref ref-type="bibr" rid="article-56124.r26">[26]</xref><xref ref-type="bibr" rid="article-56124.r27">[27]</xref>&#x000a0;High-risk factors for access&#x000a0;site thrombosis are small vessel lumen, diabetes, female sex, large diameter sheath, or peripheral arterial disease.<xref ref-type="bibr" rid="article-56124.r28">[28]</xref>&#x000a0;Clinical features are pain or paresthesia in the affected extremity with reduced or absent distal pulses. It is&#x000a0;advisable to have a low threshold of suspicion and urgent evaluation for vascular surgery or thrombectomy for limb preservation.</p>
+        <p>
+<bold>Systemic Complications</bold>
+</p>
+        <p><bold>Atheroembolism:</bold> This occurs due to&#x000a0;local trauma of&#x000a0;arterial walls and disruption of atheromatous plaque in the transit arteries (femoral artery or aorta), which may result in small cholesterol emboli dislodging&#x000a0;into the systemic circulation. Clinical manifestations include livedo reticularis, digital ischemia,&#x000a0;acute kidney injury&#x000a0;(AKI) with eosinophilic casts on urinalysis, cerebral infarction, and Hollenhorst plaques in the retina. Treatment is primarily directed at risk factor reduction and endovascular treatment for larger lesions. The overall prognosis depends on the degree of underlying atherosclerosis.</p>
+        <p><bold>Acute Kidney Injury:</bold> Multiple factors may contribute to the AKI, including contrast exposure, atheroembolism, or reduced perfusion. Prevention with pre-procedural IV hydration and aggressive risk factor modification for atheroembolic events is advisable.</p>
+        <p><bold>Arrhythmia:</bold>&#x000a0;Percutaneous coronary interventions can result in a variety of conduction disturbances and arrhythmias due to irritation of the conduction system by the catheter. These include ventricular fibrillation, atrial arrhythmias such as atrial flutter or fibrillation with RVR, bradycardia (most often after injection of contrast material into the RCA), conduction disturbances (previous bundle branch block may develop into complete heart block or asystole). These are managed according to the ACLS algorithm for each type of arrhythmia.</p>
+        <p><bold>Infection:&#x000a0;</bold>Vascular procedures require strict sterile technique. Any infection of the access site or devices may result in severe bacteremia and sometimes even sepsis, depending on the microbial burden. All personnel involved in the procedure are required to wear masks, caps, gowns, gloves, and eyewear with strict handwashing and hygiene. All personnel is required to have Hepatitis B vaccinations. These have been emphasized in the updated 2006 Infection control guidelines by&#x000a0;the Society for Cardiovascular Angiography and Interventions.<xref ref-type="bibr" rid="article-56124.r29">[29]</xref></p>
+        <p><bold>Radiation Exposure:&#x000a0;</bold>Serial imaging required for angioplasty procedures results in substantial radiation exposure, which theoretically increases the risk of secondary malignancies commonly myeloma, leukemia, thyroid, lung, breast, bone, and skin cancers. No clear&#x000a0;epidemiologic studies document the association of particular cancers associated with angioplasty procedures, but future studies directed at data regarding angioplasty procedures and secondary malignancies are needed.</p>
+        <p><bold>Hypersensitivity reactions:</bold> These are more common after drug-eluting stent placements, with the overall incidence being low.<xref ref-type="bibr" rid="article-56124.r30">[30]</xref>&#x000a0;Common culprit agents for allergic reactions are local anesthetic, iodinated contrast agent, protamine sulfate in diabetics who have received NPH insulin in the past, or heparin. Careful pre-procedure evaluation and avoidance of the suspect agent or pretreatment with corticosteroids and H1 antihistamines can reduce the severity of the reaction. If a severe allergic reaction develops, epinephrine may be required.</p>
+      </sec>
+      <sec id="article-56124.s10" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>Angioplasty procedures are a minimally invasive alternative to an open surgical approach for arterial stenosis. As a result, these procedures carry significantly lower morbidity and mortality with a shorter duration of hospital stay and recovery with an acceptable risk of restenosis. Percutaneous coronary angioplasty has revolutionized the treatment of MI and unstable angina and now is the standard of care. Stenting and angioplasty are an acceptable alternative for peripheral vascular disease for suitable indications and have better recovery rates at the cost of lower revascularization rates. Carotid angioplasty procedures, however, have more risk than benefit in comparison to carotid endarterectomy procedures and are advisable only in a select group of patients.</p>
+        <p>The overall success of the interventions is also enhanced by patient compliance with diet, exercise, medications, smoking cessation, and medical optimization of comorbidities.</p>
+      </sec>
+      <sec id="article-56124.s11" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Angioplasty is a complex procedure requiring a high level of training of the performing surgeon/radiologist/cardiologist. Improved outcomes are observed in physicians trained with a higher procedural volume. Careful patient evaluation and&#x000a0;identification of patients at high risk for complications with timely and appropriate management of immediate post-cath complications can significantly enhance outcomes. The choice between the radial vs femoral approach should take into consideration the performing surgeon's level of comfort with the newer radial approach. Individual patient assessment of bleeding and thrombosis risk to determine the duration and choice of antiplatelet agents can reduce the risk for bleeding-related complications.</p>
+      </sec>
+      <sec id="article-56124.s12">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=56124&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=56124">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/56124/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=56124">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-56124.s13">
+        <title>References</title>
+        <ref id="article-56124.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Benjamin</surname>
+                <given-names>EJ</given-names>
+              </name>
+              <name>
+                <surname>Blaha</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Chiuve</surname>
+                <given-names>SE</given-names>
+              </name>
+              <name>
+                <surname>Cushman</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Das</surname>
+                <given-names>SR</given-names>
+              </name>
+              <name>
+                <surname>Deo</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>de Ferranti</surname>
+                <given-names>SD</given-names>
+              </name>
+              <name>
+                <surname>Floyd</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Fornage</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Gillespie</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Isasi</surname>
+                <given-names>CR</given-names>
+              </name>
+              <name>
+                <surname>Jim&#x000e9;nez</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Jordan</surname>
+                <given-names>LC</given-names>
+              </name>
+              <name>
+                <surname>Judd</surname>
+                <given-names>SE</given-names>
+              </name>
+              <name>
+                <surname>Lackland</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Lichtman</surname>
+                <given-names>JH</given-names>
+              </name>
+              <name>
+                <surname>Lisabeth</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Longenecker</surname>
+                <given-names>CT</given-names>
+              </name>
+              <name>
+                <surname>Mackey</surname>
+                <given-names>RH</given-names>
+              </name>
+              <name>
+                <surname>Matsushita</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Mozaffarian</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Mussolino</surname>
+                <given-names>ME</given-names>
+              </name>
+              <name>
+                <surname>Nasir</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Neumar</surname>
+                <given-names>RW</given-names>
+              </name>
+              <name>
+                <surname>Palaniappan</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Pandey</surname>
+                <given-names>DK</given-names>
+              </name>
+              <name>
+                <surname>Thiagarajan</surname>
+                <given-names>RR</given-names>
+              </name>
+              <name>
+                <surname>Reeves</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Ritchey</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Rodriguez</surname>
+                <given-names>CJ</given-names>
+              </name>
+              <name>
+                <surname>Roth</surname>
+                <given-names>GA</given-names>
+              </name>
+              <name>
+                <surname>Rosamond</surname>
+                <given-names>WD</given-names>
+              </name>
+              <name>
+                <surname>Sasson</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Towfighi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Tsao</surname>
+                <given-names>CW</given-names>
+              </name>
+              <name>
+                <surname>Turner</surname>
+                <given-names>MB</given-names>
+              </name>
+              <name>
+                <surname>Virani</surname>
+                <given-names>SS</given-names>
+              </name>
+              <name>
+                <surname>Voeks</surname>
+                <given-names>JH</given-names>
+              </name>
+              <name>
+                <surname>Willey</surname>
+                <given-names>JZ</given-names>
+              </name>
+              <name>
+                <surname>Wilkins</surname>
+                <given-names>JT</given-names>
+              </name>
+              <name>
+                <surname>Wu</surname>
+                <given-names>JH</given-names>
+              </name>
+              <name>
+                <surname>Alger</surname>
+                <given-names>HM</given-names>
+              </name>
+              <name>
+                <surname>Wong</surname>
+                <given-names>SS</given-names>
+              </name>
+              <name>
+                <surname>Muntner</surname>
+                <given-names>P</given-names>
+              </name>
+              <collab>American Heart Association Statistics Committee and Stroke Statistics Subcommittee</collab>
+            </person-group>
+            <article-title>Heart Disease and Stroke Statistics-2017 Update: A Report From the American Heart Association.</article-title>
+            <source>Circulation</source>
+            <year>2017</year>
+            <month>Mar</month>
+            <day>07</day>
+            <volume>135</volume>
+            <issue>10</issue>
+            <fpage>e146</fpage>
+            <page-range>e146-e603</page-range>
+            <pub-id pub-id-type="pmid">28122885</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dotter</surname>
+                <given-names>CT</given-names>
+              </name>
+            </person-group>
+            <article-title>Transluminal angioplasty: a long view.</article-title>
+            <source>Radiology</source>
+            <year>1980</year>
+            <month>Jun</month>
+            <volume>135</volume>
+            <issue>3</issue>
+            <fpage>561</fpage>
+            <page-range>561-4</page-range>
+            <pub-id pub-id-type="pmid">7384436</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Barton</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Gr&#x000fc;ntzig</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Husmann</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>R&#x000f6;sch</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Balloon Angioplasty - The Legacy of Andreas Gr&#x000fc;ntzig, M.D. (1939-1985).</article-title>
+            <source>Front Cardiovasc Med</source>
+            <year>2014</year>
+            <volume>1</volume>
+            <fpage>15</fpage>
+            <pub-id pub-id-type="pmid">26664865</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gruntzig</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Transluminal dilatation of coronary-artery stenosis.</article-title>
+            <source>Lancet</source>
+            <year>1978</year>
+            <month>Feb</month>
+            <day>04</day>
+            <volume>1</volume>
+            <issue>8058</issue>
+            <fpage>263</fpage>
+            <pub-id pub-id-type="pmid">74678</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Berkefeld</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Wagner</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>du Mesnil</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Carotid Stenting in Neuroradiology : A&#x000a0;Short Journey from the Past to Current Debates.</article-title>
+            <source>Clin Neuroradiol</source>
+            <year>2017</year>
+            <month>Dec</month>
+            <volume>27</volume>
+            <issue>4</issue>
+            <fpage>409</fpage>
+            <page-range>409-415</page-range>
+            <pub-id pub-id-type="pmid">28623378</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lindquist</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Schramm</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Drug-Eluting Balloons and Drug-Eluting Stents in the Treatment of Peripheral Vascular Disease.</article-title>
+            <source>Semin Intervent Radiol</source>
+            <year>2018</year>
+            <month>Dec</month>
+            <volume>35</volume>
+            <issue>5</issue>
+            <fpage>443</fpage>
+            <page-range>443-452</page-range>
+            <pub-id pub-id-type="pmid">30728660</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jaff</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Nelson</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Ferko</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Martinson</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Anderson</surname>
+                <given-names>LH</given-names>
+              </name>
+              <name>
+                <surname>Hollmann</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Endovascular Interventions for Femoropopliteal Peripheral Artery Disease: A Network Meta-Analysis of Current Technologies.</article-title>
+            <source>J Vasc Interv Radiol</source>
+            <year>2017</year>
+            <month>Dec</month>
+            <volume>28</volume>
+            <issue>12</issue>
+            <fpage>1617</fpage>
+            <page-range>1617-1627.e1</page-range>
+            <pub-id pub-id-type="pmid">29031986</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lusis</surname>
+                <given-names>AJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Atherosclerosis.</article-title>
+            <source>Nature</source>
+            <year>2000</year>
+            <month>Sep</month>
+            <day>14</day>
+            <volume>407</volume>
+            <issue>6801</issue>
+            <fpage>233</fpage>
+            <page-range>233-41</page-range>
+            <pub-id pub-id-type="pmid">11001066</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Farkouh</surname>
+                <given-names>ME</given-names>
+              </name>
+              <name>
+                <surname>Domanski</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Sleeper</surname>
+                <given-names>LA</given-names>
+              </name>
+              <name>
+                <surname>Siami</surname>
+                <given-names>FS</given-names>
+              </name>
+              <name>
+                <surname>Dangas</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Mack</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Yang</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Cohen</surname>
+                <given-names>DJ</given-names>
+              </name>
+              <name>
+                <surname>Rosenberg</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Solomon</surname>
+                <given-names>SD</given-names>
+              </name>
+              <name>
+                <surname>Desai</surname>
+                <given-names>AS</given-names>
+              </name>
+              <name>
+                <surname>Gersh</surname>
+                <given-names>BJ</given-names>
+              </name>
+              <name>
+                <surname>Magnuson</surname>
+                <given-names>EA</given-names>
+              </name>
+              <name>
+                <surname>Lansky</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Boineau</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Weinberger</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ramanathan</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Sousa</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Rankin</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Bhargava</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Buse</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Hueb</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Smith</surname>
+                <given-names>CR</given-names>
+              </name>
+              <name>
+                <surname>Muratov</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Bansilal</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>King</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Bertrand</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Fuster</surname>
+                <given-names>V</given-names>
+              </name>
+              <collab>FREEDOM Trial Investigators</collab>
+            </person-group>
+            <article-title>Strategies for multivessel revascularization in patients with diabetes.</article-title>
+            <source>N Engl J Med</source>
+            <year>2012</year>
+            <month>Dec</month>
+            <day>20</day>
+            <volume>367</volume>
+            <issue>25</issue>
+            <fpage>2375</fpage>
+            <page-range>2375-84</page-range>
+            <pub-id pub-id-type="pmid">23121323</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Giustino</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Serruys</surname>
+                <given-names>PW</given-names>
+              </name>
+              <name>
+                <surname>Sabik</surname>
+                <given-names>JF</given-names>
+              </name>
+              <name>
+                <surname>Mehran</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Maehara</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Puskas</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Simonton</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>Lembo</surname>
+                <given-names>NJ</given-names>
+              </name>
+              <name>
+                <surname>Kandzari</surname>
+                <given-names>DE</given-names>
+              </name>
+              <name>
+                <surname>Morice</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Taggart</surname>
+                <given-names>DP</given-names>
+              </name>
+              <name>
+                <surname>Gershlick</surname>
+                <given-names>AH</given-names>
+              </name>
+              <name>
+                <surname>Ragosta</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Kron</surname>
+                <given-names>IL</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>McAndrew</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Dressler</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>G&#x000e9;n&#x000e9;reux</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Ben-Yehuda</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Pocock</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Kappetein</surname>
+                <given-names>AP</given-names>
+              </name>
+              <name>
+                <surname>Stone</surname>
+                <given-names>GW</given-names>
+              </name>
+            </person-group>
+            <article-title>Mortality After Repeat Revascularization Following PCI or CABG for Left Main Disease: The EXCEL Trial.</article-title>
+            <source>JACC Cardiovasc Interv</source>
+            <year>2020</year>
+            <month>Feb</month>
+            <day>10</day>
+            <volume>13</volume>
+            <issue>3</issue>
+            <fpage>375</fpage>
+            <page-range>375-387</page-range>
+            <pub-id pub-id-type="pmid">31954680</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Stone</surname>
+                <given-names>GW</given-names>
+              </name>
+              <name>
+                <surname>Kappetein</surname>
+                <given-names>AP</given-names>
+              </name>
+              <name>
+                <surname>Sabik</surname>
+                <given-names>JF</given-names>
+              </name>
+              <name>
+                <surname>Pocock</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Morice</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Puskas</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Kandzari</surname>
+                <given-names>DE</given-names>
+              </name>
+              <name>
+                <surname>Karmpaliotis</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Brown</surname>
+                <given-names>WM</given-names>
+              </name>
+              <name>
+                <surname>Lembo</surname>
+                <given-names>NJ</given-names>
+              </name>
+              <name>
+                <surname>Banning</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Merkely</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Horkay</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Boonstra</surname>
+                <given-names>PW</given-names>
+              </name>
+              <name>
+                <surname>van Boven</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Ungi</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Bog&#x000e1;ts</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Mansour</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Noiseux</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Sabat&#x000e9;</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Pomar</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Hickey</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Gershlick</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Buszman</surname>
+                <given-names>PE</given-names>
+              </name>
+              <name>
+                <surname>Bochenek</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Schampaert</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Pag&#x000e9;</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Modolo</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Gregson</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Simonton</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>Mehran</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Kosmidou</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>G&#x000e9;n&#x000e9;reux</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Crowley</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Dressler</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Serruys</surname>
+                <given-names>PW</given-names>
+              </name>
+              <collab>EXCEL Trial Investigators</collab>
+            </person-group>
+            <article-title>Five-Year Outcomes after PCI or CABG for Left Main Coronary Disease.</article-title>
+            <source>N Engl J Med</source>
+            <year>2019</year>
+            <month>Nov</month>
+            <day>07</day>
+            <volume>381</volume>
+            <issue>19</issue>
+            <fpage>1820</fpage>
+            <page-range>1820-1830</page-range>
+            <pub-id pub-id-type="pmid">31562798</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <article-title>Endarterectomy for asymptomatic carotid artery stenosis. Executive Committee for the Asymptomatic Carotid Atherosclerosis Study.</article-title>
+            <source>JAMA</source>
+            <year>1995</year>
+            <month>May</month>
+            <day>10</day>
+            <volume>273</volume>
+            <issue>18</issue>
+            <fpage>1421</fpage>
+            <page-range>1421-8</page-range>
+            <pub-id pub-id-type="pmid">7723155</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zhu</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Yu</surname>
+                <given-names>W</given-names>
+              </name>
+            </person-group>
+            <article-title>Update in the treatment of extracranial atherosclerotic disease for stroke prevention.</article-title>
+            <source>Stroke Vasc Neurol</source>
+            <year>2020</year>
+            <volume>5</volume>
+            <issue>1</issue>
+            <fpage>65</fpage>
+            <page-range>65-70</page-range>
+            <pub-id pub-id-type="pmid">32411410</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bonati</surname>
+                <given-names>LH</given-names>
+              </name>
+              <name>
+                <surname>Lyrer</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Ederle</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Featherstone</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Brown</surname>
+                <given-names>MM</given-names>
+              </name>
+            </person-group>
+            <article-title>Percutaneous transluminal balloon angioplasty and stenting for carotid artery stenosis.</article-title>
+            <source>Cochrane Database Syst Rev</source>
+            <year>2012</year>
+            <month>Sep</month>
+            <day>12</day>
+            <issue>9</issue>
+            <fpage>CD000515</fpage>
+            <pub-id pub-id-type="pmid">22972047</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Conte</surname>
+                <given-names>MS</given-names>
+              </name>
+              <name>
+                <surname>Pomposelli</surname>
+                <given-names>FB</given-names>
+              </name>
+            </person-group>
+            <article-title>Society for Vascular Surgery Practice guidelines for atherosclerotic occlusive disease of the lower extremities management of asymptomatic disease and claudication. Introduction.</article-title>
+            <source>J Vasc Surg</source>
+            <year>2015</year>
+            <month>Mar</month>
+            <volume>61</volume>
+            <issue>3 Suppl</issue>
+            <fpage>1S</fpage>
+            <pub-id pub-id-type="pmid">25721065</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dayama</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Panneton</surname>
+                <given-names>JM</given-names>
+              </name>
+            </person-group>
+            <article-title>Commentary: Appropriateness of Endovascular Therapy in Chronic Limb-Threatening Ischemia Patients Based on the Global Vascular Guidelines.</article-title>
+            <source>J Endovasc Ther</source>
+            <year>2020</year>
+            <month>Aug</month>
+            <volume>27</volume>
+            <issue>4</issue>
+            <fpage>614</fpage>
+            <page-range>614-615</page-range>
+            <pub-id pub-id-type="pmid">32495685</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <collab>PLOS ONE Staff</collab>
+            <article-title>Correction:&#x000a0;Drug-coated balloon versus conventional balloon angioplasty of hemodialysis arteriovenous fistula or graft: A systematic review and meta-analysis of randomized controlled trials.</article-title>
+            <source>PLoS One</source>
+            <year>2020</year>
+            <volume>15</volume>
+            <issue>5</issue>
+            <fpage>e0233923</fpage>
+            <pub-id pub-id-type="pmid">32442223</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cole</surname>
+                <given-names>TS</given-names>
+              </name>
+              <name>
+                <surname>Mezher</surname>
+                <given-names>AW</given-names>
+              </name>
+              <name>
+                <surname>Catapano</surname>
+                <given-names>JS</given-names>
+              </name>
+              <name>
+                <surname>Godzik</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Baranoski</surname>
+                <given-names>JF</given-names>
+              </name>
+              <name>
+                <surname>Nakaji</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Albuquerque</surname>
+                <given-names>FC</given-names>
+              </name>
+              <name>
+                <surname>Lawton</surname>
+                <given-names>MT</given-names>
+              </name>
+              <name>
+                <surname>Little</surname>
+                <given-names>AS</given-names>
+              </name>
+              <name>
+                <surname>Ducruet</surname>
+                <given-names>AF</given-names>
+              </name>
+            </person-group>
+            <article-title>Nationwide Trends in Carotid Endarterectomy and Carotid Artery Stenting in the Post-CREST Era.</article-title>
+            <source>Stroke</source>
+            <year>2020</year>
+            <month>Feb</month>
+            <volume>51</volume>
+            <issue>2</issue>
+            <fpage>579</fpage>
+            <page-range>579-587</page-range>
+            <pub-id pub-id-type="pmid">31847750</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Rychlik</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Hornacek</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Tejc</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Petrikovits</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Klimsa</surname>
+                <given-names>Z</given-names>
+              </name>
+            </person-group>
+            <article-title>Retrospective analysis of coronary interventions in a single centre and comparison of specific differences between radial and femoral access.</article-title>
+            <source>Acta Cardiol</source>
+            <year>2019</year>
+            <month>Aug</month>
+            <volume>74</volume>
+            <issue>4</issue>
+            <fpage>325</fpage>
+            <page-range>325-330</page-range>
+            <pub-id pub-id-type="pmid">30193077</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tomassini</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Tarantino</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Cerrato</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Quadri</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Rolfo</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Varbella</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>Choice of vascular access in primary PCI.</article-title>
+            <source>Minerva Cardioangiol</source>
+            <year>2018</year>
+            <month>Aug</month>
+            <volume>66</volume>
+            <issue>4</issue>
+            <fpage>400</fpage>
+            <page-range>400-410</page-range>
+            <pub-id pub-id-type="pmid">29393606</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Romagnoli</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Biondi-Zoccai</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Sciahbasi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Politi</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Rigattieri</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Pendenza</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Summaria</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Patrizi</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Borghi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Di Russo</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Moretti</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Agostoni</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Loschiavo</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Lioy</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Sheiban</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Sangiorgi</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Radial versus femoral randomized investigation in ST-segment elevation acute coronary syndrome: the RIFLE-STEACS (Radial Versus Femoral Randomized Investigation in ST-Elevation Acute Coronary Syndrome) study.</article-title>
+            <source>J Am Coll Cardiol</source>
+            <year>2012</year>
+            <month>Dec</month>
+            <day>18</day>
+            <volume>60</volume>
+            <issue>24</issue>
+            <fpage>2481</fpage>
+            <page-range>2481-9</page-range>
+            <pub-id pub-id-type="pmid">22858390</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Muller</surname>
+                <given-names>DW</given-names>
+              </name>
+              <name>
+                <surname>Shamir</surname>
+                <given-names>KJ</given-names>
+              </name>
+              <name>
+                <surname>Ellis</surname>
+                <given-names>SG</given-names>
+              </name>
+              <name>
+                <surname>Topol</surname>
+                <given-names>EJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Peripheral vascular complications after conventional and complex percutaneous coronary interventional procedures.</article-title>
+            <source>Am J Cardiol</source>
+            <year>1992</year>
+            <month>Jan</month>
+            <day>01</day>
+            <volume>69</volume>
+            <issue>1</issue>
+            <fpage>63</fpage>
+            <page-range>63-8</page-range>
+            <pub-id pub-id-type="pmid">1729869</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Carrozza</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Baim</surname>
+                <given-names>DS</given-names>
+              </name>
+            </person-group>
+            <article-title>Complications of directional coronary atherectomy: incidence, causes, and management.</article-title>
+            <source>Am J Cardiol</source>
+            <year>1993</year>
+            <month>Oct</month>
+            <day>18</day>
+            <volume>72</volume>
+            <issue>13</issue>
+            <fpage>47E</fpage>
+            <page-range>47E-54E</page-range>
+            <pub-id pub-id-type="pmid">8213570</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yamamoto</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Natsuaki</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Morimoto</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Shiomi</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Watanabe</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Yamaji</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Watanabe</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Kato</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Saito</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Ando</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Kadota</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Furukawa</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Kimura</surname>
+                <given-names>T</given-names>
+              </name>
+              <collab>CREDO-Kyoto PCI/CABG Registry Cohort-2 Investigators</collab>
+            </person-group>
+            <article-title>Transradial vs. Transfemoral Percutaneous Coronary Intervention in Patients With or Without High Bleeding Risk Criteria.</article-title>
+            <source>Circ J</source>
+            <year>2020</year>
+            <month>Apr</month>
+            <day>24</day>
+            <volume>84</volume>
+            <issue>5</issue>
+            <fpage>723</fpage>
+            <page-range>723-732</page-range>
+            <pub-id pub-id-type="pmid">32188831</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Argulian</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Patel</surname>
+                <given-names>AD</given-names>
+              </name>
+              <name>
+                <surname>Abramson</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Kulkarni</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Champney</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Palmer</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Weintraub</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Wenger</surname>
+                <given-names>NK</given-names>
+              </name>
+              <name>
+                <surname>Vaccarino</surname>
+                <given-names>V</given-names>
+              </name>
+            </person-group>
+            <article-title>Gender differences in short-term cardiovascular outcomes after percutaneous coronary interventions.</article-title>
+            <source>Am J Cardiol</source>
+            <year>2006</year>
+            <month>Jul</month>
+            <day>01</day>
+            <volume>98</volume>
+            <issue>1</issue>
+            <fpage>48</fpage>
+            <page-range>48-53</page-range>
+            <pub-id pub-id-type="pmid">16784919</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r26">
+          <label>26</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Slater</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Selzer</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Dorbala</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Tormey</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Vlachos</surname>
+                <given-names>HA</given-names>
+              </name>
+              <name>
+                <surname>Wilensky</surname>
+                <given-names>RL</given-names>
+              </name>
+              <name>
+                <surname>Jacobs</surname>
+                <given-names>AK</given-names>
+              </name>
+              <name>
+                <surname>Laskey</surname>
+                <given-names>WK</given-names>
+              </name>
+              <name>
+                <surname>Douglas</surname>
+                <given-names>JS</given-names>
+              </name>
+              <name>
+                <surname>Williams</surname>
+                <given-names>DO</given-names>
+              </name>
+              <name>
+                <surname>Kelsey</surname>
+                <given-names>SF</given-names>
+              </name>
+            </person-group>
+            <article-title>Ethnic differences in the presentation, treatment strategy, and outcomes of percutaneous coronary intervention (a report from the National Heart, Lung, and Blood Institute Dynamic Registry).</article-title>
+            <source>Am J Cardiol</source>
+            <year>2003</year>
+            <month>Oct</month>
+            <day>01</day>
+            <volume>92</volume>
+            <issue>7</issue>
+            <fpage>773</fpage>
+            <page-range>773-8</page-range>
+            <pub-id pub-id-type="pmid">14516874</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r27">
+          <label>27</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kennedy</surname>
+                <given-names>JW</given-names>
+              </name>
+            </person-group>
+            <article-title>Complications associated with cardiac catheterization and angiography.</article-title>
+            <source>Cathet Cardiovasc Diagn</source>
+            <year>1982</year>
+            <volume>8</volume>
+            <issue>1</issue>
+            <fpage>5</fpage>
+            <page-range>5-11</page-range>
+            <pub-id pub-id-type="pmid">7060118</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r28">
+          <label>28</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cannan</surname>
+                <given-names>CR</given-names>
+              </name>
+              <name>
+                <surname>Yeh</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Kelsey</surname>
+                <given-names>SF</given-names>
+              </name>
+              <name>
+                <surname>Cohen</surname>
+                <given-names>HA</given-names>
+              </name>
+              <name>
+                <surname>Detre</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Williams</surname>
+                <given-names>DO</given-names>
+              </name>
+            </person-group>
+            <article-title>Incidence and predictors of target vessel revascularization following percutaneous transluminal coronary angioplasty: a report from the National Heart, Lung, and Blood Institute Percutaneous Transluminal Coronary Angioplasty Registry.</article-title>
+            <source>Am J Cardiol</source>
+            <year>1999</year>
+            <month>Jul</month>
+            <day>15</day>
+            <volume>84</volume>
+            <issue>2</issue>
+            <fpage>170</fpage>
+            <page-range>170-5</page-range>
+            <pub-id pub-id-type="pmid">10426335</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r29">
+          <label>29</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chambers</surname>
+                <given-names>CE</given-names>
+              </name>
+              <name>
+                <surname>Eisenhauer</surname>
+                <given-names>MD</given-names>
+              </name>
+              <name>
+                <surname>McNicol</surname>
+                <given-names>LB</given-names>
+              </name>
+              <name>
+                <surname>Block</surname>
+                <given-names>PC</given-names>
+              </name>
+              <name>
+                <surname>Phillips</surname>
+                <given-names>WJ</given-names>
+              </name>
+              <name>
+                <surname>Dehmer</surname>
+                <given-names>GJ</given-names>
+              </name>
+              <name>
+                <surname>Heupler</surname>
+                <given-names>FA</given-names>
+              </name>
+              <name>
+                <surname>Blankenship</surname>
+                <given-names>JC</given-names>
+              </name>
+              <collab>Members of the Catheterization Lab Performance Standards Committee for the Socitey for Cardiovascular Angiography and Interventions</collab>
+            </person-group>
+            <article-title>Infection control guidelines for the cardiac catheterization laboratory: society guidelines revisited.</article-title>
+            <source>Catheter Cardiovasc Interv</source>
+            <year>2006</year>
+            <month>Jan</month>
+            <volume>67</volume>
+            <issue>1</issue>
+            <fpage>78</fpage>
+            <page-range>78-86</page-range>
+            <pub-id pub-id-type="pmid">16331649</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-56124.r30">
+          <label>30</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Nebeker</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Virmani</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Bennett</surname>
+                <given-names>CL</given-names>
+              </name>
+              <name>
+                <surname>Hoffman</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Samore</surname>
+                <given-names>MH</given-names>
+              </name>
+              <name>
+                <surname>Alvarez</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Davidson</surname>
+                <given-names>CJ</given-names>
+              </name>
+              <name>
+                <surname>McKoy</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Raisch</surname>
+                <given-names>DW</given-names>
+              </name>
+              <name>
+                <surname>Whisenant</surname>
+                <given-names>BK</given-names>
+              </name>
+              <name>
+                <surname>Yarnold</surname>
+                <given-names>PR</given-names>
+              </name>
+              <name>
+                <surname>Belknap</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>West</surname>
+                <given-names>DP</given-names>
+              </name>
+              <name>
+                <surname>Gage</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Morse</surname>
+                <given-names>RE</given-names>
+              </name>
+              <name>
+                <surname>Gligoric</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Davidson</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Feldman</surname>
+                <given-names>MD</given-names>
+              </name>
+            </person-group>
+            <article-title>Hypersensitivity cases associated with drug-eluting coronary stents: a review of available cases from the Research on Adverse Drug Events and Reports (RADAR) project.</article-title>
+            <source>J Am Coll Cardiol</source>
+            <year>2006</year>
+            <month>Jan</month>
+            <day>03</day>
+            <volume>47</volume>
+            <issue>1</issue>
+            <fpage>175</fpage>
+            <page-range>175-81</page-range>
+            <pub-id pub-id-type="pmid">16386683</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

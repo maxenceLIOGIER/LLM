@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-141935" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Bupropion Toxicity</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Alberter</surname>
+            <given-names>Andrew A.</given-names>
+          </name>
+          <aff>Virginia Commonwealth University Health System</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Chambers</surname>
+            <given-names>Andrew J.</given-names>
+          </name>
+          <aff>VCU</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Wills</surname>
+            <given-names>Brandon K.</given-names>
+          </name>
+          <aff>Virginia Commonwealth University</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Andrew Alberter declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Andrew Chambers declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Brandon Wills declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>12</day>
+          <month>12</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-141935.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Bupropion is a medication primarily used in the treatment of major depressive disorder. It is an aminoketone that is classified as a norepinephrine-dopamine reuptake inhibitor. In overdose, this medication can lead to cardiovascular and central nervous system toxicity, resulting in dysthymias and seizures. This activity reviews the evaluation and treatment of bupropion toxicity and highlights the role of the interprofessional team in evaluating and treating patients with this condition.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Summarize the pathophysiology/toxicology of bupropion overdose.</p></list-item><list-item><p>Explain the appropriate evaluation for potential bupropion overdose.</p></list-item><list-item><p>Outline the importance of consultation with poison control and clinical toxicology for bupropion overdose.</p></list-item><list-item><p>Review the appropriate management of bupropion overdose.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=141935&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=141935">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-141935.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Bupropion hydrochloride is an antidepressant drug belonging to the aminoketone class first introduced in 1985. It is currently FDA-approved for treating major depressive disorder, seasonal affective disorder, and smoking cessation with several off-label uses, including sexual dysfunction secondary to antidepressant use, generalized anxiety disorder, ADHD, and bipolar disorder. Multiple formulations exist, including immediate-release (IR), sustained-release (SR), and extended-release (XL).<xref ref-type="bibr" rid="article-141935.r1">[1]</xref></p>
+        <p>Adverse drug effects with therapeutic dosing are nonspecific and may include dry mouth, constipation, headache, nausea, agitation, insomnia, and weight loss. Bupropion was withdrawn in 1986 after new-onset seizures were reported in a small portion of bulimic patients; however, it was reintroduced in 1989 at lower dose ranges. The drug is now contraindicated in patients with seizure history, eating disorders, or those undergoing ethanol or CNS depressant withdrawal. The risk of seizures with daily doses below 300 mg is estimated at 0.1% but increases to 0.4% with doses up to 450 mg daily.<xref ref-type="bibr" rid="article-141935.r1">[1]</xref></p>
+        <p>Overdose is frequently associated with seizures, tachycardia, and agitation.<xref ref-type="bibr" rid="article-141935.r1">[1]</xref>&#x000a0;The extended-release formulation has also been associated with delayed seizures for up to 24 hours after ingestion.<xref ref-type="bibr" rid="article-141935.r2">[2]</xref>&#x000a0;Status epilepticus, life-threatening arrhythmias, and cardiogenic shock have all been reported in overdose.</p>
+      </sec>
+      <sec id="article-141935.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p>Bupropion is an aminoketone that is classified as a norepinephrine-dopamine reuptake inhibitor. In overdose, seizures are frequently seen, including status epilepticus, but the exact mechanism is unclear. Cardiovascular toxicity may include conduction delays resulting in widened QRS and QT intervals, dysrhythmias, or cardiogenic shock. Notably, QRS prolongation is not related to the cardiac sodium channel and instead is related to myocardial gap junctions and disruption of intercellular communication.<xref ref-type="bibr" rid="article-141935.r3">[3]</xref></p>
+      </sec>
+      <sec id="article-141935.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p>Antidepressants are frequently associated with overdose, given their use in patients with underlying depression. However, intentional misuse of bupropion has also been reported, given its similar structure to amphetamines and synthetic cathinones, including misuse via insufflation.<xref ref-type="bibr" rid="article-141935.r4">[4]</xref><xref ref-type="bibr" rid="article-141935.r5">[5]</xref>&#x000a0;</p>
+        <p>The American Association of Poison Control Centers reported 16,926 bupropion overdoses in 2020. Only about half of these exposures (8,668) were single exposures, including eight fatalities.<xref ref-type="bibr" rid="article-141935.r6">[6]</xref></p>
+      </sec>
+      <sec id="article-141935.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>Bupropion is classified as a norepinephrine-dopamine reuptake inhibitor; however, it is difficult to attribute its toxicity to sympathetic and dopaminergic stimulation entirely. The mechanism behind bupropion&#x02019;s pro-convulsant effect is unknown. Bupropion overdose has also been implicated in serotonin toxicity. The mechanism leading to serotonin toxicity is unclear since there is no direct serotonergic activity of bupropion on serotonin receptors; however, the increased neuronal firing of serotonin receptors has been observed in rat brains with sustained exposure to bupropion and is a proposed mechanism for this syndrome.<xref ref-type="bibr" rid="article-141935.r7">[7]</xref>&#x000a0;</p>
+        <p>Electrocardiographic abnormalities have also been described in overdose. Prolongation of the QT interval is due to blockage of the rapid component of the delayed rectifier potassium current, while QRS widening is the effect of gap junction intercellular communication rather than fast sodium channel blockade.<xref ref-type="bibr" rid="article-141935.r3">[3]</xref></p>
+      </sec>
+      <sec id="article-141935.s6" sec-type="Toxicokinetics">
+        <title>Toxicokinetics</title>
+        <p>Time to peak plasma concentration is approximately 1.5 hours, 3 hours, and 5 hours for the IR, SR, and XL formulations, respectively. Oral absorption approaches 100%, and the volume of distribution is 19 l/kg at steady state. Bupropion is hepatically metabolized by CYP2B6 to its active metabolite, hydroxybupropion, and excreted through urine.<xref ref-type="bibr" rid="article-141935.r1">[1]</xref></p>
+      </sec>
+      <sec id="article-141935.s7" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>A thorough history and physical exam should be performed for any suspected exposure and will aid subsequent decisions. Specifically, the timing and quantity of ingestion should be identified. The clinician should evaluate for co-ingestions. The intent of overdose should be ascertained. History should also include a review of medications to identify any interactions that may lead to seizures or cardiovascular collapse.</p>
+        <p>Physical exam findings are variable; the most common symptoms described in overdose include tachycardia, seizures, and agitation. The frequency of seizure is variable in retrospective studies, from 17% to 47%.<xref ref-type="bibr" rid="article-141935.r8">[8]</xref>&#x000a0;Additional symptoms include hypertension, delirium, hyperreflexia, clonus,&#x000a0;central nervous system&#x000a0;depression, numbness, and dystonia.<xref ref-type="bibr" rid="article-141935.r9">[9]</xref></p>
+      </sec>
+      <sec id="article-141935.s8" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>Assessment of airway, breathing, and circulation are the initial priorities for all overdose patients. Intravenous access should be rapidly obtained as well as continuous cardiac monitoring and frequent vital signs. A 12-lead ECG should be obtained to assess for conduction abnormalities. Serum acetaminophen and salicylate concentrations should be obtained as these are common co-ingestants. Point-of-care blood glucose should be checked in any patients seizing or with altered mental status. Serum bupropion and hydroxybupropion concentrations are not routinely available or recommended.</p>
+      </sec>
+      <sec id="article-141935.s9" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>Primary management of bupropion overdose is supportive care, as no direct antidote exists. Consultation with a regional poison center or toxicologist may be helpful, especially in critical cases with serious organ-system dysfunction. Decontamination with activated charcoal may be appropriate&#x000a0;for patients presenting soon after a large overdose and who do not need airway protection. Unintentional overdose&#x000a0;rarely causes significant clinical effects; however, major adverse reactions (seizures) have been reported even in double-dose ingestions.<xref ref-type="bibr" rid="article-141935.r10">[10]</xref><xref ref-type="bibr" rid="article-141935.r11">[11]</xref>&#x000a0;</p>
+        <p>Seizures should be treated with benzodiazepines as first-line agents and barbiturates, such as phenobarbital, as second-line agents. Avoidance of other anti-epileptics, including phenytoin, is recommended, given possible drug-drug interactions. Life-threatening arrhythmias should be treated following ACLS guidelines, possibly including other adjuncts depending on the clinical situation. Widened QRS complex on the electrocardiogram often suggests fast sodium channel blockade. In the setting of wide QRS with hemodynamic instability or dysrhythmias, boluses of sodium bicarbonate are typically indicated. Unfortunately, bupropion-induced QRS prolongation may not respond to sodium bicarbonate since the cardiotoxicity&#x000a0;does not appear to be due to fast sodium channelopathy and&#x000a0;results from&#x000a0;impaired gap junction communication.<xref ref-type="bibr" rid="article-141935.r12">[12]</xref></p>
+        <p>Cardiogenic shock should be treated with vasopressors as first-line therapy. A clinical toxicology task force in 2016 supported intravenous lipid emulsion (ILE) in severe life-threatening toxicity, such as refractory status epilepticus or hemodynamic instability. The task force favored traditional treatments of seizures, such as benzodiazepines and phenobarbital, as first-line modalities. Interestingly, ILE was not&#x000a0;recommended in pulseless electrical activity due to the possibility of interference with epinephrine and extracorporeal treatments.<xref ref-type="bibr" rid="article-141935.r13">[13]</xref>&#x000a0;</p>
+        <p>ILE has been shown in case reports to cause rapid improvement in hemodynamic status and left ventricular ejection fraction in overdose. Classically, ILE is used as rescue therapy, but these cases may suggest value in earlier initiation.<xref ref-type="bibr" rid="article-141935.r11">[11]</xref>&#x000a0;Treatment of refractory cardiogenic shock and cardiopulmonary arrest can include veno-arterial extracorporeal membrane oxygenation (VA ECMO).<xref ref-type="bibr" rid="article-141935.r14">[14]</xref></p>
+        <p>Patients with seizures, hemodynamic instability or life-threatening arrhythmias, and severely altered mental status be monitored in an ICU setting. All bupropion XL overdoses, including therapeutic errors, should be observed for 24 hours for delayed-onset seizures.<xref ref-type="bibr" rid="article-141935.r2">[2]</xref>&#x000a0;Patients should be symptom-free at the time of discharge.</p>
+      </sec>
+      <sec id="article-141935.s10" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <p>All ingestions should be evaluated and considered for potential co-ingestions. Bupropion has been associated with sympathomimetic, anticholinergic, and serotonin syndromes, so a differential of agents leading to these syndromes should be considered.<xref ref-type="bibr" rid="article-141935.r9">[9]</xref></p>
+      </sec>
+      <sec id="article-141935.s11" sec-type="Prognosis">
+        <title>Prognosis</title>
+        <p>Overall, the risk of death from bupropion toxicity is relatively low, with eight reported deaths from US poison center data in 2020 despite almost 17,000 reported cases.<xref ref-type="bibr" rid="article-141935.r6">[6]</xref>&#x000a0;A retrospective chart review of bupropion exposures reported to the Ontario Poison Centre between 2013 and 2015 analyzed 1,065 overdoses. In this study, 52% of patients had episodes of tachycardia, 24% had ECG changes, the most common being QT and QRS prolongation, and 17% had seizures.</p>
+        <p>Co-ingestion with benzodiazepines decreased the odds of having a seizure (OR 0.32); however, the role of treating bupropion overdose patients with prophylactic benzodiazepines is unclear. Another retrospective study of 423 patients found that tachycardia (120 bpm or 20 greater than the age-adjusted upper limit of normal in pediatric patients) was found to have OR 6.7 of having a seizure at some point during hospitalization, while altered mental status increased risk with OR 3.9. No patients who seized were asymptomatic at the time of presentation to ED.<xref ref-type="bibr" rid="article-141935.r8">[8]</xref><xref ref-type="bibr" rid="article-141935.r15">[15]</xref></p>
+        <p>In a retrospective analysis of 30,026 adolescent overdoses, when compared to SSRI overdose, bupropion overdose was associated with increased risk of death (0.23% vs. 0%), seizures (27% vs. 8.5%), and multiple major outcomes such as the need for cardiopulmonary resuscitation, intubation, vasopressors, and need for benzodiazepine treatment. This study suggests a higher risk for morbidity and mortality with bupropion overdose than SSRI overdose in adolescents.<xref ref-type="bibr" rid="article-141935.r16">[16]</xref></p>
+      </sec>
+      <sec id="article-141935.s12" sec-type="Complications">
+        <title>Complications</title>
+        <p>Severe complications include but are not limited to:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Status epilepticus</p>
+          </list-item>
+          <list-item>
+            <p>Severe altered mental status with loss of airway protection</p>
+          </list-item>
+          <list-item>
+            <p>Cardiogenic shock</p>
+          </list-item>
+          <list-item>
+            <p>Life-threatening&#x000a0;dysrhythmias</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-141935.s13" sec-type="Consultations">
+        <title>Consultations</title>
+        <p>Consultation with a regional poison center or clinical toxicologist can offer anticipatory guidance and provide guidance on disposition and treatment options.</p>
+      </sec>
+      <sec id="article-141935.s14" sec-type="Deterrence and Patient Education">
+        <title>Deterrence and Patient Education</title>
+        <p>Patients on antidepressants are at increased risk of attempted overdose. They should be regularly screened for thoughts of suicide. Patients should be counseled to keep their medications in a safe location that children cannot access. They should be encouraged to contact their regional poison center if there is a concern for potential toxic overdose on these medications.</p>
+      </sec>
+      <sec id="article-141935.s15" sec-type="Pearls and Other Issues">
+        <title>Pearls and Other Issues</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>Bupropion toxicity is most frequently associated with seizures; other emergent risks include dysrhythmias and cardiogenic shock.</p>
+          </list-item>
+          <list-item>
+            <p>Treatment is mainly supportive, with benzodiazepines used first-line for seizures.</p>
+          </list-item>
+          <list-item>
+            <p>Refractory status epilepticus or hemodynamic instability has successfully been treated with intravenous lipid emulsion therapy.</p>
+          </list-item>
+          <list-item>
+            <p>ECG should be obtained to evaluate for conduction delays. However, traditional treatment&#x000a0;for QRS widening with boluses of sodium bicarbonate may be ineffective given the mechanism of bupropion-induced conduction delays.</p>
+          </list-item>
+          <list-item>
+            <p>Adolescents are at increased risk for severe toxicity than other pediatric patients and are more likely to intentionally overdose.<xref ref-type="bibr" rid="article-141935.r17">[17]</xref></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-141935.s16" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>When a patient presents with bupropion toxicity, it requires the prompt evaluation and management of the healthcare team. This team includes nursing, the emergency physician, &#x000a0;toxicology/ poison center, and critical care. The collaborative effort from these teams can properly triage patients and appropriately manage patients. Patients in the emergency department should have the following:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Vital signs recorded</p>
+          </list-item>
+          <list-item>
+            <p>Electrocardiogram</p>
+          </list-item>
+          <list-item>
+            <p>For guidance and epidemiology, consult with a regional poison center</p>
+          </list-item>
+          <list-item>
+            <p>Consult Toxicology for help with clinical management</p>
+          </list-item>
+        </list>
+        <p>Patients with bupropion toxicity will require observation. Intentional overdoses will require psychiatric evaluation after medical clearance. Risk reduction strategies should be employed to manage unintentional overdoses, including patient education, keeping medications in a safe location, and ensuring patients can manage their medications.</p>
+      </sec>
+      <sec id="article-141935.s17">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=141935&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=141935">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/medications/bupropion-toxicity/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=141935">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/141935/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=141935">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-141935.s18">
+        <title>References</title>
+        <ref id="article-141935.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Foley</surname>
+                <given-names>KF</given-names>
+              </name>
+              <name>
+                <surname>DeSanty</surname>
+                <given-names>KP</given-names>
+              </name>
+              <name>
+                <surname>Kast</surname>
+                <given-names>RE</given-names>
+              </name>
+            </person-group>
+            <article-title>Bupropion: pharmacology and therapeutic applications.</article-title>
+            <source>Expert Rev Neurother</source>
+            <year>2006</year>
+            <month>Sep</month>
+            <volume>6</volume>
+            <issue>9</issue>
+            <fpage>1249</fpage>
+            <page-range>1249-65</page-range>
+            <pub-id pub-id-type="pmid">17009913</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141935.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Starr</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Klein-Schwartz</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Spiller</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Kern</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Ekleberry</surname>
+                <given-names>SE</given-names>
+              </name>
+              <name>
+                <surname>Kunkel</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Incidence and onset of delayed seizures after overdoses of extended-release bupropion.</article-title>
+            <source>Am J Emerg Med</source>
+            <year>2009</year>
+            <month>Oct</month>
+            <volume>27</volume>
+            <issue>8</issue>
+            <fpage>911</fpage>
+            <page-range>911-5</page-range>
+            <pub-id pub-id-type="pmid">19857406</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141935.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Caillier</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Pilote</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Castonguay</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Patoine</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>M&#x000e9;nard-Desrosiers</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Vigneault</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Hreiche</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Turgeon</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Daleau</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>De Koninck</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Simard</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Drolet</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>QRS widening and QT prolongation under bupropion: a unique cardiac electrophysiological profile.</article-title>
+            <source>Fundam Clin Pharmacol</source>
+            <year>2012</year>
+            <month>Oct</month>
+            <volume>26</volume>
+            <issue>5</issue>
+            <fpage>599</fpage>
+            <page-range>599-608</page-range>
+            <pub-id pub-id-type="pmid">21623902</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141935.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Stall</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Godwin</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Juurlink</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Bupropion abuse and overdose.</article-title>
+            <source>CMAJ</source>
+            <year>2014</year>
+            <month>Sep</month>
+            <day>16</day>
+            <volume>186</volume>
+            <issue>13</issue>
+            <fpage>1015</fpage>
+            <pub-id pub-id-type="pmid">24778361</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141935.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hill</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Sikand</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>A case report of seizure induced by bupropion nasal insufflation.</article-title>
+            <source>Prim Care Companion J Clin Psychiatry</source>
+            <year>2007</year>
+            <volume>9</volume>
+            <issue>1</issue>
+            <fpage>67</fpage>
+            <page-range>67-9</page-range>
+            <pub-id pub-id-type="pmid">17599174</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141935.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gummin</surname>
+                <given-names>DD</given-names>
+              </name>
+              <name>
+                <surname>Mowry</surname>
+                <given-names>JB</given-names>
+              </name>
+              <name>
+                <surname>Beuhler</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Spyker</surname>
+                <given-names>DA</given-names>
+              </name>
+              <name>
+                <surname>Bronstein</surname>
+                <given-names>AC</given-names>
+              </name>
+              <name>
+                <surname>Rivers</surname>
+                <given-names>LJ</given-names>
+              </name>
+              <name>
+                <surname>Pham</surname>
+                <given-names>NPT</given-names>
+              </name>
+              <name>
+                <surname>Weber</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>2020 Annual Report of the American Association of Poison Control Centers' National Poison Data System (NPDS): 38th Annual Report.</article-title>
+            <source>Clin Toxicol (Phila)</source>
+            <year>2021</year>
+            <month>Dec</month>
+            <volume>59</volume>
+            <issue>12</issue>
+            <fpage>1282</fpage>
+            <page-range>1282-1501</page-range>
+            <pub-id pub-id-type="pmid">34890263</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141935.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>El Mansari</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Ghanbari</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Janssen</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Blier</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Sustained administration of bupropion alters the neuronal activity of serotonin, norepinephrine but not dopamine neurons in the rat brain.</article-title>
+            <source>Neuropharmacology</source>
+            <year>2008</year>
+            <month>Dec</month>
+            <volume>55</volume>
+            <issue>7</issue>
+            <fpage>1191</fpage>
+            <page-range>1191-8</page-range>
+            <pub-id pub-id-type="pmid">18708076</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141935.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Stewart</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Grewal</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Hudson</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Thompson</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Godwin</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Clinical characteristics and outcomes associated with bupropion overdose: a Canadian perspective.</article-title>
+            <source>Clin Toxicol (Phila)</source>
+            <year>2020</year>
+            <month>Aug</month>
+            <volume>58</volume>
+            <issue>8</issue>
+            <fpage>837</fpage>
+            <page-range>837-842</page-range>
+            <pub-id pub-id-type="pmid">31829049</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141935.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Murray</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Carpenter</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Dunkley</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Moran</surname>
+                <given-names>TP</given-names>
+              </name>
+              <name>
+                <surname>Kiernan</surname>
+                <given-names>EA</given-names>
+              </name>
+              <name>
+                <surname>Rianprakaisang</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Alsukaiti</surname>
+                <given-names>WS</given-names>
+              </name>
+              <name>
+                <surname>Calello</surname>
+                <given-names>DP</given-names>
+              </name>
+              <name>
+                <surname>Kazzi</surname>
+                <given-names>Z</given-names>
+              </name>
+              <collab>Toxicology Investigators Consortium&#x000a0;(ToxIC)</collab>
+            </person-group>
+            <article-title>Single-Agent Bupropion Exposures: Clinical Characteristics and an Atypical Cause of Serotonin Toxicity.</article-title>
+            <source>J Med Toxicol</source>
+            <year>2020</year>
+            <month>Jan</month>
+            <volume>16</volume>
+            <issue>1</issue>
+            <fpage>12</fpage>
+            <page-range>12-16</page-range>
+            <pub-id pub-id-type="pmid">31823333</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141935.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Correia</surname>
+                <given-names>MS</given-names>
+              </name>
+              <name>
+                <surname>Whitehead</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Cantrell</surname>
+                <given-names>FL</given-names>
+              </name>
+              <name>
+                <surname>Lasoff</surname>
+                <given-names>DR</given-names>
+              </name>
+              <name>
+                <surname>Minns</surname>
+                <given-names>AB</given-names>
+              </name>
+            </person-group>
+            <article-title>A 10-year review of single medication double-dose ingestions in the nation's largest poison control system.</article-title>
+            <source>Clin Toxicol (Phila)</source>
+            <year>2019</year>
+            <month>Jan</month>
+            <volume>57</volume>
+            <issue>1</issue>
+            <fpage>31</fpage>
+            <page-range>31-35</page-range>
+            <pub-id pub-id-type="pmid">30484705</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141935.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Herrman</surname>
+                <given-names>NWC</given-names>
+              </name>
+              <name>
+                <surname>Kalisieski</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Fung</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Bupropion Overdose Complicated by Cardiogenic Shock Requiring Vasopressor Support and Lipid Emulsion Therapy.</article-title>
+            <source>J Emerg Med</source>
+            <year>2020</year>
+            <month>Feb</month>
+            <volume>58</volume>
+            <issue>2</issue>
+            <fpage>e47</fpage>
+            <page-range>e47-e50</page-range>
+            <pub-id pub-id-type="pmid">31911020</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141935.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wills</surname>
+                <given-names>BK</given-names>
+              </name>
+              <name>
+                <surname>Zell-Kanter</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Aks</surname>
+                <given-names>SE</given-names>
+              </name>
+            </person-group>
+            <article-title>Bupropion-associated QRS prolongation unresponsive to sodium bicarbonate therapy.</article-title>
+            <source>Am J Ther</source>
+            <year>2009</year>
+            <season>Mar-Apr</season>
+            <volume>16</volume>
+            <issue>2</issue>
+            <fpage>193</fpage>
+            <page-range>193-6</page-range>
+            <pub-id pub-id-type="pmid">19114875</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141935.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gosselin</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hoegberg</surname>
+                <given-names>LC</given-names>
+              </name>
+              <name>
+                <surname>Hoffman</surname>
+                <given-names>RS</given-names>
+              </name>
+              <name>
+                <surname>Graudins</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Stork</surname>
+                <given-names>CM</given-names>
+              </name>
+              <name>
+                <surname>Thomas</surname>
+                <given-names>SH</given-names>
+              </name>
+              <name>
+                <surname>Stellpflug</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Hayes</surname>
+                <given-names>BD</given-names>
+              </name>
+              <name>
+                <surname>Levine</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Morris</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Nesbitt-Miller</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Turgeon</surname>
+                <given-names>AF</given-names>
+              </name>
+              <name>
+                <surname>Bailey</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Calello</surname>
+                <given-names>DP</given-names>
+              </name>
+              <name>
+                <surname>Chuang</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Bania</surname>
+                <given-names>TC</given-names>
+              </name>
+              <name>
+                <surname>M&#x000e9;garbane</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Bhalla</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Lavergne</surname>
+                <given-names>V</given-names>
+              </name>
+            </person-group>
+            <article-title>Evidence-based recommendations on the use of intravenous lipid emulsion therapy in poisoning.</article-title>
+            <source>Clin Toxicol (Phila)</source>
+            <year>2016</year>
+            <month>Dec</month>
+            <volume>54</volume>
+            <issue>10</issue>
+            <fpage>899</fpage>
+            <page-range>899-923</page-range>
+            <pub-id pub-id-type="pmid">27608281</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141935.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Heise</surname>
+                <given-names>CW</given-names>
+              </name>
+              <name>
+                <surname>Skolnik</surname>
+                <given-names>AB</given-names>
+              </name>
+              <name>
+                <surname>Raschke</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Owen-Reece</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Graeme</surname>
+                <given-names>KA</given-names>
+              </name>
+            </person-group>
+            <article-title>Two Cases of Refractory Cardiogenic Shock Secondary to Bupropion Successfully Treated with Veno-Arterial Extracorporeal Membrane Oxygenation.</article-title>
+            <source>J Med Toxicol</source>
+            <year>2016</year>
+            <month>Sep</month>
+            <volume>12</volume>
+            <issue>3</issue>
+            <fpage>301</fpage>
+            <page-range>301-4</page-range>
+            <pub-id pub-id-type="pmid">26856351</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141935.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Offerman</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Gosen</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Thomas</surname>
+                <given-names>SH</given-names>
+              </name>
+              <name>
+                <surname>Padilla-Jones</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Ruha</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Levine</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Bupropion associated seizures following acute overdose: who develops late seizures.</article-title>
+            <source>Clin Toxicol (Phila)</source>
+            <year>2020</year>
+            <month>Dec</month>
+            <volume>58</volume>
+            <issue>12</issue>
+            <fpage>1306</fpage>
+            <page-range>1306-1312</page-range>
+            <pub-id pub-id-type="pmid">32212940</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141935.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Overberg</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Morton</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Wagner</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Froberg</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Toxicity of Bupropion Overdose Compared With Selective Serotonin Reuptake Inhibitors.</article-title>
+            <source>Pediatrics</source>
+            <year>2019</year>
+            <month>Aug</month>
+            <volume>144</volume>
+            <issue>2</issue>
+            <pub-id pub-id-type="pmid">31278211</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141935.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Offerman</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Levine</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Gosen</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Thomas</surname>
+                <given-names>SH</given-names>
+              </name>
+            </person-group>
+            <article-title>Pediatric Bupropion Ingestions in Adolescents vs. Younger Children-a Tale of Two Populations.</article-title>
+            <source>J Med Toxicol</source>
+            <year>2020</year>
+            <month>Jan</month>
+            <volume>16</volume>
+            <issue>1</issue>
+            <fpage>6</fpage>
+            <page-range>6-11</page-range>
+            <pub-id pub-id-type="pmid">31713175</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

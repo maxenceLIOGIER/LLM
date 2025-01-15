@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-26246" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Non-Arteritic Anterior Ischemic Optic Neuropathy</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Raizada</surname>
+            <given-names>Kshitij</given-names>
+          </name>
+          <aff>Prakash Netra Kendr</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Margolin</surname>
+            <given-names>Edward</given-names>
+          </name>
+          <aff>University of Toronto</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Kshitij Raizada declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Edward Margolin declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>31</day>
+          <month>10</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-26246.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Anterior ischemic optic neuropathy occurs due to decreased blood supply to the optic nerve head. It is divided into a) arteritic anterior ischemic optic neuropathy (A-AION) and b) non-arteritic anterior ischemic optic neuropathy (NAION). These two conditions have entirely different etiology, and the approaches to their diagnosis and management are completely different. This activity will focus on the role of the interprofessional team in diagnosing and managing NAION.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Identify the etiology of NAION.</p></list-item><list-item><p>Assess&#x000a0;the evaluation of NAION.</p></list-item><list-item><p>Differentiate&#x000a0;the management options available for NAION.</p></list-item><list-item><p>Communicate&#x000a0;interprofessional team strategies for improving care coordination and communication to advance NAION management and improve outcomes.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=26246&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=26246">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-26246.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Non-arteritic anterior ischemic optic neuropathy (NAION) is the most common cause of optic nerve swelling and optic neuropathy in adults over 50 years of age.<xref ref-type="bibr" rid="article-26246.r1">[1]</xref>&#x000a0;Risk factors that have been strongly associated with NAION include hypertension, hypercholesterolemia, diabetes mellitus, cardio- and cerebrovascular disease, and obstructive sleep apnea.<xref ref-type="bibr" rid="article-26246.r2">[2]</xref>&#x000a0;While the exact pathogenesis of a NAION has not been elucidated,&#x000a0;the prevailing theory is that it is caused by hypoperfusion of the&#x000a0;short posterior ciliary arteries supplying the optic nerve, which then causes ischemia that induces swelling of the portion of the optic nerve traveling through the small opening in a scleral canal.<xref ref-type="bibr" rid="article-26246.r2">[2]</xref> This, in turn, leads to the compartment syndrome involving neighboring axons that are now compressed in a space limited by the small opening in the scleral canal, leading to apoptosis and death of the ganglion cells whose axons comprise the optic nerve. The natural history of NAION has been elucidated in the Ischemic Optic Neuropathy Decompression Trial, which demonstrated that about 30% of patients would regain 3 or more lines of vision at 2 years follow-up, 20% lose 3 or more lines of vision, and in the majority of patients, the vision remains unchanged after the onset.<xref ref-type="bibr" rid="article-26246.r3">[3]</xref> In reality, visual acuity&#x000a0;does not change in most patients after the acute event has resolved, and the ones who can see a few lines are more likely to learn to improve their fixation.</p>
+      </sec>
+      <sec id="article-26246.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p>The optic nerve head (ONH) can be subdivided into&#x000a0;4 regions: intra-ocular, prelaminar region, lamina cribrosa, and retrolaminar regions. Blood supply to the ONH is primarily via the short posterior ciliary arteries.<xref ref-type="bibr" rid="article-26246.r4">[4]</xref> Pial branches and the peripapillary choroid contribute to the retrolaminar and prelaminar regions, respectively, but significant variation exists. The short posterior ciliary arteries are branches of the ophthalmic artery.<xref ref-type="bibr" rid="article-26246.r5">[5]</xref> Multiple&#x000a0;branches of short posterior ciliary arteries form the circle of Zinn-Haller, which surrounds the optic nerve at its passage through the sclera via the lamina cribrosa. All blood supply, whether from pial branches, choroid, or ciliary arteries, is derived from the ophthalmic artery, whose branches these smaller vessels represent.</p>
+        <p>The pathophysiology of NAION is not completely understood. Still, it is accepted that relative hypoperfusion of the optic nerve head and structural or other factors lead to edema and infarction of optic nerve fibers, most often in the superior half of the ONH.<xref ref-type="bibr" rid="article-26246.r6">[6]</xref>&#x000a0;Several systemic and ocular risk factors are recognized to increase the risk of NAION, including small optic nerve cup (representing the so-called "disc at risk"), optic disc drusen, systemic hypertension, diabetes mellitus, obstructive sleep apnea, and the use of phosphodiesterase-5 inhibitors. Still, their exact roles in the mechanism are not yet fully understood.<xref ref-type="bibr" rid="article-26246.r7">[7]</xref>&#x000a0;Crowded discs or "disc-at-risk" are the strongest risk factor for developing NAION. A disc-at-risk is characterized as an ONH with a small diameter and cup-to-disc ratio, typically 0.2 or less. In a disc-at-risk, optic nerve head edema induced by ischemic injury is thought to cause compression of the axons within a smaller, rigid scleral tunnel. Similarly, optic disc drusen are thought to contribute to axonal compression within the tight confines of the ONH. Hypertension, diabetes mellitus, hyperlipidemia, and smoking all contribute to the vascular causes of NAION, including arteriosclerosis of branches of the ophthalmic artery and intimal thickening of the short posterior ciliary arteries.<xref ref-type="bibr" rid="article-26246.r8">[8]</xref>&#x000a0;Obstructive sleep apnea has been recognized more recently as an independent risk factor for NAION, likely due to its effect on nocturnal blood pressure.</p>
+      </sec>
+      <sec id="article-26246.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p>NAION is the most common cause of optic neuropathy in adults over 50 years of age.<xref ref-type="bibr" rid="article-26246.r1">[1]</xref> The prevalence of NAION in the US has been estimated to be anywhere between 2.3 to 10.2 per 100000. It is less common in blacks and is most common in Caucasians, presumably because blacks tend to have a larger cup-to-disc ratio and are thus less likely to have small optic nerve cups, which is the biggest risk factor for developing NAION.</p>
+      </sec>
+      <sec id="article-26246.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>As mentioned above, the exact pathophysiology of NAION; however, the main theory is that the hypoperfusion of short posterior ciliary arteries supplying the optic nerve head leads to localized edema of the involved axons.<xref ref-type="bibr" rid="article-26246.r9">[9]</xref> As the scleral canal through which the optic nerve passes into its intra-orbital compartment is small, in predisposed individuals (those with a small cup-to-disc ratio), localized optic nerve head edema leads to a compartment syndrome where the swelling is propagated by affecting the neighboring axons. This eventually leads to severe axonal swelling/ischemia and apoptosis with loss of function of the involved axons.&#x000a0;</p>
+      </sec>
+      <sec id="article-26246.s6" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>A complete neuro-ophthalmological history should be obtained emphasizing the onset of visual loss (typically sudden in NAION and semi-acute in optic neuritis) and any other associated symptoms (about 10-15% of patients with NAION experience pain in and around the eye but not with eye movements, as is typical in optic neuritis). Typically, there aren't any other accompanying neurological symptoms. Medication&#x000a0;history with specific attention to the use of PD-5 inhibitors and anti-hypertensive medications, especially the use of these medications at night, as well as the use of amiodarone, which can be associated with the anterior optic neuropathy whose presentation can be similar to NAION.</p>
+        <p>A complete examination should be performed. Visual acuity can vary from 20/15 to no light perception, although very poor vision (hand motions or worse) is uncommon in NAION.<xref ref-type="bibr" rid="article-26246.r10">[10]</xref>&#x000a0;The relative afferent pupillary defect should be present in all patients at presentation. All patients must have optic nerve head edema at the presentation, which can persist for 4-6 weeks after onset. While it is present, visual acuity can continue to decline due to the compartment syndrome effect.<xref ref-type="bibr" rid="article-26246.r4">[4]</xref>&#x000a0;Formal visual fields should be performed in each eye: field abnormalities are typically nerve fiber bundle defects, with altitudinal defects being particularly common, possibly because of the proposed semicircle organization of short posterior ciliary arteries supplying the optic nerve head.<xref ref-type="bibr" rid="article-26246.r6">[6]</xref>&#x000a0;Peripapillary&#x000a0;optical coherence tomography&#x000a0;invariably demonstrates thickening of the retinal nerve fiber layer. The presence of the so-called "disc at risk," a cup-to-disc ratio of 0.2 or less in the fellow eye, is seen in over 95% of patients with NAION, and if it is not present, the diagnosis should be questioned.</p>
+      </sec>
+      <sec id="article-26246.s7" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>The diagnosis of NAION is a clinical one: all patients must have optic nerve edema at the time of presentation and over 97% of patients would have a disc-at-risk in the fellow eye with the cup to disc ratio of 0.2 or less. Patients with NAION might have a variety of visual field defects. However, many have an altitudinal defect supporting the notion that&#x000a0;2 separate semicircles of short posterior ciliary arteries supply the optic nerve's superior and inferior portions. Visual acuity can vary from 20/20 to no light perception, although very poor visual acuity is uncommon and should raise suspicion for giant cell arteritis.<xref ref-type="bibr" rid="article-26246.r11">[11]</xref>&#x000a0;While most patients with NAION are over 50 years of age, many are younger, and young age at presentation does not exclude the diagnosis. However, demyelinating optic neuritis should be thought of and excluded in younger individuals.<xref ref-type="bibr" rid="article-26246.r8">[8]</xref>&#x000a0;Typically in demyelinating optic neuritis optic nerve head edema if present is mild and the presence of peripapillary hemorrhages is rare (less than 5% in optic neuritis treatment trial). Pain with eye movements is distinctly uncommon in NAION (although pain in and around the eye can be present in up to 10-15% of patients), whether in up to 94% of patients with demyelinating optic neuritis. If the differentiation between NAION and other optic neuropathies is difficult, MRI of the orbits with gadolinium can be useful as it should be normal in all patients with NAION and almost always demonstrates enhancement of the optic nerve in post-contrast imaging in patients with inflammatory optic neuropathies.</p>
+      </sec>
+      <sec id="article-26246.s8" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>While many medications and treatment strategies have been tried, none have proven effective. One of the very few randomized controlled clinical trials in neuro-ophthalmology was done evaluating whether patients with NAION benefit from optic nerve head decompression via vitrectomy and demonstrated that surgery was not beneficial and potentially harmful.<xref ref-type="bibr" rid="article-26246.r3">[3]</xref>&#x000a0;Intravitreal injections of bevacizumab, as well as triamcinolone, have been tried with disappointing results as well.<xref ref-type="bibr" rid="article-26246.r12">[12]</xref>&#x000a0;Recently, a clinical trial evaluating intravitreal injection of QRK207, a caspase 2 inhibitor preventing apoptosis, in patients with recent (within 14 days from onset) onset of NAION did not demonstrate its efficacy and was stopped early. Currently, the only ongoing clinical trial includes subcutaneous injections of RPh201, an isolated botanical extract of gum mastic, for patients who had an onset of NAION within 1-5 years prior to enrollment.</p>
+      </sec>
+      <sec id="article-26246.s9" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <p>In patients under 50 years of age, the main entity on differential diagnosis is demyelinating optic neuritis and antibody-mediated (Aquaporin-4 and anti-myelin oligodendrocyte glycoprotein antibody) optic neuritis.<xref ref-type="bibr" rid="article-26246.r13">[13]</xref>&#x000a0;Typically, patients with demyelinating optic neuritis have pain on eye movements (present in over 94%), have no peripapillary hemorrhages (present in only 5% of patients with demyelinating optic neuritis), and most importantly, visual function recovers in the vast majority of patients as opposed to patients with NAION where visual acuity and visual field defect remain unchanged.<xref ref-type="bibr" rid="article-26246.r1">[1]</xref>&#x000a0;Patients with myelin oligodendrocyte glycoprotein (MOG)-associated optic neuritis often have swollen optic nerves with hemorrhages on presentation. Still, they also have a good visual prognosis, with the majority recovering visual function as opposed to patients with NAION. All patients should also be asked about their use of amiodarone as well as erectile dysfunction medications, as amiodarone can present with simultaneous or sequential optic neuropathy that resembles NAION but can improve the following discontinuation of the drug. The use of phosphodiesterase inhibitors has been linked with the development of NAION. Still, this association remains unclear, and recommendations on stopping these medications in patients with NAION should be made individually (ie, has the onset of NAION been directly linked with phosphodiesterase inhibitors, the visual status of the patient, etc). In patients over the age of 50, the main entity on the differential diagnosis is giant cell arteritis, and all patients over the age of 60 presenting with a swollen optic nerve should have the inflammatory markers checked in order to rule out this potentially treatable condition. Patients with compressive optic neuropathies can sometimes present with a swollen optic nerve. Still, they typically have a slow onset of visual loss rather than an acute one, as seen in NAION.</p>
+      </sec>
+      <sec id="article-26246.s10" sec-type="Prognosis">
+        <title>Prognosis</title>
+        <p>The natural course of the disease in NAION has been elucidated by the results of the optic nerve decompression treatment trial, which demonstrated that 1/3 of patients re-gain 3 or more lines of vision at 2 years follow-up, 30% lose 3 or more lines at 2 years, and the rest demonstrate unchanged visual acuity.<xref ref-type="bibr" rid="article-26246.r14">[14]</xref> In reality, most patients likely maintain their vision after the resolution of acute optic nerve head edema, and the improvement seen was secondary to their learned ability to fixate around their scotomas.</p>
+      </sec>
+      <sec id="article-26246.s11" sec-type="Complications">
+        <title>Complications</title>
+        <p>Ischemic optic neuropathies lead to atrophy of the optic nerve in&#x000a0;1 or both eyes and can lead to permanent blindness.</p>
+      </sec>
+      <sec id="article-26246.s12" sec-type="Deterrence and Patient Education">
+        <title>Deterrence and Patient Education</title>
+        <p>Several risk factors of anterior ischemic optic neuropathy can be modified. Patients diagnosed with sleep apnea are advised to have a sleep study and start treatment for this condition. Modifications of vascular risk factors should be recommended to all patients. Avoidance of nocturnal hypotension has been suggested by many clinicians to be an important strategy to prevent NAION in the other eye as well. The use of phosphodiesterase inhibitors should also be discussed.</p>
+      </sec>
+      <sec id="article-26246.s13" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>The correct diagnosis and management of ischemic optic neuropathies are essential to ensure that all potential risk factors are modified to decrease the chance of a patient developing this condition in the fellow eye. The possible associations like diabetes, hypertension, and hyperlipidemia,&#x000a0;when present, should be managed&#x000a0;by the interprofessional team, including endocrinologists and general physicians. The team can also include optometrists, neurologists, and ophthalmologists. The nurses participate in patient education and follow-up, informing the ophthalmologist of new issues.</p>
+      </sec>
+      <sec id="article-26246.s14">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=26246&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=26246">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/eye-health/non-arteritic-anterior-ischemic-optic-neuropathy/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=26246">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/26246/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=26246">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-26246.s15">
+        <title>References</title>
+        <ref id="article-26246.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hayreh</surname>
+                <given-names>SS</given-names>
+              </name>
+            </person-group>
+            <article-title>Ischemic optic neuropathy.</article-title>
+            <source>Prog Retin Eye Res</source>
+            <year>2009</year>
+            <month>Jan</month>
+            <volume>28</volume>
+            <issue>1</issue>
+            <fpage>34</fpage>
+            <page-range>34-62</page-range>
+            <pub-id pub-id-type="pmid">19063989</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26246.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Archer</surname>
+                <given-names>EL</given-names>
+              </name>
+              <name>
+                <surname>Pepin</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Obstructive sleep apnea and nonarteritic anterior ischemic optic neuropathy: evidence for an association.</article-title>
+            <source>J Clin Sleep Med</source>
+            <year>2013</year>
+            <month>Jun</month>
+            <day>15</day>
+            <volume>9</volume>
+            <issue>6</issue>
+            <fpage>613</fpage>
+            <page-range>613-8</page-range>
+            <pub-id pub-id-type="pmid">23772197</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26246.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <article-title>Ischemic Optic Neuropathy Decompression Trial: twenty-four-month update.</article-title>
+            <source>Arch Ophthalmol</source>
+            <year>2000</year>
+            <month>Jun</month>
+            <volume>118</volume>
+            <issue>6</issue>
+            <fpage>793</fpage>
+            <page-range>793-8</page-range>
+            <pub-id pub-id-type="pmid">10865316</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26246.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Biousse</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Newman</surname>
+                <given-names>NJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Ischemic Optic Neuropathies.</article-title>
+            <source>N Engl J Med</source>
+            <year>2015</year>
+            <month>Oct</month>
+            <day>22</day>
+            <volume>373</volume>
+            <issue>17</issue>
+            <fpage>1677</fpage>
+            <pub-id pub-id-type="pmid">26488706</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26246.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Biousse</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Newman</surname>
+                <given-names>NJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Ischemic Optic Neuropathies.</article-title>
+            <source>N Engl J Med</source>
+            <year>2015</year>
+            <month>Jun</month>
+            <day>18</day>
+            <volume>372</volume>
+            <issue>25</issue>
+            <fpage>2428</fpage>
+            <page-range>2428-36</page-range>
+            <pub-id pub-id-type="pmid">26083207</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26246.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sharma</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Newman</surname>
+                <given-names>NJ</given-names>
+              </name>
+              <name>
+                <surname>Biousse</surname>
+                <given-names>V</given-names>
+              </name>
+            </person-group>
+            <article-title>New concepts on acute ocular ischemia.</article-title>
+            <source>Curr Opin Neurol</source>
+            <year>2019</year>
+            <month>Feb</month>
+            <volume>32</volume>
+            <issue>1</issue>
+            <fpage>19</fpage>
+            <page-range>19-24</page-range>
+            <pub-id pub-id-type="pmid">30461463</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26246.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hamann</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Malmqvist</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Wegener</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Fard</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Biousse</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Bursztyn</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Citirak</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Costello</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Crum</surname>
+                <given-names>AV</given-names>
+              </name>
+              <name>
+                <surname>Digre</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Fraser</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Huna-Baron</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Katz</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Lawlor</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Newman</surname>
+                <given-names>NJ</given-names>
+              </name>
+              <name>
+                <surname>Peragallo</surname>
+                <given-names>JH</given-names>
+              </name>
+              <name>
+                <surname>Petzold</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Sibony</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Subramanian</surname>
+                <given-names>PS</given-names>
+              </name>
+              <name>
+                <surname>Warner</surname>
+                <given-names>JEA</given-names>
+              </name>
+              <name>
+                <surname>Wong</surname>
+                <given-names>SH</given-names>
+              </name>
+              <name>
+                <surname>Fraser</surname>
+                <given-names>CL</given-names>
+              </name>
+              <collab>Optic Disc Drusen Studies Consortium</collab>
+            </person-group>
+            <article-title>Young Adults With Anterior Ischemic Optic Neuropathy: A Multicenter Optic Disc Drusen Study.</article-title>
+            <source>Am J Ophthalmol</source>
+            <year>2020</year>
+            <month>Sep</month>
+            <volume>217</volume>
+            <fpage>174</fpage>
+            <page-range>174-181</page-range>
+            <pub-id pub-id-type="pmid">32298654</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26246.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kerr</surname>
+                <given-names>NM</given-names>
+              </name>
+              <name>
+                <surname>Chew</surname>
+                <given-names>SS</given-names>
+              </name>
+              <name>
+                <surname>Danesh-Meyer</surname>
+                <given-names>HV</given-names>
+              </name>
+            </person-group>
+            <article-title>Non-arteritic anterior ischaemic optic neuropathy: a review and update.</article-title>
+            <source>J Clin Neurosci</source>
+            <year>2009</year>
+            <month>Aug</month>
+            <volume>16</volume>
+            <issue>8</issue>
+            <fpage>994</fpage>
+            <page-range>994-1000</page-range>
+            <pub-id pub-id-type="pmid">19596112</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26246.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tournaire-Marques</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>[Ischemic optic neuropathies].</article-title>
+            <source>J Fr Ophtalmol</source>
+            <year>2020</year>
+            <month>Jun</month>
+            <volume>43</volume>
+            <issue>6</issue>
+            <fpage>552</fpage>
+            <page-range>552-558</page-range>
+            <pub-id pub-id-type="pmid">32451139</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26246.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Vaphiades</surname>
+                <given-names>MS</given-names>
+              </name>
+              <name>
+                <surname>Al-Sadah</surname>
+                <given-names>ZM</given-names>
+              </name>
+              <name>
+                <surname>Kline</surname>
+                <given-names>LB</given-names>
+              </name>
+            </person-group>
+            <article-title>Nonarteritic Anterior Ischemic Optic Neuropathy: Exceptions to the Rules.</article-title>
+            <source>J Neuroophthalmol</source>
+            <year>2021</year>
+            <month>Jun</month>
+            <day>01</day>
+            <volume>41</volume>
+            <issue>2</issue>
+            <fpage>e139</fpage>
+            <page-range>e139-e141</page-range>
+            <pub-id pub-id-type="pmid">32441900</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26246.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Martins</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Teixeira</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Teixeira</surname>
+                <given-names>FJ</given-names>
+              </name>
+              <name>
+                <surname>Canastro</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Palha</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Fonseca</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Ponte</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Giant cell arteritis with normal inflammatory markers: case report and review of the literature.</article-title>
+            <source>Clin Rheumatol</source>
+            <year>2020</year>
+            <month>Oct</month>
+            <volume>39</volume>
+            <issue>10</issue>
+            <fpage>3115</fpage>
+            <page-range>3115-3125</page-range>
+            <pub-id pub-id-type="pmid">32472460</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26246.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Rootman</surname>
+                <given-names>DB</given-names>
+              </name>
+              <name>
+                <surname>Gill</surname>
+                <given-names>HS</given-names>
+              </name>
+              <name>
+                <surname>Margolin</surname>
+                <given-names>EA</given-names>
+              </name>
+            </person-group>
+            <article-title>Intravitreal bevacizumab for the treatment of nonarteritic anterior ischemic optic neuropathy: a prospective trial.</article-title>
+            <source>Eye (Lond)</source>
+            <year>2013</year>
+            <month>Apr</month>
+            <volume>27</volume>
+            <issue>4</issue>
+            <fpage>538</fpage>
+            <page-range>538-44</page-range>
+            <pub-id pub-id-type="pmid">23370417</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26246.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hayreh</surname>
+                <given-names>SS</given-names>
+              </name>
+            </person-group>
+            <article-title>Ocular vascular occlusive disorders: natural history of visual outcome.</article-title>
+            <source>Prog Retin Eye Res</source>
+            <year>2014</year>
+            <month>Jul</month>
+            <volume>41</volume>
+            <fpage>1</fpage>
+            <page-range>1-25</page-range>
+            <pub-id pub-id-type="pmid">24769221</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-26246.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Newman</surname>
+                <given-names>NJ</given-names>
+              </name>
+            </person-group>
+            <article-title>The ischemic optic neuropathy decompression trial.</article-title>
+            <source>Arch Ophthalmol</source>
+            <year>2007</year>
+            <month>Nov</month>
+            <volume>125</volume>
+            <issue>11</issue>
+            <fpage>1568</fpage>
+            <page-range>1568-70</page-range>
+            <pub-id pub-id-type="pmid">17998521</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

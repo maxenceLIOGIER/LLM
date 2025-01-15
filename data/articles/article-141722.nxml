@@ -1,0 +1,1203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-141722" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Standards and Evaluation of Healthcare Quality, Safety, and Person-Centered Care</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Young</surname>
+            <given-names>Michael</given-names>
+          </name>
+          <aff>Marian University</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Smith</surname>
+            <given-names>Mark A.</given-names>
+          </name>
+          <aff>Jefferson Medical College, Philadelphia, PA</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Michael Young declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Mark Smith declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>13</day>
+          <month>12</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-141722.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>The function of quality management (QM) in general (or of healthcare quality management (HQM) in particular) is to improve quality, as defined herein, through data analysis and the identification of root causes (independent variables) of events.&#x000a0;Healthcare is a service offered to persons who are simultaneously patients in a traditional sense and customers in a modern sense. This article focuses on delivering health services and products in both senses. Although some persons tout American healthcare as having the highest quality, there is much data to indicate, on the contrary, that American HCPs have much room to improve the quality of their services. US national standards are determined by the federal legislature, the federal courts, the President, and the organizations that report to these entities. The article discusses quality regulation, tools for analyzing quality retrospectively and in real-time, and strategies for using interprofessional teams to deliver quality healthcare.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Identify the factors that contribute to healthcare quality.</p></list-item><list-item><p>Determine the&#x000a0;tools used in delivering quality in other industries that healthcare professionals and healthcare managers do not regularly use.</p></list-item><list-item><p>Assess&#x000a0;the bodies that regulate and promote quality.</p></list-item><list-item><p>Communicate&#x000a0;the tools for achieving consensus in healthcare teams.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=141722&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=141722">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-141722.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Healthcare is a service offered to persons who are simultaneously patients in a traditional sense and customers in a modern sense. This&#x000a0;topic focuses on delivering health services and products in both senses. Therefore, when referring to patients who are also always simultaneously customers, the&#x000a0;topic primarily refers to them as "patient-customers." Healthcare providers (HCPs) should retain this concept while reading this&#x000a0;topic and delivering healthcare.</p>
+        <p>Delivering quality services and goods to consumers is a field of study, and this&#x000a0;topic serves only as an overview. The history of quality delivery in healthcare can be traced to the earliest texts&#x000a0;concerning physician ethical obligations, which are reviewed&#x000a0;elsewhere.<xref ref-type="bibr" rid="article-141722.r1">[1]</xref><xref ref-type="bibr" rid="article-141722.r2">[2]</xref>&#x000a0;</p>
+        <p>In the modern&#x000a0;sense&#x000a0;of&#x000a0;evidence-based medicine,&#x000a0;objectively measuring&#x000a0;and tracking&#x000a0;data to determine whether quality has been delivered or how to improve quality, Ernest Codman (1869-1940) may be the most notable American pioneer. Codman, a surgeon&#x000a0;who&#x000a0;began practicing&#x000a0;medicine&#x000a0;in&#x000a0;1895, advocated for record-keeping, enabling&#x000a0;retrospective analysis of how processes affected outcomes. He also advocated for practice standardization and helped lead the founding of the American College of Surgeons&#x000a0;(ACS) and its Hospital Standardization Program, which&#x000a0;became the Joint Commission on Accreditation of Healthcare Organizations. Codman, like Ignaz Semelweiss, the pioneer of antisepsis in hospitals, is a historical example of a physician being rejected by other physicians for&#x000a0;insisting&#x000a0;that the status quo was detrimental to patients. He resigned from the Massachusetts&#x000a0;General Hospital due to his colleagues' rejection of his quality measures and continued to practice and advocate for quality measures elsewhere.<xref ref-type="bibr" rid="article-141722.r3">[3]</xref>&#x000a0;</p>
+        <p>The deliberate study, quantification, and practical application of data to achieve quality in business originated outside of healthcare. While working in telecommunications engineering, Walter Shewart (1891-1967) pioneered modern statistical process control (SPC). Edwards Deming (1900-1993), a physicist by training who became a business&#x000a0;consultant and&#x000a0;a&#x000a0;professor of&#x000a0;statistics and&#x000a0;business,&#x000a0;expanded Shewart's work and has been called the originator of quality management.<xref ref-type="bibr" rid="article-141722.r4">[4]</xref> Deming is best known for influencing automobile manufacturing quality control, but healthcare professionals adopted his ideas.<xref ref-type="bibr" rid="article-141722.r5">[5]</xref>&#x000a0;Quality control measures in modern healthcare often have some relationship to the work of&#x000a0;1 or more of these&#x000a0;3 individuals.</p>
+      </sec>
+      <sec id="article-141722.s3" sec-type="Function">
+        <title>Function</title>
+        <p>The function of quality management (QM) in general (or of healthcare quality management (HQM) in particular) is to improve quality, as defined below, through data analysis and the identification of root causes (independent variables) of events. QM&#x000a0;is&#x000a0;a simpler&#x000a0;and historically&#x000a0;earlier version of the scientific method (SM). QM shares with the SM the goal of&#x000a0;increasing objectivity and reducing subjectivity in decision-making. Both QM and the SM involve:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Defining&#x000a0;a&#x000a0;problem&#x000a0;or&#x000a0;issue&#x000a0;of&#x000a0;interest,&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Quantifying&#x000a0;1 or&#x000a0;more&#x000a0;independent&#x000a0;variables&#x000a0;exposed&#x000a0;to&#x000a0;a process&#x000a0;or&#x000a0;event,&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Analyzing&#x000a0;how&#x000a0;outcomes&#x000a0;differed&#x000a0;after&#x000a0;exposure and&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Concluding&#x000a0;what&#x000a0;the&#x000a0;measurements&#x000a0;mean.&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>These steps can be referred to as a quality process cycle. Different persons divide the cycle into different numbers of steps, such as Plan Do Study Act (PDSA) or&#x000a0;Define Measure&#x000a0;Analyze Improve Control (DMAIC). Although persons performing QM can perform experiments that eliminate bias and confounding variables like scientists do to achieve level 1 evidence, QM analyses fall below level 1 evidence. They do not attempt to eliminate all possible forms of bias and&#x000a0;confounders. The goal of QM is usually to determine which of&#x000a0;2 processes is better&#x000a0;or when a process should be altered to reach an objective, not to quantify precisely&#x000a0;how much better&#x000a0;1 process is compared to another or how precisely&#x000a0;a relationship&#x000a0;exists between&#x000a0;an independent variable and a dependent variable. Whereas the SM emphasizes attempting to disprove a null hypothesis, identifying/eliminating data collection biases, and quantifying the degree of mathematical certainty for a finding, QM uses simpler ways to modify a process to achieve a more desirable outcome.&#x000a0;</p>
+        <p>QM emphasizes process monitoring and control. According to Deming, quality managers should evaluate every part of a process that can result in delays and inconsistencies between&#x000a0;individuals and between systems.&#x000a0;In addition to using lists of processes, quality managers use lists of priorities. The list of Taiiichi Ohno, who is credited with the development of the Toyota Production System and Lean manufacturing, had&#x000a0;3 items to eliminate:</p>
+        <list list-type="order">
+          <list-item>
+            <p><italic toggle="yes">Muda</italic>&#x000a0;(futility)</p>
+          </list-item>
+          <list-item>
+            <p><italic toggle="yes">Mura</italic>&#x000a0;(inconsistency),&#x000a0;and&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p><italic toggle="yes">Muri</italic>&#x000a0;(overburdening).</p>
+          </list-item>
+        </list>
+        <p>Managers&#x000a0;may&#x000a0;not&#x000a0;implement&#x000a0;QM&#x000a0;because of the following restrictions:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>They cannot obtain&#x000a0;data&#x000a0;(ie,&#x000a0;measure&#x000a0;structures,&#x000a0;processes,&#x000a0;or&#x000a0;outcomes).&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>They cannot design&#x000a0;an&#x000a0;experiment&#x000a0;to&#x000a0;show&#x000a0;whether&#x000a0;a new&#x000a0;process&#x000a0;is&#x000a0;superior&#x000a0;to a&#x000a0;current&#x000a0;process.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>They are not able to quantify&#x000a0;statistical&#x000a0;confidence&#x000a0;in&#x000a0;differences&#x000a0;between&#x000a0;groups.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>They cannot perform plan-do-study-act (PDSA) cycles in the time allotted for their&#x000a0;workdays&#x000a0;while performing requirements assigned to them by their superiors and do not want to hire someone who&#x000a0;can.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>They are overly tasked with "putting out" instead of "preventing" fires (they are distracted by their daily routines and issues and do not focus on larger or longer-term objectives).</p>
+          </list-item>
+          <list-item>
+            <p>They work&#x000a0;for&#x000a0;superiors&#x000a0;who&#x000a0;do&#x000a0;not&#x000a0;see&#x000a0;a&#x000a0;benefit adequate to&#x000a0;the&#x000a0;costs of performing&#x000a0;PDSA&#x000a0;cycles.</p>
+          </list-item>
+          <list-item>
+            <p>They are not concerned with how well things could be performed and instead think, "If it ain't broke, don't fix it," or are concerned only that a bottom line is met somehow (the ends justify the means).</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-141722.s4" sec-type="Issues of Concern">
+        <title>Issues of Concern</title>
+        <p>
+<bold>Defining Quality</bold>
+</p>
+        <p>Deming defined quality in business as the delivery of a predictable, uniform standard in services or goods with the standard both suited to and defined by the customer. Although the concept of quality specifies consistency, processes must also adapt to retain quality based on developments in knowledge and external factors. Such factors include new customer demands, the discovery of better practices developed elsewhere, or new rules from regulatory bodies. Deming considered quality to involve minimizing costs, but he viewed cost control as an end of other quality management means, not as a means primarily unto itself.&#x000a0;</p>
+        <p>Quality can be defined using the following equation:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Quality = process outcomes x customer satisfaction, where process outcomes are hard data, and customer satisfaction is based on perceptual data</p>
+          </list-item>
+        </list>
+        <p>Philosophically and linguistically, it can be argued that cost is irrelevant to quality.</p>
+        <p>Value, in equation form, can be defined as:&#x000a0;</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Value = quality/costs&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>In other words:&#x000a0;</p>
+        <p>Healthcare quality&#x000a0;includes&#x000a0;all factors contributing to patients' healthcare status and their acceptance of the care received. This includes hard, factual outcomes, such as mortality and morbidity complications, and soft outcomes, such as patient experience. Patients evaluate quality and value based on what they perceive, whether that&#x000a0;perception is accurate or inaccurate. Perceived quality depends on the patient's observations about what input (effort) the HCP makes, what the actual output (outcome) of the care is, and how much (time, money, and effort) they sacrificed to obtain it.</p>
+        <p>To maximize value, healthcare managers (HCMs) must find ways to increase positive hard outcomes and softer perceptual measures while decreasing overall costs (see <bold>Graph.</bold> Average Costs to a Managed Care Organization). Hard and soft quality measures can be studied concerning certain 'domains' (including effectiveness, efficiency,&#x000a0;timeliness,&#x000a0;safety,&#x000a0;equity,&#x000a0;and&#x000a0;customer-centeredness) or via other models (such as the&#x000a0;1 based on the work of Avedis Donabedian, discussed below).<xref ref-type="bibr" rid="article-141722.r6">[6]</xref>&#x000a0;</p>
+        <p>
+<bold>Evaluating Healthcare Quality</bold>
+</p>
+        <p>Although some tout American healthcare as having the highest quality, there is much data to indicate that American HCPs have much room to&#x000a0;improve&#x000a0;the&#x000a0;quality&#x000a0;of&#x000a0;their&#x000a0;services.&#x000a0;</p>
+        <p>The Commonwealth Fund, which freely reports its data analysis on its website, published its most recent study of eleven first-world countries' healthcare metrics in 2017. The United States placed first in preventing inpatient death after a stroke, tied for first in 5-year breast cancer survival, third in preventing inpatient death after a heart attack, and tied for third in 5-year colon cancer survival. However, the US placed last in health care outcomes (quality) regarding:</p>
+        <list list-type="order">
+          <list-item>
+            <p>All the other disease-specific&#x000a0;outcomes it measured</p>
+          </list-item>
+          <list-item>
+            <p>All-cause death is amenable to healthcare intervention and</p>
+          </list-item>
+          <list-item>
+            <p>Every measure of population health.</p>
+          </list-item>
+        </list>
+        <p>Thus, unless a person bases their assessment&#x000a0;on healthcare outcomes for several isolated disease processes, they should&#x000a0;conclude&#x000a0;that Americans&#x000a0;do&#x000a0;not&#x000a0;come close&#x000a0;to&#x000a0;having the&#x000a0;highest healthcare quality in&#x000a0;the&#x000a0;world.&#x000a0;</p>
+        <p>The American public has approved a healthcare system that incentivizes new, often unproven technology, defensive medicine, and restricting healthcare for people under age 65 to employment-related options. Given that this system costs Americans more per citizen by far than systems elsewhere cost citizens of any other first-world country, the value of US healthcare likely does not rank among the top&#x000a0;fifty countries in the world.</p>
+        <p>In&#x000a0;the&#x000a0;1960s, following&#x000a0;Deming's&#x000a0;and Codman's&#x000a0;lead,&#x000a0;Avedis&#x000a0;Donabedian&#x000a0;began&#x000a0;advocating&#x000a0;that healthcare quality managers (HQMs) should quantify healthcare&#x000a0;processes&#x000a0;and measure healthcare structures and outcomes.<xref ref-type="bibr" rid="article-141722.r4">[4]</xref> In other words, Donabedian argued that HQMs should measure behaviors and the completion of tasks (such as the rate of HCP compliance in completing checklists and the time HCPs spend performing specific tasks) in addition to tracking infrastructure items (such as computers available by the bedside and syringes used in a procedure) and patient disease state outcomes (such as morbidity and mortality). He wrote:</p>
+        <p>Most quality studies suffer&#x000a0;from&#x000a0;having&#x000a0;adopted&#x000a0;too&#x000a0;narrow&#x000a0;a&#x000a0;definition&#x000a0;of&#x000a0;quality. They generally concern themselves with the technical management of illness and pay&#x000a0;little attention to prevention, rehabilitation,&#x000a0;coordination, and continuity of care or&#x000a0;handling&#x000a0;the&#x000a0;patient-physician&#x000a0;relationship.&#x000a0;</p>
+        <p>In doing so, Donabedian called for HCPs and HQMs to investigate&#x000a0;numerous healthcare delivery processes besides HCP technical proficiency to determine where process changes could improve quality. Since Donabedian's writing, the assessment of healthcare quality has often been separated into&#x000a0;3 primary buckets:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Structure: resources required to supply healthcare, including human and inanimate physical resources</p>
+          </list-item>
+          <list-item>
+            <p>Process: methods, behaviors, and strategies</p>
+          </list-item>
+          <list-item>
+            <p>Outcome: measurable results, which are more of a gold standard barometer than structure or process (see the definition of quality above).</p>
+          </list-item>
+        </list>
+        <p>In general, structure measurements&#x000a0;evaluate the baseline resource commitments that determine&#x000a0;whether or not a healthcare entity should be delivering care in the first place. Process measurements are often binary (yes/no) measures based on national standards, and outcome measures are usually evaluated as rates.</p>
+        <p>Care for acute myocardial infarction (AMI) patients is discussed as an example: Structural measurements include how well an emergency department is staffed with HCPs who are acquainted with the diagnosis and initial management of AMI and how well a catheterization laboratory is staffed with HCPs and equipment capable of providing diagnostic and interventional services. Process factors include the behaviors that enable the patient to quickly be sent for coronary artery catheterization, which can be measured in sum as the door-to-wire (patient arriving at the institution to cardiologist crossing the patient's coronary artery lesion with a wire)&#x000a0;time or can be measured in smaller divisions of the overall process. A standard for door-to-wire time in the United States has been suggested as 90 minutes or less.<xref ref-type="bibr" rid="article-141722.r7">[7]</xref>&#x000a0;</p>
+        <p>Outcomes, the actual results of care, can be measured as the success rate of opening acute coronary occlusions, the average improvement of&#x000a0;cardiac function measured by cardiac&#x000a0;output, or the 24-hour death rate (the number of patients with AMIs who die within 24 hours divided by the&#x000a0;total number of AMI patients treated).</p>
+        <p>Many healthcare organizations (HCOs) have heeded Donabedian's call, such as&#x000a0;the Commonwealth Fund, the Leapfrog Group, and the National Institute of Standards and Technology. Persons in the US government monitor reports from these groups concerning their data. In the 20th and (primarily) 21st centuries, in response to the data and observation that American healthcare quality lags in many other countries, federal and other institutions began regulating certain facets of healthcare quality delivery.</p>
+        <p>
+<bold>Obligating Quality From Healthcare Providers</bold>
+</p>
+        <p>Obligations to provide quality (and value) to patient-customers derive from a hierarchy of standards, listed in subjective order of binding authority:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Legal&#x000a0;standards&#x000a0;for&#x000a0;healthcare&#x000a0;services&#x000a0;and&#x000a0;billing include statutes&#x000a0;passed&#x000a0;by&#x000a0;legislatures, executive orders declared by the President and governors, and&#x000a0;common&#x000a0;laws&#x000a0;issued&#x000a0;by&#x000a0;judges.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>National medical organization standards for healthcare services include medical societies and organizations that monitor healthcare facilities, such as TJC.</p>
+          </list-item>
+          <list-item>
+            <p>Local&#x000a0;(eg,&#x000a0;hospital-level)&#x000a0;policy&#x000a0;standards&#x000a0;for&#x000a0;healthcare&#x000a0;services&#x000a0;and&#x000a0;billing</p>
+          </list-item>
+          <list-item>
+            <p>Other ethical norms (eg, heuristics for ethical decision-making, such as those proposed by Beauchamp and Childress or Jonsen, Siegler, and Winslade).<xref ref-type="bibr" rid="article-141722.r1">[1]</xref></p>
+          </list-item>
+        </list>
+        <p>
+<bold>Healthcare Quality Standards&#x000a0;</bold>
+</p>
+        <p>National standards in the US are determined by the federal legislature, the federal courts, the President, and the organizations that report to these entities (primarily the President).&#x000a0;</p>
+        <p>Since 1953, the US Department of Health and Human Services (DHHS) has been led by an official who reports directly to the President as a Cabinet member. The DHHS is the executive branch department responsible for the portion of American healthcare that is federally controlled (much of American healthcare is not federally regulated). The DHHS consists of numerous appointed officers (such as the surgeon general) and eleven operating divisions, which include the Food and Drug Administration (FDA), the Centers for Disease Control (CDC), the Centers for Medicare &#x00026; Medicaid Services (CMS), and the Agency for Healthcare Research and Quality (AHRQ). The AHRQ, which also interacts with the US Congress, oversees a network of Patient Safety Organizations (PSOs) and the Network of Patient Safety Databases (NPSD). It funds the United States Preventive Services Task Force (USPSTF), created in 1984. It recommends that screening exams improve healthcare quality enough for the US government to pay for them or demand that private insurance companies pay for them. HCPs can submit information about individual patient adverse outcomes and rates to PSOs, which return to HCPs feedback on preventing future patient safety events.&#x000a0;</p>
+        <p>The US Congress creates healthcare laws under the leadership of the Health, Education, Labor, and Pensions Committee in the Senate and the Ways and Means Committee in the House of Representatives. Congress usually creates laws intended to improve healthcare quality in response to reports by other organizations (discussed further below).</p>
+        <p>The US federal court system has made several decisions that have established national healthcare law, such as legalizing abortion in the first trimester of pregnancy, legalizing the withdrawal of life-sustaining care, and legalizing physician-assisted suicide if previously legalized by state statute. Its standard for evaluating healthcare quality is the language of pre-existing federal law. Of the&#x000a0;3 branches of government, the federal court system has the least impact on&#x000a0;creating healthcare quality on the concepts of quality promoted by Shewhart, Deming, and Donabedian.</p>
+        <p>The US executive and legislative branches interact with multiple independent, non-profit organizations when making policies on healthcare standards. Two examples of such organizations are the National Committee for Quality Assurance (NCQA) and the National Quality Forum (NQF).&#x000a0;</p>
+        <p>The NCQA was founded by Margaret O'Kane in 1990 to publish evidence-based quality standards. It has since become the primary voluntary quality accreditation program for individual physicians, health plans, medical groups, and healthcare software companies. Its primary contributions include maintaining the Healthcare Effectiveness Data and Information Set (HEDIS) and the Consumer Assessment of Healthcare Providers Systems (CAHPS) survey.&#x000a0;Health&#x000a0;insurance&#x000a0;plans&#x000a0;achieve&#x000a0;accreditation status by meeting the HEDIS criteria. The NCQA&#x000a0;and&#x000a0;AHRQ&#x000a0;later developed other CAHPS surveys for doctors, nursing homes, long-term care,&#x000a0;home health, and dialysis centers.</p>
+        <p>In partnership with the Hospital Quality Alliance, CMS began using a hospital rating and reporting system&#x000a0;(HCAHPS, sometimes called Hospital Compare) in 2002. The CAHPS surveys are used by health insurance plans, including CMS' Medicare plan, the largest American health insurance plan, to obtain patients' feedback about services they have received. Insurance plans can financially penalize HCOs that have poor feedback. Scores from some CAHPS surveys are publicly available for consumers to use when selecting&#x000a0;1 HCO or HCP over another.</p>
+        <p>The National Quality Forum (NQF) is a non-profit membership organization established in 1999. It comprises over 400 for-profit and non-profit organizations collecting data and endorsing healthcare standards. That is to say, the NQF does not generally create its statements on standards but endorses standards set by other entities that then 'increase in legitimacy' as a national standard. Membership organizations include consumers, health plans, medical professionals, employers, government, public health, pharmaceutical, and medical device organizations.</p>
+        <p><bold>Regulation&#x000a0;of Quality&#x000a0;in Hospitals&#x000a0;and Other Healthcare Organizations&#x000a0;(HCOs)</bold>&#x000a0;</p>
+        <p>HCOs must undergo periodic reviews and submit data to demonstrate that their HCPs are meeting quality standards to bill federal and state health insurance programs for services. Federal agents can "deem" HCOs to have met quality standards via direct investigation. However, federal and state governments more commonly allow independent agencies that set quality standards (such as Det Norsk Veritas (DNV), the Healthcare Facilities Accreditation Program (HFAP), and The Joint Commission (TJC)), to act on their behalf to create and oversee HCO quality of care standards.</p>
+        <p>Given the complexity of this topic, it focuses on TJC standards and does not discuss the nuances of non-uniformity in the standards created by TJC, other independent accrediting bodies, and the federal government. TJC publishes standards for HCPs in its Patient Safety System guidelines, which were last updated in January 2018. The standards are divided into&#x000a0;4 sections; all sections are titled "LD" (for leadership), followed by .01, .02, .03, or .04, and then followed by an additional set of numbers, such as LD.01.01.01. TJC says that each accredited HCO must:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Have&#x000a0;its&#x000a0;leaders&#x000a0;create&#x000a0;and&#x000a0;maintain&#x000a0;a&#x000a0;culture&#x000a0;of&#x000a0;safety&#x000a0;and&#x000a0;quality&#x000a0;throughout&#x000a0;the&#x000a0;organization.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Be&#x000a0;a&#x000a0;learning&#x000a0;organization&#x000a0;(an&#x000a0;organization&#x000a0;that&#x000a0;requires&#x000a0;its&#x000a0;personnel&#x000a0;to&#x000a0;learn&#x000a0;continuously.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Encourage&#x000a0;blame-free&#x000a0;reporting&#x000a0;of&#x000a0;system&#x000a0;and&#x000a0;process&#x000a0;failures&#x000a0;and&#x000a0;encourage&#x000a0;proactive&#x000a0;risk&#x000a0;assessments&#x000a0;by&#x000a0;HQMs.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Report&#x000a0;certain&#x000a0;adverse&#x000a0;events,&#x000a0;close&#x000a0;calls,&#x000a0;and&#x000a0;hazardous&#x000a0;conditions&#x000a0;to&#x000a0;TJC.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Have&#x000a0;an&#x000a0;organization-wide&#x000a0;patient&#x000a0;safety&#x000a0;program&#x000a0;that&#x000a0;includes&#x000a0;performance&#x000a0;improvement&#x000a0;activities.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Collect&#x000a0;data&#x000a0;to&#x000a0;monitor&#x000a0;quality&#x000a0;performance.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Hold&#x000a0;persons&#x000a0;accountable&#x000a0;for&#x000a0;their&#x000a0;responsibilities.&#x000a0;On&#x000a0;this&#x000a0;point,&#x000a0;TJC&#x000a0;states:&#x000a0;"&#x02026; a fair and just culture holds individuals accountable for their actions but does not punish individuals for issues attributed to flawed systems or processes."</p>
+          </list-item>
+        </list>
+        <p>Ironically, TJC does not hold itself accountable in many regards; it enables the HCOs that it accredits leeway in interpreting TJC standards, such that&#x000a0;1 TJC-accredited HCO may interpret a standard differently than another, and the&#x000a0;2 HCOs may use different standards. Furthermore, suppose a patient or a physician has a complaint regarding a TJC-accredited institution. In that case, TJC may refuse to do anything about the complaint if the TJC-accredited institution has made a minimum effort to adopt any standard. More than 20% of US hospitals do not report to TJC (ie, do not follow its standards), which charges a fee for HCOs to become accredited and either remain unaccredited or choose accreditation from a competing organization.</p>
+        <p>
+<bold>Regulation and Setting of Quality Standards</bold>
+</p>
+        <p>Individual state medical boards and court systems uphold standards for HCPs, with medical boards primarily enforcing HCP ethics standards and courts judging issues of HCP negligence in adherence to state laws.</p>
+        <p>Most healthcare practice standards are not established through the regulatory processes described above but are determined&#x000a0;by guidelines from national&#x000a0;medical specialty organizations. There is much overlap in this process. For example, organizations that publish standards for HCPs who&#x000a0;practice vascular&#x000a0;medicine in the United States include&#x000a0;the following:&#x000a0;</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Society&#x000a0;for&#x000a0;Vascular&#x000a0;Surgery&#x000a0;(SVS)&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>American&#x000a0;Venous&#x000a0;Forum&#x000a0;(the&#x000a0;latter&#x000a0;2 organizations&#x000a0;work&#x000a0;in&#x000a0;conjunction&#x000a0;with&#x000a0;the&#x000a0;American&#x000a0;College&#x000a0;of&#x000a0;Surgeons&#x000a0;(ACS))&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Society&#x000a0;of&#x000a0;Interventional&#x000a0;Radiology&#x000a0;(an&#x000a0;organization&#x000a0;that&#x000a0;coordinates with&#x000a0;the&#x000a0;American&#x000a0;College&#x000a0;of&#x000a0;Radiology)&#x000a0; &#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>American&#x000a0;College&#x000a0;of&#x000a0;Cardiology&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>These organizations sometimes interact to set quality guidelines. The organizations may agree or disagree regarding what a standard should be; some&#x000a0;facets of vascular medicine quality may be addressed by only&#x000a0;1 of these&#x000a0;organizations.&#x000a0;</p>
+        <p>While not 'regulation' per se, the federal government and private insurance companies incentivize HCPs to meet quality measures through pay-for-performance (P4P) programs that reduce the pay of HCPs who do not meet certain quality thresholds. The Centers for Medicare and Medicaid Services (CMS) current iteration of P4P is the Quality Payment Program (QPP). Most HCPs&#x000a0;who bill CMS for services rendered receive payment tied to meeting criteria in the QPP's Merit-based Incentive Payment System (MIPS), which is&#x000a0;1 of&#x000a0;2 payment programs through the QPP. MIPS redistributes payments from HCPs who do not meet the criteria to HCPs who do meet the criteria, which are extensive and are listed at: https://qpp.cms.gov/mips/quality-requirements. These requirements involve many types of structures, processes, and outcomes. Over time, CMS has provided HCPs more flexibility in meeting quality measures while increasing the overall requirements. Since&#x000a0;CMS started HCP P4P in 2006, it&#x000a0;has increased the&#x000a0;percentage of the revenue tied&#x000a0;to&#x000a0;P4P criteria that HCPs earn from treating Medicare patients to&#x000a0;as high as 10%. This value is likely to continue to increase. CMS and private insurance companies also reimburse hospitals and other healthcare facilities using measures related to quality (P4P).</p>
+        <p>
+<bold>Healthcare Quality Management&#x000a0;(HQM)&#x000a0;and Healthcare Quality Managers&#x000a0;(HQMs) Standards</bold>
+</p>
+        <p>Authority for determining standards in HQM per se is even less established and more&#x000a0;fragmented&#x000a0;than&#x000a0;in determining&#x000a0;standards&#x000a0;in&#x000a0;medical ethics&#x000a0;and&#x000a0;medical and&#x000a0;surgical care practices per se.&#x000a0;HCPs with training in HQM comprise a tiny fraction of HCPs overall, including the HCPs who establish standards of care guidelines in the national societies listed above. Several quality management organizations that directly impact American HQM are listed below.</p>
+        <p>The&#x000a0;Institute&#x000a0;for&#x000a0;Healthcare&#x000a0;Improvement&#x000a0;(IHI)&#x000a0;is an independent non-profit organization&#x000a0;(and PSO) started in 1991 by Donald Berwick, a pediatrician and lead CMS&#x000a0;administrator under President Barack Obama. The IHI is primarily an educational and advocacy organization; it published its Framework for Clinical Excellence in 2017.</p>
+        <p>The National Association for Healthcare Quality (NAHQ) is an independent non-profit organization established in 1976. It is the only organization offering a national certification for HQM professionals and is accredited (by the Institute for Credentialing Excellence).</p>
+        <p>The American Health Quality Association (AHQA) is a non-profit organization established in 1984 that advocates for HQM standards and encourages participation from third-party healthcare organizations. However, it does not publish standards or guidelines.</p>
+        <p>The American National Standards Institute (ANSI) is an independent non-profit membership organization established in 1918 that primarily endorses quality standards in technology, including health information technology. It formally serves as an American International Standards Organization (ISO) member. This independent non-profit organization publishes standards for technology-centered businesses headquartered in Geneva, Switzerland. The ISO advocates for quality improvement using:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Process-focused&#x000a0;approaches,&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Customer-focused&#x000a0;outcomes,&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Coordination&#x000a0;and&#x000a0;engagement&#x000a0;of&#x000a0;involved&#x000a0;persons/parties,&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Data-collection,&#x000a0;and</p>
+          </list-item>
+          <list-item>
+            <p>Evidence-based decision-making.<xref ref-type="bibr" rid="article-141722.r8">[8]</xref></p>
+          </list-item>
+        </list>
+        <p>In summary, healthcare quality regulation is fragmented between government agencies, agencies established to determine quality standards for HCPs themselves, agencies established to determine quality standards for HQMs themselves, and other agencies with their own agendas in healthcare quality.&#x000a0;</p>
+        <p>Having&#x000a0;discussed setting quality&#x000a0;standards&#x000a0;by organizations with a nationwide reach,&#x000a0;attention&#x000a0;has&#x000a0;now&#x000a0;turned&#x000a0;to creating&#x000a0;and&#x000a0;analyzing&#x000a0;healthcare&#x000a0;quality.&#x000a0;</p>
+        <p>
+<bold>Terms In Quality Delivery</bold>
+</p>
+        <p>The field of quality management (QM) has its terminology, some of which derives from Japan, where Deming and others practiced QM to enable Japanese companies to start manufacturing goods and services, such as cars and electronic devices, with higher quality than those produced in the United States after World War II.&#x000a0;Because QM is a branch of applied statistics and research, many concepts and terms derive from those fields, eg:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Continuous&#x000a0;(also&#x000a0;known&#x000a0;as&#x000a0;variables or&#x000a0;quantitative)&#x000a0;data&#x000a0;vs.&#x000a0;categorical&#x000a0;(also&#x000a0;known&#x000a0;as&#x000a0;attributes or&#x000a0;qualitative)&#x000a0;data&#x000a0;types&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Gaussian&#x000a0;data&#x000a0;distribution&#x000a0;vs. Poisson,&#x000a0;polynomial, or skewed data&#x000a0;distributions&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Relative&#x000a0;risk,&#x000a0;effect&#x000a0;size.&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>Adroitness in the practice of QM requires a grasp of statistics, which are not discussed here. Instead, quality management terms&#x000a0;are introduced. The reader is advised to consult more comprehensive texts on quality management and statistics for more details on terminology and applications within the field.&#x000a0;</p>
+        <p>
+<bold>Retrospectively Analyzing Causes (Independent Variable)</bold>
+</p>
+        <p>Persons performing QM spend a lot of effort analyzing all the steps in a process and looking for <italic toggle="yes">kaizen</italic> (opportunities for improvement). In performing this task, they often create lists and charts, many types of which are briefly explained below.</p>
+        <p>Suppler-input-process-output customer&#x000a0;(SIPOC,&#x000a0;also&#x000a0;known&#x000a0;as&#x000a0;COPIS)&#x000a0;charts&#x000a0;divide a process into&#x000a0;5 components that must be considered when&#x000a0;determining&#x000a0;how to improve&#x000a0;the&#x000a0;process&#x000a0;to&#x000a0;achieve quality&#x000a0;in&#x000a0;the&#x000a0;customer's eyes.&#x000a0;</p>
+        <p>Gap analysis is the process of identifying where specific barriers in a process can be removed. It explores the details of why present outcomes differ from desired outcomes. During gap analyses, people often communicate using a flow chart.&#x000a0;</p>
+        <p>Flow charts illustrate how individual processes affect a larger overall process. Flow charts can aid a subjective evaluation of which individual processes can or should be improved to prevent errors and variation in outcomes or should be eliminated to reduce waste. A fishbone diagram, also called an Ishikawa diagram, is a flow chart designed to facilitate the analysis of causes and effects. Instead of organizing a complicated process linearly where each factor or process leads to another that leads to another, individual contributing factors are grouped into larger categories.&#x000a0;</p>
+        <p>Aristotle provided an example of classifying causes in this method in his books Metaphysics and Physics by defining 4&#x000a0;causes of any&#x000a0;1 thing:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Efficient&#x000a0;cause&#x000a0;(its&#x000a0;maker)&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Final&#x000a0;cause&#x000a0;(its&#x000a0;teleological&#x000a0;purpose)</p>
+          </list-item>
+          <list-item>
+            <p>Formal&#x000a0;cause&#x000a0;(its&#x000a0;design)</p>
+          </list-item>
+          <list-item>
+            <p>Material&#x000a0;cause&#x000a0;(its&#x000a0;substance)</p>
+          </list-item>
+        </list>
+        <p>Modern attempts at classifying causes include such alliterations as 'patron/patient, people at work, provisions, place, and procedures' and 'methods, men, machines, and materials.' HQMs and HCPs often use fishbone diagrams when discussing causes of adverse patient outcomes during root cause analyses (described below).</p>
+        <p>The causes of problems can be anticipated or reacted to; different QM techniques, such as failure modes effects analysis (FMEA) and root cause analysis (RCA), are available for anticipation or reaction.&#x000a0;</p>
+        <p>FMEA&#x000a0;is&#x000a0;a&#x000a0;method&#x000a0;to&#x000a0;design&#x000a0;or&#x000a0;redesign&#x000a0;a&#x000a0;process&#x000a0;in&#x000a0;anticipation&#x000a0;of&#x000a0;problems.&#x000a0;Quality&#x000a0;management:&#x000a0;</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Lays&#x000a0;out&#x000a0;a&#x000a0;complex&#x000a0;process&#x000a0;as&#x000a0;a&#x000a0;flow&#x000a0;chart&#x000a0;or&#x000a0;as&#x000a0;a&#x000a0;table&#x000a0;broken&#x000a0;into individual&#x000a0;sub-processes&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Defines&#x000a0;how&#x000a0;frequently each&#x000a0;sub-process&#x000a0;tends&#x000a0;to&#x000a0;be&#x000a0;problematic&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Elucidates&#x000a0;the&#x000a0;various&#x000a0;manners&#x000a0;by&#x000a0;which&#x000a0;the&#x000a0;sub-processes&#x000a0;can&#x000a0;fail and&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Assesses&#x000a0;how&#x000a0;easily&#x000a0;a&#x000a0;minor&#x000a0;problem&#x000a0;in&#x000a0;a&#x000a0;process&#x000a0;can&#x000a0;be&#x000a0;detected&#x000a0;before&#x000a0;it&#x000a0;results&#x000a0;in&#x000a0;a&#x000a0;serious&#x000a0;adverse&#x000a0;outcome.&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>To improve the overall process and outcome, the sub-processes that fail often, are easy to fix, and are difficult to detect before resulting in a catastrophe should be prioritized for correction.&#x000a0;</p>
+        <p>Root&#x000a0;Cause&#x000a0;Analysis&#x000a0;and&#x000a0;Action&#x000a0;(RCA2,&#x000a0;or&#x000a0;just&#x000a0;RCA)&#x000a0;works&#x000a0;backward&#x000a0;from&#x000a0;an&#x000a0;outcome&#x000a0;(usually an unwanted&#x000a0;outcome,&#x000a0;but&#x000a0;the outcome&#x000a0;could be the desired outcome) to its "root" causes, stopping short of reaching the&#x000a0;unmoved mover postulated by Aristotle in the&#x000a0;<italic toggle="yes">Metaphysics</italic>. RCAs at HCOs are usually&#x000a0;held as meetings involving&#x000a0;all persons identified as having a role in processes that led to the outcome. The primary function of an RCA is to identify gaps between the expected process/outcome/structure and the actual process/outcome/structure. RCA can be facilitated using Ohno and Sakichi Toyoda's 5 Why's Technique and James Reason's Swiss cheese model.<xref ref-type="bibr" rid="article-141722.r9">[9]</xref>&#x000a0;In 2015, the National Patient Safety Foundation (which merged with the IHI in 2017) published its opinion on when and how RCA should be performed in the medical setting. CMS published instructions on its website for HCPs on performing RCAs. TJC requires accredited HCOs to perform RCAs whenever&#x000a0;1 of&#x000a0;24 adverse events (called sentinel events) occurs.&#x000a0;</p>
+        <p>The techniques discussed thus far do not require the use of data, but data can improve objectivity in analysis. HQMs can increase data capture for actions not captured automatically by electronic health records (EHRs) by having HCPs document processes they are involved with using checksheets or checklists (which can be converted into checksheets and uploaded into the EHR as needed).&#x000a0;</p>
+        <p>The Oxford Centre categorizes the quality of evidence based on the quality of data collection and analysis for Evidence-Based Medicine (OCEBM) and the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) levels of evidence. OCEBM lists&#x000a0;5 levels, whereas GRADE lists&#x000a0;4 levels. Level 1 evidence is a randomized controlled trial or meta-analysis of randomized controlled trials.&#x000a0;GRADE emphasizes that&#x000a0;data evaluation based on&#x000a0;meta-analyses may be no better than&#x000a0;analysis of isolated studies. Unlike OCEBM, GRADE also&#x000a0;does&#x000a0;not consider&#x000a0;experts' opinions to qualify as&#x000a0;a level of&#x000a0;evidence.&#x000a0;</p>
+        <p>Although QMs should make decisions based on the relative quality of evidence available, it is not feasible for QMs to perform randomized controlled trials or&#x000a0;cross-sectional&#x000a0;studies in most circumstances. QMs can&#x000a0;use other tools, such as&#x000a0;histograms (or other bar charts)&#x000a0;and scatter diagrams, to detect trends and relationships between independent and dependent variables when data is available in day-to-day practice.&#x000a0;For categorical data, a Pareto chart (a type of&#x000a0;bar&#x000a0;chart)&#x000a0;can&#x000a0;be&#x000a0;created&#x000a0;from&#x000a0;the&#x000a0;data&#x000a0;to&#x000a0;determine&#x000a0;the&#x000a0;priority&#x000a0;in&#x000a0;'where&#x000a0;the cause&#x000a0;is'&#x000a0;for a problem. In other words, a Pareto analysis orders the categories of data to show&#x000a0;which&#x000a0;category&#x000a0;or&#x000a0;categories&#x000a0;are&#x000a0;most&#x000a0;associated&#x000a0;with&#x000a0;an&#x000a0;outcome&#x000a0;of&#x000a0;interest.&#x000a0;</p>
+        <p>Categorical and continuous data can be analyzed retrospectively with a moderate passage of time between the time of events and the time of their evaluation. However, quality improvement can (and should) be performed using prospective data collection to allow evidence-based decision-making as quickly as possible (in real-time or near real-time). In the healthcare industry, patients' lives are at stake.&#x000a0;</p>
+        <p>
+<bold>Analyzing Processes In Real-Time To Detect And Modify Causes (Independent Variables)</bold>
+</p>
+        <p>Processes can be monitored in real-time or near-real-time when collecting data by comparing outcomes in&#x000a0;2 groups (control and experimental groups) or by comparing outcomes in&#x000a0;1 group before and after an intervention. The data can be presented in table format or by plotting the input or output variables over time in various line charts, particularly run and SPC charts (see figure).</p>
+        <p>A run chart is a line chart that enables the collected data points to be compared to a&#x000a0;measure of the central tendency (usually the data's mean) that the data have had in the&#x000a0;past up to the most recent data point collected. Run charts can be used to evaluate&#x000a0;fluctuations in categorical or continuous data (usually the latter) so that quality&#x000a0;managers can quickly identify when a process has recently begun to deviate from the&#x000a0;past&#x000a0;trend.&#x000a0;This&#x000a0;allows&#x000a0;the&#x000a0;quality&#x000a0;manager&#x000a0;to&#x000a0;attempt&#x000a0;corrective&#x000a0;action&#x000a0;when&#x000a0;a&#x000a0;trend&#x000a0;is&#x000a0;undesired or to evaluate whether a manager's recent corrective action has resulted in a&#x000a0;new desired trend. Shewhart devised a way to convert a run chart into a more&#x000a0;specialized illustration of a process trend once enough data had been collected to&#x000a0;enable&#x000a0;a&#x000a0;statistical&#x000a0;analysis&#x000a0;of data&#x000a0;variation&#x000a0;from&#x000a0;the&#x000a0;measure&#x000a0;of central&#x000a0;tendency.&#x000a0;</p>
+        <p>In other words, statistical process control charts (also called SPC charts, control charts, or&#x000a0;Shewhart charts after their inventor) are run charts that require some additional statistical manipulation. SPC is the method most commonly used by&#x000a0;QMs to make data-driven decisions with a degree of statistical certainty about processes at their institution. Therefore, some attention is given in detail here, although actual steps for incorporating SPC into clinical practice are not discussed.&#x000a0;</p>
+        <p>SPC charts used in clinical practice usually provide a threshold of statistical 'certainty' for determining when data points diverge from the measure of central tendency called a control limit or a process limit. When the threshold is breached, the quality manager should search for the new disruptive independent variable (special cause variation). A small variance in the data not reaching a high degree of statistical&#x000a0;probability should be accepted as being due to prior fluctuations in the already&#x000a0;established independent variables (termed random variation or common cause&#x000a0;variation).&#x000a0;Data&#x000a0;analysis&#x000a0;using SPC charts&#x000a0;enables&#x000a0;decision-making&#x000a0;using&#x000a0;a&#x000a0;'level&#x000a0;of&#x000a0;evidence' equivalent&#x000a0;to a non-randomized, incompletely- or non-matched prospective&#x000a0;cohort study.</p>
+        <p>In both types of comparison, relative risks and effect sizes can be&#x000a0;determined, although their values&#x000a0;are incompletely reliable due to bias and&#x000a0;confounding variables.&#x000a0;In a stable population of patient-customers, such as those who undergo return visits to a clinic (eg, patients with peripheral arterial disease returning for medical or other rehabilitative non-invasive therapies), data can be obtained pre-intervention and post-intervention on the same patient-customers. This enables a crossover study format with patient-customers acting as their true controls without interrupting the clinic's business operation, such as increasing costs for new patient-customer recruitment.&#x000a0;Given that making evidence-based interventions to improve outcomes is the primary goal of HQM (not achieving statistical certainty), analysis of internal organization data using SPC charts can help accomplish that goal in most circumstances.</p>
+        <p>SPC requires the user to select from&#x000a0;many&#x000a0;different&#x000a0;chart&#x000a0;subtypes,&#x000a0;each&#x000a0;designated&#x000a0;for a specific use&#x000a0;depending&#x000a0;on&#x000a0;the&#x000a0;properties of the data being collected. SPC charts used in clinical practice usually incorporate the&#x000a0;data's standard deviation as a value moving across time and compare the actual data&#x000a0;to values expected in a Gaussian distribution (ie, a bell curve).<xref ref-type="bibr" rid="article-141722.r10">[10]</xref>&#x000a0;Determining how the actual data's distribution differs from a Gaussian&#x000a0;distribution can be a relevant step in the analysis (and can facilitate selecting the best SPC chart&#x000a0;to use).&#x000a0;However, SPC charts can detect nonrandom process outcomes without the chart creator having first to verify that assumptions of models based on Gaussian statistics are met.&#x000a0;SPC charts are also more effective when&#x000a0;1 or more problems and data collection methods about the problem(s) have already been established. When the problem(s) or the cause(s) of the problem is(are) not known, then the QM should instead use flow charts, Pareto charts, probability plots, scatter diagrams, histograms, or affinity diagrams to guide the initial quality improvement measures.</p>
+        <p>In&#x000a0;theory, all HQMs&#x000a0;should:&#x000a0;</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Collect data on all possibly relevant independent variables pertaining to the processes for which they are responsible for maintaining quality amenable to statistical analysis.</p>
+          </list-item>
+          <list-item>
+            <p>Perform statistical&#x000a0;analysis using confidence levels and confidence intervals.</p>
+          </list-item>
+          <list-item>
+            <p>Monitor all recurring processes where corrective managerial actions&#x000a0;are&#x000a0;time-sensitive by performing run&#x000a0;charts.</p>
+          </list-item>
+          <list-item>
+            <p>Switch from run charts to SPC charts for processes that meet the theoretical criteria for appropriately interpreting the SPC chart.</p>
+          </list-item>
+        </list>
+        <p>Of the many goals that HQMs and HCPs should have concerning the above-described techniques, the discussion&#x000a0;is further centered around the following 4:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Achieving uniformity,</p>
+          </list-item>
+          <list-item>
+            <p>Increasing efficiency,</p>
+          </list-item>
+          <list-item>
+            <p>Preserving&#x000a0;patient&#x000a0;safety and&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Focusing&#x000a0;service whenever ethically possible on&#x000a0;the&#x000a0;desires&#x000a0;of those being served (ie,&#x000a0;respecting patient-customers).&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>
+<bold>Achieving Uniformity In Desired Results </bold>
+</p>
+        <p>Efficacy is&#x000a0;the&#x000a0;ability&#x000a0;of&#x000a0;an&#x000a0;intervention&#x000a0;to&#x000a0;achieve&#x000a0;desired&#x000a0;results;&#x000a0;reliability&#x000a0;is the&#x000a0;ability&#x000a0;of an intervention to achieve desired results consistently. When a threshold level of&#x000a0;desired results is based on a reference standard, the reference standard is a&#x000a0;benchmark.&#x000a0;This&#x000a0;term derives&#x000a0;from a&#x000a0;technique used&#x000a0;by&#x000a0;geographic&#x000a0;surveyors to&#x000a0;ensure&#x000a0;that they can be obtained and compared reliably with the old measurements when they return to a place to obtain new measurements. A benchmark can be derived from any organization that achieves quality-level reliability. Organizations that collect data on achieving benchmarks may offer it for free public use, such as CMS on its Hospital Compare website, or for a price, such as the Milliman company's data for HCOs.&#x000a0;</p>
+        <p>Working for Motorola in the 1980s, Engineer Bill Smith advocated using PDSA cycles and SPC charts to reduce telecommunications product and service variability. Smith's goal was to achieve less than 3.4 defects per million iterations of a process (which means that a defect occurs with a probability distributed at least&#x000a0;6 standard deviations (six sigma) from the mean of a Gaussian distribution). Healthcare also uses&#x000a0;products and processes that can achieve defects at extremely&#x000a0;low rates. However, because biological organisms (patients) do not respond uniformly to interventions as many inanimate objects do, services and outcomes to patient-customers must be tailored to a greater degree to respect&#x000a0;patient autonomy. Outcomes can be expected to vary to a greater degree than can be achieved for processes involving inanimate objects.</p>
+        <p>Uniformity is partly achievable by following standards of practice&#x000a0;published by medical specialty organizations. Quality managers attempting to fine-tune processes to reach benchmarked outcomes reliably can use run charts to identify causes of process progression toward or away from achieving the benchmark.</p>
+        <p>Deming's definition of quality does not exclude tailoring services. Deming worked in&#x000a0;fields where uniformity in output was not subject to the ethical issue of patient&#x000a0;autonomy or the&#x000a0;practical issue&#x000a0;that patients share. A&#x000a0;particular&#x000a0;disease&#x000a0;state&#x000a0;may&#x000a0;differ in other factors that require individualization in the approach to disease management. A significant challenge in HQM is achieving reliability in the face of extreme baseline variation in the factors under consideration. For example, quality&#x000a0;measurements for individual HCPs should include adverse outcome rates, but the data&#x000a0;analysis&#x000a0;must&#x000a0;account for confounding variables that increase the likelihood of adverse outcomes. Measures of healthcare provider quality should also be based not only on performance metrics that vary depending on differences in input variables but also on attaining uniform credentials, such as board certification.</p>
+        <p>Nevertheless, in healthcare services, as in other businesses, uniformity in services with&#x000a0;the standard suited to the patient-customer&#x000a0;is ideal. Uniformity in providing healthcare services and&#x000a0;products&#x000a0;indicates&#x000a0;that&#x000a0;each patient-customer&#x000a0;receives&#x000a0;the&#x000a0;best&#x000a0;possible&#x000a0;service&#x000a0;or&#x000a0;product&#x000a0;under&#x000a0;routine&#x000a0;circumstances. It also enables&#x000a0;HCPs to&#x000a0;fulfill&#x000a0;the&#x000a0;ethical&#x000a0;obligation&#x000a0;of&#x000a0;distributive&#x000a0;justice described&#x000a0;by&#x000a0;Beauchamp&#x000a0;and&#x000a0;Childress&#x000a0;and&#x000a0;as&#x000a0;specified by laws (such&#x000a0;as&#x000a0;the&#x000a0;Emergency Medical Treatment and Labor Act of 1986 and the Fourteenth Amendment to the US Constitution).&#x000a0;</p>
+        <p>
+<bold>Reducing Waste/Improving Efficiency</bold>
+</p>
+        <p>An area in which American healthcare quality lags behind other first-world countries is&#x000a0;minimizing waste. The Commonwealth Fund reported 2017 that the US placed tenth out of eleven first-world countries on the metric "Doctors ordered a medical test that the patient felt was unnecessary because the test had already been done&#x000a0;(recently)." When HCPs require patient-customers to undergo repeat medical&#x000a0;tests when the customer&#x000a0;has not agreed that repeating the test is valuable to the customer, then Deming's definition of&#x000a0;quality is not fulfilled. In 2012, Berwick reported on&#x000a0;6 categories of healthcare waste:&#x000a0;</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Overtreatment,&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Failures&#x000a0;of&#x000a0;care&#x000a0;coordination,&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Failures&#x000a0;in&#x000a0;the&#x000a0;execution&#x000a0;of&#x000a0;care&#x000a0;processes,&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Administrative&#x000a0;complexity,&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Pricing&#x000a0;failures and&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Fraud&#x000a0;and&#x000a0;abuse&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>Berwick reported that a conservative estimate of the cost of these practices in the United States exceeds 20% of total health care expenditures,&#x000a0;that the "actual total may be far greater," and that these practices cost US taxpayers in the 10s to 100s of billions of dollars each year.<xref ref-type="bibr" rid="article-141722.r11">[11]</xref></p>
+        <p>Different QM gurus categorize wastes differently. One classification scheme to categorize waste is the 7-point Lean classification devised by Ohno, or its modification to&#x000a0;8 points,&#x000a0;6 of which are excesses and&#x000a0;2 of which are insufficiencies, memorable by the mnemonic TIM U WOOD:&#x000a0;</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Excess&#x000a0;transportation&#x000a0;-&#x000a0;T&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Excess&#x000a0;inventory&#x000a0;-&#x000a0;I&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Excess&#x000a0;motion&#x000a0;-&#x000a0;M&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Underuse&#x000a0;of&#x000a0;talent&#x000a0;&#x02013;&#x000a0;U&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Excess&#x000a0;(wasted)&#x000a0;time&#x000a0;&#x02013;&#x000a0;W&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Excess&#x000a0;processing/over-perfecting&#x000a0;-&#x000a0;O&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Excess&#x000a0;production/overproduction&#x000a0;-&#x000a0;O&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Underperformance/defective&#x000a0;action&#x000a0;-&#x000a0;D&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>Regardless&#x000a0;of&#x000a0;how&#x000a0;waste&#x000a0;is&#x000a0;categorized,&#x000a0;each&#x000a0;category&#x000a0;serves&#x000a0;as&#x000a0;a&#x000a0;potential&#x000a0;area&#x000a0;of&#x000a0;investigation&#x000a0;for&#x000a0;a&#x000a0;quality&#x000a0;manager&#x000a0;to&#x000a0;improve&#x000a0;in&#x000a0;their setting.&#x000a0;Several&#x000a0;of&#x000a0;the&#x000a0;above-listed&#x000a0;categories&#x000a0;are&#x000a0;discussed&#x000a0;briefly&#x000a0;here.&#x000a0;</p>
+        <p>Overtreatment is a common problem in medicine, where physicians are financially incentivized to recommend invasive procedures that have not been shown to outperform less invasive therapies. Examples include:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Performing services that have short-term benefits that do not outweigh long-term costs,</p>
+          </list-item>
+          <list-item>
+            <p>Performing services when watchful waiting achieves outcomes that are just as good or better, and</p>
+          </list-item>
+          <list-item>
+            <p>Performing&#x000a0;services for patients who do not truly want them but accept them because of external pressure by HCPs.&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>Healthcare is filled with service bottlenecks for patient-customers to squeeze through that waste time; HQMs can improve service times and inventory supply and demand by borrowing methods from many other industries that outperform healthcare in time minimization for customers, such as kanban (meaning billboard) techniques used by air traffic control officers in the airline travel industry. HQMs can use Gantt charts to reduce incoordination and duplication of efforts among HCPs working on the same project to save time and effort.</p>
+        <p>Human factors engineering (HFE) strategies are methods for tailoring job tasks to match better the ability of the person performing them to make tasks as easy as possible.&#x000a0;HFE strategies can reduce wasted motion and time and make human actions more reliable and <italic toggle="yes">poka-yoke</italic> (mistake-proof). An example of this in vascular medicine is designing coaxial sheaths, dilators, catheters, guidewires, and stopcocks in a system that has seamless interchangeability of items without the ability for HCPs to connect or interchange the tools improperly.<xref ref-type="bibr" rid="article-141722.r12">[12]</xref></p>
+      </sec>
+      <sec id="article-141722.s5" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>One problem&#x000a0;in HQM is that the legal and ethical responsibilities for&#x000a0;patient care and the management decisions for care are often not performed by the same persons, and there are conflicts of interest concerning these decisions. HQMs who are not simultaneously HCPs are incentivized to increase efficiency and reduce cost. However, increased efficiency in the service of human beings often does not translate to increased effectiveness. As discussed in the Defining Quality and Value section above, quality and value depend on patient-customer outcomes.</p>
+        <p>Any HQM that sacrifices service features designed to preserve person-centered care or patient-customer safety for efficiency (or cost reduction) is gambling with the patients' and customers' health and potentially worsening the service's quality (or value).</p>
+        <p><bold>Safety</bold>&#x000a0;</p>
+        <p>The US executive and legislative branches together update laws designed to improve patient safety, such as the Healthcare Research and Quality Act of 1999, which led to a report generated by the US Institute of Medicine (now called the National Academy of Medicine) called <italic toggle="yes">To Err Is Human: Building a Safer Health System</italic>.<xref ref-type="bibr" rid="article-141722.r13">[13]</xref> The report found that safety errors kill hundreds of thousands of Americans yearly. The Patient Safety and Quality Improvement Act 2005 established the NPSD described above.&#x000a0;In 2007, the AHRQ developed its healthcare Safety Indicators. In 2008, CMS began penalizing HCOs for allowing some outcomes listed by the NQF to be never events. This list of events, most recently updated in 2011, includes 29 types of events. CMS uses the NQF's list of never events as denial for services paid for some of the events.&#x000a0;Numerous other organizations promote safety standards in the US, such as TJC, which publishes a list it calls the National Patient Safety Goals (NPSGs) that change yearly.&#x000a0;</p>
+        <p>Despite the mandates and penalties by government and non-governmental organizations, and despite more data available and general awareness in the 21st century than ever before&#x000a0;that HCPs' failure to conduct best safety practices results in human death, American HCPs and HCO managers collectively have not changed much in their attitudes or behaviors. As of 2018, HCP safety errors were still estimated to comprise the third leading cause of death in the United States.<xref ref-type="bibr" rid="article-141722.r14">[14]</xref> As healthcare complexity increases (with sub-specialization of caregivers, barriers to sharing of medical information, an increasing number of drugs and medical devices, and an increasing number of policies on standards), so do the opportunities for safety violations.</p>
+        <p>Despite a mandate from TJC (most recently in 2017) for HCO managers to establish a "culture of safety" in their HCO and HCO managers advertising that they and the people in their organizations have done so, the medical error data serves as strong evidence that HCOs often still lack a "culture of safety," which overlaps with the concept of a "just culture." According to TJC, in such a culture:&#x000a0;</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>All HCPs prioritize patient safety over other business factors, such as the cost&#x000a0;and&#x000a0;time&#x000a0;to&#x000a0;complete&#x000a0;tasks.&#x000a0;According&#x000a0;to&#x000a0;TJC,&#x000a0;HCO&#x000a0;employees&#x000a0;should&#x000a0;undergo&#x000a0;testing on their understanding of safety measures using a validated testing&#x000a0;procedure&#x000a0;every&#x000a0;18&#x000a0;months.</p>
+          </list-item>
+          <list-item>
+            <p>The organization's leaders promote, reward, and 'champion' the attitude and&#x000a0;behaviors&#x000a0;that&#x000a0;create&#x000a0;such&#x000a0;a&#x000a0;culture.&#x000a0;According&#x000a0;to&#x000a0;TJC,&#x000a0;this&#x000a0;includes&#x000a0;1)&#x000a0;carrying&#x000a0;out&#x000a0;a&#x000a0;nonpunitive&#x000a0;approach&#x000a0;to&#x000a0;reporting&#x000a0;and&#x000a0;2)&#x000a0;learning&#x000a0;from&#x000a0;adverse&#x000a0;events,&#x000a0;close&#x000a0;calls,&#x000a0;and&#x000a0;unsafe&#x000a0;conditions.&#x000a0;NQF&#x000a0;also&#x000a0;has&#x000a0;consensus&#x000a0;standards&#x000a0;for&#x000a0;how HCO leaders,&#x000a0;HQMs,&#x000a0;and&#x000a0;HCPs respond to an adverse event.&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>HCOs with such a culture adopt practices and technologies approved/endorsed by the organizations mentioned above and&#x000a0;from published quality research, particularly&#x000a0;level 1 research. The effect of a culture of safety on HCO revenue is difficult to measure, but it likely saves HCOs money. For example, employees at such HCOs tend to have high job satisfaction and low turnover, and patient customers are more likely to return for business and less likely to file suits and complaints that lead to fines.&#x000a0;</p>
+        <p>Organizations should apply <italic toggle="yes">poka-yoke</italic> (mistake-proofing) measures to every possible&#x000a0;process related to patient care, as well as red rules, which are rules that must always be followed to the letter of the policy and can be used by any employee to stop a&#x000a0;patient&#x000a0;care&#x000a0;process&#x000a0;that&#x000a0;is&#x000a0;not&#x000a0;being&#x000a0;performed&#x000a0;according&#x000a0;to&#x000a0;pre-established&#x000a0;standard procedure. As the managers of the Toyota Production System established, the employees performing the tasks are often the best persons to identify the features of the system that result in errors (and, by extension, hazards to patient safety).</p>
+        <p>
+<bold>Patient-Customer&#x000a0;Centered&#x000a0;Care (Also Called Person-Centered Care)</bold>
+</p>
+        <p>From an ethical, legal, and business standpoint, patient needs should prioritize the needs of all other stakeholders in the healthcare process. In real life, however, when there is a conflict in goals between the patient-customer and the business or HCP, persons working in healthcare often de-prioritize patient-customer goals. Healthcare managers and HCPs can better serve patient-customers by learning their objectives, aligning business goals with patient/customers' goals when ethically and legally appropriate, and activating' patient-customers.<xref ref-type="bibr" rid="article-141722.r15">[15]</xref> Activating customers means enabling them to manage their service transactions by increasing their knowledge, skills, and options for self-management of services. Activated patients have been found to achieve better clinical outcomes than patients with similar characteristics who were not 'activated.'<xref ref-type="bibr" rid="article-141722.r16">[16]</xref><xref ref-type="bibr" rid="article-141722.r17">[17]</xref></p>
+        <p>It is true that each patient is different and has different preferences for decision-making control in different circumstances. Nevertheless, in Western culture, empowering patient-customers to make decisions independently or with their pre-established trust network of family or friends generally results in equal or improved patient-customer outcomes and satisfaction compared to treating patient-customers with paternalism and limiting their options. A Cochrane Database systematic review of 115 controlled studies representing 34,444 research participants reported that providing patients with decision support tools:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Improves&#x000a0;patients'&#x000a0;knowledge&#x000a0;regarding&#x000a0;their&#x000a0;medical&#x000a0;care&#x000a0;options,&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Improves&#x000a0;the&#x000a0;accuracy&#x000a0;of&#x000a0;their perception&#x000a0;of&#x000a0;possible&#x000a0;benefits&#x000a0;and&#x000a0;harms,&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Increases&#x000a0;the&#x000a0;degree&#x000a0;to&#x000a0;which&#x000a0;they&#x000a0;engage&#x000a0;in&#x000a0;decision-making,&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Reduces&#x000a0;HCP-patient&#x000a0;decision&#x000a0;conflicts and&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Increases&#x000a0;the&#x000a0;likelihood&#x000a0;that&#x000a0;patients&#x000a0;choose&#x000a0;treatments&#x000a0;that&#x000a0;are&#x000a0;consistent&#x000a0;with&#x000a0;their&#x000a0;value.<xref ref-type="bibr" rid="article-141722.r18">[18]</xref>&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>The list of methods for improving patient-customer-centered care is lengthy. According to data reported on Statista.com, approximately 90% of Americans use smartphones. Therefore,&#x000a0;1 way patient-customer-centered&#x000a0;care&#x000a0;can&#x000a0;be&#x000a0;achieved&#x000a0;in&#x000a0;the&#x000a0;modern&#x000a0;world&#x000a0;is by digitizing and automating patient communication. HCOs can enable patients to&#x000a0;communicate with them using an encrypted electronic 'patient portal.' Using&#x000a0;technology&#x000a0;in&#x000a0;this&#x000a0;way&#x000a0;can:&#x000a0;</p>
+        <p>Allow patent customers&#x000a0;to&#x000a0;access&#x000a0;portions&#x000a0;of&#x000a0;or&#x000a0;all&#x000a0;their&#x000a0;medical&#x000a0;records, including&#x000a0;medical&#x000a0;images,&#x000a0;enable patient-customers to submit photographs they have taken of their physical appearance (eg, varicosities, wounds, and other dermatologic abnormalities) into their medical record, provide patient-customers with internet links to freely available pertinent medical literature, including patient or practitioner-level information produced by national medical societies which they can review before, during, and after their visit for healthcare services.</p>
+        <p>Give patient customers access to an online scheduling platform where they can initiate appointments based on currently listed availabilities (which can then be approved or modified by a nurse or other HCP through a traditional triage system) and grant&#x000a0;patients a&#x000a0;24-hour&#x000a0;means&#x000a0;of&#x000a0;communication&#x000a0;that&#x000a0;enables&#x000a0;them&#x000a0;to&#x000a0;send&#x000a0;information&#x000a0;to their HCP at&#x000a0;any&#x000a0;time&#x000a0;of&#x000a0;day that can&#x000a0;then be&#x000a0;reviewed&#x000a0;at&#x000a0;the HCP's own time. This can more quickly enable return instructions to the patient customer&#x000a0;compared&#x000a0;to&#x000a0;a&#x000a0;20th-century&#x000a0;model&#x000a0;of&#x000a0;requiring&#x000a0;the patient-customer&#x000a0;to&#x000a0;call&#x000a0;only during&#x000a0;regular&#x000a0;business hours and then wait on hold to speak with a designated person who&#x000a0;can&#x000a0;provide&#x000a0;the&#x000a0;same&#x000a0;'secretarial'&#x000a0;transmission&#x000a0;of&#x000a0;information&#x000a0;to&#x000a0;the&#x000a0;physician&#x000a0;or&#x000a0;other&#x000a0;designated&#x000a0;HCP.</p>
+      </sec>
+      <sec id="article-141722.s6" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>
+<bold>Teams and Systems</bold>
+</p>
+        <p>About&#x000a0;corporate&#x000a0;liability,&#x000a0;jurist&#x000a0;Joel&#x000a0;Prentiss&#x000a0;Bishop&#x000a0;[from&#x000a0;<italic toggle="yes">New&#x000a0;Comments&#x000a0;on&#x000a0;the&#x000a0;Criminal&#x000a0;Law&#x000a0;Upon&#x000a0;a&#x000a0;New&#x000a0;System&#x000a0;of&#x000a0;Legal&#x000a0;Exposition</italic>.&#x000a0;(1892)&#x000a0;&#x000a7;&#x000a0;417,&#x000a0;255&#x02013;56.]&#x000a0;wrote:&#x000a0;</p>
+        <p>Since a corporation acts by its officers and agents, their purposes, motives, and intent&#x000a0;are just as much those of the corporation as are their actions. If, for example, the invisible, intangible essence or air that we term a corporation can level mountains, fill up valleys, lay down iron tracks, and run railroad cars on them, it can intend to do it. It can act therein as viciously&#x000a0;as&#x000a0;virtuously.&#x000a0;</p>
+        <p>Just&#x000a0;as&#x000a0;logic&#x000a0;exists&#x000a0;for&#x000a0;attributing&#x000a0;bad&#x000a0;business&#x000a0;practices&#x000a0;and&#x000a0;outcomes&#x000a0;to&#x000a0;corporations&#x000a0;themselves&#x000a0;and&#x000a0;not&#x000a0;just&#x000a0;to&#x000a0;individuals,&#x000a0;it exists&#x000a0;for&#x000a0;attributing&#x000a0;bad&#x000a0;healthcare&#x000a0;services&#x000a0;(acts of commission or omission) and outcomes to teams and systems in addition to&#x000a0;individual&#x000a0;healthcare&#x000a0;providers&#x000a0;(HCPs).&#x000a0;</p>
+        <p>Successful healthcare continuity depends on good communication. Inadequate communication often results in fragmented care, which leads to procedural complications, hospital readmissions, and declines in patient functional status, especially for patients with high baseline risks, such as patients with chronic or complex illnesses. The Joint Commission (TJC) reported that it was made aware of 2378 sentinel events in the United States in 2014 and divided those events into categories of causes. The top&#x000a0;3 categories were:</p>
+        <list list-type="order">
+          <list-item>
+            <p>Mistakes&#x000a0;attributed&#x000a0;to&#x000a0;individual&#x000a0;persons&#x000a0;not&#x000a0;pertaining&#x000a0;to&#x000a0;leadership&#x000a0;(547)</p>
+          </list-item>
+          <list-item>
+            <p>Mistakes&#x000a0;attributed&#x000a0;to&#x000a0;leadership&#x000a0;errors&#x000a0;(517)</p>
+          </list-item>
+          <list-item>
+            <p>Mistakes&#x000a0;in&#x000a0;communication not&#x000a0;otherwise&#x000a0;specified&#x000a0;(489)</p>
+          </list-item>
+        </list>
+        <p>Despite this assessment, even TJC, along with many other organizations and individuals in the quality profession,&#x000a0;has taught that the root cause of 'the majority&#x000a0;of problems in business is most appropriately attributed to the inadequacy of a process, team, or system and not primarily on the inadequacy of an individual.&#x000a0;</p>
+        <p>The odds of achieving quality improvement success can increase with well-functioning multidisciplinary teams compared with individuals working independently. Collaboration may expand the range and depth of expertise applied to a problem. One or more persons directly involved with or closest to the performance of the process of concern should always be on the team. Healthcare quality managers should seek input from all service delivery staff members. Inefficiencies not apparent to&#x000a0;1 person or a group in the process chain may be raised by others elsewhere. Inefficiencies that are observed but cannot be corrected by&#x000a0;1 person due to that person's lack of power can be corrected by a person on the team with more power. The managerial approach behind Lean, as used by the Toyota company, emphasizes:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p><italic toggle="yes">Hoshin</italic> (direction),&#x000a0;which is managers introducing changes only after having received input from the lowest-ranked employees and</p>
+          </list-item>
+          <list-item>
+            <p><italic toggle="yes">Gemba</italic>&#x000a0;(actual&#x000a0;place) refers to managers making decisions based on direct contact or observation with the process and not third-party reports discussed in conference rooms. Managers can maximize the organization's quality improvement potential by empowering their employees.</p>
+          </list-item>
+        </list>
+        <p>For healthcare quality management to become as advanced as QM in other professions and for America to catch up to other countries (and achieve Donabedian's goals) in providing healthcare, persons, and organizations that have might (as in 'might make right') must set higher-level standards, eg:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>The policy writers of TJC could require that hospitals conduct certain numbers or&#x000a0;types&#x000a0;of PDSA cycles&#x000a0;to&#x000a0;maintain&#x000a0;accreditation.&#x000a0;Executives&#x000a0;in&#x000a0;a&#x000a0;healthcare organization with&#x000a0;a&#x000a0;reputation&#x000a0;for&#x000a0;excellent&#x000a0;healthcare&#x000a0;quality&#x000a0;could&#x000a0;require&#x000a0;that&#x000a0;their&#x000a0;managers&#x000a0;conduct&#x000a0;certain&#x000a0;numbers&#x000a0;or&#x000a0;types&#x000a0;of&#x000a0;PDSA&#x000a0;cycles&#x000a0;and&#x000a0;set&#x000a0;the&#x000a0;bar&#x000a0;for&#x000a0;other&#x000a0;HCOs.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Government&#x000a0;officials&#x000a0;could&#x000a0;require&#x000a0;healthcare&#x000a0;managers&#x000a0;to&#x000a0;pass&#x000a0;examinations&#x000a0;where they demonstrate knowledge and skills to receive accreditation in QM&#x000a0;(just&#x000a0;as&#x000a0;persons&#x000a0;in&#x000a0;many&#x000a0;healthcare&#x000a0;professions&#x000a0;must).&#x000a0;</p>
+          </list-item>
+        </list>
+        <p><bold>Reaching Consensus And Prioritizing Efforts At Quality Improvement</bold>&#x000a0;</p>
+        <p>QI teams should always analyze data. Disagreements regarding the best courses of action are inevitable because of differences in bias, even in the presence of data. In addition to standard voting techniques, modified voting techniques promote a course of action that can be most acceptable in a utilitarian manner. The nominal group technique (NGT) combines anonymous brainstorming (each person generates ideas independently) and voting. NGT limits discussion (ie, back-and-forth debating) and emphasizes moving forward with a decision based on previously held beliefs. Multi-voting (multi-round voting) enables a sequential, progressive narrowing of choices. Once&#x000a0;1 round of voting is performed, the options receiving the least votes are removed. Additional rounds of voting are performed until the best option or until a prioritization of options is reached. The Delphi method combines multi-voting and NGT. This method enables decisions to be reached that have 'general support' from all members.</p>
+        <p>Voting is usually stopped when necessary to maintain all voters' favor regarding a statement without requiring overly specific conclusions backed by unanimous agreement. Reaching consensus using these techniques improves teamwork and team member engagement more than decision-making strategies based on 'the majority rules' or 'might make right.' It is challenging to prioritize which options are most important when they entail factors competing for attention. Tools use objective measures to narrow a list of possible choices to&#x000a0;1 or several choices, including weighting by ranking, value stream mapping, and creating prioritization matrices.</p>
+        <p>Weighting by ranking goes by various other names and has multiple permutations. It generally involves deriving a rank or hierarchy of scores (values that are measured or calculated but are not entirely arbitrary) for categories of concern (such as tasks, costs, or other attributes). Different options that share these features can be compared using their performance in the different categories in a spreadsheet to determine the best option. For example, determining what method to inform patients of post-operative appointments may involve a decision of&#x000a0;3 options: sending a letter through regular mail, sending a text message, or calling by telephone. The categories of concern may include cost, time, and likelihood of receipt. The categories can be given importance weights, and the options can be ranked according to their overall score across all&#x000a0;3 categories.</p>
+        <p>Value stream mapping (VSM) is a decision tool that uses weighting by ranking and is often displayed as a flow chart. In VSM, sub-processes of a larger overall process are assigned weighted values based on relative levels of importance. These are summed into a final score called a criticality index that determines which process is the most critical for concentrating effort and devoting resources. Common components of a criticality index are:</p>
+        <list list-type="order">
+          <list-item>
+            <p>The frequency of the problem (how often during iterations a particular activity/task/issue occurs on a critical path),</p>
+          </list-item>
+          <list-item>
+            <p>The severity of the problem, if or when it occurs, and</p>
+          </list-item>
+          <list-item>
+            <p>The ease of detection of the problem early on before it becomes unmanageable.</p>
+          </list-item>
+        </list>
+        <p>Prioritization matrices are tools that display options along multiple axes (eg, X, Y, and Z) of competing interests (eg, time vs. money or the interests of upper management vs. mid-level management vs. non-management level employees) and plot options or problems according to their importance along each axis. Prioritization matrices are usually drawn in a 2-dimensional format in a spreadsheet and assigned scores using weighting by ranking; in this fashion, numerous options or categories (more than just&#x000a0;2 or 3) can be prioritized. Healthcare managers can prioritize quality improvement projects under the following non-mutually exclusive categories:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Improving&#x000a0;service&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Improving&#x000a0;safety&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Reducing&#x000a0;cost&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Maintaining&#x000a0;a&#x000a0;competitive&#x000a0;edge</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-141722.s7">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=141722&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=141722">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/141722/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=141722">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <floats-group id="article-141722.s8">
+        <fig id="article-141722.image.f1" position="float" orientation="portrait">
+          <caption>
+            <p>Average Costs to a Managed Care Organization. This control chart shows the average costs to a managed care organization over time. In December 2016, costs escalated to more than 3 standard deviations from the mean. By using this chart, the managers at this organization could have realized with a 99.7% certainty threshold, in near real-time, that there was particular cause variation, meaning that there was a real anomaly increasing the costs that they needed to fix, and not just a random variation in costs. M Young, MD, CPHQ</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="xbar-MR__control__chart" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <ref-list id="article-141722.s9">
+        <title>References</title>
+        <ref id="article-141722.r1">
+          <label>1</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Young</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Wagner</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Medical Ethics</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2024</year>
+            <month>5</month>
+            <day>7</day>
+            <pub-id pub-id-type="pmid">30570982</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141722.r2">
+          <label>2</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Olejarczyk</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Young</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Patient Rights and Ethics</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2024</year>
+            <month>5</month>
+            <day>6</day>
+            <pub-id pub-id-type="pmid">30855863</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141722.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Brand</surname>
+                <given-names>RA</given-names>
+              </name>
+            </person-group>
+            <article-title>Ernest Amory Codman, MD, 1869-1940.</article-title>
+            <source>Clin Orthop Relat Res</source>
+            <year>2009</year>
+            <month>Nov</month>
+            <volume>467</volume>
+            <issue>11</issue>
+            <fpage>2763</fpage>
+            <page-range>2763-5</page-range>
+            <pub-id pub-id-type="pmid">19690929</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141722.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Best</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Neuhauser</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>W Edwards Deming: father of quality management, patient and composer.</article-title>
+            <source>Qual Saf Health Care</source>
+            <year>2005</year>
+            <month>Aug</month>
+            <volume>14</volume>
+            <issue>4</issue>
+            <fpage>310</fpage>
+            <page-range>310-2</page-range>
+            <pub-id pub-id-type="pmid">16076798</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141722.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>McCarthy</surname>
+                <given-names>BD</given-names>
+              </name>
+              <name>
+                <surname>Ward</surname>
+                <given-names>RE</given-names>
+              </name>
+              <name>
+                <surname>Young</surname>
+                <given-names>MJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Dr Deming and primary care internal medicine.</article-title>
+            <source>Arch Intern Med</source>
+            <year>1994</year>
+            <month>Feb</month>
+            <day>28</day>
+            <volume>154</volume>
+            <issue>4</issue>
+            <fpage>381</fpage>
+            <page-range>381-4</page-range>
+            <pub-id pub-id-type="pmid">8117170</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141722.r6">
+          <label>6</label>
+          <element-citation publication-type="book">
+            <collab>Institute of Medicine (US) Committee on Quality of Health Care in America</collab>
+            <source>Crossing the Quality Chasm: A New Health System for the 21st Century</source>
+            <publisher-name>National Academies Press (US)</publisher-name>
+            <publisher-loc>Washington (DC)</publisher-loc>
+            <year>2001</year>
+            <pub-id pub-id-type="pmid">25057539</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141722.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Blankenship</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Haldis</surname>
+                <given-names>TA</given-names>
+              </name>
+              <name>
+                <surname>Wood</surname>
+                <given-names>GC</given-names>
+              </name>
+              <name>
+                <surname>Skelding</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Scott</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Menapace</surname>
+                <given-names>FJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Rapid triage and transport of patients with ST-elevation myocardial infarction for percutaneous coronary intervention in a rural health system.</article-title>
+            <source>Am J Cardiol</source>
+            <year>2007</year>
+            <month>Sep</month>
+            <day>15</day>
+            <volume>100</volume>
+            <issue>6</issue>
+            <fpage>944</fpage>
+            <page-range>944-8</page-range>
+            <pub-id pub-id-type="pmid">17826374</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141722.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dodwad</surname>
+                <given-names>SS</given-names>
+              </name>
+            </person-group>
+            <article-title>Quality management in healthcare.</article-title>
+            <source>Indian J Public Health</source>
+            <year>2013</year>
+            <season>Jul-Sep</season>
+            <volume>57</volume>
+            <issue>3</issue>
+            <fpage>138</fpage>
+            <page-range>138-43</page-range>
+            <pub-id pub-id-type="pmid">24125927</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141722.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Reason</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>The contribution of latent human failures to the breakdown of complex systems.</article-title>
+            <source>Philos Trans R Soc Lond B Biol Sci</source>
+            <year>1990</year>
+            <month>Apr</month>
+            <day>12</day>
+            <volume>327</volume>
+            <issue>1241</issue>
+            <fpage>475</fpage>
+            <page-range>475-84</page-range>
+            <pub-id pub-id-type="pmid">1970893</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141722.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Thor</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Lundberg</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ask</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Olsson</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Carli</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>H&#x000e4;renstam</surname>
+                <given-names>KP</given-names>
+              </name>
+              <name>
+                <surname>Brommels</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Application of statistical process control in healthcare improvement: systematic review.</article-title>
+            <source>Qual Saf Health Care</source>
+            <year>2007</year>
+            <month>Oct</month>
+            <volume>16</volume>
+            <issue>5</issue>
+            <fpage>387</fpage>
+            <page-range>387-99</page-range>
+            <pub-id pub-id-type="pmid">17913782</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141722.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Berwick</surname>
+                <given-names>DM</given-names>
+              </name>
+              <name>
+                <surname>Hackbarth</surname>
+                <given-names>AD</given-names>
+              </name>
+            </person-group>
+            <article-title>Eliminating waste in US health care.</article-title>
+            <source>JAMA</source>
+            <year>2012</year>
+            <month>Apr</month>
+            <day>11</day>
+            <volume>307</volume>
+            <issue>14</issue>
+            <fpage>1513</fpage>
+            <page-range>1513-6</page-range>
+            <pub-id pub-id-type="pmid">22419800</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141722.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Fleisher</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Barbosa</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Sweeney</surname>
+                <given-names>MM</given-names>
+              </name>
+              <name>
+                <surname>Oyler</surname>
+                <given-names>SE</given-names>
+              </name>
+              <name>
+                <surname>Lemen</surname>
+                <given-names>AC</given-names>
+              </name>
+              <name>
+                <surname>Fazl</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Ko</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Meisel</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Friede</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Dacpano</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Gilbert</surname>
+                <given-names>RM</given-names>
+              </name>
+              <name>
+                <surname>Di Rocco</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Chodosh</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Interdisciplinary Home Visits for Individuals with Advanced Parkinson's Disease and Related Disorders.</article-title>
+            <source>J Am Geriatr Soc</source>
+            <year>2018</year>
+            <month>Jul</month>
+            <volume>66</volume>
+            <issue>6</issue>
+            <fpage>1226</fpage>
+            <page-range>1226-1232</page-range>
+            <pub-id pub-id-type="pmid">29608779</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141722.r13">
+          <label>13</label>
+          <element-citation publication-type="book">
+            <collab>Institute of Medicine (US) Committee on Quality of Health Care in America</collab>
+            <person-group person-group-type="editor">
+              <name>
+                <surname>Kohn</surname>
+                <given-names>LT</given-names>
+              </name>
+              <name>
+                <surname>Corrigan</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Donaldson</surname>
+                <given-names>MS</given-names>
+              </name>
+            </person-group>
+            <source>To Err is Human: Building a Safer Health System</source>
+            <publisher-name>National Academies Press (US)</publisher-name>
+            <publisher-loc>Washington (DC)</publisher-loc>
+            <year>2000</year>
+            <pub-id pub-id-type="pmid">25077248</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141722.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Makary</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Daniel</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Medical error-the third leading cause of death in the US.</article-title>
+            <source>BMJ</source>
+            <year>2016</year>
+            <month>May</month>
+            <day>03</day>
+            <volume>353</volume>
+            <fpage>i2139</fpage>
+            <pub-id pub-id-type="pmid">27143499</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141722.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hibbard</surname>
+                <given-names>JH</given-names>
+              </name>
+              <name>
+                <surname>Greene</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>What the evidence shows about patient activation: better health outcomes and care experiences; fewer data on costs.</article-title>
+            <source>Health Aff (Millwood)</source>
+            <year>2013</year>
+            <month>Feb</month>
+            <volume>32</volume>
+            <issue>2</issue>
+            <fpage>207</fpage>
+            <page-range>207-14</page-range>
+            <pub-id pub-id-type="pmid">23381511</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141722.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Fors</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Ekman</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Taft</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Bj&#x000f6;rkelund</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Frid</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Larsson</surname>
+                <given-names>ME</given-names>
+              </name>
+              <name>
+                <surname>Thorn</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ulin</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Wolf</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Swedberg</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Person-centred care after acute coronary syndrome, from hospital to primary care - A randomised controlled trial.</article-title>
+            <source>Int J Cardiol</source>
+            <year>2015</year>
+            <volume>187</volume>
+            <fpage>693</fpage>
+            <page-range>693-9</page-range>
+            <pub-id pub-id-type="pmid">25919754</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141722.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pirhonen</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Gyllensten</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Fors</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Bolin</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Modelling the cost-effectiveness of person-centred care for patients with acute coronary syndrome.</article-title>
+            <source>Eur J Health Econ</source>
+            <year>2020</year>
+            <month>Dec</month>
+            <volume>21</volume>
+            <issue>9</issue>
+            <fpage>1317</fpage>
+            <page-range>1317-1327</page-range>
+            <pub-id pub-id-type="pmid">32895879</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-141722.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Stacey</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>L&#x000e9;gar&#x000e9;</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Col</surname>
+                <given-names>NF</given-names>
+              </name>
+              <name>
+                <surname>Bennett</surname>
+                <given-names>CL</given-names>
+              </name>
+              <name>
+                <surname>Barry</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Eden</surname>
+                <given-names>KB</given-names>
+              </name>
+              <name>
+                <surname>Holmes-Rovner</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Llewellyn-Thomas</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Lyddiatt</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Thomson</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Trevena</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Wu</surname>
+                <given-names>JH</given-names>
+              </name>
+            </person-group>
+            <article-title>Decision aids for people facing health treatment or screening decisions.</article-title>
+            <source>Cochrane Database Syst Rev</source>
+            <year>2014</year>
+            <month>Jan</month>
+            <day>28</day>
+            <issue>1</issue>
+            <fpage>CD001431</fpage>
+            <pub-id pub-id-type="pmid">24470076</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

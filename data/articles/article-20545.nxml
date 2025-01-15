@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-20545" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Dipyridamole Nuclear Stress Test</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Gupta</surname>
+            <given-names>Amol</given-names>
+          </name>
+          <aff>Post Graduate Inst. of Medical Sciences</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Samarany</surname>
+            <given-names>Samir</given-names>
+          </name>
+          <aff>San Antonio Regional Hospital</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Amol Gupta declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Samir Samarany declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-20545.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>While conventional stress tests are exercise-based, in certain circumstances, there may be contraindications to exercise. In these cases, pharmacologically-based stress tests are an option. These tests typically involve the administration of a vasodilator to mimic the cardiac response to exercise. The most commonly used vasodilator is dipyridamole; less commonly used agents include adenosine and regadenoson. This activity describes dipyridamole stress testing and highlights the role of the interprofessional team in improving care for patients who undergo pharmacological stress testing.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Explain the mechanism of action of dipyridamole.</p></list-item><list-item><p>Outline the indications for dipyridamole stress tests.</p></list-item><list-item><p>Summarize the contraindications to dipyridamole.</p></list-item><list-item><p>Explain how collaboration between healthcare professionals performing exercise stress tests and dipyridamole stress tests can help reduce the healthcare burden.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=20545&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=20545">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-20545.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>A nuclear stress test is a relatively non-invasive diagnostic procedure that involves the injection of a small quantity of radioactive tracer into the bloodstream, administered in conjunction with myocardial perfusion imaging and a stress test, which challenges the functional capacity of the heart.<xref ref-type="bibr" rid="article-20545.r1">[1]</xref>&#x000a0;As blood containing the radioactive tracer flows through the heart, its energy is detected by a gamma camera or scanner that produces images of the heart&#x02019;s vascular network after a stress test and/or at rest.<xref ref-type="bibr" rid="article-20545.r1">[1]</xref><xref ref-type="bibr" rid="article-20545.r2">[2]</xref>&#x000a0;The stress test increases myocardial blood perfusion and creates a disparity in blood flow between normal and stenosed arteries,<xref ref-type="bibr" rid="article-20545.r3">[3]</xref>&#x000a0;allowing clinicians to see more clearly than if the patient were at rest if there are regions of the heart muscle that are ischemic. Indeed, this allows the clinician to determine the presence and progression of any suspected or known coronary heart disease or if there is a history of myocardial infarction.<xref ref-type="bibr" rid="article-20545.r4">[4]</xref>&#x000a0;Additionally, a nuclear stress test can determine the potential or realized effectiveness of interventions or procedures (e.g., bypass surgery or the installation of a coronary stent) that can be implemented to improve myocardial blood perfusion in the treatment of such cardiac complications.<xref ref-type="bibr" rid="article-20545.r2">[2]</xref></p>
+        <p>One of the most commonly performed stress tests, which accompanies nuclear-based perfusion imaging, is exercise-based.<xref ref-type="bibr" rid="article-20545.r5">[5]</xref>&#x000a0;However, in certain circumstances, there may be contraindications for performing an exercise, and it is, subsequently, more appropriate to use a pharmacologically-based stress test involving the administration of dipyridamole, adenosine, or regadenoson.<xref ref-type="bibr" rid="article-20545.r2">[2]</xref><xref ref-type="bibr" rid="article-20545.r5">[5]</xref><xref ref-type="bibr" rid="article-20545.r6">[6]</xref>&#x000a0;Indeed, these vasodilators can emulate the cardiac response to exercise,<xref ref-type="bibr" rid="article-20545.r7">[7]</xref>&#x000a0;increasing myocardial perfusion to reveal ischemic regions while the patient remains physically passive throughout the test. Dipyridamole may not be the most potent vasodilator&#x000a0;<xref ref-type="bibr" rid="article-20545.r8">[8]</xref>,&#x000a0;but it is associated with a lower frequency of side effects (although longer lasting) than adenosine, and it is far more cost-effective than regadenoson.<xref ref-type="bibr" rid="article-20545.r2">[2]</xref><xref ref-type="bibr" rid="article-20545.r9">[9]</xref><xref ref-type="bibr" rid="article-20545.r10">[10]</xref>&#x000a0;</p>
+        <p>
+<bold>Mechanism of Action</bold>
+</p>
+        <p>Dipyridamole is a phosphodiesterase enzyme inhibitor. It indirectly increases myocardial perfusion by inhibiting the degradation of cyclic adenosine monophosphate and by blocking the cellular reuptake of endogenous adenosine. Subsequently, the concentration of circulating adenosine increases by 3- to 4-fold.<xref ref-type="bibr" rid="article-20545.r2">[2]</xref><xref ref-type="bibr" rid="article-20545.r3">[3]</xref>&#x000a0;Adenosine then acts on the A receptor, which upregulates the production of cyclic adenosine monophosphate.<xref ref-type="bibr" rid="article-20545.r2">[2]</xref>&#x000a0;Cyclic adenosine monophosphate then relaxes the vascular smooth muscle,<xref ref-type="bibr" rid="article-20545.r11">[11]</xref>&#x000a0;inducing vasodilation and increasing myocardial perfusion by 3.8- to 7-fold. Peak vasodilation after dipyridamole administration occurs on average 6.5 minutes after the start of the infusion.<xref ref-type="bibr" rid="article-20545.r2">[2]</xref>&#x000a0;The hyperemic effect of dipyridamole can last for more than 50 minutes, with the half-life of dipyridamole being 30 to 45 minutes.<xref ref-type="bibr" rid="article-20545.r2">[2]</xref>&#x000a0;The circulating adenosine may also act on the A, A and A receptors, which has the potential to induce several complications described further below.<xref ref-type="bibr" rid="article-20545.r2">[2]</xref>&#x000a0;It is metabolized in the liver to the glucuronic acid conjugate and excreted in the bile.</p>
+      </sec>
+      <sec id="article-20545.s3" sec-type="Indications">
+        <title>Indications</title>
+        <p>The indications for (list 1) an exercise nuclear stress test and conditions (list 2) where pharmacologic stress test is the recommended approach according to the American Society of Nuclear Cardiology,<xref ref-type="bibr" rid="article-20545.r2">[2]</xref> are detailed below:</p>
+        <p>A -&#x000a0;Detection of coronary artery disease: symptomatic</p>
+        <p>B -&#x000a0;Detection of coronary artery disease/risk assessment without ischemic equivalent.</p>
+        <p>C -&#x000a0;Risk assessment with prior test results and/or known chronic stable coronary artery disease</p>
+        <p>D -&#x000a0;Risk assessment: preoperative evaluation for noncardiac surgery without active cardiac condition</p>
+        <p>E -&#x000a0;Risk assessment: within 3 months of an acute coronary syndrome</p>
+        <p>F -&#x000a0;Risk assessment: Post-revascularization (percutaneous coronary intervention or coronary artery bypass grafting surgery)&#x000a0;</p>
+        <p>
+<bold>AND</bold>
+</p>
+        <p><bold>A. </bold>The patient does not possess the capacity to perform the required exercise due to non-cardiac physical limitations (e.g., musculoskeletal injury) and/or cognitive conditions, or if the patient doesn&#x02019;t want to exercise.</p>
+        <p><bold>B.</bold> If the patient presents with abnormal baseline electrocardiographic measurements such as left bundle branch block, ventricular pre-excitation (Wolff-Parkinson White syndrome), and/or permanent ventricular pacing.</p>
+        <p><bold>C.</bold> In the process of risk stratification for patients&#x000a0;after acute myocardial infarction who&#x000a0;are clinically stable at the time of presentation; and for patients who present to the emergency department with a suspected acute coronary syndrome, which has been excluded by&#x000a0;serial clinical evaluation, electrocardiograms, and serum markers.</p>
+      </sec>
+      <sec id="article-20545.s4" sec-type="Contraindications">
+        <title>Contraindications</title>
+        <p>The contraindications for a dipyridamole nuclear stress test, according to guidelines from the American Society of Nuclear Cardiology,<xref ref-type="bibr" rid="article-20545.r2">[2]</xref>&#x000a0;are as follows:</p>
+        <p><bold>(1)</bold>&#x000a0;If a patient has bronchospastic lung disease with ongoing wheezing or significant reactive airway disease.</p>
+        <p><bold>(2)&#x000a0;</bold>If a patient presents with systolic blood pressure less than 90 mmHg. (The risk of serious hypotension may be higher in patients with autonomic dysfunction, hypovolemia, stenotic valvular disease)&#x000a0;</p>
+        <p><bold>(3)&#x000a0;</bold>If the patient has uncontrolled hypertension, defined by a systolic blood pressure greater than 200 mmHg and/or diastolic blood pressure of 110 mmHg.</p>
+        <p><bold>(4)&#x000a0;</bold>If the patient has consumed caffeinated foods, beverages, or drugs within 12 hours of the scheduled test.</p>
+        <p><bold>(5)</bold>&#x000a0;If the patient has a known hypersensitivity to dipyridamole.</p>
+        <p><bold>(6)&#x000a0;</bold>If the patient has unstable angina or acute coronary syndrome; or has had an acute myocardial infarction within 4 days of the scheduled test.</p>
+        <p>The relative contraindications for a dipyridamole nuclear stress test, according to guidelines American Society of Nuclear Cardiology,<xref ref-type="bibr" rid="article-20545.r2">[2]</xref>&#x000a0;are as follows:</p>
+        <p><bold>(1)</bold>&#x000a0;If the patient presents with sinus bradycardia (i.e., heart rate of fewer than 40 beats per minute.</p>
+        <p><bold>(2)&#x000a0;</bold>If the patient has a second-degree or third-degree atrioventricular block without a functioning pacemaker.</p>
+        <p><bold>(3)&#x000a0;</bold>If the patient has severe aortic stenosis.</p>
+        <p><bold>(4)&#x000a0;</bold>If the patient is prone to seizures.&#x000a0;</p>
+      </sec>
+      <sec id="article-20545.s5" sec-type="Equipment">
+        <title>Equipment</title>
+        <p>In addition to an electrocardiogram and blood pressure monitor, as well as the obvious consumables (e.g., intravenous infusion equipment), a dipyridamole nuclear stress test requires the use of radioactive tracers, including but not limited to TI-201 and/or Tc-99m-labelled tracers.<xref ref-type="bibr" rid="article-20545.r2">[2]</xref>&#x000a0;Such radioactive tracers are detectable by imaging technologies such as single-photon emission computed tomography or positron emission tomography, producing an image of the blood flow throughout the patient&#x02019;s heart.<xref ref-type="bibr" rid="article-20545.r2">[2]</xref></p>
+      </sec>
+      <sec id="article-20545.s6" sec-type="Personnel">
+        <title>Personnel</title>
+        <p>A dipyridamole nuclear stress test should be performed under the supervision of a qualified health professional who is appropriately trained to administer stress tests and under the supervision of a nuclear cardiologist or radiologist qualified to administer the radioactive tracer.</p>
+      </sec>
+      <sec id="article-20545.s7" sec-type="Preparation">
+        <title>Preparation</title>
+        <p>According to guidelines from the American Society of Nuclear Cardiology, patients should be instructed not to eat for at least 3 hours before the stress test.<xref ref-type="bibr" rid="article-20545.r2">[2]</xref> Considering that methylxanthines are competitive inhibitors of adenosine receptors, which is the signaling pathway for the vasodilatory effect of dipyridamole, patients should also avoid consumption of any products containing methylxanthines for at least 12 hours prior to the stress test, including caffeinated beverages or foods (e.g., coffee, tea, soda, chocolate, etc.), drugs containing caffeine, theobromine, and theophylline.<xref ref-type="bibr" rid="article-20545.r2">[2]</xref><xref ref-type="bibr" rid="article-20545.r3">[3]</xref></p>
+      </sec>
+      <sec id="article-20545.s8" sec-type="Technique or Treatment">
+        <title>Technique or Treatment</title>
+        <p>The following protocol for a dipyridamole nuclear stress test is in the guidelines from the American Society of Nuclear Cardiology<xref ref-type="bibr" rid="article-20545.r2">[2]</xref>:</p>
+        <p><bold>(1)</bold>&#x000a0;Blood pressure and 12-lead electrocardiogram monitoring should be performed every minute throughout the stress test, up to 3 to 5 minutes after the test or when the patient is stable.</p>
+        <p><bold>(2)&#x000a0;</bold>Dipyridamole is administered intravenously over 4 minutes at a standardized dose of 0.56 mg/kg, with the upper limit of the weight-based dose set at 250 lbs. or 125 kg.</p>
+        <p><bold>(3)&#x000a0;&#x000a0; </bold>The radioactive tracer is then injected 3 to 5 minutes after complete infusion of the dipyridamole.</p>
+        <p><bold>(4)&#x000a0;</bold>Single-photon emission computed tomography or positron emission tomography is then performed 15 to 45 minutes after inducing the dipyridamole-mediated stress, producing images of the blood flow throughout the patient&#x02019;s heart.</p>
+        <p><bold>(5)&#x000a0;</bold>The infusion of dipyridamole should cease and aminophylline administered (50 to 250 mg; at least 1 minute after [if] the radioactive tracer has been injected) if the patient experiences any of the following:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Severe hypotension (systolic blood pressure of less than 80 mmHg)</p>
+          </list-item>
+          <list-item>
+            <p>Symptomatic, persistent second-degree, or complete heart block</p>
+          </list-item>
+          <list-item>
+            <p>Other significant cardiac arrhythmia</p>
+          </list-item>
+          <list-item>
+            <p>Wheezing,</p>
+          </list-item>
+          <list-item>
+            <p>Severe chest pain associated with an ST depression or signs of poor blood perfusion (e.g., cold skin, pallor, or cyanosis).</p>
+          </list-item>
+        </list>
+        <p><bold>(6)</bold> Indeed, the stress test should always be stopped early at the patient&#x02019;s request; and if there are technical problems with the imaging equipment.</p>
+        <p>Patients who are ambulatory may undergo low-level exercise combined with Dipyridamole infusion,&#x000a0; the American Society of Nuclear Cardiology guidelines stipulate the following protocol<xref ref-type="bibr" rid="article-20545.r2">[2]</xref>:</p>
+        <p><bold>(1)</bold>&#x000a0;Blood pressure and 12-lead electrocardiogram monitoring should be performed throughout the stress test, up to 3 to 5 minutes after the test or when the patient is stable.</p>
+        <p><bold>(2)</bold>&#x000a0;Dipyridamole is administered intravenously over a period of 4 minutes at a standardized dose of 0.56 mg/kg, with the upper limit of the weight-based dose set at 250 lb or 125 kg.</p>
+        <p><bold>(3)</bold>&#x000a0;The patient then begins 4 to 6 minutes of submaximal exercise (e.g., 1.7 mph, 0% grade) soon after the dipyridamole has been infused, and the radioactive tracer is injected within this time, while the patient is exercising.</p>
+        <p><bold>(4)</bold>&#x000a0;The patient continues exercising for at least 2 minutes after the tracer is injected to allow its distribution throughout the myocardium.</p>
+      </sec>
+      <sec id="article-20545.s9" sec-type="Complications">
+        <title>Complications</title>
+        <p>There are few risks associated with a nuclear stress test, but, in rare cases, some patients may have a treatable allergic reaction to the radioactive tracer.<xref ref-type="bibr" rid="article-20545.r12">[12]</xref>&#x000a0;Importantly, the amount of radiation in the radioactive tracer is of a small, safe quantity. However, the American Society of Nuclear Cardiology recommends avoiding the method of dual-isotope administration due to the associated increase in radiation exposure.<xref ref-type="bibr" rid="article-20545.r2">[2]</xref>&#x000a0;The complications associated with dipyridamole may last longer (15 to 25 minutes) than other vasodilators but, as mentioned above, may be less frequent.<xref ref-type="bibr" rid="article-20545.r2">[2]</xref>&#x000a0;These complications may include chest pain that may be nonspecific and not necessarily indicative of coronary artery disease, which occurs in 20% of patients, headache which is observed in 12% of patients, dizziness in 12%, ventricular extrasystoles in 5%, nausea in 5%, hypotension in 5%, flushing in 3%, atrioventricular block in 2%, and ST-segment and T-wave variations in 8% of patients.<xref ref-type="bibr" rid="article-20545.r2">[2]</xref>&#x000a0;Changes in the ST-segment and T-wave, however, may be indicative of true ischemia.<xref ref-type="bibr" rid="article-20545.r2">[2]</xref>&#x000a0;While fatal or nonfatal myocardial infarction during a dipyridamole nuclear stress test is extremely uncommon ( 0.26%), there are reports.<xref ref-type="bibr" rid="article-20545.r2">[2]</xref><xref ref-type="bibr" rid="article-20545.r13">[13]</xref> The recommendation is that aminophylline (50 to 250 mg intravenously) is readily available throughout a dipyridamole nuclear stress test to counter any of these adverse events. Methylxanthine (aminophylline) is not recommended for use in patients who experience seizures in association with dipyridamole stress testing.<xref ref-type="bibr" rid="article-20545.r2">[2]</xref><xref ref-type="bibr" rid="article-20545.r3">[3]</xref>&#x000a0;Interestingly, when combining dipyridamole with submaximal exercise, there are fewer complications.<xref ref-type="bibr" rid="article-20545.r14">[14]</xref>&#x000a0;It is also worth noting that the diagnostic accuracy of a dipyridamole nuclear stress test, like other vasodilators, will be reduced if the patient is taking beta-blockers, nitrates, and/or calcium antagonists.<xref ref-type="bibr" rid="article-20545.r2">[2]</xref>&#x000a0;</p>
+      </sec>
+      <sec id="article-20545.s10" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>Acknowledging that dipyridamole administration mediates an appropriate increase in perfusion, similar to that of exercise, the clinical significance of a dipyridamole nuclear stress test is highly dependent on the diagnostic values of the devices that monitor myocardial perfusion. A systematic review reported that the sensitivity, specificity, and accuracy of single-photon emission computed tomography for the diagnosis of coronary artery disease was 82% (95% confidence interval [CI]: 76% to 88%), 76% (95%CI: 70% to 82%) and 83% (95%CI: 77% to 89%), respectively.<xref ref-type="bibr" rid="article-20545.r15">[15]</xref>&#x000a0; Additionally, the sensitivity, specificity and accuracy of positron emission tomography was 91% (95%CI: 85% to 97%), 89% (95%CI: 83% to 95%) and 89% (95%CI: 83% to 95%), respectively.<xref ref-type="bibr" rid="article-20545.r15">[15]</xref> Indeed, while each represents excellent diagnostic and prognostic values, positron emission tomography may be superior to single-photon emission computed tomography.<xref ref-type="bibr" rid="article-20545.r15">[15]</xref> &#x000a0;Importantly, it is important to note that the type of radioactive tracer used in each study affected the diagnostic accuracy of these technologies.<xref ref-type="bibr" rid="article-20545.r15">[15]</xref></p>
+      </sec>
+      <sec id="article-20545.s11" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>A routine collaboration between health professionals who are directing the exercise stress tests and those who are responsible for directing the dipyridamole stress tests has the potential to reduce the burden on health resources and the patient. In circumstances where a patient begins an exercise stress test and cannot achieve the intensity to ensure the diagnostic sensitivity of the cardiac assessment (i.e., greater than 85% of the patient&#x02019;s age-predicted maximum heart rate), the data is often lost; and the patient will be required to return for a second stress test, most likely pharmacologically-based.<xref ref-type="bibr" rid="article-20545.r14">[14]</xref> Indeed, this wastes the resources needed to perform such tests, increases financial costs, and ultimately increases the mental burden of healthcare for the patient. With a routine collaboration, dipyridamole is an option if a patient is unable to perform the prescribed exercise, ensuring that myocardial perfusion is increased sufficiently to the point that the stress test and diagnostic procedure are completed within a single visit to the clinic.<xref ref-type="bibr" rid="article-20545.r2">[2]</xref><xref ref-type="bibr" rid="article-20545.r14">[14]</xref> Additionally, as mentioned above, this will have further benefits for the patient, reducing complications associated with dipyridamole administration alone.<xref ref-type="bibr" rid="article-20545.r14">[14]</xref> The nurse or pharmacist can explain how the drug works to the patient, outline potential adverse effects, and answer any patient questions.</p>
+        <p>In summary, stress test administration, whether routine exercise or drug-induced, requires an interprofessional team approach, including physicians, specialists, specialty-trained nurses, and pharmacists, all collaborating across disciplines to achieve optimal patient results. [Level 5]</p>
+      </sec>
+      <sec id="article-20545.s12" sec-type="Nursing, Allied Health, and Interprofessional Team Interventions">
+        <title>Nursing, Allied Health, and Interprofessional Team Interventions</title>
+        <p>If there are indications for stopping a dipyridamole nuclear stress test early, attending nurses may be charged with administering aminophylline to reverse any complications. Additionally, the nurse is capable of life-saving treatment in the rare case that a serious complication such as myocardial infarction occurs during the stress test.</p>
+      </sec>
+      <sec id="article-20545.s13" sec-type="Nursing, Allied Health, and Interprofessional Team Monitoring">
+        <title>Nursing, Allied Health, and Interprofessional Team Monitoring</title>
+        <p>Nurses play an essential role in monitoring the patient throughout the dipyridamole nuclear stress test, needing to quickly identify if the patient is impacted by any indications, as described above, for stopping the test early.</p>
+      </sec>
+      <sec id="article-20545.s14">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=20545&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=20545">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/20545/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=20545">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-20545.s15">
+        <title>References</title>
+        <ref id="article-20545.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zimarino</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Prati</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Marano</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Angeramo</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Pescetelli</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Gatto</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Marco</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Bruno</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>De Caterina</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>The value of imaging in subclinical coronary artery disease.</article-title>
+            <source>Vascul Pharmacol</source>
+            <year>2016</year>
+            <month>Jul</month>
+            <volume>82</volume>
+            <fpage>20</fpage>
+            <page-range>20-9</page-range>
+            <pub-id pub-id-type="pmid">26851577</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20545.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Henzlova</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Duvall</surname>
+                <given-names>WL</given-names>
+              </name>
+              <name>
+                <surname>Einstein</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Travin</surname>
+                <given-names>MI</given-names>
+              </name>
+              <name>
+                <surname>Verberne</surname>
+                <given-names>HJ</given-names>
+              </name>
+            </person-group>
+            <article-title>ASNC imaging guidelines for SPECT nuclear cardiology procedures: Stress, protocols, and tracers.</article-title>
+            <source>J Nucl Cardiol</source>
+            <year>2016</year>
+            <month>Jun</month>
+            <volume>23</volume>
+            <issue>3</issue>
+            <fpage>606</fpage>
+            <page-range>606-39</page-range>
+            <pub-id pub-id-type="pmid">26914678</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20545.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Leppo</surname>
+                <given-names>JA</given-names>
+              </name>
+            </person-group>
+            <article-title>Dipyridamole myocardial perfusion imaging.</article-title>
+            <source>J Nucl Med</source>
+            <year>1994</year>
+            <month>Apr</month>
+            <volume>35</volume>
+            <issue>4</issue>
+            <fpage>730</fpage>
+            <page-range>730-3</page-range>
+            <pub-id pub-id-type="pmid">8151403</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20545.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ahmad</surname>
+                <given-names>IG</given-names>
+              </name>
+              <name>
+                <surname>Abdulla</surname>
+                <given-names>RK</given-names>
+              </name>
+              <name>
+                <surname>Klem</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Margulis</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Ivanov</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Mohamed</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Judd</surname>
+                <given-names>RM</given-names>
+              </name>
+              <name>
+                <surname>Borges-Neto</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Heitner</surname>
+                <given-names>JF</given-names>
+              </name>
+            </person-group>
+            <article-title>Comparison of stress cardiovascular magnetic resonance imaging (CMR) with stress nuclear perfusion for the diagnosis of coronary artery disease.</article-title>
+            <source>J Nucl Cardiol</source>
+            <year>2016</year>
+            <month>Apr</month>
+            <volume>23</volume>
+            <issue>2</issue>
+            <fpage>287</fpage>
+            <page-range>287-97</page-range>
+            <pub-id pub-id-type="pmid">26268824</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20545.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Fletcher</surname>
+                <given-names>GF</given-names>
+              </name>
+              <name>
+                <surname>Ades</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Kligfield</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Arena</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Balady</surname>
+                <given-names>GJ</given-names>
+              </name>
+              <name>
+                <surname>Bittner</surname>
+                <given-names>VA</given-names>
+              </name>
+              <name>
+                <surname>Coke</surname>
+                <given-names>LA</given-names>
+              </name>
+              <name>
+                <surname>Fleg</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Forman</surname>
+                <given-names>DE</given-names>
+              </name>
+              <name>
+                <surname>Gerber</surname>
+                <given-names>TC</given-names>
+              </name>
+              <name>
+                <surname>Gulati</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Madan</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Rhodes</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Thompson</surname>
+                <given-names>PD</given-names>
+              </name>
+              <name>
+                <surname>Williams</surname>
+                <given-names>MA</given-names>
+              </name>
+              <collab>American Heart Association Exercise, Cardiac Rehabilitation, and Prevention Committee of the Council on Clinical Cardiology, Council on Nutrition, Physical Activity and Metabolism, Council on Cardiovascular and Stroke Nursing, and Council on Epidemiology and Prevention</collab>
+            </person-group>
+            <article-title>Exercise standards for testing and training: a scientific statement from the American Heart Association.</article-title>
+            <source>Circulation</source>
+            <year>2013</year>
+            <month>Aug</month>
+            <day>20</day>
+            <volume>128</volume>
+            <issue>8</issue>
+            <fpage>873</fpage>
+            <page-range>873-934</page-range>
+            <pub-id pub-id-type="pmid">23877260</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20545.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Leppo</surname>
+                <given-names>JA</given-names>
+              </name>
+            </person-group>
+            <article-title>Dipyridamole-thallium imaging: the lazy man's stress test.</article-title>
+            <source>J Nucl Med</source>
+            <year>1989</year>
+            <month>Mar</month>
+            <volume>30</volume>
+            <issue>3</issue>
+            <fpage>281</fpage>
+            <page-range>281-7</page-range>
+            <pub-id pub-id-type="pmid">2661748</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20545.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Nedeljkovic</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Ostojic</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Beleslin</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Djordjevic-Dikic</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Stepanovic</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Nedeljkovic</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Stojkovic</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Stankovic</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Saponjski</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Petrasinovic</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Giga</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Mitrovic</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Comparison of exercise, dobutamine-atropine and dipyridamole-atropine stress echocardiography in detecting coronary artery disease.</article-title>
+            <source>Cardiovasc Ultrasound</source>
+            <year>2006</year>
+            <month>May</month>
+            <day>03</day>
+            <volume>4</volume>
+            <fpage>22</fpage>
+            <pub-id pub-id-type="pmid">16672046</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20545.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Vasu</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Bandettini</surname>
+                <given-names>WP</given-names>
+              </name>
+              <name>
+                <surname>Hsu</surname>
+                <given-names>LY</given-names>
+              </name>
+              <name>
+                <surname>Kellman</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Leung</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Mancini</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Shanbhag</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Wilson</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Booker</surname>
+                <given-names>OJ</given-names>
+              </name>
+              <name>
+                <surname>Arai</surname>
+                <given-names>AE</given-names>
+              </name>
+            </person-group>
+            <article-title>Regadenoson and adenosine are equivalent vasodilators and are superior than dipyridamole- a study of first pass quantitative perfusion cardiovascular magnetic resonance.</article-title>
+            <source>J Cardiovasc Magn Reson</source>
+            <year>2013</year>
+            <month>Sep</month>
+            <day>24</day>
+            <volume>15</volume>
+            <issue>1</issue>
+            <fpage>85</fpage>
+            <pub-id pub-id-type="pmid">24063278</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20545.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Amer</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Hurren</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Edwin</surname>
+                <given-names>SB</given-names>
+              </name>
+              <name>
+                <surname>Cohen</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Regadenoson versus Dipyridamole: A Comparison of the Frequency of Adverse Events in Patients Undergoing Myocardial Perfusion Imaging.</article-title>
+            <source>Pharmacotherapy</source>
+            <year>2017</year>
+            <month>Jun</month>
+            <volume>37</volume>
+            <issue>6</issue>
+            <fpage>657</fpage>
+            <page-range>657-661</page-range>
+            <pub-id pub-id-type="pmid">28475259</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20545.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Johnston</surname>
+                <given-names>DL</given-names>
+              </name>
+              <name>
+                <surname>Daley</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Hodge</surname>
+                <given-names>DO</given-names>
+              </name>
+              <name>
+                <surname>Hopfenspirger</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Gibbons</surname>
+                <given-names>RJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Hemodynamic responses and adverse effects associated with adenosine and dipyridamole pharmacologic stress testing: a comparison in 2,000 patients.</article-title>
+            <source>Mayo Clin Proc</source>
+            <year>1995</year>
+            <month>Apr</month>
+            <volume>70</volume>
+            <issue>4</issue>
+            <fpage>331</fpage>
+            <page-range>331-6</page-range>
+            <pub-id pub-id-type="pmid">7898137</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20545.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hellsten</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Nyberg</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Jensen</surname>
+                <given-names>LG</given-names>
+              </name>
+              <name>
+                <surname>Mortensen</surname>
+                <given-names>SP</given-names>
+              </name>
+            </person-group>
+            <article-title>Vasodilator interactions in skeletal muscle blood flow regulation.</article-title>
+            <source>J Physiol</source>
+            <year>2012</year>
+            <month>Dec</month>
+            <day>15</day>
+            <volume>590</volume>
+            <issue>24</issue>
+            <fpage>6297</fpage>
+            <page-range>6297-305</page-range>
+            <pub-id pub-id-type="pmid">22988140</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20545.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Silberstein</surname>
+                <given-names>EB</given-names>
+              </name>
+              <name>
+                <surname>Ryan</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Prevalence of adverse reactions in nuclear medicine. Pharmacopeia Committee of the Society of Nuclear Medicine.</article-title>
+            <source>J Nucl Med</source>
+            <year>1996</year>
+            <month>Jan</month>
+            <volume>37</volume>
+            <issue>1</issue>
+            <fpage>185</fpage>
+            <page-range>185-92</page-range>
+            <pub-id pub-id-type="pmid">8543992</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20545.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lette</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Tatum</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Fraser</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Miller</surname>
+                <given-names>DD</given-names>
+              </name>
+              <name>
+                <surname>Waters</surname>
+                <given-names>DD</given-names>
+              </name>
+              <name>
+                <surname>Heller</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Stanton</surname>
+                <given-names>EB</given-names>
+              </name>
+              <name>
+                <surname>Bom</surname>
+                <given-names>HS</given-names>
+              </name>
+              <name>
+                <surname>Leppo</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Nattel</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Safety of dipyridamole testing in 73,806 patients: the Multicenter Dipyridamole Safety Study.</article-title>
+            <source>J Nucl Cardiol</source>
+            <year>1995</year>
+            <season>Jan-Feb</season>
+            <volume>2</volume>
+            <issue>1</issue>
+            <fpage>3</fpage>
+            <page-range>3-17</page-range>
+            <pub-id pub-id-type="pmid">9420757</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20545.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Vidal</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Beretta</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Alonso</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Mut</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>New exercise-dipyridamole combined test for nuclear cardiology in insufficient effort: appropriate diagnostic sensitivity keeping exercise prognosis.</article-title>
+            <source>Arq Bras Cardiol</source>
+            <year>2015</year>
+            <month>Aug</month>
+            <volume>105</volume>
+            <issue>2</issue>
+            <fpage>123</fpage>
+            <page-range>123-9</page-range>
+            <pub-id pub-id-type="pmid">26039661</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-20545.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Al Moudi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Sun</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Lenzo</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Diagnostic value of SPECT, PET and PET/CT in the diagnosis of coronary artery disease: A systematic review.</article-title>
+            <source>Biomed Imaging Interv J</source>
+            <year>2011</year>
+            <month>Apr</month>
+            <volume>7</volume>
+            <issue>2</issue>
+            <fpage>e9</fpage>
+            <pub-id pub-id-type="pmid">22287989</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

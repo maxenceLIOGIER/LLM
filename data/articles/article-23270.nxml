@@ -1,0 +1,1641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-23270" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Hypokalemic Periodic Paralysis</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Phuyal</surname>
+            <given-names>Prabin</given-names>
+          </name>
+          <aff>Saint Peter's University Hospital/Robert Wood Johnson Medical School</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Bhutta</surname>
+            <given-names>Beenish S.</given-names>
+          </name>
+          <aff>Sheikh Zayed Hospital, Lahore</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Nagalli</surname>
+            <given-names>Shivaraj</given-names>
+          </name>
+          <aff>Yuma Regional Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Prabin Phuyal declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Beenish Bhutta declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Shivaraj Nagalli declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>19</day>
+          <month>3</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-23270.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Hypokalemic periodic paralysis (hypoPP) is a rare channelopathy caused by skeletal muscle ion channel mutations, mainly affecting calcium or sodium channels. Patients with hypoPP experience a sudden onset of generalized or focal flaccid paralysis associated with low blood potassium levels (or hypokalemia), which can last for several hours before resolving spontaneously. Most cases of hypoPP are hereditary or familial.&#x000a0;Prompt diagnosis and prophylactic therapy are crucial to managing hypoPP and avoiding associated morbidity.&#x000a0;The evaluation for hypoPP includes excluding secondary causes such as hyperthyroidism through thyroid function tests and monitoring for electrocardiogram abnormalities such as prolonged QT interval. Based on patient response, treatment for hypoPP should follow a step-wise escalation, focusing on relieving acute symptoms, managing complications, and preventing future attacks. This underscores the importance of a coordinated approach to improving&#x000a0;patient outcomes.</p>
+        <p>This activity provides an overview of the evaluation and treatment of hypoPP, emphasizing the crucial role of the interprofessional healthcare team in both evaluating and treating this condition. An interprofessional healthcare team comprising hospitalists, nurses, dieticians, pharmacists, and geneticists collaborates to provide comprehensive care for managing hypoPP. This approach aims to improve patient outcomes by identifying and avoiding triggers, treating manifestations and complications, and reducing future attacks through monitoring for complications, dietary adjustments, medication management, and genetic testing for at-risk individuals.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Identify the key clinical features and diagnostic criteria of hypokalemic periodic paralysis to facilitate accurate diagnosis.</p></list-item><list-item><p>Screen patients presenting with episodes of muscle weakness for hypokalemia and perform necessary diagnostic tests for hypokalemic periodic paralysis.</p></list-item><list-item><p>Select and prescribe pharmacological therapies for hypokalemia periodic paralysis based on patient needs for acute attacks and long-term prophylaxis.</p></list-item><list-item><p>Collaborate with interprofessional healthcare teams to&#x000a0;optimize patient outcomes, minimize disease-related complications, and provide comprehensive care for patients with hypokalemia periodic paralysis.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=23270&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=23270">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-23270.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Hypokalemic periodic paralysis (hypoPP) is a rare disorder caused by skeletal muscle ion channel mutations, mainly affecting calcium or sodium channels. HypoPP is characterized by episodic severe muscle weakness, usually triggered by strenuous exercise or a high-carbohydrate&#x000a0;diet.&#x000a0;Patients with&#x000a0;hypoPP experience a sudden onset of generalized or focal flaccid paralysis associated with low blood serum potassium levels (or hypokalemia), which can last for several hours before resolving spontaneously.</p>
+        <p>The majority of hypoPP cases are hereditary or familial. The familial form of&#x000a0;hypoPP is a rare channelopathy resulting from mutations in either the calcium or sodium ion channels, predominantly affecting skeletal muscle cells. Acquired cases of hypoPP are also identified and associated with hyperthyroidism.&#x000a0;The disease-causing mutation in hypoPP, specifically in the <italic toggle="yes">CACNA1S</italic> gene, was identified by Jurkat-Rott et al in 1994.<xref ref-type="bibr" rid="article-23270.r1">[1]</xref></p>
+      </sec>
+      <sec id="article-23270.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p>Both hereditary or familial and acquired causes of hypoPP have been identified. Familial hypoPP is caused by mutations in&#x000a0;either of the 2 genes&#x02014;the calcium or sodium ion channel gene mutations. Over the last few decades, various mutations have been recognized as causes of hypoPP. The most common familial form, type 1 hypoPP, is characterized by a mutation in the dihydropyridine-sensitive skeletal muscle calcium channel gene, <italic toggle="yes">CACNA1S</italic>. On the other hand, the type 2 familial form of hypoPP is associated with mutations in the voltage-sensitive skeletal muscle sodium channel gene, <italic toggle="yes">SCN4A</italic>. In addition, disease-causing mutations in the genes <italic toggle="yes">KCNJ2</italic> and <italic toggle="yes">KCNJ18</italic>, which code for the inward rectifier potassium (Kir) channel, have also been identified as contributors to hypoPP.<xref ref-type="bibr" rid="article-23270.r2">[2]</xref><xref ref-type="bibr" rid="article-23270.r3">[3]</xref><xref ref-type="bibr" rid="article-23270.r4">[4]</xref><xref ref-type="bibr" rid="article-23270.r5">[5]</xref>&#x000a0;</p>
+        <p>Acquired hypoPP has been associated with thyrotoxicosis, whereas the familial form and thyrotoxic hypoPP constitute the primary hypoPP.&#x000a0;Periodic muscle weakness can also result from hypokalemia due to potassium loss secondary to renal and gastrointestinal issues such as renal tubular acidosis, gastroenteritis, or endocrine-related causes.</p>
+      </sec>
+      <sec id="article-23270.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p>In general, hypoPP is a rare disorder with an estimated prevalence of 1 in 100,000. Most familial cases exhibit an autosomal dominant inheritance pattern with incomplete penetrance, particularly noticeable in women. The genetic disorder may also be acquired in patients with thyrotoxicosis or familial with autosomal dominant inheritance.<xref ref-type="bibr" rid="article-23270.r6">[6]</xref> This&#x000a0;disorder typically manifests with lower clinical expression in women due to lower penetrance and attack rates compared to men.<xref ref-type="bibr" rid="article-23270.r7">[7]</xref>&#x000a0;Moreover, women also experience fewer muscle weakness attacks than men. Many cases are sporadic, representing new mutations.<xref ref-type="bibr" rid="article-23270.r8">[8]</xref><xref ref-type="bibr" rid="article-23270.r9">[9]</xref>&#x000a0;Most cases of thyrotoxic hypoPP are sporadic and more prevalent among individuals of Asian descent, with a male predominance of 9 to 1.<xref ref-type="bibr" rid="article-23270.r10">[10]</xref></p>
+      </sec>
+      <sec id="article-23270.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>The most common genetic abnormality in hypoPP is a missense mutation affecting positively charged residues, such as arginine, in the S4 domain of the alpha subunit (voltage sensor domain) of the skeletal muscle ion channel. This mutation predominantly affects the <italic toggle="yes">L</italic>-type calcium channel (Cav1.1) and, less commonly, the voltage-gated sodium channel (Nav1.4).<xref ref-type="bibr" rid="article-23270.r4">[4]</xref>&#x000a0;These mutations disrupt the normal flow of electric current through the voltage sensor domain of the ion channel, resulting in muscle cell membrane inexcitability. Consequently, this leads to the failure of muscle action potential generation and subsequent episodes of flaccid paralysis.<xref ref-type="bibr" rid="article-23270.r11">[11]</xref><xref ref-type="bibr" rid="article-23270.r12">[12]</xref>&#x000a0;</p>
+        <p>Over the past few decades, several mutations in genes such as&#x000a0;<italic toggle="yes">CACNA1S</italic>, <italic toggle="yes">SCN4A</italic>, and <italic toggle="yes">KCNJ2</italic>, responsible for approximately 70% to 80% of hypoPP cases, have been discovered, leaving the remainder genetically&#x000a0;undetermined.&#x000a0;In 90% of identified cases, arginine mutation in the S4 segment remains the primary cause.<xref ref-type="bibr" rid="article-23270.r3">[3]</xref>&#x000a0;However, other potential mutations contributing to hypoPP are still unknown.</p>
+        <p>The existence and characteristics of gating pore currents have been extensively studied and understood primarily in sodium channels. Numerous experiments have illustrated the presence of anomalous gating pore currents associated with <italic toggle="yes">SCN4A</italic> mutations in sodium channels during the resting phase. These abnormal gating pore currents lead to an inward nonselective cation leak, inducing aberrant depolarization sufficient to render the resting potential of muscle fibers unstable.<xref ref-type="bibr" rid="article-23270.r2">[2]</xref>&#x000a0;</p>
+        <p>When serum potassium level drops below 3.0 mEq/L (3.0&#x000a0;mmol/L), the affected fibers paradoxically undergo sustained depolarization, making muscle electrically inexcitable, whereas normal fibers undergo hyperpolarization at this drop in serum potassium. Normally, the inward rectifying potassium (Kir) channel and membrane Na-K-ATPase maintain the normal negative resting membrane potential. However, in the presence of <italic toggle="yes">CACNA1S</italic> and <italic toggle="yes">SCN4A</italic> mutations, the depolarization induced by the gating pore currents, at the modest drop in serum potassium levels to around 3.0 mEq/L (3.0&#x000a0;mmol/L), counterbalances the Kir current,&#x000a0;resulting in sustained depolarization.<xref ref-type="bibr" rid="article-23270.r4">[4]</xref><xref ref-type="bibr" rid="article-23270.r5">[5]</xref><xref ref-type="bibr" rid="article-23270.r13">[13]</xref></p>
+        <p>Limited experimental studies have provided evidence of gating pore currents in calcium channels. Despite this, due to the similarity in phenotypic expression between hypoPP caused by sodium and calcium channel mutations, it is believed that gating pore currents also exist in calcium channels. While not fully understood, several observations from various experimental studies shed light on the potential mechanisms underlying muscle weakness in the presence of calcium channel defects, as mentioned below.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Mutations in calcium channels typically result in a loss of function. Electrophysiological investigations have revealed slower activation of calcium channels and reduced calcium current density. However, this observed reduction in calcium current does not directly correlate with episodes of depolarization, hypokalemia, and subsequent muscle weakness attacks.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>In an experimental study, muscle biopsies from&#x000a0;3 hypoPP patients with the R528H mutation of the calcium channel (Cav1.1) revealed abnormal sarcolemmal ATP-sensitive K+ (KATP) channel function. This was supported by the lack of stimulation of the channel by magnesium adenosine diphosphate (MgADP). The KATP channel exhibited reduced opening and conductance states, resulting in reduced K current, which is likely associated with depolarization during hypokalemia. The altered function of the KATP channel is attributed to altered Ca2+ homeostasis caused by the calcium channel mutation. This observation suggests a possible secondary channelopathy in&#x000a0;patients with hypoPP.<xref ref-type="bibr" rid="article-23270.r8">[8]</xref><xref ref-type="bibr" rid="article-23270.r14">[14]</xref></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-23270.s6" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>Although the genetic abnormality remains throughout the life span of an affected individual, the mean age of presentation of attacks is the first or second decade of life, commonly during late childhood or teenage years. The frequency of these attacks tends to decrease as individuals age. However, in cases of thyrotoxic hypoPP, onset usually occurs after the age of 20. HypoPP is characterized by sporadic attacks rather than regular occurrences, with episodes occurring suddenly and episodically. The most consistent triggers are rest following strenuous exercise and consumption of carbohydrate-rich diets.&#x000a0;</p>
+        <p>These triggering factors lead to an increase in plasma epinephrine or insulin levels, causing an intracellular shift of potassium and subsequently lowering serum potassium levels, thus initiating episodes of weakness. Other identified but less consistent triggers include excitement, stress, fear, cold temperatures, high salt intake, glucocorticoid use, alcohol consumption, or undergoing anesthesia procedures.<xref ref-type="bibr" rid="article-23270.r15">[15]</xref>&#x000a0;Patients typically experience sudden and severe attacks of generalized muscle weakness, with more pronounced involvement of proximal muscles than distal muscles and a significant decrease in serum potassium levels (below 2.5 mmol/L).<xref ref-type="bibr" rid="article-23270.r13">[13]</xref>&#x000a0;Usually, patients go to bed in a normal state of health and wake up in the middle of the night or the morning, experiencing an attack of muscle weakness.&#x000a0;</p>
+        <p>Many patients also report experiencing prodromal symptoms such as fatigue, paresthesias, and behavioral changes a day before a muscle weakness attack. However, when attacks are incomplete, they typically affect the lower limbs more than the upper limbs. Bulbar, ocular, and respiratory muscles are usually unaffected, although respiratory muscle involvement can be life-threatening in severe cases.<xref ref-type="bibr" rid="article-23270.r1">[1]</xref>&#x000a0;The pattern of muscle weakness is similar in both familial and thyrotoxic hypoPP, and signs of hyperthyroidism are often evident in most cases of thyrotoxic hypoPP, although they may not always be present. Muscle weakness attacks occur during periods of hyperthyroidism and never during normal thyroid function. The frequency of attacks varies widely, with some patients experiencing attacks only once in their lifetime, while others may have them several times a week.<xref ref-type="bibr" rid="article-23270.r15">[15]</xref>&#x000a0;Women tend to have fewer attacks than men. The duration of each attack varies as well, ranging from minutes to days, with some attacks lasting several hours before resolving spontaneously.&#x000a0;</p>
+        <p>During a muscle weakness attack, neurological examination typically reveals generalized muscle weakness, with proximal muscles more affected than distal ones. In incomplete attacks, the legs are often more involved than the arms. Hyporeflexia or areflexia is a common finding. Neurological examination findings are typically normal between attacks. Myotonia is uncommon in hypoPP, unlike hyperkalemic periodic paralysis, where myotonia is a common feature.<xref ref-type="bibr" rid="article-23270.r8">[8]</xref><xref ref-type="bibr" rid="article-23270.r16">[16]</xref></p>
+        <p>Some individuals with hypoPP may experience a milder form of muscle weakness between attacks that fluctuates and improves with mild exercise.<xref ref-type="bibr" rid="article-23270.r10">[10]</xref>&#x000a0;In a case series involving 71 diagnosed hypoPP patients, those without identified mutations differed from those with mutations in several aspects. These differences included disease onset occurring in older age, the absence of dietary triggers, and muscle biopsy findings not showing vacuolar myopathy. Additionally, phenotypic variations were observed among patients with mutations in this case series. Patients with sodium channel mutations tended to have shorter attack durations, while vacuolar changes were more common in those with calcium channel mutations. Tubular aggregates were observed in patients with sodium channel mutations.<xref ref-type="bibr" rid="article-23270.r9">[9]</xref></p>
+      </sec>
+      <sec id="article-23270.s7" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>HypoPP is suspected when an individual presents with a sudden attack of flaccid muscle weakness involving proximal muscles, accompanied by either decreased or normal deep tendon reflexes, especially after exposure to known triggering factors. A positive family history or previous personal history of similar muscle weakness attacks further raises suspicion. In cases where a family history of hypoPP is confirmed, additional diagnostic investigations are unnecessary to confirm the diagnosis of a paralytic attack episode. However, without a family history, a low serum potassium level during a typical weakness episode helps establish the diagnosis.</p>
+        <p>Though the diagnosis of hypoPP is usually straightforward, additional laboratory investigations are often conducted to rule out secondary causes. These may include a thyroid function test (measuring TSH, T3, and T4 levels) to exclude hyperthyroidism, an electrocardiogram (ECG) to detect changes consistent with hypokalemia, and possibly identifying features of Anderson syndrome such as a prolonged QT interval on the ECG.<xref ref-type="bibr" rid="article-23270.r13">[13]</xref></p>
+        <p>Diagnosing hypoPP can be challenging outside of attack episodes, as serum potassium levels typically remain normal during interictal periods in primary hypoPP. A low serum potassium level between attacks often indicates a secondary cause of hypokalemia, such as distal renal tubular acidosis.<xref ref-type="bibr" rid="article-23270.r10">[10]</xref><xref ref-type="bibr" rid="article-23270.r17">[17]</xref> Additional diagnostic options include genetic testing, provocative testing, and electromyography (EMG).&#x000a0;</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Genetic testing is used to identify mutations in primary hypoPP, especially when the likelihood of a genetic cause is high. However, it is noteworthy that not all mutations may be identified through genetic testing, as some remain genetically undetermined. In cases where genetic testing fails to reveal a mutation, provocative testing and EMG can be valuable tools to guide diagnosis and further characterize the condition.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Provocative testing using potassium, insulin, or glucose administration can be used to diagnose hypoPP. However, it is important to note that this testing can be potentially dangerous, as it may lead to life-threatening arrhythmias or hypoglycemia. Patients undergoing provocative testing require intensive monitoring in a hospital setting before confirming the diagnosis. Alternatively, the exercise test is considered relatively safer for diagnosing hypoPP.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>During episodes of muscle weakness, EMG may reveal a reduced amplitude of compound muscle action potential (CMAP) and electrical silence, the extent of which depends on the severity of muscle weakness observed during the attack.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Between attacks, EMG techniques such as the "exercise test" can be employed to assess the change in muscle fiber excitability due to channelopathy. During the long exercise test, a focal muscle weakness attack is induced by vigorous exercise of a single muscle for 2 to 5 minutes, and EMG measurements track the post-exercise CAMP in muscle fibers. A reduction of 40% or more in CAMP is considered abnormal and typical for periodic paralysis. The study showed no false-positive results when the reduction was more than 40% or more, and this change was present in greater than 70% of patients.&#x000a0;The abduction range of the little finger, measured postexercise,&#x000a0;is an alternative parameter to CAMP in a long exercise test to diagnose hypoPP between attacks of muscle weakness.</p>
+          </list-item>
+        </list>
+        <list list-type="bullet">
+          <list-item>
+            <p>Interattack muscle biopsy is usually not performed to confirm the diagnosis. Biopsy findings may include vacuolar changes or tubular aggregates, but these are nonspecific and not diagnostic of periodic paralysis. Tubular aggregates are more commonly associated with Andersen syndrome and the sodium channel mutation variant of hypoPP.<xref ref-type="bibr" rid="article-23270.r8">[8]</xref><xref ref-type="bibr" rid="article-23270.r13">[13]</xref><xref ref-type="bibr" rid="article-23270.r18">[18]</xref><xref ref-type="bibr" rid="article-23270.r19">[19]</xref><xref ref-type="bibr" rid="article-23270.r20">[20]</xref><xref ref-type="bibr" rid="article-23270.r21">[21]</xref><xref ref-type="bibr" rid="article-23270.r22">[22]</xref><xref ref-type="bibr" rid="article-23270.r23">[23]</xref></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="article-23270.s8" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>The primary goals of treating hypoPP are to alleviate acute attack symptoms, prevent and manage immediate complications, and prevent both late complications and future attacks.&#x000a0;</p>
+        <p><bold>Acute Treatment</bold>&#x000a0;</p>
+        <p>The primary goal is to normalize serum potassium levels by administering oral potassium chloride, which is more readily absorbed than other oral potassium solutions and helps alleviate muscle weakness symptoms. Treatment typically begins with incremental doses of oral potassium chloride, starting at 0.5 to 1 mEq/kg (equivalent to 60-120 mEq for a 60 kg individual). If there is no response to the initial dose, a repeat dose of 30% (0.3 mEq/kg) can be administered every 30 minutes.<xref ref-type="bibr" rid="article-23270.r15">[15]</xref>&#x000a0;Some clinicians suggest administration at a slower rate (10 mEq/h) to minimize rebound hyperkalemia.<xref ref-type="bibr" rid="article-23270.r24">[24]</xref>&#x000a0;</p>
+        <p>If a patient requires more than 100 mEq of oral potassium, close monitoring of serum potassium levels is essential, and the total oral potassium dose should not exceed 200 mEq within 24 hours of initiating treatment. The initial dose of oral potassium may vary based on the severity of hypokalemia. Patients should be monitored with ECG, and muscle strength should be assessed regularly. Serum potassium levels should be monitored for 24 hours after treatment, as the post-treatment rise in serum potassium levels can have adverse effects on patients.&#x000a0;</p>
+        <p>Intravenous (IV) potassium is not typically the first choice of treatment and is reserved for specific situations such as arrhythmias due to hypokalemia, swallowing difficulties, or respiratory muscle paralysis. When IV potassium is necessary, it is preferably administered with mannitol rather than dextrose or saline. This preference is due to the potential of carbohydrates and salt to trigger muscle paralysis, which may exacerbate weakness.<xref ref-type="bibr" rid="article-23270.r18">[18]</xref><xref ref-type="bibr" rid="article-23270.r25">[25]</xref>&#x000a0;IV&#x000a0;potassium therapy necessitates inpatient care with continuous ECG monitoring. A common protocol involves infusing 40 mEq/L of IV potassium in a 5% mannitol solution at a rate not exceeding 20 mEq/h, with a total dosage not exceeding 200 mEq in 24 hours.</p>
+        <p>Individuals experiencing milder attacks can also benefit from low-level exercises. These exercises can help improve muscle function and reduce the severity of symptoms during attacks.</p>
+        <p><bold>Preventive Treatment</bold>&#x000a0;</p>
+        <p>Both pharmacological and nonpharmacological interventions can be used to prevent recurrent future attacks. Nonpharmacological interventions include educating patients about trigger factors and implementing lifestyle modifications to avoid these triggers, as discussed later. Pharmacological interventions include medications such as chronic potassium supplementation, carbonic anhydrase inhibitors, and potassium-sparing diuretics when lifestyle modifications alone are insufficient in reducing attack rates. The preferred approach involves combining one diuretic with chronic potassium supplementation, with the initial choice of diuretic being the carbonic anhydrase inhibitor acetazolamide.</p>
+        <p>Carbonic anhydrase inhibitors have shown efficacy in decreasing future attacks of muscle weakness in hypoPP, although the exact mechanism in hypoPP remains unclear. These inhibitors work by promoting urinary potassium loss and inducing non-anion gap metabolic acidosis, thereby reducing the patient's susceptibility to muscle paralysis. Additionally, carbonic anhydrase inhibitors may enhance the opening of calcium-activated potassium channels. They also help reduce intracellular sodium accumulation, mitigating cellular toxicity and preventing muscle degeneration, which can effectively treat permanent weakness.&#x000a0;A dosage of 250 mg of acetazolamide taken twice daily has been found to effectively reduce the frequency of attacks in hypoPP patients.<xref ref-type="bibr" rid="article-23270.r10">[10]</xref></p>
+        <p>The genetic variation in response to acetazolamide treatment among hypoPP patients. Patients with SCN4A mutations tend to show a weaker response compared to those with CACNA1S mutations. A study involving 74&#x000a0;identified cases of hypoPP revealed that 56% (31 out of 55) of patients with CACNA1S mutations responded positively to acetazolamide therapy, while only 16% (3 out of 19) of patients with SCN4A mutations showed a response. In fact, some patients with SCN4A mutations reported worsened symptoms with acetazolamide therapy.<xref ref-type="bibr" rid="article-23270.r9">[9]</xref>&#x000a0;Despite this variability, approximately half of hypoPP patients benefit from acetazolamide treatment.</p>
+        <p>The U.S. Food and Drug Administration (FDA) recently approved dichlorphenamide for the treatment of hypoPP. A dosage of 50 mg twice daily has been shown to be more effective than a placebo in reducing the frequency, severity, and duration of future attacks.<xref ref-type="bibr" rid="article-23270.r13">[13]</xref><xref ref-type="bibr" rid="article-23270.r26">[26]</xref><xref ref-type="bibr" rid="article-23270.r27">[27]</xref>&#x000a0;Dichlorphenamide is considered the first-line treatment or an alternative for patients who do not adequately respond to or are refractory to acetazolamide.&#x000a0;</p>
+        <p>Some patients have also experienced benefits from the addition of a potassium-sparing diuretic such as spironolactone (100 mg daily) or triamterene (150 mg daily) either in combination with carbonic anhydrase inhibitors or as monotherapy.<xref ref-type="bibr" rid="article-23270.r8">[8]</xref> Regular electrolyte monitoring is essential for patients on diuretic therapy. Although there is no definitive therapy established for late-onset myopathy associated with hypoPP, reducing the frequency of muscle weakness attacks can help mitigate the resulting myopathy.<xref ref-type="bibr" rid="article-23270.r28">[28]</xref><xref ref-type="bibr" rid="article-23270.r29">[29]</xref>&#x000a0;The results of a study also reported the improvement in severity and frequency of attacks with topiramate therapy in 11-year-old twins with hypoPP, necessitating further study regarding the efficacy of topiramate in hypoPP.<xref ref-type="bibr" rid="article-23270.r30">[30]</xref></p>
+        <p>
+<bold>Special Consideration</bold>
+</p>
+        <p><bold>Surgery and hypoPP:&#x000a0;</bold>Patients with hypoPP with <italic toggle="yes">CACNA1S</italic> mutation are susceptible to malignant hyperthermia due to the gene's association with increased susceptibility to this condition. Surgeons and anesthesiologists must be aware of this risk when using inhalational anesthetics and muscle relaxants such as succinylcholine during surgery and be prepared to manage it. Additionally, factors such as cold environments, the administration of saline and dextrose during surgery, and the stress of the surgical procedure itself can trigger muscle weakness in these patients. Therefore, close potassium monitoring is crucial during the peri-surgical period.&#x000a0;</p>
+        <p><bold>Pregnancy:&#x000a0;</bold>The management of potassium levels during attacks should remain consistent with the pre-pregnancy state. However, medications such as acetazolamide and dichlorphenamide are classified as FDA pregnancy category C. Therefore, their use during pregnancy presents challenges, and healthcare providers must carefully consider the risks and benefits of medication use in pregnant women. Some pregnant individuals may choose not to take these medications during pregnancy due to concerns about potential risks.<xref ref-type="bibr" rid="article-23270.r18">[18]</xref></p>
+      </sec>
+      <sec id="article-23270.s9" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <p>The differential diagnosis of primary hypoPP includes hyperkalemic or normokalemic periodic paralysis, thyrotoxic periodic paralysis, Andersen-Tawil syndrome, secondary hypokalemia, myasthenia gravis, and paramyotonia congenita.&#x000a0;These conditions are associated with recurrent episodes of hypokalemia, episodic attacks of muscle weakness, and weakness or stiffness related to exercise.&#x000a0;</p>
+        <p>
+<bold>Normokalemic and Hyperkalemic Periodic Paralysis</bold>
+</p>
+        <p>This condition differs from hypoPP in several ways, as mentioned below.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Normal or elevated serum potassium levels during attacks.</p>
+          </list-item>
+          <list-item>
+            <p>Absence of some precipitating factors for hypoPP, such as carbohydrate-rich meals.</p>
+          </list-item>
+          <list-item>
+            <p>Younger age of onset of attacks with high penetrance.</p>
+          </list-item>
+          <list-item>
+            <p>EMG findings may show myotonic discharges between attacks, but it can be challenging to distinguish EMG findings during exercise tests from those in hypoPP.</p>
+          </list-item>
+          <list-item>
+            <p>The response to oral potassium might differ from that&#x000a0;of hypoPP, potentially ameliorating or worsening symptoms.<xref ref-type="bibr" rid="article-23270.r15">[15]</xref></p>
+          </list-item>
+        </list>
+        <p>Generally, the distinction between hypoPP and normokalemic or hyperkalemic periodic paralysis&#x000a0;is based on potassium levels during attacks, EMG findings, and genetic testing.</p>
+        <p>
+<bold>Andersen-Tawil Syndrome&#x000a0;</bold>
+</p>
+        <p>Andersen-Tawil syndrome is caused by a mutation in the <italic toggle="yes">KCNJ2</italic> gene, which is responsible for encoding the inward rectifier potassium (Kir2.1) channel. Although approximately 60% of patients with this syndrome exhibit mutations in the <italic toggle="yes">KCNJ2</italic> gene, the genetic cause remains unidentified in the remaining cases. The mutation in the&#x000a0;<italic toggle="yes">KCNJ2</italic>&#x000a0;gene affects various tissues, resulting in considerable phenotypic variability. Typical presentations include periodic paralysis and cardiac manifestations, often accompanied by distinctive facial features and skeletal anomalies due to aberrant skeletal muscle development.<xref ref-type="bibr" rid="article-23270.r15">[15]</xref>&#x000a0;</p>
+        <p>The distinctive skeletal anomalies associated with Andersen-Tawil syndrome include low-set ears, a small mandible, widely spaced eyes, clinodactyly of the fifth digit, syndactyly, scoliosis, short stature, and a broad forehead. Symptoms typically manifest early in life, usually in the first or second decade, with patients experiencing either cardiac symptoms or muscle weakness following periods of prolonged rest or after strenuous exercise. Serum potassium levels in affected individuals may be elevated, normal, or reduced. Permanent weakness often develops in these patients over time.</p>
+        <p>Cardiac manifestations are common and may include ventricular arrhythmias such as premature ventricular complexes, complex ventricular ectopic beats, and various forms of ventricular tachycardia, including polymorphic and bidirectional types. Despite these cardiac issues, syncope and cardiac arrest are rare occurrences in Andersen-Tawil syndrome.&#x000a0;</p>
+        <p>The ECG findings in Andersen-Tawil syndrome typically include a prolonged QT interval, prominent U waves, ectopic beats, and episodes of ventricular tachycardia. Additionally, the EMG response to both short and long exercise tests&#x000a0;is similar to hypoPP. Therefore, genetic testing remains crucial for confirming the diagnosis of Andersen-Tawil syndrome.</p>
+        <p>Treatment is needed for episodes of muscle paralysis and cardiac manifestations. Treatment of acute attack of muscle paralysis depends on the potassium level and thus is individualized. ECG monitoring is needed to look for any arrhythmia. Patients are treated empirically with antiarrhythmics to prevent the occurrence of arrhythmias. Flecainide has&#x000a0;proven benefits in preventing arrhythmia in&#x000a0;these&#x000a0;patients.<xref ref-type="bibr" rid="article-23270.r13">[13]</xref></p>
+        <p>
+<bold>Thyrotoxic Periodic Paralysis</bold>
+</p>
+        <p>Thyrotoxic periodic paralysis shares a similar pattern of muscle weakness with familial hypoPP, except for distinct clinical features related to hyperthyroidism.<xref ref-type="bibr" rid="article-23270.r8">[8]</xref>&#x000a0;The manifestation of thyrotoxic periodic paralysis requires the presence of hyperthyroidism, and affected individuals often exhibit features of hyperthyroidism, which can sometimes be subtle. Notably, muscle paralysis associated with thyrotoxic periodic paralysis does not occur when thyroid function is within normal levels. The age of symptoms manifestation is usually late compared to familial hypoPP. Most of the cases of thyrotoxic periodic paralysis are sporadic, lack a positive family history, and are most prevalent in Asian males.&#x000a0;</p>
+        <p>A case series identified the mutation on inward rectifying potassium (Kir) channels, coded by <italic toggle="yes">KCNJ18</italic>, in approximately one-third of the patients with thyrotoxic periodic paralysis.<xref ref-type="bibr" rid="article-23270.r31">[31]</xref>&#x000a0;The increase in the activity of sodium-potassium ATPase (Na/K-ATPase) is believed to result in the intracellular potassium shift and hypokalemia.&#x000a0;EMG response to the short and long exercise tests is usually similar to hypoPP.<xref ref-type="bibr" rid="article-23270.r32">[32]</xref>&#x000a0;Treatment of hyperthyroidism is the mainstay of therapy, which usually results in the remission of muscle paralysis.<xref ref-type="bibr" rid="article-23270.r15">[15]</xref><xref ref-type="bibr" rid="article-23270.r33">[33]</xref></p>
+        <p>
+<bold>Paramyotonia Congenita</bold>
+</p>
+        <p>Paramyotonia congenita is a congenital muscle weakness disorder characterized by myotonia triggered by cold temperatures and aggravated with continued activity. Patients develop prolonged myotonia or weakness in a localized group of muscles, and these symptoms are unrelated to changes in serum potassium levels. Typically, muscles affected include those in the eyelids, neck, and upper limbs. Patients often present during childhood with complaints of difficulty opening their eyes after rapid and forceful successive closures.</p>
+        <p>Weakness and myotonia in paramyotonia congenita typically last for minutes to hours. Following muscle exertion, cold-induced weakness can persist for several hours. Importantly, this condition is non-progressive and does not lead to muscle wasting or hypertrophy over time. Paramyotonia congenita is caused by mutations in the sodium channel gene <italic toggle="yes">SCN4A</italic>, which encodes the &#x003b1;-subunit of skeletal muscle sodium channels, specifically affecting the voltage sensor domain.&#x000a0;</p>
+        <p>Patients usually live a normal life where longevity is unaffected. The serum potassium level is moderately elevated. EMG during the cooling of a muscle shows profuse myotonic discharges and reduced CAMP amplitudes. The mainstay of therapy is an avoidance of cold exposure and physical overactivity.<xref ref-type="bibr" rid="article-23270.r1">[1]</xref>&#x000a0;</p>
+        <p>
+<bold>Secondary Hypokalemia </bold>
+</p>
+        <p>The&#x000a0;predominant symptom of hypokalemia is muscle weakness, and episodes of weakness can occur due to chronic hypokalemia secondary to various underlying conditions affecting renal, gastrointestinal, endocrine, and iatrogenic systems. Some common causes of chronic hypokalemia include diuretics use, type IV renal tubular acidosis, hyperaldosteronism, hyperglucocorticoidism, Gitelman syndrome, Bartter syndrome, and Liddle syndrome.</p>
+        <p>A key indicator of secondary hypokalemia is a low potassium level observed between attacks. In such cases, a thorough examination of the patient should be conducted to identify systemic manifestations of underlying disorders. Careful assessment of the patient's blood pressure, urine potassium levels, and blood bicarbonate levels is essential to rule out potential secondary causes of hypokalemia.</p>
+        <p>
+<bold>Metabolic Myopathies</bold>
+</p>
+        <p>Metabolic myopathies typically present with symptoms such as fatigue, exercise intolerance, and myalgia rather than overt muscle weakness. Rhabdomyolysis is a common occurrence and may result from&#x000a0;strenuous exercise, stress, illness, or exposure to cold temperatures. Diagnosis of metabolic myopathies often requires a muscle biopsy to assess for specific metabolic abnormalities.</p>
+        <p>
+<bold>Myasthenia Gravis</bold>
+</p>
+        <p>Myasthenia gravis is characterized by weakness that is not episodic as in periodic paralysis; instead, weakness in myasthenia gravis is predictable and often triggered by exertion. This condition commonly affects extraocular and bulbar muscles, unlike hypoPP. Respiratory muscle involvement is typical during a myasthenic crisis. Fatigue is a common complaint among patients. Onset typically occurs in the second to third decades with a higher prevalence in females or later in life during the sixth to eighth decades with a male predominance.</p>
+        <p>The first episode of quadriparesis&#x000a0;can be&#x000a0;mistaken&#x000a0;for the paralytic attacks of Guillain-Barr&#x000e9;<italic toggle="yes">&#x000a0;</italic>syndrome, acute myelopathy, myasthenia crisis, tick paralysis, and botulism. However, the diagnosis of hypoPP is more likely when there is a low potassium level coupled with the absence of specific clinical features such as ocular and bulbar involvement, sensory abnormalities, dysautonomia, recent travel history and insect bites, fever, or recent illness. These differential factors help to differentiate hypoPP from other causes of paralysis.</p>
+      </sec>
+      <sec id="article-23270.s10" sec-type="Prognosis">
+        <title>Prognosis</title>
+        <p>The prognosis of&#x000a0;hypoPP&#x000a0;varies significantly from one individual to another. Generally, attacks of muscle weakness show a positive response to oral potassium administration. However, recurrent episodes of muscle weakness can lead to substantial morbidity and increased hospitalizations and consequently impact the patient's social and professional activities. Although deaths directly related to muscle attacks are rare, several mortality cases have been reported due to complications such as aspiration pneumonia.<xref ref-type="bibr" rid="article-23270.r1">[1]</xref></p>
+      </sec>
+      <sec id="article-23270.s11" sec-type="Complications">
+        <title>Complications</title>
+        <p>The following immediate life-threatening complications can occur during an attack of muscle weakness:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Cardiac arrhythmias&#x000a0;resulting from&#x000a0;hypokalemia</p>
+          </list-item>
+          <list-item>
+            <p>Respiratory insufficiency due to paralysis of&#x000a0;respiratory muscle</p>
+          </list-item>
+        </list>
+        <p>Notably, hypoPP does not involve the heart,&#x000a0;and cardiac arrhythmias, although uncommon, have been reported during attacks of muscle weakness.<xref ref-type="bibr" rid="article-23270.r33">[33]</xref></p>
+        <p>
+<bold>Long-Lasting Muscle Weakness</bold>
+</p>
+        <p>Long-lasting muscle weakness between paralytic attacks, known as the interictal period, is a common concern among patients with hypoPP. The frequency and risk factors contributing to this weakness are currently unknown.&#x000a0;This weakness&#x000a0;is believed to result from permanent sodium intake due to cation leaks through the gating pore current.<xref ref-type="bibr" rid="article-23270.r15">[15]</xref>&#x000a0;Management strategies such as potassium administration or acetazolamide treatment may help alleviate these symptoms.</p>
+        <p>
+<bold>Myopathy</bold>
+</p>
+        <p>Most patients develop progressive proximal myopathy; however, the frequency is unknown. This myopathy typically becomes noticeable after age 50 and tends to be less fluctuating and less sensitive to medications, indicating a pattern of muscle degeneration and fixed myopathy. Signs of myopathy may be evident early on muscle biopsy before they become clinically evident. The myopathy predominantly affects the pelvic girdle muscles and proximal muscles of the upper and lower limbs.<xref ref-type="bibr" rid="article-23270.r1">[1]</xref>&#x000a0;</p>
+        <p>The severity of myopathy in hypoPP varies among individuals&#x02014;although some develop only mild weakness, which does not affect their normal daily activities, others may develop severe myopathy, which leads to reliance on a wheelchair for mobility. However, there is limited evidence supporting a direct correlation between the development of myopathy and the frequency or severity of paralytic attacks in these patients.<xref ref-type="bibr" rid="article-23270.r10">[10]</xref><xref ref-type="bibr" rid="article-23270.r29">[29]</xref>&#x000a0;</p>
+        <p>
+<bold>Complications Related to Therapy</bold>
+</p>
+        <p>Nephrolithiasis is a recognized adverse effect of acetazolamide therapy, leading to the occurrence of renal stones in up to 15% of long-term users. Managing acetazolamide-induced renal stones involves stone removal while continuing acetazolamide therapy uninterrupted.<xref ref-type="bibr" rid="article-23270.r13">[13]</xref></p>
+      </sec>
+      <sec id="article-23270.s12" sec-type="Deterrence and Patient Education">
+        <title>Deterrence and Patient Education</title>
+        <p>Patient education plays a crucial role in the management of hypoPP. Educating patients about their condition and advising them to avoid triggering factors through lifestyle and behavioral modifications can prevent future attacks, reduce recurrent hospital admissions, decrease patient morbidity, improve quality of life, and alleviate the financial burden of hospital readmissions.<xref ref-type="bibr" rid="article-23270.r34">[34]</xref>&#x000a0;Triggering&#x000a0;factors can vary among individuals. Lifestyle changes such as avoiding strenuous exercise, consuming frequent small meals to prevent carbohydrate overload, reducing salt intake, avoiding stressful events, and maintaining regular movement to prevent prolonged immobilization can be beneficial in preventing attacks.<xref ref-type="bibr" rid="article-23270.r15">[15]</xref>&#x000a0;</p>
+        <p>Patients should be advised to carefully identify their triggering factors, which can vary among individuals. Attacks often occur in the morning upon waking or at midnight, so creating a safe bedside environment is crucial to prevent falls and mitigate their consequences. Importantly, the room floor should not be&#x000a0;slippery, and the bed should be positioned away from coolers or windows to avoid hypothermia during episodes of paralysis when patients may be unable to move. Patients should have a plan to alert someone or call 911 if necessary during such episodes. Keeping potassium tablets accessible in multiple locations, such as bedside, office, pockets, or car, is recommended for quick access during attacks.<xref ref-type="bibr" rid="article-23270.r18">[18]</xref></p>
+      </sec>
+      <sec id="article-23270.s13" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>The collaborative approach to managing hypoPP through an interprofessional healthcare team can significantly enhance patient outcomes across various healthcare settings. The holistic treatment goals aim to identify and mitigate triggering factors, manage acute manifestations, prevent complications, and reduce the frequency of muscle weakness attacks. This comprehensive management requires coordinated care involving hospitalists, nursing staff, dieticians, pharmacists, and geneticists. Thus, it is crucial to meticulously identify specific triggers and take proactive measures to avoid them to prevent future episodes of weakness.</p>
+        <p>The nursing staff is critical&#x000a0;in closely monitoring patients during hospitalization to prevent life-threatening complications related to hypokalemia or potassium treatment. Dieticians contribute by modifying diets to reduce the risk of future attacks triggered by large carbohydrate meals. Pharmacists are essential for ensuring correct potassium dosing and administration, managing drug interactions, and ensuring medication reconciliation for optimal therapeutic outcomes. Creating a safe environment within patient rooms can prevent secondary complications such as falls during muscle weakness attacks. Couples with a positive family history of hypoPP who plan to conceive may benefit from prenatal genetic testing, which can be offered as part of comprehensive care.<xref ref-type="bibr" rid="article-23270.r15">[15]</xref></p>
+      </sec>
+      <sec id="article-23270.s14">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=23270&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=23270">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/health/hypokalemic-periodic-paralysis/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=23270">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/23270/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=23270">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-23270.s15">
+        <title>References</title>
+        <ref id="article-23270.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Finsterer</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Primary periodic paralyses.</article-title>
+            <source>Acta Neurol Scand</source>
+            <year>2008</year>
+            <month>Mar</month>
+            <volume>117</volume>
+            <issue>3</issue>
+            <fpage>145</fpage>
+            <page-range>145-58</page-range>
+            <pub-id pub-id-type="pmid">18031562</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Francis</surname>
+                <given-names>DG</given-names>
+              </name>
+              <name>
+                <surname>Rybalchenko</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Struyk</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Cannon</surname>
+                <given-names>SC</given-names>
+              </name>
+            </person-group>
+            <article-title>Leaky sodium channels from voltage sensor mutations in periodic paralysis, but not paramyotonia.</article-title>
+            <source>Neurology</source>
+            <year>2011</year>
+            <month>May</month>
+            <day>10</day>
+            <volume>76</volume>
+            <issue>19</issue>
+            <fpage>1635</fpage>
+            <page-range>1635-41</page-range>
+            <pub-id pub-id-type="pmid">21490317</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Matthews</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Labrum</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Sweeney</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Sud</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Haworth</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Chinnery</surname>
+                <given-names>PF</given-names>
+              </name>
+              <name>
+                <surname>Meola</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Schorge</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kullmann</surname>
+                <given-names>DM</given-names>
+              </name>
+              <name>
+                <surname>Davis</surname>
+                <given-names>MB</given-names>
+              </name>
+              <name>
+                <surname>Hanna</surname>
+                <given-names>MG</given-names>
+              </name>
+            </person-group>
+            <article-title>Voltage sensor charge loss accounts for most cases of hypokalemic periodic paralysis.</article-title>
+            <source>Neurology</source>
+            <year>2009</year>
+            <month>May</month>
+            <day>05</day>
+            <volume>72</volume>
+            <issue>18</issue>
+            <fpage>1544</fpage>
+            <page-range>1544-7</page-range>
+            <pub-id pub-id-type="pmid">19118277</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jurkat-Rott</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Weber</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Fauler</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Guo</surname>
+                <given-names>XH</given-names>
+              </name>
+              <name>
+                <surname>Holzherr</surname>
+                <given-names>BD</given-names>
+              </name>
+              <name>
+                <surname>Paczulla</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Nordsborg</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Joechle</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Lehmann-Horn</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>K+-dependent paradoxical membrane depolarization and Na+ overload, major and reversible contributors to weakness by ion channel leaks.</article-title>
+            <source>Proc Natl Acad Sci U S A</source>
+            <year>2009</year>
+            <month>Mar</month>
+            <day>10</day>
+            <volume>106</volume>
+            <issue>10</issue>
+            <fpage>4036</fpage>
+            <page-range>4036-41</page-range>
+            <pub-id pub-id-type="pmid">19225109</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Groome</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Moreau</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Delemotte</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>Gating Pore Currents in Sodium Channels.</article-title>
+            <source>Handb Exp Pharmacol</source>
+            <year>2018</year>
+            <volume>246</volume>
+            <fpage>371</fpage>
+            <page-range>371-399</page-range>
+            <pub-id pub-id-type="pmid">28965172</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kung</surname>
+                <given-names>AW</given-names>
+              </name>
+            </person-group>
+            <article-title>Clinical review: Thyrotoxic periodic paralysis: a diagnostic challenge.</article-title>
+            <source>J Clin Endocrinol Metab</source>
+            <year>2006</year>
+            <month>Jul</month>
+            <volume>91</volume>
+            <issue>7</issue>
+            <fpage>2490</fpage>
+            <page-range>2490-5</page-range>
+            <pub-id pub-id-type="pmid">16608889</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ke</surname>
+                <given-names>Q</given-names>
+              </name>
+              <name>
+                <surname>Luo</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Qi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Du</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Wu</surname>
+                <given-names>W</given-names>
+              </name>
+            </person-group>
+            <article-title>Gender differences in penetrance and phenotype in hypokalemic periodic paralysis.</article-title>
+            <source>Muscle Nerve</source>
+            <year>2013</year>
+            <month>Jan</month>
+            <volume>47</volume>
+            <issue>1</issue>
+            <fpage>41</fpage>
+            <page-range>41-5</page-range>
+            <pub-id pub-id-type="pmid">23019082</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Venance</surname>
+                <given-names>SL</given-names>
+              </name>
+              <name>
+                <surname>Cannon</surname>
+                <given-names>SC</given-names>
+              </name>
+              <name>
+                <surname>Fialho</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Fontaine</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Hanna</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Ptacek</surname>
+                <given-names>LJ</given-names>
+              </name>
+              <name>
+                <surname>Tristani-Firouzi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Tawil</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Griggs</surname>
+                <given-names>RC</given-names>
+              </name>
+              <collab>CINCH investigators</collab>
+            </person-group>
+            <article-title>The primary periodic paralyses: diagnosis, pathogenesis and treatment.</article-title>
+            <source>Brain</source>
+            <year>2006</year>
+            <month>Jan</month>
+            <volume>129</volume>
+            <issue>Pt 1</issue>
+            <fpage>8</fpage>
+            <page-range>8-17</page-range>
+            <pub-id pub-id-type="pmid">16195244</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Miller</surname>
+                <given-names>TM</given-names>
+              </name>
+              <name>
+                <surname>Dias da Silva</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Miller</surname>
+                <given-names>HA</given-names>
+              </name>
+              <name>
+                <surname>Kwiecinski</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Mendell</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Tawil</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>McManis</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Griggs</surname>
+                <given-names>RC</given-names>
+              </name>
+              <name>
+                <surname>Angelini</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Servidei</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Petajan</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Dalakas</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Ranum</surname>
+                <given-names>LP</given-names>
+              </name>
+              <name>
+                <surname>Fu</surname>
+                <given-names>YH</given-names>
+              </name>
+              <name>
+                <surname>Pt&#x000e1;cek</surname>
+                <given-names>LJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Correlating phenotype and genotype in the periodic paralyses.</article-title>
+            <source>Neurology</source>
+            <year>2004</year>
+            <month>Nov</month>
+            <day>09</day>
+            <volume>63</volume>
+            <issue>9</issue>
+            <fpage>1647</fpage>
+            <page-range>1647-55</page-range>
+            <pub-id pub-id-type="pmid">15534250</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Fontaine</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Periodic paralysis.</article-title>
+            <source>Adv Genet</source>
+            <year>2008</year>
+            <volume>63</volume>
+            <fpage>3</fpage>
+            <page-range>3-23</page-range>
+            <pub-id pub-id-type="pmid">19185183</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Jiang</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Gamal El-Din</surname>
+                <given-names>TM</given-names>
+              </name>
+              <name>
+                <surname>Ing</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Lu</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Pom&#x000e8;s</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Zheng</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Catterall</surname>
+                <given-names>WA</given-names>
+              </name>
+            </person-group>
+            <article-title>Structural basis for gating pore current in periodic paralysis.</article-title>
+            <source>Nature</source>
+            <year>2018</year>
+            <month>May</month>
+            <volume>557</volume>
+            <issue>7706</issue>
+            <fpage>590</fpage>
+            <page-range>590-594</page-range>
+            <pub-id pub-id-type="pmid">29769724</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sokolov</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Scheuer</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Catterall</surname>
+                <given-names>WA</given-names>
+              </name>
+            </person-group>
+            <article-title>Gating pore current in an inherited ion channelopathy.</article-title>
+            <source>Nature</source>
+            <year>2007</year>
+            <month>Mar</month>
+            <day>01</day>
+            <volume>446</volume>
+            <issue>7131</issue>
+            <fpage>76</fpage>
+            <page-range>76-8</page-range>
+            <pub-id pub-id-type="pmid">17330043</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Statland</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Fontaine</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Hanna</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Johnson</surname>
+                <given-names>NE</given-names>
+              </name>
+              <name>
+                <surname>Kissel</surname>
+                <given-names>JT</given-names>
+              </name>
+              <name>
+                <surname>Sansone</surname>
+                <given-names>VA</given-names>
+              </name>
+              <name>
+                <surname>Shieh</surname>
+                <given-names>PB</given-names>
+              </name>
+              <name>
+                <surname>Tawil</surname>
+                <given-names>RN</given-names>
+              </name>
+              <name>
+                <surname>Trivedi</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Cannon</surname>
+                <given-names>SC</given-names>
+              </name>
+              <name>
+                <surname>Griggs</surname>
+                <given-names>RC</given-names>
+              </name>
+            </person-group>
+            <article-title>Review of the Diagnosis and Treatment of Periodic Paralysis.</article-title>
+            <source>Muscle Nerve</source>
+            <year>2018</year>
+            <month>Apr</month>
+            <volume>57</volume>
+            <issue>4</issue>
+            <fpage>522</fpage>
+            <page-range>522-530</page-range>
+            <pub-id pub-id-type="pmid">29125635</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lapie</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Goudet</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Nargeot</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Fontaine</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Lory</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Electrophysiological properties of the hypokalaemic periodic paralysis mutation (R528H) of the skeletal muscle alpha 1s subunit as expressed in mouse L cells.</article-title>
+            <source>FEBS Lett</source>
+            <year>1996</year>
+            <month>Mar</month>
+            <day>18</day>
+            <volume>382</volume>
+            <issue>3</issue>
+            <fpage>244</fpage>
+            <page-range>244-8</page-range>
+            <pub-id pub-id-type="pmid">8605978</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r15">
+          <label>15</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Weber</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Lehmann-Horn</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Hypokalemic Periodic Paralysis</chapter-title>
+            <person-group person-group-type="editor">
+              <name>
+                <surname>Adam</surname>
+                <given-names>MP</given-names>
+              </name>
+              <name>
+                <surname>Feldman</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Mirzaa</surname>
+                <given-names>GM</given-names>
+              </name>
+              <name>
+                <surname>Pagon</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Wallace</surname>
+                <given-names>SE</given-names>
+              </name>
+              <name>
+                <surname>Amemiya</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <source>GeneReviews<sup>&#x000ae;</sup> [Internet]</source>
+            <publisher-name>University of Washington, Seattle</publisher-name>
+            <publisher-loc>Seattle (WA)</publisher-loc>
+            <year>2002</year>
+            <month>4</month>
+            <day>30</day>
+            <pub-id pub-id-type="pmid">20301512</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sugiura</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Makita</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Noble</surname>
+                <given-names>PJ</given-names>
+              </name>
+              <name>
+                <surname>Kimura</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Kumagai</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Soeda</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Yamamoto</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Cold induces shifts of voltage dependence in mutant SCN4A, causing hypokalemic periodic paralysis.</article-title>
+            <source>Neurology</source>
+            <year>2003</year>
+            <month>Oct</month>
+            <day>14</day>
+            <volume>61</volume>
+            <issue>7</issue>
+            <fpage>914</fpage>
+            <page-range>914-8</page-range>
+            <pub-id pub-id-type="pmid">14557559</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ng</surname>
+                <given-names>HY</given-names>
+              </name>
+              <name>
+                <surname>Lin</surname>
+                <given-names>SH</given-names>
+              </name>
+              <name>
+                <surname>Hsu</surname>
+                <given-names>CY</given-names>
+              </name>
+              <name>
+                <surname>Tsai</surname>
+                <given-names>YZ</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>HC</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>CT</given-names>
+              </name>
+            </person-group>
+            <article-title>Hypokalemic paralysis due to Gitelman syndrome: a family study.</article-title>
+            <source>Neurology</source>
+            <year>2006</year>
+            <month>Sep</month>
+            <day>26</day>
+            <volume>67</volume>
+            <issue>6</issue>
+            <fpage>1080</fpage>
+            <page-range>1080-2</page-range>
+            <pub-id pub-id-type="pmid">17000984</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Levitt</surname>
+                <given-names>JO</given-names>
+              </name>
+            </person-group>
+            <article-title>Practical aspects in the management of hypokalemic periodic paralysis.</article-title>
+            <source>J Transl Med</source>
+            <year>2008</year>
+            <month>Apr</month>
+            <day>21</day>
+            <volume>6</volume>
+            <fpage>18</fpage>
+            <pub-id pub-id-type="pmid">18426576</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sharma</surname>
+                <given-names>CM</given-names>
+              </name>
+              <name>
+                <surname>Nath</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Parekh</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Reversible electrophysiological abnormalities in hypokalemic paralysis: Case report of two cases.</article-title>
+            <source>Ann Indian Acad Neurol</source>
+            <year>2014</year>
+            <month>Jan</month>
+            <volume>17</volume>
+            <issue>1</issue>
+            <fpage>100</fpage>
+            <page-range>100-2</page-range>
+            <pub-id pub-id-type="pmid">24753672</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>McManis</surname>
+                <given-names>PG</given-names>
+              </name>
+              <name>
+                <surname>Lambert</surname>
+                <given-names>EH</given-names>
+              </name>
+              <name>
+                <surname>Daube</surname>
+                <given-names>JR</given-names>
+              </name>
+            </person-group>
+            <article-title>The exercise test in periodic paralysis.</article-title>
+            <source>Muscle Nerve</source>
+            <year>1986</year>
+            <month>Oct</month>
+            <volume>9</volume>
+            <issue>8</issue>
+            <fpage>704</fpage>
+            <page-range>704-10</page-range>
+            <pub-id pub-id-type="pmid">3785281</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tengan</surname>
+                <given-names>CH</given-names>
+              </name>
+              <name>
+                <surname>Antunes</surname>
+                <given-names>AC</given-names>
+              </name>
+              <name>
+                <surname>Gabbai</surname>
+                <given-names>AA</given-names>
+              </name>
+              <name>
+                <surname>Manzano</surname>
+                <given-names>GM</given-names>
+              </name>
+            </person-group>
+            <article-title>The exercise test as a monitor of disease status in hypokalaemic periodic paralysis.</article-title>
+            <source>J Neurol Neurosurg Psychiatry</source>
+            <year>2004</year>
+            <month>Mar</month>
+            <volume>75</volume>
+            <issue>3</issue>
+            <fpage>497</fpage>
+            <page-range>497-9</page-range>
+            <pub-id pub-id-type="pmid">14966175</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Niu</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Guan</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Cui</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Abduction range: A potential parameter for the long exercise test in hypokalemic periodic paralysis during inter-attack periods.</article-title>
+            <source>Muscle Nerve</source>
+            <year>2020</year>
+            <month>Jan</month>
+            <volume>61</volume>
+            <issue>1</issue>
+            <fpage>104</fpage>
+            <page-range>104-107</page-range>
+            <pub-id pub-id-type="pmid">31587332</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Holm-Yildiz</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Krag</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Witting</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Duno</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Soerensen</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Vissing</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Vacuoles, Often Containing Glycogen, Are a Consistent Finding in Hypokalemic Periodic Paralysis.</article-title>
+            <source>J Neuropathol Exp Neurol</source>
+            <year>2020</year>
+            <month>Oct</month>
+            <day>01</day>
+            <volume>79</volume>
+            <issue>10</issue>
+            <fpage>1127</fpage>
+            <page-range>1127-1129</page-range>
+            <pub-id pub-id-type="pmid">32954434</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lin</surname>
+                <given-names>SH</given-names>
+              </name>
+              <name>
+                <surname>Lin</surname>
+                <given-names>YF</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>DT</given-names>
+              </name>
+              <name>
+                <surname>Chu</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Hsu</surname>
+                <given-names>CW</given-names>
+              </name>
+              <name>
+                <surname>Halperin</surname>
+                <given-names>ML</given-names>
+              </name>
+            </person-group>
+            <article-title>Laboratory tests to determine the cause of hypokalemia and paralysis.</article-title>
+            <source>Arch Intern Med</source>
+            <year>2004</year>
+            <month>Jul</month>
+            <day>26</day>
+            <volume>164</volume>
+            <issue>14</issue>
+            <fpage>1561</fpage>
+            <page-range>1561-6</page-range>
+            <pub-id pub-id-type="pmid">15277290</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Griggs</surname>
+                <given-names>RC</given-names>
+              </name>
+              <name>
+                <surname>Resnick</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Engel</surname>
+                <given-names>WK</given-names>
+              </name>
+            </person-group>
+            <article-title>Intravenous treatment of hypokalemic periodic paralysis.</article-title>
+            <source>Arch Neurol</source>
+            <year>1983</year>
+            <month>Sep</month>
+            <volume>40</volume>
+            <issue>9</issue>
+            <fpage>539</fpage>
+            <page-range>539-40</page-range>
+            <pub-id pub-id-type="pmid">6412669</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r26">
+          <label>26</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tawil</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>McDermott</surname>
+                <given-names>MP</given-names>
+              </name>
+              <name>
+                <surname>Brown</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Shapiro</surname>
+                <given-names>BC</given-names>
+              </name>
+              <name>
+                <surname>Ptacek</surname>
+                <given-names>LJ</given-names>
+              </name>
+              <name>
+                <surname>McManis</surname>
+                <given-names>PG</given-names>
+              </name>
+              <name>
+                <surname>Dalakas</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Spector</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>Mendell</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Hahn</surname>
+                <given-names>AF</given-names>
+              </name>
+              <name>
+                <surname>Griggs</surname>
+                <given-names>RC</given-names>
+              </name>
+            </person-group>
+            <article-title>Randomized trials of dichlorphenamide in the periodic paralyses. Working Group on Periodic Paralysis.</article-title>
+            <source>Ann Neurol</source>
+            <year>2000</year>
+            <month>Jan</month>
+            <volume>47</volume>
+            <issue>1</issue>
+            <fpage>46</fpage>
+            <page-range>46-53</page-range>
+            <pub-id pub-id-type="pmid">10632100</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r27">
+          <label>27</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sansone</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Meola</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Links</surname>
+                <given-names>TP</given-names>
+              </name>
+              <name>
+                <surname>Panzeri</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Rose</surname>
+                <given-names>MR</given-names>
+              </name>
+            </person-group>
+            <article-title>Treatment for periodic paralysis.</article-title>
+            <source>Cochrane Database Syst Rev</source>
+            <year>2008</year>
+            <month>Jan</month>
+            <day>23</day>
+            <issue>1</issue>
+            <fpage>CD005045</fpage>
+            <pub-id pub-id-type="pmid">18254068</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r28">
+          <label>28</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dalakas</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Engel</surname>
+                <given-names>WK</given-names>
+              </name>
+            </person-group>
+            <article-title>Treatment of "permanent" muscle weakness in familial Hypokalemic Periodic Paralysis.</article-title>
+            <source>Muscle Nerve</source>
+            <year>1983</year>
+            <season>Mar-Apr</season>
+            <volume>6</volume>
+            <issue>3</issue>
+            <fpage>182</fpage>
+            <page-range>182-6</page-range>
+            <pub-id pub-id-type="pmid">6855804</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r29">
+          <label>29</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Links</surname>
+                <given-names>TP</given-names>
+              </name>
+              <name>
+                <surname>Zwarts</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Wilmink</surname>
+                <given-names>JT</given-names>
+              </name>
+              <name>
+                <surname>Molenaar</surname>
+                <given-names>WM</given-names>
+              </name>
+              <name>
+                <surname>Oosterhuis</surname>
+                <given-names>HJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Permanent muscle weakness in familial hypokalaemic periodic paralysis. Clinical, radiological and pathological aspects.</article-title>
+            <source>Brain</source>
+            <year>1990</year>
+            <month>Dec</month>
+            <volume>113 ( Pt 6)</volume>
+            <fpage>1873</fpage>
+            <page-range>1873-89</page-range>
+            <pub-id pub-id-type="pmid">2276049</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r30">
+          <label>30</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Fiore</surname>
+                <given-names>DM</given-names>
+              </name>
+              <name>
+                <surname>Strober</surname>
+                <given-names>JB</given-names>
+              </name>
+            </person-group>
+            <article-title>Treatment of hypokalemic periodic paralysis with topiramate.</article-title>
+            <source>Muscle Nerve</source>
+            <year>2011</year>
+            <month>Jan</month>
+            <volume>43</volume>
+            <issue>1</issue>
+            <fpage>127</fpage>
+            <page-range>127-9</page-range>
+            <pub-id pub-id-type="pmid">21171065</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r31">
+          <label>31</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ryan</surname>
+                <given-names>DP</given-names>
+              </name>
+              <name>
+                <surname>da Silva</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Soong</surname>
+                <given-names>TW</given-names>
+              </name>
+              <name>
+                <surname>Fontaine</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Donaldson</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Kung</surname>
+                <given-names>AW</given-names>
+              </name>
+              <name>
+                <surname>Jongjaroenprasert</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Liang</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Khoo</surname>
+                <given-names>DH</given-names>
+              </name>
+              <name>
+                <surname>Cheah</surname>
+                <given-names>JS</given-names>
+              </name>
+              <name>
+                <surname>Ho</surname>
+                <given-names>SC</given-names>
+              </name>
+              <name>
+                <surname>Bernstein</surname>
+                <given-names>HS</given-names>
+              </name>
+              <name>
+                <surname>Maciel</surname>
+                <given-names>RM</given-names>
+              </name>
+              <name>
+                <surname>Brown</surname>
+                <given-names>RH</given-names>
+              </name>
+              <name>
+                <surname>Pt&#x000e1;cek</surname>
+                <given-names>LJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Mutations in potassium channel Kir2.6 cause susceptibility to thyrotoxic hypokalemic periodic paralysis.</article-title>
+            <source>Cell</source>
+            <year>2010</year>
+            <month>Jan</month>
+            <day>08</day>
+            <volume>140</volume>
+            <issue>1</issue>
+            <fpage>88</fpage>
+            <page-range>88-98</page-range>
+            <pub-id pub-id-type="pmid">20074522</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r32">
+          <label>32</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Fournier</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Arzel</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Sternberg</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Vicart</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Laforet</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Eymard</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Willer</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Tabti</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Fontaine</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Electromyography guides toward subgroups of mutations in muscle channelopathies.</article-title>
+            <source>Ann Neurol</source>
+            <year>2004</year>
+            <month>Nov</month>
+            <volume>56</volume>
+            <issue>5</issue>
+            <fpage>650</fpage>
+            <page-range>650-61</page-range>
+            <pub-id pub-id-type="pmid">15389891</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r33">
+          <label>33</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ober</surname>
+                <given-names>KP</given-names>
+              </name>
+            </person-group>
+            <article-title>Thyrotoxic periodic paralysis in the United States. Report of 7 cases and review of the literature.</article-title>
+            <source>Medicine (Baltimore)</source>
+            <year>1992</year>
+            <month>May</month>
+            <volume>71</volume>
+            <issue>3</issue>
+            <fpage>109</fpage>
+            <page-range>109-20</page-range>
+            <pub-id pub-id-type="pmid">1635436</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-23270.r34">
+          <label>34</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lewis</surname>
+                <given-names>KL</given-names>
+              </name>
+              <name>
+                <surname>Malouff</surname>
+                <given-names>TD</given-names>
+              </name>
+              <name>
+                <surname>Kesler</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Harris</surname>
+                <given-names>DM</given-names>
+              </name>
+            </person-group>
+            <article-title>Hypokalemic periodic paralysis - the importance of patient education.</article-title>
+            <source>Rom J Intern Med</source>
+            <year>2019</year>
+            <month>Sep</month>
+            <day>01</day>
+            <volume>57</volume>
+            <issue>3</issue>
+            <fpage>263</fpage>
+            <page-range>263-265</page-range>
+            <pub-id pub-id-type="pmid">30901316</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

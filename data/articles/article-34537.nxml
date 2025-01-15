@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-34537" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Magnetic Resonance Imaging Contraindications</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Ghadimi</surname>
+            <given-names>Maryam</given-names>
+          </name>
+          <aff>Johns Hopkins Hospital</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Sapra</surname>
+            <given-names>Amit</given-names>
+          </name>
+          <aff>Southern Illinois University School of Medicine</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Maryam Ghadimi declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Amit Sapra declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>1</day>
+          <month>5</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-34537.s1" sec-type="Definition/Introduction">
+        <title>Definition/Introduction</title>
+        <p content-type="pubmed-excerpt">Magnetic resonance imaging (MRI) is one of the non-invasive imaging techniques that have superior soft tissue contrasts and potential physiological and functional applications. As MRI does not expose the body to radiation, it has become a mainstay of non-invasive diagnostic radiology modality since the 1980s. MRI uses a very powerful magnetic field, rapidly changing magnetic fields, radio waves, and a computer to obtain detailed images. However, MRI is not without risks. As clinical demand for MRI has increased, healthcare professionals have to be trained in MRI safety to protect patients from the potential risks of MRI.<xref ref-type="bibr" rid="article-34537.r1">[1]</xref></p>
+        <p>There are three major magnetic fields in an MRI scanner that have potential safety risks:</p>
+        <list list-type="order">
+          <list-item>
+            <p>The strong static magnetic field (B0) of MRI scanners can attract and accelerate ferromagnetic objects toward the center of the machine and turn them into dangerous projectiles. This magnetic field can also displace implants or affect the function of devices such as pacemakers and pumps.</p>
+          </list-item>
+          <list-item>
+            <p>The radiofrequency (RF) field that is created by RF-coils can potentially cause tissue heating, especially in the presence of implants. Even non-ferromagnetic implants can cause heating due to eddy currents that propagate in metals exposed to oscillating magnetic fields.<xref ref-type="bibr" rid="article-34537.r2">[2]</xref><xref ref-type="bibr" rid="article-34537.r3">[3]</xref></p>
+          </list-item>
+          <list-item>
+            <p>The Time-varying fast-switching gradient magnetic field function is a spatial encoding of the MRI signal and can stimulate muscles or peripheral nerves and induce implant heating. They also produce noise in the MRI scanner space, which can reach levels of 100 dB or more and damage the hearing system. Using hearing protection such as Headphones and earplugs are essential for patients and anybody present in the room during an MRI examination.<xref ref-type="bibr" rid="article-34537.r4">[4]</xref>&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>These magnetic fields in MRI scanners can cause five dangerous interactions in patients with metallic foreign bodies: projectile effect, twisting, burning, artifacts, and device malfunction (interference with a pacemaker).<xref ref-type="bibr" rid="article-34537.r5">[5]</xref>&#x000a0;Therefore, all patients need to thoroughly be screened individually for foreign bodies before undergoing an MRI scan.&#x000a0;</p>
+      </sec>
+      <sec id="article-34537.s2" sec-type="Issues of Concern">
+        <title>Issues of Concern</title>
+        <p>Radiologists, referring physicians and MR technologists, need to be able to assess MRI safety, patients' condition, and compatibility of medical devices to keep patients safe. There are different contraindications regarding MRI scanning:</p>
+        <p>A) Absolute contraindications:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>The cardiac implantable electronic device (CIED) such as pacemakers, implantable cardioverter defibrillators (ICDs) and cardiac resynchronization therapy (CRT) devices: Patients with CIED are at risk for inappropriate device therapy, device heating/movement, and arrhythmia during MRI. These patients must be scheduled in a CIED blocked slot or scheduled with electrophysiology nurse or technician support. But nowadays MRI conditional&#x000a0;cardiac implantable electronic devices are widely available.<xref ref-type="bibr" rid="article-34537.r6">[6]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Metallic intraocular foreign bodies: The patient should be asked if he/she has ever welded without eye protection or had any facial injury with metal; if yes, an orbit x-ray must be taken and reviewed by the radiologist for approval before the MRI.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Implantable neurostimulation systems</p>
+          </list-item>
+          <list-item>
+            <p>Cochlear implants/ear implant: BAHA cochlear implant type can be scanned on a 1.5-tesla scanner only after the patient removes the battery. Cochlear implant wrapping scheduling must take place before the patient's MRI appointment.</p>
+          </list-item>
+          <list-item>
+            <p>Drug infusion pumps (insulin delivery, analgesic drugs, or chemotherapy pumps): If possible, the patient has to remove the device.</p>
+          </list-item>
+          <list-item>
+            <p>Catheters with metallic components (Swan-Ganz catheter)</p>
+          </list-item>
+          <list-item>
+            <p>Metallic fragments such as bullets, shotgun pellets, and metal shrapnel&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Cerebral artery aneurysm clips</p>
+          </list-item>
+          <list-item>
+            <p>Magnetic dental implants</p>
+          </list-item>
+          <list-item>
+            <p>Tissue expander</p>
+          </list-item>
+          <list-item>
+            <p>Artificial limb</p>
+          </list-item>
+          <list-item>
+            <p>Hearing aid&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Piercing</p>
+          </list-item>
+        </list>
+        <p>It is important to know that some of these objects are unsafe, some are safe at 1.5 teslas only, and some are safe at 3 teslas MRI scanners. All devices and implants require investigation through a certified MRI safety website or the individual manufacturers' website. Any Referring physician, radiologist, or MR technologist must know how to find information about the compatibility of medical implants or devices in patients. It is for decades that medical materials, devices, and implants were made from non-ferromagnetic materials and are usually marked as MR safe or MR conditional.<xref ref-type="bibr" rid="article-34537.r4">[4]</xref>&#x000a0;If there is no evidence or information about MRI safety of a device or implant, it has to be considered MRI unsafe.&#x000a0;</p>
+        <p>B) Relative contraindications:</p>
+        <p>&#x000a0;There are several relative contraindications:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>A patient presenting with any of the following objects require an evaluation with caution before MRI:&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <list list-type="bullet">
+              <list-item>
+                <p>Coronary and peripheral artery stents</p>
+              </list-item>
+              <list-item>
+                <p>Programmable shunts: patients must understand that they have to reprogram their shunt with their provider after the scan.&#x000a0;</p>
+              </list-item>
+              <list-item>
+                <p>Airway stents or tracheostomy: If the tracheostomy is plastic, continue with an MRI scan. If it is unknown or unsafe, have to swap out for a plastic trach before the patient entering the MRI scanner.&#x000a0;</p>
+              </list-item>
+              <list-item>
+                <p>Intrauterine device (IUD): Make and model merit investigation. Unknown IUDs are acceptable with 1.5 teslas only.&#x000a0;</p>
+              </list-item>
+              <list-item>
+                <p>Ocular prosthesis</p>
+              </list-item>
+              <list-item>
+                <p>Stapes implants</p>
+              </list-item>
+              <list-item>
+                <p>Surgical clips or wire sutures</p>
+              </list-item>
+              <list-item>
+                <p>Penile prosthesis</p>
+              </list-item>
+              <list-item>
+                <p>Joint replacement or prosthesis</p>
+              </list-item>
+              <list-item>
+                <p>Inferior vena cava (IVC) filter: If make and model of filter unknown, the patient can be scanned on a 1.5 tesla after six weeks of being implanted.&#x000a0;</p>
+              </list-item>
+              <list-item>
+                <p>Harrington rods: These patients are scannable on 1.5-tesla scanners.&#x000a0;</p>
+              </list-item>
+              <list-item>
+                <p>Medication patch: The patches require removal before the procedure.&#x000a0;</p>
+              </list-item>
+              <list-item>
+                <p>Tattoos: If the tattoo is in the area of interest and is less than six weeks old, reschedule the patient. Ice packs or padding should be used against any tattoo that is in contact with the bore of the scanner or the MRI coil. Patients must be encouraged to squeeze the communication ball if they feel any warmth around their tattoos.&#x000a0;</p>
+              </list-item>
+              <list-item>
+                <p>Colonoscopy procedure in the last eight weeks: Obtain confirmation whether any endoscopy clips or pill cam were used or placed during the procedure with the patient or through patient's medical records. If existence is confirmed or unknown, there is a need for a consult with the radiology or referring physician.&#x000a0;</p>
+              </list-item>
+            </list>
+          </list-item>
+        </list>
+        <p>Some other devices and implants might be contraindicated. To ensure patients' safety, the radiologist and MRI technologist must evaluate the type of device that patients have. Claustrophobic patients might refuse to complete the MRI scan and need sedation. These patients need to be well informed about the MRI scan procedure. The recommendation is that a physician has a discussion with them about the details in advance. Using Larger and opener MRI systems might be helpful in claustrophobic patients.<xref ref-type="bibr" rid="article-34537.r7">[7]</xref><xref ref-type="bibr" rid="article-34537.r8">[8]</xref></p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Patients who are unable to be still or obey breathing instructions in the scanner need special attention. Some patients in pain might move during the procedure, which degrades the quality of the images, restrict the interpretation, and decrease the accuracy of the report. Some MRI sequences need to obtain while patients hold their breath and lie motionless.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Patients with high body mass index (BMI) might have face difficulty to fit into the narrow bore of the MRI machine. MRI scanners with more substantial space can scan these patients.&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>Gadolinium portion of the MRI:&#x000a0;</p>
+        <p>MRI contrast agents are gadolinium chelates with different stability, viscosity, and osmolality. Gadolinium is a relatively very safe contrast; however, it rarely might cause allergic reactions in patients. Following patients need to be evaluated carefully before injection of gadolinium for MRI procedure:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Patients on dialysis</p>
+          </list-item>
+          <list-item>
+            <p>Patients with a history of renal disease (renal transplant, single kidney, renal cancer)</p>
+          </list-item>
+          <list-item>
+            <p>Patients who had received a dose of contrast in the last 24 hours</p>
+          </list-item>
+          <list-item>
+            <p>Patients who had a previous allergic or anaphylactic reaction to gadolinium</p>
+          </list-item>
+          <list-item>
+            <p>Patients who have risk factors for nephrogenic systemic fibrosis (NSF)
+<list list-type="bullet"><list-item><p>Patients with impaired renal function are at risk of NSF associated with gadolinium chelate. Patients with known or at risk of renal impairment need to require evaluation regarding their renal function before an MRI scan.&#x000a0;</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Patients with diabetes mellitus or hypertension who are receiving treatment with medications; calculate these patients' estimated glomerular filtration rate, and if less than 35 mL/min/1.73 m2, there is a need to consult a radiologist for further instructions.&#x000a0;</p>
+          </list-item>
+          <list-item>
+            <p>Patients with eGFR below 30 mL/min/1.73 m2.</p>
+          </list-item>
+          <list-item>
+            <p>Patients who are pregnant: The administration of contrast during pregnancy is predicated on a risk-benefit assessment.&#x000a0;</p>
+          </list-item>
+        </list>
+        <p>Pregnancy and breastfeeding: &#x000a0;</p>
+        <p>During pregnancy, MRI is a helpful imaging technique to evaluate obstetric and nonobstetric disorders during any trimester. To date, there is no known adverse effect or specific consequence for fetuses exposed to non-contrast MRI. However, the FDA determines gadolinium as a class C agent, and there is no established definitive evidence regarding MRI safety during pregnancy. Before MRI, a pregnant patient or who is suspected to be pregnant, the radiology team and physician should be informed. MRI only be taken during pregnancy to rule out suspected abnormalities and on a 1.5-tesla scanner.<xref ref-type="bibr" rid="article-34537.r9">[9]</xref></p>
+        <p>The gadolinium contrast is excreted into breast milk in less than 0.04% of the dose injected to a mother. Also, of that tiny amount excreted into the milk, only 0.8% is absorbed by the baby. Thus, there should be no concern about continuing breastfeeding after MRI.<xref ref-type="bibr" rid="article-34537.r10">[10]</xref></p>
+      </sec>
+      <sec id="article-34537.s3" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>In recent years, diagnostic strategies increasingly use magnetic resonance imaging (MRI) to aid therapeutic plans. MRI helps in high-resolution investigations of soft tissues without the use of ionizing radiation. This safe modality currently becomes the imaging technique of choice for diagnosing musculoskeletal, neurologic, and cardiovascular disease. However, there are restrictions and contraindications caused by MRI magnetic fields, machine structure, and gadolinium contrast agents. Healthcare professionals need to be trained in magnetic resonance imaging safety to protect patients as well as other healthcare workers from the potential risks of MRI. It is essential to establish a close collaboration between the radiology team and physicians who provide care for the patient.<xref ref-type="bibr" rid="article-34537.r11">[11]</xref></p>
+      </sec>
+      <sec id="article-34537.s4" sec-type="Nursing, Allied Health, and Interprofessional Team Interventions">
+        <title>Nursing, Allied Health, and Interprofessional Team Interventions</title>
+        <p>Due to potentially serious problems regarding safety issues with MRI, each patient needs to answer an MRI safety screening form before the scan. This screening is done during a verbal interview with the patient to ensure there is no contraindication for MRI. Patients need to be asked about any foreign substance that might interfere or with MRI acquisition. If a patient has devices or implants, the make and model of the object requires a check against relevant databases and MRI safety websites. Discussion with a radiologist or referring physician might be helpful to determine whether an MRI scan is the most suitable imaging modality or not. It is recommended that patients wear gowns in the MRI environment, To avoid metallic components of clothing. It is also recommended that the patient be informed about the details and the time of the procedure before the scan.</p>
+        <p>Although gadolinium chelates are generally well tolerated, MRI technologists and physicians need to be aware of adverse reactions to these contrast agents. MRI departments should provide appropriate medications and facilities to deal with possible reactions to contrast in patients. MRI scanner makes loud knocking noise during the procedure, which can cause damage to the hearing system. These noises could be attenuated by the patient using headphones and earplugs during the scan. During the MRI procedure, the personnel on hand must monitor the patient. With the help of an intercommunication system, the patient can speak with the MRI technologist or radiology nurse specialist, squeeze the communication ball, and also get commands.</p>
+      </sec>
+      <sec id="article-34537.s5">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=34537&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=34537">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/34537/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=34537">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-34537.s6">
+        <title>References</title>
+        <ref id="article-34537.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Feychting</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Health effects of static magnetic fields--a review of the epidemiological evidence.</article-title>
+            <source>Prog Biophys Mol Biol</source>
+            <year>2005</year>
+            <season>Feb-Apr</season>
+            <volume>87</volume>
+            <issue>2-3</issue>
+            <fpage>241</fpage>
+            <page-range>241-6</page-range>
+            <pub-id pub-id-type="pmid">15556662</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-34537.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shellock</surname>
+                <given-names>FG</given-names>
+              </name>
+              <name>
+                <surname>Crues</surname>
+                <given-names>JV</given-names>
+              </name>
+            </person-group>
+            <article-title>Corneal temperature changes induced by high-field-strength MR imaging with a head coil.</article-title>
+            <source>Radiology</source>
+            <year>1988</year>
+            <month>Jun</month>
+            <volume>167</volume>
+            <issue>3</issue>
+            <fpage>809</fpage>
+            <page-range>809-11</page-range>
+            <pub-id pub-id-type="pmid">3363146</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-34537.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shellock</surname>
+                <given-names>FG</given-names>
+              </name>
+              <name>
+                <surname>Crues</surname>
+                <given-names>JV</given-names>
+              </name>
+            </person-group>
+            <article-title>Temperature changes caused by MR imaging of the brain with a head coil.</article-title>
+            <source>AJNR Am J Neuroradiol</source>
+            <year>1988</year>
+            <season>Mar-Apr</season>
+            <volume>9</volume>
+            <issue>2</issue>
+            <fpage>287</fpage>
+            <page-range>287-91</page-range>
+            <pub-id pub-id-type="pmid">3128077</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-34537.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sammet</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Magnetic resonance safety.</article-title>
+            <source>Abdom Radiol (NY)</source>
+            <year>2016</year>
+            <month>Mar</month>
+            <volume>41</volume>
+            <issue>3</issue>
+            <fpage>444</fpage>
+            <page-range>444-51</page-range>
+            <pub-id pub-id-type="pmid">26940331</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-34537.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Stecco</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Saponaro</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Carriero</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Patient safety issues in magnetic resonance imaging: state of the art.</article-title>
+            <source>Radiol Med</source>
+            <year>2007</year>
+            <month>Jun</month>
+            <volume>112</volume>
+            <issue>4</issue>
+            <fpage>491</fpage>
+            <page-range>491-508</page-range>
+            <pub-id pub-id-type="pmid">17563855</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-34537.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Korutz</surname>
+                <given-names>AW</given-names>
+              </name>
+              <name>
+                <surname>Obajuluwa</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Lester</surname>
+                <given-names>MS</given-names>
+              </name>
+              <name>
+                <surname>McComb</surname>
+                <given-names>EN</given-names>
+              </name>
+              <name>
+                <surname>Hijaz</surname>
+                <given-names>TA</given-names>
+              </name>
+              <name>
+                <surname>Collins</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Dandamudi</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Knight</surname>
+                <given-names>BP</given-names>
+              </name>
+              <name>
+                <surname>Nemeth</surname>
+                <given-names>AJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Pacemakers in MRI for the Neuroradiologist.</article-title>
+            <source>AJNR Am J Neuroradiol</source>
+            <year>2017</year>
+            <month>Dec</month>
+            <volume>38</volume>
+            <issue>12</issue>
+            <fpage>2222</fpage>
+            <page-range>2222-2230</page-range>
+            <pub-id pub-id-type="pmid">28705821</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-34537.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Murphy</surname>
+                <given-names>KJ</given-names>
+              </name>
+              <name>
+                <surname>Brunberg</surname>
+                <given-names>JA</given-names>
+              </name>
+            </person-group>
+            <article-title>Adult claustrophobia, anxiety and sedation in MRI.</article-title>
+            <source>Magn Reson Imaging</source>
+            <year>1997</year>
+            <volume>15</volume>
+            <issue>1</issue>
+            <fpage>51</fpage>
+            <page-range>51-4</page-range>
+            <pub-id pub-id-type="pmid">9084025</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-34537.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Thorpe</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Salkovskis</surname>
+                <given-names>PM</given-names>
+              </name>
+              <name>
+                <surname>Dittner</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Claustrophobia in MRI: the role of cognitions.</article-title>
+            <source>Magn Reson Imaging</source>
+            <year>2008</year>
+            <month>Oct</month>
+            <volume>26</volume>
+            <issue>8</issue>
+            <fpage>1081</fpage>
+            <page-range>1081-8</page-range>
+            <pub-id pub-id-type="pmid">18524527</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-34537.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mervak</surname>
+                <given-names>BM</given-names>
+              </name>
+              <name>
+                <surname>Altun</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>McGinty</surname>
+                <given-names>KA</given-names>
+              </name>
+              <name>
+                <surname>Hyslop</surname>
+                <given-names>WB</given-names>
+              </name>
+              <name>
+                <surname>Semelka</surname>
+                <given-names>RC</given-names>
+              </name>
+              <name>
+                <surname>Burke</surname>
+                <given-names>LM</given-names>
+              </name>
+            </person-group>
+            <article-title>MRI in pregnancy: Indications and practical considerations.</article-title>
+            <source>J Magn Reson Imaging</source>
+            <year>2019</year>
+            <month>Mar</month>
+            <volume>49</volume>
+            <issue>3</issue>
+            <fpage>621</fpage>
+            <page-range>621-631</page-range>
+            <pub-id pub-id-type="pmid">30701610</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-34537.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Newman</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Breastfeeding and radiologic procedures.</article-title>
+            <source>Can Fam Physician</source>
+            <year>2007</year>
+            <month>Apr</month>
+            <volume>53</volume>
+            <issue>4</issue>
+            <fpage>630</fpage>
+            <page-range>630-1</page-range>
+            <pub-id pub-id-type="pmid">17872711</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-34537.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sammet</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Sammet</surname>
+                <given-names>CL</given-names>
+              </name>
+            </person-group>
+            <article-title>Implementation of a comprehensive MR safety course for medical students.</article-title>
+            <source>J Magn Reson Imaging</source>
+            <year>2015</year>
+            <month>Dec</month>
+            <volume>42</volume>
+            <issue>6</issue>
+            <fpage>1478</fpage>
+            <page-range>1478-86</page-range>
+            <pub-id pub-id-type="pmid">26172156</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

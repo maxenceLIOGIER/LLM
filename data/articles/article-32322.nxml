@@ -1,0 +1,2191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-32322" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Anatomy, Autonomic Nervous System</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Waxenbaum</surname>
+            <given-names>Joshua A.</given-names>
+          </name>
+          <aff>NYIT College of Osteopathic Medicine</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Reddy</surname>
+            <given-names>Vamsi</given-names>
+          </name>
+          <aff>McKinsey &#x00026; Company</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Varacallo</surname>
+            <given-names>Matthew</given-names>
+          </name>
+          <aff>Penn Highlands Healthcare System</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Joshua Waxenbaum declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Vamsi Reddy declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Matthew Varacallo declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>24</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-32322.s1" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>The autonomic nervous system is a component of the peripheral nervous system that regulates&#x000a0;involuntary physiologic processes including heart rate, blood pressure, respiration, digestion, and sexual arousal. It contains three anatomically distinct divisions: sympathetic, parasympathetic, and enteric.</p>
+        <p>The sympathetic nervous system (SNS) and the parasympathetic nervous system (PNS) contain both afferent and efferent fibers that provide sensory input and motor output, respectively, to the central nervous system (CNS). Generally, the SNS and PNS motor pathways consist of a two-neuron series: a preganglionic neuron with a cell body in the CNS and a postganglionic neuron with a cell body in the periphery that innervates target tissues. The enteric nervous system (ENS) is an extensive, web-like structure that is capable of function independently of the remainder of the nervous system.<xref ref-type="bibr" rid="article-32322.r1">[1]</xref><xref ref-type="bibr" rid="article-32322.r2">[2]</xref>&#x000a0;It contains over 100 million neurons of over 15 morphologies, greater than the sum of all other peripheral ganglia, and is chiefly responsible for the regulation of digestive processes.<xref ref-type="bibr" rid="article-32322.r3">[3]</xref><xref ref-type="bibr" rid="article-32322.r4">[4]</xref></p>
+        <p>Activation of the SNS leads to a state of overall elevated activity and attention: the &#x0201c;fight or flight&#x0201d; response. In this process, blood pressure and heart rate increase, glycogenolysis ensues, gastrointestinal peristalsis ceases, etc.<xref ref-type="bibr" rid="article-32322.r5">[5]</xref>&#x000a0;The SNS innervates nearly every living tissue in the body. The PNS promotes the &#x0201c;rest and digest&#x0201d; processes; heart rate and blood pressure lower, gastrointestinal peristalsis/digestion restarts, etc.<xref ref-type="bibr" rid="article-32322.r5">[5]</xref><xref ref-type="bibr" rid="article-32322.r6">[6]</xref>&#x000a0;The PNS innervates only the head, viscera, and external genitalia, notably vacant in much of the musculoskeletal system and skin, making it significantly smaller than the SNS.<xref ref-type="bibr" rid="article-32322.r7">[7]</xref>&#x000a0;The ENS is composed of reflex pathways that control the digestive functions of muscle contraction/relaxation, secretion/absorption, and blood flow.<xref ref-type="bibr" rid="article-32322.r3">[3]</xref></p>
+        <p>Presynaptic neurons of both the SNS and PNS utilize acetylcholine (ACh) as their neurotransmitter. Postsynaptic sympathetic neurons generally produce norepinephrine (NE) as their effector transmitter to act upon target tissues, while postsynaptic parasympathetic neurons use ACh throughout.<xref ref-type="bibr" rid="article-32322.r1">[1]</xref><xref ref-type="bibr" rid="article-32322.r5">[5]</xref>&#x000a0;Enteric neurons have been known to use several major neurotransmitters such as ACh, nitrous oxide, and serotonin, to name a few.<xref ref-type="bibr" rid="article-32322.r8">[8]</xref></p>
+      </sec>
+      <sec id="article-32322.s2" sec-type="Structure and Function">
+        <title>Structure and Function</title>
+        <p>
+<bold>Sympathetic Nervous System</bold>
+</p>
+        <p>Sympathetic neurons have cell bodies located in the intermediolateral columns, or lateral horns, of the spinal cord. The presynaptic fibers exit the spinal cord through anterior roots and enter the anterior rami of T1-L2 spinal nerves and onto the sympathetic trunks via white rami communicantes. From here, the fibers may ascend or descend the sympathetic trunk to a superior or inferior paravertebral ganglion, respectively, pass to adjacent anterior spinal nerve rami via gray rami communicantes, or cross through the trunk without synapsing and continue through an abdominopelvic splanchnic nerve to reach prevertebral ganglia. Because of the central location of the sympathetic ganglia, presynaptic fibers tend to be shorter than their postsynaptic counterparts.<xref ref-type="bibr" rid="article-32322.r2">[2]</xref><xref ref-type="bibr" rid="article-32322.r9">[9]</xref></p>
+        <p>Paravertebral ganglia exist as nodules throughout the sympathetic trunk, adjacent to the spinal column, where pre- and postganglionic neurons synapse. While the numbers may vary by individual, generally, there are three cervical, 12 thoracic, four lumbar, and five sacral ganglia. Of these, only the cervical have names of superior, middle, and inferior cervical ganglia. The inferior cervical ganglion may fuse with the first thoracic ganglion to form the stellate ganglion.<xref ref-type="bibr" rid="article-32322.r2">[2]</xref><xref ref-type="bibr" rid="article-32322.r9">[9]</xref></p>
+        <p>All nerves distal to the paravertebral ganglia are splanchnic nerves. These convey afferent and efferent fibers between the CNS and the viscera. Cardiopulmonary splanchnic nerves carry the postsynaptic fibers destined for the thoracic cavity.</p>
+        <p>Nerves that will innervate the abdominal and pelvic viscera pass through the paravertebral without synapsing, becoming abdominopelvic splanchnic nerves. These nerves include the greater, lesser, least, and lumbar splanchnic nerves. The presynaptic nerves finally synapse in prevertebral ganglia that are closer to their target organ. Prevertebral ganglia are part of the nervous plexuses that surround the branches of the aorta. These include the celiac, aorticorenal, and superior and inferior mesenteric ganglia. The celiac ganglion receives input from the greater splanchnic nerve, the aorticorenal from the lesser and least splanchnic nerves, and the superior and inferior mesenteric from the least and lumbar splanchnic nerves. The celiac ganglion innervates organs derived from the foregut: distal esophagus, stomach, proximal duodenum, pancreas, liver, biliary system, spleen, and adrenal glands. The superior mesenteric ganglion innervates the derivatives of the midgut: distal duodenum, jejunum, ileum, cecum, appendix, ascending colon, and proximal transverse colon. Lastly, the inferior mesenteric ganglion provides sympathetic innervation to the structures developed from the hindgut: distal transverse, descending, and sigmoid colon; rectum and upper anal canal; as well as the bladder, external genitalia, and gonads.<xref ref-type="bibr" rid="article-32322.r10">[10]</xref><xref ref-type="bibr" rid="article-32322.r11">[11]</xref><xref ref-type="bibr" rid="article-32322.r12">[12]</xref>&#x000a0;For more information, see the relevant StatPearls article, at this reference.<xref ref-type="bibr" rid="article-32322.r13">[13]</xref></p>
+        <p>The two-neuron general rule for SNS and PNS circuits has several notable exceptions. Sympathetic and parasympathetic postganglionic neurons that synapse onto the ENS are functionally part of a three-or-more neuron chain. The presynaptic sympathetic fibers that are destined for the adrenal medulla pass through the celiac ganglia and synapse directly onto chromaffin cells. These unique cells function as postganglionic fibers that secrete epinephrine directly into the venous system.<xref ref-type="bibr" rid="article-32322.r1">[1]</xref><xref ref-type="bibr" rid="article-32322.r2">[2]</xref><xref ref-type="bibr" rid="article-32322.r14">[14]</xref></p>
+        <p>Postganglionic sympathetic neurons release NE that acts on adrenergic receptors in the target tissue. The subtype of the receptor, alpha-1, alpha-2, beta-1, beta-2, or beta-3, and the tissues&#x000a0;in which they express influences the affinity of NE for the receptor.<xref ref-type="bibr" rid="article-32322.r15">[15]</xref>&#x000a0;For more information, see the StatPearls articles related to adrenergic receptors, at the following references.<xref ref-type="bibr" rid="article-32322.r16">[16]</xref><xref ref-type="bibr" rid="article-32322.r17">[17]</xref><xref ref-type="bibr" rid="article-32322.r18">[18]</xref></p>
+        <p>As stated, the SNS enables the body to handle stressors via the &#x0201c;fight-or-flight&#x0201d; response. This reaction primarily regulates blood vessels. Vessels are tonically innervated, and in most cases, an increase in sympathetic signals leads to vasoconstriction and the opposite of vasodilation. The exceptions include coronary vessels and those that supply the skeletal muscles and external genitalia, for which the opposite reaction occurs.<xref ref-type="bibr" rid="article-32322.r2">[2]</xref>&#x000a0;This contradictory effect is mediated by the balance of alpha and beta receptor activity. In a physiologic state, beta-receptor stimulation increases coronary vessel dilation, but there is blunting of this effect by alpha-receptor-mediated vasoconstriction. In a pathologic state, such as in coronary artery disease, alpha-receptor activity is enhanced, and there is the muting of beta-activity. Thus, the coronary arteries may constrict via sympathetic stimulation.<xref ref-type="bibr" rid="article-32322.r19">[19]</xref>&#x000a0;Sympathetic activation increases heart rate and contractile force, which, however, increases metabolic demand and is thus detrimental to cardiac function in compromised individuals.<xref ref-type="bibr" rid="article-32322.r20">[20]</xref></p>
+        <p>The SNS is constantly active, even in non-stressful situations. In addition to the aforementioned tonic stimulation of blood vessels, the SNS is active during the normal respiratory cycle. Sympathetic activation complements the PNS by acting during inspiration to dilate the airways allowing for an appropriate inflow of air.<xref ref-type="bibr" rid="article-32322.r2">[2]</xref><xref ref-type="bibr" rid="article-32322.r21">[21]</xref></p>
+        <p>Additionally, the SNS regulates immunity through the innervation of immune organs such as the spleen, thymus, and lymph nodes.<xref ref-type="bibr" rid="article-32322.r15">[15]</xref><xref ref-type="bibr" rid="article-32322.r22">[22]</xref>&#x000a0;This influence may up- or down-regulate inflammation.<xref ref-type="bibr" rid="article-32322.r23">[23]</xref>&#x000a0;Cells of the adaptive immune system primarily express beta-2 receptors, while those of the innate immune system express those as well as alpha-1 and alpha-2 adrenergic receptors.<xref ref-type="bibr" rid="article-32322.r15">[15]</xref><xref ref-type="bibr" rid="article-32322.r24">[24]</xref>&#x000a0;Macrophages activate by alpha-2 stimulation and are suppressed by beta-2 adrenergic receptor activation.</p>
+        <p>The majority of postganglionic sympathetic neurons are noradrenergic, and also release one or more peptides such as neuropeptide Y or somatostatin. NE/neuropeptide Y neurons innervate blood vessels of the heart, thus regulating blood flow,<xref ref-type="bibr" rid="article-32322.r25">[25]</xref> while NE/somatostatin neurons of the celiac and superior mesenteric ganglia supply the submucosal ganglia of the intestine and are involved in the control of gastrointestinal motility. The thinking is that these peptides serve to modulate the response of the postsynaptic neuron to the primary neurotransmitter.<xref ref-type="bibr" rid="article-32322.r1">[1]</xref></p>
+        <p>Peptides also have associations with cholinergic sympathetic postganglionic neurons. These neurons are most commonly found innervating sweat glands and precapillary resistance vessels in skeletal muscle and produce vasoactive intestinal polypeptide along with ACh. Calcitonin gene-related peptide, a potent vasodilator, has also been discovered in paravertebral sympathetic neurons.<xref ref-type="bibr" rid="article-32322.r26">[26]</xref><xref ref-type="bibr" rid="article-32322.r27">[27]</xref><xref ref-type="bibr" rid="article-32322.r28">[28]</xref><xref ref-type="bibr" rid="article-32322.r29">[29]</xref></p>
+        <p>
+<bold>Parasympathetic Nervous System</bold>
+</p>
+        <p>Parasympathetic fibers exit the CNS via cranial nerves (CN) III, VII, IX, and X, as well as through the S2-4 nerve roots. There are four pairs of parasympathetic ganglia, and they are all located in the head. CN III, via the ciliary ganglion, innervates the iris and ciliary muscles of the eye. CN VII innervates the lacrimal, nasal, palatine, and pharyngeal glands via the pterygopalatine ganglion, as well as the sublingual and submandibular glands via the submandibular ganglion. CN IX innervates the parotid glands via the otic ganglion.<xref ref-type="bibr" rid="article-32322.r4">[4]</xref><bold>&#x000a0;</bold>Every other presynaptic parasympathetic fiber synapses in a ganglion near or on the wall of the target tissue; this leads to the presynaptic fibers being significantly longer than the postsynaptic. The location of these ganglia gives the PNS its name: &#x0201c;para-&#x0201d; means adjacent to, hence, &#x0201c;parasympathetic.&#x0201d;<xref ref-type="bibr" rid="article-32322.r2">[2]</xref></p>
+        <p>The vagus nerve, CN X, makes up about 75% of the PNS and provides parasympathetic input to most of the thoracic and abdominal viscera, with the sacral parasympathetic fibers innervating the descending and sigmoid colon and rectum. &#x000a0;The vagus nerve has four cell bodies in the medulla oblongata. These include the following<xref ref-type="bibr" rid="article-32322.r2">[2]</xref><xref ref-type="bibr" rid="article-32322.r4">[4]</xref><xref ref-type="bibr" rid="article-32322.r30">[30]</xref><xref ref-type="bibr" rid="article-32322.r31">[31]</xref>:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Dorsal nucleus: provides parasympathetic output to the viscera</p>
+          </list-item>
+          <list-item>
+            <p>Nucleus ambiguus: produces motor fibers and preganglionic neurons that innervate the heart</p>
+          </list-item>
+          <list-item>
+            <p>Nucleus solitarius: receives afferents of taste sensation and that from viscera, and lastly</p>
+          </list-item>
+          <list-item>
+            <p>Spinal trigeminal nucleus: receives information of touch, pain, and temperature of the outer ear, the mucosa of the larynx, and part of the dura</p>
+          </list-item>
+        </list>
+        <p>Additionally, the vagus nerve conducts sensory information from baroreceptors of the carotid sinus and the aortic arch to the medulla.<xref ref-type="bibr" rid="article-32322.r32">[32]</xref></p>
+        <p>As mentioned in the introduction, the vagus nerve is responsible for the &#x0201c;rest and digest&#x0201d; processes. The vagus nerve promotes cardiac relaxation in several aspects of function. It decreases contractility in the atria and less so in the ventricles. Primarily, it reduces conduction speed through the atrioventricular node. It is by this mechanism that carotid sinus massage acts to limit reentry in Wolff-Parkinson-White syndrome.<xref ref-type="bibr" rid="article-32322.r2">[2]</xref> The other key function of the PNS centers around digestion. Parasympathetic fibers to the head promote salivation, while those that synapse onto the ENS lead to increased peristaltic and secretory activity.<xref ref-type="bibr" rid="article-32322.r4">[4]</xref><xref ref-type="bibr" rid="article-32322.r33">[33]</xref>&#x000a0;The vagus nerve also has a significant effect on the respiratory cycle. In a nonpathological state, parasympathetic nerves fire during expiration, contracting and stiffening airways to prevent collapse. This function has implicated the PNS in the onset of postoperative acute respiratory distress syndrome.<xref ref-type="bibr" rid="article-32322.r2">[2]</xref><xref ref-type="bibr" rid="article-32322.r21">[21]</xref></p>
+        <p>Due to the expansive nature of the vagus nerve, it has been described as an ideal &#x0201c;early warning system&#x0201d; for foreign invaders as well as for monitoring the body&#x02019;s recovery. Up to 80% of vagal fibers are sensory and innervate nearly all major organs. Parasympathetic ganglia have been found to express receptors for interleukin-1, a key cytokine in the inflammatory immune response.<xref ref-type="bibr" rid="article-32322.r34">[34]</xref> This, in turn, activates the hypothalamic-pituitary-adrenal axis and SNS, leading to the release of glucocorticoids and NE, respectively.<xref ref-type="bibr" rid="article-32322.r2">[2]</xref> Studies have correlated inhibited vagal action through vagotomy and cholinergic inhibitors with significantly reduced, if not eliminated, allergic, asthmatic, and inflammatory responses.<xref ref-type="bibr" rid="article-32322.r7">[7]</xref></p>
+        <p>Postganglionic parasympathetic neurons release ACh that acts on muscarinic and nicotinic receptors, each with various subunits:&#x000a0;M1, M2, and&#x000a0;M3, and N1 and N2, with &#x0201c;M&#x0201d; and &#x0201c;N&#x0201d; standing for muscarine and nicotine, respectively.<xref ref-type="bibr" rid="article-32322.r5">[5]</xref> The postganglionic ACh receptors and those on the adrenal medulla are N-type, while the parasympathetic effectors and sweat glands are M-type.<xref ref-type="bibr" rid="article-32322.r2">[2]</xref> As in sympathetic neurons, several peptides, such as vasoactive intestinal peptide (VIP), Neuropeptide Y (NPY), and calcitonin gene-related peptide (CGRP) are expressed in, and released from, parasympathetic neurons.<xref ref-type="bibr" rid="article-32322.r27">[27]</xref><xref ref-type="bibr" rid="article-32322.r28">[28]</xref><xref ref-type="bibr" rid="article-32322.r35">[35]</xref><xref ref-type="bibr" rid="article-32322.r36">[36]</xref>&#x000a0;For more information, see the StatPearls article on cholinergic receptors, here.<xref ref-type="bibr" rid="article-32322.r37">[37]</xref></p>
+        <p>
+<bold>Enteric Nervous System (ENS)</bold>
+</p>
+        <p>The ENS is composed of two ganglionated plexuses: the myenteric (Auerbach) and the submucosal (Meissner). The myenteric plexus sits in between the longitudinal and circular smooth muscle of the GI tract, while the submucosal plexus is present within the submucosa. The ENS is self-contained, functioning through local reflex activity, but often receives input from, and provides feedback to, the SNS and PNS. The ENS may receive input from postganglionic sympathetic neurons or preganglionic parasympathetic neurons.<xref ref-type="bibr" rid="article-32322.r1">[1]</xref><xref ref-type="bibr" rid="article-32322.r38">[38]</xref></p>
+        <p>The submucosal plexus governs the movement of water and electrolytes across the intestinal wall, while the myenteric plexus coordinates the contractility of the circular and longitudinal muscle cells of the gut to produce peristalsis.<xref ref-type="bibr" rid="article-32322.r39">[39]</xref></p>
+        <p>Motility is produced in the ENS through a reflex circuit involving the circular and longitudinal muscles. Nicotinic synapses between interneurons mediate the reflex circuits.<xref ref-type="bibr" rid="article-32322.r39">[39]</xref> When the circuit activates by the presence of a bolus, excitatory neurons in the circular muscle and inhibitory neurons in the longitudinal muscle fire producing a narrow section of bowel proximal to the bolus; this is known as the propulsive segment. Simultaneously, excitatory neurons in the longitudinal muscle and inhibitory neurons in the circular muscle fire producing the &#x0201c;receiving segment&#x0201d; of the bowel in which the bolus will continue. This process repeats with each subsequent section of the bowel.<xref ref-type="bibr" rid="article-32322.r40">[40]</xref></p>
+        <p>The ENS maintains several similarities to the CNS. As in the CNS, enteric neurons can be bipolar, pseudounipolar, and multipolar, between which neuromodulation via excitatory and inhibitory communication.<xref ref-type="bibr" rid="article-32322.r1">[1]</xref> Likewise, ENS neurons use over 30 neurotransmitters that are similar to those of the CNS, with cholinergic and nitrergic transmitters being the most common.<xref ref-type="bibr" rid="article-32322.r39">[39]</xref></p>
+        <p>While much of this discussion has focused on the efferent functions of the ANS, the afferent fibers are responsible for numerous reflex activities that regulate everything from heart rate to the immune system. Feedback from the ANS is usually processed at a subconscious level to produce reflex actions in the visceral or somatic portions of the body. The conscious sensation of the viscera is often interpreted as diffuse pain or cramps that may correlate with hunger, fullness, or nausea. These sensations most commonly result from sudden distention/contractions, chemical irritants, or pathological conditions such as ischemia.<xref ref-type="bibr" rid="article-32322.r41">[41]</xref></p>
+      </sec>
+      <sec id="article-32322.s3" sec-type="Embryology">
+        <title>Embryology</title>
+        <p>The peripheral nervous system derives from neural crest cells. The neural crest is divided axially into the cranial, vagal, truncal, and lumbosacral neural crest cells. Truncal neural crest cells contribute to the dorsal root of the spinal cord and the sympathetic ganglia. The parasympathetic innervation of the heart forms from the vagal neural crest.<xref ref-type="bibr" rid="article-32322.r42">[42]</xref>&#x000a0;The majority of the parasympathetic nervous system, including all of the ganglia of the head, has been shown to arise from glial cells,&#x000a0;rather than neural crest cells.<xref ref-type="bibr" rid="article-32322.r42">[42]</xref><xref ref-type="bibr" rid="article-32322.r43">[43]</xref></p>
+        <p>The ENS originates from the vagal neural crest with cells that migrate in a rostral-to-caudal pattern through the intestinal wall, forming a network of glia and neurons of various subtypes.<xref ref-type="bibr" rid="article-32322.r3">[3]</xref><xref ref-type="bibr" rid="article-32322.r39">[39]</xref><xref ref-type="bibr" rid="article-32322.r44">[44]</xref>&#x000a0;Cells of the ENS complete their migration by four to seven weeks of development and express all varieties of ENS neurotransmitters by gestational week 24. However, mature gut motility is not realized until at least late gestation to shortly after birth.<xref ref-type="bibr" rid="article-32322.r45">[45]</xref></p>
+      </sec>
+      <sec id="article-32322.s4" sec-type="Surgical Considerations">
+        <title>Surgical Considerations</title>
+        <p>Horner syndrome is a mild, rare condition often presenting with unilateral ptosis, miotic, but a&#x000a0;reactive pupil, and facial anhidrosis secondary to sympathetic nerve damage in the oculosympathetic pathway.<xref ref-type="bibr" rid="article-32322.r46">[46]</xref> This damage may have a central cause such as infarction of the lateral medulla, or peripheral such as from damage secondary to thoracic surgery or from partial/total resection of the thyroid gland.<xref ref-type="bibr" rid="article-32322.r46">[46]</xref><xref ref-type="bibr" rid="article-32322.r47">[47]</xref>&#x000a0;More centralized lesions tend to correlate with a constellation of symptoms that include Horner syndrome.<xref ref-type="bibr" rid="article-32322.r46">[46]</xref> For more information, please see the associated StatPearls articles, here.<xref ref-type="bibr" rid="article-32322.r48">[48]</xref><xref ref-type="bibr" rid="article-32322.r49">[49]</xref>&#x000a0;</p>
+        <p>Hyperhidrosis is a common disease characterized by excessive sweating, primarily of the face, palms, soles, and/or axilla. While the cause of primary hyperhidrosis is not fully understood, it has been attributed to increased cholinergic stimulation. Treatment can be either clinical or surgical.<xref ref-type="bibr" rid="article-32322.r50">[50]</xref>&#x000a0;Treatment on the clinical side centers on anticholinergic agents such as topical glycopyrrolate or oral oxybutynin, or less commonly, alpha-adrenergic agonists such as clonidine, calcium channel blockers, or gabapentin.<xref ref-type="bibr" rid="article-32322.r50">[50]</xref><xref ref-type="bibr" rid="article-32322.r51">[51]</xref>&#x000a0;The most common and permanent surgical technique is the resection, ablation, or clipping of the thoracic sympathetic chain. While permanent, the procedure may lead to compensatory hyperhidrosis in a small number of individuals. These hyperhidrosis symptoms are the same if not more severe than prior to the procedure due to possible overcompensation by the hypothalamus. Research has demonstrated that surgical reconstruction of the sympathetic chain can reduce this compensatory response.<xref ref-type="bibr" rid="article-32322.r52">[52]</xref></p>
+      </sec>
+      <sec id="article-32322.s5" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>Due to the extensive nature of the autonomic nervous system, it can be affected by a wide range of conditions. Some of these include<xref ref-type="bibr" rid="article-32322.r53">[53]</xref><xref ref-type="bibr" rid="article-32322.r54">[54]</xref><xref ref-type="bibr" rid="article-32322.r55">[55]</xref></p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Inherited
+<list list-type="bullet"><list-item><p>Amyloidosis</p></list-item><list-item><p>Fabry disease</p></list-item><list-item><p>Hereditary sensory autonomic neuropathy</p></list-item><list-item><p>Porphyrias</p></list-item></list>
+</p>
+          </list-item>
+          <list-item>
+            <p>Acquired</p>
+          </list-item>
+          <list-item>
+            <list list-type="bullet">
+              <list-item>
+                <p>Diabetes mellitus</p>
+              </list-item>
+              <list-item>
+                <p>Uremic neuropathy/chronic liver diseases</p>
+              </list-item>
+              <list-item>
+                <p>Vitamin B12 deficiency</p>
+              </list-item>
+              <list-item>
+                <p>Toxin/drug-induced: alcohol, amiodarone, chemotherapy</p>
+              </list-item>
+              <list-item>
+                <p>Infections: Botulism, Chagas disease, HIV, leprosy, Lyme disease, tetanus</p>
+              </list-item>
+              <list-item>
+                <p>Autoimmune: Guillain-Barre, Lambert-Eaton myasthenic syndrome, rheumatoid arthritis, Sjogren, systemic lupus erythematosus</p>
+              </list-item>
+              <list-item>
+                <p>Neurological: multiple system atrophy/Shy-Drager syndrome, Parkinson disease, Lewy body dementia</p>
+              </list-item>
+              <list-item>
+                <p>Neoplasia: Brain tumors, paraneoplastic syndromes</p>
+              </list-item>
+            </list>
+          </list-item>
+        </list>
+        <p>Likewise, autonomic neuropathy can present in nearly any system. Orthostatic hypotension is the most common autonomic dysautonomia, but numerous other, less understood, findings may present<xref ref-type="bibr" rid="article-32322.r53">[53]</xref></p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Cardiovascular</p>
+          </list-item>
+          <list-item>
+            <list list-type="bullet">
+              <list-item>
+                <p>Fixed heart rate</p>
+              </list-item>
+              <list-item>
+                <p>Postural hypotension</p>
+              </list-item>
+              <list-item>
+                <p>Resting tachycardia</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Gastrointestinal</p>
+          </list-item>
+          <list-item>
+            <list list-type="bullet">
+              <list-item>
+                <p>Dysphagia</p>
+              </list-item>
+              <list-item>
+                <p>Gastroparesis; nausea, vomiting, abdominal fullness</p>
+              </list-item>
+              <list-item>
+                <p>Constipation</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Genitourinary</p>
+          </list-item>
+          <list-item>
+            <list list-type="bullet">
+              <list-item>
+                <p>Bladder atony</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Pupillary</p>
+          </list-item>
+          <list-item>
+            <list list-type="bullet">
+              <list-item>
+                <p>Absent/delayed light reflexes</p>
+              </list-item>
+              <list-item>
+                <p>Decreased pupil size</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Sexual</p>
+          </list-item>
+          <list-item>
+            <list list-type="bullet">
+              <list-item>
+                <p>Erectile dysfunction</p>
+              </list-item>
+              <list-item>
+                <p>Retrograde ejaculation</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Sudomotor</p>
+          </list-item>
+          <list-item>
+            <list list-type="bullet">
+              <list-item>
+                <p>Anhidrosis</p>
+              </list-item>
+              <list-item>
+                <p>Gustatory sweating</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Vasomotor</p>
+          </list-item>
+          <list-item>
+            <list list-type="bullet">
+              <list-item>
+                <p>Cold extremities (due to loss of vasomotor responses)</p>
+              </list-item>
+              <list-item>
+                <p>Edema (due to loss of vasomotor tone and increased vascular permeability)</p>
+              </list-item>
+            </list>
+          </list-item>
+        </list>
+        <p>The most prevalent symptoms of orthostatic hypotension are lightheadedness, tunnel vision, and discomfort in the head, neck, or chest. It may present concomitantly with supine hypertension due to increased peripheral resistance, which induces natriuresis, exacerbating orthostatic hypotension. There are numerous other, more benign stimuli that may either lower blood pressure (standing, food, Valsalva, dehydration, exercise, hyperventilation, etc.) or raise blood pressure (lying supine, water ingestion, coffee, head-down tilt, hypoventilation, etc.).<xref ref-type="bibr" rid="article-32322.r53">[53]</xref></p>
+        <p>Orthostatic hypotension evaluation is commonly done through orthostatic testing via repeated blood pressure and heart rate readings in supine and standing positions, but also through the use of the tilt-table test. However, the advantage of this latter test is minimal over the orthostatic test, with the main benefit being safety and convenience to the patient.<xref ref-type="bibr" rid="article-32322.r53">[53]</xref></p>
+        <p>Patients with dysautonomia are prone to hypotension during anesthesia<xref ref-type="bibr" rid="article-32322.r56">[56]</xref>. This issue may be appropriately managed with low doses of phenylephrine, an alpha-1 agonist. Likewise, supine hypertension may be controlled with transdermal or IV nitrates.<xref ref-type="bibr" rid="article-32322.r53">[53]</xref><xref ref-type="bibr" rid="article-32322.r57">[57]</xref><xref ref-type="bibr" rid="article-32322.r58">[58]</xref></p>
+        <p>The sympathetic nervous system is well known to play a role in nociception. There are suggestions that the ANS has a regulatory inhibitory effect on pain, the loss of which creates a positive feedback circuit leading to hyperexcitability of nociceptive nerve fibers. The fact that the effect of sympathetic blocks often persists beyond the duration of the anesthetic agents administered supports this hypothesis.<xref ref-type="bibr" rid="article-32322.r59">[59]</xref> Local sympathetic nerve blocks have been used to treat a variety of less-common pain conditions including complex regional pain syndrome, phantom limb pain, and herpetic pain. Likewise, visceral pain is treatable through a more central approach through a celiac plexus block. Due to the wide array of functions performed by the ANS, blocks are reserved for intractable pain, uncontrolled by more conventional analgesics.<xref ref-type="bibr" rid="article-32322.r59">[59]</xref> See the related StatPearls articles for more information, here.<xref ref-type="bibr" rid="article-32322.r60">[60]</xref><xref ref-type="bibr" rid="article-32322.r61">[61]</xref><xref ref-type="bibr" rid="article-32322.r62">[62]</xref></p>
+        <p>Most conditions related to the ENS are congenital in origin and present during early childhood.<xref ref-type="bibr" rid="article-32322.r44">[44]</xref> Enteric neurons function to relax intestinal smooth muscle. Their absence leaves the bowel tonically contracted, obstructing the bowel. Presenting complaints often consist of gastroesophageal reflux, dyspeptic syndromes, constipation, chronic abdominal pain, and irritable bowel syndrome. A notable life-threatening disorder of the ENS is Hirschsprung disease. This condition is a failure of embryologic ENS cells to colonize the distal bowel. When the ENS is missing (aganglionosis) or maldeveloped, children experience early constipation, vomiting, eventual growth failure, and possible death.<xref ref-type="bibr" rid="article-32322.r3">[3]</xref><xref ref-type="bibr" rid="article-32322.r44">[44]</xref>&#x000a0;Studies have identified six genes in a causal relationship with Hirschsprung disease.<xref ref-type="bibr" rid="article-32322.r44">[44]</xref> Down syndrome is the most common genetic disorder that predisposes an individual to Hirschsprung disease despite the fact that no genes related to ENS development have been identified on chromosome 21.<xref ref-type="bibr" rid="article-32322.r3">[3]</xref></p>
+      </sec>
+      <sec id="article-32322.s6">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=32322&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=32322">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/32322/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=32322">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <floats-group id="article-32322.s7">
+        <fig id="article-32322.image.f1" position="float" orientation="portrait">
+          <caption>
+            <p>Schematic of the autonomic nervous system Contributed by Henry Gray (1918): Anatomy of the Human Body</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="GSN__schematic" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <ref-list id="article-32322.s8">
+        <title>References</title>
+        <ref id="article-32322.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sternini</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Organization of the peripheral nervous system: autonomic and sensory ganglia.</article-title>
+            <source>J Investig Dermatol Symp Proc</source>
+            <year>1997</year>
+            <month>Aug</month>
+            <volume>2</volume>
+            <issue>1</issue>
+            <fpage>1</fpage>
+            <page-range>1-7</page-range>
+            <pub-id pub-id-type="pmid">9487007</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Karemaker</surname>
+                <given-names>JM</given-names>
+              </name>
+            </person-group>
+            <article-title>An introduction into autonomic nervous function.</article-title>
+            <source>Physiol Meas</source>
+            <year>2017</year>
+            <month>May</month>
+            <volume>38</volume>
+            <issue>5</issue>
+            <fpage>R89</fpage>
+            <page-range>R89-R118</page-range>
+            <pub-id pub-id-type="pmid">28304283</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lake</surname>
+                <given-names>JI</given-names>
+              </name>
+              <name>
+                <surname>Heuckeroth</surname>
+                <given-names>RO</given-names>
+              </name>
+            </person-group>
+            <article-title>Enteric nervous system development: migration, differentiation, and disease.</article-title>
+            <source>Am J Physiol Gastrointest Liver Physiol</source>
+            <year>2013</year>
+            <month>Jul</month>
+            <day>01</day>
+            <volume>305</volume>
+            <issue>1</issue>
+            <fpage>G1</fpage>
+            <page-range>G1-24</page-range>
+            <pub-id pub-id-type="pmid">23639815</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Si&#x000e9;ssere</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Vitti</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Sousa</surname>
+                <given-names>LG</given-names>
+              </name>
+              <name>
+                <surname>Semprini</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Iyomasa</surname>
+                <given-names>MM</given-names>
+              </name>
+              <name>
+                <surname>Regalo</surname>
+                <given-names>SC</given-names>
+              </name>
+            </person-group>
+            <article-title>Anatomic variation of cranial parasympathetic ganglia.</article-title>
+            <source>Braz Oral Res</source>
+            <year>2008</year>
+            <season>Apr-Jun</season>
+            <volume>22</volume>
+            <issue>2</issue>
+            <fpage>101</fpage>
+            <page-range>101-5</page-range>
+            <pub-id pub-id-type="pmid">18622477</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Koopman</surname>
+                <given-names>FA</given-names>
+              </name>
+              <name>
+                <surname>Stoof</surname>
+                <given-names>SP</given-names>
+              </name>
+              <name>
+                <surname>Straub</surname>
+                <given-names>RH</given-names>
+              </name>
+              <name>
+                <surname>Van Maanen</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Vervoordeldonk</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Tak</surname>
+                <given-names>PP</given-names>
+              </name>
+            </person-group>
+            <article-title>Restoring the balance of the autonomic nervous system as an innovative approach to the treatment of rheumatoid arthritis.</article-title>
+            <source>Mol Med</source>
+            <year>2011</year>
+            <season>Sep-Oct</season>
+            <volume>17</volume>
+            <issue>9-10</issue>
+            <fpage>937</fpage>
+            <page-range>937-48</page-range>
+            <pub-id pub-id-type="pmid">21607292</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kenney</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Ganta</surname>
+                <given-names>CK</given-names>
+              </name>
+            </person-group>
+            <article-title>Autonomic nervous system and immune system interactions.</article-title>
+            <source>Compr Physiol</source>
+            <year>2014</year>
+            <month>Jul</month>
+            <volume>4</volume>
+            <issue>3</issue>
+            <fpage>1177</fpage>
+            <page-range>1177-200</page-range>
+            <pub-id pub-id-type="pmid">24944034</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Scott</surname>
+                <given-names>GD</given-names>
+              </name>
+              <name>
+                <surname>Fryer</surname>
+                <given-names>AD</given-names>
+              </name>
+            </person-group>
+            <article-title>Role of parasympathetic nerves and muscarinic receptors in allergy and asthma.</article-title>
+            <source>Chem Immunol Allergy</source>
+            <year>2012</year>
+            <volume>98</volume>
+            <fpage>48</fpage>
+            <page-range>48-69</page-range>
+            <pub-id pub-id-type="pmid">22767057</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>McConalogue</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Furness</surname>
+                <given-names>JB</given-names>
+              </name>
+            </person-group>
+            <article-title>Gastrointestinal neurotransmitters.</article-title>
+            <source>Baillieres Clin Endocrinol Metab</source>
+            <year>1994</year>
+            <month>Jan</month>
+            <volume>8</volume>
+            <issue>1</issue>
+            <fpage>51</fpage>
+            <page-range>51-76</page-range>
+            <pub-id pub-id-type="pmid">7907863</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sheehan</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Pick</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>The rami communicantes in the rhesus monkey.</article-title>
+            <source>J Anat</source>
+            <year>1943</year>
+            <month>Jan</month>
+            <volume>77</volume>
+            <issue>Pt 2</issue>
+            <fpage>125</fpage>
+            <page-range>125-39</page-range>
+            <pub-id pub-id-type="pmid">17104919</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Loukas</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Klaassen</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Merbs</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Tubbs</surname>
+                <given-names>RS</given-names>
+              </name>
+              <name>
+                <surname>Gielecki</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Zurada</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>A review of the thoracic splanchnic nerves and celiac ganglia.</article-title>
+            <source>Clin Anat</source>
+            <year>2010</year>
+            <month>Jul</month>
+            <volume>23</volume>
+            <issue>5</issue>
+            <fpage>512</fpage>
+            <page-range>512-22</page-range>
+            <pub-id pub-id-type="pmid">20235178</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Yang</surname>
+                <given-names>HJ</given-names>
+              </name>
+              <name>
+                <surname>Gil</surname>
+                <given-names>YC</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>WJ</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>TJ</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>HY</given-names>
+              </name>
+            </person-group>
+            <article-title>Anatomy of thoracic splanchnic nerves for surgical resection.</article-title>
+            <source>Clin Anat</source>
+            <year>2008</year>
+            <month>Mar</month>
+            <volume>21</volume>
+            <issue>2</issue>
+            <fpage>171</fpage>
+            <page-range>171-7</page-range>
+            <pub-id pub-id-type="pmid">18288763</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Beveridge</surname>
+                <given-names>TS</given-names>
+              </name>
+              <name>
+                <surname>Johnson</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Power</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Power</surname>
+                <given-names>NE</given-names>
+              </name>
+              <name>
+                <surname>Allman</surname>
+                <given-names>BL</given-names>
+              </name>
+            </person-group>
+            <article-title>Anatomy of the nerves and ganglia of the aortic plexus in males.</article-title>
+            <source>J Anat</source>
+            <year>2015</year>
+            <month>Jan</month>
+            <volume>226</volume>
+            <issue>1</issue>
+            <fpage>93</fpage>
+            <page-range>93-103</page-range>
+            <pub-id pub-id-type="pmid">25382240</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r13">
+          <label>13</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Ehrhardt</surname>
+                <given-names>JD</given-names>
+              </name>
+              <name>
+                <surname>Weber</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Carey</surname>
+                <given-names>FJ</given-names>
+              </name>
+              <name>
+                <surname>Lopez-Ojeda</surname>
+                <given-names>W</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Anatomy, Thorax, Greater Splanchnic Nerves</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>8</month>
+            <day>7</day>
+            <pub-id pub-id-type="pmid">29763202</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Brindley</surname>
+                <given-names>RL</given-names>
+              </name>
+              <name>
+                <surname>Bauer</surname>
+                <given-names>MB</given-names>
+              </name>
+              <name>
+                <surname>Blakely</surname>
+                <given-names>RD</given-names>
+              </name>
+              <name>
+                <surname>Currie</surname>
+                <given-names>KPM</given-names>
+              </name>
+            </person-group>
+            <article-title>Serotonin and Serotonin Transporters in the Adrenal Medulla: A Potential Hub for Modulation of the Sympathetic Stress Response.</article-title>
+            <source>ACS Chem Neurosci</source>
+            <year>2017</year>
+            <month>May</month>
+            <day>17</day>
+            <volume>8</volume>
+            <issue>5</issue>
+            <fpage>943</fpage>
+            <page-range>943-954</page-range>
+            <pub-id pub-id-type="pmid">28406285</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Nance</surname>
+                <given-names>DM</given-names>
+              </name>
+              <name>
+                <surname>Sanders</surname>
+                <given-names>VM</given-names>
+              </name>
+            </person-group>
+            <article-title>Autonomic innervation and regulation of the immune system (1987-2007).</article-title>
+            <source>Brain Behav Immun</source>
+            <year>2007</year>
+            <month>Aug</month>
+            <volume>21</volume>
+            <issue>6</issue>
+            <fpage>736</fpage>
+            <page-range>736-45</page-range>
+            <pub-id pub-id-type="pmid">17467231</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r16">
+          <label>16</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Alhayek</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Preuss</surname>
+                <given-names>CV</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Beta 1 Receptors</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>8</month>
+            <day>14</day>
+            <pub-id pub-id-type="pmid">30422499</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r17">
+          <label>17</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Farzam</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Kidron</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Lakhkar</surname>
+                <given-names>AD</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Adrenergic Drugs</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>7</month>
+            <day>2</day>
+            <pub-id pub-id-type="pmid">30480963</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r18">
+          <label>18</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Khalid</surname>
+                <given-names>MM</given-names>
+              </name>
+              <name>
+                <surname>Galuska</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Hamilton</surname>
+                <given-names>RJ</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Beta-Blocker Toxicity</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>7</month>
+            <day>28</day>
+            <pub-id pub-id-type="pmid">28846217</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Heusch</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Th&#x000e4;mer</surname>
+                <given-names>V</given-names>
+              </name>
+            </person-group>
+            <article-title>[Significance of the sympathetic nervous system for the coronary circulation].</article-title>
+            <source>Z Kardiol</source>
+            <year>1984</year>
+            <month>Sep</month>
+            <volume>73</volume>
+            <issue>9</issue>
+            <fpage>543</fpage>
+            <page-range>543-51</page-range>
+            <pub-id pub-id-type="pmid">6506839</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Vargas Pelaez</surname>
+                <given-names>AF</given-names>
+              </name>
+              <name>
+                <surname>Gao</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Ahmad</surname>
+                <given-names>TA</given-names>
+              </name>
+              <name>
+                <surname>Leuenberger</surname>
+                <given-names>UA</given-names>
+              </name>
+              <name>
+                <surname>Proctor</surname>
+                <given-names>DN</given-names>
+              </name>
+              <name>
+                <surname>Maman</surname>
+                <given-names>SR</given-names>
+              </name>
+              <name>
+                <surname>Muller</surname>
+                <given-names>MD</given-names>
+              </name>
+            </person-group>
+            <article-title>Effect of adrenergic agonists on coronary blood flow: a laboratory study in healthy volunteers.</article-title>
+            <source>Physiol Rep</source>
+            <year>2016</year>
+            <month>May</month>
+            <volume>4</volume>
+            <issue>10</issue>
+            <pub-id pub-id-type="pmid">27225628</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Chen</surname>
+                <given-names>IC</given-names>
+              </name>
+              <name>
+                <surname>Kuo</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ko</surname>
+                <given-names>WJ</given-names>
+              </name>
+              <name>
+                <surname>Shih</surname>
+                <given-names>HC</given-names>
+              </name>
+              <name>
+                <surname>Kuo</surname>
+                <given-names>CD</given-names>
+              </name>
+            </person-group>
+            <article-title>Increased flow resistance and decreased flow rate in patients with acute respiratory distress syndrome: The role of autonomic nervous modulation.</article-title>
+            <source>J Chin Med Assoc</source>
+            <year>2016</year>
+            <month>Jan</month>
+            <volume>79</volume>
+            <issue>1</issue>
+            <fpage>17</fpage>
+            <page-range>17-24</page-range>
+            <pub-id pub-id-type="pmid">26589196</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sternberg</surname>
+                <given-names>EM</given-names>
+              </name>
+            </person-group>
+            <article-title>Neural regulation of innate immunity: a coordinated nonspecific host response to pathogens.</article-title>
+            <source>Nat Rev Immunol</source>
+            <year>2006</year>
+            <month>Apr</month>
+            <volume>6</volume>
+            <issue>4</issue>
+            <fpage>318</fpage>
+            <page-range>318-28</page-range>
+            <pub-id pub-id-type="pmid">16557263</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Elenkov</surname>
+                <given-names>IJ</given-names>
+              </name>
+              <name>
+                <surname>Wilder</surname>
+                <given-names>RL</given-names>
+              </name>
+              <name>
+                <surname>Chrousos</surname>
+                <given-names>GP</given-names>
+              </name>
+              <name>
+                <surname>Vizi</surname>
+                <given-names>ES</given-names>
+              </name>
+            </person-group>
+            <article-title>The sympathetic nerve--an integrative interface between two supersystems: the brain and the immune system.</article-title>
+            <source>Pharmacol Rev</source>
+            <year>2000</year>
+            <month>Dec</month>
+            <volume>52</volume>
+            <issue>4</issue>
+            <fpage>595</fpage>
+            <page-range>595-638</page-range>
+            <pub-id pub-id-type="pmid">11121511</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bellinger</surname>
+                <given-names>DL</given-names>
+              </name>
+              <name>
+                <surname>Millar</surname>
+                <given-names>BA</given-names>
+              </name>
+              <name>
+                <surname>Perez</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Carter</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Wood</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>ThyagaRajan</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Molinaro</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Lubahn</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Lorton</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Sympathetic modulation of immunity: relevance to disease.</article-title>
+            <source>Cell Immunol</source>
+            <year>2008</year>
+            <season>Mar-Apr</season>
+            <volume>252</volume>
+            <issue>1-2</issue>
+            <fpage>27</fpage>
+            <page-range>27-56</page-range>
+            <pub-id pub-id-type="pmid">18308299</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lundberg</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>H&#x000f6;kfelt</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Multiple co-existence of peptides and classical transmitters in peripheral autonomic and sensory neurons--functional and pharmacological implications.</article-title>
+            <source>Prog Brain Res</source>
+            <year>1986</year>
+            <volume>68</volume>
+            <fpage>241</fpage>
+            <page-range>241-62</page-range>
+            <pub-id pub-id-type="pmid">2882554</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r26">
+          <label>26</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lundberg</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>H&#x000f6;kfelt</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Schultzberg</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Uvn&#x000e4;s-Wallensten</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>K&#x000f6;hler</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Said</surname>
+                <given-names>SI</given-names>
+              </name>
+            </person-group>
+            <article-title>Occurrence of vasoactive intestinal polypeptide (VIP)-like immunoreactivity in certain cholinergic neurons of the cat: evidence from combined immunohistochemistry and acetylcholinesterase staining.</article-title>
+            <source>Neuroscience</source>
+            <year>1979</year>
+            <volume>4</volume>
+            <issue>11</issue>
+            <fpage>1539</fpage>
+            <page-range>1539-59</page-range>
+            <pub-id pub-id-type="pmid">390416</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r27">
+          <label>27</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Landis</surname>
+                <given-names>SC</given-names>
+              </name>
+              <name>
+                <surname>Fredieu</surname>
+                <given-names>JR</given-names>
+              </name>
+            </person-group>
+            <article-title>Coexistence of calcitonin gene-related peptide and vasoactive intestinal peptide in cholinergic sympathetic innervation of rat sweat glands.</article-title>
+            <source>Brain Res</source>
+            <year>1986</year>
+            <month>Jul</month>
+            <day>02</day>
+            <volume>377</volume>
+            <issue>1</issue>
+            <fpage>177</fpage>
+            <page-range>177-81</page-range>
+            <pub-id pub-id-type="pmid">3524749</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r28">
+          <label>28</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lindh</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Lundberg</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>H&#x000f6;kfelt</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Elfvin</surname>
+                <given-names>LG</given-names>
+              </name>
+              <name>
+                <surname>Fahrenkrug</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Fischer</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Coexistence of CGRP- and VIP-like immunoreactivities in a population of neurons in the cat stellate ganglia.</article-title>
+            <source>Acta Physiol Scand</source>
+            <year>1987</year>
+            <month>Nov</month>
+            <volume>131</volume>
+            <issue>3</issue>
+            <fpage>475</fpage>
+            <page-range>475-6</page-range>
+            <pub-id pub-id-type="pmid">3321916</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r29">
+          <label>29</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Brain</surname>
+                <given-names>SD</given-names>
+              </name>
+              <name>
+                <surname>Williams</surname>
+                <given-names>TJ</given-names>
+              </name>
+              <name>
+                <surname>Tippins</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Morris</surname>
+                <given-names>HR</given-names>
+              </name>
+              <name>
+                <surname>MacIntyre</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <article-title>Calcitonin gene-related peptide is a potent vasodilator.</article-title>
+            <source>Nature</source>
+            <year>1985</year>
+            <month>Jan</month>
+            <day>3-9</day>
+            <volume>313</volume>
+            <issue>5997</issue>
+            <fpage>54</fpage>
+            <page-range>54-6</page-range>
+            <pub-id pub-id-type="pmid">3917554</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r30">
+          <label>30</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Berthoud</surname>
+                <given-names>HR</given-names>
+              </name>
+              <name>
+                <surname>Neuhuber</surname>
+                <given-names>WL</given-names>
+              </name>
+            </person-group>
+            <article-title>Functional and chemical anatomy of the afferent vagal system.</article-title>
+            <source>Auton Neurosci</source>
+            <year>2000</year>
+            <month>Dec</month>
+            <day>20</day>
+            <volume>85</volume>
+            <issue>1-3</issue>
+            <fpage>1</fpage>
+            <page-range>1-17</page-range>
+            <pub-id pub-id-type="pmid">11189015</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r31">
+          <label>31</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pavlov</surname>
+                <given-names>VA</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Czura</surname>
+                <given-names>CJ</given-names>
+              </name>
+              <name>
+                <surname>Friedman</surname>
+                <given-names>SG</given-names>
+              </name>
+              <name>
+                <surname>Tracey</surname>
+                <given-names>KJ</given-names>
+              </name>
+            </person-group>
+            <article-title>The cholinergic anti-inflammatory pathway: a missing link in neuroimmunomodulation.</article-title>
+            <source>Mol Med</source>
+            <year>2003</year>
+            <season>May-Aug</season>
+            <volume>9</volume>
+            <issue>5-8</issue>
+            <fpage>125</fpage>
+            <page-range>125-34</page-range>
+            <pub-id pub-id-type="pmid">14571320</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r32">
+          <label>32</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tsuchihashi</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Yoshihiro</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Aikawa</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Nio</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Takayoshi</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Yokoyama</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Fukata</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Arita</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Ariyama</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Shimizu</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Yoshida</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Torisu</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Esaki</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Odashiro</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Kusaba</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Akashi</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Baba</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Metastatic esophageal cancer presenting as shock by injury of vagus nerve mimicking baroreceptor reflex: A case report.</article-title>
+            <source>Medicine (Baltimore)</source>
+            <year>2017</year>
+            <month>Dec</month>
+            <volume>96</volume>
+            <issue>49</issue>
+            <fpage>e8987</fpage>
+            <pub-id pub-id-type="pmid">29245271</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r33">
+          <label>33</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wood</surname>
+                <given-names>JD</given-names>
+              </name>
+            </person-group>
+            <article-title>Application of classification schemes to the enteric nervous system.</article-title>
+            <source>J Auton Nerv Syst</source>
+            <year>1994</year>
+            <month>Jun</month>
+            <volume>48</volume>
+            <issue>1</issue>
+            <fpage>17</fpage>
+            <page-range>17-29</page-range>
+            <pub-id pub-id-type="pmid">8027516</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r34">
+          <label>34</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Thayer</surname>
+                <given-names>JF</given-names>
+              </name>
+              <name>
+                <surname>Sternberg</surname>
+                <given-names>EM</given-names>
+              </name>
+            </person-group>
+            <article-title>Neural aspects of immunomodulation: focus on the vagus nerve.</article-title>
+            <source>Brain Behav Immun</source>
+            <year>2010</year>
+            <month>Nov</month>
+            <volume>24</volume>
+            <issue>8</issue>
+            <fpage>1223</fpage>
+            <page-range>1223-8</page-range>
+            <pub-id pub-id-type="pmid">20674737</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r35">
+          <label>35</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lundberg</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>H&#x000f6;kfelt</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Angg&#x000e5;rd</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Uvn&#x000e4;s-Wallensten</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Brimijoin</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Brodin</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Fahrenkrug</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Peripheral peptide neurons: distribution, axonal transport, and some aspects on possible function.</article-title>
+            <source>Adv Biochem Psychopharmacol</source>
+            <year>1980</year>
+            <volume>22</volume>
+            <fpage>25</fpage>
+            <page-range>25-36</page-range>
+            <pub-id pub-id-type="pmid">6156578</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r36">
+          <label>36</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Leblanc</surname>
+                <given-names>GG</given-names>
+              </name>
+              <name>
+                <surname>Trimmer</surname>
+                <given-names>BA</given-names>
+              </name>
+              <name>
+                <surname>Landis</surname>
+                <given-names>SC</given-names>
+              </name>
+            </person-group>
+            <article-title>Neuropeptide Y-like immunoreactivity in rat cranial parasympathetic neurons: coexistence with vasoactive intestinal peptide and choline acetyltransferase.</article-title>
+            <source>Proc Natl Acad Sci U S A</source>
+            <year>1987</year>
+            <month>May</month>
+            <volume>84</volume>
+            <issue>10</issue>
+            <fpage>3511</fpage>
+            <page-range>3511-5</page-range>
+            <pub-id pub-id-type="pmid">3554241</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r37">
+          <label>37</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Carlson</surname>
+                <given-names>AB</given-names>
+              </name>
+              <name>
+                <surname>Kraus</surname>
+                <given-names>GP</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Physiology, Cholinergic Receptors</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>8</month>
+            <day>14</day>
+            <pub-id pub-id-type="pmid">30252390</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r38">
+          <label>38</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Million</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Larauche</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Stress, sex, and the enteric nervous system.</article-title>
+            <source>Neurogastroenterol Motil</source>
+            <year>2016</year>
+            <month>Sep</month>
+            <volume>28</volume>
+            <issue>9</issue>
+            <fpage>1283</fpage>
+            <page-range>1283-9</page-range>
+            <pub-id pub-id-type="pmid">27561694</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r39">
+          <label>39</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hansen</surname>
+                <given-names>MB</given-names>
+              </name>
+            </person-group>
+            <article-title>The enteric nervous system I: organisation and classification.</article-title>
+            <source>Pharmacol Toxicol</source>
+            <year>2003</year>
+            <month>Mar</month>
+            <volume>92</volume>
+            <issue>3</issue>
+            <fpage>105</fpage>
+            <page-range>105-13</page-range>
+            <pub-id pub-id-type="pmid">12753424</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r40">
+          <label>40</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wood</surname>
+                <given-names>JD</given-names>
+              </name>
+            </person-group>
+            <article-title>Enteric Nervous System: Neuropathic Gastrointestinal Motility.</article-title>
+            <source>Dig Dis Sci</source>
+            <year>2016</year>
+            <month>Jul</month>
+            <volume>61</volume>
+            <issue>7</issue>
+            <fpage>1803</fpage>
+            <page-range>1803-16</page-range>
+            <pub-id pub-id-type="pmid">27142673</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r41">
+          <label>41</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Sarna</surname>
+                <given-names>SK</given-names>
+              </name>
+            </person-group>
+            <source>Colonic Motility: From Bench Side to Bedside</source>
+            <publisher-name>Morgan &#x00026; Claypool Life Sciences</publisher-name>
+            <publisher-loc>San Rafael (CA)</publisher-loc>
+            <year>2010</year>
+            <pub-id pub-id-type="pmid">21452445</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r42">
+          <label>42</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Butler</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Bronner</surname>
+                <given-names>ME</given-names>
+              </name>
+            </person-group>
+            <article-title>From classical to current: analyzing peripheral nervous system and spinal cord lineage and fate.</article-title>
+            <source>Dev Biol</source>
+            <year>2015</year>
+            <month>Feb</month>
+            <day>15</day>
+            <volume>398</volume>
+            <issue>2</issue>
+            <fpage>135</fpage>
+            <page-range>135-46</page-range>
+            <pub-id pub-id-type="pmid">25446276</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r43">
+          <label>43</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dyachuk</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Furlan</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Shahidi</surname>
+                <given-names>MK</given-names>
+              </name>
+              <name>
+                <surname>Giovenco</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Kaukua</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Konstantinidou</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Pachnis</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Memic</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Marklund</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>M&#x000fc;ller</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Birchmeier</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Fried</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Ernfors</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Adameyko</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <article-title>Neurodevelopment. Parasympathetic neurons originate from nerve-associated peripheral glial progenitors.</article-title>
+            <source>Science</source>
+            <year>2014</year>
+            <month>Jul</month>
+            <day>04</day>
+            <volume>345</volume>
+            <issue>6192</issue>
+            <fpage>82</fpage>
+            <page-range>82-7</page-range>
+            <pub-id pub-id-type="pmid">24925909</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r44">
+          <label>44</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gariepy</surname>
+                <given-names>CE</given-names>
+              </name>
+            </person-group>
+            <article-title>Intestinal motility disorders and development of the enteric nervous system.</article-title>
+            <source>Pediatr Res</source>
+            <year>2001</year>
+            <month>May</month>
+            <volume>49</volume>
+            <issue>5</issue>
+            <fpage>605</fpage>
+            <page-range>605-13</page-range>
+            <pub-id pub-id-type="pmid">11328941</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r45">
+          <label>45</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sasselli</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Pachnis</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Burns</surname>
+                <given-names>AJ</given-names>
+              </name>
+            </person-group>
+            <article-title>The enteric nervous system.</article-title>
+            <source>Dev Biol</source>
+            <year>2012</year>
+            <month>Jun</month>
+            <day>01</day>
+            <volume>366</volume>
+            <issue>1</issue>
+            <fpage>64</fpage>
+            <page-range>64-73</page-range>
+            <pub-id pub-id-type="pmid">22290331</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r46">
+          <label>46</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Kanagalingam</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Miller</surname>
+                <given-names>NR</given-names>
+              </name>
+            </person-group>
+            <article-title>Horner syndrome: clinical perspectives.</article-title>
+            <source>Eye Brain</source>
+            <year>2015</year>
+            <volume>7</volume>
+            <fpage>35</fpage>
+            <page-range>35-46</page-range>
+            <pub-id pub-id-type="pmid">28539793</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r47">
+          <label>47</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Diamantis</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Farmaki</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Savvanis</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Athanasiadis</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Troupis</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Damaskos</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Sympathetic Nerve Injury in Thyroid Cancer.</article-title>
+            <source>Acta Medica (Hradec Kralove)</source>
+            <year>2017</year>
+            <volume>60</volume>
+            <issue>4</issue>
+            <fpage>135</fpage>
+            <page-range>135-139</page-range>
+            <pub-id pub-id-type="pmid">29716678</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r48">
+          <label>48</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Khan</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Bollu</surname>
+                <given-names>PC</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Horner Syndrome</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>4</month>
+            <day>10</day>
+            <pub-id pub-id-type="pmid">29763176</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r49">
+          <label>49</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Lykstad</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Reddy</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Hanna</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Neuroanatomy, Pupillary Dilation Pathway</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>8</month>
+            <day>8</day>
+            <pub-id pub-id-type="pmid">30571042</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r50">
+          <label>50</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Delort</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Marchi</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Corr&#x000ea;a</surname>
+                <given-names>MA</given-names>
+              </name>
+            </person-group>
+            <article-title>Oxybutynin as an alternative treatment for hyperhidrosis.</article-title>
+            <source>An Bras Dermatol</source>
+            <year>2017</year>
+            <season>Mar-Apr</season>
+            <volume>92</volume>
+            <issue>2</issue>
+            <fpage>217</fpage>
+            <page-range>217-220</page-range>
+            <pub-id pub-id-type="pmid">28538882</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r51">
+          <label>51</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>del Boz</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Systemic treatment of hyperhidrosis.</article-title>
+            <source>Actas Dermosifiliogr</source>
+            <year>2015</year>
+            <month>May</month>
+            <volume>106</volume>
+            <issue>4</issue>
+            <fpage>271</fpage>
+            <page-range>271-7</page-range>
+            <pub-id pub-id-type="pmid">25638324</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r52">
+          <label>52</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Haam</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Park</surname>
+                <given-names>SY</given-names>
+              </name>
+              <name>
+                <surname>Paik</surname>
+                <given-names>HC</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>DY</given-names>
+              </name>
+            </person-group>
+            <article-title>Sympathetic nerve reconstruction for compensatory hyperhidrosis after sympathetic surgery for primary hyperhidrosis.</article-title>
+            <source>J Korean Med Sci</source>
+            <year>2010</year>
+            <month>Apr</month>
+            <volume>25</volume>
+            <issue>4</issue>
+            <fpage>597</fpage>
+            <page-range>597-601</page-range>
+            <pub-id pub-id-type="pmid">20358004</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r53">
+          <label>53</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mustafa</surname>
+                <given-names>HI</given-names>
+              </name>
+              <name>
+                <surname>Fessel</surname>
+                <given-names>JP</given-names>
+              </name>
+              <name>
+                <surname>Barwise</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Shannon</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Raj</surname>
+                <given-names>SR</given-names>
+              </name>
+              <name>
+                <surname>Diedrich</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Biaggioni</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Robertson</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Dysautonomia: perioperative implications.</article-title>
+            <source>Anesthesiology</source>
+            <year>2012</year>
+            <month>Jan</month>
+            <volume>116</volume>
+            <issue>1</issue>
+            <fpage>205</fpage>
+            <page-range>205-15</page-range>
+            <pub-id pub-id-type="pmid">22143168</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r54">
+          <label>54</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>McLeod</surname>
+                <given-names>JG</given-names>
+              </name>
+            </person-group>
+            <article-title>Investigation of peripheral neuropathy.</article-title>
+            <source>J Neurol Neurosurg Psychiatry</source>
+            <year>1995</year>
+            <month>Mar</month>
+            <volume>58</volume>
+            <issue>3</issue>
+            <fpage>274</fpage>
+            <page-range>274-83</page-range>
+            <pub-id pub-id-type="pmid">7897405</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r55">
+          <label>55</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Ludwig</surname>
+                <given-names>PE</given-names>
+              </name>
+              <name>
+                <surname>Reddy</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Varacallo</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Neuroanatomy, Central Nervous System (CNS)</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2022</year>
+            <month>10</month>
+            <day>10</day>
+            <pub-id pub-id-type="pmid">28723039</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r56">
+          <label>56</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>S&#x000e1;nchez-Manso</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Gujarathi</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Varacallo</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Autonomic Dysfunction</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>8</month>
+            <day>4</day>
+            <pub-id pub-id-type="pmid">28613638</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r57">
+          <label>57</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bevan</surname>
+                <given-names>DR</given-names>
+              </name>
+            </person-group>
+            <article-title>Shy-Drager syndrome. A review and a description of the anaesthetic management.</article-title>
+            <source>Anaesthesia</source>
+            <year>1979</year>
+            <month>Oct</month>
+            <volume>34</volume>
+            <issue>9</issue>
+            <fpage>866</fpage>
+            <page-range>866-73</page-range>
+            <pub-id pub-id-type="pmid">532923</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r58">
+          <label>58</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Stirt</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Frantz</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Gunz</surname>
+                <given-names>EF</given-names>
+              </name>
+              <name>
+                <surname>Conolly</surname>
+                <given-names>ME</given-names>
+              </name>
+            </person-group>
+            <article-title>Anesthesia, catecholamines, and hemodynamics in autonomic dysfunction.</article-title>
+            <source>Anesth Analg</source>
+            <year>1982</year>
+            <month>Aug</month>
+            <volume>61</volume>
+            <issue>8</issue>
+            <fpage>701</fpage>
+            <page-range>701-4</page-range>
+            <pub-id pub-id-type="pmid">7201274</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r59">
+          <label>59</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gunduz</surname>
+                <given-names>OH</given-names>
+              </name>
+              <name>
+                <surname>Kenis-Coskun</surname>
+                <given-names>O</given-names>
+              </name>
+            </person-group>
+            <article-title>Ganglion blocks as a treatment of pain: current perspectives.</article-title>
+            <source>J Pain Res</source>
+            <year>2017</year>
+            <volume>10</volume>
+            <fpage>2815</fpage>
+            <page-range>2815-2826</page-range>
+            <pub-id pub-id-type="pmid">29276402</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r60">
+          <label>60</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>John</surname>
+                <given-names>RS</given-names>
+              </name>
+              <name>
+                <surname>Dixon</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Shienbaum</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Celiac Plexus Block</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>5</month>
+            <day>11</day>
+            <pub-id pub-id-type="pmid">30285364</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r61">
+          <label>61</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Piraccini</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Munakomi</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Chang</surname>
+                <given-names>KV</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Stellate Ganglion Blocks</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>8</month>
+            <day>13</day>
+            <pub-id pub-id-type="pmid">29939575</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-32322.r62">
+          <label>62</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Alexander</surname>
+                <given-names>CE</given-names>
+              </name>
+              <name>
+                <surname>De Jesus</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Varacallo</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Lumbar Sympathetic Block</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>8</month>
+            <day>23</day>
+            <pub-id pub-id-type="pmid">28613759</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

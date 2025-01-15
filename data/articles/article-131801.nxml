@@ -1,0 +1,2272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-131801" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Antibiotic Prophylaxis in Dental and Oral Surgery Practice</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Hollingshead</surname>
+            <given-names>Caitlyn M.</given-names>
+          </name>
+          <aff>The University of Toledo</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Brizuela</surname>
+            <given-names>Melina</given-names>
+          </name>
+          <aff>International University Of Catalunya (UIC)</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Caitlyn Hollingshead declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Melina Brizuela declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>19</day>
+          <month>3</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-131801.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Infectious endocarditis can be challenging to treat and often causes significant sequelae. Antimicrobial prophylaxis is given in certain situations before dental and oral surgery to avoid infective endocarditis. However, unnecessary antimicrobial administration can cause adverse events and contribute to antimicrobial resistance. This activity will explore the indications for antimicrobial prophylaxis in the context of dental and oral surgery, the microbiology of the oral cavity, and recommended antimicrobials and their administration. It will further delve into the data informing current recommendations on antimicrobial prophylaxis. It will conclude by exploring the topic of dental antimicrobial stewardship and the consequences of unneeded antimicrobial use in the field.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Explain the rationale for antimicrobial prophylaxis in dental and oral surgery.</p></list-item><list-item><p>Identify the indications for antimicrobial prophylaxis in dental and oral surgery.</p></list-item><list-item><p>Review the microbiology of the oral cavity.</p></list-item><list-item><p>Outline recommended regimens for antimicrobial prophylaxis and their administration.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=131801&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=131801">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-131801.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>The disruption of the dental mucosa can lead to transient bacteremia.<xref ref-type="bibr" rid="article-131801.r1">[1]</xref> In turn, bacteremia is a risk factor for the development of infective endocarditis and other biofilm-associated infections, such as prosthetic joint infection.<xref ref-type="bibr" rid="article-131801.r2">[2]</xref><xref ref-type="bibr" rid="article-131801.r3">[3]</xref> The first suggestion that dental procedures could be associated with infective endocarditis came in 1923.<xref ref-type="bibr" rid="article-131801.r4">[4]</xref></p>
+        <p>In 1935, one study isolated <italic toggle="yes">S. viridans</italic> in blood cultures in 61% of&#x000a0;patients with dental sepsis.<xref ref-type="bibr" rid="article-131801.r4">[4]</xref>&#x000a0;Recommendations for antimicrobial prophylaxis before dental procedures were first included in the American Heart Association (AHA) guidelines in 1955.<xref ref-type="bibr" rid="article-131801.r5">[5]</xref>&#x000a0;Antimicrobials have been offered to patients for various reasons before dental procedures and oral surgery. But, recent recommendations target prophylaxis toward the most vulnerable to infection.</p>
+      </sec>
+      <sec id="article-131801.s3" sec-type="Function">
+        <title>Function</title>
+        <p>The microbiology of the oral cavity varies with the position in the mouth and with different systemic conditions. Nonmutans streptococcal species and organisms in the <italic toggle="yes">S. mitis</italic> group predominate near the root and in the teeth' cracks and fissures.<xref ref-type="bibr" rid="article-131801.r6">[6]</xref> There is a minimal amount of mutans-group streptococcus in the healthy mouth.<xref ref-type="bibr" rid="article-131801.r6">[6]</xref> Anaerobic flora predominates in periodontal disease, including <italic toggle="yes">Porphyromonas</italic>, <italic toggle="yes">Provotella</italic>, and <italic toggle="yes">Capnocytophaga</italic>.<xref ref-type="bibr" rid="article-131801.r6">[6]</xref>
+<italic toggle="yes">Aggregatibacter</italic> is associated with aggressive periodontitis.<xref ref-type="bibr" rid="article-131801.r7">[7]</xref></p>
+        <p>Organisms involved in periodontal disease organize into complexes in conjunction with certain other species. <italic toggle="yes">Fusobacterium</italic> species belong to a complex that may herald early periodontal disease.<xref ref-type="bibr" rid="article-131801.r8">[8]</xref> Mutans-group streptococci, <italic toggle="yes">Lactobacillus</italic>, and <italic toggle="yes">Actinomyces,</italic> predominate in biofilms associated with carious teeth.<xref ref-type="bibr" rid="article-131801.r9">[9]</xref> Enterococcal species are also commonly found in the oral cavity.<xref ref-type="bibr" rid="article-131801.r10">[10]</xref></p>
+        <p>Organisms implicated in infective endocarditis that may be of oral origin include oral streptococci in 7&#x000a0;to 18%, enterococci in 5&#x000a0;to 10%, and organisms in the HACEK group that include oral anaerobes such as <italic toggle="yes">Eikinella corrodens</italic> and <italic toggle="yes">Aggrigatibacter</italic> in 1&#x000a0;to 2%.<xref ref-type="bibr" rid="article-131801.r11">[11]</xref> Organisms potentially of an oral origin in prosthetic joint infection include streptococcal species in 8%, enterococcal species in 3%, and anaerobes in 4%.<xref ref-type="bibr" rid="article-131801.r12">[12]</xref></p>
+        <p>Most prosthetic joint infections involve <italic toggle="yes">Staphylococcus aureus</italic> and coagulase-negative <italic toggle="yes">Staphylococcus</italic>,&#x000a0;which are generally considered rare in the human oral cavity.<xref ref-type="bibr" rid="article-131801.r12">[12]</xref><xref ref-type="bibr" rid="article-131801.r13">[13]</xref> However, staphylococcal species in the oral cavity may be involved in more oral infections than previously thought.<xref ref-type="bibr" rid="article-131801.r14">[14]</xref></p>
+      </sec>
+      <sec id="article-131801.s4" sec-type="Issues of Concern">
+        <title>Issues of Concern</title>
+        <p>Current guidelines regarding antibiotic prophylaxis before dental procedures have been influenced by two main issues: transient bacteremia's nature and the efficacy of antibiotics in reducing bacteremia and infective endocarditis.</p>
+        <p>
+<bold>Transient Bacteremia</bold>
+</p>
+        <p>Bacteremia refers to the presence of bacteria in the bloodstream.<xref ref-type="bibr" rid="article-131801.r15">[15]</xref>&#x000a0;Viable bacteria may reach the bloodstream after simple daily tasks like toothbrushing and during minor dental procedures and infectious processes.<xref ref-type="bibr" rid="article-131801.r15">[15]</xref>&#x000a0;The host's immunity normally clears these bacteria from the blood. However, transient bacteremia may lead to infection and sepsis when immune efforts are ineffective or under certain circumstances like anatomical defects, foreign material, or turbulent cardiac blood flow.<xref ref-type="bibr" rid="article-131801.r15">[15]</xref></p>
+        <p>As transient bacteremia occurs for many due to normal activities of daily living, this argues against the widespread use of antimicrobial prophylaxis in the general population. Furthermore, despite transient bacteremia, endocarditis remains a relatively rare diagnosis and has an incidence of 3 to 10 per 100,000 people.<xref ref-type="bibr" rid="article-131801.r16">[16]</xref>&#x000a0;Those with certain cardiac conditions, such as rheumatic heart disease, degenerative valve disease, and congenital heart disease, are more predisposed to the development of infective endocarditis.<xref ref-type="bibr" rid="article-131801.r16">[16]</xref></p>
+        <p>Advancements in cardiology have paved the way for prosthetic and bioprosthetic cardiac valves and other prosthetics, allowing for the correction of valvulopathy and congenital heart disease. Increased rates of endocarditis have also been noted in this population.<xref ref-type="bibr" rid="article-131801.r16">[16]</xref>&#x000a0;Specific populations develop endocarditis secondary to this transient bacteremia in a much higher proportion than others, suggesting that antibiotic prophylaxis may be more beneficial in these populations.</p>
+        <p>
+<bold>Efficacy of Antimicrobial Prophylaxis in the Prevention of Bacteremia</bold>
+</p>
+        <p>Antimicrobial prophylaxis before dental procedures is not 100% effective at preventing transient bacteremia. A systemic review of twelve studies revealed that antimicrobial prophylaxis before tooth extraction reduced the risk of bacteremia by 50%.<xref ref-type="bibr" rid="article-131801.r17">[17]</xref>&#x000a0;Amoxicillin reduced the risk of bacteremia by 59%, azithromycin by 49%, and clindamycin by 11%.<xref ref-type="bibr" rid="article-131801.r17">[17]</xref></p>
+        <p>
+<bold>Efficacy of Antimicrobial Prophylaxis in the Prevention of Infective Endocarditis</bold>
+</p>
+        <p>Infective endocarditis is the infection of the innermost layer of the heart, known as the endocardium. It typically affects the cardiac or prosthetic valves and cardiac devices.<xref ref-type="bibr" rid="article-131801.r18">[18]</xref></p>
+        <p>To date, there has not been a randomized-controlled trial regarding antimicrobial prophylaxis before dental procedures to inform clinical decision-making. However, several studies have evaluated the incidence of infective endocarditis before and after changes in treatment guidelines from prominent medical organizations.&#x000a0;In other words,&#x000a0;much of the data informing on this topic are epidemiological studies before and after changes in recommendations.</p>
+        <p>Many epidemiological studies before and after the publication of antimicrobial prophylaxis recommendations have shown no change. A study in&#x000a0;Olmstead County, Minnesota, in 2007&#x000a0;evaluated the incidence of infective endocarditis&#x000a0;caused by viridans group streptococci before and after the change in the joint American Heart Association/American Dental Association guidelines (AHA/ADA), which narrowed recommendations for antimicrobial prophylaxis before dental procedures and did not reveal any change in the incidence of infective endocarditis.<xref ref-type="bibr" rid="article-131801.r19">[19]</xref>&#x000a0;Likewise, a study in France&#x000a0;did not reveal an increased incidence of the condition after recommendations for antimicrobial prophylaxis&#x000a0;were narrowed in 2002.<xref ref-type="bibr" rid="article-131801.r20">[20]</xref></p>
+        <p>However, some studies did reveal increased rates of endocarditis after the publication of guideline changes. Another US study revealed that the rate of streptococcal infective endocarditis has increased since the 2007 joint AHA/ADA guidelines but did not note an increase in valvular replacement.<xref ref-type="bibr" rid="article-131801.r21">[21]</xref>&#x000a0;</p>
+        <p>A study conducted on the incidence of infective endocarditis in Englandrevealedl an increase in the incidence of infective endocarditis after the guidelines in 2008 by the National Institute of Health and Clinical Excellence that did not recommend antimicrobial prophylaxis in any population.<xref ref-type="bibr" rid="article-131801.r22">[22]</xref></p>
+        <p>&#x000a0;These guidelines were updated in 2016 to indicate that the organization does not&#x000a0;<italic toggle="yes">generally</italic>&#x000a0;recommend antimicrobial prophylaxis before dental procedures.<xref ref-type="bibr" rid="article-131801.r23">[23]</xref></p>
+      </sec>
+      <sec id="article-131801.s5" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>
+<bold>Indications for Antimicrobial Prophylaxis&#x000a0;in Healthy Patients</bold>
+</p>
+        <p>Antimicrobial prophylaxis is not routinely indicated in healthy patients undergoing dental or oral surgery procedures. However, there are some exceptions when prophylaxis is recommended, as it reduces the risk of postoperative complications, including&#x000a0;implant failure, local infection, or sinusitis.</p>
+        <p>
+<bold>Indications for Antimicrobial Prophylaxis in Healthy patients: Dental Implants</bold>
+</p>
+        <p>Antimicrobial prophylaxis is recommended before&#x000a0;dental implants are placed immediately&#x000a0;after dental extraction, with or without clinical signs of infection. These recommendations stem from concerns regarding the placement of implants into a potentially infected wound bed, which may affect osseointegration.<xref ref-type="bibr" rid="article-131801.r24">[24]</xref>&#x000a0;Amoxicillin 2 g to 3 g one hour before the procedure, followed by amoxicillin 500 mg every eight hours, continued for five to seven days, reduces the risk of early failure.<xref ref-type="bibr" rid="article-131801.r25">[25]</xref>&#x000a0;</p>
+        <p>In penicillin-allergic patients, alternatives include azithromycin or clarithromycin 500 mg one hour before the procedure followed by 250 mg daily for 5&#x000a0;to 7 days, or metronidazole 1 g one hour before the procedure followed by 500 mg every six hours for five to seven days.<xref ref-type="bibr" rid="article-131801.r25">[25]</xref>&#x000a0;</p>
+        <p>Antimicrobial prophylaxis during the second phase, or prosthetic phase, of dental implants is not&#x000a0;justified.<xref ref-type="bibr" rid="article-131801.r25">[25]</xref>&#x000a0;This recommendation was extrapolated from studies involving periodontal access surgeries, which noted that the number needed to treat was 117 to prevent postoperative infection.<xref ref-type="bibr" rid="article-131801.r25">[25]</xref></p>
+        <p>For&#x000a0;dental implant placements done concurrently with sinus lift procedures, amoxicillin/clavulanate 875/125 mg every twelve hours started one day before the procedure and continued for seven days is recommended. Antimicrobial prophylaxis in this situation is to prevent sinusitis in case of perforation of Schneider's membrane, resulting in communication between the oral cavity and the maxillary sinus.<xref ref-type="bibr" rid="article-131801.r25">[25]</xref>&#x000a0;However, studies evaluating this subject are quite limited. Similarly, patients with oro-antral communication or fistula should receive antimicrobial therapy.<xref ref-type="bibr" rid="article-131801.r26">[26]</xref>&#x000a0;Ciprofloxacin 500 mg every twelve hours, started one day before the procedure, is recommended for penicillin-allergic patients for nine days.</p>
+        <p>Antimicrobial prophylaxis&#x000a0;before routine dental implants&#x000a0;remains controversial. They have been recommended to reduce the risk of osseointegration failure caused by a microorganism affecting the wound healing process.<xref ref-type="bibr" rid="article-131801.r27">[27]</xref>&#x000a0;A&#x000a0;Cochrane review performed in 2013 concluded that antimicrobial prophylaxis before dental implant placement reduced the risk of failure.<xref ref-type="bibr" rid="article-131801.r28">[28]</xref>&#x000a0;Other studies suggest that antibiotics decrease the risk of early failure but do not reduce infection risk.<xref ref-type="bibr" rid="article-131801.r29">[29]</xref>&#x000a0;</p>
+        <p>On the other hand, a meta-analysis including three studies found that the number needed to treat to prevent one implant failure was thirty-three.<xref ref-type="bibr" rid="article-131801.r30">[30]</xref>&#x000a0;Clinical practice guidelines developed by the Spanish Society of Implants acknowledge the disagreement about the subject and state that amoxicillin, either 2 g or 3 g one hour before the procedure or no antibiotic prophylaxis, are both acceptable in routine dental implant placements in healthy patients.<xref ref-type="bibr" rid="article-131801.r25">[25]</xref>&#x000a0;In penicillin-allergic patients, azithromycin 500 mg is an alternative to amoxicillin.<xref ref-type="bibr" rid="article-131801.r25">[25]</xref></p>
+        <p>Infected bone grafts are a considerable problem as they often lead to total or partial graft loss.<xref ref-type="bibr" rid="article-131801.r31">[31]</xref>&#x000a0;Antibiotic prophylaxis must be prescribed&#x000a0;before bone regeneration procedures, and the recommended regime is amoxicillin (2 or 3 g) or azithromycin 500 mg one hour before surgery.<xref ref-type="bibr" rid="article-131801.r25">[25]</xref>&#x000a0;</p>
+        <p>Clindamycin should not be used to prevent dental implant-related infections as worse outcomes, including infection and osseointegration failure, are noted compared to when amoxicillin is used.<xref ref-type="bibr" rid="article-131801.r25">[25]</xref></p>
+        <p>
+<bold>Indications for Antimicrobial Prophylaxis in Healthy patients: Facial Fractures</bold>
+</p>
+        <p>Infection rates of&#x000a0;mandibular fractures&#x000a0;range from 3.3% to 43.9%, while infections involving fractures of the upper facial, third, and mid-face occur in 0% to 12.5%.<xref ref-type="bibr" rid="article-131801.r32">[32]</xref>&#x000a0;Antimicrobials are generally offered to prevent hardware-associated infection in these cases<xref ref-type="bibr" rid="article-131801.r33">[33]</xref>. A review of all available studies involving infection after these fractures conducted in 2022 did not reveal any benefit to extending prophylactic antibiotics beyond twenty-four hours in these cases.<xref ref-type="bibr" rid="article-131801.r32">[32]</xref></p>
+        <p>
+<bold>Antimicrobial Prophylaxis in Special Populations</bold>
+</p>
+        <p>Severely immunocompromised patients, such as those on chemotherapy, should avoid invasive dental procedures whenever possible.<xref ref-type="bibr" rid="article-131801.r34">[34]</xref>&#x000a0;If considered, dentists and oral surgeons should seek the opinion of the patient's managing physician.<xref ref-type="bibr" rid="article-131801.r34">[34]</xref>&#x000a0;</p>
+        <p>There is a lack of evidence regarding patients with severe neutropenia, high doses of immunosuppressants, or patients with immunodeficiencies.<xref ref-type="bibr" rid="article-131801.r35">[35]</xref>&#x000a0;Consulting with the patient's managing physician is helpful in such cases.</p>
+        <p>Previous guidelines have recommended antimicrobial prophylaxis be provided to patients with diabetes mellitus.<xref ref-type="bibr" rid="article-131801.r36">[36]</xref>&#x000a0;However, a recent systematic review found that guidelines have been inconsistent, and there is no evidence of the effectiveness of antimicrobial prophylaxis in this population.<xref ref-type="bibr" rid="article-131801.r37">[37]</xref></p>
+        <p>There is no consensus regarding the need for antimicrobial prophylaxis before dental procedures in patients that have received a splenectomy.<xref ref-type="bibr" rid="article-131801.r38">[38]</xref>&#x000a0;Dentists and oral surgeons should seek an opinion from the patient's managing physician.</p>
+        <p>The American Dental Association does not routinely recommend antimicrobial prophylaxis in patients with implanted prosthetic joints before dental procedures.<xref ref-type="bibr" rid="article-131801.r39">[39]</xref>&#x000a0;The American Academy of Orthopedic Surgeons also does not recommend antimicrobial prophylaxis in this population, citing that there has not been any study that demonstrates an association between bacteremia induced by dental procedures and prosthetic joint infection. To date, no study has shown that antimicrobial prophylaxis decreased the rate of prosthetic joint infection.</p>
+        <p>
+<bold>Indications for Antimicrobial Prophylaxis in Patients With Cardiac Risk Factors</bold>
+</p>
+        <p>Due to the increased risk for infective endocarditis in patients with certain cardiac risk factors, The American Heart Association recommends antimicrobial prophylaxis before specific dental procedures if patients meet one of the below criteria.<xref ref-type="bibr" rid="article-131801.r40">[40]</xref></p>
+        <list list-type="bullet">
+          <list-item>
+            <p>A prosthetic valve or implanted prosthetic cardiac material is present. Materials include prosthetic valves in place, prosthetic material from a prior cardiac valve repair, or other prosthetic material in situ, including a transvenous aortic valve replacement. It also includes patients with a left ventricular assist device (LVAD) or artificial heart.<xref ref-type="bibr" rid="article-131801.r40">[40]</xref></p>
+          </list-item>
+          <list-item>
+            <p>A previous episode of infective endocarditis has occurred.<xref ref-type="bibr" rid="article-131801.r40">[40]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Certain patients with congenital heart disease meeting specific conditions: those with unrepaired cyanotic congenital heart defects, repaired congenital defects with prosthetic material within six months of repair, repaired congenital heart disease with a retained prosthetic device and residual defect, and patients with a pulmonary artery valve or conduit in place.<xref ref-type="bibr" rid="article-131801.r40">[40]</xref></p>
+          </list-item>
+          <list-item>
+            <p>Cardiac transplant patients with valvulopathy.<xref ref-type="bibr" rid="article-131801.r40">[40]</xref></p>
+          </list-item>
+        </list>
+        <p>In patients not meeting the above conditions, the American Heart Association&#x000a0;<italic toggle="yes">does not recommend</italic>&#x000a0;antimicrobial prophylaxis for infective endocarditis before dental procedures.<xref ref-type="bibr" rid="article-131801.r40">[40]</xref>&#x000a0;Examples of such patients include the following:<xref ref-type="bibr" rid="article-131801.r40">[40]</xref>&#x000a0;</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Patients using pacemakers or automatic cardioverter-defibrillators</p>
+          </list-item>
+          <list-item>
+            <p>Patients having undergone prior septal defect closure with success</p>
+          </list-item>
+          <list-item>
+            <p>Patients with peripheral vascular grafts (such as those used for hemodialysis access) or vascular stents</p>
+          </list-item>
+          <list-item>
+            <p>Patients with ventriculoatrial shunts</p>
+          </list-item>
+          <list-item>
+            <p>Patients with vena cava filters</p>
+          </list-item>
+          <list-item>
+            <p>Patients with pledgets</p>
+          </list-item>
+        </list>
+        <p>Procedures that carry sufficient risk to justify antimicrobial prophylaxis in the groups outlined above involve gingival or periapical manipulation and&#x000a0;cases that require perforation of the oral mucosa.<xref ref-type="bibr" rid="article-131801.r40">[40]</xref>&#x000a0;Examples of procedures that carry sufficient risk and those considered not risky are outlined in the table below.<xref ref-type="bibr" rid="article-131801.r41">[41]</xref><xref ref-type="bibr" rid="article-131801.r42">[42]</xref>&#x000a0;It is worth noting that this is not an exhaustive list, and&#x000a0;each case must be judged individually by the treating clinician. See <bold>Figure.</bold>&#x000a0;Antibiotic&#x000a0;Prophylaxis.&#x000a0;</p>
+        <table-wrap id="article-131801.table0" position="float" orientation="portrait">
+          <table style="height: 330px; width: 535.734px;" border="1" cellspacing="1" cellpadding="20">
+            <tbody>
+              <tr style="height: 13px;">
+                <td style="width: 215px; height: 13px;" rowspan="1" colspan="1">
+<bold>Dental procedures that warrant antibiotic prophylaxis in&#x000a0;patients with specific cardiac risk factors</bold>
+</td>
+                <td style="width: 228.734px; height: 13px;" rowspan="1" colspan="1">
+<bold>Dental procedures&#x000a0;that do not justify antibiotic prophylaxis in&#x000a0;patients with specific cardiac risk factors</bold>
+</td>
+              </tr>
+              <tr style="height: 97px;">
+                <td style="width: 215px; height: 97px;" rowspan="1" colspan="1">Periodontal procedures, e.g., scaling and root planning,&#x000a0;placement of subgingival antibiotic strips, bone grafting, gingivectomy, gingivoplasty, gingival grafts, periodontal flaps</td>
+                <td style="width: 228.734px; height: 97px;" rowspan="1" colspan="1">Taking oral impressions, taking oral radiographs, and placing&#x000a0;rubber dams</td>
+              </tr>
+              <tr style="height: 61px;">
+                <td style="width: 215px; height: 61px;" rowspan="1" colspan="1">Endodontic instrumentation beyond the apex of the tooth and apicoectomies</td>
+                <td style="width: 228.734px; height: 61px;" rowspan="1" colspan="1">Intra-canal endodontic treatment</td>
+              </tr>
+              <tr style="height: 49px;">
+                <td style="width: 215px; height: 49px;" rowspan="1" colspan="1">&#x000a0;Dental implant placement</td>
+                <td style="width: 228.734px; height: 49px;" rowspan="1" colspan="1">Restorative dentistry with or without a retraction cord</td>
+              </tr>
+              <tr style="height: 51px;">
+                <td style="width: 215px; height: 51px;" rowspan="1" colspan="1">&#x000a0;Reimplantation of avulsed teeth</td>
+                <td style="width: 228.734px; height: 51px;" rowspan="1" colspan="1">&#x000a0;Shedding of primary teeth</td>
+              </tr>
+              <tr style="height: 40px;">
+                <td style="width: 215px; height: 40px;" rowspan="1" colspan="1">Intraligamentary local anesthetic injection</td>
+                <td style="width: 228.734px; height: 40px;" rowspan="1" colspan="1">Non-ligamentary local anesthetic injections</td>
+              </tr>
+              <tr style="height: 20px;">
+                <td style="width: 215px; height: 20px;" rowspan="1" colspan="1">Dental cleaning where bleeding is anticipated</td>
+                <td style="width: 228.734px; height: 20px;" rowspan="1" colspan="1">Placement of removable prosthodontic or orthodontics</td>
+              </tr>
+              <tr style="height: 36px;">
+                <td style="width: 215px; height: 36px;" rowspan="1" colspan="1">&#x000a0;</td>
+                <td style="width: 228.734px; height: 36px;" rowspan="1" colspan="1">Postoperative suture removal</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>
+<bold>Recommended Regimens for Patients with Cardiac Risk Factors</bold>
+</p>
+        <p>Antimicrobials should be administered as a single dose thirty to sixty minutes before the procedure.<xref ref-type="bibr" rid="article-131801.r40">[40]</xref>&#x000a0;The preferred regimen in adults is amoxicillin 2 g PO.<xref ref-type="bibr" rid="article-131801.r40">[40]</xref>&#x000a0;Practitioners should adjust amoxicillin dosing to 50 mg/kg in the pediatric population.<xref ref-type="bibr" rid="article-131801.r40">[40]</xref>&#x000a0;Practitioners can give ampicillin 2 g IV or PO for those unable to take oral medications.<xref ref-type="bibr" rid="article-131801.r40">[40]</xref></p>
+        <p>Alternative regimens include cephalexin 2 g, azithromycin 500 mg, clarithromycin 500 mg, or doxycycline 100 mg for those with penicillin allergy.<xref ref-type="bibr" rid="article-131801.r40">[40]</xref>&#x000a0;In children with penicillin allergy, cephalexin 50 mg/kg, azithromycin or clarithromycin 15 mg/kg, or doxycycline 2.2 mg/kg in patients weighing less than 45 kg, and 100 mg for patients weighing more than 45 kg can be prescribed.<xref ref-type="bibr" rid="article-131801.r40">[40]</xref>&#x000a0;</p>
+        <p>In patients with type I hypersensitivity to penicillins, including reactions of anaphylaxis, angioedema, or urticaria, cephalexin should not be administered.<xref ref-type="bibr" rid="article-131801.r40">[40]</xref>&#x000a0;Instead, prescribers should utilize an alternative agent, such as azithromycin, clarithromycin, or doxycycline.<xref ref-type="bibr" rid="article-131801.r40">[40]</xref>&#x000a0;The recommended regimen in patients with a history of type I IgE-mediated penicillin allergy that cannot take oral medications includes cefazolin or ceftriaxone 1 gm IV or IM in adults and 50 mg/kg IV or IM in children.<xref ref-type="bibr" rid="article-131801.r40">[40]</xref></p>
+        <p>Clindamycin is not recommended for antibiotic prophylaxis before dental procedures and oral surgery due to the high incidence of adverse events, such as&#x000a0;<italic toggle="yes">C. difficile</italic>&#x000a0;colitis.<xref ref-type="bibr" rid="article-131801.r40">[40]</xref>&#x000a0;C. difficile colitis can manifest with symptoms ranging from asymptomatic carriage to life-threatening colitis, resulting in toxic megacolon, which may require surgical intervention or result in death.<xref ref-type="bibr" rid="article-131801.r43">[43]</xref>&#x000a0;Additionally, C. difficile colitis is often characterized by a high recurrence rate, making this infection particularly difficult to treat.<xref ref-type="bibr" rid="article-131801.r43">[43]</xref></p>
+      </sec>
+      <sec id="article-131801.s6" sec-type="Other Issues">
+        <title>Other Issues</title>
+        <p>
+<bold>Antimicrobial Stewardship in Dentistry and Oral Surgery</bold>
+</p>
+        <p>Dentists prescribe 10% of all outpatient antibiotic prescriptions and prescribe the most antibiotics as a specialty in the United States.<xref ref-type="bibr" rid="article-131801.r44">[44]</xref> Due to this, increased attention to antimicrobial stewardship in dentistry and oral surgery can create a significant impact. A study evaluating antibiotic prophylaxis at 168,420 dental visits in the United States between 2011 and 2015 found that only 19.1% of these prescriptions were concordant with guidelines.<xref ref-type="bibr" rid="article-131801.r45">[45]</xref>&#x000a0;The study reported that 1.4% of these prescriptions were associated with an adverse event within fourteen days.<xref ref-type="bibr" rid="article-131801.r46">[46]</xref> These adverse events included emergency room visits in 83% and antibiotic allergy in 16%.<xref ref-type="bibr" rid="article-131801.r46">[46]</xref></p>
+        <p><italic toggle="yes">Clostridioides difficile</italic> colitis occurred in 0.007 per 1000 patient days, and anaphylaxis occurred in 0.003 per 1000 person days.<xref ref-type="bibr" rid="article-131801.r46">[46]</xref> Although these events affected a small portion of those prescribed unnecessary antibiotic prophylaxis, these events were entirely preventable by compliance with current guidelines.</p>
+        <p>Unneeded antimicrobials contribute to antimicrobial resistance, a growing threat in the community. In the United States alone, antibiotic-resistant bacteria result in the deaths of 23,000 people per year.<xref ref-type="bibr" rid="article-131801.r47">[47]</xref></p>
+        <p>Dentists working in academic hospitals or university settings were found more likely to prescribe antibiotic prophylaxis correctly when compared to dentists practicing elsewhere.<xref ref-type="bibr" rid="article-131801.r48">[48]</xref> Additionally, dentists practicing for fifteen years or more had a higher likelihood of deviating from guideline-directed antibiotic prophylaxis prescribing.<xref ref-type="bibr" rid="article-131801.r48">[48]</xref></p>
+        <p>Increased education regarding the dangers of antibiotic-related events, including <italic toggle="yes">Clostridiodes difficile</italic> colitis and antimicrobial resistance, could make a difference. A small prospective cohort study involving infectious diseases antimicrobial stewardship personnel outreach to private practice dentists showed an increase in appropriate antibiotic prescribing from 19% pre-education to 87.9% post-education.<xref ref-type="bibr" rid="article-131801.r49">[49]</xref></p>
+      </sec>
+      <sec id="article-131801.s7" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>Appropriate&#x000a0;antimicrobial administration involves the entire healthcare team: dentists, oral surgeons, orthopedic surgeons, infectious diseases specialists, cardiologists, primary care physicians, and pharmacists. Dentists play a crucial role in the prescribing of antimicrobial prophylaxis. A panel of experts formed the American Dental Association's guidelines on antibiotic prophylaxis before dental procedures to prevent prosthetic joint infection in 2014.<xref ref-type="bibr" rid="article-131801.r39">[39]</xref>&#x000a0;[Level&#x000a0;4]</p>
+        <p>However, impediments to guideline-adherent prescribing include a lack of information regarding the complete cardiac histories of patients presenting for dental procedures, pressure from other physicians and the patients themselves to prescribe antimicrobial prophylaxis, and lack of education regarding the most up-to-date guidelines. The current infective endocarditis prophylaxis guidelines from the American Heart Society were developed after an exhaustive review of all available data.<xref ref-type="bibr" rid="article-131801.r40">[40]</xref>&#x000a0;[Level&#x000a0;4]</p>
+        <p>Cardiologists are crucial in advising patients and dentists about when patients do and do not require antimicrobial prophylaxis before dental procedures and oral surgery. Orthopedic surgeons also play a role when advising patients with implanted prosthetic joints. Primary care providers also contribute, as patients commonly ask whether antimicrobial prophylaxis is necessary before patients present to their dentists for dental work.</p>
+        <p>Infectious disease physicians have a critical role in advising their patients and other physicians and have also played a significant role in education and outreach. Pharmacists also have a considerable role to play in helping with antimicrobial selection in more challenging situations, such as antibiotic allergy, and especially antimicrobial stewardship pharmacists significantly contribute via outreach and education. Many physicians, surgeons, and pharmacists contribute to the breadth of knowledge regarding this subject with significant research contributions.</p>
+        <p>As multiple physicians are often involved in these situations, in addition to the dentist or oral surgeon, all members of the patient's healthcare team must provide consistent messaging and education to the patient to avoid antibiotic overprescribing that leads to increased antimicrobial resistance and unnecessary adverse events in situations where antimicrobial prophylaxis does not have benefit.</p>
+      </sec>
+      <sec id="article-131801.s8">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=131801&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=131801">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/131801/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=131801">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <floats-group id="article-131801.s9">
+        <fig id="article-131801.image.f1" position="float" orientation="portrait">
+          <caption>
+            <p>Antibiotic Prophylaxis. The figure shows a flowchart outlining the decision-making process for antibiotic prophylaxis before dental and oral surgery procedures. Contributed by CM Hollingshead, MD</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Antimicrobial__prophylaxis__for__dental__and__oral__surgery" position="float" orientation="portrait"/>
+        </fig>
+      </floats-group>
+      <ref-list id="article-131801.s10">
+        <title>References</title>
+        <ref id="article-131801.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Carroll</surname>
+                <given-names>GC</given-names>
+              </name>
+              <name>
+                <surname>Sebor</surname>
+                <given-names>RJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Dental flossing and its relationship to transient bacteremia.</article-title>
+            <source>J Periodontol</source>
+            <year>1980</year>
+            <month>Dec</month>
+            <volume>51</volume>
+            <issue>12</issue>
+            <fpage>691</fpage>
+            <page-range>691-2</page-range>
+            <pub-id pub-id-type="pmid">6937641</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Andersen</surname>
+                <given-names>MH</given-names>
+              </name>
+              <name>
+                <surname>Holle</surname>
+                <given-names>SLK</given-names>
+              </name>
+              <name>
+                <surname>Klein</surname>
+                <given-names>CF</given-names>
+              </name>
+              <name>
+                <surname>Bruun</surname>
+                <given-names>NE</given-names>
+              </name>
+              <name>
+                <surname>Arpi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Bundgaard</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>T&#x000f8;nder</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Iversen</surname>
+                <given-names>KK</given-names>
+              </name>
+            </person-group>
+            <article-title>Risk for infective endocarditis in bacteremia with Gram positive cocci.</article-title>
+            <source>Infection</source>
+            <year>2020</year>
+            <month>Dec</month>
+            <volume>48</volume>
+            <issue>6</issue>
+            <fpage>905</fpage>
+            <page-range>905-912</page-range>
+            <pub-id pub-id-type="pmid">32844380</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Honkanen</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>J&#x000e4;msen</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Karppelin</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Huttunen</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Eskelinen</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Syrj&#x000e4;nen</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Periprosthetic Joint Infections as a Consequence of Bacteremia.</article-title>
+            <source>Open Forum Infect Dis</source>
+            <year>2019</year>
+            <month>Jun</month>
+            <volume>6</volume>
+            <issue>6</issue>
+            <fpage>ofz218</fpage>
+            <pub-id pub-id-type="pmid">31214625</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dayer</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Thornhill</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Is antibiotic prophylaxis to prevent infective endocarditis worthwhile?</article-title>
+            <source>J Infect Chemother</source>
+            <year>2018</year>
+            <month>Jan</month>
+            <volume>24</volume>
+            <issue>1</issue>
+            <fpage>18</fpage>
+            <page-range>18-24</page-range>
+            <pub-id pub-id-type="pmid">29107651</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <article-title>PREVENTION of rheumatic fever and bacterial endocarditis through control of streptococcal infections.</article-title>
+            <source>Mod Concepts Cardiovasc Dis</source>
+            <year>1956</year>
+            <month>Dec</month>
+            <volume>25</volume>
+            <issue>12 Suppl</issue>
+            <fpage>365</fpage>
+            <page-range>365-9</page-range>
+            <pub-id pub-id-type="pmid">13387501</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Patil</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Rao</surname>
+                <given-names>RS</given-names>
+              </name>
+              <name>
+                <surname>Sanketh</surname>
+                <given-names>DS</given-names>
+              </name>
+              <name>
+                <surname>Amrutha</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Microbial flora in oral diseases.</article-title>
+            <source>J Contemp Dent Pract</source>
+            <year>2013</year>
+            <month>Nov</month>
+            <day>01</day>
+            <volume>14</volume>
+            <issue>6</issue>
+            <fpage>1202</fpage>
+            <page-range>1202-8</page-range>
+            <pub-id pub-id-type="pmid">24858777</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Fine</surname>
+                <given-names>DH</given-names>
+              </name>
+              <name>
+                <surname>Markowitz</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Furgang</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Fairlie</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Ferrandiz</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Nasri</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>McKiernan</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Gunsolley</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Aggregatibacter actinomycetemcomitans and its relationship to initiation of localized aggressive periodontitis: longitudinal cohort study of initially healthy adolescents.</article-title>
+            <source>J Clin Microbiol</source>
+            <year>2007</year>
+            <month>Dec</month>
+            <volume>45</volume>
+            <issue>12</issue>
+            <fpage>3859</fpage>
+            <page-range>3859-69</page-range>
+            <pub-id pub-id-type="pmid">17942658</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Socransky</surname>
+                <given-names>SS</given-names>
+              </name>
+              <name>
+                <surname>Haffajee</surname>
+                <given-names>AD</given-names>
+              </name>
+              <name>
+                <surname>Cugini</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Smith</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Kent</surname>
+                <given-names>RL</given-names>
+              </name>
+            </person-group>
+            <article-title>Microbial complexes in subgingival plaque.</article-title>
+            <source>J Clin Periodontol</source>
+            <year>1998</year>
+            <month>Feb</month>
+            <volume>25</volume>
+            <issue>2</issue>
+            <fpage>134</fpage>
+            <page-range>134-44</page-range>
+            <pub-id pub-id-type="pmid">9495612</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Struzycka</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <article-title>The oral microbiome in dental caries.</article-title>
+            <source>Pol J Microbiol</source>
+            <year>2014</year>
+            <volume>63</volume>
+            <issue>2</issue>
+            <fpage>127</fpage>
+            <page-range>127-35</page-range>
+            <pub-id pub-id-type="pmid">25115106</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Komiyama</surname>
+                <given-names>EY</given-names>
+              </name>
+              <name>
+                <surname>Lepesqueur</surname>
+                <given-names>LS</given-names>
+              </name>
+              <name>
+                <surname>Yassuda</surname>
+                <given-names>CG</given-names>
+              </name>
+              <name>
+                <surname>Samaranayake</surname>
+                <given-names>LP</given-names>
+              </name>
+              <name>
+                <surname>Parahitiyawa</surname>
+                <given-names>NB</given-names>
+              </name>
+              <name>
+                <surname>Balducci</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Koga-Ito</surname>
+                <given-names>CY</given-names>
+              </name>
+            </person-group>
+            <article-title>Enterococcus Species in the Oral Cavity: Prevalence, Virulence Factors and Antimicrobial Susceptibility.</article-title>
+            <source>PLoS One</source>
+            <year>2016</year>
+            <volume>11</volume>
+            <issue>9</issue>
+            <fpage>e0163001</fpage>
+            <pub-id pub-id-type="pmid">27631785</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Selton-Suty</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>C&#x000e9;lard</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Le Moing</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Doco-Lecompte</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Chirouze</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Iung</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Strady</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Revest</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Vandenesch</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Bouvet</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Delahaye</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Alla</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Duval</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Hoen</surname>
+                <given-names>B</given-names>
+              </name>
+              <collab>AEPEI Study Group</collab>
+            </person-group>
+            <article-title>Preeminence of Staphylococcus aureus in infective endocarditis: a 1-year population-based survey.</article-title>
+            <source>Clin Infect Dis</source>
+            <year>2012</year>
+            <month>May</month>
+            <volume>54</volume>
+            <issue>9</issue>
+            <fpage>1230</fpage>
+            <page-range>1230-9</page-range>
+            <pub-id pub-id-type="pmid">22492317</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tande</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Patel</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Prosthetic joint infection.</article-title>
+            <source>Clin Microbiol Rev</source>
+            <year>2014</year>
+            <month>Apr</month>
+            <volume>27</volume>
+            <issue>2</issue>
+            <fpage>302</fpage>
+            <page-range>302-45</page-range>
+            <pub-id pub-id-type="pmid">24696437</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Morris</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Howie</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Recommendations for antibiotics in patients with joint prosthesis are irresponsible and indefensible.</article-title>
+            <source>J Can Dent Assoc</source>
+            <year>2009</year>
+            <month>Sep</month>
+            <volume>75</volume>
+            <issue>7</issue>
+            <fpage>513</fpage>
+            <page-range>513-5</page-range>
+            <pub-id pub-id-type="pmid">19744360</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Smith</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Jackson</surname>
+                <given-names>MS</given-names>
+              </name>
+              <name>
+                <surname>Bagg</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>The ecology of Staphylococcus species in the oral cavity.</article-title>
+            <source>J Med Microbiol</source>
+            <year>2001</year>
+            <month>Nov</month>
+            <volume>50</volume>
+            <issue>11</issue>
+            <fpage>940</fpage>
+            <page-range>940-946</page-range>
+            <pub-id pub-id-type="pmid">11699589</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Christaki</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Giamarellos-Bourboulis</surname>
+                <given-names>EJ</given-names>
+              </name>
+            </person-group>
+            <article-title>The complex pathogenesis of bacteremia: from antimicrobial clearance mechanisms to the genetic background of the host.</article-title>
+            <source>Virulence</source>
+            <year>2014</year>
+            <month>Jan</month>
+            <day>01</day>
+            <volume>5</volume>
+            <issue>1</issue>
+            <fpage>57</fpage>
+            <page-range>57-65</page-range>
+            <pub-id pub-id-type="pmid">24067507</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Cahill</surname>
+                <given-names>TJ</given-names>
+              </name>
+              <name>
+                <surname>Prendergast</surname>
+                <given-names>BD</given-names>
+              </name>
+            </person-group>
+            <article-title>Infective endocarditis.</article-title>
+            <source>Lancet</source>
+            <year>2016</year>
+            <month>Feb</month>
+            <day>27</day>
+            <volume>387</volume>
+            <issue>10021</issue>
+            <fpage>882</fpage>
+            <page-range>882-93</page-range>
+            <pub-id pub-id-type="pmid">26341945</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lafaurie</surname>
+                <given-names>GI</given-names>
+              </name>
+              <name>
+                <surname>Noriega</surname>
+                <given-names>LA</given-names>
+              </name>
+              <name>
+                <surname>Torres</surname>
+                <given-names>CC</given-names>
+              </name>
+              <name>
+                <surname>Castillo</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Moscoso</surname>
+                <given-names>SB</given-names>
+              </name>
+              <name>
+                <surname>Mosquera</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>D&#x000ed;az-B&#x000e1;ez</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Chambrone</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>Impact of antibiotic prophylaxis on the incidence, nature, magnitude, and duration of bacteremia associated with dental procedures: A systematic review.</article-title>
+            <source>J Am Dent Assoc</source>
+            <year>2019</year>
+            <month>Nov</month>
+            <volume>150</volume>
+            <issue>11</issue>
+            <fpage>948</fpage>
+            <page-range>948-959.e4</page-range>
+            <pub-id pub-id-type="pmid">31561837</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hubers</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>DeSimone</surname>
+                <given-names>DC</given-names>
+              </name>
+              <name>
+                <surname>Gersh</surname>
+                <given-names>BJ</given-names>
+              </name>
+              <name>
+                <surname>Anavekar</surname>
+                <given-names>NS</given-names>
+              </name>
+            </person-group>
+            <article-title>Infective Endocarditis: A Contemporary Review.</article-title>
+            <source>Mayo Clin Proc</source>
+            <year>2020</year>
+            <month>May</month>
+            <volume>95</volume>
+            <issue>5</issue>
+            <fpage>982</fpage>
+            <page-range>982-997</page-range>
+            <pub-id pub-id-type="pmid">32299668</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Desimone</surname>
+                <given-names>DC</given-names>
+              </name>
+              <name>
+                <surname>Tleyjeh</surname>
+                <given-names>IM</given-names>
+              </name>
+              <name>
+                <surname>Correa de Sa</surname>
+                <given-names>DD</given-names>
+              </name>
+              <name>
+                <surname>Anavekar</surname>
+                <given-names>NS</given-names>
+              </name>
+              <name>
+                <surname>Lahr</surname>
+                <given-names>BD</given-names>
+              </name>
+              <name>
+                <surname>Sohail</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Steckelberg</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Wilson</surname>
+                <given-names>WR</given-names>
+              </name>
+              <name>
+                <surname>Baddour</surname>
+                <given-names>LM</given-names>
+              </name>
+              <collab>Mayo Cardiovascular Infections Study Group</collab>
+            </person-group>
+            <article-title>Incidence of infective endocarditis caused by viridans group streptococci before and after publication of the 2007 American Heart Association's endocarditis prevention guidelines.</article-title>
+            <source>Circulation</source>
+            <year>2012</year>
+            <month>Jul</month>
+            <day>03</day>
+            <volume>126</volume>
+            <issue>1</issue>
+            <fpage>60</fpage>
+            <page-range>60-4</page-range>
+            <pub-id pub-id-type="pmid">22689929</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Duval</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Delahaye</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Alla</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Tattevin</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Obadia</surname>
+                <given-names>JF</given-names>
+              </name>
+              <name>
+                <surname>Le Moing</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Doco-Lecompte</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Celard</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Poyart</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Strady</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Chirouze</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Bes</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Cambau</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Iung</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Selton-Suty</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Hoen</surname>
+                <given-names>B</given-names>
+              </name>
+              <collab>AEPEI Study Group</collab>
+            </person-group>
+            <article-title>Temporal trends in infective endocarditis in the context of prophylaxis guideline modifications: three successive population-based surveys.</article-title>
+            <source>J Am Coll Cardiol</source>
+            <year>2012</year>
+            <month>May</month>
+            <day>29</day>
+            <volume>59</volume>
+            <issue>22</issue>
+            <fpage>1968</fpage>
+            <page-range>1968-76</page-range>
+            <pub-id pub-id-type="pmid">22624837</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Pant</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Patel</surname>
+                <given-names>NJ</given-names>
+              </name>
+              <name>
+                <surname>Deshmukh</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Golwala</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Patel</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Badheka</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Hirsch</surname>
+                <given-names>GA</given-names>
+              </name>
+              <name>
+                <surname>Mehta</surname>
+                <given-names>JL</given-names>
+              </name>
+            </person-group>
+            <article-title>Trends in infective endocarditis incidence, microbiology, and valve replacement in the United States from 2000 to 2011.</article-title>
+            <source>J Am Coll Cardiol</source>
+            <year>2015</year>
+            <month>May</month>
+            <day>19</day>
+            <volume>65</volume>
+            <issue>19</issue>
+            <fpage>2070</fpage>
+            <page-range>2070-6</page-range>
+            <pub-id pub-id-type="pmid">25975469</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Dayer</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Jones</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Prendergast</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Baddour</surname>
+                <given-names>LM</given-names>
+              </name>
+              <name>
+                <surname>Lockhart</surname>
+                <given-names>PB</given-names>
+              </name>
+              <name>
+                <surname>Thornhill</surname>
+                <given-names>MH</given-names>
+              </name>
+            </person-group>
+            <article-title>Incidence of infective endocarditis in England, 2000-13: a secular trend, interrupted time-series analysis.</article-title>
+            <source>Lancet</source>
+            <year>2015</year>
+            <month>Mar</month>
+            <day>28</day>
+            <volume>385</volume>
+            <issue>9974</issue>
+            <fpage>1219</fpage>
+            <page-range>1219-28</page-range>
+            <pub-id pub-id-type="pmid">25467569</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Thornhill</surname>
+                <given-names>MH</given-names>
+              </name>
+              <name>
+                <surname>Dayer</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Lockhart</surname>
+                <given-names>PB</given-names>
+              </name>
+              <name>
+                <surname>McGurk</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Shanson</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Prendergast</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Chambers</surname>
+                <given-names>JB</given-names>
+              </name>
+            </person-group>
+            <article-title>A change in the NICE guidelines on antibiotic prophylaxis.</article-title>
+            <source>Br Dent J</source>
+            <year>2016</year>
+            <month>Aug</month>
+            <day>12</day>
+            <volume>221</volume>
+            <issue>3</issue>
+            <fpage>112</fpage>
+            <page-range>112-4</page-range>
+            <pub-id pub-id-type="pmid">27514339</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Waasdorp</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Evian</surname>
+                <given-names>CI</given-names>
+              </name>
+              <name>
+                <surname>Mandracchia</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Immediate placement of implants into infected sites: a systematic review of the literature.</article-title>
+            <source>J Periodontol</source>
+            <year>2010</year>
+            <month>Jun</month>
+            <volume>81</volume>
+            <issue>6</issue>
+            <fpage>801</fpage>
+            <page-range>801-8</page-range>
+            <pub-id pub-id-type="pmid">20192616</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Salgado-Peralvo</surname>
+                <given-names>AO</given-names>
+              </name>
+              <name>
+                <surname>Garcia-Sanchez</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Kewalramani</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Barone</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Mart&#x000ed;nez-Gonz&#x000e1;lez</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Velasco-Ortega</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>L&#x000f3;pez-L&#x000f3;pez</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Kaiser-Cifuentes</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Guerra</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Matos-Garrido</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Moreno-Mu&#x000f1;oz</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>N&#x000fa;&#x000f1;ez-M&#x000e1;rquez</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Ortiz-Garc&#x000ed;a</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Jim&#x000e9;nez-Guerra</surname>
+                <given-names>&#x000c1;</given-names>
+              </name>
+              <name>
+                <surname>Monsalve-Guil</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>Consensus Report on Preventive Antibiotic Therapy in Dental Implant Procedures: Summary of Recommendations from the Spanish Society of Implants.</article-title>
+            <source>Antibiotics (Basel)</source>
+            <year>2022</year>
+            <month>May</month>
+            <day>13</day>
+            <volume>11</volume>
+            <issue>5</issue>
+            <pub-id pub-id-type="pmid">35625298</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r26">
+          <label>26</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Khandelwal</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Hajira</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Management of Oro-antral Communication and Fistula: Various Surgical Options.</article-title>
+            <source>World J Plast Surg</source>
+            <year>2017</year>
+            <month>Jan</month>
+            <volume>6</volume>
+            <issue>1</issue>
+            <fpage>3</fpage>
+            <page-range>3-8</page-range>
+            <pub-id pub-id-type="pmid">28289607</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r27">
+          <label>27</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Tonetti</surname>
+                <given-names>MS</given-names>
+              </name>
+              <name>
+                <surname>Schmid</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Pathogenesis of implant failures.</article-title>
+            <source>Periodontol 2000</source>
+            <year>1994</year>
+            <month>Feb</month>
+            <volume>4</volume>
+            <fpage>127</fpage>
+            <page-range>127-38</page-range>
+            <pub-id pub-id-type="pmid">9673201</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r28">
+          <label>28</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Esposito</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Grusovin</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Worthington</surname>
+                <given-names>HV</given-names>
+              </name>
+            </person-group>
+            <article-title>Interventions for replacing missing teeth: antibiotics at dental implant placement to prevent complications.</article-title>
+            <source>Cochrane Database Syst Rev</source>
+            <year>2013</year>
+            <month>Jul</month>
+            <day>31</day>
+            <volume>2013</volume>
+            <issue>7</issue>
+            <fpage>CD004152</fpage>
+            <pub-id pub-id-type="pmid">23904048</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r29">
+          <label>29</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Braun</surname>
+                <given-names>RS</given-names>
+              </name>
+              <name>
+                <surname>Chambrone</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Khouly</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <article-title>Prophylactic antibiotic regimens in dental implant failure: A systematic review and meta-analysis.</article-title>
+            <source>J Am Dent Assoc</source>
+            <year>2019</year>
+            <month>Jun</month>
+            <volume>150</volume>
+            <issue>6</issue>
+            <fpage>e61</fpage>
+            <page-range>e61-e91</page-range>
+            <pub-id pub-id-type="pmid">31010572</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r30">
+          <label>30</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Singh Gill</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Morrissey</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Rahman</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>A Systematic Review and Meta-Analysis Evaluating Antibiotic Prophylaxis in Dental Implants and Extraction Procedures.</article-title>
+            <source>Medicina (Kaunas)</source>
+            <year>2018</year>
+            <month>Dec</month>
+            <day>01</day>
+            <volume>54</volume>
+            <issue>6</issue>
+            <pub-id pub-id-type="pmid">30513764</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r31">
+          <label>31</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Lindeboom</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Frenken</surname>
+                <given-names>JW</given-names>
+              </name>
+              <name>
+                <surname>Tuk</surname>
+                <given-names>JG</given-names>
+              </name>
+              <name>
+                <surname>Kroon</surname>
+                <given-names>FH</given-names>
+              </name>
+            </person-group>
+            <article-title>A randomized prospective controlled trial of antibiotic prophylaxis in intraoral bone-grafting procedures: preoperative single-dose penicillin versus preoperative single-dose clindamycin.</article-title>
+            <source>Int J Oral Maxillofac Surg</source>
+            <year>2006</year>
+            <month>May</month>
+            <volume>35</volume>
+            <issue>5</issue>
+            <fpage>433</fpage>
+            <page-range>433-6</page-range>
+            <pub-id pub-id-type="pmid">16472987</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r32">
+          <label>32</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Goormans</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Coropciuc</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Vercruysse</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Spriet</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Willaert</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Politis</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Systemic Antibiotic Prophylaxis in Maxillofacial Trauma: A Scoping Review and Critical Appraisal.</article-title>
+            <source>Antibiotics (Basel)</source>
+            <year>2022</year>
+            <month>Apr</month>
+            <day>05</day>
+            <volume>11</volume>
+            <issue>4</issue>
+            <pub-id pub-id-type="pmid">35453234</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r33">
+          <label>33</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Choi</surname>
+                <given-names>SH</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>JH</given-names>
+              </name>
+            </person-group>
+            <article-title>Absorbable Plate-Related Infection after Facial Bone Fracture Reduction.</article-title>
+            <source>Arch Craniofac Surg</source>
+            <year>2016</year>
+            <month>Mar</month>
+            <volume>17</volume>
+            <issue>1</issue>
+            <fpage>1</fpage>
+            <page-range>1-4</page-range>
+            <pub-id pub-id-type="pmid">28913243</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r34">
+          <label>34</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Elad</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Raber-Durlacher</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Brennan</surname>
+                <given-names>MT</given-names>
+              </name>
+              <name>
+                <surname>Saunders</surname>
+                <given-names>DP</given-names>
+              </name>
+              <name>
+                <surname>Mank</surname>
+                <given-names>AP</given-names>
+              </name>
+              <name>
+                <surname>Zadik</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Quinn</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Epstein</surname>
+                <given-names>JB</given-names>
+              </name>
+              <name>
+                <surname>Blijlevens</surname>
+                <given-names>NM</given-names>
+              </name>
+              <name>
+                <surname>Waltimo</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Passweg</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Correa</surname>
+                <given-names>ME</given-names>
+              </name>
+              <name>
+                <surname>Dahll&#x000f6;f</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Garming-Legert</surname>
+                <given-names>KU</given-names>
+              </name>
+              <name>
+                <surname>Logan</surname>
+                <given-names>RM</given-names>
+              </name>
+              <name>
+                <surname>Potting</surname>
+                <given-names>CM</given-names>
+              </name>
+              <name>
+                <surname>Shapira</surname>
+                <given-names>MY</given-names>
+              </name>
+              <name>
+                <surname>Soga</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Stringer</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Stokman</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Vokurka</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Wallhult</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Yarom</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Jensen</surname>
+                <given-names>SB</given-names>
+              </name>
+            </person-group>
+            <article-title>Basic oral care for hematology-oncology patients and hematopoietic stem cell transplantation recipients: a position paper from the joint task force of the Multinational Association of Supportive Care in Cancer/International Society of Oral Oncology (MASCC/ISOO) and the European Society for Blood and Marrow Transplantation (EBMT).</article-title>
+            <source>Support Care Cancer</source>
+            <year>2015</year>
+            <month>Jan</month>
+            <volume>23</volume>
+            <issue>1</issue>
+            <fpage>223</fpage>
+            <page-range>223-36</page-range>
+            <pub-id pub-id-type="pmid">25189149</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r35">
+          <label>35</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>de Leeuw</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Bootsma</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Middel</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Vissink</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>[Antibiotic prophylaxis and immune-compromised patients].</article-title>
+            <source>Ned Tijdschr Tandheelkd</source>
+            <year>2019</year>
+            <month>Oct</month>
+            <volume>126</volume>
+            <issue>10</issue>
+            <fpage>521</fpage>
+            <page-range>521-525</page-range>
+            <pub-id pub-id-type="pmid">31613281</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r36">
+          <label>36</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Guti&#x000e9;rrez</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Bag&#x000e1;n</surname>
+                <given-names>JV</given-names>
+              </name>
+              <name>
+                <surname>Bascones</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Llamas</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Llena</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Morales</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Noguerol</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Planells</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Prieto</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Salmer&#x000f3;n</surname>
+                <given-names>JI</given-names>
+              </name>
+            </person-group>
+            <article-title>Consensus document on the use of antibiotic prophylaxis in dental surgery and procedures.</article-title>
+            <source>Med Oral Patol Oral Cir Bucal</source>
+            <year>2006</year>
+            <month>Mar</month>
+            <day>01</day>
+            <volume>11</volume>
+            <issue>2</issue>
+            <fpage>E188</fpage>
+            <page-range>E188-205</page-range>
+            <pub-id pub-id-type="pmid">16505802</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r37">
+          <label>37</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sykara</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Maniatakos</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Tentolouris</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Karoussis</surname>
+                <given-names>IK</given-names>
+              </name>
+              <name>
+                <surname>Tentolouris</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>The necessity of administrating antibiotic prophylaxis to patients with diabetes mellitus prior to oral surgical procedures-a systematic review.</article-title>
+            <source>Diabetes Metab Syndr</source>
+            <year>2022</year>
+            <month>Oct</month>
+            <volume>16</volume>
+            <issue>10</issue>
+            <fpage>102621</fpage>
+            <pub-id pub-id-type="pmid">36183455</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r38">
+          <label>38</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Di Sabatino</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Carsetti</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Corazza</surname>
+                <given-names>GR</given-names>
+              </name>
+            </person-group>
+            <article-title>Post-splenectomy and hyposplenic states.</article-title>
+            <source>Lancet</source>
+            <year>2011</year>
+            <month>Jul</month>
+            <day>02</day>
+            <volume>378</volume>
+            <issue>9785</issue>
+            <fpage>86</fpage>
+            <page-range>86-97</page-range>
+            <pub-id pub-id-type="pmid">21474172</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r39">
+          <label>39</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sollecito</surname>
+                <given-names>TP</given-names>
+              </name>
+              <name>
+                <surname>Abt</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Lockhart</surname>
+                <given-names>PB</given-names>
+              </name>
+              <name>
+                <surname>Truelove</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Paumier</surname>
+                <given-names>TM</given-names>
+              </name>
+              <name>
+                <surname>Tracy</surname>
+                <given-names>SL</given-names>
+              </name>
+              <name>
+                <surname>Tampi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Beltr&#x000e1;n-Aguilar</surname>
+                <given-names>ED</given-names>
+              </name>
+              <name>
+                <surname>Frantsve-Hawley</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>The use of prophylactic antibiotics prior to dental procedures in patients with prosthetic joints: Evidence-based clinical practice guideline for dental practitioners--a report of the American Dental Association Council on Scientific Affairs.</article-title>
+            <source>J Am Dent Assoc</source>
+            <year>2015</year>
+            <month>Jan</month>
+            <volume>146</volume>
+            <issue>1</issue>
+            <fpage>11</fpage>
+            <page-range>11-16.e8</page-range>
+            <pub-id pub-id-type="pmid">25569493</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r40">
+          <label>40</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Wilson</surname>
+                <given-names>WR</given-names>
+              </name>
+              <name>
+                <surname>Gewitz</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Lockhart</surname>
+                <given-names>PB</given-names>
+              </name>
+              <name>
+                <surname>Bolger</surname>
+                <given-names>AF</given-names>
+              </name>
+              <name>
+                <surname>DeSimone</surname>
+                <given-names>DC</given-names>
+              </name>
+              <name>
+                <surname>Kazi</surname>
+                <given-names>DS</given-names>
+              </name>
+              <name>
+                <surname>Couper</surname>
+                <given-names>DJ</given-names>
+              </name>
+              <name>
+                <surname>Beaton</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Kilmartin</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Miro</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Sable</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Jackson</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Baddour</surname>
+                <given-names>LM</given-names>
+              </name>
+              <collab>American Heart Association Young Hearts Rheumatic Fever, Endocarditis and Kawasaki Disease Committee of the Council on Lifelong Congenital Heart Disease and Heart Health in the Young; Council on Cardiovascular and Stroke Nursing; and the Council on Quality of Care and Outcomes Research</collab>
+            </person-group>
+            <article-title>Prevention of Viridans Group Streptococcal Infective Endocarditis: A Scientific Statement From the American Heart Association.</article-title>
+            <source>Circulation</source>
+            <year>2021</year>
+            <month>May</month>
+            <day>18</day>
+            <volume>143</volume>
+            <issue>20</issue>
+            <fpage>e963</fpage>
+            <page-range>e963-e978</page-range>
+            <pub-id pub-id-type="pmid">33853363</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r41">
+          <label>41</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sung</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kim</surname>
+                <given-names>EH</given-names>
+              </name>
+              <name>
+                <surname>Kwon</surname>
+                <given-names>JW</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>JS</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>SB</given-names>
+              </name>
+              <name>
+                <surname>Moon</surname>
+                <given-names>SH</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>HM</given-names>
+              </name>
+              <name>
+                <surname>Jung</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>BH</given-names>
+              </name>
+            </person-group>
+            <article-title>Invasive dental procedures as risk factors for postoperative spinal infection and the effect of antibiotic prophylaxis.</article-title>
+            <source>J Clin Periodontol</source>
+            <year>2021</year>
+            <month>Sep</month>
+            <volume>48</volume>
+            <issue>9</issue>
+            <fpage>1270</fpage>
+            <page-range>1270-1280</page-range>
+            <pub-id pub-id-type="pmid">34189757</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r42">
+          <label>42</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ito</surname>
+                <given-names>HO</given-names>
+              </name>
+            </person-group>
+            <article-title>Infective endocarditis and dental procedures: evidence, pathogenesis, and prevention.</article-title>
+            <source>J Med Invest</source>
+            <year>2006</year>
+            <month>Aug</month>
+            <volume>53</volume>
+            <issue>3-4</issue>
+            <fpage>189</fpage>
+            <page-range>189-98</page-range>
+            <pub-id pub-id-type="pmid">16953053</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r43">
+          <label>43</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Czepiel</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Dr&#x000f3;&#x0017c;d&#x0017c;</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Pituch</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Kuijper</surname>
+                <given-names>EJ</given-names>
+              </name>
+              <name>
+                <surname>Perucki</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Mielimonka</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Goldman</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Wulta&#x00144;ska</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Garlicki</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Biesiada</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Clostridium difficile infection: review.</article-title>
+            <source>Eur J Clin Microbiol Infect Dis</source>
+            <year>2019</year>
+            <month>Jul</month>
+            <volume>38</volume>
+            <issue>7</issue>
+            <fpage>1211</fpage>
+            <page-range>1211-1221</page-range>
+            <pub-id pub-id-type="pmid">30945014</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r44">
+          <label>44</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Hicks</surname>
+                <given-names>LA</given-names>
+              </name>
+              <name>
+                <surname>Bartoces</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Roberts</surname>
+                <given-names>RM</given-names>
+              </name>
+              <name>
+                <surname>Suda</surname>
+                <given-names>KJ</given-names>
+              </name>
+              <name>
+                <surname>Hunkler</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Taylor</surname>
+                <given-names>TH</given-names>
+              </name>
+              <name>
+                <surname>Schrag</surname>
+                <given-names>SJ</given-names>
+              </name>
+            </person-group>
+            <article-title>US outpatient antibiotic prescribing variation according to geography, patient population, and provider specialty in 2011.</article-title>
+            <source>Clin Infect Dis</source>
+            <year>2015</year>
+            <month>May</month>
+            <day>01</day>
+            <volume>60</volume>
+            <issue>9</issue>
+            <fpage>1308</fpage>
+            <page-range>1308-16</page-range>
+            <pub-id pub-id-type="pmid">25747410</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r45">
+          <label>45</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Suda</surname>
+                <given-names>KJ</given-names>
+              </name>
+              <name>
+                <surname>Calip</surname>
+                <given-names>GS</given-names>
+              </name>
+              <name>
+                <surname>Zhou</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Rowan</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Gross</surname>
+                <given-names>AE</given-names>
+              </name>
+              <name>
+                <surname>Hershow</surname>
+                <given-names>RC</given-names>
+              </name>
+              <name>
+                <surname>Perez</surname>
+                <given-names>RI</given-names>
+              </name>
+              <name>
+                <surname>McGregor</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Evans</surname>
+                <given-names>CT</given-names>
+              </name>
+            </person-group>
+            <article-title>Assessment of the Appropriateness of Antibiotic Prescriptions for Infection Prophylaxis Before Dental Procedures, 2011 to 2015.</article-title>
+            <source>JAMA Netw Open</source>
+            <year>2019</year>
+            <month>May</month>
+            <day>03</day>
+            <volume>2</volume>
+            <issue>5</issue>
+            <fpage>e193909</fpage>
+            <pub-id pub-id-type="pmid">31150071</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r46">
+          <label>46</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Gross</surname>
+                <given-names>AE</given-names>
+              </name>
+              <name>
+                <surname>Suda</surname>
+                <given-names>KJ</given-names>
+              </name>
+              <name>
+                <surname>Zhou</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Calip</surname>
+                <given-names>GS</given-names>
+              </name>
+              <name>
+                <surname>Rowan</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>Hershow</surname>
+                <given-names>RC</given-names>
+              </name>
+              <name>
+                <surname>Perez</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Evans</surname>
+                <given-names>CT</given-names>
+              </name>
+              <name>
+                <surname>McGregor</surname>
+                <given-names>JC</given-names>
+              </name>
+            </person-group>
+            <article-title>Serious antibiotic-related adverse effects following unnecessary dental prophylaxis in the United States.</article-title>
+            <source>Infect Control Hosp Epidemiol</source>
+            <year>2021</year>
+            <month>Jan</month>
+            <volume>42</volume>
+            <issue>1</issue>
+            <fpage>110</fpage>
+            <page-range>110-112</page-range>
+            <pub-id pub-id-type="pmid">33172505</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r47">
+          <label>47</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Brinkac</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Voorhies</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Gomez</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Nelson</surname>
+                <given-names>KE</given-names>
+              </name>
+            </person-group>
+            <article-title>The Threat of Antimicrobial Resistance on the Human Microbiome.</article-title>
+            <source>Microb Ecol</source>
+            <year>2017</year>
+            <month>Nov</month>
+            <volume>74</volume>
+            <issue>4</issue>
+            <fpage>1001</fpage>
+            <page-range>1001-1008</page-range>
+            <pub-id pub-id-type="pmid">28492988</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r48">
+          <label>48</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>&#x00160;utej</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Par</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Lepur</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Pero&#x00161;</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Pintari&#x00107;</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Alajbeg</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Vuger</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>Dentists' practice and compliance with current guidelines of infective endocarditis prophylaxis- National survey study.</article-title>
+            <source>J Clin Exp Dent</source>
+            <year>2021</year>
+            <month>Jul</month>
+            <volume>13</volume>
+            <issue>7</issue>
+            <fpage>e648</fpage>
+            <page-range>e648-e652</page-range>
+            <pub-id pub-id-type="pmid">34306527</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-131801.r49">
+          <label>49</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Goff</surname>
+                <given-names>DA</given-names>
+              </name>
+              <name>
+                <surname>Mangino</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Trolli</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Scheetz</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Goff</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Private Practice Dentists Improve Antibiotic Use After Dental Antibiotic Stewardship Education From Infectious Diseases Experts.</article-title>
+            <source>Open Forum Infect Dis</source>
+            <year>2022</year>
+            <month>Aug</month>
+            <volume>9</volume>
+            <issue>8</issue>
+            <fpage>ofac361</fpage>
+            <pub-id pub-id-type="pmid">35959211</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

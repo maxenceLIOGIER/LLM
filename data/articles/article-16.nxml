@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-16" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Diving at Altitude</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Robins</surname>
+            <given-names>Marc</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Murphy-Lavoie</surname>
+            <given-names>Heather M.</given-names>
+          </name>
+          <aff>University Medical Center, LSU Medical School</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Marc Robins declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Heather Murphy-Lavoie declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>26</day>
+          <month>6</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-16.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Increased popularity in recreational scuba diving adds to an ongoing category of diving-related injuries and illnesses. Whether recreational or occupational, scuba, or surfaced supplied air, diving at higher altitudes may compound inherent risks. An individual initiating a dive at altitude is exposed to an atmospheric pressure less than sea level pressure, which is the presumed endpoint for standard decompression tables. Upon surfacing, the decreased atmospheric pressure in the environment exerts increased decompression stress on the diver. This activity will review the risks and optimal strategies for diving at altitude.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Identify the key concepts of diving at altitude.</p></list-item><list-item><p>Describe the issues of concern in regards to diving at altitude</p></list-item><list-item><p>Outline appropriate calculations to safely plan a dive at altitude</p></list-item><list-item><p>Explain interprofessional team strategies for improving care coordination and communication to prevent injury and improve outcomes for diving at altitude.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=16&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=16">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-16.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Increased popularity in recreational scuba diving adds to an ongoing category of diving-related injuries and illnesses. Whether recreational or occupational, scuba, or surfaced supplied air, diving at higher altitudes may compound inherent risks. An individual initiating a dive at altitude is exposed to an atmospheric pressure less than sea level pressure, which is the presumed endpoint for standard decompression tables. However, upon surfacing, the decreased atmospheric pressure in the environment exerts an increased &#x0201c;decompression stress&#x0201d; on the diver.&#x000a0;This is often thought&#x000a0;of as a relative increase in probabilistic risk for decompression illness in proportion to the diminishment in atmospheric pressure. Under this assumption, the best approximations may translate risk equal to that experienced by the diver surfacing from a depth deeper than&#x000a0;actually&#x000a0;achieved. These calculations determine a new "equivalent depth" for a diver to record bottom time, duration, decompression stops if needed, surface intervals, and residual nitrogen load for repetitive dives to reduce his or her overall risk for decompression illness. Adjusting a dive profile at altitude to an equivalent depth assumes the diver is at risk equal to a sea-level dive; however, other environmental effects inherent to the altitude may also factor in additional risks.<xref ref-type="bibr" rid="article-16.r1">[1]</xref><xref ref-type="bibr" rid="article-16.r2">[2]</xref><xref ref-type="bibr" rid="article-16.r3">[3]</xref></p>
+      </sec>
+      <sec id="article-16.s3" sec-type="Function">
+        <title>Function</title>
+        <p>Professional divers often dive at elevations greater than 1000 feet for occupational projects like bridge construction/maintenance or search and rescue situations. Recreational divers more commonly visit mountain lakes or rivers for training or sport.<xref ref-type="bibr" rid="article-16.r4">[4]</xref><xref ref-type="bibr" rid="article-16.r5">[5]</xref></p>
+      </sec>
+      <sec id="article-16.s4" sec-type="Issues of Concern">
+        <title>Issues of Concern</title>
+        <p>In most cases, the approach to the dive site and the return route following the dive are at lower altitudes, but in mountain areas, divers often traverse mountain passes that add significant pressure changes that may induce off-gassing of residual nitrogen in the bloodstream. This risk can be mitigated by applying the same warning given to divers at sea level: &#x0201c;do not fly for 18 hours following a single dive, or 24 hours after the last dive of a multi-dive profile.&#x0201d; When arriving at an altitude from a dive, the diver is saturated with nitrogen, and time for off-gassing should be allowed. Acclimatization to new altitude levels is important to reduce the overall risk before the event.&#x000a0;Minimum acclimatization of 12 hours before diving is recommended; however, 3-day acclimatization may be required at elevations greater than 10,000 ft (3000 m). When diving before the recommended wait time ends, a diver should take into account the residual nitrogen and appropriate&#x000a0;time added to bottom times when calculating the decompression obligation.<xref ref-type="bibr" rid="article-16.r6">[6]</xref><xref ref-type="bibr" rid="article-16.r7">[7]</xref><xref ref-type="bibr" rid="article-16.r8">[8]</xref></p>
+        <p>High-altitude weather may also significantly affect risk. Temperature extremes and reduction in oxygen concentrations exist with a greater rise in elevation. Colder, dry, humidified air is common at higher altitudes. This may affect respiratory function, usually in the form of bronchial irritation with effects ranging from a minor cough to asthmatic wheeze. When combined with reduced oxygen availability, increasing hypoxia may develop. Respiratory rate increases initially to blow off more carbon monoxide (CO) induced by the lower PaO2 levels.&#x000a0;This also increases insensible fluid losses leading to dehydration. It may also result in greater, unplanned depletion of air in the diver&#x02019;s tank.</p>
+        <p>The higher altitudes (greater than 8000 to 10,000 ft) may also expose the individual to cold injuries, acute mountain sickness (AMS), high-altitude pulmonary edema (HAPE), or high-altitude cerebral edema (HACE).</p>
+        <p>Dive profiles are for freshwater in most mountain waterways. The increased density of seawater exerts a pressure greater than that of&#x000a0;freshwater (64 pounds per cubic foot or [1025 kg per cubic meter] versus 62.4&#x000a0;pounds per cubic foot [1000 kg per cubic meter]). Therefore, a diver must either convert from depth calculations in feet of seawater (fsw) to feet in freshwater (ffw) or utilize freshwater charts or a dive computer that allows for this conversion.</p>
+      </sec>
+      <sec id="article-16.s5" sec-type="Clinical Significance">
+        <title>Clinical Significance</title>
+        <p>Specialized dive tables and procedures are required for planning all dives at elevations greater than 1000 ft (305 m). These tables should be used for any elevation over 300 ft (91 m) if the planned depth of the dive is greater than 145 ft. No correction is necessary for dives between sea level and 299 ft (90 m).<xref ref-type="bibr" rid="article-16.r9">[9]</xref></p>
+        <p>Standard depth gauges are zeroed at sea level and read less than zero at altitude. Some gauges can be calibrated or re-zeroed at altitude before the dive. Alternatively, the diver will roughly correct for altitude by adding approximately 1 fsw/1000 ft in altitude, with a conversion to ffw if indicated.</p>
+        <p>Dive computers use decompression algorithms to reduce the risk of decompression illnesses by continually updating depth profiles and re-computing the decompression risk variables. Most modern dive computers will automatically adjust for starting altitude and freshwater versus seawater conditions, but some require manual input. Many calculate additional risk according to temperature, but none can factor in individual risk factors such as age, body weight, and/or habitus, presence of patent foramen ovale (PFO), alcohol consumption, or dehydration. Many dive computers formally tested have significant errors and are unreliable at altitude. Consequently, meticulous manual dive profile planning is essential, even with dive computers.<xref ref-type="bibr" rid="article-16.r10">[10]</xref></p>
+        <p>Adequate periods of acclimatization should be calculated into the dive profile. Additional post-dive surface intervals (time spent at the altitude of the dive) should be planned to reduce the nitrogen load before any travel (whether by air or automobile) with altitude changes greater than 1000 feet (305 m).</p>
+        <p>Hemoconcentration may occur as a protective function of acclimatization with elevations in erythropoietin seen as early as 2 hours after arrival to altitude and a red cell mass increase within 2 to 4 days.</p>
+        <p>Prior exposure to cold immersion improves adaptation to cold and may mitigate the risk of hypothermia. Surface-level swims, with or without a wetsuit, within days of the dive may improve cold adaptation.</p>
+        <p>Having a portable one-man hyperbaric chamber or Gamow bag on-site for higher risk altitude dive profiles is recommended.</p>
+      </sec>
+      <sec id="article-16.s6" sec-type="Other Issues">
+        <title>Other Issues</title>
+        <p>Historically, Jacques Cousteau is credited for the first extreme altitude diving record in 1968 when he mounted an expedition to Bolivia and Peru&#x02019;s Lake Titicaca, searching for submerged Inca treasure at an altitude of 12,507 ft (3812 m). In 1982 a team led by Charles Brush and Johan Reinhard set a new record at the Lago Licanbur volcano in Chile at 19,400 ft (5900 m), and another team led by Nathalie Cabrol (SETI Institute/NASA Ames) at the same location in 2006. At the date of this publication, however, the highest recorded dive was at the Pili Volcano in Chile at 20,000 ft (6000 m) by Philippe Reuter, Claudia Henriquez, and Alain Meyes. The highest scuba dive in the continental United States was done in September 2013 by John Bali at the Pacific Tarn Lake in Colorado at 13,420 ft (4090 m).&#x000a0;</p>
+      </sec>
+      <sec id="article-16.s7" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>As more people take to water activities, the risk of decompression illness is getting more common. The management of decompression illness requires an interprofessional team because of the diverse presentation and high morbidity. Emergency department physicians and nurse practitioners should refer all symptomatic patients with decompression illness to a hyperbaric chamber without delay. Finally, the public should be educated on scuba diving and the importance of gradual ascent.</p>
+      </sec>
+      <sec id="article-16.s8">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=16&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=16">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/16/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=16">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-16.s9">
+        <title>References</title>
+        <ref id="article-16.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Krywko</surname>
+                <given-names>DM</given-names>
+              </name>
+              <name>
+                <surname>Clare</surname>
+                <given-names>DT</given-names>
+              </name>
+              <name>
+                <surname>Orabi</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Facial Baroparesis Mimicking Stroke.</article-title>
+            <source>Clin Pract Cases Emerg Med</source>
+            <year>2018</year>
+            <month>May</month>
+            <volume>2</volume>
+            <issue>2</issue>
+            <fpage>136</fpage>
+            <page-range>136-138</page-range>
+            <pub-id pub-id-type="pmid">29849252</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-16.r2">
+          <label>2</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Jamil</surname>
+                <given-names>RT</given-names>
+              </name>
+              <name>
+                <surname>Reilly</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Cooper</surname>
+                <given-names>JS</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Sinus Squeeze</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2023</year>
+            <month>7</month>
+            <day>17</day>
+            <pub-id pub-id-type="pmid">29763210</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-16.r3">
+          <label>3</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Torp</surname>
+                <given-names>KD</given-names>
+              </name>
+              <name>
+                <surname>Murphy-Lavoie</surname>
+                <given-names>HM</given-names>
+              </name>
+            </person-group>
+            <chapter-title>Return to Diving</chapter-title>
+            <source>StatPearls [Internet]</source>
+            <publisher-name>StatPearls Publishing</publisher-name>
+            <publisher-loc>Treasure Island (FL)</publisher-loc>
+            <year>2022</year>
+            <month>5</month>
+            <day>29</day>
+            <pub-id pub-id-type="pmid">29763198</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-16.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Ilardo</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Moltke</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Korneliussen</surname>
+                <given-names>TS</given-names>
+              </name>
+              <name>
+                <surname>Cheng</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Stern</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Racimo</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>de Barros Damgaard</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Sikora</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Seguin-Orlando</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Rasmussen</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>van den Munckhof</surname>
+                <given-names>ICL</given-names>
+              </name>
+              <name>
+                <surname>Ter Horst</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Joosten</surname>
+                <given-names>LAB</given-names>
+              </name>
+              <name>
+                <surname>Netea</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Salingkat</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Nielsen</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Willerslev</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Physiological and Genetic Adaptations to Diving in Sea Nomads.</article-title>
+            <source>Cell</source>
+            <year>2018</year>
+            <month>Apr</month>
+            <day>19</day>
+            <volume>173</volume>
+            <issue>3</issue>
+            <fpage>569</fpage>
+            <page-range>569-580.e15</page-range>
+            <pub-id pub-id-type="pmid">29677510</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-16.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Shi</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>YM</given-names>
+              </name>
+              <name>
+                <surname>Tetsuo</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Shi</surname>
+                <given-names>ZY</given-names>
+              </name>
+              <name>
+                <surname>Fang</surname>
+                <given-names>YQ</given-names>
+              </name>
+              <name>
+                <surname>Denoble</surname>
+                <given-names>PJ</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>YY</given-names>
+              </name>
+            </person-group>
+            <article-title>Simulated High Altitude Helium-Oxygen Diving.</article-title>
+            <source>Aerosp Med Hum Perform</source>
+            <year>2017</year>
+            <month>Dec</month>
+            <day>01</day>
+            <volume>88</volume>
+            <issue>12</issue>
+            <fpage>1088</fpage>
+            <page-range>1088-1093</page-range>
+            <pub-id pub-id-type="pmid">29157337</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-16.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Savica</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Environmental Neurologic Injuries.</article-title>
+            <source>Continuum (Minneap Minn)</source>
+            <year>2017</year>
+            <month>Jun</month>
+            <volume>23</volume>
+            <issue>3, Neurology of Systemic Disease</issue>
+            <fpage>862</fpage>
+            <page-range>862-871</page-range>
+            <pub-id pub-id-type="pmid">28570332</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-16.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Mahadevan</surname>
+                <given-names>SV</given-names>
+              </name>
+              <name>
+                <surname>Strehlow</surname>
+                <given-names>MC</given-names>
+              </name>
+            </person-group>
+            <article-title>Preparing for International Travel and Global Medical Care.</article-title>
+            <source>Emerg Med Clin North Am</source>
+            <year>2017</year>
+            <month>May</month>
+            <volume>35</volume>
+            <issue>2</issue>
+            <fpage>465</fpage>
+            <page-range>465-484</page-range>
+            <pub-id pub-id-type="pmid">28411937</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-16.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Sayer</surname>
+                <given-names>MD</given-names>
+              </name>
+              <name>
+                <surname>Azzopardi</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Sieber</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>User settings on dive computers: reliability in aiding conservative diving.</article-title>
+            <source>Diving Hyperb Med</source>
+            <year>2016</year>
+            <month>Jun</month>
+            <volume>46</volume>
+            <issue>2</issue>
+            <fpage>98</fpage>
+            <page-range>98-110</page-range>
+            <pub-id pub-id-type="pmid">27334998</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-16.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Paulev</surname>
+                <given-names>PE</given-names>
+              </name>
+              <name>
+                <surname>Zubieta-Calleja</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>High altitude diving depths.</article-title>
+            <source>Res Sports Med</source>
+            <year>2007</year>
+            <season>Jul-Sep</season>
+            <volume>15</volume>
+            <issue>3</issue>
+            <fpage>213</fpage>
+            <page-range>213-23</page-range>
+            <pub-id pub-id-type="pmid">17987509</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-16.r10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Fraedrich</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Validation of algorithms used in commercial off-the-shelf dive computers.</article-title>
+            <source>Diving Hyperb Med</source>
+            <year>2018</year>
+            <month>Dec</month>
+            <day>24</day>
+            <volume>48</volume>
+            <issue>4</issue>
+            <fpage>252</fpage>
+            <page-range>252-258</page-range>
+            <pub-id pub-id-type="pmid">30517958</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="article-18935" content-type="chapter" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">statpearls</book-id>
+    <book-title-group>
+      <book-title>StatPearls</book-title>
+    </book-title-group>
+    <pub-date publication-format="electronic" date-type="pubr">
+      <month>01</month>
+      <year>2024</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>StatPearls Publishing</publisher-name>
+      <publisher-loc>Treasure Island (FL)</publisher-loc>
+    </publisher>
+    <permissions>
+      <copyright-statement>Copyright &#x000a9; 2024, StatPearls Publishing LLC</copyright-statement>
+      <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <license-p>
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(<ext-link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+</ext-link>), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes notes-type="disclaimer">
+      <p>The intent of StatPearls review books and articles is to identify knowledge deficits and assist you in the learning process. Review books and articles are not intended to be a source of the knowledge base of medicine. The authors and editors do not warrant the information is complete or accurate. The reader is encouraged to verify content and questions in several references. All drug indications and dosages should be verified before administration.</p>
+      <p>The authors and editors would like to extend special thanks to Erin Hughes and Gerson Rubio for their editorial support.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <title-group>
+        <title>Cardiopulmonary Resuscitation</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Goyal</surname>
+            <given-names>Amandeep</given-names>
+          </name>
+          <aff>University of Kansas Medical Center</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Sciammarella</surname>
+            <given-names>Joseph C.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Cusick</surname>
+            <given-names>Austin S.</given-names>
+          </name>
+          <aff>OhioHealth Riverside Methodist Hospital</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name name-style="western">
+            <surname>Patel</surname>
+            <given-names>Pujan H.</given-names>
+          </name>
+          <aff>Saint Louis University Hospital</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Amandeep Goyal declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Joseph Sciammarella declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Austin Cusick declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+        <fn fn-type="COI-statement">
+          <p><bold>Disclosure: </bold>Pujan Patel declares no relevant financial relationships with ineligible companies.</p>
+        </fn>
+      </author-notes>
+      <pub-history>
+        <date date-type="updated">
+          <day>29</day>
+          <month>5</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+    </book-part-meta>
+    <body>
+      <sec id="article-18935.s1" sec-type="Continuing Education Activity">
+        <title>Continuing Education Activity</title>
+        <p>Cardiopulmonary resuscitation (CPR) comprises a group of interventions performed to provide oxygenation and circulation to the body during cardiac arrest. The most widely accepted guidelines for cardiopulmonary resuscitation in North America are produced by the American Heart Association (AHA). These are published every 5 years, following the International Liaison Committee on Resuscitation (ILCOR) meeting. This activity describes the evaluation and management of patients who may require cardiopulmonary resuscitation and highlights the role of the interprofessional team in improving care for affected individuals.</p>
+        <p>
+<bold>Objectives:</bold>
+<list list-type="bullet"><list-item><p>Explain the steps involved in recognizing out-of-hospital cardiac arrest.</p></list-item><list-item><p>Explain how to perform one-rescuer cardiopulmonary resuscitation on a victim of out-of-hospital cardiac arrest.</p></list-item><list-item><p>Explain how to perform cardiopulmonary resuscitation on infants and children.</p></list-item><list-item><p>Explain the importance of improving coordination amongst the interprofessional team to enhance care for patients requiring cardiopulmonary resuscitation.</p></list-item></list>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=18935&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=18935">Access free multiple choice questions on this topic.</ext-link>
+</p>
+      </sec>
+      <sec id="article-18935.s2" sec-type="pubmed-excerpt">
+        <title>Introduction</title>
+        <p>Cardiopulmonary resuscitation (CPR) is a collection of interventions performed to provide oxygenation and circulation to the body during cardiac arrest. Our current modern-day approach to this process stemmed from the work of a handful of doctors in the 1950s and has now evolved into the process that will be discussed further here. The most widely accepted guidelines in North America are those produced by the American Heart Association (AHA). These are published every 5 years after the&#x000a0;International Liaison Committee on Resuscitation (ILCOR) meeting.<xref ref-type="bibr" rid="article-18935.r1">[1]</xref>&#x000a0;</p>
+      </sec>
+      <sec id="article-18935.s3" sec-type="Etiology">
+        <title>Etiology</title>
+        <p>Every year almost 350,000 Americans die from&#x000a0;heart disease. Half of these will die suddenly, outside of a hospital, because of the sudden cessation of spontaneous organized cardiac function.&#x000a0;The most common cause of sudden cardiac arrest in adults is ventricular fibrillation. Although advances in emergency cardiac care continue to improve the chances of survival, sudden cardiac arrest remains a leading cause of death in many parts of the world. As of 2016, cardiac disease&#x000a0;continues to be the leading cause of death in the United States.</p>
+      </sec>
+      <sec id="article-18935.s4" sec-type="Epidemiology">
+        <title>Epidemiology</title>
+        <p>Seventy percent of cardiac arrests that occur outside of a hospital occur in the home. Half of these cardiac arrests are unwitnessed. Despite advances in emergency medical services, the survival rate remains low. Adult victims of non-traumatic cardiac arrest that receive resuscitation attempts by emergency medical services have a survival rate to hospital discharge of only 10.8%. In comparison, adult patients who experience cardiac arrest in a hospital setting have rates of survival to hospital discharge of up to 25.5%.<xref ref-type="bibr" rid="article-18935.r2">[2]</xref></p>
+      </sec>
+      <sec id="article-18935.s5" sec-type="Pathophysiology">
+        <title>Pathophysiology</title>
+        <p>The definitive treatment for ventricular fibrillation is electrical defibrillation. This is most often performed using an automated external defibrillator (AED). If an AED&#x000a0;is not readily available for defibrillation, brain death is likely to&#x000a0;occur in less than 10 minutes. CPR is a means of providing artificial circulation and ventilation until defibrillation can be performed. Conventional manual CPR, combining chest compressions with rescue breathing, can provide up to 33% of normal cardiac output and oxygenation when done properly.<xref ref-type="bibr" rid="article-18935.r3">[3]</xref></p>
+      </sec>
+      <sec id="article-18935.s6" sec-type="History and Physical">
+        <title>History and Physical</title>
+        <p>Patients requiring CPR are unconscious and unresponsive with absent pulses. There is a prognostic benefit in determining the last time the patient was seen normal, or better yet, the time when pulses were lost. Additionally, collateral history from bystanders, family members, friends, and the primary care physician can help etiologic evaluation.</p>
+        <p>There are no specific physical examination findings, but signs of cyanosis and reduced peripheral perfusion can suggest a cause for the arrest.</p>
+      </sec>
+      <sec id="article-18935.s7" sec-type="Evaluation">
+        <title>Evaluation</title>
+        <p>The absence of a palpable pulse in an unresponsive patient indicates the need for CPR.</p>
+      </sec>
+      <sec id="article-18935.s8" sec-type="Treatment / Management">
+        <title>Treatment / Management</title>
+        <p>Note: The technique described here is intended for a healthcare provider performing one-rescuer CPR on an adult victim in the out-of-hospital setting. The modifications for children, infants, and in-hospital CPR are listed below. These recommendations are current as of the 2015 American Heart Association's Guidelines Update for CPR and Emergency Cardiac Care.</p>
+        <p>The immediate recognition of cardiac arrest is essential to initiate the emergency medical services (EMS) response and begin CPR as soon as possible. In this era of universal mobile phone availability, it is now possible to call 911 while remaining with the victim. Make sure that the scene is safe, then call for help. Simultaneously, begin CPR by first performing chest compressions (C), followed by opening the airway (A) and delivering rescue breaths (B) (the CAB sequence as compared to the former ABC sequence). The hands are placed on the lower half of the sternum, and chest compressions are begun at a rate of 100 to 120 compressions per minute. The goal is to depress the sternum to a depth of at least two inches while avoiding excessive depth of compressions. The chest wall should be allowed to recoil fully on the upstroke to maintain coronary artery perfusion pressure.<xref ref-type="bibr" rid="article-18935.r4">[4]</xref>&#x000a0;Thirty compressions are performed, followed by a brief pause for&#x000a0;two&#x000a0;rescue breaths. Because of the critical contribution of chest compressions to coronary artery perfusion, interruptions in chest compressions should be minimized, and any interruptions should be as short as possible when needed.<xref ref-type="bibr" rid="article-18935.r5">[5]</xref><xref ref-type="bibr" rid="article-18935.r6">[6]</xref></p>
+        <p>After 30 chest compressions, the rescuer performs a head tilt/chin lift maneuver to open the airway (assuming there is no suspicion of a cervical spinal injury). If a cervical spine injury is suspected, the airway is opened using the jaw-thrust maneuver without extending the head. Two rescue breaths are administered: the rescuer takes a "regular" breath (not deep or excessive) and delivers a rescue breath lasting approximately one second, which should be enough just to allow the chest to rise. The process is repeated for a second rescue breath prior to resuming chest compressions.</p>
+        <p>Ideally, a healthcare provider inclined to intervene as an out-of-hospital rescuer should have ready access to a barrier device such as a rescue mask. However, this is not always the case. Mouth-to-mouth rescue breaths have been the alternative, which many untrained rescuers are hesitant to perform, especially on an unknown victim. This is a decision that healthcare providers must make for themselves. Compression-only CPR has been accepted as appropriate for untrained lay rescuers. If extenuating circumstances prohibit a healthcare provider in the out-of-hospital setting from performing rescue breathing without a barrier device, compression-only CPR should be performed until EMS arrives.<xref ref-type="bibr" rid="article-18935.r7">[7]</xref><xref ref-type="bibr" rid="article-18935.r8">[8]</xref></p>
+        <p>The cycle of 30 chest compressions alternated with two rescue breaths is continued until an AED becomes available or until additional help arrives.&#x000a0; If an AED arrives, its pads should be applied to the front and back of the patient, taking care to minimize any delay in restarting chest compressions.&#x000a0; Most modern devices verbalize further instructions&#x02014;after attached to the patient, AEDs will detect the current cardiac rhythm and advise whether the patient should receive defibrillation. If the AED advises a shock, cease chest compressions and stay clear of the patient until defibrillation is completed.&#x000a0; After defibrillation is completed, or if no shock is advised, immediately resume cycles of chest compressions and rescue breaths following the CAB sequence until additional help arrives.</p>
+      </sec>
+      <sec id="article-18935.s9" sec-type="Differential Diagnosis">
+        <title>Differential Diagnosis</title>
+        <p>A quick physical exam focused on palpable pulses and mental status is important as sometimes drug overdose, including heavy alcohol intake, may mimic cardiac arrest.</p>
+      </sec>
+      <sec id="article-18935.s10" sec-type="Prognosis">
+        <title>Prognosis</title>
+        <p>According to 2015 AHA data, survival to hospital discharge in patients who experience out-of-hospital cardiac arrest remains low at 10.6%.&#x000a0; 8.3% of patients experiencing cardiac arrest out-of-hospital will be discharged with good neurologic function.&#x000a0; Witnessed cardiac arrests in patients receiving high-quality CPR have a better prognosis, with 25.5% of patients surviving to hospital discharge.</p>
+      </sec>
+      <sec id="article-18935.s11" sec-type="Complications">
+        <title>Complications</title>
+        <p>Cardiac arrest carries a dismal prognosis--most patients do not survive.&#x000a0; In those that do survive, their hospital course can be complicated by varying degrees of neurologic injury due to hypoxic encephalopathy.&#x000a0; All organ systems can suffer ischemic injury.&#x000a0; Chest compressions, when performed correctly, can cause rib fractures, which may be complicated by pneumothorax.</p>
+      </sec>
+      <sec id="article-18935.s12" sec-type="Deterrence and Patient Education">
+        <title>Deterrence and Patient Education</title>
+        <p>In the event of cardiac arrest, the patient's family and/or their surrogate or power of attorney should be notified.&#x000a0; It is important to ascertain the patient's code status, and any prior directives should be honored if appropriate documentation in accordance with laws of the local jurisdiction can be obtained.</p>
+      </sec>
+      <sec id="article-18935.s13" sec-type="Pearls and Other Issues">
+        <title>Pearls and Other Issues</title>
+        <p>
+<bold>Pediatric CPR</bold>
+</p>
+        <p>By definition, infant CPR applies to patients whose age is less than one year. Child CPR applies to patients from one&#x000a0;year of age through puberty. From puberty onward, adult CPR guidelines apply. The modifications for infant and child CPR are listed below. All other aspects of CPR follow the adult guidelines, including starting the process with the Compression first (CAB) sequence and the rate of compressions being 100 to 120 per minute. The sternum should be depressed to a depth of approximately one-third of the anteroposterior diameter of the chest; this is about two inches in the child and 1.5 inches in the infant. <xref ref-type="bibr" rid="article-18935.r9">[9]</xref></p>
+        <p>
+<bold>Child CPR Modifications</bold>
+</p>
+        <p>Chest compressions on a child are performed by placing the heel of one or two hands (depending on the size of the child) over the lower half of the sternum. The chest is compressed to a depth of approximately two inches at a rate of 100 to 120 per minute. After 30 compressions, administer two sequential breaths and return to chest compressions. Continue the cycle of 30 compressions to two breaths until help arrives.</p>
+        <p>
+<bold>Infant CPR Modifications</bold>
+</p>
+        <p>Chest compressions on an infant are performed by placing two fingers on the sternum just below the nipple line. The infant's chest is compressed to a depth of approximately 1.5 inches at a rate of 100 to 120 per minute.&#x000a0;After 30 compressions, administer two sequential breaths and return to chest compressions. Continue the cycle of 30 compressions to two breaths until help arrives.</p>
+        <p>
+<bold>In-hospital CPR</bold>
+</p>
+        <p>Multiple rescuers are generally available in the hospital setting, and ventilation is usually performed with a bag-valve-mask (BVM) device. BVM ventilation needs to be performed by a provider skilled in its use. If the patient is not intubated, CPR is done by one provider performing chest compressions while the second provider provides breaths with BVM ventilation. The ratio of compressions to breaths in this situation changes to 15 compressions to two breaths. Once a patient is intubated, it is unnecessary to perform cycles of compressions and ventilation--chest compressions are performed continuously, while rescue breaths are given independently via the BVM at a rate of 10 per minute (one breath every six seconds). Novice operators frequently tend to provide BVM ventilations at a higher rate than this.</p>
+      </sec>
+      <sec id="article-18935.s14" sec-type="Enhancing Healthcare Team Outcomes ">
+        <title>Enhancing Healthcare Team Outcomes </title>
+        <p>All healthcare workers, including nurses and pharmacists, must know how to perform CPR. In fact, many hospitals now make it mandatory that healthcare workers have a valid CPR certificate to work. When done promptly and properly, CPR can save lives.</p>
+      </sec>
+      <sec id="article-18935.s15">
+        <title>Review Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/account/trialuserreg/?articleid=18935&#x00026;utm_source=pubmed&#x00026;utm_campaign=reviews&#x00026;utm_content=18935">Access free multiple choice questions on this topic.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mdsearchlight.com/first-aid/cardiopulmonary-resuscitation-cpr/?utm_source=pubmedlink&#x00026;utm_campaign=MDS&#x00026;utm_content=18935">Click here for a simplified version.</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.statpearls.com/articlelibrary/commentarticle/18935/?utm_source=pubmed&#x00026;utm_campaign=comments&#x00026;utm_content=18935">Comment on this article.</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list id="article-18935.s16">
+        <title>References</title>
+        <ref id="article-18935.r1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Truong</surname>
+                <given-names>HT</given-names>
+              </name>
+              <name>
+                <surname>Low</surname>
+                <given-names>LS</given-names>
+              </name>
+              <name>
+                <surname>Kern</surname>
+                <given-names>KB</given-names>
+              </name>
+            </person-group>
+            <article-title>Current Approaches to Cardiopulmonary Resuscitation.</article-title>
+            <source>Curr Probl Cardiol</source>
+            <year>2015</year>
+            <month>Jul</month>
+            <volume>40</volume>
+            <issue>7</issue>
+            <fpage>275</fpage>
+            <page-range>275-313</page-range>
+            <pub-id pub-id-type="pmid">26071014</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18935.r2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Giacoppo</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Impact of bystander-initiated cardiopulmonary resuscitation for out-of-hospital cardiac arrest: where would you be happy to have a cardiac arrest?</article-title>
+            <source>Eur Heart J</source>
+            <year>2019</year>
+            <month>Jan</month>
+            <day>14</day>
+            <volume>40</volume>
+            <issue>3</issue>
+            <fpage>319</fpage>
+            <page-range>319-321</page-range>
+            <pub-id pub-id-type="pmid">30649371</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18935.r3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Perkins</surname>
+                <given-names>GD</given-names>
+              </name>
+              <name>
+                <surname>Travers</surname>
+                <given-names>AH</given-names>
+              </name>
+              <name>
+                <surname>Berg</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Castren</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Considine</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Escalante</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Gazmuri</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Koster</surname>
+                <given-names>RW</given-names>
+              </name>
+              <name>
+                <surname>Lim</surname>
+                <given-names>SH</given-names>
+              </name>
+              <name>
+                <surname>Nation</surname>
+                <given-names>KJ</given-names>
+              </name>
+              <name>
+                <surname>Olasveengen</surname>
+                <given-names>TM</given-names>
+              </name>
+              <name>
+                <surname>Sakamoto</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Sayre</surname>
+                <given-names>MR</given-names>
+              </name>
+              <name>
+                <surname>Sierra</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Smyth</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Stanton</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Vaillancourt</surname>
+                <given-names>C</given-names>
+              </name>
+              <collab>Basic Life Support Chapter Collaborators</collab>
+            </person-group>
+            <article-title>Part 3: Adult basic life support and automated external defibrillation: 2015 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science with Treatment Recommendations.</article-title>
+            <source>Resuscitation</source>
+            <year>2015</year>
+            <month>Oct</month>
+            <volume>95</volume>
+            <fpage>e43</fpage>
+            <page-range>e43-69</page-range>
+            <pub-id pub-id-type="pmid">26477428</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18935.r4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Vadeboncoeur</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Stolz</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>Panchal</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Silver</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Venuti</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Tobin</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Smith</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Nunez</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Karamooz</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Spaite</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Bobrow</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Chest compression depth and survival in out-of-hospital cardiac arrest.</article-title>
+            <source>Resuscitation</source>
+            <year>2014</year>
+            <month>Feb</month>
+            <volume>85</volume>
+            <issue>2</issue>
+            <fpage>182</fpage>
+            <page-range>182-8</page-range>
+            <pub-id pub-id-type="pmid">24125742</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18935.r5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Marsch</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Tschan</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Semmer</surname>
+                <given-names>NK</given-names>
+              </name>
+              <name>
+                <surname>Zobrist</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Hunziker</surname>
+                <given-names>PR</given-names>
+              </name>
+              <name>
+                <surname>Hunziker</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>ABC versus CAB for cardiopulmonary resuscitation: a prospective, randomized simulator-based trial.</article-title>
+            <source>Swiss Med Wkly</source>
+            <year>2013</year>
+            <volume>143</volume>
+            <fpage>w13856</fpage>
+            <pub-id pub-id-type="pmid">24018896</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18935.r6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Bobrow</surname>
+                <given-names>BJ</given-names>
+              </name>
+              <name>
+                <surname>Clark</surname>
+                <given-names>LL</given-names>
+              </name>
+              <name>
+                <surname>Ewy</surname>
+                <given-names>GA</given-names>
+              </name>
+              <name>
+                <surname>Chikani</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Sanders</surname>
+                <given-names>AB</given-names>
+              </name>
+              <name>
+                <surname>Berg</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Richman</surname>
+                <given-names>PB</given-names>
+              </name>
+              <name>
+                <surname>Kern</surname>
+                <given-names>KB</given-names>
+              </name>
+            </person-group>
+            <article-title>Minimally interrupted cardiac resuscitation by emergency medical services for out-of-hospital cardiac arrest.</article-title>
+            <source>JAMA</source>
+            <year>2008</year>
+            <month>Mar</month>
+            <day>12</day>
+            <volume>299</volume>
+            <issue>10</issue>
+            <fpage>1158</fpage>
+            <page-range>1158-65</page-range>
+            <pub-id pub-id-type="pmid">18334691</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18935.r7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Liao</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Tang</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Zhou</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>[Effects between chest-compression-only cardiopulmonary resuscitation and standard cardiopulmonary resuscitation for patients with out-of-hospital cardiac arrest: a Meta-analysis].</article-title>
+            <source>Zhonghua Wei Zhong Bing Ji Jiu Yi Xue</source>
+            <year>2018</year>
+            <month>Nov</month>
+            <volume>30</volume>
+            <issue>11</issue>
+            <fpage>1017</fpage>
+            <page-range>1017-1023</page-range>
+            <pub-id pub-id-type="pmid">30541638</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18935.r8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Svensson</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Bohm</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Castr&#x000e8;n</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Pettersson</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Engerstr&#x000f6;m</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Herlitz</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Rosenqvist</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Compression-only CPR or standard CPR in out-of-hospital cardiac arrest.</article-title>
+            <source>N Engl J Med</source>
+            <year>2010</year>
+            <month>Jul</month>
+            <day>29</day>
+            <volume>363</volume>
+            <issue>5</issue>
+            <fpage>434</fpage>
+            <page-range>434-42</page-range>
+            <pub-id pub-id-type="pmid">20818864</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="article-18935.r9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group>
+              <name>
+                <surname>Maconochie</surname>
+                <given-names>IK</given-names>
+              </name>
+              <name>
+                <surname>de Caen</surname>
+                <given-names>AR</given-names>
+              </name>
+              <name>
+                <surname>Aickin</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Atkins</surname>
+                <given-names>DL</given-names>
+              </name>
+              <name>
+                <surname>Biarent</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Guerguerian</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Kleinman</surname>
+                <given-names>ME</given-names>
+              </name>
+              <name>
+                <surname>Kloeck</surname>
+                <given-names>DA</given-names>
+              </name>
+              <name>
+                <surname>Meaney</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Nadkarni</surname>
+                <given-names>VM</given-names>
+              </name>
+              <name>
+                <surname>Ng</surname>
+                <given-names>KC</given-names>
+              </name>
+              <name>
+                <surname>Nuthall</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Reis</surname>
+                <given-names>AG</given-names>
+              </name>
+              <name>
+                <surname>Shimizu</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Tibballs</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Pintos</surname>
+                <given-names>RV</given-names>
+              </name>
+              <collab>Pediatric Basic Life Support and Pediatric Advanced Life Support Chapter Collaborators</collab>
+            </person-group>
+            <article-title>Part 6: Pediatric basic life support and pediatric advanced life support: 2015 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science with Treatment Recommendations.</article-title>
+            <source>Resuscitation</source>
+            <year>2015</year>
+            <month>Oct</month>
+            <volume>95</volume>
+            <fpage>e147</fpage>
+            <page-range>e147-68</page-range>
+            <pub-id pub-id-type="pmid">26477423</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </book-part>
+</book-part-wrapper>
