@@ -23,7 +23,7 @@ class WhisperLiveTranscription:
         self.RATE = 16000
         self.CHUNK = 1024
         self.RECORD_SECONDS = 3
-        self.SILENCE_THRESHOLD = 0.01
+        self.SILENCE_THRESHOLD = 0.001
 
         self.audio_queue = queue.Queue()
         self.result_queue = queue.Queue()
@@ -32,6 +32,9 @@ class WhisperLiveTranscription:
 
         self.audio_buffer = []
         self.last_process_time = time.time()
+
+        self.transcription = ""
+        self.debug = True
 
     def start_recording(self):
         self.is_running = True
@@ -65,12 +68,20 @@ class WhisperLiveTranscription:
                 raw_chunk = self.audio_queue.get(timeout=1)
                 audio_chunk = raw_chunk
 
+                if self.debug:
+                    level = np.max(np.abs(audio_chunk))
+                    print(f"Audio level: {level:.4f}")
+
                 if np.max(np.abs(audio_chunk)) > self.SILENCE_THRESHOLD:
                     self.audio_buffer.extend(audio_chunk)
+                    if self.debug:
+                        print("Audio detected and buffered")
 
                 current_time = time.time()
                 if current_time - self.last_process_time >= self.RECORD_SECONDS:
                     if self.audio_buffer:
+                        if self.debug:
+                            print("Processing audio chunk...")
                         audio_data = np.array(self.audio_buffer)
                         self.result_queue.put(audio_data)
                         self.audio_buffer = []
@@ -83,6 +94,9 @@ class WhisperLiveTranscription:
         while self.is_running or not self.result_queue.empty():
             try:
                 audio_data = self.result_queue.get(timeout=1)
+                if self.debug:
+                    print("Transcribing audio chunk...")
+
                 input_features = self.processor(
                     audio_data, sampling_rate=self.RATE, return_tensors="pt"
                 ).input_features.to(self.device)
@@ -96,12 +110,18 @@ class WhisperLiveTranscription:
                         no_repeat_ngram_size=3,
                     )
 
-                transcription = self.processor.batch_decode(
+                chunk_transcription = self.processor.batch_decode(
                     predicted_ids, skip_special_tokens=True
                 )[0]
 
-                timestamp = datetime.now().strftime("%H:%M:%S")
-                print(f"[{timestamp}] {transcription}")
+                # timestamp = datetime.now().strftime("%H:%M:%S")
+                # print(f"[{timestamp}] {transcription}")
+
+                if chunk_transcription.strip():
+                    if self.debug:
+                        print(f"Transcription chunk: {chunk_transcription}")
+                    self.transcription += " " + chunk_transcription.strip()
+                    print(f"DEBUG: Current full transcription: {self.transcription}")
 
             except queue.Empty:
                 continue
@@ -111,7 +131,11 @@ class WhisperLiveTranscription:
 
     def stop_recording(self):
         print("\nStopping... Processing last audio segments...")
+        final_transcription = self.transcription
 
+        print(f"DEBUG_stop: Current full transcription: {self.transcription}")
+
+        # Arrêt du stream audio et nettoyage PyAudio
         if hasattr(self, "stream"):
             self.stream.stop_stream()
             self.stream.close()
@@ -122,6 +146,7 @@ class WhisperLiveTranscription:
             final_audio = np.array(self.audio_buffer)
             self.result_queue.put(final_audio)
 
+        # arrêt des threads
         self.is_running = False
 
         while not self.audio_queue.empty():
@@ -140,7 +165,11 @@ class WhisperLiveTranscription:
             if self.transcribe_thread.is_alive():
                 print("Warning: Last transcription could not be completed in time")
 
+        if self.debug:
+            print("Transcription:", self.transcription)
+
         print("Recording and transcription stopped")
+        return self.transcription
 
     def save_audio(self, filename):
         if self.audio_buffer:
