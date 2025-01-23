@@ -7,15 +7,17 @@ from views.llm import llm_page
 APP_TITLE = "Agent conversationnel Santé [nom provisoire]"
 
 st.set_page_config(
-    page_title=APP_TITLE, layout="wide", initial_sidebar_state="expanded"
+    page_title=APP_TITLE,
+    layout="wide",
+    initial_sidebar_state="expanded"
 )
 
 with st.sidebar:
     selected = option_menu(
-        menu_title="Navigation",
+        menu_title='Navigation',
         options=["Home", "Dashboard", "LLM"],
         icons=["house", "bar-chart", "robot"],
-        default_index=0,
+        default_index=0
     )
 
 if selected == "Home":
@@ -24,3 +26,4 @@ elif selected == "Dashboard":
     dashboard_page()
 elif selected == "LLM":
     llm_page()
+
