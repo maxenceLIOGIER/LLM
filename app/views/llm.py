@@ -1,9 +1,15 @@
 import streamlit as st
 import os
 import sys
+import datetime
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
 from src.speech_to_text import WhisperLiveTranscription
+
+# Instanciation du transcripteur
+transcriber = WhisperLiveTranscription(
+    model_id="openai/whisper-small", language="french"
+)
 
 
 def llm_page():
@@ -16,6 +22,7 @@ def llm_page():
     if "transcription" not in st.session_state:
         st.session_state.transcription = ""
 
+
     # Instance du transcripteur
     transcriber = WhisperLiveTranscription(
         model_id="openai/whisper-base", language="french"
@@ -25,31 +32,47 @@ def llm_page():
     col1, col2 = st.columns(2)
 
     if col1.button("🎤 Démarrer l'enregistrement"):
+
+        # Pré-requis : création du fichier où les transcriptions seront stockées
+        # créer une chaine de caractères avec YYYYMMDD_HHMM :
+        timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M")
+        # Créer le fichier texte vide avec son timestamp
+        with open(f"transcription_{timestamp}.txt", "a"):
+            pass
+
+        # on ira ensuite le remplir en utilisant la méthode start_recording() de la classe WhisperLiveTranscription
+
+
         st.session_state.recording = True
         transcriber.start_recording()
         st.info("Enregistrement en cours...")
 
     if col2.button("⏹️ Arrêter l'enregistrement"):
         if st.session_state.recording:
-            final_transcription = transcriber.stop_recording()
+
+            transcriber.stop_recording()
+
             st.session_state.recording = False
             st.success("Enregistrement terminé")
 
             # Vérifier si une transcription a été trouvée
-            if final_transcription:
-                st.session_state.transcription = final_transcription
-                st.write(f"Transcription : {final_transcription}")
-                print(f"DEBUG: Displaying transcription: {final_transcription}")
-            else:
-                st.warning("Aucune transcription trouvée")
-                print("DEBUG: No transcription found to display")
+            # if st.session_state.final_transcription:
+            #     st.session_state.transcription = st.session_state.final_transcription
+            #     st.write(f"Transcription : {st.session_state.final_transcription}")
+            #     print(
+            #         f"DEBUG: Displaying transcription: {st.session_state.final_transcription}"
+            #     )
+            # else:
+            #     st.warning("Aucune transcription trouvée")
+            #     print("DEBUG: No transcription found to display")
 
     # Affichage de la transcription
-    if st.session_state.transcription:
-        text_query = st.session_state.transcription
-        st.write(f"Transcription : {text_query}")
-    else:
-        text_query = st.text_input("Ou entrez votre question ici :")
+    # if st.session_state.transcription:
+    #     text_query = st.session_state.transcription
+    #     st.write(f"Transcription : {text_query}")
+    # else:
+    #     text_query = st.text_input("Ou entrez votre question ici :")
+
 
     # # Upload audio ou entrée texte
     # audio_file = st.file_uploader("Téléversez un fichier audio", type=["wav", "mp3"])

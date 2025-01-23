@@ -7,6 +7,8 @@ from transformers import WhisperProcessor, WhisperForConditionalGeneration
 import wave
 from datetime import datetime
 import time
+import os
+import glob
 
 
 class WhisperLiveTranscription:
@@ -120,16 +122,30 @@ class WhisperLiveTranscription:
                 timestamp = datetime.now().strftime("%H:%M:%S")
                 print(f"[{timestamp}] {transcription}")
 
+
+                # Write to text file
+                # Déterminer le fichier texte à utiliser
+                files = sorted(glob.glob("transcription*.txt"))
+                filename = files[-1]
+
+                # Write to the latest file
+                with open(filename, "a", encoding="utf-8") as f:
+                    if "..." not in transcription:
+                        f.write(f"{transcription}\n")
+
+
                 # Add transcription to the new queue
                 self.transcription_queue.put(
                     {"text": transcription, "timestamp": timestamp}
                 )
+
 
                 # if transcription.strip():
                 #     if self.debug:
                 #         print(f"Transcription chunk: {transcription}")
                 #     self.transcription += " " + transcription.strip()
                 #     print(f"DEBUG: Current full transcription: {self.transcription}")
+
 
             except queue.Empty:
                 continue
@@ -176,6 +192,11 @@ class WhisperLiveTranscription:
         # arrêt des threads
         self.is_running = False
 
+        # Get latest text file
+        files = sorted(glob.glob("transcription*.txt"))
+        filename = files[-1]
+
+        # Process remaining audio chunks
         while not self.audio_queue.empty():
             chunk = self.audio_queue.get()
             self.audio_buffer.extend(chunk)
@@ -183,6 +204,20 @@ class WhisperLiveTranscription:
         if self.audio_buffer:
             final_audio = np.array(self.audio_buffer)
             self.result_queue.put(final_audio)
+            # Process and save final transcription
+            input_features = self.processor(
+                final_audio, sampling_rate=self.RATE, return_tensors="pt"
+            ).input_features.to(self.device)
+            with torch.no_grad():
+                predicted_ids = self.model.generate(
+                    input_features, language=self.language, task="transcribe"
+                )
+            final_transcription = self.processor.batch_decode(
+                predicted_ids, skip_special_tokens=True
+            )[0]
+            with open(filename, "a", encoding="utf-8") as f:
+                if "..." not in final_transcription:
+                    f.write(f"{final_transcription}\n")
 
         if hasattr(self, "process_thread"):
             self.process_thread.join()
