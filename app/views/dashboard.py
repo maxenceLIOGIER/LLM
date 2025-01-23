@@ -8,7 +8,7 @@ def get_metrics():
         "carbon_impact": 1.23   # en gCO2
     }
 
-def app():
+def dashboard_page():
     st.title("Métriques")
     st.subheader("Suivi des performances et de l'impact")
 

@@ -27,13 +27,16 @@ class WhisperLiveTranscription:
 
         self.audio_queue = queue.Queue()
         self.result_queue = queue.Queue()
+        self.transcription_queue = (
+            queue.Queue()
+        )  # New queue for transcription retrieval
         self.is_running = False
         self.language = language
 
         self.audio_buffer = []
         self.last_process_time = time.time()
 
-        self.transcription = ""
+        # self.transcription = ""
         self.debug = True
 
     def start_recording(self):
@@ -110,18 +113,23 @@ class WhisperLiveTranscription:
                         no_repeat_ngram_size=3,
                     )
 
-                chunk_transcription = self.processor.batch_decode(
+                transcription = self.processor.batch_decode(
                     predicted_ids, skip_special_tokens=True
                 )[0]
 
-                # timestamp = datetime.now().strftime("%H:%M:%S")
-                # print(f"[{timestamp}] {transcription}")
+                timestamp = datetime.now().strftime("%H:%M:%S")
+                print(f"[{timestamp}] {transcription}")
 
-                if chunk_transcription.strip():
-                    if self.debug:
-                        print(f"Transcription chunk: {chunk_transcription}")
-                    self.transcription += " " + chunk_transcription.strip()
-                    print(f"DEBUG: Current full transcription: {self.transcription}")
+                # Add transcription to the new queue
+                self.transcription_queue.put(
+                    {"text": transcription, "timestamp": timestamp}
+                )
+
+                # if transcription.strip():
+                #     if self.debug:
+                #         print(f"Transcription chunk: {transcription}")
+                #     self.transcription += " " + transcription.strip()
+                #     print(f"DEBUG: Current full transcription: {self.transcription}")
 
             except queue.Empty:
                 continue
@@ -129,9 +137,28 @@ class WhisperLiveTranscription:
                 print(f"Error during transcription: {e}")
                 continue
 
+    def get_transcription(self, block=False, timeout=None):
+        """
+        Retrieve transcriptions from the queue.
+
+        Args:
+            block (bool): Whether to block if no transcription is available
+            timeout (float, optional): Maximum time to wait for a transcription
+
+        Returns:
+            dict or None: A dictionary with 'text' and 'timestamp' keys, or None if no transcription is available
+        """
+        try:
+            if block:
+                return self.transcription_queue.get(block=True, timeout=timeout)
+            else:
+                return self.transcription_queue.get_nowait()
+        except queue.Empty:
+            return None
+
     def stop_recording(self):
         print("\nStopping... Processing last audio segments...")
-        final_transcription = self.transcription
+        # final_transcription = self.transcription
 
         print(f"DEBUG_stop: Current full transcription: {self.transcription}")
 
@@ -183,10 +210,19 @@ class WhisperLiveTranscription:
 
 
 if __name__ == "__main__":
+    # Modèles possibles :
+    model_ids = [
+        "openai/whisper-tiny",
+        "openai/whisper-base",
+        "openai/whisper-small",
+        "openai/whisper-medium",
+        "openai/whisper-large",
+        "openai/whisper-large-v2",
+        "openai/whisper-large-v3",
+        "openai/whisper-large-v3-turbo",
+    ]
     try:
-        transcriber = WhisperLiveTranscription(
-            model_id="openai/whisper-base", language="french"
-        )
+        transcriber = WhisperLiveTranscription(model_id=model_ids[7], language="french")
         transcriber.start_recording()
 
         print("Press Ctrl+C to stop...")

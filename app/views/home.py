@@ -1,6 +1,6 @@
 import streamlit as st
 
-def app():
+def home_page():
     st.title("Présentation du Projet")
     st.markdown("""
     Bienvenue dans l'interface RAG (Retrieval-Augmented Generation).  

@@ -1,20 +1,28 @@
 import streamlit as st
-from pages import home, llm, dashboard
+from streamlit_option_menu import option_menu
+from views.home import home_page
+from views.dashboard import dashboard_page
+from views.llm import llm_page
 
-st.set_page_config(page_title="Interface RAG", layout="wide")
+APP_TITLE = "Agent conversationnel Santé [nom provisoire]"
 
-#Menu
-PAGES = {
-    "Présentation": home,
-    "Interrogation du LLM": llm,
-    "Métriques": dashboard
-}
+st.set_page_config(
+    page_title=APP_TITLE,
+    layout="wide",
+    initial_sidebar_state="expanded"
+)
 
-def main():
-    st.sidebar.title("Navigation")
-    choice = st.sidebar.radio("Choisissez une page :", list(PAGES.keys()))
-    page = PAGES[choice]
-    page.app()  #Appelle la fonction principale de la page sélectionnée
+with st.sidebar:
+    selected = option_menu(
+        menu_title='Navigation',
+        options=["Home", "Dashboard", "LLM"],
+        icons=["house", "bar-chart", "robot"],
+        default_index=0
+    )
 
-if __name__ == "__main__":
-    main()
+if selected == "Home":
+    home_page()
+elif selected == "Dashboard":
+    dashboard_page()
+elif selected == "LLM":
+    llm_page()

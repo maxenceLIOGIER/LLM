@@ -6,7 +6,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
 from src.speech_to_text import WhisperLiveTranscription
 
 
-def app():
+def llm_page():
     st.title("Requête du modèle")
     st.subheader("Interrogez le LLM via votre voix ou texte")
 
