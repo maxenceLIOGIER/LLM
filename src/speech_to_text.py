@@ -7,12 +7,11 @@ from transformers import WhisperProcessor, WhisperForConditionalGeneration
 import wave
 from datetime import datetime
 import time
-import os
 import glob
 
 
 class WhisperLiveTranscription:
-    def __init__(self, model_id="openai/whisper-large-v3", language="french"):
+    def __init__(self, model_id="openai/whisper-small", language="french"):
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
         print(f"Using device: {self.device}")
 
@@ -39,7 +38,7 @@ class WhisperLiveTranscription:
         self.last_process_time = time.time()
 
         # self.transcription = ""
-        self.debug = True
+        self.debug = False
 
     def start_recording(self):
         self.is_running = True
@@ -122,7 +121,6 @@ class WhisperLiveTranscription:
                 timestamp = datetime.now().strftime("%H:%M:%S")
                 print(f"[{timestamp}] {transcription}")
 
-
                 # Write to text file
                 # Déterminer le fichier texte à utiliser
                 files = sorted(glob.glob("transcription*.txt"))
@@ -133,19 +131,16 @@ class WhisperLiveTranscription:
                     if "..." not in transcription:
                         f.write(f"{transcription}\n")
 
-
                 # Add transcription to the new queue
                 self.transcription_queue.put(
                     {"text": transcription, "timestamp": timestamp}
                 )
-
 
                 # if transcription.strip():
                 #     if self.debug:
                 #         print(f"Transcription chunk: {transcription}")
                 #     self.transcription += " " + transcription.strip()
                 #     print(f"DEBUG: Current full transcription: {self.transcription}")
-
 
             except queue.Empty:
                 continue
@@ -174,9 +169,6 @@ class WhisperLiveTranscription:
 
     def stop_recording(self):
         print("\nStopping... Processing last audio segments...")
-        # final_transcription = self.transcription
-
-        print(f"DEBUG_stop: Current full transcription: {self.transcription}")
 
         # Arrêt du stream audio et nettoyage PyAudio
         if hasattr(self, "stream"):
@@ -231,7 +223,6 @@ class WhisperLiveTranscription:
             print("Transcription:", self.transcription)
 
         print("Recording and transcription stopped")
-        return self.transcription
 
     def save_audio(self, filename):
         if self.audio_buffer:
@@ -244,34 +235,34 @@ class WhisperLiveTranscription:
             print(f"Audio saved to {filename}")
 
 
-if __name__ == "__main__":
-    # Modèles possibles :
-    model_ids = [
-        "openai/whisper-tiny",
-        "openai/whisper-base",
-        "openai/whisper-small",
-        "openai/whisper-medium",
-        "openai/whisper-large",
-        "openai/whisper-large-v2",
-        "openai/whisper-large-v3",
-        "openai/whisper-large-v3-turbo",
-    ]
-    try:
-        transcriber = WhisperLiveTranscription(model_id=model_ids[7], language="french")
-        transcriber.start_recording()
+# if __name__ == "__main__":
+#     # Modèles possibles :
+#     model_ids = [
+#         "openai/whisper-tiny",
+#         "openai/whisper-base",
+#         "openai/whisper-small",
+#         "openai/whisper-medium",
+#         "openai/whisper-large",
+#         "openai/whisper-large-v2",
+#         "openai/whisper-large-v3",
+#         "openai/whisper-large-v3-turbo",
+#     ]
+#     try:
+#         transcriber = WhisperLiveTranscription(model_id=model_ids[7], language="french")
+#         transcriber.start_recording()
 
-        print("Press Ctrl+C to stop...")
-        while True:
-            time.sleep(0.1)
+#         print("Press Ctrl+C to stop...")
+#         while True:
+#             time.sleep(0.1)
 
-    except KeyboardInterrupt:
-        try:
-            transcriber.stop_recording()
-        except Exception as e:
-            print(f"Error stopping: {e}")
-        finally:
-            if hasattr(transcriber, "p"):
-                try:
-                    transcriber.p.terminate()
-                except:
-                    pass
+#     except KeyboardInterrupt:
+#         try:
+#             transcriber.stop_recording()
+#         except Exception as e:
+#             print(f"Error stopping: {e}")
+#         finally:
+#             if hasattr(transcriber, "p"):
+#                 try:
+#                     transcriber.p.terminate()
+#                 except:
+#                     pass

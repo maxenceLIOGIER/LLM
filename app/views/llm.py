@@ -22,37 +22,27 @@ def llm_page():
     if "transcription" not in st.session_state:
         st.session_state.transcription = ""
 
-
-    # Instance du transcripteur
-    transcriber = WhisperLiveTranscription(
-        model_id="openai/whisper-base", language="french"
-    )
-
     # Contrôles d'enregistrement
     col1, col2 = st.columns(2)
 
     if col1.button("🎤 Démarrer l'enregistrement"):
+        st.session_state.recording = True
 
-        # Pré-requis : création du fichier où les transcriptions seront stockées
-        # créer une chaine de caractères avec YYYYMMDD_HHMM :
+        # Création du fichier où les transcriptions seront stockées
+        # timestamp YYYYMMDD_HHMM :
         timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M")
         # Créer le fichier texte vide avec son timestamp
         with open(f"transcription_{timestamp}.txt", "a"):
             pass
+            # on ira ensuite le remplir via speech_to_text.py
 
-        # on ira ensuite le remplir en utilisant la méthode start_recording() de la classe WhisperLiveTranscription
-
-
-        st.session_state.recording = True
         transcriber.start_recording()
         st.info("Enregistrement en cours...")
 
     if col2.button("⏹️ Arrêter l'enregistrement"):
         if st.session_state.recording:
-
-            transcriber.stop_recording()
-
             st.session_state.recording = False
+            transcriber.stop_recording()
             st.success("Enregistrement terminé")
 
             # Vérifier si une transcription a été trouvée
@@ -72,7 +62,6 @@ def llm_page():
     #     st.write(f"Transcription : {text_query}")
     # else:
     #     text_query = st.text_input("Ou entrez votre question ici :")
-
 
     # # Upload audio ou entrée texte
     # audio_file = st.file_uploader("Téléversez un fichier audio", type=["wav", "mp3"])
