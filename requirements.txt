@@ -39,6 +39,11 @@ joblib==1.4.2
 jupyter_client
 jupyter_core
 kiwisolver==1.4.7
+langchain
+langchain-community
+langchain_core
+langchain_huggingface
+# langchain_openai # passe par une api payante
 lazy_loader==0.4
 librosa==0.10.2.post1
 llvmlite==0.43.0
@@ -70,6 +75,7 @@ pycparser==2.22
 Pygments
 pyparsing==3.2.1
 python-dateutil
+python-dotenv
 pytz==2024.2
 pywin32==308
 PyYAML==6.0.2

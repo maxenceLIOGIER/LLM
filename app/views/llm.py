@@ -2,6 +2,7 @@ import streamlit as st
 import os
 import sys
 import datetime
+import glob
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
 from src.speech_to_text import WhisperLiveTranscription
@@ -10,6 +11,7 @@ from src.speech_to_text import WhisperLiveTranscription
 transcriber = WhisperLiveTranscription(
     model_id="openai/whisper-small", language="french"
 )
+# Ne marche pas très bien pour les transcriptions à la volée
 
 
 def llm_page():
@@ -21,6 +23,10 @@ def llm_page():
         st.session_state.recording = False
     if "transcription" not in st.session_state:
         st.session_state.transcription = ""
+    if "text_query" not in st.session_state:
+        st.session_state.text_query = ""
+    if "file" not in st.session_state:
+        st.session_state.file = ""
 
     # Contrôles d'enregistrement
     col1, col2 = st.columns(2)
@@ -32,7 +38,8 @@ def llm_page():
         # timestamp YYYYMMDD_HHMM :
         timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M")
         # Créer le fichier texte vide avec son timestamp
-        with open(f"transcription_{timestamp}.txt", "a"):
+        st.session_state.file = f"transcription_{timestamp}.txt"
+        with open(st.session_state.file, "a"):
             pass
             # on ira ensuite le remplir via speech_to_text.py
 
@@ -45,38 +52,22 @@ def llm_page():
             transcriber.stop_recording()
             st.success("Enregistrement terminé")
 
-            # Vérifier si une transcription a été trouvée
-            # if st.session_state.final_transcription:
-            #     st.session_state.transcription = st.session_state.final_transcription
-            #     st.write(f"Transcription : {st.session_state.final_transcription}")
-            #     print(
-            #         f"DEBUG: Displaying transcription: {st.session_state.final_transcription}"
-            #     )
-            # else:
-            #     st.warning("Aucune transcription trouvée")
-            #     print("DEBUG: No transcription found to display")
+        # Affichage de la transcription
+        with open(st.session_state.file, "r", encoding="utf-8") as f:
+            transcription = f.read()
+        st.session_state.transcription = transcription
 
-    # Affichage de la transcription
-    # if st.session_state.transcription:
-    #     text_query = st.session_state.transcription
-    #     st.write(f"Transcription : {text_query}")
-    # else:
-    #     text_query = st.text_input("Ou entrez votre question ici :")
-
-    # # Upload audio ou entrée texte
-    # audio_file = st.file_uploader("Téléversez un fichier audio", type=["wav", "mp3"])
-    # if audio_file:
-    #     text_query = WhisperLiveTranscription._transcribe_audio(
-    #         audio_file
-    #     )  # Intercaler ici le modèle speech to text
-    #     st.write(f"Transcription : {text_query}")
-    # else:
-    #     text_query = st.text_input("Ou entrez votre question ici :")
+        if st.session_state.transcription:
+            st.session_state.text_query = st.session_state.transcription
+            st.text_area("Transcription :", st.session_state.text_query, height=200)
+        else:
+            st.warning("Aucune transcription trouvée")
+            st.session_state.text_query = st.text_input(
+                "Ou entrez votre question ici :"
+            )
 
     # Résultat du LLM
     if st.button("Soumettre"):
-        # Appeler votre LLM ici
-        response = (
-            f"Réponse simulée pour : {text_query}"  # Remplacer par un appel au LLM
-        )
+        # Appeler votre LLM ici (à remplacer par un réel appel)
+        response = f"Réponse simulée pour : {st.session_state.text_query}"
         st.write("Réponse du LLM :", response)
