@@ -1,11 +1,17 @@
-import streamlit as st
 import os
 import sys
 import datetime
-import glob
+import streamlit as st
+from dotenv import load_dotenv
+from langchain_huggingface import HuggingFaceEndpoint
+from langchain_core.prompts import PromptTemplate
+
+from src.speech_to_text import WhisperLiveTranscription
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
-from src.speech_to_text import WhisperLiveTranscription
+
+load_dotenv()
+HF_API_KEY = os.getenv("HF_API_KEY")
 
 # Instanciation du transcripteur
 transcriber = WhisperLiveTranscription(
@@ -15,6 +21,15 @@ transcriber = WhisperLiveTranscription(
 
 
 def llm_page():
+    """
+    Page de requête du LLM en passant par un speech-to-text.
+    Pour l'instant le LLM est appelé à la fin de l'enregistrement.
+    A terme, il faudra appeler le LLM pendant l'enregistrement pour une discussion en temps réel.
+    (toutes les x secondes ou tous les x caractères)
+
+    ATTENTION !! dans la transcription, la dernière phrase est répétée 3 fois ce qui fausse le modèle.
+    """
+
     st.title("Requête du modèle")
     st.subheader("Interrogez le LLM via votre voix ou texte")
 
@@ -59,15 +74,28 @@ def llm_page():
 
         if st.session_state.transcription:
             st.session_state.text_query = st.session_state.transcription
-            st.text_area("Transcription :", st.session_state.text_query, height=200)
+            # st.text_area("Transcription :", st.session_state.text_query, height=200)
         else:
             st.warning("Aucune transcription trouvée")
-            st.session_state.text_query = st.text_input(
-                "Ou entrez votre question ici :"
-            )
 
     # Résultat du LLM
     if st.button("Soumettre"):
-        # Appeler votre LLM ici (à remplacer par un réel appel)
-        response = f"Réponse simulée pour : {st.session_state.text_query}"
-        st.write("Réponse du LLM :", response)
+
+        # template = "You are an artificial intelligence assistant, answer the question. {question}"
+        template = "Un LLM conçu pour assister les agents des urgences en analysant leurs appels. \
+            Ton : empathique, calme, direct, professionnel. \
+            Objectif : extraire les informations critiques. (diagnostic, localisation, état des personnes, danger)\
+            Toujours rester précis et rapide. \
+            Voici la discussion : {text_query}"
+
+        prompt = PromptTemplate(template=template, input_variables=["text_query"])
+
+        llm = HuggingFaceEndpoint(
+            repo_id="tiiuae/falcon-7b-instruct", huggingfacehub_api_token=HF_API_KEY
+        )
+        llm_chain = prompt | llm
+
+        st.write(
+            "Réponse du LLM :",
+            llm_chain.invoke({"text_query": st.session_state.text_query}),
+        )
