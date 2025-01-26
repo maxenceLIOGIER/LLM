@@ -8,6 +8,9 @@ import sendgrid
 from sendgrid.helpers.mail import Mail, Email, To, Content
 from dotenv import load_dotenv
 import numpy as np
+from sqlalchemy import create_engine
+from sqlalchemy.orm import sessionmaker
+from database.models import Base, Origin, Status, Prompt, Log 
 
 #chargement des variables d'environnements
 load_dotenv()
@@ -16,6 +19,12 @@ MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
 SENDGRID_API_KEY = os.getenv("SENDGRID_API_KEY")
 FROM_EMAIL = os.getenv("FROM_EMAIL")
 RECIPIENT_EMAIL = os.getenv("RECIPIENT_EMAIL")
+
+# Configuration de la base de données
+DATABASE_URL = "sqlite:///db_logs.db"
+engine = create_engine(DATABASE_URL, echo=True)
+SessionLocal = sessionmaker(bind=engine)
+Base.metadata.create_all(bind=engine)
 
 class SecurityCheck:
     def __init__(self, db_path, sendgrid_api_key = SENDGRID_API_KEY, from_email = FROM_EMAIL, recipient_email = RECIPIENT_EMAIL):
@@ -31,20 +40,42 @@ class SecurityCheck:
         '''
         Journalise les événements dans la BDD
         '''
-        #Connexion à la BDD
-        conn = sqlite3.connect(self.DB_PATH)
-        cursor = conn.cursor()
+        try:
+            # Ajouter à la table Origin
+            new_origin = Origin(response=origin)
+            self.session.add(new_origin)
+            self.session.commit()
 
-        #Insertion de l'événement
-        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        cursor.execute("""
-        INSERT INTO log (timestamp, prompt, status, origin)
-        VALUES (?,?,?,?)
-        """, (timestamp, prompt, status, origin))
+            # Ajouter à la table Status
+            new_status = Status(status=status)
+            self.session.add(new_status)
+            self.session.commit()
 
-        #Sauvegarde
-        conn.commit()
-        conn.close()
+            # Ajouter à la table Prompt
+            new_prompt = Prompt(
+                id_origin=new_origin.id_origin,
+                prompt=prompt,
+                response="Réponse générée automatiquement"
+            )
+            self.session.add(new_prompt)
+            self.session.commit()
+
+            # Ajouter à la table Log
+            new_log = Log(
+                timestamp=datetime.utcnow(),
+                id_prompt=new_prompt.id_prompt,
+                id_status=new_status.id_status,
+                id_origin=new_origin.id_origin
+            )
+            self.session.add(new_log)
+            self.session.commit()
+
+            print(f"Événement journalisé : {prompt} - {status}")
+            
+        except Exception as e:
+            self.session.rollback()
+            print(f"Erreur lors de l'insertion dans la base : {e}")
+    
 
     def _send_email(self, subject : str, body : str):
         '''
