@@ -163,7 +163,7 @@ class SecurityCheck:
             max_similarity = max(similarities[0])
 
             #Vérification par rapport au seuil
-            return max_similarity
+            return max_similarity >= threshold
 
         except Exception as e:
             print(f"Erreur lors de la vérification du prompt : {e}")
