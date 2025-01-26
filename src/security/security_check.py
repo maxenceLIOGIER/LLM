@@ -7,9 +7,11 @@ import os
 import sendgrid
 from sendgrid.helpers.mail import Mail, Email, To, Content
 from dotenv import load_dotenv
+import numpy as np
 
 #chargement des variables d'environnements
 load_dotenv()
+HF_TOKEN = os.getenv("HF_API_KEY")
 MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
 SENDGRID_API_KEY = os.getenv("SENDGRID_API_KEY")
 FROM_EMAIL = os.getenv("FROM_EMAIL")
@@ -128,9 +130,6 @@ class SecurityCheck:
         return normalized_input
 
     def prompt_check(self, prompt, docs_embeddings, mistral_api_key = MISTRAL_API_KEY, threshold=0.6) -> bool:
-        ########################
-        ########A TESTER########
-        ########################
         """
         Vérifie si une requête utilisateur est pertinente.
         Si hors contexte, il la bloque.
@@ -146,15 +145,25 @@ class SecurityCheck:
         """
         #Embedding du prompt
         try:
-            mistral_embeddings = MistralEmbeddings(model="mistral-embed", api_key=mistral_api_key)
+            mistral_embeddings = MistralAIEmbeddings(model="mistral-embed", api_key=mistral_api_key)
             prompt_embedding = mistral_embeddings.embed_query(prompt)
 
+            prompt_embedding = np.array(prompt_embedding).reshape(1, -1)
+            # Conversion des docs_embeddings en numpy array (matrice 2D)
+            docs_embeddings = np.array(docs_embeddings)
+
+            # Vérification de la cohérence des dimensions
+            if prompt_embedding.shape[1] != docs_embeddings.shape[1]:
+                raise ValueError(f"Incompatible dimensions: prompt_embedding has {prompt_embedding.shape[1]} dimensions "
+                                f"while docs_embeddings has {docs_embeddings.shape[1]} dimensions.")
+
+
             #Calcul de la similarité cosine
-            similarities = cosine_similarity([prompt_embedding], docs_embeddings)
+            similarities = cosine_similarity(prompt_embedding, docs_embeddings)
             max_similarity = max(similarities[0])
 
             #Vérification par rapport au seuil
-            return max_similarity >= threshold
+            return max_similarity
 
         except Exception as e:
             print(f"Erreur lors de la vérification du prompt : {e}")
