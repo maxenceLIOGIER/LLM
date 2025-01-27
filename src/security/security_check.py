@@ -27,7 +27,7 @@ FROM_EMAIL = os.getenv("FROM_EMAIL")
 RECIPIENT_EMAIL = os.getenv("RECIPIENT_EMAIL")
 
 # Configuration de la base de données
-DATABASE_URL = "sqlite:///db_logs.db"
+DATABASE_URL = "sqlite:///../../database/db_logs.db"
 engine = create_engine(DATABASE_URL, echo=True)
 SessionLocal = sessionmaker(bind=engine)
 Base.metadata.create_all(bind=engine)
