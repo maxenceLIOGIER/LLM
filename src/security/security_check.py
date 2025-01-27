@@ -10,7 +10,13 @@ from dotenv import load_dotenv
 import numpy as np
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
+import sys
+
+#racine du projet au PYTHONPATH
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../')))
+
 from database.models import Base, Origin, Status, Prompt, Log 
+
 
 #chargement des variables d'environnements
 load_dotenv()
@@ -32,10 +38,11 @@ class SecurityCheck:
         self.sendgrid_api_key = sendgrid_api_key
         self.from_email = from_email
         self.recipient_email = recipient_email
+        self.session = SessionLocal()
 
     def log_event_db(self, prompt : str, status : str, origin : str):
         ########################
-        ########A TESTER########
+        ########A TESTER########  CREER UNE NOUVELLE BASE DE DONNEES, A CORRIGER
         ########################
         '''
         Journalise les événements dans la BDD
@@ -76,6 +83,8 @@ class SecurityCheck:
             self.session.rollback()
             print(f"Erreur lors de l'insertion dans la base : {e}")
     
+    def close_session(self):
+        self.session.close()
 
     def _send_email(self, subject : str, body : str):
         '''

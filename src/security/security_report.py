@@ -34,7 +34,20 @@ class SecurityReport:
 
         #Connection à la BDD et requete
         conn = sqlite3.connect(self.DB_PATH)
-        query = """SELECT * FROM log WHERE timestamp BETWEEN ? AND ?"""
+        query = """
+            SELECT 
+                log.id_log,
+                log.timestamp,
+                prompt.prompt AS prompt_text,
+                prompt.response AS prompt_response,
+                status.status AS status_text,
+                origin.response AS origin_response
+            FROM log
+            LEFT JOIN prompt ON log.id_prompt = prompt.id_prompt
+            LEFT JOIN status ON log.id_status = status.id_status
+            LEFT JOIN origin ON log.id_origin = origin.id_origin
+            WHERE log.timestamp BETWEEN ? AND ?
+        """
 
         #Logs récupérés au format DataFrame 
         df = pd.read_sql_query(query, conn, params = (start_of_day, end_of_day))
