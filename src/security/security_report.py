@@ -16,8 +16,11 @@ SENDGRID_API_KEY = os.getenv("SENDGRID_API_KEY")
 FROM_EMAIL = os.getenv("FROM_EMAIL")
 RECIPIENT_EMAIL = os.getenv("RECIPIENT_EMAIL")
 
+#Chemin vers la DB
+db_path = "../../database/db_logs.db"
+
 class SecurityReport:
-    def __init__(self, db_path, sendgrid_api_key = SENDGRID_API_KEY, from_email = FROM_EMAIL, recipient_email = RECIPIENT_EMAIL):
+    def __init__(self, db_path = db_path, sendgrid_api_key = SENDGRID_API_KEY, from_email = FROM_EMAIL, recipient_email = RECIPIENT_EMAIL):
         self.DB_PATH = db_path
         self.sendgrid_api_key = sendgrid_api_key
         self.from_email = from_email
