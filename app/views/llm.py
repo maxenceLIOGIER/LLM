@@ -7,6 +7,8 @@ from dotenv import load_dotenv
 from langchain_huggingface import HuggingFaceEndpoint
 from langchain_core.prompts import PromptTemplate
 from langchain.memory import ChatMessageHistory
+from langchain_core.messages import AIMessage
+
 
 # Ajout du chemin du répertoire parent pour importer les modules
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
@@ -106,7 +108,14 @@ def llm_page():
                 response = llm_chain.invoke(st.session_state.history.messages)
                 st.session_state.history.add_ai_message(response)
 
-                llm_container.write(st.session_state.history)
+                # Filtrer les messages pour ne garder que ceux de l'IA
+                ai_messages = [
+                    message for message in st.session_state.history.messages
+                    if isinstance(message, AIMessage)
+                ]
+                llm_container.write(ai_messages)
+
+                # llm_container.write(st.session_state.history)
             else:
                 # on recommence la boucle et on attend 5 secondes
                 continue
@@ -119,32 +128,3 @@ def llm_page():
 
             # Affichage de l'historique
             llm_container.write(st.session_state.history)
-
-        # # Affichage de la transcription
-        # with open(st.session_state.file, "r", encoding="utf-8") as f:
-        #     transcription = f.read()
-        # st.session_state.transcription = transcription
-
-        # if st.session_state.transcription:
-        #     st.session_state.text_query = st.session_state.transcription
-        #     # st.text_area("Transcription :", st.session_state.text_query, height=200)
-        # else:
-        #     st.warning("Aucune transcription trouvée")
-
-    # # Résultat du LLM
-    # if st.button("Soumettre"):
-    #     # Appel du LLM
-    #     st.session_state.history = call_llm(
-    #         st.session_state.text_query, st.session_state.history
-    #     )
-
-    #     # Affichage de l'historique complet avant l'entrée de l'utilisateur
-    #     st.write(st.session_state.history)
-
-    #     # Ask for new user message
-    #     user_message = st.text_input("Votre réponse :", "")
-    #     if user_message:
-    #         st.session_state.history.add_user_message(user_message)
-    #         st.session_state.history = call_llm(user_message, st.session_state.history)
-    #         st.write(st.session_state.history)
-    #         # ne marche pas, après avoir appuyé sur Entrer la page devient blanche
