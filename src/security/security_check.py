@@ -11,6 +11,8 @@ import numpy as np
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 import sys
+from rapidfuzz import fuzz
+import requests
 
 #racine du projet au PYTHONPATH
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../')))
@@ -41,24 +43,21 @@ class SecurityCheck:
         self.session = SessionLocal()
 
     def log_event_db(self, prompt : str, status : str, origin : str):
-        ########################
-        ########A TESTER########  CREER UNE NOUVELLE BASE DE DONNEES, A CORRIGER
-        ########################
         '''
         Journalise les événements dans la BDD
         '''
         try:
-            # Ajouter à la table Origin
+            #Ajouter à la table Origin
             new_origin = Origin(response=origin)
             self.session.add(new_origin)
             self.session.commit()
 
-            # Ajouter à la table Status
+            #Ajouter à la table Status
             new_status = Status(status=status)
             self.session.add(new_status)
             self.session.commit()
 
-            # Ajouter à la table Prompt
+            #Ajouter à la table Prompt
             new_prompt = Prompt(
                 id_origin=new_origin.id_origin,
                 prompt=prompt,
@@ -67,7 +66,7 @@ class SecurityCheck:
             self.session.add(new_prompt)
             self.session.commit()
 
-            # Ajouter à la table Log
+            #Ajouter à la table Log
             new_log = Log(
                 timestamp=datetime.utcnow(),
                 id_prompt=new_prompt.id_prompt,
@@ -84,6 +83,9 @@ class SecurityCheck:
             print(f"Erreur lors de l'insertion dans la base : {e}")
     
     def close_session(self):
+        '''
+        Ferme la session BDD
+        '''
         self.session.close()
 
     def _send_email(self, subject : str, body : str):
@@ -102,16 +104,26 @@ class SecurityCheck:
         except Exception as e:
             print(f"Erreur : eamil non-envoyé: {e}")
 
-    def filter_and_normalize_input(self, prompt: str) -> str:
+    def _get_ip_address(self):
+        """
+        Récupère l'adresse IP publique de l'utilisateur via l'API ipify.
+        """
+        try:
+            response = requests.get("https://api.ipify.org?format=json")
+            response.raise_for_status()
+            ip_address = response.json().get("ip")
+            return ip_address
+        except requests.exceptions.RequestException as e:
+            print(f"Erreur lors de la récupération de l'IP : {e}")
+            return None
+
+    def filter_and_normalize_input(self, prompt: str, seuil_fuzzy = 80) -> str:
         ########################
         ########A TESTER########
         ########################
         """
         Filtre et normalise les entrées utilisateur.
         Vérifie la présence de caractères interdits et de mots interdits.
-
-        Args : 
-            - prompt : 
         """
         #Liste de caractères interdits
         forbidden_chars = set("{}[]<>|;$&%\n\r\t\\\"\'\u200b\u202e")
@@ -135,27 +147,33 @@ class SecurityCheck:
             self.log_event_db(
                 prompt=prompt,
                 status="Rejeté : caractères interdits",
-                origin="filter_and_normalize_input"
+                origin=self._get_ip_address()
             )
             self._send_email(
                 subject="Rejet de prompt : caractères interdits",
-                body=f"Le prompt suivant a été rejeté en raison de caractères interdits : {prompt}"
+                body=f"Le prompt suivant a été rejeté en raison de caractères interdits : \n\n"
+                        f"{prompt}\n\n"
+                        f"L'adresse IP est la suivante : {self._get_ip_address()}"
             )
             raise ValueError("Entrée invalide : contient des caractères interdits.")
 
         #Vérifie la présence de mots interdits, enregistre un log et envoie un email 
-        for forbidden_word in forbidden_words:
-            if forbidden_word.lower() in prompt.lower():
-                self.log_event_db(
-                    prompt=prompt,
-                    status="Rejeté : mots interdits",
-                    origin="filter_and_normalize_input"
-                )
-                self._send_email(
-                    subject="Rejet de prompt : mots interdits",
-                    body=f"Le prompt suivant a été rejeté en raison de mots interdits : {prompt}"
-                )
-                raise ValueError(f"Entrée invalide : contient un mot interdit '{forbidden_word}'.")
+        prompt_words = prompt.split()
+        for p_word in prompt_words : 
+            for f_word in forbidden_words : 
+                if fuzz.ratio(p_word.lower(), f_word.lower()) >= seuil_fuzzy:
+                    self.log_event_db(
+                        prompt=prompt,
+                        status="Rejeté : mots interdits",
+                        origin=self._get_ip_address()
+                    )
+                    self._send_email(
+                        subject="Rejet de prompt : mots interdits",
+                        body=f"Le prompt suivant a été rejeté en raison de mots interdits : \n\n"
+                        f"{prompt}\n\n"
+                        f"L'adresse IP est la suivante : {self._get_ip_address()}"
+                    )
+                    raise ValueError("Entrée invalide : contient des mots interdits.")
 
         #Suppression des espaces inutiles et mise en minuscule et enregistre un log
         normalized_input = prompt.strip().lower()
@@ -164,7 +182,7 @@ class SecurityCheck:
         self.log_event_db(
             prompt=prompt,
             status="Accepté",
-            origin="filter_and_normalize_input"
+            origin=self._get_ip_address()
         )
 
         return normalized_input
@@ -189,10 +207,11 @@ class SecurityCheck:
             prompt_embedding = mistral_embeddings.embed_query(prompt)
 
             prompt_embedding = np.array(prompt_embedding).reshape(1, -1)
-            # Conversion des docs_embeddings en numpy array (matrice 2D)
+
+            #Conversion des docs_embeddings en numpy array (matrice 2D)
             docs_embeddings = np.array(docs_embeddings)
 
-            # Vérification de la cohérence des dimensions
+            #Vérification de la cohérence des dimensions
             if prompt_embedding.shape[1] != docs_embeddings.shape[1]:
                 raise ValueError(f"Incompatible dimensions: prompt_embedding has {prompt_embedding.shape[1]} dimensions "
                                 f"while docs_embeddings has {docs_embeddings.shape[1]} dimensions.")
