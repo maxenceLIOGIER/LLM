@@ -1,9 +1,12 @@
 import sqlite3
 from datetime import datetime, timedelta
 import pandas as pd
-from sklearn.neighbors import NearestNeighbors
-from sklearn.preprocessing import StandardScaler
-from sklearn.decomposition import PCA
+from sklearn.cluster import KMeans
+from sklearn.pipeline import Pipeline
+from sklearn.compose import ColumnTransformer
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.preprocessing import StandardScaler, LabelEncoder, FunctionTransformer
+from sklearn.metrics import silhouette_score
 import matplotlib.pyplot as plt
 import sendgrid
 from sendgrid.helpers.mail import Mail, Email, To, Content
@@ -39,12 +42,11 @@ class SecurityReport:
         conn = sqlite3.connect(self.DB_PATH)
         query = """
             SELECT 
-                log.id_log,
-                log.timestamp,
-                prompt.prompt AS prompt_text,
-                prompt.response AS prompt_response,
-                status.status AS status_text,
-                origin.response AS origin_response
+                log.timestamp AS timestamp,
+                prompt.prompt AS prompt,
+                prompt.response AS response,
+                status.status AS status,
+                origin.response AS origin
             FROM log
             LEFT JOIN prompt ON log.id_prompt = prompt.id_prompt
             LEFT JOIN status ON log.id_status = status.id_status
@@ -57,15 +59,140 @@ class SecurityReport:
         conn.close()
         return df
 
+    def _create_pipeline(self):
+        '''
+        Crée un pipeline pour préparer les données au Machine Learning
+        '''
+        #Pipeline pour les données textuelles 
+        text_pipeline = Pipeline([
+            ('tfidf', TfidfVectorizer(max_features=50))
+        ])
+
+        #Pipeline pour les données catgéorielles 
+        cat_pipeline = Pipeline([
+            ('label_encoder', FunctionTransformer(lambda x: LabelEncoder().fit_transform(x.to_numpy()).reshape(-1, 1)))
+        ])
+
+        #Combinaison des méthodes 
+        preprocessor = ColumnTransformer(
+            transformers=[
+                ('timestamp', text_pipeline, 'timestamp'),
+                ('prompt', text_pipeline, 'prompt'),
+                ('response', text_pipeline, 'response'),
+                ('status', cat_pipeline, 'status'),
+                ('origin', text_pipeline, 'origin')
+            ],
+            remainder = 'drop'
+        )
+
+        #Pipeline principale
+        pipeline = Pipeline([
+            ('preprocessor', preprocessor),
+            ('scaler', StandardScaler(with_mean=False))
+        ])
+
+        return pipeline
+
+    def clustering_log(self, max_clusters=10):
+        '''
+        Réalise un clustering sur les logs journaliers et retourne le meilleur nombre de clusters
+        '''
+        #Initalisation
+        best_score = -1
+        best_n_clusters = 2
+
+        #Récupère les logs journaliers 
+        logs = self.query_daily_logs()
+
+        #Prétraitement
+        preprocessor = self._create_pipeline()
+        logs = preprocessor.fit_transform(logs)
+
+        for n_clusters in range(2, max_clusters+1):
+            self.model = KMeans(n_clusters = n_clusters, random_state=0)
+            self.model.fit(logs)
+            score = silhouette_score(logs, self.model.labels_)
+            print(f"Nombre de clusters : {n_clusters}, Sillhouette Score : {score:.4f}")
+
+            if score > best_score:
+                best_score = score
+                best_n_clusters = n_clusters
+        
+        print(f"\nMeilleur nombre de clusters : {best_n_clusters}, Silhouette Score : {best_score:.4f}")
+        return best_n_clusters
+
     def generate_report(self, logs):
         '''
-        Génère un rapport sur les logs journaliers
+        Génère un rapport HTML sur les logs journaliers
         '''
-        report = f"Rapport de sécurité journalier pour la date du {datetime.now().date()}\n"
-        report += f"Nombre total de logs : {len(logs)}\n"
-        report += f"Répartition des status : \n{logs['status'].values_counts()}\n"
+        date_str = datetime.now().strftime("%d/%m/%Y")
+        total_logs = len(logs)
+        status_counts = logs['status'].value_counts().to_dict()
+        n_clusters = self.clustering_log()
 
-        return report 
+        #Création d'une liste des statuts sous forme de texte
+        status_html = "".join(
+            f"<li><strong>{status}:</strong> {count}</li>" for status, count in status_counts.items()
+        )
+
+        #Construction du rapport en HTML
+        report = f"""
+        <html>
+        <head>
+            <style>
+                body {{
+                    font-family: Arial, sans-serif;
+                    color: #333;
+                    line-height: 1.6;
+                }}
+                .container {{
+                    max-width: 600px;
+                    margin: 20px auto;
+                    padding: 20px;
+                    border: 1px solid #ddd;
+                    border-radius: 8px;
+                    background-color: #f9f9f9;
+                }}
+                h2 {{
+                    background-color: #007BFF;
+                    color: white;
+                    padding: 10px;
+                    border-radius: 5px;
+                    text-align: center;
+                }}
+                ul {{
+                    list-style-type: none;
+                    padding: 0;
+                }}
+                li {{
+                    padding: 5px 0;
+                }}
+                .footer {{
+                    margin-top: 20px;
+                    font-size: 12px;
+                    text-align: center;
+                    color: #777;
+                }}
+            </style>
+        </head>
+        <body>
+            <div class="container">
+                <h2>📋 Rapport de Sécurité - {date_str}</h2>
+                <p><u><strong>Nombre total de logs :</strong></u> {total_logs}</p>
+                <p><u><strong>Répartition des statuts :</strong></u></p>
+                <ul>
+                    {status_html}
+                </ul>
+                <p><u><strong>🔍 Nombre de comportements différents détectés :</strong></u> {n_clusters}</p>
+                <div class="footer">
+                    Rapport généré automatiquement par le système de surveillance. 🛡️
+                </div>
+            </div>
+        </body>
+        </html>
+        """
+        
+        return report
 
     def send_email(self, subject, body):
         '''
@@ -74,7 +201,7 @@ class SecurityReport:
         sg = sendgrid.SendGridAPIClient(api_key=self.sendgrid_api_key)
         from_email = Email(self.from_email)
         to_email = To(self.recipient_email)
-        content = Content("text/plain", body)
+        content = Content("text/html", body)
         mail = Mail(from_email, to_email, subject, content)
 
         try:

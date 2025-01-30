@@ -118,9 +118,6 @@ class SecurityCheck:
             return None
 
     def filter_and_normalize_input(self, prompt: str, seuil_fuzzy = 80) -> str:
-        ########################
-        ########A TESTER########
-        ########################
         """
         Filtre et normalise les entrées utilisateur.
         Vérifie la présence de caractères interdits et de mots interdits.
