@@ -51,8 +51,8 @@ def llm_page():
         st.session_state.text_query = ""
     if "file" not in st.session_state:
         st.session_state.file = ""
-    if "history" not in st.session_state:
-        st.session_state.history = ChatMessageHistory()
+    if "final_history" not in st.session_state:
+        st.session_state.final_history = ""
 
     # Contrôles d'enregistrement
     col1, col2 = st.columns(2)
@@ -60,7 +60,9 @@ def llm_page():
     llm_container = st.empty()
 
     if col1.button("🎤 Démarrer l'enregistrement"):
+        # Initialisation de l'enregistrement
         st.session_state.recording = True
+        st.session_state.history = ChatMessageHistory()
 
         # Création du fichier où les transcriptions seront stockées
         # timestamp YYYYMMDD_HHMM :
@@ -75,10 +77,11 @@ def llm_page():
         st.info("Enregistrement en cours...")
 
         template = "Un LLM conçu pour assister les agents des urgences en analysant leurs appels. \
-            Ton : empathique, calme, direct, professionnel. \
+            Il doit être empathique, calme, direct, professionnel. \
             Objectif : extraire les informations critiques (diagnostic, localisation, état des personnes, danger). \
             Le LLM ne doit répondre qu'à la dernière déclaration ou question de l'opérateur, sans inventer de contexte. \
             Les réponses doivent être très courtes (maximum une ligne), claires et fournir uniquement des instructions ou des questions simples. \
+            Les réponses doivent être en français. \
             Important : Le LLM n'a accès qu'à la voix de l'opérateur et ne doit pas générer de contenu supplémentaire ni imaginer des éléments de la conversation. \
             Voici la dernière déclaration ou question de l'opérateur : {text_query}"
         prompt = PromptTemplate(template=template, input_variables=["text_query"])
@@ -110,12 +113,13 @@ def llm_page():
 
                 # Filtrer les messages pour ne garder que ceux de l'IA
                 ai_messages = [
-                    message for message in st.session_state.history.messages
+                    message
+                    for message in st.session_state.history.messages
                     if isinstance(message, AIMessage)
                 ]
                 llm_container.write(ai_messages)
+                st.session_state.final_history = st.session_state.ai_messages
 
-                # llm_container.write(st.session_state.history)
             else:
                 # on recommence la boucle et on attend 5 secondes
                 continue
@@ -127,4 +131,4 @@ def llm_page():
             st.success("Enregistrement terminé")
 
             # Affichage de l'historique
-            llm_container.write(st.session_state.history)
+            llm_container.write(st.session_state.final_history)

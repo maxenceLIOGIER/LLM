@@ -43,6 +43,7 @@ langchain
 langchain-community
 langchain_core
 langchain_huggingface
+langchain_mistralai
 # langchain_openai # passe par une api payante
 lazy_loader==0.4
 librosa==0.10.2.post1
@@ -87,6 +88,7 @@ safetensors==0.5.2
 scikit-learn==1.6.1
 scipy==1.13.1
 seaborn==0.13.2
+sendgrid
 six
 soundfile==0.13.0
 soxr==0.5.0.post1
