@@ -16,7 +16,7 @@ APP_TITLE = "SmartRescue"
 
 def add_logo():
     # Lecture du fichier image local
-    with open("../assets/logo.png", "rb") as f:
+    with open("assets/logo.png", "rb") as f:
         logo_data = base64.b64encode(f.read()).decode()
 
     st.markdown(
