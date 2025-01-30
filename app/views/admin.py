@@ -5,44 +5,45 @@ from pathlib import Path
 
 db_path = Path(__file__).parent.parent.parent / "database" / "db_logs.db"
 
+query = """
+SELECT
+    log.id_log,
+    log.timestamp,
+    prompt.prompt,
+    prompt.response,
+    status.status,
+    origin.response AS origin
+FROM log
+LEFT JOIN prompt ON log.id_prompt = prompt.id_prompt
+LEFT JOIN status ON log.id_status = status.id_status
+LEFT JOIN origin ON log.id_origin = origin.id_origin
+ORDER BY log.timestamp DESC
+"""
+
 
 def adm_page():
+    """
+    La page Admin permet de visualiser les données stockées dans la base de données,
+    sous forme compacte grâce à la requête "query" définie ci-dessus.
+    """
 
     # Titre de la page
     st.title("Admin")
 
     # Connexion à la base de données
     with sqlite3.connect(db_path) as conn:
-        # Récupération des tables et des colonnes
-        tables = pd.read_sql_query(
-            "SELECT name FROM sqlite_master WHERE type='table'", conn
-        )
-        table_cols = {}
-        for t in tables["name"]:
-            cols = pd.read_sql_query(f"PRAGMA table_info({t})", conn)["name"].tolist()
-            table_cols[t] = cols
+        # Récupération des enregistrements
+        data = pd.read_sql_query(query, conn)
+        cols = {"id_logs", "timestamp", "prompt", "response", "status", "origin"}
 
-    # Sélection de la table
-    options = list(table_cols.keys())
-    # Par défaut, on affiche la table "log"
-    default_table = "log"
-    default_index = options.index(default_table) if default_table in options else 0
-    selected_table = st.selectbox(
-        "Sélectionnez une table", options, index=default_index
-    )
-
-    # Récupération des données de la table sélectionnée
-    with sqlite3.connect(db_path) as conn:
-        total_data = pd.read_sql_query(f"SELECT * FROM {selected_table}", conn)
-
-    if total_data.empty:
-        total_data = pd.DataFrame(columns=table_cols[selected_table])
+    if data.empty:
+        data = pd.DataFrame(columns=cols)
 
     # Filtrage des données
     st.sidebar.header("Filtres")
     items_per_page = st.sidebar.selectbox("Éléments par page", [10, 20, 50, 100], 0)
 
-    total_items = len(total_data)
+    total_items = len(data)
     total_pages = max(1, (total_items - 1) // items_per_page + 1)
 
     if "current_page" not in st.session_state:
@@ -55,8 +56,9 @@ def adm_page():
         total_pages,
         st.session_state.current_page,
         1,
-        key="current_page",
     )
+
+    st.session_state.current_page = current_page
 
     # Pagination
     start_idx = (current_page - 1) * items_per_page
@@ -65,5 +67,5 @@ def adm_page():
 
     # Affichage du tableau
     st.dataframe(
-        total_data.iloc[start_idx:end_idx], use_container_width=True, hide_index=True
+        data.iloc[start_idx:end_idx], use_container_width=True, hide_index=True
     )
