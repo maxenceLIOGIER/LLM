@@ -2,10 +2,6 @@ import os
 import base64
 import streamlit as st
 from streamlit_option_menu import option_menu
-
-# # retour au dossier parent
-# os.chdir(os.pardir)
-
 from views.home import home_page
 from views.dashboard import dashboard_page
 from views.llm import llm_page

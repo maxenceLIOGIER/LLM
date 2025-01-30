@@ -1,18 +1,18 @@
 import os
 import sys
 import time
-import datetime
+from datetime import datetime
 import streamlit as st
 from dotenv import load_dotenv
 from langchain_huggingface import HuggingFaceEndpoint
-from langchain_core.prompts import PromptTemplate
 from langchain.memory import ChatMessageHistory
-from langchain_core.messages import AIMessage
-
+from langchain_core.prompts import PromptTemplate
+from langchain_core.messages import AIMessage, HumanMessage
 
 # Ajout du chemin du répertoire parent pour importer les modules
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
 from src.speech_to_text import WhisperLiveTranscription
+
 
 load_dotenv()
 HF_API_KEY = os.getenv("HF_API_KEY")
@@ -22,6 +22,20 @@ transcriber = WhisperLiveTranscription(
     model_id="openai/whisper-small", language="french"
 )
 # Ne marche pas très bien pour les transcriptions à la volée
+
+
+def summarize_conversation(history, llm):
+    """
+    Résume l'historique de la conversation en utilisant le LLM.
+    """
+    conversation = "\n".join([msg.content for msg in history.messages])
+    prompt = PromptTemplate(
+        template="Résumez la conversation suivante : {conversation}",
+        input_variables=["conversation"],
+    )
+    llm_chain = prompt | llm
+    summary = llm_chain.invoke({"conversation": conversation})
+    return summary
 
 
 def llm_page():
@@ -47,12 +61,12 @@ def llm_page():
         st.session_state.transcription = ""
     if "last_transcription" not in st.session_state:
         st.session_state.last_transcription = ""
-    if "text_query" not in st.session_state:
-        st.session_state.text_query = ""
     if "file" not in st.session_state:
         st.session_state.file = ""
-    if "final_history" not in st.session_state:
-        st.session_state.final_history = ""
+    if "ai_history" not in st.session_state:
+        st.session_state.ai_history = ""
+    if "message_count" not in st.session_state:
+        st.session_state.message_count = 0
 
     # Contrôles d'enregistrement
     col1, col2 = st.columns(2)
@@ -66,7 +80,7 @@ def llm_page():
 
         # Création du fichier où les transcriptions seront stockées
         # timestamp YYYYMMDD_HHMM :
-        timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M")
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M")
         # Créer le fichier texte vide avec son timestamp
         st.session_state.file = f"transcription_{timestamp}.txt"
         with open(st.session_state.file, "a"):
@@ -105,20 +119,42 @@ def llm_page():
             st.session_state.last_transcription = transcription
 
             if new_transcription:
-                st.session_state.text_query = new_transcription
+                st.session_state.history.add_user_message(new_transcription)
+                st.session_state.message_count += 1
 
-                st.session_state.history.add_user_message(st.session_state.text_query)
+                # si plus de 10 messages, on résume les plus anciens
+                if st.session_state.message_count > 10:
+                    all_messages = st.session_state.history.messages
+                    old_messages = all_messages[:-5]
+                    recent_messages = all_messages[-5:]  # on garde les 5 derniers
+
+                    # Résumé de la conversation via le LLM
+                    summary = summarize_conversation(old_messages, llm)
+
+                    # Mettre à jour l'historique avec le résumé et les messages récents
+                    st.session_state.history = ChatMessageHistory()
+                    for msg in recent_messages:
+                        st.session_state.history.add_user_message(summary)
+                        if isinstance(msg, HumanMessage):
+                            st.session_state.history.add_user_message(msg.content)
+                        elif isinstance(msg, AIMessage):
+                            st.session_state.history.add_ai_message(msg.content)
+
+                    # Réinitialiser le compteur
+                    st.session_state.message_count = len(recent_messages)
+
+                # Appel du LLM
                 response = llm_chain.invoke(st.session_state.history.messages)
                 st.session_state.history.add_ai_message(response)
 
                 # Filtrer les messages pour ne garder que ceux de l'IA
                 ai_messages = [
-                    message
+                    message.content
                     for message in st.session_state.history.messages
                     if isinstance(message, AIMessage)
                 ]
                 llm_container.write(ai_messages)
-                st.session_state.final_history = st.session_state.ai_messages
+                st.session_state.ai_history = ai_messages
 
             else:
                 # on recommence la boucle et on attend 5 secondes
@@ -131,4 +167,14 @@ def llm_page():
             st.success("Enregistrement terminé")
 
             # Affichage de l'historique
-            llm_container.write(st.session_state.final_history)
+            llm_container.write(st.session_state.ai_history)
+
+            llm = HuggingFaceEndpoint(
+                repo_id="mistralai/Mistral-7B-Instruct-v0.2",
+                huggingfacehub_api_token=HF_API_KEY,
+            )
+
+            # Résumé de la conversation via le LLM
+            st.write("Résumé de la conversation :")
+            summary = summarize_conversation(st.session_state.history, llm)
+            st.write(summary)
