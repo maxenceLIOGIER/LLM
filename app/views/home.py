@@ -2,7 +2,7 @@ import streamlit as st
 
 
 def home_page():
-    st.image("assets/logo.png", width=550)
+    st.image("../assets/logo.png", width=550)
     st.title("Présentation du Projet")
     st.markdown(
         """
