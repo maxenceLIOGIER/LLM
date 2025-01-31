@@ -76,8 +76,11 @@ def main():
     puis on affiche l'interface utilisateur Streamlit.
     """
     # Démarrer FastAPI en arrière-plan, dans un autre process
-    api_process = Process(target=run_fastapi, args=(API_PORT,), daemon=True)
-    api_process.start()
+    if "api_process" not in st.session_state:
+        st.session_state["api_process"] = Process(
+            target=run_fastapi, args=(API_PORT,), daemon=True
+        )
+        st.session_state["api_process"].start()
 
     # Interface utilisateur Streamlit
     with st.sidebar:

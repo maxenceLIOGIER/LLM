@@ -1,15 +1,16 @@
+from datetime import date
+from pathlib import Path
+from typing import Optional
+
+import sqlite3
+import streamlit as st
 from fastapi import FastAPI, Query
 from fastapi.responses import RedirectResponse
-import sqlite3
-from datetime import date
-from typing import Optional
-import os
-from pathlib import Path
 
 # Chemin de la base de données
 dbpath = Path(__file__).parent.parent / "database" / "db_logs.db"
 
-# Instanciation de l'API FastAPI
+# instanciation de l'API FastAPI
 api = FastAPI(
     title="SmartRescue API",
     description="API to access SmartRescue events",
@@ -19,7 +20,9 @@ api = FastAPI(
 
 @api.get("/", include_in_schema=False)
 async def root():
-    # On redirige par défaut vers la doc
+    """
+    Route par défaut, qui redirige vers la page doc
+    """
     return RedirectResponse(url="/docs")
 
 
@@ -40,7 +43,20 @@ async def get_data(
     start_date: Optional[date] = Query(None, description="Date de début (YYYY-MM-DD)"),
     end_date: Optional[date] = Query(None, description="Date de fin (YYYY-MM-DD)"),
 ):
+    """
+    Retourne les événements de SmartRescue entre deux dates.
+
+    Args:
+        start_date (Optional[datetime.date]): Date de début (YYYY-MM-DD), optionnelle.
+        end_date (Optional[datetime.date]): Date de fin (YYYY-MM-DD), optionnelle.
+
+    Returns:
+        List[Dict[str, Any]]: Liste des enregistrements, avec chaque champ de la base de données
+        comme clé du dictionnaire.
+    """
+
     try:
+        # Connexion à la base de données
         conn = sqlite3.connect(dbpath)
         cursor = conn.cursor()
 
