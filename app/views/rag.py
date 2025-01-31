@@ -3,6 +3,7 @@ import os
 from dotenv import load_dotenv
 from langchain_community.llms import HuggingFaceEndpoint
 from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_chroma import Chroma
 from langchain import hub
 from langgraph.graph import StateGraph, START
 from langchain_core.documents import Document
@@ -31,14 +32,13 @@ def initialize_resources():
     if "embeddings" not in st.session_state:
         st.session_state.embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
     
-    # Désactivation de Chroma pour tester le modèle sans documents
-    # if "docs_embeddings" not in st.session_state:
-    #     persist_directory = "./embed_s1000_o100"
-    #     st.session_state.docs_embeddings = Chroma(
-    #         collection_name="statpearls_articles",
-    #         embedding_function=st.session_state.embeddings,
-    #         persist_directory=persist_directory
-    #     )
+    if "docs_embeddings" not in st.session_state:
+        persist_directory = "./embed_s1000_o100"
+        st.session_state.docs_embeddings = Chroma(
+            collection_name="statpearls_articles",
+            embedding_function=st.session_state.embeddings,
+            persist_directory=persist_directory
+        )
 
     if "graph" not in st.session_state:
         prompt = hub.pull("rlm/rag-prompt")
@@ -48,13 +48,13 @@ def initialize_resources():
             context: List[Document]
             answer: str
 
-        # Modification de la fonction retrieve pour ne pas retourner de documents
         def retrieve(state: State):
-            return {"context": []}  # Ne retourne aucun document
+            retrieved_docs = st.session_state.docs_embeddings.similarity_search(state["question"], k=5)
+            return {"context": retrieved_docs}
 
-        # Modification de la fonction generate pour ne pas utiliser les documents
         def generate(state: State):
-            messages = prompt.invoke({"question": state["question"], "context": ""})  # Pas de contexte
+            docs_content = "\n\n".join(doc.page_content for doc in state["context"])
+            messages = prompt.invoke({"question": state["question"], "context": docs_content})
             response = st.session_state.llm.invoke(messages)
             return {"answer": response}
 
