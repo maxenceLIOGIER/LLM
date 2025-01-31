@@ -80,16 +80,16 @@ def main():
         add_logo()
         selected = option_menu(
             menu_title="Navigation",
-            options=["Home", "LLM", "rag", "Dashboard", "Admin"],
-            icons=["house", "robot", "robot", "bar-chart", "shield"],
+            options=["Home", "Aide téléphonique", "Chatbot", "Dashboard", "Admin"],
+            icons=["house", "phone", "robot", "bar-chart", "shield"],
             default_index=0,
         )
 
     if selected == "Home":
         home_page()
-    elif selected == "LLM":
+    elif selected == "Aide téléphonique":
         llm_page()
-    elif selected == "rag":
+    elif selected == "Chatbot":
         rag_page()
     elif selected == "Dashboard":
         dashboard_page()
