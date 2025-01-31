@@ -24,14 +24,19 @@ transcriber = WhisperLiveTranscription(
 # Ne marche pas très bien pour les transcriptions à la volée
 
 
-def summarize_conversation(history, llm):
+def summarize_conversation(history, llm, first=True):
     """
     Résume l'historique de la conversation en utilisant le LLM en francais.
     Le résumé ne doit pas dépasser 5 lignes.
     """
-    conversation = "\n".join([msg.content for msg in history.messages])
+    if first:
+        conversation = "\n".join(history)
+    else:
+        conversation = "\n".join([msg.content for msg in history.messages])
+
     prompt = PromptTemplate(
-        template="Résumez la conversation suivante en français, en moins de 5 lignes : {conversation}",
+        template="Résume en français la conversation suivante en 5 phrases maximum, \
+            en ne gardant que les informations essentielles :\n{conversation}",
         input_variables=["conversation"],
     )
     llm_chain = prompt | llm
@@ -39,7 +44,7 @@ def summarize_conversation(history, llm):
     return summary
 
 
-def llm_page():
+def aide_telephonique_page():
     """
     Page de requête du LLM en passant par un speech-to-text.
 
@@ -181,5 +186,5 @@ def llm_page():
 
             # Résumé de la conversation via le LLM
             st.write("Résumé de la conversation :")
-            summary = summarize_conversation(st.session_state.history, llm)
+            summary = summarize_conversation(st.session_state.history, llm, first=False)
             st.write(summary)
