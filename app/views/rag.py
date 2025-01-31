@@ -1,5 +1,6 @@
 import streamlit as st
 import os
+from dotenv import load_dotenv
 from langchain_mistralai import ChatMistralAI, MistralAIEmbeddings
 from langchain_chroma import Chroma
 from langchain import hub
@@ -8,6 +9,15 @@ from langchain_core.documents import Document
 from typing_extensions import List, TypedDict
 import time
 from views.dashboard import track_metrics
+
+load_dotenv()
+
+# Vérifier que la clé API 
+api_key = os.getenv("MISTRAL_API_KEY")
+
+if not api_key:
+    st.error("⚠️ Erreur API.")
+    st.stop()
 
 # Fonction pour initialiser le modèle et les ressources (ne s'exécute qu'une seule fois)
 def initialize_resources():
@@ -54,7 +64,6 @@ def initialize_resources():
 # Initialiser une seule fois
 initialize_resources()
 
-
 def get_response(question: str):
     """ Gère la requête et enregistre les métriques """
     start_time = time.time()
@@ -63,10 +72,8 @@ def get_response(question: str):
     result = st.session_state.graph.invoke(state)
     response = result["answer"]
 
-    # Calcul du nombre de tokens (estimation)
+    # Estimation
     token_count = len(response.split())  
-
-    # Calcul du temps d'exécution
     latency = (time.time() - start_time) * 1000  # en ms
 
     # Mettre à jour les métriques
