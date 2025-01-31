@@ -1,8 +1,11 @@
 import streamlit as st
+from pathlib import Path
+
+logopath = Path(__file__).parent.parent.parent / "assets" / "logo.png"
 
 
 def home_page():
-    st.image("../assets/logo.png", width=550)
+    st.image(logopath, width=550)
     st.title("Présentation du Projet")
     st.markdown(
         """

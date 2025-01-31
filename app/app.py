@@ -9,15 +9,19 @@ from views.dashboard import dashboard_page
 from views.llm import llm_page
 from views.admin import adm_page
 from views.rag import rag_page
+from pathlib import Path
 
 APP_TITLE = "SmartRescue"
 API_PORT = 8901
+
+logopath = Path(__file__).parent.parent / "assets" / "logo.png"
+icopath = Path(__file__).parent.parent / "assets" / "icone.png"
 
 st.set_page_config(
     page_title=APP_TITLE,
     layout="wide",
     initial_sidebar_state="expanded",
-    page_icon="../assets/icone.png",
+    page_icon=icopath,
 )
 
 
@@ -29,7 +33,7 @@ def add_logo():
     https://discuss.streamlit.io/t/put-logo-and-title-above-on-top-of-page-navigation-in-sidebar-of-multipage-app/28213/6
     """
     # Lecture du fichier image local
-    with open("../assets/logo.png", "rb") as f:
+    with open(logopath, "rb") as f:
         logo_data = base64.b64encode(f.read()).decode()
 
     st.markdown(
