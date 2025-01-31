@@ -1,8 +1,8 @@
 import streamlit as st
 import os
 from dotenv import load_dotenv
-from langchain_mistralai import ChatMistralAI, MistralAIEmbeddings
-from langchain_chroma import Chroma
+from langchain_community.llms import HuggingFaceEndpoint
+from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain import hub
 from langgraph.graph import StateGraph, START
 from langchain_core.documents import Document
@@ -12,28 +12,33 @@ from views.dashboard import track_metrics
 
 load_dotenv()
 
-# Vérifier que la clé API 
-api_key = os.getenv("MISTRAL_API_KEY")
+# Vérifier que la clé API
+hf_api_key = os.getenv("HF_API_KEY")
 
-if not api_key:
+if not hf_api_key:
     st.error("⚠️ Erreur API.")
     st.stop()
 
 # Fonction pour initialiser le modèle et les ressources (ne s'exécute qu'une seule fois)
 def initialize_resources():
     if "llm" not in st.session_state:
-        st.session_state.llm = ChatMistralAI(model="mistral-large-latest")
+        st.session_state.llm = HuggingFaceEndpoint(
+        repo_id="mistral-large-latest",
+        huggingfacehub_api_token=hf_api_key,
+        task="text-generation"
+    )
         
     if "embeddings" not in st.session_state:
-        st.session_state.embeddings = MistralAIEmbeddings(model="mistral-embed")
+        st.session_state.embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
     
-    if "docs_embeddings" not in st.session_state:
-        persist_directory = "./embed_s1000_o100"
-        st.session_state.docs_embeddings = Chroma(
-            collection_name="statpearls_articles",
-            embedding_function=st.session_state.embeddings,
-            persist_directory=persist_directory
-        )
+    # Désactivation de Chroma pour tester le modèle sans documents
+    # if "docs_embeddings" not in st.session_state:
+    #     persist_directory = "./embed_s1000_o100"
+    #     st.session_state.docs_embeddings = Chroma(
+    #         collection_name="statpearls_articles",
+    #         embedding_function=st.session_state.embeddings,
+    #         persist_directory=persist_directory
+    #     )
 
     if "graph" not in st.session_state:
         prompt = hub.pull("rlm/rag-prompt")
@@ -43,15 +48,15 @@ def initialize_resources():
             context: List[Document]
             answer: str
 
+        # Modification de la fonction retrieve pour ne pas retourner de documents
         def retrieve(state: State):
-            retrieved_docs = st.session_state.docs_embeddings.similarity_search(state["question"], k=5)
-            return {"context": retrieved_docs}
+            return {"context": []}  # Ne retourne aucun document
 
+        # Modification de la fonction generate pour ne pas utiliser les documents
         def generate(state: State):
-            docs_content = "\n\n".join(doc.page_content for doc in state["context"])
-            messages = prompt.invoke({"question": state["question"], "context": docs_content})
+            messages = prompt.invoke({"question": state["question"], "context": ""})  # Pas de contexte
             response = st.session_state.llm.invoke(messages)
-            return {"answer": response.content}
+            return {"answer": response}
 
         # Construire et stocker le graphe
         rag_graph = StateGraph(State)
@@ -80,7 +85,6 @@ def get_response(question: str):
     track_metrics(latency, token_count)
 
     return response
-
 
 def rag_page():
     """ Interface RAG sous forme de chat """
