@@ -17,7 +17,7 @@ st.set_page_config(
     page_title=APP_TITLE,
     layout="wide",
     initial_sidebar_state="expanded",
-    page_icon="assets/icone.png",
+    page_icon="../assets/icone.png",
 )
 
 
@@ -29,7 +29,7 @@ def add_logo():
     https://discuss.streamlit.io/t/put-logo-and-title-above-on-top-of-page-navigation-in-sidebar-of-multipage-app/28213/6
     """
     # Lecture du fichier image local
-    with open("assets/logo.png", "rb") as f:
+    with open("../assets/logo.png", "rb") as f:
         logo_data = base64.b64encode(f.read()).decode()
 
     st.markdown(
@@ -80,8 +80,8 @@ def main():
         add_logo()
         selected = option_menu(
             menu_title="Navigation",
-            options=["Home", "LLM", "rag","Dashboard", "Admin"],
-            icons=["house", "robot","robot", "bar-chart", "shield"],
+            options=["Home", "LLM", "rag", "Dashboard", "Admin"],
+            icons=["house", "robot", "robot", "bar-chart", "shield"],
             default_index=0,
         )
 
