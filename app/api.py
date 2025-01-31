@@ -7,14 +7,12 @@ import os
 from pathlib import Path
 
 # Chemin de la base de données
-current_dir = Path(__file__).parent
-project_root = current_dir.parent
-dbpath = os.path.join(project_root, "database", "db_logs.db")
+dbpath = Path(__file__).parent.parent / "database" / "db_logs.db"
 
 # Instanciation de l'API FastAPI
 api = FastAPI(
     title="SmartRescue API",
-    description="API for accessing SmartRescue logs",
+    description="API to access SmartRescue events",
     version="1.0.0",
 )
 
