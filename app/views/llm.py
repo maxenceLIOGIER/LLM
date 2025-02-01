@@ -8,7 +8,7 @@ from langchain_huggingface import HuggingFaceEndpoint
 from langchain.memory import ChatMessageHistory
 from langchain_core.prompts import PromptTemplate
 from langchain_core.messages import AIMessage, HumanMessage
-from chromadb import PersistentClient
+import chromadb
 
 # Ajout du chemin du répertoire parent pour importer les modules
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
