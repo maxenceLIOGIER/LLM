@@ -127,8 +127,12 @@ def llm_page():
 
             #Check de sécurité, similarité cosine avec les documents de la DB
             #Récupère les embeddings des documments
-            persist_directory = "./embed_s1000_o100"
-            chroma_client = PersistentClient(path=persist_directory)
+            persist_directory = "../embed_s1000_o100"
+            docs_embeddings = Chroma(
+                                collection_name="statpearls_articles",
+                                embedding_function=None,
+                                persist_directory=persist_directory,
+                            )
             docs_embeddings = chroma_client.get_collection(name="statpearls_articles")
             #Check la similarité cosine
             sim_cos = security.prompt_check(prompt=new_transcription, docs_embeddings=docs_embeddings)

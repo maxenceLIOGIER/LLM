@@ -9,7 +9,7 @@ from views.home import home_page
 from views.dashboard import dashboard_page
 from views.aide_telephonique import aide_telephonique_page
 from views.admin import adm_page
-from views.rag import rag_page
+from views.chatbot import chatbot_page
 from pathlib import Path
 from views.chatbot import chatbot_page
 
