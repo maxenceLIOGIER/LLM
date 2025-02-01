@@ -33,7 +33,7 @@ def get_docs_embeddings():
     """
     Récupère le contexte d'une requête en utilisant les embeddings de la requête.
     """
-    persist_directory = "../embed_s1000_o100"
+    persist_directory = "../database/embed_s1000_o100"
     docs_embeddings = Chroma(
         collection_name="statpearls_articles",
         embedding_function=None,
@@ -224,7 +224,7 @@ def aide_telephonique_page():
 
                 # Check de sécurité, similarité cosine avec les documents de la DB
                 docs_embeddings = get_docs_embeddings()
-                result = security.prompt_check(new_transcription, docs_embeddings)
+                result = security.prompt_check(new_transcription, docs_embeddings["embeddings"])
 
                 # Safely extract values from result
                 top_indices = np.array([])
