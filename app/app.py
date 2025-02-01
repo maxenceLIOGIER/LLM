@@ -4,12 +4,14 @@ from streamlit_option_menu import option_menu
 import uvicorn
 from api import api
 from multiprocessing import Process
+
 from views.home import home_page
 from views.dashboard import dashboard_page
-from views.llm import llm_page
+from views.aide_telephonique import aide_telephonique_page
 from views.admin import adm_page
 from views.rag import rag_page
 from pathlib import Path
+from views.chatbot import chatbot_page
 
 APP_TITLE = "SmartRescue"
 API_PORT = 8901
@@ -87,17 +89,17 @@ def main():
         add_logo()
         selected = option_menu(
             menu_title="Navigation",
-            options=["Home", "LLM", "rag", "Dashboard", "Admin"],
-            icons=["house", "robot", "robot", "bar-chart", "shield"],
+            options=["Home", "Aide téléphonique", "Chatbot", "Dashboard", "Admin"],
+            icons=["house", "phone", "robot", "bar-chart", "shield"],
             default_index=0,
         )
 
     if selected == "Home":
         home_page()
-    elif selected == "LLM":
-        llm_page()
-    elif selected == "rag":
-        rag_page()
+    elif selected == "Aide téléphonique":
+        aide_telephonique_page()
+    elif selected == "Chatbot":
+        chatbot_page()
     elif selected == "Dashboard":
         dashboard_page()
     elif selected == "Admin":

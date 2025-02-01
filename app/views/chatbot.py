@@ -1,32 +1,46 @@
-import streamlit as st
+"""
+Page d'un chatbot médical
+ATTENTION : le llm ne parle pas français.
+Il faut mieux élaborer son prompt
+"""
+
 import os
+import time
+import streamlit as st
 from dotenv import load_dotenv
-from langchain_mistralai import ChatMistralAI, MistralAIEmbeddings
+from langchain_huggingface import HuggingFaceEndpoint
+from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_chroma import Chroma
 from langchain import hub
 from langgraph.graph import StateGraph, START
 from langchain_core.documents import Document
 from typing_extensions import List, TypedDict
-import time
+
 from views.dashboard import track_metrics
 
 load_dotenv()
 
 # Vérifier que la clé API
-api_key = os.getenv("MISTRAL_API_KEY")
+hf_api_key = os.getenv("HF_API_KEY")
 
-if not api_key:
-    st.error("⚠️ Erreur clé API Mistral : le fichier .env est-il bien renseigné ?")
+if not hf_api_key:
+    st.error("⚠️ Erreur API.")
     st.stop()
 
 
 # Fonction pour initialiser le modèle et les ressources (ne s'exécute qu'une seule fois)
 def initialize_resources():
     if "llm" not in st.session_state:
-        st.session_state.llm = ChatMistralAI(model="mistral-large-latest")
+        st.session_state.llm = HuggingFaceEndpoint(
+            repo_id="mistralai/Mistral-7B-Instruct-v0.2",
+            huggingfacehub_api_token=hf_api_key,
+            task="text-generation",
+        )
 
     if "embeddings" not in st.session_state:
-        st.session_state.embeddings = MistralAIEmbeddings(model="mistral-embed")
+        st.session_state.embeddings = HuggingFaceEmbeddings(
+            model_name="sentence-transformers/all-MiniLM-L6-v2"
+        )
 
     if "docs_embeddings" not in st.session_state:
         persist_directory = "./embed_s1000_o100"
@@ -56,7 +70,7 @@ def initialize_resources():
                 {"question": state["question"], "context": docs_content}
             )
             response = st.session_state.llm.invoke(messages)
-            return {"answer": response.content}
+            return {"answer": response}
 
         # Construire et stocker le graphe
         rag_graph = StateGraph(State)
@@ -89,7 +103,7 @@ def get_response(question: str):
     return response
 
 
-def rag_page():
+def chatbot_page():
     """Interface RAG sous forme de chat"""
     st.title("💬 Chat Medical")
 

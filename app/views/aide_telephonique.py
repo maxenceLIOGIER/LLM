@@ -24,13 +24,19 @@ transcriber = WhisperLiveTranscription(
 # Ne marche pas très bien pour les transcriptions à la volée
 
 
-def summarize_conversation(history, llm):
+def summarize_conversation(history, llm, first=True):
     """
-    Résume l'historique de la conversation en utilisant le LLM.
+    Résume l'historique de la conversation en utilisant le LLM en francais.
+    Le résumé ne doit pas dépasser 5 lignes.
     """
-    conversation = "\n".join([msg.content for msg in history.messages])
+    if first:
+        conversation = "\n".join(history)
+    else:
+        conversation = "\n".join([msg.content for msg in history.messages])
+
     prompt = PromptTemplate(
-        template="Résumez la conversation suivante : {conversation}",
+        template="Résume en français la conversation suivante en 5 phrases maximum, \
+            en ne gardant que les informations essentielles :\n{conversation}",
         input_variables=["conversation"],
     )
     llm_chain = prompt | llm
@@ -38,7 +44,7 @@ def summarize_conversation(history, llm):
     return summary
 
 
-def llm_page():
+def aide_telephonique_page():
     """
     Page de requête du LLM en passant par un speech-to-text.
 
@@ -71,7 +77,7 @@ def llm_page():
     # Contrôles d'enregistrement
     col1, col2 = st.columns(2)
 
-    llm_container = st.empty()
+    # llm_container = st.empty()
 
     if col1.button("🎤 Démarrer l'enregistrement"):
         # Initialisation de l'enregistrement
@@ -90,13 +96,13 @@ def llm_page():
         transcriber.start_recording()
         st.info("Enregistrement en cours...")
 
-        template = "Un LLM conçu pour assister les agents des urgences en analysant leurs appels. \
-            Il doit être empathique, calme, direct, professionnel. \
-            Objectif : extraire les informations critiques (diagnostic, localisation, état des personnes, danger). \
-            Le LLM ne doit répondre qu'à la dernière déclaration ou question de l'opérateur, sans inventer de contexte. \
+        template = "Tu es conçu pour assister les agents des urgences en analysant leurs appels. \
+            Tu dois être empathique, calme, direct, professionnel. \
+            Objectif : extraire les informations critiques (diagnostic, localisation, état des personnes, danger...). \
+            Tu ne dois répondre qu'à la dernière déclaration ou question de l'opérateur, sans inventer de contexte. \
             Les réponses doivent être très courtes (maximum une ligne), claires et fournir uniquement des instructions ou des questions simples. \
             Les réponses doivent être en français. \
-            Important : Le LLM n'a accès qu'à la voix de l'opérateur et ne doit pas générer de contenu supplémentaire ni imaginer des éléments de la conversation. \
+            Important : tu n'as accès qu'à la voix de l'opérateur et ne doit pas générer de contenu supplémentaire ni imaginer des éléments de la conversation. \
             Voici la dernière déclaration ou question de l'opérateur : {text_query}"
         prompt = PromptTemplate(template=template, input_variables=["text_query"])
 
@@ -120,6 +126,8 @@ def llm_page():
 
             if new_transcription:
                 st.session_state.history.add_user_message(new_transcription)
+                # with st.chat_message("user"):
+                #     st.markdown(new_transcription)
                 st.session_state.message_count += 1
 
                 # si plus de 10 messages, on résume les plus anciens
@@ -146,6 +154,8 @@ def llm_page():
                 # Appel du LLM
                 response = llm_chain.invoke(st.session_state.history.messages)
                 st.session_state.history.add_ai_message(response)
+                with st.chat_message("assistant"):
+                    st.markdown(response)
 
                 # Filtrer les messages pour ne garder que ceux de l'IA
                 ai_messages = [
@@ -153,7 +163,7 @@ def llm_page():
                     for message in st.session_state.history.messages
                     if isinstance(message, AIMessage)
                 ]
-                llm_container.write(ai_messages)
+                # llm_container.write(ai_messages)
                 st.session_state.ai_history = ai_messages
 
             else:
@@ -166,8 +176,8 @@ def llm_page():
             transcriber.stop_recording()
             st.success("Enregistrement terminé")
 
-            # Affichage de l'historique
-            llm_container.write(st.session_state.ai_history)
+            # # Affichage de l'historique
+            # llm_container.write(st.session_state.ai_history)
 
             llm = HuggingFaceEndpoint(
                 repo_id="mistralai/Mistral-7B-Instruct-v0.2",
@@ -176,5 +186,5 @@ def llm_page():
 
             # Résumé de la conversation via le LLM
             st.write("Résumé de la conversation :")
-            summary = summarize_conversation(st.session_state.history, llm)
+            summary = summarize_conversation(st.session_state.history, llm, first=False)
             st.write(summary)
