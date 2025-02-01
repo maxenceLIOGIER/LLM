@@ -8,10 +8,12 @@ from langchain_huggingface import HuggingFaceEndpoint
 from langchain.memory import ChatMessageHistory
 from langchain_core.prompts import PromptTemplate
 from langchain_core.messages import AIMessage, HumanMessage
+from langchain_chroma import Chroma
 
 # Ajout du chemin du répertoire parent pour importer les modules
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
 from src.speech_to_text import WhisperLiveTranscription
+from src.security.security_check import SecurityCheck
 
 
 load_dotenv()
@@ -21,22 +23,34 @@ HF_API_KEY = os.getenv("HF_API_KEY")
 transcriber = WhisperLiveTranscription(
     model_id="openai/whisper-small", language="french"
 )
-# Ne marche pas très bien pour les transcriptions à la volée
+
+# Instanciation de la sécurité
+security = SecurityCheck()
 
 
-def summarize_conversation(history, llm, first=True):
+def summarize_conversation(messages, llm):
     """
-    Résume l'historique de la conversation en utilisant le LLM en francais.
-    Le résumé ne doit pas dépasser 5 lignes.
+    Résume la conversation en utilisant le LLM.
     """
-    if first:
-        conversation = "\n".join(history)
-    else:
-        conversation = "\n".join([msg.content for msg in history.messages])
+    conversation = "\n".join(msg.content for msg in messages)
 
     prompt = PromptTemplate(
-        template="Résume en français la conversation suivante en 5 phrases maximum, \
-            en ne gardant que les informations essentielles :\n{conversation}",
+        template="""
+        Résume la conversation suivante en **5 phrases maximum** en français. 
+        Ne garde que les informations **critiques et essentielles** pour les secours :
+        - Nature de l'incident (accident, problème médical, etc.)
+        - Localisation de l'incident.
+        - Nombre de personnes impliquées et leur état (blessés, inconscients, etc.)
+        - Actions ou recommandations immédiates nécessaires pour les secours.
+        
+        **Ne pas inventer d'informations** et ne pas ajouter de détails qui ne sont pas présents dans la conversation.
+        Le résumé doit être clair, direct, et orienté vers les actions urgentes à prendre.
+        Si la discussion ne parle pas d'un incident, tu peux le dire et n'invente rien !!
+
+        Conversation :
+        {conversation}
+
+        Résumé :""",
         input_variables=["conversation"],
     )
     llm_chain = prompt | llm
@@ -96,14 +110,32 @@ def aide_telephonique_page():
         transcriber.start_recording()
         st.info("Enregistrement en cours...")
 
-        template = "Tu es conçu pour assister les agents des urgences en analysant leurs appels. \
-            Tu dois être empathique, calme, direct, professionnel. \
-            Objectif : extraire les informations critiques (diagnostic, localisation, état des personnes, danger...). \
-            Tu ne dois répondre qu'à la dernière déclaration ou question de l'opérateur, sans inventer de contexte. \
-            Les réponses doivent être très courtes (maximum une ligne), claires et fournir uniquement des instructions ou des questions simples. \
-            Les réponses doivent être en français. \
-            Important : tu n'as accès qu'à la voix de l'opérateur et ne doit pas générer de contenu supplémentaire ni imaginer des éléments de la conversation. \
-            Voici la dernière déclaration ou question de l'opérateur : {text_query}"
+        template = """
+            Tu es une IA conçue pour assister les agents des urgences en analysant leurs appels.  
+            
+            **Règles à respecter :**  
+            - Tu dois être **empathique, calme, direct et professionnel**.  
+            - Ton **objectif** est d’extraire uniquement les informations critiques : **diagnostic, localisation, état des personnes, danger...**  
+            - **Tu ne dois répondre qu'à la dernière déclaration ou question de l'opérateur.**  
+            - **Tu ne dois jamais inventer ou imaginer des éléments de contexte.**  
+            - **Tes réponses doivent être très courtes (maximum une ligne), claires et fournir uniquement des instructions ou des questions simples.**  
+            - **Tes réponses doivent toujours être en français, sauf si l'opérateur parle en anglais.**  
+            - **Formule tes réponses sous forme d’instructions précises pour l’opérateur.**  
+            - **Tes réponses doivent toujours être en français, correctes grammaticalement et sans faute de syntaxe.**
+            - **Tes réponses ne doivent jamais commencer par "réponse correcte". Réponds directement comme cela t'a été demandé.**
+
+            **Important :** Tu n’as accès **qu'à la voix de l'opérateur**. Tu ne dois pas générer de contenu supplémentaire ni interpréter des éléments que tu ne peux pas entendre.  
+
+            ### **Exemple de réponse attendue :**  
+            **Opérateur :** "Il y a eu un accident, des blessés peut-être."  
+            **Réponse correcte :** "Demandez à l'appelant combien de blessés il y a."  
+
+            **Opérateur :** "Où est l’accident ?"  
+            **Réponse correcte :** "Demandez une adresse exacte ou un point de repère."  
+
+            **Voici la dernière déclaration ou question de l'opérateur :**  
+            {text_query}
+        """
         prompt = PromptTemplate(template=template, input_variables=["text_query"])
 
         llm = HuggingFaceEndpoint(
@@ -124,10 +156,31 @@ def aide_telephonique_page():
             ).strip()
             st.session_state.last_transcription = transcription
 
-            if new_transcription:
+            # # Check de sécurité, filtre mots interdits
+            # filtre = security.filter_and_check_security(
+            #     prompt=new_transcription, check_char=False
+            # )
+
+            # # Check de sécurité, similarité cosine avec les documents de la DB
+            # # Récupère les embeddings des documments
+            # persist_directory = "../embed_s1000_o100"
+            # docs_embeddings = Chroma(
+            #     collection_name="statpearls_articles",
+            #     embedding_function=None,
+            #     persist_directory=persist_directory,
+            # )
+            # docs_embeddings = docs_embeddings._collection.get(include=["embeddings"])
+            # # Check la similarité cosine
+            # sim_cos = security.prompt_check(
+            #     prompt=new_transcription, docs_embeddings=docs_embeddings
+            # )
+
+            if new_transcription:  # and filtre["status"] == "Accepté" and sim_cos:
                 st.session_state.history.add_user_message(new_transcription)
                 # with st.chat_message("user"):
                 #     st.markdown(new_transcription)
+                # on n'affiche pas les messages de l'utilisateur pour gagner en visibilité
+
                 st.session_state.message_count += 1
 
                 # si plus de 10 messages, on résume les plus anciens
@@ -166,8 +219,10 @@ def aide_telephonique_page():
                 # llm_container.write(ai_messages)
                 st.session_state.ai_history = ai_messages
 
+            # elif filtre["status"] == "Refusé":
+            #     st.error(filtre["message"])
+            #     continue
             else:
-                # on recommence la boucle et on attend 5 secondes
                 continue
 
     if col2.button("⏹️ Arrêter l'enregistrement"):
@@ -186,5 +241,6 @@ def aide_telephonique_page():
 
             # Résumé de la conversation via le LLM
             st.write("Résumé de la conversation :")
-            summary = summarize_conversation(st.session_state.history, llm, first=False)
+            messages = st.session_state.history.messages
+            summary = summarize_conversation(messages, llm)
             st.write(summary)
