@@ -165,8 +165,11 @@ class SecurityCheck:
             similarities = cosine_similarity(prompt_embedding, docs_embeddings)
             max_similarity = max(similarities[0])
 
+            # Trouver les indices des 3 documents les plus similaires
+            top_indices = np.argsort(similarities)[-3:][::-1]
+
             # Vérification par rapport au seuil
-            return max_similarity >= threshold
+            return max_similarity >= threshold, top_indices
 
         except Exception as e:
             print(f"Erreur lors de la vérification du prompt : {e}")
