@@ -82,7 +82,7 @@ class SecurityReport:
         conn.close()
         return df
 
-    def _create_pipeline(self) -> sklearn.pipeline.Pipeline:
+    def _create_pipeline(self):
         """
         Crée un pipeline de prétraitement des données pour le clustering.
 

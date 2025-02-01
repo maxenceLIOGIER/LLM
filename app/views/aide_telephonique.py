@@ -3,6 +3,7 @@ import sys
 import time
 from datetime import datetime
 import streamlit as st
+import numpy as np
 from dotenv import load_dotenv
 from langchain_huggingface import HuggingFaceEndpoint
 from langchain.memory import ChatMessageHistory
@@ -26,6 +27,33 @@ transcriber = WhisperLiveTranscription(
 
 # Instanciation de la sécurité
 security = SecurityCheck()
+
+
+def get_docs_embeddings():
+    """
+    Récupère le contexte d'une requête en utilisant les embeddings de la requête.
+    """
+    persist_directory = "../embed_s1000_o100"
+    docs_embeddings = Chroma(
+        collection_name="statpearls_articles",
+        embedding_function=None,
+        persist_directory=persist_directory,
+    )
+    docs_embeddings = docs_embeddings._collection.get(include=["embeddings"])
+
+    return docs_embeddings
+
+
+def get_context(prompt, docs_embeddings, top_indices):
+    """
+    Récupère le contexte d'une requête en utilisant les embeddings de la requête.
+    """
+    context = ""
+    for idx in top_indices:
+        context += docs_embeddings[idx] + " "
+    context += prompt
+
+    return context
 
 
 def summarize_conversation(messages, llm):
@@ -91,8 +119,6 @@ def aide_telephonique_page():
     # Contrôles d'enregistrement
     col1, col2 = st.columns(2)
 
-    # llm_container = st.empty()
-
     if col1.button("🎤 Démarrer l'enregistrement"):
         # Initialisation de l'enregistrement
         st.session_state.recording = True
@@ -136,7 +162,13 @@ def aide_telephonique_page():
             **Voici la dernière déclaration ou question de l'opérateur :**  
             {text_query}
         """
-        prompt = PromptTemplate(template=template, input_variables=["text_query"])
+        #      **Voici le contexte dont tu auras besoin pour répondre au mieux aux questions:**
+        #      {context}
+        # """
+
+        prompt = PromptTemplate(
+            template=template, input_variables=["text_query", "context"]
+        )
 
         llm = HuggingFaceEndpoint(
             repo_id="mistralai/Mistral-7B-Instruct-v0.2",
@@ -156,26 +188,7 @@ def aide_telephonique_page():
             ).strip()
             st.session_state.last_transcription = transcription
 
-            # # Check de sécurité, filtre mots interdits
-            # filtre = security.filter_and_check_security(
-            #     prompt=new_transcription, check_char=False
-            # )
-
-            # # Check de sécurité, similarité cosine avec les documents de la DB
-            # # Récupère les embeddings des documments
-            # persist_directory = "../embed_s1000_o100"
-            # docs_embeddings = Chroma(
-            #     collection_name="statpearls_articles",
-            #     embedding_function=None,
-            #     persist_directory=persist_directory,
-            # )
-            # docs_embeddings = docs_embeddings._collection.get(include=["embeddings"])
-            # # Check la similarité cosine
-            # sim_cos = security.prompt_check(
-            #     prompt=new_transcription, docs_embeddings=docs_embeddings
-            # )
-
-            if new_transcription:  # and filtre["status"] == "Accepté" and sim_cos:
+            if new_transcription:
                 st.session_state.history.add_user_message(new_transcription)
                 # with st.chat_message("user"):
                 #     st.markdown(new_transcription)
@@ -204,24 +217,65 @@ def aide_telephonique_page():
                     # Réinitialiser le compteur
                     st.session_state.message_count = len(recent_messages)
 
-                # Appel du LLM
-                response = llm_chain.invoke(st.session_state.history.messages)
-                st.session_state.history.add_ai_message(response)
-                with st.chat_message("assistant"):
-                    st.markdown(response)
+                # Check de sécurité, filtre mots interdits
+                filtre = security.filter_and_check_security(
+                    prompt=new_transcription, check_char=False
+                )
 
-                # Filtrer les messages pour ne garder que ceux de l'IA
-                ai_messages = [
-                    message.content
-                    for message in st.session_state.history.messages
-                    if isinstance(message, AIMessage)
-                ]
-                # llm_container.write(ai_messages)
-                st.session_state.ai_history = ai_messages
+                # Check de sécurité, similarité cosine avec les documents de la DB
+                docs_embeddings = get_docs_embeddings()
+                result = security.prompt_check(new_transcription, docs_embeddings)
 
-            # elif filtre["status"] == "Refusé":
-            #     st.error(filtre["message"])
-            #     continue
+                # Safely extract values from result
+                top_indices = np.array([])
+                if isinstance(result, tuple) and len(result) == 2:
+                    test_sim_cos, top_indices = result
+                elif isinstance(result, bool):
+                    test_sim_cos = result
+                else:
+                    test_sim_cos = False
+
+                # Appel du LLM si le test de sécurité est accepté
+                if filtre["status"] == "Accepté" and test_sim_cos:
+                    response = llm_chain.invoke(
+                        {
+                            "text_query": st.session_state.history.messages,
+                            "context": get_context(
+                                new_transcription, docs_embeddings, top_indices
+                            ),
+                        }
+                    )
+                    st.session_state.history.add_ai_message(response)
+                    with st.chat_message("assistant"):
+                        st.markdown(response)
+
+                    # Filtrer les messages pour ne garder que ceux de l'IA
+                    ai_messages = [
+                        message.content
+                        for message in st.session_state.history.messages
+                        if isinstance(message, AIMessage)
+                    ]
+                    st.session_state.ai_history = ai_messages
+
+                elif filtre["status"] == "Refusé":
+                    st.error(filtre["message"])
+                elif not test_sim_cos:
+                    st.error("La requête ne correspond pas à un contexte médical.")
+
+                # # Réponse du LLM
+                # response = llm_chain.invoke(st.session_state.history.messages)
+                # st.session_state.history.add_ai_message(response)
+                # with st.chat_message("assistant"):
+                #     st.markdown(response)
+
+                # # Filtrer les messages pour ne garder que ceux de l'IA
+                # ai_messages = [
+                #     message.content
+                #     for message in st.session_state.history.messages
+                #     if isinstance(message, AIMessage)
+                # ]
+                # st.session_state.ai_history = ai_messages
+
             else:
                 continue
 
@@ -230,9 +284,6 @@ def aide_telephonique_page():
             st.session_state.recording = False
             transcriber.stop_recording()
             st.success("Enregistrement terminé")
-
-            # # Affichage de l'historique
-            # llm_container.write(st.session_state.ai_history)
 
             llm = HuggingFaceEndpoint(
                 repo_id="mistralai/Mistral-7B-Instruct-v0.2",

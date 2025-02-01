@@ -35,15 +35,15 @@ class SecurityCheck:
         - Si une erreur survient lors de la requête (par exemple, problème de connexion), affiche un message d'erreur et retourne `None`.
 
         Returns:
-            str or None: Retourne l'adresse IP publique sous forme de chaîne de caractères si la requête est réussie, 
+            str or None: Retourne l'adresse IP publique sous forme de chaîne de caractères si la requête est réussie,
                         ou `None` en cas d'erreur.
         """
-        
+
         try:
             # Envoie une requête GET à l'API ipify pour récupérer l'adresse IP publique
             response = requests.get("https://api.ipify.org?format=json")
             response.raise_for_status()  # Vérifie si la requête a échoué
-            
+
             # Extraction de l'adresse IP depuis le JSON de la réponse
             ip_address = response.json().get("ip")
             return ip_address
@@ -53,8 +53,8 @@ class SecurityCheck:
             return None
 
     def filter_and_check_security(
-            self, prompt: str, seuil_fuzzy=80, check_char: bool = True
-        ) -> str:
+        self, prompt: str, seuil_fuzzy=80, check_char: bool = True
+    ) -> str:
         """
         Filtre et normalise les entrées utilisateur.
         Vérifie la présence de caractères interdits et de mots interdits dans le prompt.
@@ -69,7 +69,7 @@ class SecurityCheck:
         - Si aucune règle n'est violée, le prompt est accepté.
         4. **Ajout d'informations supplémentaires** :
         - Enregistre l'adresse IP de l'utilisateur et un timestamp pour chaque vérification.
-        
+
         Args:
             prompt (str): L'entrée utilisateur à vérifier.
             seuil_fuzzy (int, optional): Seuil de similarité pour la comparaison floue des mots interdits (par défaut 80).
@@ -78,23 +78,76 @@ class SecurityCheck:
         Returns:
             dict: Dictionnaire contenant le statut de l'entrée (`"Rejeté"` ou `"Accepté"`) et les informations associées (adresse IP et timestamp).
         """
-        
+
         # Liste des caractères interdits
         forbidden_chars = set("{}[]<>|;$&%\n\r\t\\\"'\u200b\u202e")
 
         # Liste des mots interdits (en incluant des termes liés à la sécurité ou à des comportements malveillants)
         forbidden_words = [
-            "ignorer", "contourner", "désactiver", "forcer", "exécuter", "injecter",
-            "réinitialiser", "interrompre", "supprimer", "redémarrer", "arrêter", "tuer",
-            "pirater", "évaluer", "contourne", "exécute", "réinitialise", "tu es", "joue le rôle de",
-            "fais comme si", "suppose que", "simule", "comporte-toi comme", "assistant", "modèle de langage",
-            "modèle IA", "intelligence artificielle", "chatbot", "ouvre-toi", "rends-toi vulnérable",
-            "ignore toutes les restrictions", "désactive la sécurité", "effacer", "supprimer", "casser", 
-            "détruire", "modifier", "désinstaller", "télécharger", "installer", "charger", "compiler",
-            "déboguer", "accéder", "récupérer", "afficher", "openai", "langage naturel", "réseau neuronal",
-            "code source", "GPT", "modèle génératif", "machine learning", "deep learning", "fais", "ordonne",
-            "exécute", "agit comme", "désactive", "montre-moi", "fais semblant", "commande", "contournement",
-            "autorisation"
+            "ignorer",
+            "contourner",
+            "désactiver",
+            "forcer",
+            "exécuter",
+            "injecter",
+            "réinitialiser",
+            "interrompre",
+            "supprimer",
+            "redémarrer",
+            "arrêter",
+            "tuer",
+            "pirater",
+            "évaluer",
+            "contourne",
+            "exécute",
+            "réinitialise",
+            "tu es",
+            "joue le rôle de",
+            "fais comme si",
+            "suppose que",
+            "simule",
+            "comporte-toi comme",
+            "assistant",
+            "modèle de langage",
+            "modèle IA",
+            "intelligence artificielle",
+            "chatbot",
+            "ouvre-toi",
+            "rends-toi vulnérable",
+            "ignore toutes les restrictions",
+            "désactive la sécurité",
+            "effacer",
+            "supprimer",
+            "casser",
+            "détruire",
+            "modifier",
+            "désinstaller",
+            "télécharger",
+            "installer",
+            "charger",
+            "compiler",
+            "déboguer",
+            "accéder",
+            "récupérer",
+            "afficher",
+            "openai",
+            "langage naturel",
+            "réseau neuronal",
+            "code source",
+            "GPT",
+            "modèle génératif",
+            "machine learning",
+            "deep learning",
+            "fais",
+            "ordonne",
+            "exécute",
+            "agit comme",
+            "désactive",
+            "montre-moi",
+            "fais semblant",
+            "commande",
+            "contournement",
+            "autorisation",
         ]
 
         # Initialisation du dictionnaire des résultats
@@ -125,7 +178,9 @@ class SecurityCheck:
 
         return results
 
-    def prompt_check(self, prompt:str, docs_embeddings:list, threshold:float=0.6) -> bool:
+    def prompt_check(
+        self, prompt: str, docs_embeddings: list, threshold: float = 0.6
+    ) -> bool:
         """
         Vérifie si une requête utilisateur est pertinente.
         Si la requête est hors contexte par rapport aux documents de référence, elle est bloquée.
@@ -165,9 +220,13 @@ class SecurityCheck:
             similarities = cosine_similarity(prompt_embedding, docs_embeddings)
             max_similarity = max(similarities[0])
 
+            # Trouver les indices des 3 documents les plus similaires
+            top_indices = np.argsort(similarities)[-3:][::-1]
+
             # Vérification par rapport au seuil
-            return max_similarity >= threshold
+            test_sim_cosine = max_similarity >= threshold
+            return (test_sim_cosine, top_indices)
 
         except Exception as e:
             print(f"Erreur lors de la vérification du prompt : {e}")
-            return False
+            return (False, np.array([]))
