@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import sqlite3
 from pathlib import Path
+from src.security.security_report import SecurityReport
 
 db_path = Path(__file__).parent.parent.parent / "database" / "db_logs.db"
 
@@ -105,3 +106,15 @@ def adm_page():
         - Requête get avec une date de début et une date de fin : [http://127.0.0.1:8901/data?start_date=2025-01-28&end_date=2025-01-28](http://127.0.0.1:8901/data?start_date=2025-01-28&end_date=2025-01-28)
         """
     )
+
+    # Section Rapport Journalier
+    st.markdown("## 📊 Rapport Journalier")
+    st.write(
+        "Générez par mail un rapport détaillé des événements de la journée, incluant les alertes de sécurité, "
+        "les activités suspectes et les tendances globales des interactions avec SmartRescue."
+    )
+
+    if st.button("📝 Générer le rapport"):
+        report = SecurityReport()
+        report.run_daily_report() 
+        st.success("✅ Rapport journalier généré avec succès !")
