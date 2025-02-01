@@ -172,7 +172,7 @@ def adm_page():
                 report.run_daily_report()
                 st.success("✅ Rapport journalier généré avec succès !")
 
-        # Section Paramétrer les clés API
+        # Section API SmartRescue
         with tab3:
             st.markdown("## 🌐 API SmartRescue")
             st.markdown(
@@ -191,8 +191,21 @@ def adm_page():
         with tab4:
             st.markdown("## 🔑 Clés API externes")
 
-            api_key_hf = st.text_input("HF_API_KEY", type="password")
-            api_key_m = st.text_input("MISTRAL_API_KEY", type="password")
+            # Texte d'explication
+            st.write(
+                "Pour utiliser l'API SmartRescue, vous devez fournir les clés API externes suivantes :"
+            )
+
+            api_key_hf = st.text_input(
+                "HF_API_KEY",
+                type="default",
+                value=st.session_state.get("HF_API_KEY", ""),
+            )
+            api_key_m = st.text_input(
+                "MISTRAL_API_KEY",
+                type="default",
+                value=st.session_state.get("MISTRAL_API_KEY", ""),
+            )
 
             if st.button("Submit"):
                 st.session_state["HF_API_KEY"] = api_key_hf
