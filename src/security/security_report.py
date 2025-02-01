@@ -13,32 +13,39 @@ from sendgrid.helpers.mail import Mail, Email, To, Content
 import os
 from dotenv import load_dotenv
 
-#Charger les variabels d'environnement 
+# Charger les variabels d'environnement
 load_dotenv()
 SENDGRID_API_KEY = os.getenv("SENDGRID_API_KEY")
 FROM_EMAIL = os.getenv("FROM_EMAIL")
 RECIPIENT_EMAIL = os.getenv("RECIPIENT_EMAIL")
 
-#Chemin vers la DB
-db_path = "sqlite:///../../../database/db_logs.db"
+# Chemin vers la DB
+db_path = "sqlite:///../../database/db_logs.db"
+
 
 class SecurityReport:
-    def __init__(self, db_path = db_path, sendgrid_api_key = SENDGRID_API_KEY, from_email = FROM_EMAIL, recipient_email = RECIPIENT_EMAIL):
+    def __init__(
+        self,
+        db_path=db_path,
+        sendgrid_api_key=SENDGRID_API_KEY,
+        from_email=FROM_EMAIL,
+        recipient_email=RECIPIENT_EMAIL,
+    ):
         self.DB_PATH = db_path
         self.sendgrid_api_key = sendgrid_api_key
         self.from_email = from_email
         self.recipient_email = recipient_email
 
     def query_daily_logs(self):
-        '''
+        """
         Récupère les logs de la journée
-        '''
-        #Initialisation des horaires
+        """
+        # Initialisation des horaires
         today = datetime.now().date()
         start_of_day = datetime.combine(today, datetime.min.time())
         end_of_day = datetime.combine(today, datetime.max.time())
 
-        #Connection à la BDD et requete
+        # Connection à la BDD et requete
         conn = sqlite3.connect(self.DB_PATH)
         query = """
             SELECT 
@@ -54,62 +61,62 @@ class SecurityReport:
             WHERE log.timestamp BETWEEN ? AND ?
         """
 
-        #Logs récupérés au format DataFrame 
-        df = pd.read_sql_query(query, conn, params = (start_of_day, end_of_day))
+        # Logs récupérés au format DataFrame
+        df = pd.read_sql_query(query, conn, params=(start_of_day, end_of_day))
         conn.close()
         return df
 
     def _create_pipeline(self):
-        '''
+        """
         Crée un pipeline pour préparer les données au Machine Learning
-        '''
-        #Pipeline pour les données textuelles 
-        text_pipeline = Pipeline([
-            ('tfidf', TfidfVectorizer(max_features=50))
-        ])
+        """
+        # Pipeline pour les données textuelles
+        text_pipeline = Pipeline([("tfidf", TfidfVectorizer(max_features=50))])
 
-        #Pipeline pour les données catgéorielles 
-        cat_pipeline = Pipeline([
-             ('onehot', OneHotEncoder(handle_unknown='ignore', sparse_output=False))
-        ])
-
-        #Combinaison des méthodes 
-        preprocessor = ColumnTransformer(
-            transformers=[
-                ('timestamp', text_pipeline, 'timestamp'),
-                ('prompt', text_pipeline, 'prompt'),
-                ('response', text_pipeline, 'response'),
-                ('status', cat_pipeline, 'status'),
-                ('origin', text_pipeline, 'origin')
-            ],
-            remainder = 'drop'
+        # Pipeline pour les données catgéorielles
+        cat_pipeline = Pipeline(
+            [("onehot", OneHotEncoder(handle_unknown="ignore", sparse_output=False))]
         )
 
-        #Pipeline principale
-        pipeline = Pipeline([
-            ('preprocessor', preprocessor),
-            ('scaler', StandardScaler(with_mean=False))
-        ])
+        # Combinaison des méthodes
+        preprocessor = ColumnTransformer(
+            transformers=[
+                ("timestamp", text_pipeline, "timestamp"),
+                ("prompt", text_pipeline, "prompt"),
+                ("response", text_pipeline, "response"),
+                ("status", cat_pipeline, "status"),
+                ("origin", text_pipeline, "origin"),
+            ],
+            remainder="drop",
+        )
+
+        # Pipeline principale
+        pipeline = Pipeline(
+            [
+                ("preprocessor", preprocessor),
+                ("scaler", StandardScaler(with_mean=False)),
+            ]
+        )
 
         return pipeline
 
     def clustering_log(self, max_clusters=10):
-        '''
+        """
         Réalise un clustering sur les logs journaliers et retourne le meilleur nombre de clusters
-        '''
-        #Initalisation
+        """
+        # Initalisation
         best_score = -1
         best_n_clusters = 2
 
-        #Récupère les logs journaliers 
+        # Récupère les logs journaliers
         logs = self.query_daily_logs()
 
-        #Prétraitement
+        # Prétraitement
         preprocessor = self._create_pipeline()
         logs = preprocessor.fit_transform(logs)
 
-        for n_clusters in range(2, max_clusters+1):
-            self.model = KMeans(n_clusters = n_clusters, random_state=0)
+        for n_clusters in range(2, max_clusters + 1):
+            self.model = KMeans(n_clusters=n_clusters, random_state=0)
             self.model.fit(logs)
             score = silhouette_score(logs, self.model.labels_)
             print(f"Nombre de clusters : {n_clusters}, Sillhouette Score : {score:.4f}")
@@ -117,25 +124,28 @@ class SecurityReport:
             if score > best_score:
                 best_score = score
                 best_n_clusters = n_clusters
-        
-        print(f"\nMeilleur nombre de clusters : {best_n_clusters}, Silhouette Score : {best_score:.4f}")
+
+        print(
+            f"\nMeilleur nombre de clusters : {best_n_clusters}, Silhouette Score : {best_score:.4f}"
+        )
         return best_n_clusters
 
     def generate_report(self, logs):
-        '''
+        """
         Génère un rapport HTML sur les logs journaliers
-        '''
+        """
         date_str = datetime.now().strftime("%d/%m/%Y")
         total_logs = len(logs)
-        status_counts = logs['status'].value_counts().to_dict()
+        status_counts = logs["status"].value_counts().to_dict()
         n_clusters = self.clustering_log()
 
-        #Création d'une liste des statuts sous forme de texte
+        # Création d'une liste des statuts sous forme de texte
         status_html = "".join(
-            f"<li><strong>{status}:</strong> {count}</li>" for status, count in status_counts.items()
+            f"<li><strong>{status}:</strong> {count}</li>"
+            for status, count in status_counts.items()
         )
 
-        #Construction du rapport en HTML
+        # Construction du rapport en HTML
         report = f"""
         <html>
         <head>
@@ -191,13 +201,13 @@ class SecurityReport:
         </body>
         </html>
         """
-        
+
         return report
 
     def send_email(self, subject, body):
-        '''
+        """
         Envoie un email
-        '''
+        """
         sg = sendgrid.SendGridAPIClient(api_key=self.sendgrid_api_key)
         from_email = Email(self.from_email)
         to_email = To(self.recipient_email)
@@ -211,15 +221,12 @@ class SecurityReport:
             print(f"Erreur, email non-envoyé: {e}")
 
     def run_daily_report(self):
-        '''
+        """
         Exécute le rapport journalier
-        '''
-        #Génère le rapport
+        """
+        # Génère le rapport
         logs = self.query_daily_logs()
         report = self.generate_report(logs)
 
-        #Envoie de l'email 
-        self.send_email(
-            subject="Rapport de sécurité journalier",
-            body = report
-        )
+        # Envoie de l'email
+        self.send_email(subject="Rapport de sécurité journalier", body=report)
