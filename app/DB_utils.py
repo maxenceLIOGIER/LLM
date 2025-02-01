@@ -52,9 +52,20 @@ class Database:
         """
         Inserts a row into the specified table.
 
-        :param table: SQLAlchemy Table object.
+        :param table: str.
         :param data: Dictionary of column names and values.
         :return: True if insertion is successful, otherwise False.
+
+        clés pour enregistrer dans la table prompt:
+            - session_id
+            - origin
+            - prompt
+            - response
+
+        clés pour enregistrer dans la table log :
+            - timestamp
+            - prompt
+            - status
         """
         if not data:
             print("Error: No data provided for insertion.")
