@@ -5,7 +5,7 @@ from sklearn.cluster import KMeans
 from sklearn.pipeline import Pipeline
 from sklearn.compose import ColumnTransformer
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.preprocessing import StandardScaler, LabelEncoder, FunctionTransformer
+from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.metrics import silhouette_score
 import matplotlib.pyplot as plt
 import sendgrid
@@ -20,7 +20,7 @@ FROM_EMAIL = os.getenv("FROM_EMAIL")
 RECIPIENT_EMAIL = os.getenv("RECIPIENT_EMAIL")
 
 #Chemin vers la DB
-db_path = "../../database/db_logs.db"
+db_path = "sqlite:///../../../database/db_logs.db"
 
 class SecurityReport:
     def __init__(self, db_path = db_path, sendgrid_api_key = SENDGRID_API_KEY, from_email = FROM_EMAIL, recipient_email = RECIPIENT_EMAIL):
@@ -70,7 +70,7 @@ class SecurityReport:
 
         #Pipeline pour les données catgéorielles 
         cat_pipeline = Pipeline([
-            ('label_encoder', FunctionTransformer(lambda x: LabelEncoder().fit_transform(x.to_numpy()).reshape(-1, 1)))
+             ('onehot', OneHotEncoder(handle_unknown='ignore', sparse_output=False))
         ])
 
         #Combinaison des méthodes 

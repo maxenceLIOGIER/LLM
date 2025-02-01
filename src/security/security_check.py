@@ -1,108 +1,25 @@
-import sqlite3
 from datetime import datetime
-import re
 from sklearn.metrics.pairwise import cosine_similarity
 from langchain_mistralai import MistralAIEmbeddings
 import os
-import sendgrid
-from sendgrid.helpers.mail import Mail, Email, To, Content
 from dotenv import load_dotenv
 import numpy as np
-from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker
 import sys
 from rapidfuzz import fuzz
 import requests
+from pathlib import Path
 
 #racine du projet au PYTHONPATH
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../')))
-
-from database.models import Base, Origin, Status, Prompt, Log 
-
 
 #chargement des variables d'environnements
 load_dotenv()
 HF_TOKEN = os.getenv("HF_API_KEY")
 MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
-SENDGRID_API_KEY = os.getenv("SENDGRID_API_KEY")
-FROM_EMAIL = os.getenv("FROM_EMAIL")
-RECIPIENT_EMAIL = os.getenv("RECIPIENT_EMAIL")
-
-# Configuration de la base de données
-DATABASE_URL = "sqlite:///../../database/db_logs.db"
-engine = create_engine(DATABASE_URL, echo=True)
-SessionLocal = sessionmaker(bind=engine)
-Base.metadata.create_all(bind=engine)
 
 class SecurityCheck:
-    def __init__(self, db_path, sendgrid_api_key = SENDGRID_API_KEY, from_email = FROM_EMAIL, recipient_email = RECIPIENT_EMAIL):
-        self.DB_PATH = db_path
-        self.sendgrid_api_key = sendgrid_api_key
-        self.from_email = from_email
-        self.recipient_email = recipient_email
-        self.session = SessionLocal()
-
-    def log_event_db(self, prompt : str, status : str, origin : str):
-        '''
-        Journalise les événements dans la BDD
-        '''
-        try:
-            #Ajouter à la table Origin
-            new_origin = Origin(response=origin)
-            self.session.add(new_origin)
-            self.session.commit()
-
-            #Ajouter à la table Status
-            new_status = Status(status=status)
-            self.session.add(new_status)
-            self.session.commit()
-
-            #Ajouter à la table Prompt
-            new_prompt = Prompt(
-                id_origin=new_origin.id_origin,
-                prompt=prompt,
-                response="Réponse générée automatiquement"
-            )
-            self.session.add(new_prompt)
-            self.session.commit()
-
-            #Ajouter à la table Log
-            new_log = Log(
-                timestamp=datetime.utcnow(),
-                id_prompt=new_prompt.id_prompt,
-                id_status=new_status.id_status,
-                id_origin=new_origin.id_origin
-            )
-            self.session.add(new_log)
-            self.session.commit()
-
-            print(f"Événement journalisé : {prompt} - {status}")
-            
-        except Exception as e:
-            self.session.rollback()
-            print(f"Erreur lors de l'insertion dans la base : {e}")
-    
-    def close_session(self):
-        '''
-        Ferme la session BDD
-        '''
-        self.session.close()
-
-    def _send_email(self, subject : str, body : str):
-        '''
-        Envoie un email avec les détails du rejet
-        '''
-        sg = sendgrid.SendGridAPIClient(api_key=self.sendgrid_api_key)
-        from_email = Email(self.from_email)
-        to_email = To(self.recipient_email)
-        content = Content("text/plain", body)
-        mail = Mail(from_email, to_email, subject, content)
-
-        try:
-            response = sg.client.mail.send.post(request_body=mail.get())
-            print(f"Email envoyé avec succès: {response.status_code}")
-        except Exception as e:
-            print(f"Erreur : eamil non-envoyé: {e}")
+    def __init__(self, mistral_api_key = MISTRAL_API_KEY):
+        self.mistral_api_key = mistral_api_key
 
     def _get_ip_address(self):
         """
@@ -117,7 +34,7 @@ class SecurityCheck:
             print(f"Erreur lors de la récupération de l'IP : {e}")
             return None
 
-    def filter_and_normalize_input(self, prompt: str, seuil_fuzzy = 80) -> str:
+    def filter_and_check_security(self, prompt: str, seuil_fuzzy = 80, check_char : bool = True) -> str:
         """
         Filtre et normalise les entrées utilisateur.
         Vérifie la présence de caractères interdits et de mots interdits.
@@ -139,52 +56,37 @@ class SecurityCheck:
             "contournement", "autorisation"
         ]
 
-        #Vérifie la présence de caractères interdits, enregistre un log et envoie un email 
-        if any(char in forbidden_chars for char in prompt):
-            self.log_event_db(
-                prompt=prompt,
-                status="Rejeté : caractères interdits",
-                origin=self._get_ip_address()
-            )
-            self._send_email(
-                subject="Rejet de prompt : caractères interdits",
-                body=f"Le prompt suivant a été rejeté en raison de caractères interdits : \n\n"
-                        f"{prompt}\n\n"
-                        f"L'adresse IP est la suivante : {self._get_ip_address()}"
-            )
-            raise ValueError("Entrée invalide : contient des caractères interdits.")
+        #Initialisation d'un dictionnaire 
+        results = dict()
 
-        #Vérifie la présence de mots interdits, enregistre un log et envoie un email 
+        #Vérifie la présence de caractères interdits et attribut les caractéristiques du filtre
+        if check_char:
+            if any(char in forbidden_chars for char in prompt):
+                results["status"] = "Rejeté : caractères interdits"
+                results["origin"] = self._get_ip_address()
+                results["timestamp"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+                return results
+
+        #Vérifie la présence de mots interdits et attribut les caractéristiques du filtre
         prompt_words = prompt.split()
         for p_word in prompt_words : 
             for f_word in forbidden_words : 
                 if fuzz.ratio(p_word.lower(), f_word.lower()) >= seuil_fuzzy:
-                    self.log_event_db(
-                        prompt=prompt,
-                        status="Rejeté : mots interdits",
-                        origin=self._get_ip_address()
-                    )
-                    self._send_email(
-                        subject="Rejet de prompt : mots interdits",
-                        body=f"Le prompt suivant a été rejeté en raison de mots interdits : \n\n"
-                        f"{prompt}\n\n"
-                        f"L'adresse IP est la suivante : {self._get_ip_address()}"
-                    )
-                    raise ValueError("Entrée invalide : contient des mots interdits.")
+                    results["status"] = "Rejeté : mots interdits"
+                    results["origin"] = self._get_ip_address()
+                    results["timestamp"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-        #Suppression des espaces inutiles et mise en minuscule et enregistre un log
-        normalized_input = prompt.strip().lower()
-        normalized_input = re.sub(r"\s+", " ", normalized_input)
+                    return results
 
-        self.log_event_db(
-            prompt=prompt,
-            status="Accepté",
-            origin=self._get_ip_address()
-        )
+        #Attribut les caractéristiques du filtre
+        results["status"] = "Accepté"
+        results["origin"] = self._get_ip_address()
+        results["timestamp"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-        return normalized_input
+        return results
 
-    def prompt_check(self, prompt, docs_embeddings, mistral_api_key = MISTRAL_API_KEY, threshold=0.6) -> bool:
+    def prompt_check(self, prompt, docs_embeddings, threshold=0.6) -> bool:
         """
         Vérifie si une requête utilisateur est pertinente.
         Si hors contexte, il la bloque.
@@ -200,7 +102,7 @@ class SecurityCheck:
         """
         #Embedding du prompt
         try:
-            mistral_embeddings = MistralAIEmbeddings(model="mistral-embed", api_key=mistral_api_key)
+            mistral_embeddings = MistralAIEmbeddings(model="mistral-embed", api_key=self.mistral_api_key)
             prompt_embedding = mistral_embeddings.embed_query(prompt)
 
             prompt_embedding = np.array(prompt_embedding).reshape(1, -1)
