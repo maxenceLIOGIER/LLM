@@ -56,3 +56,9 @@ SmartRescue est une application conçue pour assister les opérateurs d'urgence 
 3. Accédez à l'interface utilisateur via votre navigateur à l'adresse `http://localhost:8501` si celui-ci ne s'est pas lancé directement.
 
 
+
+## Utilisation via Hugging Face
+
+L'application est également disponible sur un space Hugging Face à l'adresse suivante : [https://huggingface.co/spaces/maxenceLIOGIER/SmartRescue](https://huggingface.co/spaces/maxenceLIOGIER/SmartRescue).
+
+Cependant, nous n'avons pas réussi à connecter le micro sur cette plateforme. Pour une utilisation complète, il faudra faire tourner l'application en local comme décrit ci-dessus.
