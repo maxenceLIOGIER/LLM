@@ -11,7 +11,7 @@ CARBON_PER_QUERY = 0.8
 def track_metrics(latency, token_count):
     """Met à jour les métriques avec une nouvelle requête"""
 
-    # Initialiser les métriques globales si elles n'existent pas déjà
+    # Initialiser les métriques globales si elles n'existent pas déja
     if "metrics" not in st.session_state:
         st.session_state.metrics = {
             "total_queries": 0,
