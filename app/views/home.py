@@ -27,7 +27,7 @@ def home_page():
         """
         - 🎙️ **Aide téléphonique** : Enregistrement des conversations et assistance du LLM en temps réel.
         - 📊 **Dashboard** : Suivi des métriques du système RAG (coût, latence, impact environnemental).
-        - 🔐 **Admin** : Suivi des logs d'utilisation, appel d'API, et génération de rapports de sécurité.
+        - 🔐 **Admin** : Suivi des logs d'utilisation, appel d'API, génération de rapports de sécurité et réglage des clés API.
         """
     )
     
