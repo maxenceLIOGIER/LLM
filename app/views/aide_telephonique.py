@@ -374,6 +374,13 @@ def aide_telephonique_page():
                     with st.chat_message("assistant"):
                         st.markdown(response)
 
+                    # Update de la base avec la réponse
+                    cursor_db.execute(
+                        "UPDATE prompt SET response = ? WHERE id_prompt = ?",
+                        (response, st.session_state.id_prompt),
+                    )
+                    db_sqlite.commit()
+
                     # Filtrer les messages pour ne garder que ceux de l'IA
                     ai_messages = [
                         message.content
