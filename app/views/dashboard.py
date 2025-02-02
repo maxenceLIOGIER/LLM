@@ -8,6 +8,15 @@ CARBON_PER_QUERY = 0.8
 
 def track_metrics(latency, token_count):
     """Met à jour les métriques avec une nouvelle requête"""
+
+    if "metrics" not in st.session_state:
+        st.session_state.metrics = {
+            "total_queries": 0,
+            "latency_history": [],
+            "cost_history": [],
+            "carbon_history": [],
+        }
+
     st.session_state.metrics["total_queries"] += 1
     st.session_state.metrics["latency_history"].append(latency)
     st.session_state.metrics["cost_history"].append(token_count * COST_PER_TOKEN)
@@ -48,7 +57,9 @@ def dashboard_page():
     col3.metric("Impact écologique (gCO2)", f"{metrics['carbon_impact']} g")
 
     if st.session_state.metrics["total_queries"] == 0:
-        st.warning("Aucune donnée disponible pour le moment. Posez des questions pour générer des métriques.")
+        st.warning(
+            "Aucune donnée disponible pour le moment. Posez des questions pour générer des métriques."
+        )
         return
 
     # if len(st.session_state.metrics["latency_history"]) > 0:

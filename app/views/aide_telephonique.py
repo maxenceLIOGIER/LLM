@@ -54,6 +54,8 @@ def get_context(prompt, docs_data, top_indices):
     Récupère le contexte d'une requête en utilisant les embeddings de la requête.
     """
     context = ""
+    top_indices = top_indices[0][:3]  # On garde les 3 premiers indices
+
     documents = docs_data["documents"]
     for idx in top_indices:
         context += str(documents[idx]) + " "
