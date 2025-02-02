@@ -117,8 +117,10 @@ def aide_telephonique_page():
     Cela peut être gênant en faussant les résultats du LLM.
     """
 
-    st.title("Requête du modèle")
-    st.subheader("Interrogez le LLM via votre voix ou texte")
+    st.title("Aide téléphonique pour les opérateurs du SAMU")
+    st.subheader(
+        "Interrogez l'IA durant votre appel pour obtenir des aides et conseils"
+    )
 
     # Initialisation de l'état de session
     if "recording" not in st.session_state:
