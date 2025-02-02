@@ -1,5 +1,9 @@
+""" Tableau de bord des performances et de l'impact écologique et financier """
+
 import streamlit as st
 import plotly.express as px
+
+from views.home import arret_enregistrement
 
 # Estimation
 COST_PER_TOKEN = 0.0005
@@ -36,9 +40,13 @@ def get_metrics():
 
 
 def dashboard_page():
-    """Affichage des métriques et graphiques"""
+    """Page permettant de visualiser les métriques de performance et d'impact"""
+
     st.title("Tableau de Bord des Performances")
     st.subheader("Suivi des performances et de l'impact")
+
+    # si enregistrement en cours, on l'arrête
+    arret_enregistrement()
 
     # Stocker les métriques globales
     if "metrics" not in st.session_state:
@@ -58,14 +66,15 @@ def dashboard_page():
 
     if st.session_state.metrics["total_queries"] == 0:
         st.warning(
-            "Aucune donnée disponible pour le moment. Posez des questions pour générer des métriques."
+            "Aucune donnée disponible pour le moment. \
+            Posez des questions pour générer des métriques."
         )
         return
 
     # if len(st.session_state.metrics["latency_history"]) > 0:
     st.subheader("📊 Visualisation des métriques")
 
-    col1, col2, col3 = st.columns(3)
+    col1, col2 = st.columns(2)
 
     with col1:
         fig1 = px.line(
@@ -86,17 +95,3 @@ def dashboard_page():
             color_discrete_sequence=["#1f8b4c"],
         )
         st.plotly_chart(fig2, use_container_width=True)
-
-    with col3:
-        labels = ["Coût Total (€)", "Impact Carbone Total (g CO₂)"]
-        values = [
-            sum(st.session_state.metrics["cost_history"]),
-            sum(st.session_state.metrics["carbon_history"]),
-        ]
-        fig3 = px.pie(
-            names=labels,
-            values=values,
-            title="Répartition des dépenses et impact écologique",
-            color_discrete_sequence=["#1f8b4c", "#a3d9a5"],
-        )
-        st.plotly_chart(fig3, use_container_width=True)

@@ -1,9 +1,13 @@
+### Page Admin ###
+
+import sqlite3
+import hashlib
+from pathlib import Path
 import streamlit as st
 import pandas as pd
-import sqlite3
-from pathlib import Path
 from src.security.security_report import SecurityReport
-import hashlib
+
+from views.home import arret_enregistrement
 
 db_path = Path(__file__).parent.parent.parent / "database" / "db_logs.db"
 
@@ -66,6 +70,8 @@ def adm_page():
     La page Admin permet de visualiser les données stockées dans la base de données,
     sous forme compacte grâce à la requête "query" définie ci-dessus.
     """
+    # si enregistrement en cours, on l'arrête
+    arret_enregistrement()
 
     # Si mdp correct, afficher les onglets
     if check_password():

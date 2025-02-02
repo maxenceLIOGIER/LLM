@@ -36,12 +36,6 @@ try:
 except KeyError:
     HF_API_KEY = os.getenv("HF_API_KEY")
 
-
-# Instanciation du transcripteur
-transcriber = WhisperLiveTranscription(
-    model_id="openai/whisper-small", language="french"
-)
-
 # Instanciation de la sécurité
 security = SecurityCheck()
 
@@ -72,8 +66,6 @@ def get_context(prompt, docs_data, top_indices):
     for idx in top_indices:
         context += str(documents[idx]) + " "
     context += prompt
-
-    print(context)
 
     return context
 
@@ -131,6 +123,8 @@ def aide_telephonique_page():
     # Initialisation de l'état de session
     if "recording" not in st.session_state:
         st.session_state.recording = False
+    if "transcriber" not in st.session_state:
+        st.session_state.transcriber = None
     if "transcription" not in st.session_state:
         st.session_state.transcription = ""
     if "last_transcription" not in st.session_state:
@@ -141,8 +135,6 @@ def aide_telephonique_page():
         st.session_state.ai_history = ""
     if "message_count" not in st.session_state:
         st.session_state.message_count = 0
-    if "session_id" not in st.session_state:
-        st.session_state.session_id = str(uuid.uuid4())
 
     # Contrôles d'enregistrement
     col1, col2 = st.columns(2)
@@ -155,13 +147,18 @@ def aide_telephonique_page():
         # Création du fichier où les transcriptions seront stockées
         # timestamp YYYYMMDD_HHMM :
         timestamp = datetime.now().strftime("%Y%m%d_%H%M")
-        # # Créer le fichier texte vide avec son timestamp
+        # Créer le fichier texte vide avec son timestamp
         st.session_state.file = f"transcription_{timestamp}.txt"
         with open(st.session_state.file, "a"):
             pass
-        # on ira ensuite le remplir via speech_to_text.py
+            # on ira ensuite le remplir via speech_to_text.py
 
+        # Instanciation du transcripteur
+        transcriber = WhisperLiveTranscription(
+            model_id="openai/whisper-small", language="french"
+        )
         transcriber.start_recording()
+        st.session_state.transcriber = transcriber
         st.info("Enregistrement en cours...")
 
         template = """
@@ -346,7 +343,7 @@ def aide_telephonique_page():
                 # Check de sécurité, similarité cosine avec les documents de la DB
                 docs_data = get_docs_embeddings()
                 result = security.prompt_check(
-                    new_transcription, docs_data["embeddings"]
+                    new_transcription, docs_data["embeddings"], threshold=0.6
                 )
 
                 # Safely extract values from result
@@ -385,27 +382,15 @@ def aide_telephonique_page():
                 elif not test_sim_cos:
                     st.error("La requête ne correspond pas à un contexte médical.")
 
-                # # Réponse du LLM
-                # response = llm_chain.invoke(st.session_state.history.messages)
-                # st.session_state.history.add_ai_message(response)
-                # with st.chat_message("assistant"):
-                #     st.markdown(response)
-
-                # # Filtrer les messages pour ne garder que ceux de l'IA
-                # ai_messages = [
-                #     message.content
-                #     for message in st.session_state.history.messages
-                #     if isinstance(message, AIMessage)
-                # ]
-                # st.session_state.ai_history = ai_messages
-
             else:
+                # on recommence la boucle et on attend 5 secondes
                 continue
 
     if col2.button("⏹️ Arrêter l'enregistrement"):
         if st.session_state.recording:
             st.session_state.recording = False
-            transcriber.stop_recording()
+            if st.session_state.transcriber:
+                st.session_state.transcriber.stop_recording()
             st.success("Enregistrement terminé")
 
             llm = HuggingFaceEndpoint(

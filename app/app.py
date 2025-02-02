@@ -1,3 +1,5 @@
+### Création de l'application Streamlit de SmartRescue ###
+
 import base64
 from streamlit_option_menu import option_menu
 import uvicorn
@@ -10,7 +12,6 @@ from views.home import home_page
 from views.dashboard import dashboard_page
 from views.aide_telephonique import aide_telephonique_page
 from views.admin import adm_page
-from views.chatbot import chatbot_page
 
 APP_TITLE = "SmartRescue"
 API_PORT = 8901
@@ -88,8 +89,8 @@ def main():
         add_logo()
         selected = option_menu(
             menu_title="Navigation",
-            options=["Home", "Aide téléphonique", "Chatbot", "Dashboard", "Admin"],
-            icons=["house", "phone", "robot", "bar-chart", "shield"],
+            options=["Home", "Aide téléphonique", "Dashboard", "Admin"],
+            icons=["house", "phone", "bar-chart", "shield"],
             default_index=0,
         )
 
@@ -97,8 +98,6 @@ def main():
         home_page()
     elif selected == "Aide téléphonique":
         aide_telephonique_page()
-    elif selected == "Chatbot":
-        chatbot_page()
     elif selected == "Dashboard":
         dashboard_page()
     elif selected == "Admin":
