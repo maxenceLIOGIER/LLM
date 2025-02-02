@@ -20,7 +20,7 @@ FROM_EMAIL = os.getenv("FROM_EMAIL")
 RECIPIENT_EMAIL = os.getenv("RECIPIENT_EMAIL")
 
 # Chemin vers la DB
-db_path = "sqlite:///../../database/db_logs.db"
+db_path = "sqlite:///../../database/db_logsv2.db"
 
 
 class SecurityReport:
@@ -65,7 +65,7 @@ class SecurityReport:
                 prompt.prompt AS prompt,
                 prompt.response AS response,
                 status.status AS status,
-                origin.response AS origin
+                origin.origin AS origin
             FROM log
             LEFT JOIN prompt ON log.id_prompt = prompt.id_prompt
             LEFT JOIN status ON log.id_status = status.id_status
@@ -84,6 +84,8 @@ class SecurityReport:
         # Logs récupérés au format DataFrame
         df = pd.read_sql_query(query, conn, params=params)
         conn.close()
+        df["timestamp"] = df["timestamp"].astype(str)
+        df= df.fillna("unknow")
 
         return df
 
