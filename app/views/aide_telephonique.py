@@ -39,19 +39,22 @@ def get_docs_embeddings():
         embedding_function=None,
         persist_directory=persist_directory,
     )
-    docs_embeddings = docs_embeddings._collection.get(include=["embeddings"])
+    docs_data = docs_embeddings._collection.get(include=["embeddings", "documents"])
 
-    return docs_embeddings
+    return docs_data
 
 
-def get_context(prompt, docs_embeddings, top_indices):
+def get_context(prompt, docs_data, top_indices):
     """
     Récupère le contexte d'une requête en utilisant les embeddings de la requête.
     """
     context = ""
+    documents = docs_data["documents"]
     for idx in top_indices:
-        context += docs_embeddings[idx] + " "
+        context += str(documents[idx]) + " "
     context += prompt
+
+    print(context)
 
     return context
 
@@ -161,10 +164,10 @@ def aide_telephonique_page():
 
             **Voici la dernière déclaration ou question de l'opérateur :**  
             {text_query}
+
+            **Voici le contexte dont tu auras besoin pour répondre au mieux aux questions:**
+            {context}
         """
-        #      **Voici le contexte dont tu auras besoin pour répondre au mieux aux questions:**
-        #      {context}
-        # """
 
         prompt = PromptTemplate(
             template=template, input_variables=["text_query", "context"]
@@ -223,8 +226,10 @@ def aide_telephonique_page():
                 )
 
                 # Check de sécurité, similarité cosine avec les documents de la DB
-                docs_embeddings = get_docs_embeddings()
-                result = security.prompt_check(new_transcription, docs_embeddings["embeddings"])
+                docs_data = get_docs_embeddings()
+                result = security.prompt_check(
+                    new_transcription, docs_data["embeddings"]
+                )
 
                 # Safely extract values from result
                 top_indices = np.array([])
@@ -241,7 +246,7 @@ def aide_telephonique_page():
                         {
                             "text_query": st.session_state.history.messages,
                             "context": get_context(
-                                new_transcription, docs_embeddings, top_indices
+                                new_transcription, docs_data, top_indices
                             ),
                         }
                     )
