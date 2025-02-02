@@ -290,7 +290,7 @@ class SecurityReport:
                 </ul>
                 <p><u><strong>🔍 Nombre de comportements différents détectés :</strong></u> {n_clusters}</p>
                 <div class="footer">
-                    Rapport généré automatiquement par le système de surveillance. 🛡️
+                    Rapport généré avec amour et passion par le système de surveillance. 🫶 🛡️
                 </div>
             </div>
         </body>
