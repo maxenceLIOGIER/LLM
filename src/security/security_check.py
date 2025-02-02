@@ -61,8 +61,8 @@ class SecurityCheck:
             return None
 
     def filter_and_check_security(
-        self, prompt: str, seuil_fuzzy=80, check_char: bool = True
-    ) -> str:
+        self, prompt: str, seuil_fuzzy: int = 80, check_char: bool = True
+    ) -> dict:
         """
         Filtre et normalise les entrées utilisateur.
         Vérifie la présence de caractères interdits et de mots interdits dans le prompt.
@@ -187,8 +187,8 @@ class SecurityCheck:
         return results
 
     def prompt_check(
-        self, prompt: str, docs_embeddings: list, threshold: float = 0.6
-    ) -> bool:
+        self, prompt: str, docs_embeddings: list[list[float]], threshold: float = 0.6
+    ) -> tuple[bool, np.ndarray]:
         """
         Vérifie si une requête utilisateur est pertinente.
         Si la requête est hors contexte par rapport aux documents de référence, elle est bloquée.
