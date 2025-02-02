@@ -210,4 +210,4 @@ def adm_page():
             if st.button("Submit"):
                 st.session_state["HF_API_KEY"] = api_key_hf
                 st.session_state["MISTRAL_API_KEY"] = api_key_m
-                st.success("Information submitted successfully!")
+                st.success("Les clés API ont été mises à jour avec succès.")

@@ -8,14 +8,22 @@ import sys
 from rapidfuzz import fuzz
 import requests
 from pathlib import Path
+import streamlit as st
 
 # racine du projet au PYTHONPATH
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../../")))
 
 # chargement des variables d'environnements
 load_dotenv()
-HF_TOKEN = os.getenv("HF_API_KEY")
-MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
+try:
+    HF_TOKEN = st.session_state["HF_API_KEY"]
+except KeyError:
+    HF_TOKEN = os.getenv("HF_API_KEY")
+
+try:
+    MISTRAL_API_KEY = st.session_state["MISTRAL_API_KEY"]
+except KeyError:
+    MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
 
 
 class SecurityCheck:

@@ -18,14 +18,12 @@ from typing_extensions import List, TypedDict
 
 from views.dashboard import track_metrics
 
+# Chargement de la clé API Hugging Face
 load_dotenv()
-
-# Vérifier que la clé API
-hf_api_key = os.getenv("HF_API_KEY")
-
-if not hf_api_key:
-    st.error("⚠️ Erreur API.")
-    st.stop()
+try:
+    hf_api_key = st.session_state["HF_API_KEY"]
+except KeyError:
+    hf_api_key = os.getenv("HF_API_KEY")
 
 
 # Fonction pour initialiser le modèle et les ressources (ne s'exécute qu'une seule fois)
