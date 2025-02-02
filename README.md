@@ -1,3 +1,15 @@
+---
+title: "SmartRescue"
+emoji: "🚑"
+colorFrom: "#ff7f7f"
+colorTo: "#ff4d4d"
+sdk: "streamlit"
+sdk_version: "1.15"
+app_file: app/app.py
+pinned: false
+---
+
+
 # SmartRescue
 
 SmartRescue est une application conçue pour assister les opérateurs d'urgence grâce à l'intégration d'un **LLM (Large Language Model)** et d'un **RAG (Retrieval-Augmented Generation)**. Cette technologie permet d'améliorer la prise de décision en temps réel et de fournir une assistance rapide et efficace lors des appels d'urgence.
