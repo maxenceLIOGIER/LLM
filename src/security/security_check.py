@@ -165,6 +165,7 @@ class SecurityCheck:
         if check_char:
             if any(char in forbidden_chars for char in prompt):
                 results["status"] = "Rejeté : caractères interdits"
+                results["status"] = "Rejeté"
                 results["origin"] = self._get_ip_address()
                 results["timestamp"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
                 return results
@@ -175,6 +176,7 @@ class SecurityCheck:
             for f_word in forbidden_words:
                 if fuzz.ratio(p_word.lower(), f_word.lower()) >= seuil_fuzzy:
                     results["status"] = "Rejeté : mots interdits"
+                    results["status"] = "Rejeté"
                     results["origin"] = self._get_ip_address()
                     results["timestamp"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
                     return results

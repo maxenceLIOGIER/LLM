@@ -35,10 +35,10 @@ class Prompt(Base):
         String, primary_key=True, index=True, default=lambda: str(uuid.uuid4())
     )
     session_id = Column(String, nullable=False)
-    id_origin = Column(String, ForeignKey("origin.id_origin"), nullable=False)
+    id_origin = Column(String, ForeignKey("origin.id_origin"), nullable=True)
     prompt = Column(String, nullable=True)
     response = Column(String, nullable=True)
-    timestamp = Column(DateTime, nullable=True)
+    timestamp = Column(DateTime, nullable=True, default=datetime.now)
 
 
 class Log(Base):
@@ -109,7 +109,7 @@ class Database:
                     )
                     session.execute(insert_prompt)
                     session.commit()
-                    return id_origin, True
+                    return id_prompt, True
                 if table == "log":
                     statement = select(Status).where(Status.status == data["status"])
                     id_status = session.scalar(statement=statement)

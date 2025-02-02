@@ -152,32 +152,14 @@ def aide_telephonique_page():
         st.session_state.recording = True
         st.session_state.history = ChatMessageHistory()
 
-        # Initialisation de la transcription dans la base de données avec Db_utils
-        id_prompt, sucess = bdd.insert(
-            table="prompt",
-            data={
-                "session_id": st.session_state.session_id,
-                "origin": "aide_telephonique",
-                "prompt": "",
-                "response": "",
-            },
-        )
-
-        if sucess:
-            st.session_state.id_prompt = id_prompt
-        else:
-            st.error(
-                f"Erreur lors de l'initialisation de la transcription : {id_prompt}"
-            )
-
         # Création du fichier où les transcriptions seront stockées
         # timestamp YYYYMMDD_HHMM :
         timestamp = datetime.now().strftime("%Y%m%d_%H%M")
-        # Créer le fichier texte vide avec son timestamp
+        # # Créer le fichier texte vide avec son timestamp
         st.session_state.file = f"transcription_{timestamp}.txt"
         with open(st.session_state.file, "a"):
             pass
-            # on ira ensuite le remplir via speech_to_text.py
+        # on ira ensuite le remplir via speech_to_text.py
 
         transcriber.start_recording()
         st.info("Enregistrement en cours...")
@@ -225,6 +207,7 @@ def aide_telephonique_page():
         # Appel du LLM toutes les 5 secondes sur la nouvelle transcription
         while st.session_state.recording:
             time.sleep(5)
+
             with open(st.session_state.file, "r", encoding="utf-8") as f:
                 transcription = f.read()
 
@@ -235,6 +218,22 @@ def aide_telephonique_page():
             st.session_state.last_transcription = transcription
 
             if new_transcription:
+                # Enregistrement en base avec sqlite3
+                st.session_state.id_prompt = str(uuid.uuid4())
+                query = """
+                    INSERT INTO prompt (id_prompt, session_id, prompt)
+                    VALUES (?, ?, ?)
+                """
+                cursor_db.execute(
+                    query,
+                    (
+                        st.session_state.id_prompt,
+                        st.session_state.session_id,
+                        new_transcription,
+                    ),
+                )
+                db_sqlite.commit()
+
                 st.session_state.history.add_user_message(new_transcription)
                 # with st.chat_message("user"):
                 #     st.markdown(new_transcription)
@@ -267,6 +266,34 @@ def aide_telephonique_page():
                 filtre = security.filter_and_check_security(
                     prompt=new_transcription, check_char=False
                 )
+
+                # Update de la base avec les résultats
+                cursor_db.execute(
+                    """
+                    UPDATE log
+                    SET 
+                        id_status = (
+                            SELECT id_status 
+                            FROM status 
+                            WHERE status = ?
+                        ),
+                        id_origin = (
+                            SELECT id_origin 
+                            FROM origin 
+                            WHERE origin = ?
+                        ),
+                        timestamp = ?
+                    WHERE id_prompt = ?
+                    """,
+                    (
+                        filtre["status"],
+                        filtre["origin"],
+                        filtre["timestamp"],
+                        st.session_state.id_prompt,
+                    ),
+                )
+
+                db_sqlite.commit()
 
                 # Check de sécurité, similarité cosine avec les documents de la DB
                 docs_data = get_docs_embeddings()
