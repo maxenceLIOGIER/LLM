@@ -77,6 +77,7 @@ pure-eval
 pyarrow==18.1.0
 PyAudio==0.2.14
 pycparser==2.22
+pydantic
 Pygments
 pyparsing==3.2.1
 python-dateutil
@@ -94,6 +95,7 @@ scipy==1.13.1
 seaborn==0.13.2
 sendgrid
 six
+sqlalchemy
 soundfile==0.13.0
 soxr==0.5.0.post1
 stack-data

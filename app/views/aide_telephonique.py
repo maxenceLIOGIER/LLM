@@ -135,6 +135,8 @@ def aide_telephonique_page():
         st.session_state.ai_history = ""
     if "message_count" not in st.session_state:
         st.session_state.message_count = 0
+    if "session_id" not in st.session_state:
+        st.session_state.session_id = str(uuid.uuid4())
 
     # Contrôles d'enregistrement
     col1, col2 = st.columns(2)
