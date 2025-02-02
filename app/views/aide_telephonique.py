@@ -215,22 +215,6 @@ def aide_telephonique_page():
             st.session_state.last_transcription = transcription
 
             if new_transcription:
-                # Enregistrement en base avec sqlite3
-                st.session_state.id_prompt = str(uuid.uuid4())
-                query = """
-                    INSERT INTO prompt (id_prompt, session_id, prompt)
-                    VALUES (?, ?, ?)
-                """
-                cursor_db.execute(
-                    query,
-                    (
-                        st.session_state.id_prompt,
-                        st.session_state.session_id,
-                        new_transcription,
-                    ),
-                )
-                db_sqlite.commit()
-
                 st.session_state.history.add_user_message(new_transcription)
                 # with st.chat_message("user"):
                 #     st.markdown(new_transcription)
@@ -267,7 +251,7 @@ def aide_telephonique_page():
                 # Update de la base avec les résultats
 
                 # Table origin
-                # vérifier que l'origin n'existe pas déjà
+                # vérifier que l'origine n'existe pas déjà
                 cursor_db.execute(
                     "SELECT id_origin FROM origin WHERE origin = ?", (filtre["origin"],)
                 )
@@ -286,6 +270,7 @@ def aide_telephonique_page():
                     id_origin = resu[0]
 
                 # Table Status
+                # vérifier que le status n'existe pas déjà
                 cursor_db.execute(
                     "SELECT id_status FROM status WHERE status = ?", (filtre["status"],)
                 )
@@ -304,6 +289,22 @@ def aide_telephonique_page():
                     id_status = resu[0]
 
                 # Table Prompt
+                st.session_state.id_prompt = str(uuid.uuid4())
+                query = """
+                    INSERT INTO prompt (id_prompt, session_id, id_origin, prompt, timestamp)
+                    VALUES (?, ?, ?, ?, ?)
+                """
+                cursor_db.execute(
+                    query,
+                    (
+                        st.session_state.id_prompt,
+                        st.session_state.session_id,
+                        id_origin,
+                        new_transcription,
+                        filtre["timestamp"],
+                    ),
+                )
+                db_sqlite.commit()
                 cursor_db.execute(
                     """
                     UPDATE prompt
@@ -326,7 +327,7 @@ def aide_telephonique_page():
                 cursor_db.execute(
                     """
                     INSERT INTO log
-                    (id_log, timestamp, id_prompt, id_status, origin)
+                    (id_log, timestamp, id_prompt, id_status, id_origin)
                     VALUES (?, ?, ?, ?, ?)
                     """,
                     (
