@@ -161,16 +161,16 @@ def adm_page():
 
         # Section Rapport Journalier
         with tab2:
-            st.markdown("## 📊 Rapport Journalier")
+            st.markdown("## 📊 Rapport Logs")
             st.write(
-                "Générez par mail un rapport détaillé des événements de la journée, incluant les alertes de sécurité, "
+                "Générez par mail un rapport détaillé des événements, incluant les alertes de sécurité, "
                 "les activités suspectes et les tendances globales des interactions avec SmartRescue."
             )
 
             if st.button("📝 Générer le rapport"):
                 report = SecurityReport()
-                report.run_daily_report()
-                st.success("✅ Rapport journalier généré avec succès !")
+                report.run_report()
+                st.success("✅ Rapport généré avec succès !")
 
         # Section API SmartRescue
         with tab3:

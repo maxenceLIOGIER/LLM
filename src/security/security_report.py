@@ -36,7 +36,7 @@ class SecurityReport:
         self.from_email = from_email
         self.recipient_email = recipient_email
 
-    def query_daily_logs(self) -> pd.DataFrame:
+    def query_logs(self, day:str = None) -> pd.DataFrame:
         """
         Récupère les logs de la journée sous forme de DataFrame.
 
@@ -56,10 +56,6 @@ class SecurityReport:
                 - status: Statut du log.
                 - origin: Adresse IP de l'utilisateur.
         """
-        # Initialisation des horaires
-        today = datetime.now().date()
-        start_of_day = datetime.combine(today, datetime.min.time())
-        end_of_day = datetime.combine(today, datetime.max.time())
 
         # Connection à la BDD et requete
         conn = sqlite3.connect(self.DB_PATH)
@@ -74,12 +70,21 @@ class SecurityReport:
             LEFT JOIN prompt ON log.id_prompt = prompt.id_prompt
             LEFT JOIN status ON log.id_status = status.id_status
             LEFT JOIN origin ON log.id_origin = origin.id_origin
-            WHERE log.timestamp BETWEEN ? AND ?
         """
+        # Initialisation des paramètres
+        params = ()
+
+        # Initialisation des horaires si date présente 
+        if day:
+            start_of_day = datetime.combine(day, datetime.min.time())
+            end_of_day = datetime.combine(day, datetime.max.time())
+            query += " WHERE log.timestamp BETWEEN ? AND ?"
+            params = (start_of_day, end_of_day)
 
         # Logs récupérés au format DataFrame
-        df = pd.read_sql_query(query, conn, params=(start_of_day, end_of_day))
+        df = pd.read_sql_query(query, conn, params=params)
         conn.close()
+        df = df.dropna()
         return df
 
     def _create_pipeline(self):
@@ -100,8 +105,13 @@ class SecurityReport:
             sklearn.pipeline.Pipeline: Un pipeline scikit-learn qui prépare les données 
             avant leur utilisation en Machine Learning.
         """
+
+        # Colonnes catégorielles et textuelles
+        categorical_features = ["status"]
+        text_features = ["timestamp", "prompt", "response", "origin"]
+
         # Pipeline pour les données textuelles
-        text_pipeline = Pipeline([("tfidf", TfidfVectorizer(max_features=50))])
+        text_pipeline = Pipeline([("tfidf", TfidfVectorizer(max_features=50, stop_words=None, analyzer="word"))])
 
         # Pipeline pour les données catgéorielles
         cat_pipeline = Pipeline(
@@ -111,11 +121,8 @@ class SecurityReport:
         # Combinaison des méthodes
         preprocessor = ColumnTransformer(
             transformers=[
-                ("timestamp", text_pipeline, "timestamp"),
-                ("prompt", text_pipeline, "prompt"),
-                ("response", text_pipeline, "response"),
-                ("status", cat_pipeline, "status"),
-                ("origin", text_pipeline, "origin"),
+            ("text", text_pipeline, text_features), 
+            ("cat", cat_pipeline, categorical_features),
             ],
             remainder="drop",
         )
@@ -161,7 +168,7 @@ class SecurityReport:
         best_n_clusters = 2  # Nombre optimal de clusters
 
         # Récupère les logs journaliers
-        logs = self.query_daily_logs()
+        logs = self.query_logs()
 
         # Prétraitement des logs
         preprocessor = self._create_pipeline()
@@ -332,7 +339,7 @@ class SecurityReport:
             # Si une erreur survient, affichage du message d'erreur
             print(f"Erreur, email non-envoyé: {e}")
 
-    def run_daily_report(self):
+    def run_report(self):
         """
         Exécute le rapport journalier de sécurité et l'envoie par email.
 
@@ -349,7 +356,7 @@ class SecurityReport:
         """
         
         # Récupérer les logs de la journée
-        logs = self.query_daily_logs()
+        logs = self.query_logs()
         
         # Générer un rapport à partir des logs récupérés
         report = self.generate_report(logs)
