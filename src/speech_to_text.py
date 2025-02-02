@@ -1,15 +1,26 @@
-# Imports
-from datetime import datetime
-from typing import Optional, Dict
 import glob
 import queue
+import sqlite3
+import sys
 import threading
 import time
+from datetime import datetime
+from pathlib import Path
+from typing import Optional, Dict
 
 import numpy as np
 import pyaudio
+import streamlit as st
 import torch
-from transformers import WhisperProcessor, WhisperForConditionalGeneration
+from transformers import WhisperForConditionalGeneration, WhisperProcessor
+
+# sys.path.append(str(Path(__file__).parents[1]))
+# from app.DB_utils import Database
+
+db_path = Path(__file__).parent.parent / "database" / "db_logsv2.db"
+# bdd = Database(db_path=str(db_path))
+db_sqlite = sqlite3.connect(db_path, check_same_thread=False)
+cursor_db = db_sqlite.cursor()
 
 
 class WhisperLiveTranscription:
@@ -107,6 +118,7 @@ class WhisperLiveTranscription:
         récupérée. La méthode `get_transcription` peut ensuite être utilisée
         pour récupérer la dernière transcription.
         """
+
         # Initialisation du témoin d'exécution
         self.is_running = True
 
@@ -242,16 +254,27 @@ class WhisperLiveTranscription:
                 timestamp = datetime.now().strftime("%H:%M:%S")
                 print(f"[{timestamp}] {transcription}")
 
+                # Déterminer l'id du prompt et de la session à utiliser
+                cursor_db.execute(
+                    "SELECT id_prompt, session_id, id_origin FROM prompt ORDER BY id_prompt DESC LIMIT 1"
+                )
+                id_prompt, id_session, id_origin = cursor_db.fetchone()
                 # Déterminer le fichier texte à utiliser
                 files = sorted(glob.glob("transcription*.txt"))
                 filename = files[-1]
+
+                # On ajoute le contenu de la transaction à la table prompt
+                timestamp = datetime.now().strftime("%H:%M:%S")
+                cursor_db.execute(
+                    "UPDATE prompt SET prompt = ? WHERE id_prompt = ? AND session_id = ? AND id_origin = ?",
+                    (transcription, id_prompt, id_session, id_origin),
+                )
 
                 # On ajoute le contenu de la transcription dans le fichier texte,
                 # sauf si elle est composée d'un des éléments de la blacklist
                 with open(filename, "a", encoding="utf-8") as f:
                     if not any(item == transcription for item in self.blacklist):
-                        f.write(f"{transcription}\n")
-
+                        f.write(f"{transcription} - {id_session}\n")
                 # On ajoute le contenu de la transcription dans la file,
                 # sauf si elle est composée d'un des éléments de la blacklist
                 if not any(item == transcription for item in self.blacklist):

@@ -1,7 +1,10 @@
 import os
+import sqlite3
 import sys
 import time
+import uuid
 from datetime import datetime
+from pathlib import Path
 import streamlit as st
 import numpy as np
 from dotenv import load_dotenv
@@ -11,6 +14,15 @@ from langchain_core.prompts import PromptTemplate
 from langchain_core.messages import AIMessage, HumanMessage
 from langchain_chroma import Chroma
 from views.dashboard import track_metrics
+from DB_utils import Database
+
+# Base de données
+db_path = Path(__file__).parent.parent.parent / "database" / "db_logsv2.db"
+# objet DButils pour la base de données
+bdd = Database(db_path=str(db_path))
+# Objet sqlite3 pour la base de données
+db_sqlite = sqlite3.connect(db_path, check_same_thread=False)
+cursor_db = db_sqlite.cursor()
 
 # Ajout du chemin du répertoire parent pour importer les modules
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
@@ -129,6 +141,8 @@ def aide_telephonique_page():
         st.session_state.ai_history = ""
     if "message_count" not in st.session_state:
         st.session_state.message_count = 0
+    if "session_id" not in st.session_state:
+        st.session_state.session_id = str(uuid.uuid4())
 
     # Contrôles d'enregistrement
     col1, col2 = st.columns(2)
@@ -137,6 +151,24 @@ def aide_telephonique_page():
         # Initialisation de l'enregistrement
         st.session_state.recording = True
         st.session_state.history = ChatMessageHistory()
+
+        # Initialisation de la transcription dans la base de données avec Db_utils
+        id_prompt, sucess = bdd.insert(
+            table="prompt",
+            data={
+                "session_id": st.session_state.session_id,
+                "origin": "aide_telephonique",
+                "prompt": "",
+                "response": "",
+            },
+        )
+
+        if sucess:
+            st.session_state.id_prompt = id_prompt
+        else:
+            st.error(
+                f"Erreur lors de l'initialisation de la transcription : {id_prompt}"
+            )
 
         # Création du fichier où les transcriptions seront stockées
         # timestamp YYYYMMDD_HHMM :
