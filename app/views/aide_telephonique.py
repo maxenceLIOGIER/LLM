@@ -10,6 +10,7 @@ from langchain.memory import ChatMessageHistory
 from langchain_core.prompts import PromptTemplate
 from langchain_core.messages import AIMessage, HumanMessage
 from langchain_chroma import Chroma
+from views.dashboard import track_metrics
 
 # Ajout du chemin du répertoire parent pour importer les modules
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
@@ -89,7 +90,11 @@ def summarize_conversation(messages, llm):
         input_variables=["conversation"],
     )
     llm_chain = prompt | llm
+    start_time = time.time()
     summary = llm_chain.invoke({"conversation": conversation})
+    latency = (time.time() - start_time) * 1000  # Convertir en ms
+    token_count = len(summary.split())
+    track_metrics(latency, token_count)
     return summary
 
 

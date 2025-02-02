@@ -47,41 +47,45 @@ def dashboard_page():
     col2.metric("Coût estimé (€)", f"{metrics['cost']} €")
     col3.metric("Impact écologique (gCO2)", f"{metrics['carbon_impact']} g")
 
-    if len(st.session_state.metrics["latency_history"]) > 0:
-        st.subheader("📊 Visualisation des métriques")
+    if st.session_state.metrics["total_queries"] == 0:
+        st.warning("Aucune donnée disponible pour le moment. Posez des questions pour générer des métriques.")
+        return
 
-        col1, col2, col3 = st.columns(3)
+    # if len(st.session_state.metrics["latency_history"]) > 0:
+    st.subheader("📊 Visualisation des métriques")
 
-        with col1:
-            fig1 = px.line(
-                x=list(range(1, len(st.session_state.metrics["latency_history"]) + 1)),
-                y=st.session_state.metrics["latency_history"],
-                labels={"x": "Numéro de la requête", "y": "Latence (ms)"},
-                title="Latence par requête",
-                color_discrete_sequence=["#1f8b4c"],
-            )
-            st.plotly_chart(fig1, use_container_width=True)
+    col1, col2, col3 = st.columns(3)
 
-        with col2:
-            fig2 = px.line(
-                x=list(range(1, len(st.session_state.metrics["cost_history"]) + 1)),
-                y=st.session_state.metrics["cost_history"],
-                labels={"x": "Numéro de la requête", "y": "Coût (€)"},
-                title="Coût cumulé des requêtes",
-                color_discrete_sequence=["#1f8b4c"],
-            )
-            st.plotly_chart(fig2, use_container_width=True)
+    with col1:
+        fig1 = px.line(
+            x=list(range(1, len(st.session_state.metrics["latency_history"]) + 1)),
+            y=st.session_state.metrics["latency_history"],
+            labels={"x": "Numéro de la requête", "y": "Latence (ms)"},
+            title="Latence par requête",
+            color_discrete_sequence=["#1f8b4c"],
+        )
+        st.plotly_chart(fig1, use_container_width=True)
 
-        with col3:
-            labels = ["Coût Total (€)", "Impact Carbone Total (g CO₂)"]
-            values = [
-                sum(st.session_state.metrics["cost_history"]),
-                sum(st.session_state.metrics["carbon_history"]),
-            ]
-            fig3 = px.pie(
-                names=labels,
-                values=values,
-                title="Répartition des dépenses et impact écologique",
-                color_discrete_sequence=["#1f8b4c", "#a3d9a5"],
-            )
-            st.plotly_chart(fig3, use_container_width=True)
+    with col2:
+        fig2 = px.line(
+            x=list(range(1, len(st.session_state.metrics["cost_history"]) + 1)),
+            y=st.session_state.metrics["cost_history"],
+            labels={"x": "Numéro de la requête", "y": "Coût (€)"},
+            title="Coût cumulé des requêtes",
+            color_discrete_sequence=["#1f8b4c"],
+        )
+        st.plotly_chart(fig2, use_container_width=True)
+
+    with col3:
+        labels = ["Coût Total (€)", "Impact Carbone Total (g CO₂)"]
+        values = [
+            sum(st.session_state.metrics["cost_history"]),
+            sum(st.session_state.metrics["carbon_history"]),
+        ]
+        fig3 = px.pie(
+            names=labels,
+            values=values,
+            title="Répartition des dépenses et impact écologique",
+            color_discrete_sequence=["#1f8b4c", "#a3d9a5"],
+        )
+        st.plotly_chart(fig3, use_container_width=True)
