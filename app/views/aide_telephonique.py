@@ -98,10 +98,9 @@ def summarize_conversation(messages, llm):
     llm_chain = prompt | llm
     start_time = time.time()
     summary = llm_chain.invoke({"conversation": conversation})
-    latency = (time.time() - start_time) * 1000  # Convertir en ms
-    token_count = len(summary.split())
-    track_metrics(latency, token_count)
-    return summary
+    latency_summary = (time.time() - start_time) * 1000  # Convertir en ms
+    tokens_summary = len(summary.split())
+    return summary, latency_summary, tokens_summary
 
 
 def aide_telephonique_page():
@@ -117,10 +116,8 @@ def aide_telephonique_page():
     Cela peut être gênant en faussant les résultats du LLM.
     """
 
-    st.title("Aide téléphonique pour les opérateurs du SAMU")
-    st.subheader(
-        "Interrogez l'IA durant votre appel pour obtenir des aides et conseils"
-    )
+    st.title("Requête du modèle")
+    st.subheader("Interrogez le LLM via votre voix ou texte")
 
     # Initialisation de l'état de session
     if "recording" not in st.session_state:
@@ -139,6 +136,14 @@ def aide_telephonique_page():
         st.session_state.message_count = 0
     if "session_id" not in st.session_state:
         st.session_state.session_id = str(uuid.uuid4())
+    if "latency_summary_list" not in st.session_state:
+        st.session_state.latency_summary_list = []
+    if "tokens_summary_list" not in st.session_state:
+        st.session_state.tokens_summary_list = []
+    if "latency_response_list" not in st.session_state:
+        st.session_state.latency_response_list = []
+    if "tokens_response_list" not in st.session_state:
+        st.session_state.tokens_response_list = []
 
     # Contrôles d'enregistrement
     col1, col2 = st.columns(2)
@@ -166,7 +171,10 @@ def aide_telephonique_page():
         st.info("Enregistrement en cours...")
 
         template = """
-            Tu es une IA conçue pour assister les agents des urgences en analysant leurs appels.  
+            Tu es une IA conçue pour assister les agents des urgences en analysant leurs appels.
+
+            **Voici le contexte dont tu auras besoin pour répondre au mieux aux questions:**
+            {context}
             
             **Règles à respecter :**  
             - Tu dois être **empathique, calme, direct et professionnel**.  
@@ -177,22 +185,21 @@ def aide_telephonique_page():
             - **Tes réponses doivent toujours être en français, sauf si l'opérateur parle en anglais.**  
             - **Formule tes réponses sous forme d’instructions précises pour l’opérateur.**  
             - **Tes réponses doivent toujours être en français, correctes grammaticalement et sans faute de syntaxe.**
-            - **Tes réponses ne doivent jamais commencer par "réponse correcte". Réponds directement comme cela t'a été demandé.**
+            - **Tes réponses ne doivent jamais commencer en introduisant la réponse (ex: "réponse :"). Réponds directement comme cela t'a été demandé.**
 
             **Important :** Tu n’as accès **qu'à la voix de l'opérateur**. Tu ne dois pas générer de contenu supplémentaire ni interpréter des éléments que tu ne peux pas entendre.  
 
             ### **Exemple de réponse attendue :**  
             **Opérateur :** "Il y a eu un accident, des blessés peut-être."  
-            **Réponse correcte :** "Demandez à l'appelant combien de blessés il y a."  
+            "Demandez à l'appelant combien de blessés il y a."  
 
             **Opérateur :** "Où est l’accident ?"  
-            **Réponse correcte :** "Demandez une adresse exacte ou un point de repère."  
+            "Demandez une adresse exacte ou un point de repère."  
 
             **Voici la dernière déclaration ou question de l'opérateur :**  
             {text_query}
 
-            **Voici le contexte dont tu auras besoin pour répondre au mieux aux questions:**
-            {context}
+            **Pour rappel** tu dois absolument répondre uniquement en français avec des réponses les plus courtes possibles.
         """
 
         prompt = PromptTemplate(
@@ -233,8 +240,11 @@ def aide_telephonique_page():
                     recent_messages = all_messages[-5:]  # on garde les 5 derniers
 
                     # Résumé de la conversation via le LLM
-                    summary = summarize_conversation(old_messages, llm)
-
+                    summary, latency_summary, tokens_summary = summarize_conversation(
+                        old_messages, llm
+                    )
+                    st.session_state.latency_summary_list.append(latency_summary)
+                    st.session_state.tokens_summary_list.append(tokens_summary)
                     # Mettre à jour l'historique avec le résumé et les messages récents
                     st.session_state.history = ChatMessageHistory()
                     for msg in recent_messages:
@@ -362,6 +372,7 @@ def aide_telephonique_page():
 
                 # Appel du LLM si le test de sécurité est accepté
                 if filtre["status"] == "Accepté" and test_sim_cos:
+                    start_time = time.time()
                     response = llm_chain.invoke(
                         {
                             "text_query": st.session_state.history.messages,
@@ -370,16 +381,15 @@ def aide_telephonique_page():
                             ),
                         }
                     )
+                    latency_response = (time.time() - start_time) * 1000  # ms
+                    tokens_response = len(response.split())
+
+                    st.session_state.latency_response_list.append(latency_response)
+                    st.session_state.tokens_response_list.append(tokens_response)
+
                     st.session_state.history.add_ai_message(response)
                     with st.chat_message("assistant"):
                         st.markdown(response)
-
-                    # Update de la base avec la réponse
-                    cursor_db.execute(
-                        "UPDATE prompt SET response = ? WHERE id_prompt = ?",
-                        (response, st.session_state.id_prompt),
-                    )
-                    db_sqlite.commit()
 
                     # Filtrer les messages pour ne garder que ceux de l'IA
                     ai_messages = [
@@ -413,5 +423,19 @@ def aide_telephonique_page():
             # Résumé de la conversation via le LLM
             st.write("Résumé de la conversation :")
             messages = st.session_state.history.messages
-            summary = summarize_conversation(messages, llm)
+            summary, latency_summary, tokens_summary = summarize_conversation(
+                messages, llm
+            )
+            st.session_state.latency_summary_list.append(latency_summary)
+            st.session_state.tokens_summary_list.append(tokens_summary)
+            total_latency_response = sum(st.session_state.latency_response_list)
+            total_tokens_response = sum(st.session_state.tokens_response_list)
+            total_latency_summary = sum(st.session_state.latency_summary_list)
+            total_tokens_summary = sum(st.session_state.tokens_summary_list)
+
+            track_metrics(
+                total_latency_response + total_latency_summary,
+                total_tokens_response + total_tokens_summary,
+            )
+
             st.write(summary)
