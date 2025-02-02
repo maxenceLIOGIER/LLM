@@ -268,28 +268,76 @@ def aide_telephonique_page():
                 )
 
                 # Update de la base avec les résultats
+
+                # Table origin
+                # vérifier que l'origin n'existe pas déjà
+                cursor_db.execute(
+                    "SELECT id_origin FROM origin WHERE origin = ?", (filtre["origin"],)
+                )
+                resu = cursor_db.fetchone()
+                if resu is None:
+                    id_origin = str(uuid.uuid4())
+                    cursor_db.execute(
+                        """
+                        INSERT INTO origin (id_origin, origin)
+                        VALUES (?, ?)
+                        """,
+                        (id_origin, filtre["origin"]),
+                    )
+                    db_sqlite.commit()
+                else:
+                    id_origin = resu[0]
+
+                # Table Status
+                cursor_db.execute(
+                    "SELECT id_status FROM status WHERE status = ?", (filtre["status"],)
+                )
+                resu = cursor_db.fetchone()
+                if resu is None:
+                    id_status = str(uuid.uuid4())
+                    cursor_db.execute(
+                        """
+                        INSERT INTO status (id_status, status)
+                        VALUES (?, ?)
+                        """,
+                        (id_status, filtre["status"]),
+                    )
+                    db_sqlite.commit()
+                else:
+                    id_status = resu[0]
+
+                # Table Prompt
                 cursor_db.execute(
                     """
-                    UPDATE log
+                    UPDATE prompt
                     SET 
-                        id_status = (
-                            SELECT id_status 
-                            FROM status 
-                            WHERE status = ?
-                        ),
-                        id_origin = (
-                            SELECT id_origin 
-                            FROM origin 
-                            WHERE origin = ?
-                        ),
+                        id_origin = ?,
                         timestamp = ?
                     WHERE id_prompt = ?
                     """,
                     (
-                        filtre["status"],
-                        filtre["origin"],
+                        id_origin,
                         filtre["timestamp"],
                         st.session_state.id_prompt,
+                    ),
+                )
+
+                db_sqlite.commit()
+
+                # Table Log
+                id_log = str(uuid.uuid4())
+                cursor_db.execute(
+                    """
+                    INSERT INTO log
+                    (id_log, timestamp, id_prompt, id_status, origin)
+                    VALUES (?, ?, ?, ?, ?)
+                    """,
+                    (
+                        id_log,
+                        filtre["timestamp"],
+                        st.session_state.id_prompt,
+                        id_status,
+                        id_origin,
                     ),
                 )
 
