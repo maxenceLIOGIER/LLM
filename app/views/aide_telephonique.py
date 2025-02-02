@@ -16,9 +16,13 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
 from src.speech_to_text import WhisperLiveTranscription
 from src.security.security_check import SecurityCheck
 
-
+# Chargement de la clé API Hugging Face
 load_dotenv()
-HF_API_KEY = os.getenv("HF_API_KEY")
+try:
+    HF_API_KEY = st.session_state["HF_API_KEY"]
+except KeyError:
+    HF_API_KEY = os.getenv("HF_API_KEY")
+
 
 # Instanciation du transcripteur
 transcriber = WhisperLiveTranscription(
@@ -224,7 +228,9 @@ def aide_telephonique_page():
 
                 # Check de sécurité, similarité cosine avec les documents de la DB
                 docs_embeddings = get_docs_embeddings()
-                result = security.prompt_check(new_transcription, docs_embeddings["embeddings"])
+                result = security.prompt_check(
+                    new_transcription, docs_embeddings["embeddings"]
+                )
 
                 # Safely extract values from result
                 top_indices = np.array([])
