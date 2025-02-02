@@ -84,7 +84,7 @@ class SecurityReport:
         # Logs récupérés au format DataFrame
         df = pd.read_sql_query(query, conn, params=params)
         conn.close()
-        df = df.dropna()
+
         return df
 
     def _create_pipeline(self):
@@ -111,7 +111,10 @@ class SecurityReport:
         text_features = ["timestamp", "prompt", "response", "origin"]
 
         # Pipeline pour les données textuelles
-        text_pipeline = Pipeline([("tfidf", TfidfVectorizer(max_features=50, stop_words=None, analyzer="word"))])
+        text_pipelines = {
+            feature: Pipeline([("tfidf", TfidfVectorizer(max_features=50, stop_words=None, analyzer="word"))])
+            for feature in text_features
+        }
 
         # Pipeline pour les données catgéorielles
         cat_pipeline = Pipeline(
@@ -121,10 +124,10 @@ class SecurityReport:
         # Combinaison des méthodes
         preprocessor = ColumnTransformer(
             transformers=[
-            ("text", text_pipeline, text_features), 
-            ("cat", cat_pipeline, categorical_features),
-            ],
-            remainder="drop",
+                ("text_" + feature, text_pipelines[feature], feature) 
+                for feature in text_features
+            ] + [("cat", cat_pipeline, categorical_features)],
+            remainder="drop"
         )
 
         # Pipeline principale
