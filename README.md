@@ -1,10 +1,10 @@
 ---
 title: "SmartRescue"
 emoji: "🚑"
-colorFrom: "#ff7f7f"
-colorTo: "#ff4d4d"
+colorFrom: "red"
+colorTo: "blue"
 sdk: "streamlit"
-sdk_version: "1.15"
+sdk_version: "1.41.1"
 app_file: app/app.py
 pinned: false
 ---
