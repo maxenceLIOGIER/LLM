@@ -4,6 +4,7 @@ import sqlite3
 import sys
 import threading
 import time
+import uuid
 from datetime import datetime
 from pathlib import Path
 from typing import Optional, Dict
@@ -255,26 +256,39 @@ class WhisperLiveTranscription:
                 print(f"[{timestamp}] {transcription}")
 
                 # Déterminer l'id du prompt et de la session à utiliser
-                cursor_db.execute(
-                    "SELECT id_prompt, session_id, id_origin FROM prompt ORDER BY id_prompt DESC LIMIT 1"
-                )
-                id_prompt, id_session, id_origin = cursor_db.fetchone()
+                # cursor_db.execute(
+                #     "SELECT session_id, id_origin FROM prompt ORDER BY id_prompt DESC LIMIT 1"
+                # )
+                # id_session, id_origin = cursor_db.fetchone()
+
                 # Déterminer le fichier texte à utiliser
                 files = sorted(glob.glob("transcription*.txt"))
                 filename = files[-1]
 
                 # On ajoute le contenu de la transaction à la table prompt
-                timestamp = datetime.now().strftime("%H:%M:%S")
-                cursor_db.execute(
-                    "UPDATE prompt SET prompt = ? WHERE id_prompt = ? AND session_id = ? AND id_origin = ?",
-                    (transcription, id_prompt, id_session, id_origin),
-                )
+                # timestamp = datetime.now().strftime("%H:%M:%S")
+                # if not any(
+                #     item.lower() == transcription.lower() for item in self.blacklist
+                # ):
+                #     print(f"DB {timestamp}: {transcription}")
+                #     cursor_db.execute(
+                #         "INSERT INTO prompt (id_prompt, session_id, id_origin, prompt, timestamp) VALUES (?, ?, ?, ?, ?)",
+                #         (
+                #             str(uuid.uuid4()),
+                #             id_session,
+                #             id_origin,
+                #             transcription,
+                #             timestamp,
+                #         ),
+                #     )
+                #     db_sqlite.commit()
 
                 # On ajoute le contenu de la transcription dans le fichier texte,
                 # sauf si elle est composée d'un des éléments de la blacklist
                 with open(filename, "a", encoding="utf-8") as f:
                     if not any(item == transcription for item in self.blacklist):
-                        f.write(f"{transcription} - {id_session}\n")
+                        f.write(f"{transcription}\n")
+
                 # On ajoute le contenu de la transcription dans la file,
                 # sauf si elle est composée d'un des éléments de la blacklist
                 if not any(item == transcription for item in self.blacklist):
@@ -357,11 +371,35 @@ class WhisperLiveTranscription:
                 predicted_ids, skip_special_tokens=True
             )[0]
 
+            # Déterminer l'id du prompt et de la session à utiliser
+            # cursor_db.execute(
+            #     "SELECT session_id, id_origin FROM prompt ORDER BY id_prompt DESC LIMIT 1"
+            # )
+            # id_session, id_origin = cursor_db.fetchone()
+
+            # On ajoute le contenu de la transaction à la table prompt
+            # timestamp = datetime.now().strftime("%H:%M:%S")
+            # if not any(
+            #     item.lower() == final_transcription.lower() for item in self.blacklist
+            # ):
+            #     print(f"DB {timestamp}: {final_transcription}")
+            #     cursor_db.execute(
+            #         "INSERT INTO prompt (id_prompt, prompt, session_id, id_origin, timestamp) VALUES (?, ?, ?, ?, ?)",
+            #         (
+            #             str(uuid.uuid4()),
+            #             final_transcription,
+            #             id_session,
+            #             id_origin,
+            #             timestamp,
+            #         ),
+            #     )
+            #     db_sqlite.commit()
+
             # Récupération du dernier fichier texte
             files = sorted(glob.glob("transcription*.txt"))
             filename = files[-1]
 
-            # Ecriture dans le fichier texte
+            # # Ecriture dans le fichier texte
             with open(filename, "a", encoding="utf-8") as f:
                 if not any(item == final_transcription for item in self.blacklist):
                     f.write(f"{final_transcription}\n")
