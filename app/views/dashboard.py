@@ -28,6 +28,16 @@ def track_metrics(latency, token_count):
 
 def get_metrics():
     """Retourne les métriques moyennes"""
+
+    # Initialiser les métriques globales si elles n'existent pas déja
+    if "metrics" not in st.session_state:
+        st.session_state.metrics = {
+            "total_queries": 0,
+            "latency_history": [],
+            "cost_history": [],
+            "carbon_history": [],
+        }
+
     queries = max(
         len(st.session_state.metrics["latency_history"]), 1
     )  # éviter division par zéro
