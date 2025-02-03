@@ -90,7 +90,7 @@ def main():
         selected = option_menu(
             menu_title="Navigation",
             options=["Home", "Aide téléphonique", "Dashboard", "Admin"],
-            icons=["house", "phone", "bar-chart", "shield"],
+            icons=["house", "phone", "bar-chart", "key"],
             default_index=0,
         )
 

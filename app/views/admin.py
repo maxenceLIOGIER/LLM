@@ -9,7 +9,7 @@ from src.security.security_report import SecurityReport
 
 from views.home import arret_enregistrement
 
-db_path = Path(__file__).parent.parent.parent / "database" / "db_logs.db"
+db_path = Path(__file__).parent.parent.parent / "database" / "db_logsv2.db"
 
 query = """
 SELECT
