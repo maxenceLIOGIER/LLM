@@ -18,7 +18,7 @@ SELECT
     prompt.prompt,
     prompt.response,
     status.status,
-    origin.response AS origin
+    origin.origin AS origin
 FROM log
 LEFT JOIN prompt ON log.id_prompt = prompt.id_prompt
 LEFT JOIN status ON log.id_status = status.id_status
@@ -109,7 +109,7 @@ def adm_page():
                 prompt.prompt,
                 prompt.response,
                 status.status,
-                origin.response AS origin
+                origin.origin AS origin
             FROM log
             LEFT JOIN prompt ON log.id_prompt = prompt.id_prompt
             LEFT JOIN status ON log.id_status = status.id_status

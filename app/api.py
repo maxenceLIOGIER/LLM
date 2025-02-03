@@ -8,7 +8,7 @@ from fastapi import FastAPI, Query
 from fastapi.responses import RedirectResponse
 
 # Chemin de la base de données
-dbpath = Path(__file__).parent.parent / "database" / "db_logs.db"
+dbpath = Path(__file__).parent.parent / "database" / "db_logsv2.db"
 
 # instanciation de l'API FastAPI
 api = FastAPI(
@@ -30,7 +30,7 @@ async def root():
 # ne spécifie pas de date de début ou de fin
 base_query = """
     SELECT log.id_log, log.timestamp, prompt.prompt, prompt.response,
-    status.status, origin.response AS origin
+    status.status, origin.origin AS origin
     FROM log
     LEFT JOIN prompt ON log.id_prompt = prompt.id_prompt
     LEFT JOIN status ON log.id_status = status.id_status
