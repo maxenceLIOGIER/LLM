@@ -61,7 +61,7 @@ class SecurityCheck:
             return None
 
     def filter_and_check_security(
-        self, prompt: str, seuil_fuzzy: int = 80, check_char: bool = True
+        self, prompt: str, seuil_fuzzy: int = 100, check_char: bool = True
     ) -> dict:
         """
         Filtre et normalise les entrées utilisateur.
