@@ -31,7 +31,7 @@ SmartRescue est une application conçue pour assister les opérateurs d'urgence 
 
 2. Creez un environnement virtuel via conda par exemple:
     ```bash
-    conda create env myenv python=3.11
+    conda create env myenv python=3.9
     conda activate myenv
     ```
 
